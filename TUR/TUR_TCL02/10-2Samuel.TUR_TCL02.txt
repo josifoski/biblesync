@@ -1,0 +1,734 @@
+{i1:1} Davut Saul'un Ölüm Haberini Duyuyor
+{1:1} Saul'un ölümünden sonra Amalekliler'e karşı kazandığı zaferden dönen Davut Ziklak'ta iki gün kaldı.
+{1:2} Üçüncü gün, Saul'un ordugahından giysileri yırtılmış, başı toz toprak içinde bir adam geldi. Adam Davut'a yaklaşınca önünde yere kapandı.
+{1:3} Davut, “Nereden geliyorsun?” diye sordu. Adam, “İsrail ordugahından kaçıp kurtuldum” dedi.
+{1:4} Davut, “Ne oldu? Bana anlat” dedi. Adam askerlerin savaş alanından kaçtığını, birçoğunun düşüp öldüğünü, Saul'la oğlu Yonatan'ın da ölüler arasında olduğunu anlattı.
+{1:5} Davut, kendisine haberi veren genç adama, “Saul'la oğlu Yonatan'ın öldüğünü nereden biliyorsun?” diye sordu.
+{1:6} Genç adam şöyle yanıtladı: “Bir rastlantı sonucu Gilboa Dağı'ndaydım. Saul mızrağına dayanmıştı. Atlılarla savaş arabaları ona doğru yaklaşıyordu.
+{1:7} Saul arkasına dönüp beni görünce seslendi. Ben de, ‘Buyrun, buradayım’ dedim.
+{1:8} “Saul, ‘Sen kimsin?’ diye sordu. “‘Ben bir Amalekli'yim’ diye yanıtladım.
+{1:9} “Saul, ‘Ne olur üstüme var ve beni öldür!’ dedi, ‘Çünkü çektiğim acılardan kurtulmak istiyorum.’
+{1:10} Bu yüzden varıp onu öldürdüm. Çünkü yere düştükten sonra yaşayamayacağını biliyordum. Başındaki taçla kolundaki bileziği aldım ve onları buraya, efendime getirdim.”
+{1:11} Bunun üzerine Davut'la yanındakiler giysilerini yırttılar.
+{1:12} Kılıçtan geçirilen Saul, oğlu Yonatan ve RAB'bin halkı olan İsrailliler için akşama dek yas tutup ağladılar, oruç tuttular.
+{1:13} Davut, kendisine haber getiren genç adama, “Nerelisin?” diye sordu. Adam, “Ben yabancıyım, bir Amalekli'nin oğluyum” dedi.
+{1:14} Davut, “RAB'bin meshettiği kişiye el kaldırıp onu yok etmekten korkmadın mı?” diye sordu.
+{1:15} Sonra adamlarından birini çağırıp, “Git, öldür onu!” diye buyurdu. Böylece adam Amalekli'yi vurup öldürdü.
+{1:16} Davut Amalekli'ye, “Kanından sen kendin sorumlusun” demişti, “Çünkü ‘RAB'bin meshettiği kişiyi ben öldürdüm’ demekle kendine karşı ağzınla tanıklıkta bulundun.”
+{i1:17} Davut'un Saul ve Yonatan için Yaktığı Ağıt
+{1:17} Davut Saul'la oğlu Yonatan için ağıt yaktı.
+{1:18} Sonra Yaşar Kitabı'nda yazılan Yay adındaki ağıtın Yahuda halkına öğretilmesini buyurdu:
+{1:19} “Ey İsrail, senin yüceliğin yüksek tepelerinde yok oldu! Güçlüler nasıl da yere serildi!
+{1:20} Haberi ne Gat'a duyurun, Ne de Aşkelon sokaklarında yayın. Öyle ki, ne Filistliler'in kızları sevinsin, Ne de sünnetsizlerin kızları coşsun.
+{1:21} Ey Gilboa dağları, Üzerinize ne çiy ne de yağmur düşsün. Ürün veren tarlalarınız olmasın. Çünkü güçlünün kalkanı, Bir daha yağ sürülmeyecek olan Saul'un kalkanı Orada bir yana atıldı!
+{1:22} Yonatan'ın yayı yere serilmişlerin kanından, Yiğitlerin bedenlerinden hiç geri çekilmedi. Saul'un kılıcı hiç boşa savrulmadı.
+{1:23} Saul'la Yonatan tatlı ve sevimliydiler, Yaşamda da ölümde de ayrılmadılar. Kartallardan daha çevik, Aslanlardan daha güçlüydüler.
+{1:24} Ey İsrail kızları! Sizi al renkli, süslü giysilerle donatan, Giysinizi altın süslerle bezeyen Saul için ağlayın!
+{1:25} Güçlüler nasıl da yere serildi savaşta! Yonatan senin yüksek tepelerinde ölü yatıyor.
+{1:26} Senin için üzgünüm, kardeşim Yonatan. Benim için çok değerliydin. Sevgin kadın sevgisinden daha üstündü.
+{1:27} Güçlüler nasıl da yere serildi! Savaş silahları yok oldu!”
+{i2:1} Davut'un Yahuda Kralı Oluşu
+{2:1} Bundan sonra Davut RAB'be, “Yahuda kentlerinden birine gideyim mi?” diye sordu. RAB, “Git” dedi. Davut, “Nereye gideyim?” diye sorunca, RAB, “Hevron'a” diye karşılık verdi.
+{2:2} Bunun üzerine Davut, iki eşiyle –Yizreelli Ahinoam ve Karmelli Naval'ın dulu Avigayil'le– birlikte oraya gitti.
+{2:3} Aileleriyle birlikte adamlarını da götürdü. Hevron'a bağlı kentlere yerleştiler.
+{2:4} Yahudalılar Hevron'a giderek orada Davut'u Yahuda Kralı olarak meshettiler. Saul'u gömenlerin Yaveş-Gilatlılar olduğu Davut'a bildirildi.
+{2:5} Davut onlara ulaklar göndererek şöyle dedi: “Efendiniz Saul'u gömmekle ona yaptığınız iyilikten dolayı RAB sizi kutsasın.
+{2:6} RAB şimdi size bağlılıkla, iyilikle davransın. Bunu yaptığınız için ben de size aynı şekilde iyilik yapacağım.
+{2:7} Şimdi güçlü ve yürekli olun, çünkü efendiniz Saul öldü. Yahuda halkı beni kralları olarak meshetti.”
+{i2:8} İsrail'le Yahuda Arasındaki Savaş
+{2:8} Saul'un ordu komutanı Ner oğlu Avner, Saul oğlu İş-Boşet'i yanına alıp Mahanayim'e götürmüştü.
+{2:9} Avner onu orada Gilat, Aşurlular, Yizreel, Efrayim, Benyamin ve bütün İsrail'in kralı yaptı.
+{2:10} Saul oğlu İş-Boşet kırk yaşında kral oldu ve İsrail'de iki yıl krallık yaptı. Ancak Yahuda halkı Davut'u destekledi.
+{2:11} Davut Hevron'da Yahuda halkına yedi yıl altı ay krallık yaptı.
+{2:12} Ner oğlu Avner, Saul oğlu İş-Boşet'in adamlarıyla birlikte Mahanayim'den Givon'a gitti.
+{2:13} Seruya oğlu Yoav'la Davut'un adamları varıp Givon Havuzu'nun yanında onları karşıladılar. Taraflardan biri havuzun bir yanına, öteki öbür yanına oturdu.
+{2:14} Avner Yoav'a, “Ne olur gençler kalkıp önümüzde dövüşsünler” dedi. Yoav, “Olur, kalkıp dövüşsünler” diye karşılık verdi.
+{2:15} Böylece Benyamin oymağından Saul oğlu İş-Boşet'ten yana olanlardan on iki kişiyle Davut'un adamlarından on iki kişi kalkıp ileri atıldı.
+{2:16} Her biri karşıtının başından tuttuğu gibi kılıcını böğrüne sapladı; birlikte yere serildiler. Bu yüzden Givon'daki o yere Helkat-Hassurim adı verildi.
+{2:17} O gün savaş çok çetin oldu. Davut'un adamları Avner'le İsrailliler'i yenilgiye uğrattılar.
+{2:18} Seruya'nın üç oğlu –Yoav, Avişay ve Asahel– de oradaydılar. Bir kır ceylanı kadar hızlı koşan Asahel
+{2:19} sağa sola sapmadan Avner'i kovaladı.
+{2:20} Avner arkasına bakınca, “Asahel sen misin?” diye sordu. Asahel, “Evet, benim” diye karşılık verdi.
+{2:21} Avner, “Sağa ya da sola dön. Gençlerden birini yakala ve kendin için silahlarını al” dedi. Ama Asahel Avner'i kovalamaktan vazgeçmek istemedi.
+{2:22} Avner Asahel'i bir daha uyardı: “Beni kovalamaktan vazgeç! Neden seni yere sereyim? Sonra kardeşin Yoav'ın yüzüne nasıl bakarım?”
+{2:23} Asahel peşini bırakmayı reddedince Avner mızrağının arka ucuyla onu karnından vurdu. Mızrak Asahel'in sırtından çıktı. Asahel orada düşüp öldü. Asahel'in düşüp öldüğü yere varanların tümü orada durup beklediler.
+{2:24} Ama Yoav'la Avişay Avner'i kovalamayı sürdürdüler. Güneş batarken Givon kırsal bölgesine giden yolun üzerindeki Giah'a bakan Amma Tepesi'ne vardılar.
+{2:25} Benyaminliler Avner'in çevresinde toplanarak bir birlik oluşturdular. Bir tepenin başında durup beklediler.
+{2:26} Avner Yoav'a, “Kılıç sonsuza dek mi insanları yok etsin?” diye seslendi, “Bu olayın acıyla sona ereceğini anlamıyor musun? Kardeşlerini kovalamaktan vazgeçmeleri için askerlere ne zaman buyruk vereceksin?”
+{2:27} Yoav şöyle karşılık verdi: “Yaşayan Tanrı'nın adıyla derim ki, seslenmeseydin askerler sabaha dek kardeşlerini kovalamaktan vazgeçmeyecekti.”
+{2:28} Sonra Yoav boru çaldı. Herkes durdu. Bundan böyle İsrail halkını ne kovaladılar, ne de onlarla savaştılar.
+{2:29} Avner'le adamları bütün gece Arava Vadisi'nde yürüdüler. Şeria Irmağı'nı geçerek Bitron yolundan Mahanayim'e vardılar.
+{2:30} Yoav Avner'i kovalamaktan döndükten sonra orduyu topladı. Asahel'den başka, Davut'un adamlarından on dokuz kişi eksikti.
+{2:31} Oysa Davut'un adamları Avner'i destekleyen Benyaminliler'i bozguna uğratıp üç yüz altmış kişiyi öldürmüşlerdi.
+{2:32} Yoav'la adamları Asahel'i götürüp Beytlehem'de babasının mezarına gömdüler. Sonra bütün gece yürüyerek gün doğumunda Hevron'a vardılar.
+{3:1} Saul'un soyuyla Davut'un soyu arasındaki savaş uzun sürdü. Davut giderek güçlenirken, Saul'un soyu gitgide zayıf düşüyordu.
+{i3:2} Davut'un Hevron'da Doğan Çocukları (1Ta.3:1-4)
+{3:2} Davut'un Hevron'da doğan oğulları şunlardı: İlk oğlu Yizreelli Ahinoam'dan Amnon,
+{3:3} ikincisi Karmelli Naval'ın dulu Avigayil'den Kilav, üçüncüsü Geşur Kralı Talmay'ın kızı Maaka'dan Avşalom,
+{3:4} dördüncüsü Hagit'ten Adoniya, beşincisi Avital'ın oğlu Şefatya,
+{3:5} altıncısı Davut'un eşi Egla'dan Yitream. Davut'un bu oğullarının hepsi Hevron'da doğdular.
+{i3:6} Avner Davut'a Katılıyor
+{3:6} Saul'un soyuyla Davut'un soyu arasındaki savaş sürerken, Avner Saul'un soyu arasında güçleniyordu.
+{3:7} Saul'un Aya kızı Rispa adında bir cariyesi vardı. Bir gün İş-Boşet Avner'e, “Neden babamın cariyesiyle yattın?” diye sordu.
+{3:8} İş-Boşet'in sorusuna çok öfkelenen Avner şu karşılığı verdi: “Ben Yahuda tarafına geçen bir köpek başı mıyım? Bugün bile baban Saul'un ailesine, kardeşlerine, dostlarına bağlıyım. Seni Davut'un eline teslim etmedim. Ama bugün bu kadın yüzünden beni suçluyorsun.
+{3:9} RAB krallığı Saul'un soyundan alıp Dan'dan Beer-Şeva'ya kadar uzanan İsrail ve Yahuda'da Davut'un krallığını kuracağına
+{3:10} ant içti. Ben de bunu Davut için yapmazsam Tanrı bana aynısını, hatta daha kötüsünü yapsın!”
+{3:11} İş-Boşet Avner'den korktuğu için ona başka bir şey söyleyemedi.
+{3:12} Avner kendi adına Davut'a ulaklar gönderip şöyle dedi: “Ülke kimin ülkesi? Benimle bir antlaşma yap; o zaman İsrail'in tümünün sana bağlanması için ben de senden yana olurum.”
+{3:13} Davut, “İyi” diye yanıtladı, “Seninle bir antlaşma yaparım. Yalnız senden şunu istiyorum: Beni görmeye geldiğinde Saul'un kızı Mikal'ı da getir. Yoksa beni görmeyeceksin.”
+{3:14} Öte yandan Davut Saul oğlu İş-Boşet'e de ulaklar aracılığıyla şu haberi gönderdi: “Yüz Filistli'nin sünnet derisi karşılığında nişanlandığım karım Mikal'ı bana ver.”
+{3:15} Bunun üzerine İş-Boşet, kadının kocası Layiş oğlu Paltiel'den alınıp getirilmesi için adamlar gönderdi.
+{3:16} Kocası kadını ağlaya ağlaya Bahurim'e kadar izledi; sonra Avner ona, “Geri dön” deyince döndü.
+{3:17} Avner İsrail'in ileri gelenleriyle görüşüp onlara şöyle demişti: “Siz bir süredir Davut'un kralınız olmasını istiyorsunuz.
+{3:18} Şimdi bunu gerçekleştirin! Çünkü RAB, Davut hakkında, ‘Halkım İsrail'i kulum Davut aracılığıyla Filistliler'in ve bütün düşmanlarının elinden kurtaracağım’ demişti.”
+{3:19} Avner Benyaminliler'le de görüştü, İsrail'in ve bütün Benyamin halkının uygun gördüğü her şeyi Davut'a bildirmek üzere Hevron'a gitti.
+{3:20} Avner yirmi kişiyle birlikte Hevron'a, Davut'un yanına vardı. Davut Avner'le yanındakilere bir şölen verdi.
+{3:21} Avner Davut'a, “Hemen gidip bütün İsrail halkını efendim kralın yanına toplayayım” dedi, “Öyle ki, seninle bir antlaşma yapsınlar. Sen de dilediğin her yeri yönetebilesin.” Bunun üzerine Davut Avner'i yoluna gönderdi. O da esenlikle gitti.
+{i3:22} Yoav Avner'i Öldürüyor
+{3:22} Tam o sırada Davut'un adamlarıyla Yoav, bir baskından dönmüş, yanlarında birçok yağmalanmış mal getirmişlerdi. Ama Avner Hevron'da Davut'un yanında değildi. Çünkü Davut onu göndermiş, o da esenlikle gitmişti.
+{3:23} Yoav'la yanındaki bütün askerler Hevron'a vardığında, Ner oğlu Avner'in krala geldiğini, kralın onu gönderdiğini, onun da esenlikle gittiğini Yoav'a bildirdiler.
+{3:24} Yoav krala gidip, “Ne yaptın?” dedi, “Baksana Avner ayağına kadar gelmiş! Neden onu salıverdin? Çoktan gitmiş!
+{3:25} Ner oğlu Avner'i tanırsın; seni kandırmak, nereye gidip geldiğini, neler yaptığını öğrenmek için gelmiştir.”
+{3:26} Davut'un yanından çıkan Yoav, Avner'in arkasından ulaklar gönderdi. Ulaklar Avner'i Sira Sarnıcı'ndan geri getirdiler. Davut ise bundan habersizdi.
+{3:27} Avner Hevron'a dönünce, Yoav onunla özel bir görüşme yapmak bahanesiyle, onu kent kapısına çekti. Kardeşi Asahel'in kanını döktüğü için, Avner'i orada karnından vurup öldürdü.
+{3:28} Davut bu haberi işitince şöyle dedi: “RAB'bin önünde ben de, krallığım da Ner oğlu Avner'in kanından sonsuza dek suçsuzuz.
+{3:29} Bu suçun sorumlusu Yoav'la babasının bütün soyu olsun. Yoav'ın soyundan irinli, deri hastalığına yakalanmış, koltuk değneğine dayanan, kılıçla öldürülen, açlık çeken kişiler hiç eksik olmasın!”
+{3:30} Böylece Yoav'la kardeşi Avişay, Givon'daki savaşta kardeşleri Asahel'i öldüren Avner'i öldürdüler.
+{3:31} Sonra Davut Yoav'la yanındakilere şu buyruğu verdi: “Giysilerinizi yırtıp çula sarının ve Avner'in ölüsü önünde yas tutun!” Kral Davut da cenazenin ardısıra yürüdü.
+{3:32} Avner'i Hevron'da gömdüler. Kral, Avner'in mezarı başında hıçkıra hıçkıra ağladı. Oradaki herkes de ağladı.
+{3:33} Sonra kral, Avner için şu ağıtı yaktı: “Avner, bir budala gibi mi ölmeliydi?
+{3:34} Ellerin bağlı değildi, ayaklarına zincir vurulmamıştı. Ama sen kötülerin önünde düşen biri gibi düştün!” Herkes Avner için yine ağladı.
+{3:35} Halk Davut'un yanına varıp akşam olmadan bir şeyler yemesi için üstelediyse de, Davut ant içerek şöyle dedi: “Güneş batmadan ekmek ya da başka herhangi bir şey tatmayacağım. Yoksa Tanrı bana aynısını, hatta daha kötüsünü yapsın!”
+{3:36} Herkes bunu benimsedi ve kralın yaptığı her şeyden hoşnut oldukları gibi, bundan da hoşnut oldular.
+{3:37} Ner oğlu Avner'in öldürülmesinde kralın parmağı olmadığını o gün bütün İsrail halkı anladı.
+{3:38} Kral adamlarına, “Bugün İsrail'de bir önderin, büyük bir adamın öldüğünü bilmiyor musunuz?” dedi,
+{3:39} “Meshedilmiş* bir kral olduğum halde bugün güçsüzüm. Seruya'nın oğulları benden daha zorlu. RAB kötülük edene yaptığı kötülüğe göre karşılık versin!”
+{i4:1} İş-Boşet'in Öldürülmesi
+{4:1} Avner'in Hevron'da öldürüldüğünü duyan Saul oğlu İş-Boşet korkuya kapıldı. Bütün İsrail halkı da dehşet içindeydi.
+{4:2} Saul oğlu İş-Boşet'in iki akıncı önderi vardı; bunlar Benyamin oymağından Beerotlu Rimmon'un oğullarıydı. Birinin adı Baana, öbürününki Rekav'dı. –Beerot Benyamin oymağından sayılırdı.
+{4:3} Beerotlular Gittayim'e kaçmışlardı. Yabancı olan bu halk bugün de orada gurbette yaşıyor.–
+{4:4} Saul oğlu Yonatan'ın Mefiboşet adında bir oğlu vardı; iki ayağı da topaldı. Saul'la Yonatan'ın ölüm haberi Yizreel'den ulaştığında, Mefiboşet beş yaşındaydı. Dadısı onu alıp kaçmıştı. Ne var ki, aceleyle kaçmaya çalışırken çocuk düşüp sakatlanmıştı.
+{4:5} Beerotlu Rimmon'un oğulları Rekav'la Baana yola koyuldular. Öğle sıcağında İş-Boşet'in evine vardıklarında İş-Boşet uzanmış dinlenmekteydi.
+{4:6} Buğday alacakmış gibi yaparak eve girdiler. O sırada İş-Boşet yatak odasında yatağında uzanıyordu. Adamlar İş-Boşet'in karnını
+{4:7} deşip öldürdüler. Başını gövdesinden ayırıp yanlarına aldılar. Rekav'la kardeşi Baana kaçıp bütün gece Arava yolundan ilerlediler.
+{4:8} İş-Boşet'in başını Hevron'da Kral Davut'a getirip, “İşte seni öldürmek isteyen düşmanın Saul'un oğlu İş-Boşet'in başı!” dediler, “RAB bugün Saul'dan ve onun soyundan efendimiz kralın öcünü aldı.”
+{4:9} Ama Davut Beerotlu Rimmon'un oğulları Rekav'la kardeşi Baana'ya şöyle karşılık verdi: “Beni her türlü sıkıntıdan kurtaran yaşayan RAB adıyla derim ki,
+{4:10} iyi haber getirdiğini sanarak bana Saul'un öldüğünü bildiren adamı yakalayıp Ziklak'ta yaşamına son verdim. Getirdiği iyi haber için verdiğim ödül buydu!
+{4:11} Doğru birini evinde, yatağında öldüren kötü kişilerin ölümü çok daha kesindir! Şimdi sizi yeryüzünden yok ederek onun öcünü sizden almayacak mıyım?”
+{4:12} Sonra adamlarına buyruk verdi. İki kardeşi öldürüp ellerini, ayaklarını kestiler ve Hevron'daki havuzun yanına astılar. İş-Boşet'in başını ise götürüp Hevron'da Avner'in mezarına gömdüler.
+{i5:1} Davut İsrail Kralı Oluyor (1Ta.11:1-9)
+{5:1} İsrail'in bütün oymakları Hevron'da bulunan Davut'a gelip şöyle dediler: “Biz senin etin, kemiğiniz.
+{5:2} Geçmişte Saul kralımızken, savaşta İsrail'e komuta eden sendin. RAB sana, ‘Halkım İsrail'i sen güdecek, onlara sen önder olacaksın’ diye söz verdi.”
+{5:3} İsrail'in bütün ileri gelenleri Hevron'a, Kral Davut'un yanına gelince, kral RAB'bin önünde orada onlarla bir antlaşma yaptı. Onlar da Davut'u İsrail Kralı olarak meshettiler.
+{5:4} Davut otuz yaşında kral oldu ve kırk yıl krallık yaptı.
+{5:5} Hevron'da yedi yıl altı ay Yahuda'ya, Yeruşalim'de otuz üç yıl bütün İsrail'e ve Yahuda'ya krallık yaptı.
+{5:6} Kral Davut'la adamları Yeruşalim'de yaşayan Yevuslular'a saldırmak için yola çıktılar. Yevuslular Davut'a, “Sen buraya giremezsin, körlerle topallar bile seni geri püskürtebilir” dediler. “Davut buraya giremez” diye düşünüyorlardı.
+{5:7} Ne var ki, Davut Siyon Kalesi'ni ele geçirdi. Daha sonra bu kaleye “Davut Kenti” adı verildi.
+{5:8} Davut o gün adamlarına şöyle demişti: “Yevuslular'ı kim yenilgiye uğratırsa Davut'un nefret ettiği şu ‘Topallarla körlere’ su kanalından ulaşmalı!” “Körlerle topallar saraya giremeyecek” denmesinin nedeni işte budur.
+{5:9} Bundan sonra Davut “Davut Kenti” adını verdiği kalede oturmaya başladı. Çevredeki bölgeyi, Millo'dan* içeriye doğru uzanan bölümü inşa etti.
+{5:10} Davut giderek güçleniyordu. Çünkü Her Şeye Egemen Tanrı RAB onunlaydı.
+{5:11} Sur Kralı Hiram Davut'a ulaklar, sedir kütükleri, marangozlar ve taşçılar gönderdi. Bu adamlar Davut için bir saray yaptılar.
+{5:12} Böylece Davut RAB'bin kendisini İsrail Kralı atadığını ve halkı İsrail'in hatırı için krallığını yücelttiğini anladı.
+{5:13} Davut Hevron'dan ayrıldıktan sonra Yeruşalim'de kendine daha birçok cariye ve karı aldı. Davut'un erkek ve kız çocukları oldu.
+{5:14} Davut'un Yeruşalim'de doğan çocuklarının adları şunlardı: Şammua, Şovav, Natan, Süleyman,
+{5:15} Yivhar, Elişua, Nefek, Yafia,
+{5:16} Elişama, Elyada ve Elifelet.
+{i5:17} Filistliler Yenilgiye Uğruyor (1Ta.14:8-17)
+{5:17} Filistliler Davut'un İsrail Kralı olarak meshedildiğini duyunca, bütün Filist ordusu onu aramak için yola çıktı. Bunu duyan Davut kaleye sığındı.
+{5:18} Filistliler gelip Refaim Vadisi'ne yayılmışlardı.
+{5:19} Davut RAB'be danıştı: “Filistliler'e saldırayım mı? Onları elime teslim edecek misin?” RAB Davut'a, “Saldır” dedi, “Onları kesinlikle eline teslim edeceğim.”
+{5:20} Bunun üzerine Davut Baal-Perasim'e gidip orada Filistliler'i bozguna uğrattı. Sonra, “Her şeyi yarıp geçen sular gibi, RAB düşmanlarımı önümden yarıp geçti” dedi. Bundan ötürü oraya Baal-Perasim adı verildi.
+{5:21} Davut'la adamları, Filistliler'in orada bıraktığı putları alıp götürdüler.
+{5:22} Filistliler bir kez daha gelip Refaim Vadisi'ne yayıldılar.
+{5:23} Davut RAB'be danıştı. RAB şöyle karşılık verdi: “Buradan saldırma! Onları arkadan çevirip pelesenk ağaçlarının önünden saldır.
+{5:24} Pelesenk ağaçlarının tepesinden yürüyüş sesi duyar duymaz, acele et. Çünkü ben Filist ordusunu bozguna uğratmak için önünsıra gitmişim demektir.”
+{5:25} Davut RAB'bin kendisine buyurduğu gibi yaptı ve Filistliler'i Geva'dan Gezer'e kadar bozguna uğrattı.
+{i6:1} Antlaşma Sandığı'nın Yeruşalim'e Getirilişi (1Ta.13:1-14; 15:25-16:3,43)
+{6:1} Davut İsrail'deki bütün seçme adamları topladı. Sayıları otuz bin kişiydi.
+{6:2} Böylece Davut'la ordusu, sandığın üzerindeki Keruvlar arasında taht kuran Her Şeye Egemen RAB'bin adıyla anılan Tanrı'nın Sandığı'nı getirmek için Baale-Yahuda'ya gittiler.
+{6:3} Tanrı'nın Sandığı'nı Avinadav'ın tepedeki evinden alıp yeni bir arabaya koydular. Tanrı'nın Sandığı'nı
+{6:4} taşıyan yeni arabayı Avinadav'ın oğulları Uzza'yla Ahyo sürüyordu. Ahyo sandığın önünden yürüyordu.
+{6:5} Bu arada Davut'la bütün İsrail halkı da RAB'bin önünde lir, çenk, tef, çıngırak ve ziller eşliğinde ezgiler okuyarak var güçleriyle bu olayı kutluyorlardı.
+{6:6} Nakon'un harman yerine vardıklarında öküzler tökezledi. Bu nedenle Uzza elini uzatıp Tanrı'nın Sandığı'nı tuttu.
+{6:7} RAB Tanrı saygısızca davranan Uzza'ya öfkelenerek onu orada yere çaldı. Uzza Tanrı'nın Sandığı'nın yanında öldü.
+{6:8} Davut, RAB'bin Uzza'yı cezalandırmasına öfkelendi. O günden bu yana oraya Peres-Uzza denilir.
+{6:9} Davut o gün RAB'den korkarak, “RAB'bin Sandığı nasıl olur da bana gelir?” diye düşündü.
+{6:10} RAB'bin Sandığı'nı Davut Kenti'ne götürmek istemedi. Bunun yerine sandığı Gatlı Ovet-Edom'un evine götürdü.
+{6:11} RAB'bin Sandığı Gatlı Ovet-Edom'un evinde üç ay kaldı. RAB Ovet-Edom'u ve bütün ailesini kutsadı.
+{6:12} “Tanrı'nın Sandığı'ndan ötürü RAB Ovet-Edom'un ailesini ve ona ait her şeyi kutsadı” diye Kral Davut'a bildirildi. Böylece Davut gidip Tanrı'nın Sandığı'nı Ovet-Edom'un evinden Davut Kenti'ne sevinçle getirdi.
+{6:13} RAB'bin Sandığı'nı taşıyanlar altı adım atınca, Davut bir boğayla besili bir dana kurban etti.
+{6:14} Keten efod kuşanmış Davut, RAB'bin önünde var gücüyle oynuyordu.
+{6:15} Davut'la bütün İsrail halkı, sevinç naraları ve boru sesi eşliğinde RAB'bin Sandığı'nı getiriyorlardı.
+{6:16} RAB'bin Sandığı Davut Kenti'ne varınca, Saul'un kızı Mikal pencereden baktı. RAB'bin önünde oynayıp zıplayan Kral Davut'u görünce, onu küçümsedi.
+{6:17} RAB'bin Sandığı'nı getirip Davut'un bu amaçla kurduğu çadırın içindeki yerine koydular. Davut RAB'be yakmalık sunular ve esenlik sunuları sundu.
+{6:18} Yakmalık sunuları ve esenlik sunularını sunmayı bitirince, Her Şeye Egemen RAB'bin adıyla halkı kutsadı.
+{6:19} Ardından kadın erkek herkese, bütün İsrail topluluğuna birer somun ekmekle birer hurma ve üzüm pestili dağıttı. Sonra herkes evine döndü.
+{6:20} Davut ailesini kutsamak için eve döndüğünde, Saul'un kızı Mikal onu karşılamaya çıktı. Davut'a şöyle dedi: “İsrail Kralı bugün ne güzel bir ün kazandırdı kendine! Değersiz biri gibi, kullarının cariyeleri önünde soyundun.”
+{6:21} Davut, “Baban ve bütün soyu yerine beni seçen ve halkı İsrail'e önder atayan RAB'bin önünde oynadım!” diye karşılık verdi, “Evet, RAB'bin önünde oynayacağım.
+{6:22} Üstelik kendimi bundan daha da küçük düşüreceğim, hiçe sayacağım. Ama sözünü ettiğin o cariyeler beni onurlandıracaklar.”
+{6:23} Saul'un kızı Mikal'ın ölene dek çocuğu olmadı.
+{i7:1} Tanrı'nın Davut'a Verdiği Söz (1Ta.17:1-15)
+{7:1} Kral sarayına yerleşmişti. RAB de onu çevresindeki bütün düşmanlarından koruyarak rahata kavuşturdu.
+{7:2} O sırada kral, Peygamber Natan'a, “Bak, ben sedir ağacından yapılmış bir sarayda oturuyorum. Oysa Tanrı'nın Sandığı bir çadırda duruyor!” dedi.
+{7:3} Natan, “Git, tasarladığın her şeyi yap, çünkü RAB seninledir” diye karşılık verdi.
+{7:4} O gece RAB Natan'a şöyle seslendi:
+{7:5} “Git, kulum Davut'a şöyle de: ‘RAB diyor ki, oturmam için bana sen mi tapınak yapacaksın?
+{7:6} İsrail halkını Mısır'dan çıkardığım günden bu yana konutta oturmadım. Bir çadırda orada burada konaklayarak dolaşıyordum.
+{7:7} İsrailliler'le birlikte dolaştığım yerlerin herhangi birinde, halkım İsrail'i gütmesini buyurduğum İsrail önderlerinden birine, neden bana sedir ağacından bir konut yapmadınız diye hiç sordum mu?’
+{7:8} “Şimdi kulum Davut'a şöyle diyeceksin: ‘Her Şeye Egemen RAB diyor ki, halkım İsrail'e önder olasın diye seni otlaklardan ve koyun gütmekten aldım.
+{7:9} Her nereye gittiysen seninleydim. Önünden bütün düşmanlarını yok ettim. Adını dünyadaki büyük adamların adı gibi büyük kılacağım.
+{7:10} Halkım İsrail için bir yurt sağlayıp onları oraya yerleştireceğim. Bundan böyle kendi yurtlarında otursunlar, bir daha rahatsız edilmesinler. Kötü kişiler de halkım İsrail'e hâkimler
+{7:11} atadığım günden bu yana yaptıkları gibi, bir daha onlara baskı yapmasınlar. Seni bütün düşmanlarından kurtarıp rahata kavuşturacağım. “‘RAB senin için bir soy yetiştireceğini belirtiyor:
+{7:12} Sen ölüp atalarına kavuşunca, senden sonra soyundan birini ortaya çıkarıp krallığını pekiştireceğim.
+{7:13} Adıma bir tapınak kuracak olan odur. Ben de onun krallığının tahtını sonsuza dek sürdüreceğim.
+{7:14} Ben ona baba olacağım, o da bana oğul olacak. Kötülük yapınca, onu insanların değneğiyle, insanların vuruşlarıyla yola getireceğim.
+{7:15} Ama senin önünden kaldırdığım Saul'dan esirgediğim sevgiyi hiçbir zaman esirgemeyeceğim.
+{7:16} Soyun ve krallığın sonsuza dek önümde duracak; tahtın sonsuza dek sürecektir.’”
+{7:17} Böylece Natan bütün bu sözleri ve görümleri Davut'a aktardı.
+{i7:18} Davut'un Duası (1Ta.17:16-27)
+{7:18} Bunun üzerine Kral Davut gelip RAB'bin önünde oturdu ve şöyle dedi: “Ey Egemen RAB, ben kimim, ailem nedir ki, beni bu duruma getirdin?
+{7:19} Ey Egemen RAB, sanki bu yetmezmiş gibi, kulunun soyunun geleceği hakkında da söz verdin. Ey Egemen RAB, insanlarla hep böyle mi ilgilenirsin?
+{7:20} Ben sana başka ne diyebilirim ki! Çünkü, ey Egemen RAB, kulunu tanıyorsun.
+{7:21} Sözünün hatırı için ve isteğin uyarınca bu büyüklüğü gösterdin ve kuluna bildirdin.
+{7:22} “Yücesin, ey Egemen RAB! Bir benzerin yok, senden başka Tanrı da yok! Bunu kendi kulaklarımızla duyduk.
+{7:23} Halkın İsrail'e benzer tek bir ulus yok dünyada. Kendi halkın olsun diye onları kurtarmaya gittin. Çünkü onlar için de, ülken için de büyük ve görkemli işler yapmakla ün saldın. Mısır'dan kendin için kurtardığın halkın önünden ulusları ve tanrılarını kovdun.
+{7:24} Halkın İsrail'i sonsuza dek kendi halkın olarak benimsedin ve sen de, ya RAB, onların Tanrısı oldun.
+{7:25} “Şimdi, ya RAB Tanrı, kuluna ve onun soyuna ilişkin verdiğin sözü sonsuza dek tut, sözünü yerine getir.
+{7:26} Öyle ki, insanlar, ‘Her Şeye Egemen RAB İsrail'in Tanrısı'dır!’ diyerek adını sonsuza dek yüceltsinler ve kulun Davut'un soyu da önünde sürsün.
+{7:27} “Ey Her Şeye Egemen RAB, İsrail'in Tanrısı! ‘Senin için bir soy çıkaracağım’ diye kuluna açıkladın. Bundan dolayı kulun sana bu duayı etme yürekliliğini buldu.
+{7:28} Ey Egemen RAB, sen Tanrı'sın! Sözlerin gerçektir ve kuluna bu iyilikleri söz verdin.
+{7:29} Şimdi önünde sonsuza dek sürmesi için kulunun soyunu kutsamanı diliyorum. Çünkü, ey Egemen RAB, sen böyle söz verdin ve kulunun soyu kutsamanla sonsuza dek kutlu kılınacak.”
+{i8:1} Davut'un Başarıları (1Ta.18:1-13)
+{8:1} Bir süre sonra Davut Filistliler'i yenip boyunduruğu altına aldı ve Meteg-Amma'yı Filistliler'in yönetiminden çıkardı.
+{8:2} Moavlılar'ı da bozguna uğrattı. Onları yere yatırıp iple ölçtü. Ölçtüğü iki sırayı öldürdü, bir bütün sırayı sağ bıraktı. Moavlılar Davut'un haraç ödeyen köleleri oldular.
+{8:3} Davut Fırat'a kadar krallığını yeniden kurmaya giden Sova Kralı Rehov oğlu Hadadezer'i de yendi.
+{8:4} Bin yedi yüz atlısıyla yirmi bin yaya askerini ele geçirdi. Yüz savaş arabası için gereken atların dışındaki bütün atları da sakatladı.
+{8:5} Sova Kralı Hadadezer'e yardıma gelen Şam Aramlıları'ndan yirmi iki bin kişiyi öldürdü.
+{8:6} Sonra Şam Aramlıları'nın ülkesine askeri birlikler yerleştirdi. Onlar da Davut'un haraç ödeyen köleleri oldular. RAB Davut'u gittiği her yerde zafere ulaştırdı.
+{8:7} Davut Hadadezer'in komutanlarının taşıdığı altın kalkanları alıp Yeruşalim'e götürdü.
+{8:8} Ayrıca Hadadezer'in yönetimindeki Betah ve Berotay kentlerinden bol miktarda tunç aldı.
+{8:9} Hama Kralı Toi, Davut'un Hadadezer'in bütün ordusunu bozguna uğrattığını duydu.
+{8:10} Toi Kral Davut'u selamlamak ve Hadadezer'le savaşıp yendiği için onu kutlamak üzere oğlu Yoram'ı ona gönderdi. Çünkü Toi Hadadezer'le sürekli savaşmıştı. Yoram Davut'a altın, gümüş, tunç armağanlar getirdi.
+{8:11} Kral Davut bu armağanları yendiği bütün uluslardan –Aram, Moav, Ammonlular, Filistliler ve Amalekliler'den– ele geçirdiği altın ve
+{8:12} gümüşle birlikte RAB'be adadı. Bunun yanısıra Sova Kralı Rehov oğlu Hadadezer'den yağmalanan altınla gümüşü de RAB'be adadı.
+{8:13} Davut Tuz Vadisi'nde on sekiz bin Edomlu öldürüp dönünce üne kavuştu.
+{8:14} Edom'un her yanına askeri birlikler yerleştirdi. Edomlular'ın tümü Davut'un köleleri oldular. RAB Davut'u gittiği her yerde zafere ulaştırdı.
+{i8:15} Davut'un Görevlileri (1Ta.18:14-17)
+{8:15} Bütün İsrail'de krallık yapan Davut halkına doğruluk ve adalet sağladı.
+{8:16} Seruya oğlu Yoav ordu komutanı, Ahilut oğlu Yehoşafat devlet tarihçisiydi.
+{8:17} Ahituv oğlu Sadok'la Aviyatar oğlu Ahimelek kâhin, Seraya yazmandı.
+{8:18} Yehoyada oğlu Benaya Keretliler'le Peletliler'in* komutanıydı. Davut'un oğullarıysa kâhindi.
+{i9:1} Davut'un Mefiboşet'e Yaptığı İyilik
+{9:1} Davut, “Saul'un ailesinden daha sağ kalan, Yonatan'ın hatırı için iyilik edebileceğim kimse var mı?” diye sordu.
+{9:2} Saul'un ailesinin Siva adında bir hizmetkârı vardı. Onu Davut'un yanına çağırdılar. Kral, “Siva sen misin?” diye sordu. Siva, “Evet, ben kulunum” diye yanıtladı.
+{9:3} Kral, “Saul'un ailesinden sağ kalan kimse yok mu?” diye sordu, “Tanrı'nın iyiliğini ona göstereyim.” Siva, “Yonatan'ın iki ayağı sakat bir oğlu var” diye yanıtladı.
+{9:4} Kral, “Nerede o?” diye sordu. Siva, “Ammiel oğlu Makir'in Lo-Devar'daki evinde” diye karşılık verdi.
+{9:5} Böylece Kral Davut, Lo-Devar'dan Ammiel oğlu Makir'in evinden onu yanına getirtti.
+{9:6} Saul oğlu Yonatan oğlu Mefiboşet, Davut'un yanına gelince, onun önünde yere kapandı. Davut, “Mefiboşet!” diye seslendi. Mefiboşet, “Evet, ben kulunum” diye yanıtladı.
+{9:7} Davut ona, “Korkma!” dedi, “Çünkü baban Yonatan'ın hatırı için, sana kesinlikle iyilik edeceğim. Atan Saul'un bütün toprağını sana geri vereceğim. Ve sen her zaman soframda yemek yiyeceksin.”
+{9:8} Mefiboşet yere kapanıp şöyle dedi: “Kulun ne ki, benim gibi ölmüş bir köpekle ilgileniyorsun?”
+{9:9} Kral Davut, Saul'un hizmetkârı Siva'yı çağırtıp, “Önceden efendin Saul ile ailesine ait her şeyi torunu Mefiboşet'e verdim” dedi,
+{9:10} “Sen, oğulların ve kölelerin onun için toprağı işleyip ürünü getireceksiniz. Öyle ki, efendinizin torununun yiyecek gereksinimi sağlansın. Efendinin torunu Mefiboşet her zaman benim soframda yemek yiyecektir.” Siva'nın on beş oğlu ve yirmi kölesi vardı.
+{9:11} Siva, “Efendim kralın buyurduğu her şeyi yapacağım” dedi. Mefiboşet kralın çocuklarından biri gibi onun sofrasında yemek yedi.
+{9:12} Mefiboşet'in Mika adında küçük bir oğlu vardı. Siva'ya bağlı herkes Mefiboşet'e hizmet ediyordu.
+{9:13} İki ayağı sakat Mefiboşet hep kralın sofrasında yemek yediğinden Yeruşalim'de oturuyordu.
+{i10:1} Davut Ammonlular'la Aramlılar'ı Yenilgiye Uğratıyor (1Ta.19:1-19)
+{10:1} Bir süre sonra Ammon Kralı öldü, yerine oğlu Hanun kral oldu.
+{10:2} Davut, “Babası bana iyilik ettiği gibi ben de Nahaş oğlu Hanun'a iyilik edeceğim” diye düşünerek, babasının ölümünden dolayı baş sağlığı dilemek için Hanun'a görevliler gönderdi. Davut'un görevlileri Ammonlular'ın ülkesine varınca,
+{10:3} Ammon önderleri, efendileri Hanun'a şöyle dediler: “Davut sana bu adamları gönderdi diye babana saygı duyduğunu mu sanıyorsun? Davut, kenti araştırmak, casusluk etmek, yıkmak için adamlarını sana gönderdi.”
+{10:4} Bunun üzerine Hanun Davut'un görevlilerini yakalattı. Sakallarının yarısını tıraş edip giysilerinin kalçayı kapatan kesimini ortadan kesti ve onları öylece gönderdi.
+{10:5} Davut bunu duyunca, onları karşılamak üzere adamlar gönderdi. Çünkü görevliler çok utanıyorlardı. Kral, “Sakalınız uzayıncaya dek Eriha'da kalın, sonra dönün” diye buyruk verdi.
+{10:6} Ammonlular, Davut'un nefretini kazandıklarını anlayınca, haber gönderip Beytrehov ve Sova'dan yirmi bin Aramlı yaya asker, Maaka Kralı'yla bin adamını ve Tov halkından on iki bin adamı kiraladılar.
+{10:7} Davut bunu duyunca, Yoav'ı ve güçlü adamlardan oluşan bütün ordusunu onlara karşı gönderdi.
+{10:8} Ammonlular çıkıp kent kapısında savaş düzeni aldılar. Aramlı Sova'yla Rehov, Tov halkı ve Maaka'nın adamları da kırda savaş düzenine girdiler.
+{10:9} Önde, arkada düşman birliklerini gören Yoav, İsrail'in iyi askerlerinden bazılarını seçerek Aramlılar'a karşı yerleştirdi.
+{10:10} Geri kalan birlikleri de kardeşi Avişay'ın komutasına vererek Ammonlular'a karşı yerleştirdi.
+{10:11} Yoav, “Aramlılar benden güçlü çıkarsa, yardımıma gelirsin” dedi, “Ama Ammonlular senden güçlü çıkarsa, ben sana yardıma gelirim.
+{10:12} Güçlü ol! Halkımızın ve Tanrımız'ın kentleri uğruna yürekli olalım! RAB gözünde iyi olanı yapsın.”
+{10:13} Yoav'la yanındakiler Aramlılar'a karşı savaşmak için ileri atılınca, Aramlılar onlardan kaçtı.
+{10:14} Onların kaçıştığını gören Ammonlular da Avişay'dan kaçarak kente girdiler. Bunun üzerine Yoav Ammonlular'la savaşmaktan vazgeçerek Yeruşalim'e gitti.
+{10:15} İsrailliler'in önünde bozguna uğradıklarını gören Aramlılar bir araya geldiler.
+{10:16} Hadadezer, haber gönderip Fırat Irmağı'nın karşı yakasındaki Aramlılar'ı çağırttı. Aramlılar Hadadezer'in ordu komutanı Şovak'ın komutasında Helam'a gittiler.
+{10:17} Davut bunu duyunca, bütün İsrail ordusunu topladı. Şeria Irmağı'nı geçerek Helam'a vardılar. Aramlılar Davut'a karşı düzen alarak onunla savaştılar.
+{10:18} Ne var ki, Aramlılar İsrailliler'in önünden kaçtılar. Davut onlardan yedi yüz savaş arabası sürücüsü ile kırk bin atlı asker öldürdü. Hadadezer'in ordu komutanı Şovak'ı da vurdu. Şovak savaş alanında öldü.
+{10:19} Hadadezer'in buyruğundaki kralların hepsi bozguna uğradıklarını görünce, İsrailliler'le barış yaparak onlara boyun eğdiler. Aramlılar bundan böyle Ammonlular'a yardım etmekten kaçındılar.
+{i11:1} Davut'la Bat-Şeva
+{11:1} İlkbaharda, kralların savaşa gittiği dönemde, Davut kendi subaylarıyla birlikte Yoav'ı ve bütün İsrail ordusunu savaşa gönderdi. Onlar Ammonlular'ı yenilgiye uğratıp Rabba Kenti'ni kuşatırken, Davut Yeruşalim'de kalıyordu.
+{11:2} Bir akşamüstü Davut yatağından kalktı, sarayın damına çıkıp gezinmeye başladı. Damdan yıkanan bir kadın gördü. Kadın çok güzeldi.
+{11:3} Davut onun kim olduğunu öğrenmek için birini gönderdi. Adam, “Kadın Eliam'ın kızı Hititli Uriya'nın karısı Bat-Şeva'dır” dedi.
+{11:4} Davut kadını getirmeleri için ulaklar gönderdi. Kadın Davut'un yanına geldi. Davut aybaşı kirliliğinden yeni arınmış olan kadınla yattı. Sonra kadın evine döndü.
+{11:5} Gebe kalan kadın Davut'a, “Gebe kaldım” diye haber gönderdi.
+{11:6} Bunun üzerine Davut Hititli Uriya'yı kendisine göndermesi için Yoav'a haber yolladı. Yoav da Uriya'yı Davut'a gönderdi.
+{11:7} Uriya yanına varınca, Davut Yoav'ın, ordunun ve savaşın durumunu sordu.
+{11:8} Sonra Uriya'ya, “Evine git, rahatına bak” dedi. Uriya saraydan çıkınca, kral ardından bir armağan gönderdi.
+{11:9} Ne var ki, Uriya evine gitmedi, efendisinin bütün adamlarıyla birlikte sarayın kapısında uyudu.
+{11:10} Davut Uriya'nın evine gitmediğini öğrenince, ona, “Yolculuktan geldin. Neden evine gitmedin?” diye sordu.
+{11:11} Uriya, “Sandık da, İsrailliler'le Yahudalılar da çardaklarda kalıyor” diye karşılık verdi, “Komutanım Yoav'la efendimin adamları kırlarda konaklıyor. Bu durumda nasıl olur da ben yiyip içmek, karımla yatmak için evime giderim? Yaşamın hakkı için, böyle bir şeyi kesinlikle yapmayacağım.”
+{11:12} Bunun üzerine Davut, “Bugün de burada kal, yarın seni göndereceğim” dedi. Uriya o gün de, ertesi gün de Yeruşalim'de kaldı.
+{11:13} Davut Uriya'yı çağırdı. Onu sarhoş edene dek yedirip içirdi. Akşam olunca Uriya efendisinin adamlarıyla birlikte uyumak üzere yattığı yere gitti. Yine evine gitmedi.
+{11:14} Sabahleyin Davut Yoav'a bir mektup yazıp Uriya aracılığıyla gönderdi.
+{11:15} Mektupta şöyle yazdı: “Uriya'yı savaşın en şiddetli olduğu cepheye yerleştir ve yanından çekil ki, vurulup ölsün.”
+{11:16} Böylece Yoav kenti kuşatırken Uriya'yı yiğit adamların bulunduğunu bildiği yere yerleştirdi.
+{11:17} Kent halkı çıkıp Yoav'ın askerleriyle savaştı. Davut'un askerlerinden ölenler oldu. Hititli Uriya da ölenler arasındaydı.
+{11:18} Yoav savaşla ilgili ayrıntılı haberleri Davut'a iletmek üzere bir ulak gönderdi.
+{11:19} Ulağı şöyle uyardı: “Sen savaşla ilgili ayrıntılı haberleri krala iletmeyi bitirdikten sonra,
+{11:20} kral öfkelenip sana şunu sorabilir: ‘Onlarla savaşmak için kente neden o kadar çok yaklaştınız? Surdan ok atacaklarını bilmiyor muydunuz?
+{11:21} Yerubbeşet oğlu Avimelek'i kim öldürdü? Teves'te surun üstünden bir kadın üzerine bir değirmen üst taşını atıp onu öldürmedi mi? Öyleyse niçin sura o kadar çok yaklaştınız?’ O zaman, ‘Kulun Hititli Uriya da öldü’ dersin.”
+{11:22} Ulak yola koyuldu. Davut'un yanına varınca, Yoav'ın kendisine söylediklerinin tümünü ona iletti.
+{11:23} “Adamlar bizden üstün çıktılar” dedi, “Kentten çıkıp bizimle kırda savaştılar. Ama onları kent kapısına kadar geri püskürttük.
+{11:24} Bunun üzerine okçular adamlarına surdan ok attılar. Kralın adamlarından bazıları öldü; kulun Hititli Uriya da öldü.”
+{11:25} Davut ulağa şöyle dedi: “Yoav'a de ki, ‘Bu olay seni üzmesin! Savaşta kimin öleceği belli olmaz. Kente karşı saldırınızı güçlendirin ve kenti yerle bir edin!’ Bu sözlerle onu yüreklendir.”
+{11:26} Uriya'nın karısı, kocasının öldüğünü duyunca, onun için yas tuttu.
+{11:27} Yas süresi geçince, Davut onu sarayına getirtti. Kadın Davut'un karısı oldu ve ona bir oğul doğurdu. Ancak, Davut'un bu yaptığı RAB'bin hoşuna gitmedi.
+{i12:1} Natan Davut'u Paylıyor
+{12:1} RAB Natan'ı Davut'a gönderdi. Natan Davut'un yanına gelince ona, “Bir kentte biri zengin, öbürü yoksul iki adam vardı” dedi,
+{12:2} “Zengin adamın birçok koyunu, sığırı vardı.
+{12:3} Ama yoksul adamın satın alıp beslediği küçük bir dişi kuzudan başka bir hayvanı yoktu. Kuzu adamın yanında, çocuklarıyla birlikte büyüdü. Adamın yemeğinden yer, tasından içer, koynunda uyurdu. Yoksulun kızı gibiydi.
+{12:4} Derken, zengin adama bir yolcu uğradı. Adam gelen konuğa yemek hazırlamak için kendi koyunlarından, sığırlarından birini almaya kıyamadığından yoksulun kuzusunu alıp yolcuya yemek hazırladı.”
+{12:5} Zengin adama çok öfkelenen Davut Natan'a, “Yaşayan RAB'bin adıyla derim ki, bunu yapan ölümü hak etmiştir!” dedi,
+{12:6} “Bunu yaptığı ve acımadığı için kuzuya karşılık dört katını ödemeli.”
+{12:7} Bunun üzerine Natan Davut'a, “O adam sensin!” dedi, “İsrail'in Tanrısı RAB diyor ki, ‘Ben seni İsrail'e kral olarak meshettim ve Saul'un elinden kurtardım.
+{12:8} Sana efendinin evini verdim, karılarını da koynuna verdim. İsrail ve Yahuda halkını da sana verdim. Bu az gelseydi, sana daha neler neler verirdim!
+{12:9} Öyleyse neden RAB'bin gözünde kötü olanı yaparak, O'nun sözünü küçümsedin? Hititli Uriya'yı kılıçla öldürdün, Ammonlular'ın kılıcıyla canına kıydın. Karısını da kendine eş olarak aldın.
+{12:10} Bundan böyle, kılıç senin soyundan sonsuza dek eksik olmayacak. Çünkü beni küçümsedin ve Hititli Uriya'nın karısını kendine eş olarak aldın.’
+{12:11} “RAB şöyle diyor: ‘Sana kendi soyundan kötülük getireceğim. Senin gözünün önünde karılarını alıp bir yakınına vereceğim; güpegündüz karılarının koynuna girecek.
+{12:12} Evet, sen o işi gizlice yaptın, ama ben bunu bütün İsrail halkının gözü önünde güpegündüz yapacağım!’”
+{12:13} Davut, “RAB'be karşı günah işledim” dedi. Natan, “RAB günahını bağışladı, ölmeyeceksin” diye karşılık verdi,
+{12:14} “Ama sen bunu yapmakla, RAB'bin düşmanlarının O'nu küçümsemesine neden oldun. Bu yüzden doğan çocuğun kesinlikle ölecek.”
+{12:15} Bundan sonra Natan evine döndü. RAB Uriya'nın karısının Davut'tan doğan çocuğunun hastalanmasına neden oldu.
+{12:16} Davut çocuk için Tanrı'ya yalvarıp oruç tuttu; evine gidip gecelerini yerde yatarak geçirdi.
+{12:17} Sarayın ileri gelenleri onu yerden kaldırmaya geldiler. Ama Davut kalkmak istemedi, onlarla yemek de yemedi.
+{12:18} Yedinci gün çocuk öldü. Davut'un görevlileri çocuğun öldüğünü Davut'a bildirmekten çekindiler. Çünkü, “Çocuk daha yaşarken onunla konuştuk ama bizi dinlemedi” diyorlardı, “Şimdi çocuğun öldüğünü ona nasıl söyleriz? Kendisine zarar verebilir!”
+{12:19} Davut görevlilerinin fısıldaştığını görünce, çocuğun öldüğünü anladı. Onlara, “Çocuk öldü mü?” diye sordu. “Evet, öldü” dediler.
+{12:20} Bunun üzerine Davut yerden kalktı. Yıkandı, güzel kokular sürünüp giysilerini değiştirdi. RAB'bin Tapınağı'na gidip tapındı. Sonra evine döndü ve yemek istedi. Önüne konan yemeği yedi.
+{12:21} Hizmetkârları, “Neden böyle davranıyorsun?” diye sordular, “Çocuk yaşarken oruç tuttun, ağladın; ama ölünce kalkıp yemek yemeye başladın.”
+{12:22} Davut şöyle yanıtladı: “Çocuk yaşarken oruç tutup ağladım. Çünkü, ‘Kim bilir, RAB bana lütfeder de çocuk yaşar’ diye düşünüyordum.
+{12:23} Ama çocuk öldü. Artık neden oruç tutayım? Onu geri getirebilir miyim ki? Ben onun yanına gideceğim, ama o bana geri dönmeyecek.”
+{12:24} Davut karısı Bat-Şeva'yı avuttu. Yanına girip onunla yattı. Bat-Şeva bir oğul doğurdu. Çocuğun adını Süleyman
+{12:25} koydu. Çocuğu seven RAB Peygamber Natan aracılığıyla haber gönderdi ve hatırı için çocuğun adını Yedidyah koydu.
+{12:26} Bu sırada Ammonlular'ın Rabba Kenti'ne karşı savaşı sürdüren Yoav, saray semtini ele geçirdi.
+{12:27} Sonra Davut'a ulaklar göndererek, “Rabba Kenti'ne karşı savaşıp su kaynaklarını ele geçirdim” dedi,
+{12:28} “Şimdi sen ordunun geri kalanlarını topla, kenti kuşatıp ele geçir; öyle ki, kenti ben ele geçirmeyeyim ve kent adımla anılmasın.”
+{12:29} Davut bütün askerlerini toplayıp Rabba Kenti'ne gitti, kente karşı savaşıp ele geçirdi.
+{12:30} Ammon Kralı'nın başındaki tacı aldı. Değerli taşlarla süslü, ağırlığı bir talant altını bulan tacı Davut'un başına koydular. Davut kentten çok miktarda mal yağmalayıp götürdü.
+{12:31} Orada yaşayan halkı dışarı çıkarıp testereyle, demir kazma ve baltayla yapılan işlerde, tuğla yapımında çalıştırdı. Davut bunu bütün Ammon kentlerinde uyguladı. Sonra bütün ordusuyla birlikte Yeruşalim'e döndü.
+{i13:1} Amnon'la Tamar
+{13:1} Davut'un oğlu Avşalom'un Tamar adında güzel bir kızkardeşi vardı. Davut'un başka bir oğlu, Amnon Tamar'a gönül verdi.
+{13:2} Amnon üvey kızkardeşi Tamar yüzünden yatağa düşecek kadar üzüntüye kapıldı. Çünkü Tamar erden bir kızdı ve Amnon ona bir şey yapmayı olanaksız görüyordu.
+{13:3} Amnon'un Davut'un kardeşi Şima'nın oğlu Yonadav adında çok akıllı bir arkadaşı vardı.
+{13:4} Yonadav Amnon'a, “Ey kral oğlu, neden böyle her sabah üzgün görünüyorsun?” diye sordu, “Bana anlatamaz mısın?” Amnon, “Üvey kardeşim Avşalom'un kızkardeşi Tamar'a gönül verdim” diye yanıtladı.
+{13:5} Yonadav, “Yatağa yat ve hastaymış gibi yap” dedi, “Baban seni görmeye gelince ona şöyle dersin: ‘Lütfen kızkardeşim Tamar gelip bana yiyecek versin. Yemeği önümde hazırlasın ki, ona bakayım, elinden yiyeyim.’”
+{13:6} Böylece Amnon yatağa yatıp hastaymış gibi yaptı. Kral onu görmeye gelince, Amnon, “Lütfen kızkardeşim Tamar gelip önümde iki gözleme hazırlasın da elinden yiyeyim” dedi.
+{13:7} Davut, sarayda yaşayan Tamar'a, “Haydi kardeşin Amnon'un evine gidip ona yiyecek hazırla” diye haber gönderdi.
+{13:8} Tamar yatmakta olan kardeşi Amnon'un evine gitti. Hamur alıp yoğurdu, önünde gözleme yapıp pişirdi.
+{13:9} Tavayı alıp gözlemeyi önüne koyduysa da Amnon yemek istemedi. “Yanımdan herkesi çıkarın” diye buyruk verdi. Herkes çıktı.
+{13:10} Sonra Amnon Tamar'a, “Yemeği yatak odama getir de, elinden yiyeyim” dedi. Tamar hazırladığı gözlemeleri kardeşi Amnon'un yatak odasına götürdü.
+{13:11} Yesin diye yemeği ona yaklaştırınca, Amnon Tamar'ı yakalayarak, “Gel, benimle yat, kızkardeşim” dedi.
+{13:12} Ama Tamar, “Hayır, kardeşim, beni zorlama!” dedi, “İsrail'de böyle şey yapılmamalıdır! Bu iğrençliği yapma!
+{13:13} Sonra ben utancımı nasıl üstümden atarım? Sense İsrail'de alçak biri durumuna düşersin. Ne olur krala söyle; o beni senden esirgemez.”
+{13:14} Ne var ki, Amnon Tamar'ı dinlemek istemedi. Daha güçlü olduğu için onunla zorla yattı.
+{13:15} Bundan sonra Amnon Tamar'dan öylesine nefret etti ki, ona duyduğu nefret, beslemiş olduğu sevgiden daha güçlüydü. Amnon Tamar'a, “Kalk, git!” dedi.
+{13:16} Tamar, “Hayır” dedi, “Çünkü beni kovman, bana yaptığın öbür kötülükten daha büyük bir kötülüktür.” Ama Amnon onu dinlemek istemedi.
+{13:17} Hizmetindeki uşağı çağırıp, “Bu kadını yanımdan dışarı çıkar, ardından da kapıyı sürgüle” dedi.
+{13:18} Uşak Tamar'ı dışarı çıkarıp ardından kapıyı sürgüledi. Tamar uzun kollu bir giysi giymişti. Kralın erden kızları böyle giyinirlerdi.
+{13:19} Tamar başına kül saçıp sırtındaki uzun kollu giysiyi yırttı. Elini başına koyup ağlaya ağlaya gitti.
+{13:20} Kardeşi Avşalom ona, “Seninle birlikte olan kardeşin Amnon muydu?” diye sordu, “Haydi, kızkardeşim, sesini çıkarma. O senin üvey kardeşindir. Bu olayın üzerinde durma.” Böylece Tamar, kardeşi Avşalom'un evinde yalnız ve üzgün yaşadı.
+{13:21} Kral Davut olup bitenleri duyunca çok öfkelendi.
+{13:22} Avşalom ise Amnon'a iyi kötü hiçbir şey söylemedi. Kızkardeşi Tamar'a tecavüz ettiği için Amnon'dan nefret ediyordu.
+{i13:23} Avşalom Amnon'u Öldürüyor
+{13:23} Tam iki yıl sonra, Avşalom kralın bütün oğullarını kendi koyun kırkıcılarının bulunduğu Efrayim Kenti yakınındaki Baal-Hasor'a çağırdı.
+{13:24} Avşalom krala gelip, “Koyunlarımı kırktırıyorum” dedi, “Lütfen kral ve görevlileri de kuluna katılsın.”
+{13:25} Kral Davut, “Hayır, oğlum, hepimiz gelmeyelim, sana yük oluruz” diye yanıtladı. Avşalom üstelediyse de kral gitmek istemedi, ama onu kutsadı.
+{13:26} Bunun üzerine Avşalom, “Öyleyse izin ver de kardeşim Amnon bizimle gelsin” dedi. Kral, “Amnon neden seninle gelsin?” diye sordu.
+{13:27} Ancak Avşalom üsteleyince, kral Amnon'u ve bütün öbür oğullarını onunla gönderdi.
+{13:28} Avşalom hizmetkârlarına şöyle buyurdu: “Dinleyin! Amnon'un şaraptan iyice keyiflendiği anı bekleyin. Size ‘Amnon'u vurun’ dediğim an onu öldürün. Korkmayın! Size buyruğu ben veriyorum. Güçlü ve yürekli olun!”
+{13:29} Hizmetkârlar Avşalom'un buyruğuna uyarak Amnon'u öldürdüler. Kralın öbür oğulları katırlarına atlayıp kaçtılar.
+{13:30} Onlar yoldayken, Avşalom'un kralın bütün oğullarını öldürdüğü, hiçbirinin sağ kalmadığı söylentisi Davut'a ulaştı.
+{13:31} Kral kalkıp giysilerini yırttı, yere kapandı. Bütün görevlileri de, giysileri yırtılmış, yanıbaşındaydılar.
+{13:32} Davut'un kardeşi Şima'nın oğlu Yonadav şöyle dedi: “Efendim kral bütün oğullarının öldürüldüğünü sanmasın; yalnız Amnon öldü. Çünkü o üvey kızkardeşi Tamar'a tecavüz ettiği günden bu yana, Avşalom buna kararlıydı.
+{13:33} Onun için, ey efendim kral, bütün oğullarının öldüğü haberini dikkate alma; çünkü yalnız Amnon öldü.”
+{13:34} Bu arada Avşalom kaçtı. Nöbetçi tepenin yamacındaki batı yolundan büyük bir kalabalığın geldiğini gördü.
+{13:35} Yonadav krala, “İşte oğulların geliyor! Kulunun dediği gibi oldu” dedi.
+{13:36} O konuşmasını bitirir bitirmez, kralın oğulları oraya varıp hıçkıra hıçkıra ağlamaya başladılar. Kral ve görevlileri de acı acı ağladılar.
+{13:37} Avşalom Geşur Kralı Ammihut oğlu Talmay'ın yanına kaçtı. Davut ise oğlu Amnon için sürekli yas tutuyordu.
+{13:38} Geşur'a kaçan Avşalom orada üç yıl kaldı.
+{13:39} Kral Davut Avşalom'un yanına gitmeyi çok istiyordu. Çünkü Amnon'un ölümü konusunda avuntu bulmuştu.
+{i14:1} Avşalom Yeruşalim'e Dönüyor
+{14:1} Kral Davut'un Avşalom'u özlediğini anlayan Seruya oğlu Yoav, birini gönderip Tekoa'da yaşayan bilge bir kadını getirtti. Yoav kadına,
+{14:2} “Lütfen yasa bürün” dedi, “Yas giysilerini giy. Yağ sürme ve ölü için günlerdir yas tutan bir kadın gibi davran.
+{14:3} Krala git ve ona söyleyeceklerimi ilet.” Sonra kadına neler söyleyeceğini bildirdi.
+{14:4} Tekoalı kadın krala gitti. Önünde yüzüstü yere kapanarak, “Ey kral, yardım et!” dedi.
+{14:5} Kral, “Neyin var?” diye sordu. Kadın, “Ben zavallı dul bir kadınım” diye yanıtladı, “Kocam öldü.
+{14:6} Ben kölenin iki oğlu vardı. İkisi tarlada kavgaya tutuştular. Orada onları ayıracak kimse yoktu. Biri öbürünü vurup öldürdü.
+{14:7} Şimdi bütün boy halkı cariyene karşı çıkıp, ‘Kardeşini öldüreni bize teslim et’ diyor, ‘Öldürdüğü kardeşinin canına karşılık onu öldürelim. Böylece mirasçıyı da ortadan kaldırmış oluruz.’ İşte geri kalan közümü de söndürecekler; yeryüzünde kocamın adını sürdürecek soy kalmayacak.”
+{14:8} Kral, “Evine dön, ben davanla ilgili buyruk vereceğim” dedi.
+{14:9} Tekoalı kadın, “Efendim kral, bu olayın suçlusu ben ve babamın ev halkı olsun” dedi, “Kral ve tahtı suçsuz olsun.”
+{14:10} Kral, “Kim sana bir şey derse, onu bana getir” dedi, “Bir daha canını sıkmaz.”
+{14:11} Kadın, “Öyleyse kral Tanrısı RAB'bin adına ant içsin de kanın öcünü alacak kişi yıkımı büyütmesin” diye karşılık verdi, “Yoksa oğlumu yok edecekler.” Kral, “Yaşayan RAB'bin adıyla derim ki, oğlunun saçının bir teline bile zarar gelmeyecektir” dedi.
+{14:12} Kadın, “İzin ver de, efendim krala bir söz daha söyleyeyim” dedi. Kral, “Söyle” dedi.
+{14:13} Kadın konuşmasını şöyle sürdürdü: “Neden Tanrı'nın halkına karşı böyle bir şey tasarladın? Kral böyle konuşmakla sanki kendini suçlu çıkarıyor. Çünkü sürgüne gönderdiği kişiyi geri getirmedi.
+{14:14} Hepimizin öleceği kesin, toprağa dökülüp yeniden toplanamayan su gibiyiz. Ama Tanrı can almaz; sürgüne gönderilen kişi kendisinden uzak kalmasın diye çözüm yolları düşünür.
+{14:15} “Halk beni korkuttuğu için efendim krala bunları söylemeye geldim. ‘Kralla konuşayım, belki kölesinin dileğini yerine getirir’ diye düşündüm,
+{14:16} ‘Belki kral oğlumla beni öldürüp Tanrı'nın halkından yoksun bırakmak isteyenin elinden kurtarmayı kabul eder.’
+{14:17} Efendim kralın sözü beni rahatlatsın dedim. Çünkü efendim kral iyiyi, kötüyü ayırt etmekte Tanrı'nın meleği gibidir. Tanrın RAB seninle olsun!”
+{14:18} Kral, “Sana bir soru soracağım, benden gerçeği saklama” dedi. Kadın, “Efendim kral, buyur” diye karşılık verdi.
+{14:19} Kral, “Bütün bunları seninle birlikte tasarlayan Yoav mı?” diye sordu. Kadın şöyle yanıtladı: “Yaşamın hakkı için derim ki, ey efendim kral, hiçbir sorunu yanıtlamaktan kaçamam. Evet, bana buyruk veren ve kölene bütün bunları söyleten kulun Yoav'dır.
+{14:20} Kulun Yoav duruma bir çözüm getirmek için yaptı bunu. Efendim, Tanrı'nın bir meleği gibi bilgedir. Ülkede olup biten her şeyi bilir.”
+{14:21} Bunun üzerine kral Yoav'a, “İstediğini yapacağım” dedi, “Git, genç Avşalom'u geri getir.”
+{14:22} Yoav yüzüstü yere kapanarak onu kutsadı ve, “Ey efendim kral, bugün benden hoşnut olduğunu biliyorum, çünkü kulunun isteğini yaptın” dedi.
+{14:23} Yoav hemen Geşur'a gidip Avşalom'u Yeruşalim'e getirdi.
+{14:24} Ne var ki, kral, “Avşalom evine gitsin, yanıma gelmesin” diye buyruk verdi. Bu yüzden Avşalom evine gitti; kralı görmedi.
+{14:25} Bütün İsrail'de Avşalom kadar yakışıklılığı için övülen kimse yoktu; tepeden tırnağa kusursuz biriydi.
+{14:26} Avşalom saçını kestirdiği zaman tartardı. Saçı ona ağırlık verdiği için her yıl kestirirdi. Saçının ağırlığı krallık ölçüsüne göre iki yüz şekel çekerdi.
+{14:27} Avşalom'un üç oğlu ve Tamar adında çok güzel bir kızı vardı.
+{14:28} Avşalom kralı görmeden Yeruşalim'de iki yıl yaşadı.
+{14:29} Sonra Yoav'ı krala göndermek için ona haber saldı. Ama Yoav gelmek istemedi. Avşalom ikinci kez haber gönderdi, Yoav yine gelmek istemedi.
+{14:30} Avşalom kullarına, “Bakın, Yoav'ın arpa tarlası benimkine bitişiktir” dedi, “Gidin, tarlayı ateşe verin.” Bunun üzerine gidip tarlayı ateşe verdiler.
+{14:31} Yoav kalkıp Avşalom'un evine gitti. “Kulların neden tarlamı ateşe verdi?” diye sordu.
+{14:32} Avşalom şöyle yanıtladı: “Bak, sana, ‘Buraya gel, seni krala göndereyim’ diye haber yolladım. Ona şunları söylemeni isteyecektim: ‘Neden Geşur'dan geldim? Orada kalsaydım benim için daha iyi olurdu. Artık kralı görmek istiyorum. Bir suçum varsa, beni öldürsün.’”
+{14:33} Bunun üzerine Yoav gidip Avşalom'un söylediklerini krala iletti. Kral Avşalom'u çağırttı. Avşalom kralın yanına gelip önünde yüzüstü yere kapandı. Kral da onu öptü.
+{i15:1} Avşalom Davut'a Karşı Ayaklanıyor
+{15:1} Bundan sonra Avşalom kendisine bir savaş arabası, atlar ve önünde koşacak elli kişi hazırladı.
+{15:2} Sabah erkenden kalkıp kent kapısına giden yolun kenarında dururdu. Davasına baktırmak için krala gelen herkese seslenip, “Nerelisin?” diye sorardı. Adam hangi İsrail oymağından geldiğini söylerdi.
+{15:3} Avşalom ona şöyle derdi: “Bak, ileri sürdüğün savlar doğru ve haklı. Ne var ki, kral adına seni dinleyecek kimse yok.”
+{15:4} Sonra konuşmasını şöyle sürdürürdü: “Keşke kral beni ülkeye yargıç atasa! Davası ya da sorunu olan herkes bana gelse, ben de ona hakkını versem!”
+{15:5} Biri önünde yüzüstü yere kapanmak üzere yaklaştı mı, Avşalom elini uzatıp adamı tutar, öperdi.
+{15:6} Davasına baktırmak için krala gelen İsrailliler'in hepsine böyle davrandı. Böylelikle İsrailliler'in gönlünü çeldi.
+{15:7} Dört yıl sonra Avşalom krala, “İzin ver de Hevron'a gidip RAB'be adağımı yerine getireyim” dedi,
+{15:8} “Çünkü ben kulun Aram'ın Geşur Kenti'nde yaşarken, ‘RAB beni Yeruşalim'e geri getirirse, O'na Hevron'da tapınacağım’ diye adak adamıştım.”
+{15:9} Kral, “Esenlikle git” dedi. Ne var ki, Hevron'a giden Avşalom bütün İsrail oymaklarına
+{15:10} gizlice ulaklar göndererek şöyle dedi: “Boru sesini duyar duymaz, ‘Avşalom Hevron'da kral oldu’ diyeceksiniz.”
+{15:11} Yeruşalim'den çağrılan iki yüz kişi olup bitenden haberleri olmaksızın, iyi niyetle Avşalom'la birlikte gittiler.
+{15:12} Avşalom kurbanları keserken, Davut'un danışmanı Gilolu Ahitofel'i de Gilo Kenti'nden getirtti. Böylece ayaklanma güç kazandı. Çünkü Avşalom'u izleyen halkın sayısı giderek çoğalıyordu.
+{i15:13} Davut Yeruşalim'den Kaçıyor
+{15:13} Bir ulak gelip Davut'a, “İsrailliler Avşalom'a yürekten bağlandı” dedi.
+{15:14} Bunun üzerine Davut Yeruşalim'de kendisiyle birlikte olan bütün görevlilerine şöyle dedi: “Haydi kaçalım! Yoksa Avşalom'dan kaçıp kurtulamayacağız. Hemen gidelim! Yoksa Avşalom ardımızdan çabucak yetişip bizi yıkıma uğratır. Kenti de kılıçtan geçirir.”
+{15:15} Kralın görevlileri, “Efendimiz kral ne karar verirse yapmaya hazırız” diye yanıtladılar.
+{15:16} Böylece kral ardısıra gelen bütün ev halkıyla birlikte yola koyuldu. Ancak saraya baksınlar diye on cariyesini orada bıraktı.
+{15:17} Kralla yanındakiler kentin en son evinde durdular.
+{15:18} Bütün kulları, Keretliler'le Peletliler kralın yanından geçtiler. Gat'tan ardısıra gelmiş olan altı yüz Gatlı asker de kralın önünden geçti.
+{15:19} Kral Gatlı İttay'a, “Neden sen de bizimle geliyorsun?” dedi, “Geri dön ve yeni kralla kal. Çünkü sen yurdundan sürülmüş bir yabancısın.
+{15:20} Daha dün geldin. Bugün nereye gideceğimi kendim bilmezken, seni de bizimle birlikte mi dolaştırayım? Kardeşlerinle birlikte geri dön. Tanrı'nın sevgisi ve sadakati üzerinde olsun!”
+{15:21} Ama İttay şöyle yanıtladı: “Efendim kral, yaşayan RAB'bin adıyla ve yaşamın hakkı için derim ki, ister yaşam, ister ölüm için olsun, sen neredeysen kulun ben de orada olacağım.”
+{15:22} Davut İttay'a, “Yürü, geç!” dedi. Böylece Gatlı İttay yanındaki bütün adamları ve çocuklarıyla birlikte geçti.
+{15:23} Halk geçerken, bütün yöre halkı hıçkıra hıçkıra ağlıyordu. Kral Kidron Vadisi'ni geçti. Halk da kırlara doğru ilerledi.
+{15:24} Kâhin Sadok'la Tanrı'nın Antlaşma Sandığı'nı* taşıyan Levililer de oradaydı. Tanrı'nın Sandığı'nı yere koydular. Bütün halk kentten çıkana dek Aviyatar sunular sundu.
+{15:25} Sonra kral, Sadok'a, “Tanrı'nın Sandığı'nı kente geri götür” dedi, “RAB benden hoşnut kalırsa, beni geri getirir, sandığı ve konduğu yeri bana gösterir.
+{15:26} Ama, ‘Senden hoşnut değilim’ derse, işte buradayım, bana uygun gördüğünü yapsın.”
+{15:27} Kral Kâhin Sadok'la konuşmasını şöyle sürdürdü: “Sen bilici değil misin? Oğlun Ahimaas'ı ve Aviyatar oğlu Yonatan'ı yanına al; Aviyatar'la birlikte esenlikle kente dönün.
+{15:28} Sizden aydınlatıcı bir haber alana dek ben kırda, ırmağın sığ yerinde bekleyeceğim.”
+{15:29} Böylece Sadok'la Aviyatar Tanrı'nın Sandığı'nı Yeruşalim'e geri götürüp orada kaldılar.
+{15:30} Davut ağlaya ağlaya Zeytin Dağı'na çıkıyordu. Başı örtülüydü, yalınayak yürüyordu. Yanındaki herkesin başı örtülüydü ve ağlayarak dağa çıkıyorlardı.
+{15:31} O sırada biri Davut'a, “Ahitofel Avşalom'dan yana olan suikastçıların arasında” diye bildirdi. Bunun üzerine Davut, “Ya RAB, Ahitofel'in öğüdünü boşa çıkar” diye dua etti.
+{15:32} Davut Tanrı'ya tapılan tepenin doruğuna varınca, Arklı Huşay giysisi yırtılmış, başı toz toprak içinde onu karşıladı.
+{15:33} Davut ona, “Benimle birlikte gelirsen, bana yük olursun” dedi,
+{15:34} “Ama kente döner ve Avşalom'a, ‘Ey kral, senin kulun olacağım; geçmişte babana nasıl kulluk ettiysem, şimdi de sana öyle kulluk edeceğim’ dersen, Ahitofel'in öğüdünü benim için boşa çıkarırsın.
+{15:35} Kâhin Sadok ile Kâhin Aviyatar orada seninle birlikte olacaklar. Kralın sarayında duyduğun her şeyi onlara bildir.
+{15:36} Sadok oğlu Ahimaas ile Aviyatar oğlu Yonatan da oradalar. Bütün duyduklarınızı onların aracılığıyla bana iletebilirsiniz.”
+{15:37} Böylece Davut'un dostu Huşay Yeruşalim'e gitti. Tam o sırada Avşalom da kente giriyordu.
+{i16:1} Davut'la Siva
+{16:1} Davut tepenin doruğunu biraz geçince, Mefiboşet'in hizmetkârı Siva palan vurulmuş ve üzerlerine iki yüz ekmek, yüz salkım kuru üzüm, yüz tane taze meyve ve bir tulum şarap yüklü iki eşekle onu karşıladı.
+{16:2} Kral, Siva'ya, “Bunları niçin getirdin?” diye sordu. Siva, “Eşekler kral ailesinin binmesi, ekmekle taze meyve hizmetkârların yemesi, şarapsa kırda yorgun düşenlerin içmesi için” diye yanıtladı.
+{16:3} Kral, “Efendin Saul'un torunu nerede?” diye sordu. Siva, “Yeruşalim'de kalıyor” diye yanıtladı, “Çünkü ‘İsrail halkı bugün atamın krallığını bana geri verecek’ diye düşünüyor.”
+{16:4} Kral, “Mefiboşet'in her şeyi senindir” dedi. Siva, “Önünde eğilirim, efendim kral! Dilerim her zaman benden hoşnut kalırsın” dedi.
+{i16:5} Davut'la Şimi
+{16:5} Kral Davut Bahurim'e vardığında, Saul ailesinin geldiği boydan Gera oğlu Şimi adında biri lanetler okuyarak ortaya çıktı.
+{16:6} Bütün askerler ve koruyucular Kral Davut'un sağında, solunda olmasına karşın, Şimi Davut'la askerlerini taşlıyordu.
+{16:7} Şimi lanetler okuyarak, “Çekil git, ey eli kanlı, alçak adam!” diyordu,
+{16:8} “RAB, yerine kral olduğun Saul ailesinin dökülen kanlarının karşılığını sana verdi. RAB krallığı oğlun Avşalom'a verdi. Sen eli kanlı bir adam olduğun için bu yıkıma uğradın!”
+{16:9} Seruya oğlu Avişay krala, “Bu ölü köpek neden efendim krala lanet okusun?” dedi, “İzin ver de gidip başını uçurayım.”
+{16:10} Ama kral, “Bu sizin işiniz değil, ey Seruya oğulları!” dedi, “RAB ona, ‘Davut'a lanet oku’ dediği için lanet okuyorsa, kim, ‘Bunu neden yapıyorsun’ diye sorabilir?”
+{16:11} Sonra Davut Avişay'la askerlerine, “Öz oğlum beni öldürmeye çalışırken, şu Benyaminli'nin yaptığına şaşmamalı” dedi, “Bırakın onu, lanet okusun, çünkü ona böyle yapmasını RAB buyurmuştur.
+{16:12} Belki RAB sıkıntımı görür de, bugün okunan lanetlerin karşılığını iyilikle verir.”
+{16:13} Davut'la adamları yollarına devam ettiler. Davut'un karşısında, dağın yamacında yürüyen Şimi, giderken ona lanet okuyor, taş, toprak atıyordu.
+{16:14} Gidecekleri yere yorgun argın varan kralla yanındaki halk orada dinlendiler.
+{16:15} Avşalom'la İsrail halkı Yeruşalim'e girmişlerdi. Ahitofel de Avşalom'la birlikteydi.
+{16:16} Davut'un dostu Arklı Huşay, Avşalom'un yanına varınca, “Yaşasın kral! Yaşasın kral!” diye bağırdı.
+{16:17} Avşalom Huşay'a, “Dostuna bağlılığın bu mu? Neden dostunla gitmedin?” diye sordu.
+{16:18} Huşay, “Hayır” diye yanıtladı, “Ben RAB'bin, bu halkın ve bütün İsrailliler'in seçtiği kişiden yana olacağım, onun yanında kalacağım.
+{16:19} Üstelik Davut oğlu Avşalom'dan başka kime hizmet edeceğim? Babana nasıl hizmet ettiysem, sana da öyle hizmet edeceğim.”
+{16:20} Avşalom Ahitofel'e, “Ne yapmalıyız, bize öğüt ver” dedi.
+{16:21} Ahitofel, “Babanın saraya bakmak için bıraktığı cariyelerle yat” diye karşılık verdi, “Böylece bütün İsrail babanın nefretini kazandığını duyacak ve seni destekleyenlerin tümü kendilerini daha da güçlenmiş bulacaklar.”
+{16:22} Sarayın damında Avşalom için bir çadır kurdular. Avşalom bütün İsrailliler'in gözü önünde babasının cariyelerinin yanına girdi.
+{i16:23} Huşay Ahitofel'in Öğüdünü Bozuyor
+{16:23} O günlerde Ahitofel'in verdiği öğüt, Tanrı sözünü ileten bir adamınki gibiydi. Davut da, Avşalom da onun öğüdünü öyle kabul ederlerdi.
+{17:1} Ahitofel Avşalom'a şöyle dedi: “İzin ver de on iki bin kişi seçeyim, bu gece kalkıp Davut'un peşine düşeyim.
+{17:2} Davut yorgun ve güçsüzken ona saldırıp gözünü korkutayım. Yanındakilerin hepsi kaçacaktır. Ben de yalnız Kral Davut'u öldürürüm.
+{17:3} Sonra bütün halkı sana geri getiririm. Halkın dönmesi, öldürmek istediğin adamın ölümüne bağlıdır. Böylece halk da esenlikte olur.”
+{17:4} Bu öğüt Avşalom'u ve İsrail ileri gelenlerini hoşnut etti.
+{17:5} Avşalom, “Arklı Huşay'ı da çağırın, neler söyleyeceğini duyalım” dedi.
+{17:6} Huşay gelince Avşalom, “Ahitofel bu öğüdü verdi” dedi, “Onun öğüdüne uyalım mı? Yoksa, sen öğüt ver.”
+{17:7} Huşay Avşalom'a, “Bu kez Ahitofel'in verdiği öğüt iyi değil” dedi,
+{17:8} “Baban Davut'la adamlarının güçlü savaşçılar olduklarını biliyorsun. Kırda yavrularından yoksun bırakılmış bir ayı gibi öfkeliler. Baban deneyimli bir savaşçıdır, geceyi askerlerle geçirmez.
+{17:9} Şu anda ya bir mağarada ya da başka bir yerde gizlenmiştir. Davut askerlerine karşı ilk saldırıyı yapınca, bunu her duyan, ‘Avşalom'u destekleyenler arasında kırım var’ diyecek.
+{17:10} O zaman aslan yürekli yiğitler bile korkuya kapılacak. Çünkü bütün İsrailliler babanın güçlü, yanındakilerin de yiğit olduğunu bilir.
+{17:11} “Onun için sana öğüdüm şu: Dan'dan Beer-Şeva'ya kadar, kıyıların kumu kadar olan İsrailliler çevrene toplansın, sen de savaşa katıl.
+{17:12} O zaman gizlendiği yerlerden birinde Davut'un üstüne yürürüz; yeryüzüne düşen çiy gibi üzerine gideriz. Onu da, yanındakilerin hiçbirini de yaşatmayız.
+{17:13} Eğer bir kente çekilirse, İsrailliler o kente halatlar getirir, tek bir taş kalmayıncaya dek kenti vadiye indiririz.”
+{17:14} Avşalom'la İsrailliler, “Arklı Huşay'ın öğüdü Ahitofel'in öğüdünden daha iyi” dediler. Çünkü RAB, Avşalom'u yıkıma uğratmak için, Ahitofel'in iyi öğüdünü boşa çıkarmayı tasarlamıştı.
+{17:15} Huşay Kâhin Sadok'la Kâhin Aviyatar'a şöyle dedi: “Ahitofel Avşalom'a ve İsrail'in ileri gelenlerine böyle öğüt verdi, bense şöyle öğüt verdim.
+{17:16} Şimdi siz Davut'a hemen şu haberi gönderin: ‘Geceyi kırdaki ırmağın sığ yerinde geçirme, duraksamadan karşı yakaya geç; yoksa kral da yanındakilerin tümü de yok olabilir.’”
+{17:17} Bu sırada Yonatan'la Ahimaas Eyn-Rogel'de kalıyorlardı. Bir hizmetçi kız gidip onlara olup bitenleri haber veriyor, onlar da gidip duyduklarını Kral Davut'a bildiriyorlardı. Çünkü kendileri kente girerken görünmeyi göze alamıyorlardı.
+{17:18} Ama bir genç onları görüp Avşalom'a bildirdi. Bunun üzerine Yonatan'la Ahimaas hemen oradan ayrılıp Bahurim'de bir adamın evine gittiler. Evin avlusunda bir kuyu vardı. Yonatan'la Ahimaas kuyuya indiler.
+{17:19} Adamın karısı bir örtü alıp kuyunun ağzına serdi. Bir şey belli olmasın diye örtünün üstüne başak yaydı.
+{17:20} Avşalom'un görevlileri eve, kadının yanına varınca, “Ahimaas'la Yonatan nerede?” diye sordular. Kadın, “Irmağın karşı yakasına geçtiler” diye yanıtladı. Avşalom'un görevlileri onları aramaya gittiler; bulamayınca Yeruşalim'e döndüler.
+{17:21} Adamlar gittikten sonra, Ahimaas'la Yonatan kuyudan çıktılar ve olup bitenleri bildirmek üzere Kral Davut'a gittiler. Ona, “Haydi, hemen ırmağı geçin” dediler, “Çünkü Ahitofel size karşı böyle öğüt verdi.”
+{17:22} Bunun üzerine Davut'la yanındaki bütün halk Şeria Irmağı'nı çabucak geçti. Şafak söktüğünde Şeria Irmağı'nı geçmeyen bir kişi bile kalmamıştı.
+{17:23} Ahitofel, verdiği öğüde uyulmadığını görünce, eşeğine palan vurdu; yola koyulup kentine, evine döndü. İşlerini düzene koyduktan sonra kendini astı. Ölüsünü babasının mezarına gömdüler.
+{17:24} Davut Mahanayim'e vardığı sırada Avşalom'la yanındaki İsrail askerleri Şeria Irmağı'nı geçtiler.
+{17:25} Avşalom Yoav'ın yerine Amasa'yı ordu komutanı atamıştı. Amasa Yitra adında bir İsmaili'nin oğluydu. Annesi Nahaş'ın kızı Avigayil'di; Yoav'ın annesi Seruya'nın kızkardeşiydi.
+{17:26} Avşalom'la İsrailliler Gilat bölgesinde ordugah kurdular.
+{17:27} Davut Mahanayim'e vardığında, Ammonlular'ın Rabba Kenti'nden Nahaş oğlu Şovi, Lo-Devarlı Ammiel oğlu Makir ve Rogelim'den Gilatlı Barzillay
+{17:28} ona yataklar, taslar, toprak kaplar getirdiler. Ayrıca Davut'la yanındakilerin yemesi için buğday, arpa, un, kavrulmuş buğday, bakla,
+{17:29} mercimek, bal, tereyağı, inek peyniri ve koyun da getirdiler. “Halk kırda yorulmuştur, aç ve susuzdur” diye düşünmüşlerdi.
+{i18:1} Avşalom'un Ölümü
+{18:1} Davut kendini destekleyen askerleri bir araya topladı. Onlara binbaşılar ve yüzbaşılar atadı.
+{18:2} Sonra orduyu Seruya oğlu Yoav'ın, kardeşi Avişay'ın ve Gatlı İttay'ın denetiminde üç kol halinde gönderdi. Kral askerlere, “Ben de sizinle birlikte gideceğim” dedi.
+{18:3} Ancak askerler, “Bizimle gelmemelisin” diye karşılık verdiler, “Çünkü kaçmak zorunda kalırsak düşmanlarımız bizi umursamaz; yarımız ölse bile umursamazlar. Sen bizim gibi on bin adama değersin. Sen kentten bize yardım et, daha iyi.”
+{18:4} Kral, “Gözünüzde iyi olanı yapacağım” dedi. Adamları yüzer ve biner kişilik birlikler halinde kentten çıkarken kral kapının yanında duruyordu.
+{18:5} Kral, Yoav'a, Avişay'a ve İttay'a, “Benim hatırım için genç Avşalom'a sert davranmayın” diye buyurdu. Bütün askerler kralın komutanlara Avşalom'a ilişkin buyruk verdiğini duydular.
+{18:6} Davut'un ordusu İsrailliler'le savaşmak üzere tarlalara çıktı. Savaş Efrayim Ormanı'nda başladı.
+{18:7} İsrail ordusu Davut'un adamları önünde yenilgiye uğradı. Büyük bir kırım oldu. O gün yirmi bin kişi öldü.
+{18:8} Savaş her yana yayıldı. O gün ormanda yok olanların sayısı kılıçtan geçirilenlerin sayısından daha çoktu.
+{18:9} Avşalom ansızın Davut'un adamlarıyla karşılaştı. Avşalom katıra binmişti. Katır büyük bir yabanıl fıstık ağacının sık dalları altından geçerken, Avşalom'un başı dallara takıldı. Katır yoluna devam edince, Avşalom havada asılı kaldı.
+{18:10} Adamlardan biri bunu gördü. Yoav'a, “Avşalom'u bir yabanıl fıstık ağacına asılı gördüm” diye bildirdi.
+{18:11} Yoav, haberi verene, “Onu gördün mü? Neden onu orada öldürmedin? Sana on parça gümüşle bir kemer verirdim” dedi.
+{18:12} Ama adam, “Elime bin parça gümüş saysan bile, kralın oğluna elimi kaldırmam” diye yanıtladı, “Çünkü kralın sana, Avişay'a ve İttay'a, ‘Benim hatırım için genç Avşalom'u koruyun’ diye buyruk verdiğini duyduk.
+{18:13} Oysa Avşalom'u öldürseydim –hiçbir şey kraldan gizli kalmaz– o zaman sen de beni savunmazdın.”
+{18:14} Yoav, “Seninle böyle vakit kaybedemem” dedi. Üç kargı aldı, yabanıl fıstık ağacında asılı duran ve hâlâ sağ olan Avşalom'un yüreğine sapladı.
+{18:15} Bunun üzerine Yoav'ın silahlarını taşıyan on genç Avşalom'un çevresini sarıp onu öldürdüler.
+{18:16} Yoav boru çaldırınca, askerler İsrailliler'i kovalamayı bırakıp geri döndüler. Yoav onların savaşı sürdürmelerine engel oldu.
+{18:17} Yoav'ın askerleri Avşalom'u alıp ormanda derin bir çukura attılar; üzerine büyük bir taş yığını yaptılar. Bütün İsrailliler evlerine kaçtılar.
+{18:18} Avşalom daha sağken bir direk alıp kendisi için Kral Vadisi'ne dikmişti. Çünkü, “Adımı anımsatacak bir oğlum yok” diye düşünmüştü. Direğe kendi adını vermişti. Bu direk bugün de Avşalom Anıtı diye bilinir.
+{i18:19} Davut Yas Tutuyor
+{18:19} Sadok oğlu Ahimaas Yoav'a, “İzin ver de koşup krala RAB'bin onu düşmanlarının elinden kurtardığını haber vereyim” dedi.
+{18:20} Yoav, “Olmaz, bugün haberi götüren sen olmayacaksın” dedi, “Başka bir zaman haber götürürsün, ama bugün değil. Çünkü kralın oğlu öldü.”
+{18:21} Sonra bir Kûşlu'ya*, “Sen git, gördüklerini krala bildir” dedi. Kûşlu Yoav'ın önünde yere kapandı, sonra koşmaya başladı.
+{18:22} Ama Sadok oğlu Ahimaas yine, “Ne olursa olsun, izin ver, ben de Kûşlu'nun ardısıra koşayım” dedi. Yoav, “Oğlum, neden koşmak istiyorsun?” dedi, “Sana ödül kazandıracak bir haberin yok ki!”
+{18:23} Ahimaas, “Ne olursa olsun koşacağım” diye karşılık verdi. Yoav, “Koş öyleyse” dedi. Böylece Ahimaas Şeria Ovası yolundan koşarak Kûşlu'yu geçti.
+{18:24} Davut kentin iç ve dış kapıları arasında oturuyordu. Nöbetçi surun yanındaki kapının tepesine çıktı. Çevreye göz gezdirince, tek başına koşan birini gördü.
+{18:25} Krala seslenerek gördüğünü bildirdi. Kral, “Tek başına geliyorsa, iyi haber getiriyor demektir” dedi. Adam gitgide yaklaşıyordu.
+{18:26} Nöbetçi koşan başka birini görünce, kapıcıya, “İşte tek başına koşan bir adam daha!” diye seslendi. Kral, “O da iyi haber getiriyor” dedi.
+{18:27} Nöbetçi, “Sanırım birinci adamın koşuşu Sadok oğlu Ahimaas'ın koşuşuna benziyor” dedi. Kral, “Ahimaas iyi adamdır” diye karşılık verdi, “İyi haberle gelir.”
+{18:28} Ahimaas krala, “Her şey yolunda!” diye seslendi. Kralın önünde yüzüstü yere kapanarak, “Efendimiz krala el kaldıranları teslim eden Tanrın RAB'be övgüler olsun!” dedi.
+{18:29} Kral, “Genç Avşalom güvenlikte mi?” diye sordu. Ahimaas şöyle yanıtladı: “Yoav kralın hizmetkârı Kûşlu'yla beni gönderdiği sırada büyük bir karışıklık gördüm, ama ne olduğunu anlamadım.”
+{18:30} Kral, “Bir yana çekilip burada bekle” dedi. Ahimaas da çekilip beklemeye başladı.
+{18:31} Tam o sırada Kûşlu geldi. “Efendimiz krala müjde!” dedi, “Bugün RAB sana karşı bütün ayaklananların elinden seni kurtardı.”
+{18:32} Kral Kûşlu'ya, “Genç Avşalom güvenlikte mi?” diye sordu. Kûşlu, “Efendimiz kral!” diye yanıtladı, “Düşmanlarının ve kötü amaçla sana karşı ayaklananların hepsinin sonu bu gencin sonu gibi olsun.”
+{18:33} Kral sarsıldı. Giriş kapısının üstündeki odaya çıkıp ağladı. Giderken, “Ah oğlum Avşalom! Ah oğlum, oğlum Avşalom!” diye inliyordu, “Keşke senin yerine ben ölseydim, oğlum! Ah oğlum Avşalom!”
+{i19:1} Yoav Davut'u Paylıyor
+{19:1} Yoav'a, “Kral Davut Avşalom için ağlayıp yas tutuyor” diye bildirdiler.
+{19:2} O gün zafer ordu için yasa dönüştü. Çünkü kralın oğlu için acı çektiğini duymuşlardı.
+{19:3} Bu yüzden askerler, savaş kaçakları gibi, o gün kente utanarak girdiler.
+{19:4} Kral ise yüzünü örtmüş, yüksek sesle, “Ah oğlum Avşalom! Avşalom, oğlum, oğlum!” diye bağırıyordu.
+{19:5} Yoav kralın bulunduğu odaya giderek ona şöyle dedi: “Bugün senin canını, oğullarının, kızlarının, eşlerinin, cariyelerinin canlarını kurtaran adamlarının hepsini utandırdın.
+{19:6} Çünkü senden nefret edenleri seviyor, seni sevenlerden nefret ediyorsun: Bugün komutanlarının ve adamlarının senin gözünde değersiz olduğunu gösterdin. Evet, bugün anladım ki, Avşalom sağ kalıp hepimiz ölseydik senin için daha iyi olurdu!
+{19:7} “Haydi kalk, gidip adamlarını yüreklendir! RAB'bin adıyla ant içerim ki, gitmezsen bu gece bir kişi bile seninle kalmayacak. Bu da, gençliğinden şimdiye dek başına gelen yıkımların tümünden daha kötü olacak.”
+{19:8} Bunun üzerine kral gidip kentin kapısında oturdu. Bütün askerlere, “İşte kral kentin kapısında oturuyor” diye haber salındı. Onlar da kralın yanına geldiler. Bu arada İsrailliler evlerine kaçmışlardı.
+{i19:9} Davut Yeruşalim'e Dönüyor
+{19:9} İsrail oymaklarından olan herkes birbiriyle tartışıyor ve, “Kral bizi düşmanlarımızın elinden kurtardı” diyordu, “Bizi Filistliler'in elinden kurtaran da odur. Şimdiyse Avşalom yüzünden ülkeyi bırakıp kaçtı.
+{19:10} Bizi yönetmesi için meshettiğimiz Avşalom'sa savaşta öldü. Öyleyse neden kralı geri getirme konusunda susup duruyorsunuz?”
+{19:11} Kral Davut Kâhin Sadok'la Kâhin Aviyatar'a şu haberi gönderdi: “Yahuda'nın ileri gelenlerine deyin ki, ‘Bütün İsrail'de konuşulanlar kralın konutuna dek ulaştığına göre, kralı sarayına geri getirmekte siz neden sonuncu oluyorsunuz?
+{19:12} Siz kardeşlerimsiniz; etim, kemiğimsiniz! Kralı geri getirmekte neden en son siz davranıyorsunuz?’
+{19:13} “Amasa'ya da şöyle deyin: ‘Sen etim, kemiğimsin! Seni Yoav'ın yerine ordunun sürekli komutanı atamazsam, Tanrı bana aynısını, hatta daha kötüsünü yapsın!’”
+{19:14} Böylece Davut bütün Yahudalılar'ı derinden etkiledi. Yahudalılar krala, “Bütün adamlarınla birlikte dön!” diye haber gönderdiler.
+{19:15} Kral dönüp Şeria Irmağı'na vardı. Yahudalılar kralı karşılamak ve Şeria Irmağı'ndan geçirmek için Gilgal'a geldiler.
+{19:16} Bahurim'den Benyaminli Gera oğlu Şimi de Kral Davut'u karşılamak için Yahudalılar'la birlikte çıkageldi.
+{19:17} Yanında Benyamin oymağından bin kişi vardı. Saul evinin hizmetkârı Siva da on beş oğlu ve yirmi kölesiyle birlikte hemen Şeria Irmağı'na, kralın yanına geldi.
+{19:18} Kralın ev halkını karşıya geçirmek ve onun istediğini yapmak için ırmağın sığ yerinden karşı yakaya geçtiler. Kral Şeria Irmağı'nı geçmek üzereydi ki, Gera oğlu Şimi kendini onun önüne attı.
+{19:19} Krala, “Efendim, beni suçlu sayma” dedi, “Ey efendim kral, Yeruşalim'den çıktığın gün işlediğim suçu anımsama, göz önünde tutma.
+{19:20} Çünkü kulun günah işlediğini biliyor. Efendim kralı karşılamak için bugün bütün Yusuf soyundan ilk gelen benim.”
+{19:21} Seruya oğlu Avişay, “Şimi öldürülmeli, çünkü RAB'bin meshettiği kişiye lanet okudu” dedi.
+{19:22} Davut, “Ey Seruya oğulları, bu sizin işiniz değil!” dedi, “Bugün bana düşman oldunuz. İsrail'de bugün bir tek kişi öldürülmeyecek! İsrail'in Kralı olduğumu bilmiyor muyum?”
+{19:23} Sonra ant içerek Şimi'ye, “Ölmeyeceksin!” dedi.
+{19:24} Saul'un torunu Mefiboşet de kralı karşılamaya gitti. Kralın gittiği günden esenlikle geri döndüğü güne dek ayaklarını da, giysilerini de yıkamamış, bıyığını kesmemişti.
+{19:25} Kralı karşılamak için Yeruşalim'den geldiğinde, kral, “Mefiboşet, neden benimle gelmedin?” diye sordu.
+{19:26} Mefiboşet şöyle yanıtladı: “Ey efendim kral! Kulun topal olduğundan, kulum Siva'ya, ‘Eşeğe palan vur da binip kralla birlikte gideyim’ dedim. Ama o beni kandırdı.
+{19:27} Ayrıca efendim kralın önünde kuluna kara çaldı. Ama sen, ey efendim kral, Tanrı'nın bir meleği gibisin; gözünde doğru olanı yap.
+{19:28} Çünkü atamın ailesinin bütün bireyleri ölümü hak etmişken, kuluna sofrandakilerle birlikte yemek yeme ayrıcalığını tanıdın. Artık senden daha başka bir şey dilemeye ne hakkım var, ey kral?”
+{19:29} Kral, “İşlerin hakkında daha fazla konuşmana gerek yok” dedi, “Sen ve Siva toprakları paylaşın diye buyruk veriyorum.”
+{19:30} Mefiboşet, “Madem efendim kral sarayına esenlikle döndü, bütün toprakları Siva alsın” diye karşılık verdi.
+{19:31} Gilatlı Barzillay da Şeria Irmağı'nı geçişte krala eşlik edip onu uğurlamak üzere Rogelim'den gelmişti.
+{19:32} Barzillay çok yaşlıydı, seksen yaşındaydı. Kral Mahanayim'de kaldığı sürece, geçimini o sağlamıştı. Çünkü Barzillay çok varlıklıydı.
+{19:33} Kral Barzillay'a, “Benimle karşıya geç, Yeruşalim'de ben senin geçimini sağlayacağım” dedi.
+{19:34} Ama Barzillay, “Kaç yıl ömrüm kaldı ki, seninle birlikte Yeruşalim'e gideyim?” diye karşılık verdi,
+{19:35} “Şu anda seksen yaşındayım. İyi ile kötüyü ayırt edebilir miyim? Yediğimin, içtiğimin tadını alabilir miyim? Kadın erkek şarkıcıların sesini duyabilir miyim? Öyleyse neden efendim krala daha fazla yük olayım?
+{19:36} Kulun Şeria Irmağı'nı kralla birlikte geçerek sana birazcık eşlik edecek. Kral beni neden böyle ödüllendirsin?
+{19:37} İzin ver de döneyim, kentimde, annemin babamın mezarı yanında öleyim. Ama kulun Kimham burada; o seninle karşıya geçsin. Uygun gördüğünü ona yaparsın.”
+{19:38} Kral, “Kimham benimle karşıya geçecek ve ona senin uygun gördüğünü yapacağım” dedi, “Benden ne dilersen yapacağım.”
+{19:39} Bundan sonra kralla bütün halk Şeria Irmağı'nı geçti. Kral Barzillay'ı öpüp kutsadı. Sonra Barzillay evine döndü.
+{19:40} Kral Gilgal'a geçti. Kimham da onunla birlikte gitti. Bütün Yahudalılar'la İsrailliler'in yarısı krala eşlik ettiler.
+{19:41} Sonra İsrailliler krala varıp şöyle dediler: “Neden kardeşlerimiz Yahudalılar seni çaldı? Neden seni, aile bireylerini ve bütün adamlarını Şeria Irmağı'nın karşı yakasına geçirdiler?”
+{19:42} Bunun üzerine Yahudalılar İsrailliler'e, “Çünkü kral bizden biri!” dediler, “Buna neden kızdınız? Kralın yiyeceklerinden bir şey yedik mi? Kendimize bir şey aldık mı?”
+{19:43} İsrailliler, “Kralda on payımız var” diye yanıtladılar, “Davut'ta sizden daha çok hakkımız var. Öyleyse neden bizi küçümsüyorsunuz? Kralımızı geri getirmekten ilk söz eden biz değil miydik?” Ne var ki, Yahudalılar'ın tepkisi İsrailliler'inkinden daha sert oldu.
+{i20:1} Şeva Başkaldırıyor
+{20:1} O sırada Benyamin oymağından Bikri oğlu Şeva adında kötü bir adam bir rastlantı sonucu Gilgal'daydı. Şeva boru çalıp, “İşay oğlu Davut'la ne ilgimiz Ne de payımız var” dedi, “Ey İsrailliler, herkes kendi evine dönsün!”
+{20:2} Bunun üzerine bütün İsrailliler Davut'u bırakıp Bikri oğlu Şeva'nın ardından gitti. Yahudalılar ise krallarına bağlı kalıp Şeria Irmağı'ndan Yeruşalim'e dek ona eşlik ettiler.
+{20:3} Kral Davut Yeruşalim'deki sarayına varınca, saraya bakmak için bıraktığı on cariyeyi gözetim altına aldı, onların geçimini sağladı. Ancak yataklarına girmedi. Onlar da ölünceye dek göz altında dul kadınlar gibi yaşadılar.
+{20:4} Davut Amasa'ya, “Üç gün içinde Yahudalılar'ı yanıma çağır. Sen de burada ol” dedi.
+{20:5} Amasa Yahudalılar'ı çağırmaya gitti. Ama belirlenen zamanda dönmedi.
+{20:6} Bunun üzerine Davut Avişay'a, “Şimdi Bikri oğlu Şeva bize Avşalom'dan daha büyük kötülük yapacak” dedi, “Efendinin adamlarını al ve onu kovala. Yoksa kendine surlu kentler bulup bizden kaçar.”
+{20:7} Böylece Yoav'ın adamları, Keretliler'le Peletliler ve bütün koruyucular Bikri oğlu Şeva'yı kovalamak için Avişay'ın komutasında Yeruşalim'den çıktılar.
+{20:8} Givon'daki büyük kayanın yanına varınca, Amasa onları karşılamaya geldi. Yoav savaş giysisini giymişti. Giysinin üzerine bir kemer kuşanmış, kemere kınında duran bir kılıç bağlamıştı. Yoav ilerlerken kılıç kınından çıktı.
+{20:9} Yoav Amasa'ya, “İyi misin, kardeşim?” diye sordu. Onu öpmek için sağ eliyle Amasa'nın sakalından tuttu.
+{20:10} Amasa Yoav'ın elindeki kılıcı farketmedi. Yoav kılıcı karnına saplayınca, Amasa'nın bağırsakları yere döküldü. İkinci vuruşa gerek kalmadan Amasa öldü. Bundan sonra Yoav'la kardeşi Avişay, Bikri oğlu Şeva'yı kovalamayı sürdürdüler.
+{20:11} Yoav'ın adamlarından biri, Amasa'nın ölüsü yanında durup, “Yoav'ı tutan ve Davut'tan yana olan herkes Yoav'ın ardından gitsin” dedi.
+{20:12} Amasa'nın ölüsü yolun ortasında kanlar içinde duruyordu. Yoav'ın adamı, ölüye yaklaşan herkesin orada durduğunu görünce, Amasa'yı yoldan sürükleyip tarlaya götürdü ve üzerine bir örtü attı.
+{20:13} Ölü yoldan kaldırıldıktan sonra herkes Bikri oğlu Şeva'yı kovalamak için Yoav'ın ardından gitti.
+{20:14} Şeva bütün İsrail oymaklarından ve Berliler'in bölgesinden geçip Avel-Beytmaaka'ya geldi. Berliler de toplanıp onu izleyerek kente girdiler.
+{20:15} Yoav'la bütün adamları varıp Avel-Beytmaaka Kenti'nde Şeva'yı kuşattılar. Topraktan kentin suruna bitişik bir yığın yaptılar ve suru devirmek için yıkmaya başladılar.
+{20:16} O sırada bilge bir kadın kentin içinden seslendi: “Dinleyin! Dinleyin! Yoav'a buraya gelmesini söyleyin, onunla konuşacağım.”
+{20:17} Yoav kadına yaklaştı. Kadın, “Yoav sen misin?” diye sordu. Yoav, “Benim” diye yanıtladı. Kadın, “Kölenin sözlerini dinle” dedi. Yoav, “Dinliyorum” dedi.
+{20:18} Kadın konuşmasını şöyle sürdürdü: “Eskiden, ‘Avel Kenti'ne danışın’ derlerdi ve sorunları böyle çözerlerdi.
+{20:19} Biz İsrail'in esenliğini isteyen güvenilir kişileriz. Sense İsrail'e ana gibi kucak açan kentlerden birini yıkmaya çalışıyorsun. Neden RAB'bin halkını yok etmek istiyorsun?”
+{20:20} Yoav, “Asla!” diye yanıtladı, “Ne yıkmak, ne de yok etmek istiyorum.
+{20:21} Durum öyle değil. Efrayim dağlık bölgesinden Bikri oğlu Şeva adındaki adam Kral Davut'a başkaldırdı. Yalnız onu verin, ben de kentten geri çekileyim.” Kadın, “Onun başı surun üzerinden sana atılacak” dedi.
+{20:22} Sonra kadın bilgece öğüdüyle bütün halka gitti. Halk Bikri oğlu Şeva'nın başını kesip Yoav'a attı. Bunun üzerine Yoav boru çaldı. Adamları kenti bırakıp evlerine gittiler. Yoav da Yeruşalim'e, kralın yanına döndü.
+{i20:23} Davut'un Görevlileri
+{20:23} Yoav İsrail ordusunun komutanıydı. Yehoyada oğlu Benaya ise Keretliler'le Peletliler'in* komutanıydı.
+{20:24} Adoram angaryasına çalışanlardan sorumluydu. Ahilut oğlu Yehoşafat devlet tarihçisiydi.
+{20:25} Şeva yazman, Sadok'la Aviyatar kâhindi.
+{20:26} Yairli İra ise Davut'un kâhiniydi.
+{i21:1} Givonlular Öç Alıyor
+{21:1} Davut'un döneminde, üç yıl art arda kıtlık oldu. Davut RAB'be danıştı. RAB şöyle yanıtladı: “Buna kan döken Saul ile ailesi neden oldu. Çünkü Saul Givonlular'ı öldürdü.”
+{21:2} Kral Givonlular'ı çağırtıp onlarla konuştu. –Givonlular İsrail soyundan değildi. Amorlular'dan sağ kalan bir halktı. İsrailliler onları sağ bırakacaklarına ant içmişlerdi. Ne var ki, İsrail ve Yahuda halkı için büyük gayret gösteren Saul onları yok etmeye çalışmıştı.–
+{21:3} Davut Givonlular'a, “Sizin için ne yapabilirim? RAB'bin halkını kutsamanız için bu suçu nasıl bağışlatabilirim?” diye sordu.
+{21:4} Givonlular ona şöyle karşılık verdi: “Saul'la ailesinden ne altın ne de gümüş isteriz; İsrail'de herhangi birini öldürmek de istemeyiz.” Davut, “Ne isterseniz yaparım” dedi.
+{21:5} Şöyle karşılık verdiler: “Bizi yok etmeye çalışan ve İsrail ülkesinin hiçbir yerinde yaşamamamız için bizi ortadan kaldırmayı tasarlayan
+{21:6} adamın oğullarından yedisi bize verilsin. RAB'bin seçilmişi Saul'un Giva Kenti'nde RAB'bin önünde onları asalım.” Kral, “Onları vereceğim” dedi.
+{21:7} Kral, Saul oğlu Yonatan'la RAB'bin önünde içtiği anttan ötürü, Yonatan oğlu Mefiboşet'i esirgedi.
+{21:8} Onun yerine, Aya kızı Rispa'nın Saul'dan doğurduğu Armoni ve Mefiboşet adındaki iki oğlunu ve Saul kızı Merav'ın Meholalı Barzillay oğlu Adriel'den doğurduğu beş oğlunu aldı.
+{21:9} Davut onları Givonlular'ın eline teslim etti. Givonlular onları dağda, RAB'bin önünde astılar. Yedisi de aynı anda öldüler. Biçme zamanının ilk günlerinde, arpa biçme zamanının başlangıcında öldürüldüler.
+{21:10} Aya kızı Rispa bir çul alıp kendisi için bir kayanın üzerine serdi. Biçme zamanının ilk günlerinden cesetlerin üzerine gökten yağmur yağana dek Rispa orada kaldı; cesetleri gündüzün yırtıcı kuşlardan, geceleyin yabanıl hayvanlardan korudu.
+{21:11} Saul'un cariyesi Aya kızı Rispa'nın yaptıkları Davut'a bildirildi.
+{21:12} Davut gidip Saul'un ve oğlu Yonatan'ın kemiklerini Yaveş-Gilatlılar'dan aldı. Filistliler Gilboa Dağı'nda Saul'u öldürdükleri gün, onun ve oğlunun cesetlerini Beytşean alanında asmışlardı. Yaveş-Gilat halkı da cesetleri gizlice oradan almıştı.
+{21:13} Davut Saul'un ve oğlu Yonatan'ın kemiklerini oradan getirdi. Asılmış yedi kişinin kemikleri de toplandı.
+{21:14} Saul'la oğlu Yonatan'ın kemiklerini Benyamin bölgesindeki Sela'da Saul'un babası Kiş'in mezarına gömdüler. Kralın bütün buyruklarını yerine getirdiler. Bundan sonra Tanrı ülkeyle ilgili yakarışları yanıtladı.
+{i21:15} Filistliler'e Karşı Savaş (1Ta.20:4-8)
+{21:15} Filistliler'le İsrailliler arasında yeniden savaş çıktı. Davut'la adamları gidip Filistliler'e karşı savaştılar. O sıralarda Davut bitkin düştü.
+{21:16} Ucu üç yüz şekel ağırlığında bir tunç mızrak taşıyan ve yeni kılıç kuşanan Rafaoğulları'ndan Filistli Yişbi-Benov Davut'u öldürmeyi amaçlıyordu. Ama Seruya oğlu Avişay
+{21:17} Davut'un yardımına koştu; saldırıp onu öldürdü. Bundan sonra Davut'un adamları ant içerek, Davut'a, “İsrail'in ışığını söndürmemek için bir daha bizimle birlikte savaşa gelmeyeceksin” dediler.
+{21:18} Bir süre sonra Filistliler'le Gov'da yine savaş çıktı. Bu savaş sırasında Huşalı Sibbekay Rafa soyundan Saf adındaki adamı öldürdü.
+{21:19} İsrailliler'le Filistliler arasında Gov'da bir savaş daha çıktı. Beytlehemli Yareoregim'in oğlu Elhanan, Gatlı Golyat'ı öldürdü. Golyat'ın mızrağının sapı dokumacı tezgahının sırığı gibiydi.
+{21:20} Gat'ta bir kez daha savaş çıktı. Orada dev gibi bir adam vardı. Elleri, ayakları altışar parmaklıydı. Toplam yirmi dört parmağı vardı. O da Rafa soyundandı.
+{21:21} Adam İsrailliler'e meydan okuyunca, Davut'un kardeşi Şima'nın oğlu Yonatan onu öldürdü.
+{21:22} Bunların dördü de Gat'taki Rafa soyundandı. Davut'la adamları tarafından öldürüldüler.
+{i22:1} Davut'un Zafer Ezgisi (Mez.18:1-50)
+{22:1} RAB, Davut'u bütün düşmanlarının ve Saul'un elinden kurtardığı gün Davut RAB'be şu ezgiyi okudu.
+{22:2} Şöyle dedi: “RAB benim kayam, sığınağım, kurtarıcımdır,
+{22:3} Tanrım, kayamdır, O'na sığınırım, Kalkanım, güçlü kurtarıcım, Korunağım, sığınacak yerimdir. Kurtarıcım, zorbalıktan beni sen kurtarırsın!
+{22:4} Övgüye değer RAB'be seslenir, Kurtulurum düşmanlarımdan.
+{22:5} Çünkü ölüm dalgaları beni kuşattı, Yıkım selleri bastı,
+{22:6} Ölüler diyarının bağları sardı, Ölüm tuzakları çıktı karşıma.
+{22:7} Sıkıntı içinde RAB'be yakardım, Tanrım'a seslendim. Tapınağından sesimi duydu, Haykırışım kulaklarına ulaştı.
+{22:8} O zaman yeryüzü sarsılıp sallandı, Titreyip sarsıldı göklerin temelleri, Çünkü RAB öfkelenmişti.
+{22:9} Burnundan duman yükseldi, Ağzından kavurucu ateş Ve korlar fışkırdı.
+{22:10} Kara buluta basarak Gökleri yarıp indi.
+{22:11} Bir Keruv'a* binip uçtu, Rüzgarın kanatları üstünde belirdi.
+{22:12} Karanlığı örtündü, Kara bulutları kendine çardak yaptı.
+{22:13} Varlığının parıltısından Korlar savruluyordu.
+{22:14} RAB göklerden gürledi, Duyurdu sesini Yüceler Yücesi.
+{22:15} Savurup oklarını düşmanlarını dağıttı, Şimşek çaktırarak onları şaşkına çevirdi.
+{22:16} RAB'bin azarlamasından, Burnundan çıkan güçlü soluktan, Denizin dibi göründü, Yeryüzünün temelleri açığa çıktı.
+{22:17} RAB yukarıdan elini uzatıp tuttu, Çıkardı beni derin sulardan.
+{22:18} Beni zorlu düşmanımdan, Benden nefret edenlerden kurtardı, Çünkü onlar benden daha güçlüydü.
+{22:19} Felaket günümde karşıma dikildiler, Ama RAB bana destek oldu.
+{22:20} Beni huzura kavuşturdu, Kurtardı, çünkü benden hoşnut kaldı.
+{22:21} RAB doğruluğumun karşılığını verdi, Beni temiz ellerime göre ödüllendirdi.
+{22:22} Çünkü RAB'bin yolunda yürüdüm, Tanrım'dan uzaklaşarak kötülük yapmadım.
+{22:23} O'nun bütün ilkelerini göz önünde tuttum, Kurallarından ayrılmadım.
+{22:24} O'nun önünde kusursuzdum, Suç işlemekten sakındım.
+{22:25} Bu yüzden RAB beni doğruluğuma Ve gözünde pak yaşayışıma göre ödüllendirdi.
+{22:26} Sadık kuluna sadakat gösterir, Kusursuz olana kusursuz davranırsın.
+{22:27} Pak olanla pak olur, Eğriye eğri davranırsın.
+{22:28} Alçakgönüllüleri kurtarır, Gururluları gözler, gururunu kırarsın.
+{22:29} Ya RAB, ışığım sensin! Karanlığımı aydınlatırsın.
+{22:30} Desteğinle akıncılara saldırır, Seninle surları aşarım, Tanrım.
+{22:31} Tanrı'nın yolu kusursuzdur, RAB'bin sözü arıdır. O kendisine sığınan herkesin kalkanıdır.
+{22:32} Var mı RAB'den başka tanrı? Tanrımız'dan başka kaya var mı?
+{22:33} Sığınağım Tanrı'dır, Yolumu doğru kılan O'dur.
+{22:34} Ayaklar verdi bana, geyiklerinki gibi, Doruklarda tutar beni.
+{22:35} Bana savaşmayı öğretti, Kollarımla tunç bir yayı gereyim diye.
+{22:36} Bana zafer kalkanını bağışlarsın, Alçakgönüllülüğün beni yüceltir.
+{22:37} Bastığım yerleri genişletirsin, Burkulmaz bileklerim.
+{22:38} Düşmanlarımı kovalayıp yok ettim, Hepsi yok olmadan geri dönmedim.
+{22:39} Onları ezip yok ettim, kalkamaz oldular, Ayaklarımın altına serildiler.
+{22:40} Savaş için beni güçle donattın, Bana başkaldıranları önümde yere serdin.
+{22:41} Düşmanlarımı kaçmak zorunda bıraktın, Benden nefret edenleri yok ettim.
+{22:42} Feryat ettiler, ama kurtaran çıkmadı; RAB'bi çağırdılar, ama O yanıt vermedi.
+{22:43} Yerin tozu gibi onları ezdim, Sokak çamuru gibi ayağımın altında çiğnedim.
+{22:44} Halkımın çekişmelerinden beni kurtardın, Uluslara önder olarak beni korudun, Tanımadığım halklar bana kulluk ediyor.
+{22:45} Yabancılar bana boyun eğiyor, Duyar duymaz sözümü dinliyorlar.
+{22:46} Yabancıların betleri benizleri attı, Titreyerek çıkıyorlar kalelerinden.
+{22:47} RAB yaşıyor! Kayam'a övgüler olsun! Yücelsin kurtarıcım, Kayam Tanrım!
+{22:48} O'dur öcümü alan, Halkları bana bağımlı kılan.
+{22:49} Düşmanlarımdan kurtarır, Başkaldıranlardan üstün kılar beni, Zorbaların elinden alır.
+{22:50} Bunun için uluslar arasında sana şükredeceğim, ya RAB, Adını ilahilerle öveceğim.
+{22:51} RAB kralını büyük zaferlere ulaştırır, Meshettiği krala, Davut'a ve soyuna Sonsuza dek sevgi gösterir.”
+{i23:1} Davut'un Son Sözleri
+{23:1} Davut'un son sözleri şunlardır: “İşay oğlu Davut, Tanrı'nın yükselttiği adam, Yakup'un Tanrısı'nın meshettiği, İsrail'in sevilen ezgi okuyucusu şöyle diyor:
+{23:2} RAB'bin Ruhu benim aracılığımla konuşuyor, Sözü dilimin ucundadır.
+{23:3} İsrail'in Tanrısı konuştu, İsrail'in kayası bana dedi ki, ‘İnsanları doğrulukla Ve Tanrı korkusuyla yöneten kişi,
+{23:4} Bulutsuz bir sabah, Şafakta görünen gün ışığı gibidir, Parlaklığı yağmurdan sonra topraktan ot bitirir.’
+{23:5} Soyum da Tanrı'yla böyle değil mi? O benimle sonsuza dek kalıcı, Her yönüyle düzenli ve güvenilir bir antlaşma yaptı. Kesin kurtuluşa ve her dileğime kavuşmamı O sağlamayacak mı?
+{23:6} Kötülere gelince, Elle tutulamayan dikenler gibi Tümü bir yana atılacak.
+{23:7} Dikenlere dokunan kişi, Demir bir araçla Ya da mızrağın sapıyla dokunur. Dikenler oldukları yerde bütünüyle yakılacak.”
+{i23:8} Davut'un Yiğit Askerleri (1Ta.11:10-41)
+{23:8} Davut'un yiğit askerlerinin adları şunlardır: Esnili Adino diye de bilinen üç kişinin önderi Tahkemonlu Yoşeb-Başşevet bir saldırıda sekiz yüz kişiyi öldürdü.
+{23:9} İkincisi, Ahohlu Dodo oğlu Elazar. Pas-Dammim'de savaşmak için toplanan Filistliler'e meydan okuyan Davut'un yanındaki üç yiğitten biriydi. İsrailliler o sırada geri çekilmişlerdi.
+{23:10} Ama Elazar yerinde durdu; eli yorulup kılıca yapışıncaya dek Filistliler'i öldürdü. O gün RAB büyük bir zafer sağladı. İsrailliler yalnız yere serilenleri yağmalamak üzere Elazar'a döndüler.
+{23:11} Üçüncüsü, Hararlı Age oğlu Şamma'ydı. Filistliler Lahay'daki bir mercimek tarlasının yanında toplandıklarında, İsrailli askerler onların önünden kaçmıştı.
+{23:12} Ama Şamma tarlanın ortasında durup orayı savunmuş, Filistliler'i öldürmüştü. RAB büyük bir zafer sağlamıştı.
+{23:13} Biçme zamanı Otuzlar'dan üçü Davut'un yanına, Adullam Mağarası'na gittiler. Bir Filist birliği Refaim Vadisi'nde ordugah kurmuştu.
+{23:14} Bu sırada Davut hisarda, ikinci Filist birliğiyse Beytlehem'deydi.
+{23:15} Davut özlemle, “Keşke biri Beytlehem'de kapının yanındaki kuyudan bana su getirse!” dedi.
+{23:16} Bu Üçler Filist ordugahının ortasından geçerek Beytlehem'de kapının yanındaki kuyudan su çekip Davut'a getirdiler. Ama Davut içmek istemedi; suyu yere dökerek RAB'be sundu.
+{23:17} “Ya RAB, bunu yapmak benden uzak olsun!” dedi, “Canlarını tehlikeye atıp giden bu üç kişinin kanını mı içeyim?” Bu yüzden suyu içmek istemedi. Bu üç kişinin yiğitliği işte böyleydi.
+{23:18} Yoav'ın kardeşi, Seruya oğlu Avişay Üçler'in önderiydi. Mızrağını kaldırıp üç yüz kişiyi öldürdü. Bu yüzden Üçler kadar ünlendi.
+{23:19} Üçler'in en saygın kişisiydi ve onların önderi oldu. Ama Üçler'den sayılmadı.
+{23:20} Yehoyada oğlu Kavseelli Benaya yürekli bir savaşçıydı. Büyük işler başardı. Aslan yürekli iki Moavlı'yı öldürdü. Ayrıca karlı bir gün çukura inip bir aslan öldürdü.
+{23:21} İri yarı bir Mısırlı'yı da öldürdü. Mısırlı'nın elinde mızrak vardı. Benaya sopayla onun üzerine yürüdü. Mızrağı elinden kaptığı gibi onu kendi mızrağıyla öldürdü.
+{23:22} Yehoyada oğlu Benaya'nın yaptıkları bunlardır. Bu sayede o da üç yiğitler kadar ünlendi.
+{23:23} Benaya Otuzlar arasında saygın bir yer edindiyse de, Üçler'den sayılmadı. Davut onu muhafız birliği komutanlığına atadı.
+{23:24} Otuzlar'ın arasında sayılan ötekiler şunlardır: Yoav'ın kardeşi Asahel, Beytlehemli Dodo oğlu Elhanan,
+{23:25} İkisi de Harotlu olan Şamma ve Elika,
+{23:26} Paletli Heles, Tekoalı İkkeş oğlu İra,
+{23:27} Anatotlu Aviezer, Huşalı Mevunnay,
+{23:28} Ahohlu Salmon, Netofalı Mahray,
+{23:29} Netofalı Baana oğlu Helev, Benyaminoğulları'ndan Givalı Rivay oğlu İttay,
+{23:30} Piratonlu Benaya, Gaaş vadilerinden Hidday,
+{23:31} Arvalı Avialvon, Barhumlu Azmavet,
+{23:32} Şaalbonlu Elyahba, Yaşan'ın oğulları ve Yonatan,
+{23:33} Hararlı Şamma, Hararlı Şarar oğlu Ahiam,
+{23:34} Maakalı Ahasbay oğlu Elifelet, Gilolu Ahitofel oğlu Eliam,
+{23:35} Karmelli Hesray, Aravlı Paaray,
+{23:36} Sovalı Natan oğlu Yigal, Gatlı Bani,
+{23:37} Ammonlu Selek, Seruya oğlu Yoav'ın silah taşıyıcısı Beerotlu Nahray,
+{23:38} Yattirli İra ve Garev,
+{23:39} Hititli Uriya. Tümü otuz yedi kişiydi.
+{i24:1} Davut Sayım Yapıyor (1Ta.21:1-26)
+{24:1} RAB İsrail halkına yine öfkelendi. Davut'u onlara karşı kışkırtarak, “Git, İsrail ve Yahuda halkını say” dedi.
+{24:2} Kral, yanında bulunan ordu komutanı Yoav'a şu buyruğu verdi: “Dan'dan Beer-Şeva'ya dek İsrail'in bütün oymaklarına gidip halkı sayın ki, halkın sayısını bileyim.”
+{24:3} Ama Yoav, “RAB Tanrın halkını yüz kat daha çoğaltsın, efendim kralım da bunu görsün!” diye karşılık verdi, “Ancak, efendim kralım neden bunu istiyor?”
+{24:4} Gelgelelim kralın sözü Yoav'la birlik komutanlarının sözünden baskın çıktı. Böylece kralın yanından ayrılıp İsrail'de sayım yapmaya gittiler.
+{24:5} Şeria Irmağı'ndan geçerek Aroer yakınında, vadinin ortasındaki kentin güneyinde konakladılar.
+{24:6} Oradan Gat'ı, Yazer'i, Gilat'ı, Tahtim-Hodşi topraklarını, Dan-Yaan'ı geçip Sayda'ya vardılar.
+{24:7} Sonra Sur Kalesi'ne, Hivliler'le Kenanlılar'ın bütün kentlerine uğradılar. Sonunda Yahuda ülkesinin Negev bölgesindeki Beer-Şeva'ya ulaştılar.
+{24:8} Dokuz ay yirmi gün ülkeyi baştan başa dolaştıktan sonra Yeruşalim'e döndüler.
+{24:9} Yoav sayımın sonucunu krala bildirdi: İsrail'de kılıç kuşanabilen sekiz yüz bin, Yahuda'daysa beş yüz bin kişi vardı.
+{24:10} Davut sayım yaptıktan sonra kendisini suçlu buldu ve RAB'be, “Bunu yapmakla büyük günah işledim!” dedi, “Ya RAB, lütfen kulunun suçunu bağışla. Çünkü çok akılsızca davrandım.”
+{24:11} Ertesi sabah Davut uyandığında, RAB Davut'un bilicisi Peygamber Gad'a şöyle dedi: “Gidip Davut'a de
+{24:12} ki, ‘RAB şöyle diyor: Önüne üç seçenek koyuyorum. Bunlardan birini seç de sana onu yapayım.’”
+{24:13} Gad Davut'a gidip durumu anlattı ve şöyle dedi: “Ülkende yedi yıl kıtlık mı olsun? Yoksa seni kovalayan düşmanlarının önünden üç ay kaçmak mı istersin? Ya da ülkende üç gün salgın hastalık mı olsun? Beni gönderene ne yanıt vereyim, şimdi iyice düşün.”
+{24:14} Davut, “Sıkıntım büyük” diye yanıtladı, “İnsan eline düşmektense, RAB'bin eline düşelim. Çünkü O'nun acıması büyüktür.”
+{24:15} Bunun üzerine RAB o sabahtan belirlenen zamana dek İsrail ülkesine salgın hastalık gönderdi. Dan'dan Beer-Şeva'ya dek halktan yetmiş bin kişi öldü.
+{24:16} Melek Yeruşalim'i yok etmek için elini uzatınca, RAB göndereceği yıkımdan vazgeçti. Halkı yok eden meleğe, “Yeter artık! Elini çek” dedi. RAB'bin meleği Yevuslu Aravna'nın harman yerinde duruyordu.
+{24:17} Davut, halkı öldüren meleği görünce, RAB'be, “Günah işleyen benim, ben suç işledim” dedi, “Bu koyunlar ne yaptı ki? Ne olur beni ve babamın soyunu cezalandır.”
+{24:18} O gün Gad Davut'a gitti. Ona, “Gidip Yevuslu Aravna'nın harman yerinde RAB'be bir sunak kur” dedi.
+{24:19} Davut Gad'ın sözü uyarınca RAB'bin buyurduğu gibi gitti.
+{24:20} Aravna bakınca kralla görevlilerinin kendisine doğru yaklaştıklarını gördü. Varıp kralın önünde yüzüstü yere kapandı.
+{24:21} Sonra, “Efendim kral niçin kulunun yanına geldi?” diye sordu. Davut, “RAB'be bir sunak kurmak üzere harman yerini senden satın almak için” diye yanıtladı, “Öyle ki, salgın hastalık halkın üzerinden kalksın.”
+{24:22} Aravna, “Efendim kral uygun gördüğünü alıp RAB'be sunsun” dedi, “İşte yakmalık sunu için öküzler ve odun için düvenlerle öküzlerin takımları!
+{24:23} Ey kral, Aravna bütün bunları sana veriyor.” Sonra ekledi: “RAB Tanrın senden hoşnut olsun!”
+{24:24} Ne var ki kral, “Olmaz!” dedi, “Senden malını kesinlikle bir ücret karşılığında satın alacağım. Çünkü Tanrım RAB'be karşılığını ödemeden yakmalık sunular sunmam.” Böylece Davut harman yerini ve öküzleri elli şekel gümüş karşılığında satın aldı.
+{24:25} Davut orada RAB'be bir sunak kurup yakmalık sunuları ve esenlik sunularını sundu. RAB de ülkeyle ilgili yakarıyı yanıtladı ve salgın hastalık İsrail'den kaldırıldı.

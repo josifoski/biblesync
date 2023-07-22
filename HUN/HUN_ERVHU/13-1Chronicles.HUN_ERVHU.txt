@@ -1,0 +1,1023 @@
+{i1:1} Ádámtól Nóéig
+{1:1} Ádám, Sét, Enós,
+{1:2} Kénán, Mahalalél, Jered,
+{1:3} Énók, Metúselah, Lámek, Nóé.
+{1:4} Nóé fiai: Sém, Hám és Jáfet.
+{i1:5} Jáfet leszármazottjai
+{1:5} Jáfet fiai: Gómer, Mágóg, Mádaj, Jáván, Túbal, Mesek és Tírász.
+{1:6} Gómer fiai: Askenáz, Rífat és Tógarmá.
+{1:7} Jáván fiai: Elísá, Társis, Kittím és Ródáním.
+{i1:8} Hám leszármazottjai
+{1:8} Hám fiai: Kús, Micraim, Pút és Kánaán.
+{1:9} Kús fiai: Szebá, Havilá, Szabtá, Ramá és Szabteká. Ramá fiai: Sebá és Dédán.
+{1:10} Kús fia volt Nimród, aki a föld legerősebb és legbátrabb harcosa lett.
+{1:11} Micraimtól származtak a következő országok népei: Lúd, Anám, Leháb, Naftúh,
+{1:12} Patrósz, Kaszlúh és Kaftór. A filiszteusok Kaszlúhból jöttek.
+{1:13} Kánaán elsőszülött fia volt Szidón.
+{1:14} Kánaántól származtak a következő népek:
+{1:15} hettiták, jebúsziak, emóriak, girgásiak, hivviek,
+{1:16} arkaiak, színiek, arvádiak, cemáriak és hamátiak.
+{i1:17} Sém leszármazottjai
+{1:17} Sém fiai: Élám, Assúr, Arpaksad, Lúd és Arám. Arám fiai: Úc, Húl, Geter és Mesek.
+{1:18} Arpaksad fia volt Selah, az ő fia pedig Héber.
+{1:19} Hébernek két fia volt. Az egyiket Pelegnek nevezték, mert az ő idejében osztották fel a földet. Testvérét Joktánnak nevezték, akitől származtak a következők:
+{1:20} Almódád, Selef, Hacarmávet, Jerah,
+{1:21} Hadórám, Úzál, Dikla,
+{1:22} Ébál, Abimáél, Seba,
+{1:23} Ófir, Havíla, Jóbáb. Ők mindannyian Joktán fiai voltak.
+{1:24} Sém leszármazottjai: Arpaksad, Selah,
+{1:25} Héber, Peleg, Reú,
+{1:26} Szerúg, Náhor, Táré,
+{1:27} Abrám, vagyis Ábrahám.
+{i1:28} Ábrahám családja
+{1:28} Ábrahám fiai: Izsák és Izmáel.
+{1:29} Izmáeltől származtak: elsőszülött fia, Nebájót, azután Kédár, Abdeél, Mibszám,
+{1:30} Mismá, Dúmá, Masszá, Hadad, Témá,
+{1:31} Jetúr, Náfis és Kédmá. Ezek voltak Izmáel fiai.
+{1:32} Ábrahám fiai, akiket Ketúrá — Ábrahám szolgálója — szült: Zimrán, Joksán, Medán, Midján, Jisbák és Súah. Joksán fiai: Sebá és Dédán.
+{1:33} Midján fiai: Éfá, Éfer, Hanók, Abídá és Eldáá. Ezek Ketúrá fiai voltak.
+{i1:34} Ézsau leszármazottjai
+{1:34} Ábrahám lett Izsák apja. Izsák két fia: Ézsau és Izráel.
+{1:35} Ézsau fiai: Elifáz, Reúél, Jeús, Jalám és Kórah.
+{1:36} Elifáz fiai: Témán, Ómár, Cefí, Gatám, Kenaz. Elifáz fia volt Amálek, akit Timná szült.
+{1:37} Reúél fiai: Nahat, Zerah, Sammá és Mizzá.
+{1:38} Széír fiai: Lótán, Sóbál, Cibón, Aná, Dísón, Écer és Dísán.
+{1:39} Lótán fiai: Hóri és Hómám. Lótán leánytestvére volt Timná.
+{1:40} Sóbál fiai: Alján, Mánahat, Ébál, Sefí és Ónám. Cibón fiai: Ajjá és Aná.
+{1:41} Aná fia Dísón, az ő fiai pedig Hamrán, Esbán, Jitrán és Kerán.
+{1:42} Écer fiai: Bilhán, Zaaván és Jaakán. Dísón fia volt még Úc és Arán is.
+{1:43} Ezek a királyok uralkodtak Edom országában, még mielőtt Izráel népének királya lett volna: Bela, Beór fia. Bela városa Dinhábá volt.
+{1:44} Bela halála után a bocrai Jóbáb, Zerah fia lett a király.
+{1:45} Jóbáb halála után a témáni Húsám lett a király.
+{1:46} Húsám halála után Hadad, Bedad fia lett a király, aki legyőzte a midjániakat Moáb mezején. Hadad városa Avít volt.
+{1:47} Hadad halála után a maszrékai Szamlá lett a király.
+{1:48} Szamlá halála után Saul lett a király, aki Rehobótból származott, az Eufrátesz folyó mellől.
+{1:49} Saul halála után Baál-Hanán, Akbór fia lett a király.
+{1:50} Baál-Hanán halála után Hadad lett a király. Az ő városa Páí volt, felesége pedig Mehétabél, Matrét leánya. Matrét Mézáháb leánya volt.
+{1:51} Hadad halála után a következők lettek
+{1:52} Edom vezetői: Timmá, Aljá, Jetét, Oholíbámá,
+{1:53} Élá, Pínón, Kenaz, Témán, Micbár, Magdíél
+{1:54} és Írám. Ezek voltak Edom vezetői.
+{i2:1} Izráel fiai Júda leszármazottjai
+{2:1} Izráel fiai: Rúben, Simeon, Lévi, Júda, Issakár,
+{2:2} Zebulon, Dán, József, Benjámin, Naftáli, Gád és Ásér.
+{2:3} Júda fiai: Ér, Ónán és Sélá, akiket a kánaáni Batsúá szült Júdának. Az Örökkévaló látta, hogy Ér, Júda elsőszülött fia gonosz, ezért megölte őt.
+{2:4} Júdának Támártól, a saját menyétől is született két fia: Pérec és Zerah. Júdának tehát összesen öt fia volt.
+{2:5} Pérec fiai: Hecrón és Hámul.
+{2:6} Zerahnak öt fia született: Zimri, Étán, Hémán, Kalkól és Dára.
+{2:7} Zimri fia volt Karmi, Ákán apja. Ákán igen nagy bajt okozott Izráel népének, mert elvett magának a teljesen Istennek szentelt dolgokból.
+{2:8} Étán fia volt Azarjá.
+{2:9} Hecrón fiai: Jerahmeél, Rám és Kelúbaj.
+{i2:10} Rám leszármazottjai
+{2:10} Rám fia Amminádáb, annak fia Nahsón, aki Júda törzsének a vezetője volt.
+{2:11} Nahsón fia Szalmá, annak fia Boáz,
+{2:12} annak fia Obed, annak fia Isai.
+{2:13} Isai elsőszülött fia Eliáb, a második Abinádáb, a harmadik Simá,
+{2:14} a negyedik Netanél, az ötödik Raddaj,
+{2:15} a hatodik Ócem, a hetedik Dávid.
+{2:16} Isai leányai: Cerúja és Abigail. Cerúja három fia: Abisaj, Jóáb és Aszáél.
+{2:17} Abigail szülte Amászát, akinek apja az Izmáel népéből való Jeter volt.
+{i2:18} Káleb leszármazottjai
+{2:18} Káleb Hecrón fia volt, feleségét Azúbának nevezték, aki Jeriót leánya volt. Káleb fiai Azúbától: Jéser, Sóbáb és Ardón.
+{2:19} Azúba halála után Káleb feleségül vette Efrátot, aki Húrt szülte neki.
+{2:20} Húr fia Úri, annak fia Becalél volt.
+{2:21} Később, amikor Hecrón hatvan éves volt, feleségül vette Gileád apjának, Mákírnak az egyik leányát, akitől Szegúb született.
+{2:22} Szegúb fia volt Jáír, akinek 23 falu tartozott a birtokához Gileád vidékén.
+{2:23} De Gesúr és Arám elfoglalta Jáír falvait, közöttük Kenátot és a környező falvakat, összesen 60 települést, amelyek mind Gileád apjának, Mákírnak a birtokához tartoztak.
+{2:24} Hecrón Efrátában, Káleb városában halt meg. A felesége, Abijjá a férje halála után szülte meg Ashúrt, aki Hecróntól származott. Ashúr fia Tékoa volt.
+{i2:25} Jerahmeél leszármazottjai
+{2:25} Jerahmeél volt Hecrón elsőszülött fia. Jerahmeél fiai: Rám, az elsőszülött, azután Búná, Óren, Ócem és Ahijjá.
+{2:26} Jerahmeélnek volt egy másik felesége is, Atárá, akitől Ónám született.
+{2:27} Jerahmeél elsőszülött fia, Rám. Az ő fiai: Maac, Jámin és Éker.
+{2:28} Ónám fiai: Sammaj és Jádá. Sammaj fiai: Nádáb és Abisúr.
+{2:29} Abisúr felesége Abihail volt. Ő szülte Abhánt és Mólidot Abisúrnak.
+{2:30} Nádáb fiai: Szeled és Appaim. Szeled gyermektelenül halt meg.
+{2:31} Appaim fia volt Jisi, az ő fia Sésán, az ő fia Ahlaj.
+{2:32} Sammaj testvérének, Jádának fiai: Jeter és Jonatán. Jeter gyermektelenül halt meg.
+{2:33} Jonatán fiai: Pelet és Zázá. Ezek Jerahmeél leszármazottjai.
+{2:34} Sésánnak csak leányai voltak, de volt egy egyiptomi szolgája, Jarhá.
+{2:35} Sésán ehhez a szolgájához adta feleségül az egyik leányát. Ebből a házasságból született Attaj.
+{2:36} Attaj fia Nátán, annak fia Zábád,
+{2:37} annak fia Eflál, annak fia Obed,
+{2:38} annak fia Jéhú, annak fia Azarjá,
+{2:39} annak fia Helec, annak fia Elászá,
+{2:40} annak fia Sziszmaj, annak fia Sallúm,
+{2:41} annak fia Jekamjá, annak fia pedig Elisáma.
+{i2:42} Káleb többi leszármazottjai
+{2:42} Kálebnek, Jerahmeél testvérének a fiai: elsőszülöttje Mésá, akinek Zífi volt a fia; azután Marésa, aki Hebron apja volt.
+{2:43} Hebron fiai: Kórah, Tappúah, Rekem és Sema.
+{2:44} Sema fia volt Raham, annak fia Jorokám. Rekem fia Sammaj,
+{2:45} annak fia Máón, annak fia Bétcúr.
+{2:46} Kálebnek születtek fiai Éfától is, aki a szolgálója volt: Hárán, Mócá és Gázéz. Hárán fiát szintén Gázéznak hívták.
+{2:47} Johdaj fiai: Regem, Jótám, Gésán, Pelet, Éfá és Sáaf.
+{2:48} Kálebnak a másik szolgálójától, Maakától is születtek fiai: Seber, Tirhaná,
+{2:49} Sáaf, Sevá. Sáaf fia volt Madmanná. Sevá fiai: Makbéna és Gibea. Káleb leánya volt Aksza.
+{2:50} Káleb leszármazottjai: Ben-Húr, az elsőszülöttje, akinek Efrátá volt az anyja, azután Sóbál, Kirját-Jeárim megalapítója,
+{2:51} azután Szalmá, Betlehem megalapítója, azután Háréf, Bét-Gádér megalapítója.
+{2:52} Sóbál volt Kirját-Jeárim megalapítója. Az ő leszármazottjai: Háróe és Menuhót lakosainak a fele
+{2:53} és Kirját-Jeárim családjai: a jítriek, a pútiak, a sumátiak és a misráiak. Ez utóbbiaktól származtak a coráiak és az estáóliak.
+{2:54} Szalmá leszármazottjai: Betlehem, Netófá, Atrót és Bét-Jóáb lakosai, azután Menuhót lakosainak másik fele, a córiak
+{2:55} és az írástudók családjai. Ez utóbbiak Jabéc, Tirát, Simát és Szúkát városokban laktak. Ezeket nevezték kénieknek, akik Hammat családjából származtak. Hammat volt Bét-Rékáb megalapítója.
+{i3:1} Dávid családja
+{3:1} Ezek voltak Dávid fiai, akik Hebronban születtek: Amnón volt az elsőszülött, a jezréeli Ahinóamtól, azután Dániel, a második, a kármeli Abigailtól, azután
+{3:2} Absolon, a harmadik. Absolon anyja Maaká, Gesúr királyának, Talmajnak a leánya volt. Azután Adónijjá, a negyedik fiú, Haggit fia, azután
+{3:3} Sefatjá az ötödik, Abitál fia, azután Jitreám, a hatodik, akinek Eglá volt az anyja, Dávid egyik felesége.
+{3:4} Ez a hat fiú született Hebronban, ahol Dávid hét évig és hat hónapig uralkodott. Jeruzsálemben Dávid 33 évig uralkodott.
+{3:5} Ott született Batsúától, Ammiél leányától ez a négy fia: Simá, Sóbáb, Nátán és Salamon.
+{3:6} Ugyancsak Jeruzsálemben született Dávidnak kilenc
+{3:7} további fia: Jibhár, Elisáma, Elifelet,
+{3:8} Nógah, Nefeg, Jáfia, Elisáma, Eljádá és Elifelet.
+{3:9} Ezek mindannyian Dávid fiai voltak. Rajtuk kívül Dávidnak születtek fiai a szolgálóitól is. Dávid leánya volt Támár.
+{i3:10} Júda királyai Salamon után
+{3:10} Salamon fia volt Roboám, ennek fia Abijjá, ennek fia Ászá, ennek fia Jósafát,
+{3:11} ennek fia Jórám, ennek fia Ahazjá, ennek fia Jóás,
+{3:12} ennek fia Amacjá, ennek fia Uzzijjá, ennek fia Jótám,
+{3:13} ennek fia Áház, ennek fia Ezékiás, ennek fia Manassé,
+{3:14} ennek fia Ámón, ennek fia Jósiás.
+{3:15} Jósiás fiai: az elsőszülött Jóhanán, a második Jójákim, Cidkijjá a harmadik és Sallúm a negyedik.
+{3:16} Jójákim fiai: Jekonjá és Cidkijjá.
+{i3:17} Dávid leszármazottjai a Babiloni fogság után
+{3:17} Jekonját fogságba vetették. Az ő leszármazottjai: Sealtiél,
+{3:18} Malkirám, Pedájá, Senaccar, Jekamjá, Hósámá és Nedabjá.
+{3:19} Padájá fiai: Zerubbábel és Simei. Zerubbábel fiai: Mesullám és Hananjá, a nővérük pedig Selómit.
+{3:20} Zerubbábelnek volt még öt másik fia: Hasubá, Óhel, Berekjá, Haszadjá és Júsab-Heszed.
+{3:21} Hananjá fiai: Pelatjá és Jesája. Jesája fia Refájá, annak fia Arnán, annak fia Óbadjá, annak fia Sekanjá volt.
+{3:22} Sekanjá utódai: a fia, Semajá, és annak fiai: Hattús, Jigál, Báríah, Nearjá és Sáfát — összesen hatan.
+{3:23} Nearjának három fia volt: Eljóénaj, Ezékiás és Azrikám.
+{3:24} Eljóénaj hét fia: Hódavjáhú, Eljásib, Pelájá, Akkúb, Jóhánán, Delája és Anáni.
+{i4:1} Júda leszármazottjai
+{4:1} Júda leszármazottjai: Pérec, Hecrón, Karmi, Húr és Sóbál.
+{4:2} Sóbál fia Reájá, ennek fia Jahat, ennek fiai Ahúmaj és Lahad. Tőlük származnak a córiak nemzetségei.
+{4:3} Húr fiai: Jizreel, Jismá és Jidbás — ők alapították meg Étám városát. A nővérük neve: Haclelpóni.
+{4:4} Penúél fia Gedór. Ezer fia Húsá. Ezek Húr leszármazottjai, aki Efráta elsőszülöttje volt. Húr alapította meg Betlehem városát.
+{4:5} Ashúr volt Tékoa városának a megalapítója. Ashúrnak két felesége volt: Helá és Naará.
+{4:6} Naará szülte Ahuzámot, Héfert, Témenit és Ahastárit — ezek voltak Naará fiai Ashúrtól.
+{4:7} Helá fiai: Ceret, Jecóhar, Etnán és Kóc.
+{4:8} Kóc fiai: Ánúb és Haccóbéba. Kóc leszármazottjai Aharhélnek, Hárúm fiának a nemzetségei is.
+{4:9} Jabéc kiemelkedett a testvérei közül, mert mindenki nagyra becsülte. Anyja ezt mondta róla: „Nagy fájdalommal szültem őt!” Ezért nevezte el Jabécnek.
+{4:10} Jabéc Izráel Istenét hívta segítségül, benne bízott, és ezt kérte tőle: „Istenem, áldj meg engem! Adj nekem nagyobb területet, ahol élhetünk! Kezed legyen velem állandóan! Kérlek, védj meg minden bajtól és gonosztól, hogy ne érjen fájdalom!” Isten megadta neki, amit kért.
+{4:11} Súhá testvére volt Kelúb, annak fia pedig Mehír, annak fia Estón,
+{4:12} annak fia Bét-Ráfa, Pászéah és Tehinná. Tehinná alapította Ír-Náhást. Tőlük származnak a rékaiak.
+{4:13} Kenaz fiai Otniél és Szerájá. Otniél fiai: Hatat és Meónótaj,
+{4:14} ez utóbbi fia pedig Ofra. Szerája fia Jóáb, aki megalapította Gé-Harásimot. Azért nevezték így ezt a várost, mert az ottani lakosok mindenféle mesterséghez értettek.
+{4:15} Jefunne fia Káleb, annak fiai: Írú, Élá és Naam. Éla fia Kenáz.
+{4:16} Jehallelél fiai: Zíf, Zífá, Tirjá és Aszarél.
+{4:17} Ezrá fiai: Jeter, Mered, Éfer és Jálón. Jeter gyermekei: Mirjám, Sammaj és Jisbáh. Jisbáh volt az apja Estemóának.
+{4:18} Mered egyik felesége, Bitjá az egyiptomi fáraó leánya volt. Mered fiai, akiket Bitjá szült: Jered, Héber és Jekútiél. Jered volt Gedór apja. Héber volt Szókó apja. Jekútiél volt Zánóah apja.
+{4:19} Mered másik felesége Júdából származott, és Naham nővére volt. Ettől a feleségétől is születtek Merednek gyermekei: Keila apja, akitől a geremiek nemzetsége származott, és Estemóa apja, akitől a maakái nemzetség származott.
+{4:20} Simon fiai: Amnón, Rinná, Benhánán és Tilón. Jisi fia volt Zóhét, és annak fia Benzóhét.
+{4:21} Júda fia volt Sélá, ennek utódai: Ér, aki megalapította Léká városát, azután Laddá, aki Marésá városát alapította. Sélá utódai voltak a Bét-Asbéa vidékén élő lenvászon-készítő családok,
+{4:22} valamint Jókim, Jóás, Száráf és a kózébái nemzetségek. Jóás és Száráf moábi asszonyokat vettek feleségül, majd visszatértek Betlehembe. Ezek már régen történtek.
+{4:23} Sélá utódai fazekasok voltak, akik Netáimban és Gedérában laktak, és a király számára készítették az edényeket.
+{i4:24} Simeon leszármazottjai
+{4:24} Simeon fiai: Nemuél, Jámin, Járib, Zerah és Saul.
+{4:25} Saul fia Sallum, ennek fia Miszbám, ennek fia Mismá
+{4:26} ennek fia Hammuél, ennek fia Zakkúr, ennek fia Simei.
+{4:27} Simeinek tizenhat fia és hat leánya volt. Simei fiútestvéreinek azonban nem volt sok gyermekük, és a családjaik kisebbek voltak, mint a többi Júda törzsébe tartozó nemzetségek.
+{4:28} Simei utódai a következő városokban laktak: Beérsebá,
+{4:29} Móládá, Hacar-Súál, Bilha, Ecem, Tólád, Betuél, Horma,
+{4:30} Ciklág, Bét-Markábót, Hacar-Szúszim, Bét-Biri és Saarim. Dávid
+{4:31} uralkodásának kezdetéig ők ezekben a városokban és falvakban laktak.
+{4:32} További öt falujuk is volt: Étám, Ain, Rimmón, Tóken és Ásán.
+{4:33} Ezeken kívül még számos községben laktak egészen Baalátig. Ezek voltak a lakóhelyeik. Családjaik származási jegyzékét is összeállították.
+{4:34} Családfőik a következők voltak: Mesóbáb, Jamélek, Jósá (Amacjá fia), Jóel,
+{4:35} Jéhú (aki Josibjá fia, aki Szerájá fia, aki Asziél fia
+{4:36} volt), azután Eljóénaj, Jaakóbá, Jesóhájá, Aszájá, Adíél, Jeszímiél, Benája és
+{4:37} Zizá (aki Sifi fia, aki Allón fia, aki Jedájá fia,
+{4:38} aki Simrí fia, aki Semájá fia volt). Ezeknek a családjai igen megszaporodtak,
+{4:39} ezért Gedór felé terjeszkedtek, a völgy keleti részére, hogy ott keressenek a nyájaiknak legelőt.
+{4:40} Találtak is ott dús és tágas legelőket. Az egész vidék csendes és békés volt. Korábban hámiak laktak ott.
+{4:41} Ezékiás, Júda királya idejében az említett családfők legyőzték a hámiakat, a sátraikat lerombolták, és a helyükre telepedtek. Hasonlóképpen teljesen kiirtották onnan a meúniakat is. Mindmáig a meúniak közül senki nem lakik ott. Azóta az említett családfők nemzetségei laknak ezen a vidéken, mert ott találtak a nyájaiknak legelőt.
+{4:42} Simeon törzséből ötszáz férfi felment a Széír-hegységbe, Jisí fiainak a vezetésével. Ezek a vezetők a következők voltak: Pelatjá, Nearjá, Refájá és Uzzíél. Azért mentek, hogy elfoglalják azt a vidéket.
+{4:43} Akkoriban már csak kevesen maradtak meg az amálekiek közül. A Simeon törzséből valók pedig végleg kiirtották őket, és attól fogva mindmáig ők laknak a Széír-hegységben.
+{i5:1} Rúben leszármazottjai
+{5:1} Itt következnek Rúben leszármazottjai: Izráel elsőszülöttje Rúben volt, ezért őt illette volna az elsőszülöttség joga. Azonban, mivel Rúben az apja feleségével hált, elvesztette elsőszülöttségi jogát, amely Józsefnek, Izráel fiának az utódaira szállt. Ezért a származási jegyzékben Rúben neve nem úgy szerepel, mint az elsőszülötté.
+{5:2} Júda törzse erősebb és hatalmasabb lett, mint Júda testvéreinek a törzsei. A fejedelem is Júdából származott, az elsőszülöttségi jog mégis József törzsénél maradt.
+{5:3} Rúbennek, Izráel elsőszülöttjének a fiai: Hanók, Pallú, Hecrón és Karmi.
+{5:4} Jóel utódai a következők: Jóel fia Semajá, ennek fia Góg, ennek fia Simei,
+{5:5} ennek fia Miká, ennek fia Reájá, ennek fia Baál,
+{5:6} ennek fia Beérá. Rúben törzsének a fejedelme Beérá volt, de Tiglat-Pileszer asszír király fogságba hurcolta.
+{5:7} Jóel testvérei és a családjaik a következők, amint azt feljegyezték: Jeiél volt a nemzetségfő, azután Zakarjáhú,
+{5:8} azután Bela, Ázáz fia (aki Sema fia, aki Jóel fia volt). Bela családja Aróérban lakott, egészen Nebóig és Baál-Meónig,
+{5:9} kelet felé pedig egészen az Eufrátesz folyótól nyugatra elterülő sivatagnak a széléig terjeszkedtek, mert a nyájaik nagyon megszaporodtak Gileád földjén.
+{5:10} Saul király idejében Bela nemzetsége harcolt a hagriak ellen, és legyőzte őket. Ezután a hagriak helyére telepedtek, és attól kezdve ők laktak a Gileádtól keletre elterülő vidéken.
+{i5:11} Gád leszármazottjai
+{5:11} Gád törzse Básán vidékén lakott, Rúben törzse közelében, egészen Szalká városáig. Gád törzsének
+{5:12} első vezetője Básánban Jóel volt, utána Sáfám lett a vezető, majd Janaj következett.
+{5:13} A rokonaik a következők voltak: Mikáél, Mesullám, Seba, Jóraj, Jakán, Zia és Héber — összesen heten.
+{5:14} Ezek mind Abihail leszármazottjai voltak. Abihail Húri fia, aki Járóah fia, aki Gileád fia, aki Mikaél fia, aki Jesísa fia, aki Jahdó fia, aki Búz fia volt.
+{5:15} Ahi volt a család vezetője. Ahi Abdiél fia, aki Gúni fia volt.
+{5:16} Gád törzse Gileádban és Básánban lakott, és az ottani falvakban, azután Sáron legelőin, egészen a határig.
+{5:17} Mindezeket felírták a nemzetségek jegyzékébe Jótám és Jeroboám idejében. Jótám Júda királya, Jeroboám pedig Izráel királya volt.
+{i5:18} A Jordán keleti vidékének elfoglalása
+{5:18} Rúben és Gád törzséből, meg Manassé törzsének feléből 44 760 harcos gyűlt össze, hogy hadjáratot indítsanak a hagriak népe, Jetúr,
+{5:19} Náfis és Nódáb népe ellen. Az izráeli sereg tapasztalt harcosokból állt, akik jól fel voltak fegyverkezve karddal, pajzzsal és íjakkal.
+{5:20} Mégis Istenhez kiáltottak segítségért harc közben, mert benne bíztak, és tőle kérték a győzelmet. Isten pedig meghallgatta és megsegítette őket, nekik adta a győzelmet. Így győzték le a hagriakat és a többi izmaelita törzset.
+{5:21} Nagy zsákmányt szereztek: 50 000 tevét, 250 000 juhot, 2 000 szamarat, és ezenkívül 100 000 foglyot ejtettek.
+{5:22} A harcban sok ellenségük elesett, mert ez az egész hadjárat Isten ügye volt. Így azután Rúben és Gád törzse, meg Manassé fél törzse letelepedett a legyőzöttek helyére, és egészen az asszír fogság idejéig ott éltek.
+{i5:23} Manassé fél törzse
+{5:23} Manassé törzsének egyik fele, amely a Jordán keleti oldalán telepedett le, Básántól Baál-Hermónig, Szenírig és a Hermón-hegységig nagyon megszaporodott.
+{5:24} A vezetőik a következők voltak: Éfer, Jisi, Eliél, Azriél, Jirmejá, Hódavjá és Jahdiél — valamennyien erős, bátor és híres nemzetségfők.
+{5:25} Azonban nem maradtak hűségesek Istenhez, akit őseik imádtak, hanem azokat az idegen isteneket kezdték imádni, akiket az előttük ott élő idegen népek tiszteltek. Pedig ezeket az idegen népeket Isten pusztította el.
+{5:26} Ezért Izráel Istene arra indította Asszíria királyának, Púlnak a szellemét, hogy hadjáratot vezessen ellenük. Ennek során Púl — akit más néven Tiglat-Pileszernek neveztek — megtámadta Rúben, Gád és Manassé törzseit. Legyőzte és száműzetésbe hurcolta őket Halah, Hábór és Hára környékére, és a Gózán folyó mellé. Ott laknak mind a mai napig.
+{i6:1} Lévi leszármazottjai
+{6:1} Lévi fiai: Gersón, Kehát és Merári.
+{6:2} Kehát fiai: Amrám, Jichár, Hebron és Uzziél.
+{6:3} Amrám gyermekei: Áron, Mózes és Mirjám. Áron fiai: Nádáb, Abihú, Eleázár és Ítámár.
+{6:4} Eleázár fia Fineás, annak fia Abisúá,
+{6:5} annak fia Bukki, annak fia Uzzi,
+{6:6} annak fia Zerahjá, annak fia Merájót,
+{6:7} annak fia Amarjá, annak fia Ahitúb,
+{6:8} annak fia Cádók, annak fia Ahimaac,
+{6:9} annak fia Azarjá, annak fia Jóhánán,
+{6:10} annak fia Azarjá volt. Ez utóbbi már abban a Templomban szolgált papként, amelyet Salamon épített Jeruzsálemben.
+{6:11} Azarjá fia Amarjá, annak fia Ahitúb,
+{6:12} annak fia Cádók, annak fia Sallum,
+{6:13} annak fia Hilkijjá, annak fia Azarjá,
+{6:14} annak fia Szerájá, annak fia pedig Jehócádák volt.
+{6:15} Amikor az Örökkévaló Júdát és Jeruzsálemet Nebukadneccar babiloni király által száműzetésbe küldte, Jehócádák is velük együtt ment a fogságba.
+{6:16} Lévi fiai: Gersón, Kehát és Merári.
+{6:17} Gérsón fiai: Libni és Simei.
+{6:18} Kehát fiai: Amrám, Jichár, Hebron és Uzziél.
+{6:19} Merári fia volt Musi, ennek fia Mahli. A léviták családjai a következők, a családfők sorrendje szerint:
+{6:20} Gérsón utódai: Gérsón fia Libni, ennek fia Jahat, ennek fia Zimmá,
+{6:21} ennek fia Jóáh, ennek fia Iddó, ennek fia Zerah, ennek fia Jeotraj.
+{6:22} Kehát fia Amminádáb, ennek fia Kóráh, ennek fiai:
+{6:23} Asszír, Elkána és Ebjászáf. Asszír fia Tahat, ennek
+{6:24} fia Úriél, ennek fia Uzzijjá, ennek fia Saul.
+{6:25} Elkána fiai: Amászaj és a testvére, Ahimót.
+{6:26} Ahimót fia Elkána, ennek fia Cófaj, ennek fia Nahat,
+{6:27} ennek fia Eliáb, ennek fia Jeróhám, ennek fia Elkána, ennek fia Sámuel.
+{6:28} Sámuel fiai: Jóel az elsőszülött és Abijjá a második.
+{6:29} Merári fia Mahli, ennek fia Libni, ennek fia Simei, ennek
+{6:30} fia Uzza, ennek fia Simá, ennek fia Haggijá, ennek fia Aszájá.
+{i6:31} Az énekes léviták
+{6:31} Ezeket a lévitákat választotta ki Dávid király, hogy az Örökkévaló házában a dicséretet végezzék. Ez azután történt, hogy a Szövetségládát Dávid Jeruzsálembe hozta.
+{6:32} Ezek a léviták addig teljesítettek szolgálatot a Találkozás Sátora előtt, amíg Salamon felépítette az Örökkévaló Templomát Jeruzsálemben. Szolgálatukat a kapott rendtartás szerint végezték.
+{6:33} A következők végezték a dicsőítés szolgálatát, fiaikkal együtt: Kehát leszármazottjai közül: Hémán, az énekes, Jóel fia volt, aki Sámuel fia,
+{6:34} aki Elkána fia, aki Jeróhám fia, aki Eliél fia, aki Tóah fia,
+{6:35} aki Cúf fia, aki Elkána fia, aki Mahat fia, aki Amászaj fia,
+{6:36} aki Elkána fia, aki Jóel fia, aki Azarjá fia, aki Cefanjá fia,
+{6:37} aki Tahat fia, aki Asszír fia, aki Ebjászáf fia, aki Kórah fia,
+{6:38} aki Jichár fia, aki Kehát fia, aki Lévi fia, aki Izráel fia volt.
+{6:39} Ászáf a dicsőítő szolgálatban Hémán jobb keze felől állt. Hémán és Ászáf rokonok voltak. Ászáf Berekjáhú fia volt, aki Simá fia, aki
+{6:40} Mikáél fia, aki Baaszéja fia, aki Malkijjá fia,
+{6:41} aki Etni fia, aki Zerah fia, aki Adájá fia,
+{6:42} aki Étán fia, aki Zimmá fia, aki Simei fia,
+{6:43} aki Jahat fia, aki Gérsón fia, aki pedig Lévi fia volt.
+{6:44} A dicsőítő szolgálatban Hémán bal oldalán a rokonai, Merári következő leszármazottjai álltak: Étán Kisi fia volt, aki Abdi fia, aki Mallúk fia,
+{6:45} aki Hasabjá fia, aki Amacjá fia, aki Hilkijjá fia,
+{6:46} aki Amci fia, aki Báni fia, aki Semer fia,
+{6:47} aki Mahli fia, aki Músi fia, aki Merári fia, aki pedig Lévi fia volt.
+{6:48} Rokonaik, a többi léviták a Szent Sátor és a Templom körüli szolgálatokat végezték.
+{6:49} Azonban csakis Áron leszármazottjai mutathatták be az áldozatokat az égőáldozatok oltárán és a füstölő-oltáron, csak ők végezhették a Szentek Szentjével kapcsolatos szertartásokat, amelyekkel Izráel népének engesztelést szereztek. Mindezeket a szolgálatokat Mózesnek, Isten szolgájának a parancsai szerint végezték.
+{i6:50} Áron leszármazottjai
+{6:50} Ezek voltak Áron utódai: Áron fia Eleázár, ennek fia Fineás, ennek fia Abisúa,
+{6:51} ennek fia Bukki, ennek fia Uzzi, ennek fia Zerahjá,
+{6:52} ennek fia Merájót, ennek fia Amarjá, ennek fia Ahitúb,
+{6:53} ennek fia Cádók, ennek fia Ahimaac volt.
+{i6:54} A léviták lakóhelyei
+{6:54} Áron leszármazottjai a következő területeken és településeken laktak. Áron fiai közül Kehát nemzetsége kapott először a léviták számára sorsvetés által kijelölt területet.
+{6:55} Nekik jutott a júdabeli Hebron, a környező legelőkkel együtt.
+{6:56} A várostól távolabb fekvő legelőket és a falvakat azonban Káleb, Jefunne fia és a családja kapta.
+{6:57} Áron családja kapta tehát Hebron városát, amely menedékváros
+{6:58} volt. Ezen kívül övék lett Libna, Jattír, Estemóá,
+{6:59} Híléz, Debír, Ásán, Bétsemes és a városokat környező legelők.
+{6:60} Benjámin törzsi területén Áron családja kapta Geba, Álemet és Anatót városokat, és a körülöttük fekvő legelőket. Így Kehát nemzetsége összesen tizenhárom várost kapott.
+{6:61} Kehát nemzetségének a többi családjai további tíz várost kaptak sorsolással, azon a területen, amelyen Manassé fél törzse lakott.
+{6:62} Gérsón nemzetsége tizenhárom várost kapott Issakár, Ásér, Naftáli és Manassé törzsi területén Básánban.
+{6:63} Mérári családja sorsolással tizenkét várost kapott Rúben, Gád és Zebulon törzsi területén.
+{6:64} Izráel népe így adott a lévitáknak városokat és legelőket.
+{6:65} Júda, Simeon és Benjámin törzsi területén is adtak városokat a lévitáknak, szintén sorsvetés útján.
+{6:66} Kéhát nemzetsége Efraim törzsi területén is kapott néhány várost.
+{6:67} Ezek a következők: Sikem, amely menedékváros volt; azután Gézer,
+{6:68} meg Jokmeám és Bét-Hórón. Ezek a városok az Efraim-dombvidéken helyezkedtek el. A városokkal együtt a léviták a környező legelőket is megkapták.
+{6:69} Ezeken kívül Kéhát nemzetsége Dán törzsi területén megkapta Eltekét, Gibbetónt, Ajjálónt és Gat-Rimmónt, a legelőikkel együtt.
+{6:70} Manassé fél törzsének területén Kéhát nemzetségének a többi része megkapta Anért és Bileámot és legelőiket is.
+{i6:71} A léviták egyéb városai
+{6:71} Gérsón családja kapta a következő városokat: Gólánt és Astárótot — Manassé fél törzsének a területén, Básánban;
+{6:72} azután Kedest, Dobratot,
+{6:73} Rámótot és Anémot — Issakár törzsi területén;
+{6:74} azután Másált, Abdónt,
+{6:75} Húkókot és Rehobót — Ásér törzsi területén;
+{6:76} meg Kedest, Hammónt és Kirjátaimot — Naftáli törzsi területén. Ezekkel a városokkal együtt a hozzájuk tartozó legelőket is megkapták.
+{6:77} Mérári családjának másik része a következő városokat kapta: Rimmónót és Tábórt — Zebulon törzsi területén;
+{6:78} azután Becert, Jachát, Kedémótot és Méfaatot — ezek a
+{6:79} pusztában fekszenek, a Jordántól és Jerikótól keletre, Rúben törzsi területén;
+{6:80} azután Rámót Gileádot, Mahanáimot,
+{6:81} Hesbónt és Jazért — Gád törzsi területén, Gileádban. A városokkal együtt a hozzájuk tartozó legelőket is megkapták.
+{i7:1} Issakár leszármazottjai
+{7:1} Issakárnak négy fia volt: Tólá, Púá, Jásúb és Simrón.
+{7:2} Tólá fiai: Uzzi, Refájá, Jeriél, Jahmaj, Jibszám és Sámuel — akik mind nemzetségfők lettek. Leszármazottjaikkal együtt erős és bátor harcosok voltak. Dávid király uralkodása idején összesen 22 600 harcost tudtak kiállítani.
+{7:3} Uzzi fia volt Jizrahjá, az ő fia pedig Mikaél, Óbadjá, Jóel és Jissijá — mind az öten vezetők a maguk családjában.
+{7:4} A vezetésük alá tartozó — és a rokonságukból álló — sereg 36 000 harcosból állt, ugyanis általában több feleségük és számos gyermekük volt.
+{7:5} Issakár törzse a nemzetségi jegyzék szerint összesen 87 000 harcost tudott kiállítani.
+{i7:6} Benjámin leszármazottjai
+{7:6} Benjáminnak három fia volt: Bela, Beker és Jedíaél.
+{7:7} Bela fiai: Ecbón, Uzzi, Uzziél, Jerimót és Íri. Mind az öten családfők voltak és bátor harcosok. Bela utódai a nemzetségi jegyzék szerint összesen 22 034 harcost tudtak kiállítani.
+{7:8} Beker fiai: Zemírá, Jóás, Eliézer, Eljóénaj, Omri, Jerémót, Abijjá, Anátót és Álemet.
+{7:9} Beker utódai a nemzetségi jegyzék szerint összesen 20 200 harcost tudtak kiállítani, akik valamennyien családfők és bátor katonák voltak.
+{7:10} Jedíaél fia volt Bilhán, annak fiai: Jeús, Benjámin, Éhúd, Kenaaná, Zétán, Társis és Ahisahar.
+{7:11} Jedíaél utódai összesen 17 200 harcost tudtak kiállítani, akik valamennyien családfők és bátor katonák voltak.
+{7:12} Suppim és Huppim Ír fiai voltak. Husim Ahár fia volt.
+{i7:13} Naftáli leszármazottjai
+{7:13} Naftáli fiai: Jahaciél, Gúni, Jécer és Sallúm — valamennyien Bilha unokái.
+{i7:14} Manassé leszármazottjai
+{7:14} Manassé fiai: Aszriél, és Mákír, akit Manassé arám származású szolgálója szült. Mákír fia volt Gileád.
+{7:15} Mákír a huppiták és suppiták közül vett magának feleséget. Mákír nővére volt Maaká. A másodikat Célofhádnak hívták, akinek csak leányai születtek.
+{7:16} Mákír felesége, Maaká fiút szült, akit Peresnek nevezett el. Peres testvére volt Seres, akinek a fiai voltak Úlám és Rekem.
+{7:17} Úlám fia Bedán volt. Ezek voltak Gileádnak, Mákír fiának (aki Manassé fia volt) a leszármazottjai.
+{7:18} Gileád nővérének, Hammóleketnek gyermekei: Ishód, Abiezer, Mahla és Semídá.
+{7:19} Semídá fiai: Ahján, Sekem, Likhi és Aniám.
+{i7:20} Efraim leszármazottjai
+{7:20} Efraim fia volt Sútelah, ennek fia Bered, ennek fia Tahat, ennek fia Eládá, ennek fia Tahat,
+{7:21} ennek fia Zábád, ennek fia Sútelah. Efraim fiai voltak még Ézer és Elád is, akiket Gát városának a lakói megöltek, amikor ez a két fiú el akarta lopni a gátiak juhait és marháit.
+{7:22} Efraim sokáig gyászolta ezt a két fiát. Végül a testvérei meglátogatták és megvigasztalták.
+{7:23} Ezután Efraim felesége fiút szült, akit Efraim Berijának nevezett, mert ilyen nagy szerencsétlenség történt Ézerrel és Eláddal.
+{7:24} Berija leánya volt Seerá, aki felépítette alsó és felső Bét-Hórónt és Uzén-Seerát.
+{7:25} Berija fia volt Refah, ennek fia Resef, ennek fia Telah, ennek fia Tahan,
+{7:26} ennek fia Ladán, ennek fia Ammihúd, ennek fia Elisáma,
+{7:27} ennek fia Nún, ennek fia Józsué.
+{7:28} Efraim leszármazottjainak lakóhelyei és birtokai a következők voltak: Bétel, azután kelet felé Naarán, nyugat felé Gézer, azután Sikem, és egészen Ajjáig — valamint a városokhoz tartozó falvak.
+{7:29} Ezen kívül az övék volt még a Manassé törzsi területével határos vidéken: Bétseán, Taanak, Meggidó és Dór, valamint a városokhoz tartozó falvak. Ezekben laktak Izráel fiának, Józsefnek a leszármazottjai.
+{i7:30} Ásér leszármazottjai
+{7:30} Ásér gyermekei: Jimná, Jisvá, Jisvi, Berija — a fiai — , és Szerah, a leánya.
+{7:31} Berija fiai: Héber és Malkiél. Malkiél fia Birzávit.
+{7:32} Héber gyermekei: Jaflét, Sómér és Hótám — a fiai — , és Súa, a leánya.
+{7:33} Jaflét fiai: Pászak, Bimhál, Asvát. Ezek voltak Jaflét fiai.
+{7:34} Sómér fiai: Ahi, Rohgá, Jehubbá és Arám.
+{7:35} Sómér testvérének, Helemnek a fiai: Cófah, Jimná, Séles és Ámal.
+{7:36} Cófah fiai: Szúah, Harnefer, Súál, Béri, Jimrá,
+{7:37} Becer, Hód, Sammá, Silsá, Jitrán és Beérá.
+{7:38} Jeter fiai: Jefunne, Piszpá és Ará.
+{7:39} Ullá fiai: Árah, Hanniél és Ricjá.
+{7:40} Ezek voltak Ásér leszármazottjai, a családfők, mind kiváló harcosok és vezetők. Katonai szolgálatra készített jegyzékük szerint 26 000 harcost tudtak kiállítani.
+{i8:1} Benjámin leszármazottjai
+{8:1} Benjámin elsőszülött fia Bela, a második Asbél, a harmadik Ahrah,
+{8:2} a negyedik Nóhá, az ötödik Ráfá.
+{8:3} Bela fiai: Addár, Gera, Abihúd,
+{8:4} Abisúa, Naámán, Ahóah,
+{8:5} Gera, Sefúfán és Húrám.
+{8:6} Éhúd fiai: Naámán, Ahijjá és Gera. Ezek családfők voltak, akik Gebában laktak,
+{8:7} de később átköltöztek Mánáhatba. Gera költöztette őket át. Gera fiai: Uzza és Ahiúd.
+{8:8} Saharaim elvált két feleségétől, Húsimtól és Baarától, amikor Moáb földjén lakott. Azután egy másik feleségétől fiai születtek.
+{8:9} Hódes nevű feleségétől születtek ezek a fiai, akik mind
+{8:10} családfők lettek: Jóbáb, Cibjá, Mésa, Malkám, Jeúc, Szokjá és Mirmá.
+{8:11} Abitúb és Elpaal szintén Saharaim és Húsim fiai voltak.
+{8:12} Elpaal fiai: Éber, Misám, Semed, Berija és Sema. Semed építette Ónó és Lód városait, meg a
+{8:13} környező falvakat. Berija és Sema voltak az Ajjálónban élő családok vezetői. Ők űzték el Gát lakosait.
+{8:14} Berija fiai: Ahjó, Sásák,
+{8:15} Jerémót, Zabadjá, Arád, Eder,
+{8:16} Mikaél, Jispá és Jóhá.
+{8:17} Elpaal fiai: Zebadjá, Mesullám, Hizki,
+{8:18} Héber, Jismeraj, Jizlíá és Jóbáb.
+{8:19} Simei fiai: Jákim, Zikri,
+{8:20} Zabdi, Eliénaj, Cillétaj, Eliél,
+{8:21} Adájá, Berájá és Simrát.
+{8:22} Sásák fiai: Jispán,
+{8:23} Éber, Eliél, Abdón,
+{8:24} Zikri, Hánán, Hananjá,
+{8:25} Élám, Antótijjá, Jifdejá és Penúél.
+{8:26} Jeróhám fiai: Samseraj, Seharjá,
+{8:27} Atalja, Jaaresjá, Élijjá és Zikri.
+{8:28} Ezek valamennyien Jeruzsálemben laktak, és a nemzetségi jegyzék szerint családfők voltak.
+{i8:29} Saul király családja
+{8:29} Jeiél alapította Gibeon városát, és ott is lakott. Feleségét Maakának hívták.
+{8:30} Elsőszülött fia volt Abdón, azután Cúr, Kís, Baál, Nér, Nádáb,
+{8:31} Gedór, Ahjó, Zeker és Miklót.
+{8:32} Miklót fia: Simá. Ők is Jeruzsálemben laktak, a rokonaik közelében.
+{8:33} Nér fia volt Kís, ennek fia Saul, ennek fiai: Jonatán, Malkisúá, Abinádáb és Esbaal.
+{8:34} Jonatán fia Meribbaal, ennek fia Míká,
+{8:35} ennek fiai: Pítón, Melek, Taréa és Áház.
+{8:36} Áház fia Jehóaddá, ennek fiai: Álemet, Azmávet és Zimri. Zimri fia Mócá,
+{8:37} ennek fia Biná, ennek fia Refájá, ennek fia Elászá, ennek fia Ácél.
+{8:38} Ácélnak hat fia volt: Azrikám, Bókerú, Jismaél, Searjá, Óbadjá és Hánán. Ezek voltak Ácél fiai.
+{8:39} Ácél testvérének, Éseknek a fiai: Úlám, az elsőszülött; Jeús, a második és Elifelet, a harmadik.
+{8:40} Úlám leszármazottjai mind bátor harcosok voltak, íj volt a fegyverük. Gyermekeikkel és unokáikkal együtt százötvenen voltak.
+{i9:1} A száműzetésből visszatért jeruzsálemi lakosok
+{9:1} Izráel népét számba vették, és családjaik szerint feljegyezték őket az Izráel Királyainak Könyvébe. Hűtlenségük miatt Júda népét száműzetésbe hurcolták Babilóniába.
+{9:2} A papok, a léviták és a Templom szolgái voltak az elsők, akik visszajöttek a száműzetésből, és őseik birtokát elfoglalva ismét az eredeti lakóhelyükre költöztek Izráel városaiban.
+{9:3} Jeruzsálemben laktak Júda, Benjámin, Efraim és Manassé törzséből a következők:
+{9:4} Útaj, Ammihúd fia, aki Omri fia, aki Imri fia, aki Báni fia, aki Perecnek, Júda fiának az egyik leszármazottja volt.
+{9:5} A silóiak közül Aszájá, az elsőszülött, és az ő fiai.
+{9:6} Zerah fiai közül Jeúél és a rokonai, összesen 690 fő.
+{9:7} Továbbá Benjámin leszármazottjai közül Szallú, Mesullám fia (aki Hódavjá fia, aki Hasszenuá fia volt).
+{9:8} Azután Jibnejá, Jeróhám fia, azután Élá, Uzzi fia (aki Mikri fia volt), azután Mesullám, Sefatja fia (aki Reuél fia, aki Jibnijjá fia volt),
+{9:9} és a rokonaik, akikkel együtt a származási jegyzékük szerint összesen 956 férfi tartozott közéjük. Mindannyian családfők voltak.
+{9:10} A papok közül a következők laktak Jeruzsálemben: Jedajá, Jehójárib, Jákin és
+{9:11} Azarjá, Hilkijjá fia (aki Mesullám fia, aki Cádók fia, aki Merájót fia, aki Akitúb fia, aki Isten Templomának a felügyelője volt.)
+{9:12} Azután Adájá, Jeróhám fia (aki Pashúr fia, aki Malkijjá fia volt), valamint Maszaj, Adiél fia (aki Jahréza fia, aki Mesullám fia, aki Mesillémit fia, aki Immér fia volt).
+{9:13} Rokonaikkal együtt összesen 1 760 pap, akik valamennyien családfők voltak, és az Isten Templomának a szolgálatában álltak.
+{9:14} A léviták közül a következők laktak Jeruzsálemben: Semajá, Hassúb fia (aki Azrikám fia, aki Hasabjá fia, aki Merári leszármazottja volt),
+{9:15} azután Bakbakar, Heres, Gálál, Mattanjá (Míká fia, aki Zikri fia, aki Ászáf fia volt),
+{9:16} azután Óbadjá, Semajá fia (aki Gálál fia, aki Jedútún fia volt), azután Berekjá, Ászá fia (aki Elkána fia volt). Berekjá a netófáiak falvaiban lakott.
+{9:17} A Templom kapuőrei közül ezek laktak Jeruzsálemben: Sallúm, Akkúb, Talmón és Ahimán. A vezetőjük Sallúm volt, a testvérük.
+{9:18} Korábban a Király-kapunál teljesítettek szolgálatot, a keleti oldalon. Ők voltak a léviták táboraiban is a kapuőrök.
+{9:19} Sallúm, Kóré fia (aki Ebjászáf fia, aki Kórah fia volt) és a rokonai — vagyis Kórah leszármazottjai — korábban a Szent Sátor bejáratát őrizték, ahogyan az őseik is ezt a szolgálatot végezték az Örökkévaló táborának a bejáratánál.
+{9:20} Régen Fineás, Eleázár fia volt a kapuőrök vezetője. Az Örökkévaló Fineással volt.
+{9:21} Zekarjá, Meselemjá fia a Találkozás Sátorának, vagyis a Szent Sátornak a kapuőre volt.
+{9:22} Ezeket a kiválasztott kapuőröket — összesen 212 főt — azokban a falvakban írták be a származási jegyzékbe, ahol a családjuk lakott. Őket még Dávid király és Sámuel próféta választotta ki és állította szolgálatba, mivel megbízhatók voltak.
+{9:23} Ők és a leszármazottjaik voltak felelősek az Örökkévaló Temploma kapuinak és a Szent Sátor bejáratának az őrzéséért.
+{9:24} Mind a négy égtáj irányában voltak őrök: keletről, nyugatról, északról és délről.
+{9:25} A falvakból a rokonaik időről időre eljöttek hozzájuk egy-egy hétre.
+{9:26} A kapuőrök négy lévita vezetője állandó szolgálatot teljesített. Rájuk volt bízva minden kamra a Templomban, és minden érték, ami a kamrákban volt.
+{9:27} Az éjszakát is a Templom közelében töltötték, mert éjjel is ők őrizték azt, és reggelente ők nyitották ki a kapukat.
+{9:28} A kapuőrök közül némelyek a templomi szolgálatban használt eszközökre vigyáztak: meg kellett számolniuk, amikor a kamrákból a Templomba vitték, illetve amikor visszahozták ezeket.
+{9:29} Mások a többi szent eszközökért voltak felelősek, meg az áldozatokhoz szükséges finomlisztért, borért, olívaolajért, tömjénért és a fűszerekért.
+{9:30} A felkenetés szent olaját a papok keverték össze a fűszerekből.
+{9:31} A szent kenyereket a lévita Mattitjá készítette el, aki Sallum elsőszülöttje volt, Kórah nemzetségéből.
+{9:32} Rokonai (szintén Kórah nemzetségéből) rendezték el a szent kenyereket minden szombaton.
+{9:33} Azok az énekes léviták, akik vezetők voltak, a Templom kamráiban tartózkodtak, és fel voltak mentve minden egyéb szolgálat alól, mert éjjel-nappal be voltak osztva a saját szolgálatuk rendje szerint.
+{9:34} Ezek voltak a léviták családfői, akik nemzetségi származásuk szerint vezetők voltak, és valamennyien Jeruzsálemben laktak.
+{i9:35} Saul király származása
+{9:35} Jeiél alapította Gibeon városát, és ott is lakott. Feleségét Maakának hívták.
+{9:36} Elsőszülött fia volt Abdón, azután Cúr, Kís, Baál, Nér, Nádáb,
+{9:37} Gedór, Ahjó, Zekarjá és Miklót.
+{9:38} Miklót fia: Simá. Ők is Jeruzsálemben laktak, a rokonaik közelében.
+{9:39} Nér fia volt Kís, ennek fia Saul, ennek fiai: Jonatán, Malkisúá, Abinádáb és Esbaal.
+{9:40} Jonatán fia Meribbaal, ennek fia Míká,
+{9:41} ennek fiai: Pítón, Melek, Taréa és Áház.
+{9:42} Áház fia Jadá, ennek fiai: Álemet, Azmávet és Zimri. Zimri fia Mócá,
+{9:43} ennek fia Biná, ennek fia Refájá, ennek fia Elászá, ennek fia Ácél.
+{9:44} Ácélnak hat fia volt: Azrikám, Bókerú, Jismaél, Searjá, Óbadjá és Hánán. Ezek voltak Ácél fiai.
+{i10:1} Saul király halála
+{10:1} A filiszteusok megtámadták Izráelt, és harcoltak ellenük. Izráel harcosai megfutamodtak a csatában, és sokan közülük elestek a Gilboa-hegyen.
+{10:2} Akkor a filiszteusok üldözőbe vették Sault és a fiait. A harc egyre hevesebb lett Saul körül,
+{10:3} és a filiszteusok megölték Jonatánt, Abinádábot és Malkisúát — Saul három fiát. A filiszteusok íjászai megsebesítették Sault,
+{10:4} aki ezt mondta a fegyverhordozójának: „Fogd a kardodat, és te szúrj le, nehogy ezek a körülmetéletlenek öljenek meg! Belőlem ne űzzenek gúnyt!” De a fegyverhordozója nem merte megtenni, mert nagyon félt. Végül Saul fogta a saját kardját, és beledőlt — így halt meg.
+{10:5} Amikor a fegyverhordozó látta, hogy Saul meghalt, ő is a kardjába dőlt.
+{10:6} Így halt meg Saul és három fia — egész családja egy napon pusztult el.
+{10:7} Azok az izráeliek, akik a völgyben laktak, látták, hogy a seregük megfutamodott, és hogy Saul is meghalt fiaival együtt. Ezért ők is elfutottak az ellenség elől, és otthagyták a városaikat. A filiszteusok pedig elfoglalták ezeket, és letelepedtek bennük.
+{10:8} A következő napon eljöttek a filiszteusok, és kifosztották az elesett izráeli harcosokat. Gilboa hegyén megtalálták Saul és a fiai holttestét is.
+{10:9} Saul holttestét is kifosztották, és a fejét levágták. Saul fegyvereit és a levágott fejét körülhordozták az egész országukban, hogy megmutassák a bálványaiknak és az egész népnek.
+{10:10} Saul fegyvereit a filiszteusok isteneinek a templomában, levágott fejét pedig Dágon templomában tették közszemlére.
+{10:11} Jábes-Gileád lakói meghallották, hogy mit tettek a filiszteusok Saullal.
+{10:12} Ezért néhány bátor férfi közülük felkerekedett, elhozták Saulnak és fiainak a holttestét, és eltemették őket egy tölgyfa alatt Jábes-Gileádban, majd hét napon át böjtöltek — így gyászolták őket.
+{10:13} Saul tehát meghalt, mert vétkezett az Örökkévaló ellen, amikor nem engedelmeskedett az Örökkévaló szavának. Ráadásul még egy halottidézőt is megkeresett, hogy tőle kérjen tanácsot.
+{10:14} Mivel Saul nem az Örökkévalót kereste, az Örökkévaló megölte őt, elvette tőle a királyságot, és Dávidnak, Isai fiának adta.
+{i11:1} Dávid Izráel felett is uralkodik
+{11:1} Azután Izráel egész népe Dávidhoz gyülekezett, Hebronba. Azt mondták neki: „Dávid, mi valamennyien a testvéreid vagyunk!
+{11:2} Már Saul királysága idején is te vezetted Izráel seregét a harcban, és te szerezted a győzelmeket. Istened, az Örökkévaló, mondta ezt neked: »Te leszel a pásztora népemnek, Izráelnek. Te fogsz uralkodni a népem, Izráel fölött.«”
+{11:3} Összegyűltek hát Izráel összes vezetői a királyhoz, Hebronba. Dávid pedig szövetséget kötött velük az Örökkévaló előtt. A vezetők akkor királlyá kenték Dávidot — pontosan úgy, ahogyan azt az Örökkévaló Sámuel által előre megmondta.
+{i11:4} Dávid fővárossá teszi Jeruzsálemet
+{11:4} Ezután Dávid vezetésével egész Izráel Jeruzsálem alá vonult, amelyet akkor még Jebúsznak neveztek. Ott még a jebúsziak laktak, akik
+{11:5} kérkedve ezt kiabálták ki Dávidnak: „Ide ugyan soha nem fogsz bejönni!” Dávid mégis elfoglalta Sion sziklára épített várát — és ez lett Dávid városa.
+{11:6} Az ostrom előtt Dávid azt ígérte a harcosainak: „Aki elsőként vág le egy jebúszit, az lesz a seregem fővezére!” Jóáb, Cerúja fia ért fel elsőnek a várfalra, ezért ő lett a fővezér.
+{11:7} Miután elfoglalta a várat, Dávid ott rendezte be az otthonát, ezért nevezik azt Dávid városának.
+{11:8} Kiépítette a várost is, amely a vár körül terül el, Millótól a várfalig. Jóáb pedig újjáépítette a város többi részét.
+{11:9} Dávid hatalma és királyságának ereje egyre növekedett, mert az Örökkévaló, a Seregek Ura vele volt, és segítette.
+{i11:10} Dávid kiváló vitézei
+{11:10} Ezek voltak Dávid harcosainak legkiválóbb vezetői. Ők segítették hatalomra Dávidot, és támogatták az uralkodását. Egész Izráellel együtt ők tették Dávidot királlyá — amint azt az Örökkévaló előre megmondta Izráelről.
+{11:11} Ezek voltak Dávid kiváló vitézei: Az első volt a hakmóni Jesbaal, a Különleges Csapat kapitánya, aki az egyik csatában a lándzsájával egymaga 800 ellenséges katonát ölt meg.
+{11:12} Azután Eleázár, Dódó fia, az Ahóhi nemzetségből, aki egyike volt a három legkiválóbb vitéznek.
+{11:13} Eleázár Dáviddal együtt volt Efesz-Dammimban, ahol a filiszteusokkal harcoltak. Volt ott egy árpaföld. Az izráeli katonák meghátráltak és elfutottak a filiszteusok elől.
+{11:14} De Eleázár az embereivel megállt az árpaföld közepén, megvédte azt, és megverte a filiszteusokat. Így az Örökkévaló nagy győzelmet szerzett azon a napon.
+{11:15} Történt egyszer, aratás idején, amikor Dávid még az Adullám-barlangban táborozott, hogy a Különleges Csapatból a legkiválóbb három vitéz lemászott a sziklafalon, hogy csatlakozzon Dávidhoz. A filiszteusok serege ugyanekkor a Refáim-völgyben vert tábort.
+{11:16} Egy másik alkalommal Dávid a sziklavárban volt, a filiszteusok csapata pedig Betlehemnél.
+{11:17} Dávid nagyon megszomjazott, és felkiáltott: „Ó, bárcsak egy ihatnék a Betlehem kapuja melletti kút vizéből!”
+{11:18} Ekkor az a három legkiválóbb vitéz átverekedte magát a filiszteusok táborán a betlehemi kútig. Vizet merítettek belőle, és Dávidhoz vitték. Ő azonban mégsem itta meg, hanem áldozatul kiöntötte az Örökkévaló előtt.
+{11:19} Azt mondta: „Istenem! Hogyan is ihatnám meg, hiszen olyan, mintha ezeknek a hősöknek a vérét innám, akik az életüket kockáztatták érte.” Ezért nem akarta meginni. Ez a három legkiválóbb vitéz ilyen és ehhez hasonló hőstetteket vitt véghez.
+{11:20} Azután Abisaj, Jóáb testvére, aki a Különleges Csapat vezére volt. Ő az egyik csatában egymaga 300 ellenséges harcost ölt meg lándzsájával. Ő azonban nem tartozott a három legkiválóbb harcos közé.
+{11:21} A Különleges Csapatban Abisajnak nagy tekintélye volt, ezért is lett a vezérük, de a nem tartozott a három legkiválóbb vitéz közé.
+{11:22} Benája, Jójádá fia, aki Kabceélből jött, igen kiváló és bátor harcos volt. Sok hatalmas hőstettet vitt véghez. Ő győzte le és ölte meg a moábiak két legerősebb bajnokát. Máskor meg egy havas napon egymaga lement egy verembe, és megölt egy oroszlánt.
+{11:23} Párviadalban legyőzött egy hatalmas termetű egyiptomi harcost, aki 5 könyök magas volt. Az egyiptomi kezében akkora lándzsa volt, mint a szövőszék gerendája. Benájának csak egy botja volt, de kicsavarta az egyiptomi kezéből a lándzsát, és a saját fegyverével szúrta le ellenfelét.
+{11:24} Benája sok ehhez hasonló hőstettet vitt véghez, és nagyon híres volt, de nem tartozott a három legkiválóbb vitéz közé.
+{11:25} A Különleges Csapatban nagy tekintélye volt, de nem tartozott a három legkiválóbb harcos közé. Dávid Benáját nevezte ki testőrsége vezérének.
+{i11:26} A Különleges Csapat
+{11:26} Ezek voltak a legbátrabb harcosok: Aszáel, Jóáb testvére, Elhánán, a betlehemi Dódó fia,
+{11:27} a haróri Sammót, a pelóni Helec,
+{11:28} a tékóai Írá, Ikkés fia, az anátóti Abiezer,
+{11:29} a húsáji Szibbekaj, az ahóhi Ílaj,
+{11:30} a netófái Mahraj, a netófái Héled, Baaná fia,
+{11:31} a benjámini Gibeából való Ítaj, Ríbaj fia, a pirátóni Banájá,
+{11:32} a nahalégaasi Húraj, az arbai Abiél,
+{11:33} a baharúmi Azmávet, a saalbóni Eljahbá,
+{11:34} a gizóni Hásém, a harári Jonatán, Ságé fia,
+{11:35} a harári Ahiám, Szákár fia, Elifal, Úr fia,
+{11:36} a mekérai Héfer, a pelóni Ahijjá,
+{11:37} a kármeli Hecró, Naaraj, Ezbaj fia,
+{11:38} Jóel, Nátán testvére, Mibhár, Hagri fia,
+{11:39} az ammoni Celek, a béróti Nahraj, Jóábnak, Cerúja fiának a fegyverhordozója,
+{11:40} a jeteri Írá, a jeteri Gáréb,
+{11:41} a hettita Úriás, Zábád, Ahlaj fia,
+{11:42} Adiná, a rúbeni Sizá fia, a rúbeniek egyik vezetője, és még vele együtt harmincan,
+{11:43} Hánán, Maaká fia, a mitni Jósafát,
+{11:44} az asterái Uzzijjá, az aróéri Hótám két fia: Sámá és Jeliél,
+{11:45} Jediél, Simri fia, és Jediél testvére, a tíci Jóhá,
+{11:46} a mahavimi Eliél, Elnáam két fia: Jeribaj és Jósavjá, a moábi Jitmá,
+{11:47} Eliél, Obed és a mecóbájái Jaasziél.
+{i12:1} Bátor harcosok, aki Ciklágban csatlakoztak Dávidhoz
+{12:1} Amikor Dávid Ciklágban bujdosott Saul, Kís fia elől, bátor férfiak mentek hozzá, akik csatlakoztak a seregéhez. Ők is azokhoz a hősökhöz tartoztak, akik segítették Dávidot a harcaiban.
+{12:2} Gyakorlott íjászok voltak, akik mind jobb, mind balkézzel képesek voltak nyilakat lőni és parittyázni. Benjámin törzsébe tartoztak, Saul rokonságába.
+{12:3} A névsoruk a következő: Ahiezer, a vezetőjük, azután Jóás, a testvére. Ők ketten a gibeai Semáá fiai voltak. Azután Jeziél és Pelet, Azmávet fiai, azután Beráká és az anátóti Jéhú,
+{12:4} meg a gibeoni Jismajá, aki a harminc hős közé tartozott, és egyúttal a vezetőjük is volt. Azután Jirmejá, Jehaziél, Jonatán, a gedérái Józábád,
+{12:5} Elúzaj, Jerimót, Bealjá, Semarjáhú, a hárífi Safatjáhú,
+{12:6} Elkána, Jissijáhú, Azarél, Jóezer és Jásobám, mind Kórah családjából valók.
+{12:7} Azután a gedóri Jehórám fiai, Jóela és Zebadjá.
+{i12:8} Akik Gád törzséből jöttek Dávidhoz
+{12:8} Gád törzséből is csatlakoztak Dávidhoz, amikor a pusztában, a sziklavárban húzódott meg. Ezek mind kiváló és jól felfegyverzett harcosok voltak, bátrak és erősek, mint az oroszlán, és gyorsak, mint a hegyi vadkecskék.
+{12:9} Ézer volt a vezetőjük, Óbadjá a második, Eliáb a harmadik,
+{12:10} Mismanná a negyedik, Jirmejá az ötödik,
+{12:11} Attaj a hatodik, Eliél a hetedik,
+{12:12} Jóhánán a nyolcadik, Elzábád a kilencedik,
+{12:13} Jirmejáhú a tizedik, Makbannaj a tizenegyedik.
+{12:14} Ők voltak a gádiak csapatainak a vezetői. Közülük a leggyengébb is elbánt száz ellenséggel, a legerősebb meg ezerrel.
+{12:15} Ők voltak, akik az első hónapban is át tudtak kelni a megáradt Jordán folyón, és keletre is, nyugatra is elűzték azokat az idegeneket, akik a Jordán völgyében laktak.
+{12:16} Benjámin törzséből és Júda törzséből is jöttek Dávidhoz a sziklavárba, hogy csatlakozzanak hozzá.
+{12:17} Dávid eléjük ment, és azt mondta nekik: „Ha békés szándékkal jöttök, hogy segítsetek nekem, szívesen fogadlak benneteket, és csatlakozhattok a seregemhez. De ha el akartok árulni, és ki akartok szolgáltatni ellenségeimnek — annak ellenére, hogy ártatlan vagyok — , akkor őseink Istene lássa meg, és büntessen meg érte titeket!”
+{12:18} Akkor a Szellem rászállt Amászajra — aki a harminc vitéz vezetője lett — , és ő így válaszolt Dávidnak: „Tiéd vagyunk, Dávid! Veled vagyunk, Isai fia! Békesség, békesség néked! Békesség azoknak is, akik neked segítenek, mert Istened megsegít téged!” Így hát Dávid befogadta, és a seregében vezetőkké tette őket.
+{12:19} Manassé törzséből is voltak olyanok, akik átpártoltak Saultól Dávidhoz. Ez akkor történt, amikor Dávid a filiszteusoknál volt, és velük együtt Saul ellen vonult. De nem harcolt Saul ellen, mert a filiszteusok vezetői tanácskoztak, és azt mondták: „Ha a csata közben Dávid a katonáival együtt átáll Saulhoz, aki
+{12:20} mégiscsak a királya, akkor végünk van!” Ezért elküldték Dávidot és az embereit. Ezek a Manassé törzsébe tartozó férfiak a következők voltak: Adnah, Józábád, Jediaél, Mikaél, Józábád, Elihú és Cillétaj. Ők voltak Manassé nemzetségeinek a vezetői. Akkor álltak át Dávid oldalára, amikor ő már Ciklág felé vonult a csapatával.
+{12:21} Ők segítették Dávidot a rablóbandák ellen. Valamennyien bátor és erős harcosok voltak, és később csapatkapitányok lettek Dávid seregében.
+{12:22} Dávid serege napról napra növekedett, mert sokan jöttek hozzá, és csatlakoztak a táborához, hogy segítsék. Olyan hatalmas lett a serege, mint Isten tábora.
+{i12:23} Akik Hebronban csatlakoztak Dávidhoz
+{12:23} Mások meg — harcra fegyverkezve — Hebronban csatlakoztak Dávidhoz. Azt akarták, hogy Saul királyságát Dávid kapja meg — pontosan úgy, ahogy azt az Örökkévaló előre megmondta. Ez a névsora a vezetőiknek és a létszáma csapataiknak:
+{12:24} Júda törzséből 6 800 harcra kész férfi, akik mind pajzsot és lándzsát viseltek,
+{12:25} Simeon törzséből 7 100 férfi, mind bátor és harcra kész katona.
+{12:26} Lévi törzséből összesen 4 600 férfi jött.
+{12:27} Ebből Jehójádá, Áron családjának a fejedelme 3 700 főt hozott magával.
+{12:28} Azután Cádók jött — aki kiváló fiatal harcos volt — az egész családjával és 22 további vezetővel együtt.
+{12:29} Benjámin törzséből — ahová Saul király is tartozott — 3 000 férfi jött Dávidhoz, annak ellenére, hogy ők Saul rokonai voltak. A törzs többsége akkor még hűséges maradt Saulhoz.
+{12:30} Efraim törzséből 20 800 bátor harcos jött, akik mind kitűntek a nemzetségük közül.
+{12:31} Manassé fél törzséből 18 000 jött, akiket név szerint jelöltek ki, hogy csatlakozzanak Dávidhoz, és tegyék királlyá őt.
+{12:32} Issakár törzséből 200 vezető jött, akik magukkal hozták a rokonaikból álló és a vezetésük alatt lévő csapataikat. Ők voltak azok, akik felismerték, hogy mit kell Izráelnek tennie, és hogy ennek most jött el az ideje.
+{12:33} Zebulon törzséből 50 000 férfi jött, akik mind hűséges, megbízható és gyakorlott harcosok voltak, és mindenféle fegyverrel fel voltak szerelkezve.
+{12:34} Naftáli törzséből 1 000 parancsnok vezetésével 37 000 fő jött, pajzzsal és lándzsával.
+{12:35} Dán törzséből 28 600 harcra kész férfi jött.
+{12:36} Ásér törzséből 40 000 felszerelt és kiképzett harcos csatlakozott Dávidhoz.
+{12:37} Jöttek a Jordán folyó másik oldaláról is, Rúben, Gád, és Manassé fél törzséből, összesen 120 000 harcos, mindenféle fegyverrel felszerelkezve.
+{12:38} Mindezek a férfiak a hadba vonulás rendje szerint jöttek, és helyezkedtek el Hebronban. Valamennyien teljesen egyetértettek abban, hogy Dávid legyen a király egész Izráel felett — és ebben egész Izráel népe egyetértett velük.
+{12:39} A sereg három napot töltött Dáviddal együtt Hebronban. Bőven volt enni- és innivalójuk, mert az otthoni rokonaik ellátták őket útravalóval,
+{12:40} sőt, a szomszédos területek lakói — egészen Issakár, Zebulon és Naftáli vidékéig — hoztak a seregnek mindenféle élelmet. Még vágni való ökröket és juhokat is hoztak, meg kenyeret, lisztet, aszalt fügét és szőlőt, bort és olívaolajat. A szállításhoz szamarakat, tevéket, öszvéreket és ökröket használtak. Ennyi mindennel ellátták Dávid seregét, mert nagy volt a nép öröme egész Izráelben.
+{i13:1} Dávid a Szövetségládát elhozza Kirját-Jeárimból
+{13:1} Dávid tanácskozott seregének a vezetőivel és a többi főembereivel,
+{13:2} majd összehívta az egész seregét, és ezt mondta nekik: „Ha ti is jónak látjátok, és ha Istenünk, az Örökkévaló ezt akarja, üzenjünk a többi testvéreinknek is, Izráel földjének minden részébe! Üzenjünk a papoknak és a lévitáknak, üzenjünk a városoknak és a falvaknak! Üzenjünk nekik, hogy mindannyian jöjjenek ide hozzánk!
+{13:3} Azután keressük fel együtt az Örökkévaló Szövetségládáját, és hozzuk ide, Jeruzsálembe, mert Saul idejében nem törődtünk vele!”
+{13:4} Az egész gyűlés egyetértett Dáviddal, mert mindenki úgy gondolta, hogy ez így helyes.
+{13:5} Összegyűjtötte hát Dávid Izráel egész népét az ország déli határától (az egyiptomi Síhór-pataktól) az északi határig (a Hamátba vezető útig), hogy elhozzák az Isten Szövetségládáját Kirját-Jeárimból.
+{13:6} Akkor Dávid egész Izráellel együtt felvonult a Júda területén lévő Baalába, vagyis Kirját-Jeárimba, hogy elhozzák onnan a kerubok fölött trónoló Isten, az Örökkévaló Szövetségládáját, amelynél az ő nevét segítségül hívják.
+{13:7} Elhozták tehát azt Abinádáb házából, és egy új szekérre helyezték, amelyet Uzza és Ahjó vezetett.
+{13:8} Dávid és az egész nép pedig teljes szívvel-lélekkel ujjongott és ünnepelt az Örökkévaló előtt. Táncoltak, énekeltek, és lantokkal, hárfákkal, dobokkal, cintányérokkal és trombitákkal zenéltek.
+{13:9} Amikor elérkeztek a Kídón szérűskertjéhez, ahol a gabonát szokták csépelni, az ökrök megbotlottak, és a Szövetségláda elmozdult a szekéren. Uzza ekkor kinyújtotta a kezét, hogy helyreigazítsa a Szövetségládát.
+{13:10} Ebben a pillanatban az Örökkévaló megharagudott Uzzára, és halálra sújtotta őt, mert hozzá mert nyúlni a Szövetségládához. Így halt meg Uzza az Örökkévaló előtt.
+{13:11} Dávid megharagudott, hogy az Örökkévaló lesújtott Uzzára. Ezért nevezik azt a helyet mindmáig így: „Perec-Uzza”.
+{13:12} Akkor Dávidot nagy félelem fogta el: Istentől félt. Azt mondta: „Hogyan is merészelhetném az Isten Szövetségládáját magamhoz vinni?”
+{13:13} Ezért nem vitte tovább a Szövetségládát a saját városába, hanem a gáti Obed-Edóm házánál hagyta,
+{13:14} három hónapig. Az Örökkévaló pedig nagyon megáldotta ezt a családot, és mindent, ami az övék volt.
+{i14:1} Dávid királysága megerősödik
+{14:1} Hírám, Tírusz királya követeket küldött Dávidhoz. Küldött neki cédrusgerendákat, kőműves- és ácsmestereket is, hogy Dávidnak palotát építsenek.
+{14:2} Ekkor értette meg Dávid, hogy az Örökkévaló megerősítette őt, hogy Izráel királya legyen, mert királyságát felvirágoztatta, Izráel népének a javára.
+{14:3} Dávid Jeruzsálemben — a meglévők mellé — még több feleséget vett, akiktől számos fia és leánya született.
+{14:4} Ezek a gyermekei születtek Jeruzsálemben: Sammúa, Sóbáb, Nátán, Salamon,
+{14:5} Jibhár, Elisúa, Elpelet,
+{14:6} Nógah, Nefeg, Jáfía,
+{14:7} Elisáma, Beeljádá és Elifelet.
+{i14:8} Győztes csaták a filiszteusok ellen
+{14:8} A filiszteusok megtudták, hogy Dávidot felkenték egész Izráel királyává, ezért az egész seregük felkerekedett, hogy harcoljanak ellene. Ezt Dávid is megtudta, és kivonult ellenük.
+{14:9} A filiszteusok megtámadták, és kirabolták a Refáim völgyét.
+{14:10} Dávid megkérdezte az Örökkévalót: „Megtámadjam-e a filiszteusokat? Kezembe adod-e őket, hogy megverjem a seregüket?” Az Örökkévaló ezt válaszolta: „Támadd meg, és a kezedbe adom őket!”
+{14:11} Akkor Dávid a seregével megtámadta Baál-Perácim városát, és megverte a filiszteusokat. Azóta nevezik ezt a várost Baál-Perácimnak, mert Dávid a győzelem után ezt mondta: „Isten az én kezem által áttört az ellenségen, ahogy a víz áttöri a gátat!”
+{14:12} A filiszteusok elfutottak, és otthagyták a bálványaikat, Dávid pedig megparancsolta az embereinek, hogy égessék el azokat.
+{14:13} Egy idő múlva a filiszteusok ismét a Refáim-völgyben támadtak.
+{14:14} Dávid ekkor is megkérdezte az Örökkévalót, aki azt mondta neki: „Most ne szemből támadj rájuk, hanem kerüld meg őket, és a balzsam-fák felől támadd meg őket!
+{14:15} Várd meg, amíg meghallod a harcba induló sereg támadásának zaját a balzsam-fák tetején — Isten előtted vonul a filiszteusok ellen, hogy megverje őket. Akkor te is támadd meg a filiszteusokat!”
+{14:16} Dávid mindent úgy tett, ahogy az Örökkévaló parancsolta neki, és legyőzte a filiszteusokat. Dávid katonái üldözték és vágták az ellenséget Gibeontól egészen Gézerig.
+{14:17} Dávid híre eljutott minden országba, és az Örökkévaló minden nemzetben tiszteletet és félelmet keltett Dávid iránt.
+{i15:1} Dávid Jeruzsálembe viteti a Szövetségládát
+{15:1} Ezután Dávid házakat épített magának és családjának a Dávid városában, Jeruzsálemben. Majd helyet készített az Isten Szövetségládájának: egy sátrat állított fel annak számára.
+{15:2} Azt mondta: „Csak a léviták hordozhatják a Szövetségládát, senki más. Az Örökkévaló választotta ki őket, hogy mindörökké szolgálják őt, és hogy hordozzák az Örökkévaló Szövetségládáját.”
+{15:3} Azután összegyűjtötte Jeruzsálembe Izráel egész népét, hogy az Örökkévaló Szövetségládáját felvigyék arra a helyre, amelyet erre a célra készített.
+{15:4} Összehívta Áron leszármazottjait, és a lévitákat is. Ezek a következők voltak:
+{15:5} Kéhát családjából Úriél, a vezetőjük és 120 rokona,
+{15:6} Mérári családjából Aszájá, a vezetőjük és 220 rokona,
+{15:7} Gérsón családjából Jóel, a vezetőjük és 130 rokona,
+{15:8} Elicáfán családjából Semajá, a vezetőjük és 200 rokona,
+{15:9} Hebron családjából Eliél, a vezetőjük és 80 rokona,
+{15:10} Uzziél családjából Amminádáb, a vezetőjük és 112 rokona.
+{i15:11} Dávid hívatja a papokat és a lévitákat
+{15:11} Majd Dávid hívatta Cádók és Ebjátár papokat, és a következő lévitákat: Úriél, Aszájá, Jóel, Semajá, Eliél és Amminádáb.
+{15:12} Azt mondta nekik: „Ti vagytok a léviták nemzetségfői. Szenteljétek meg magatokat a rokonaitokkal együtt, hogy felvihessétek az Örökkévalónak, Izráel Istenének Szövetségládáját arra a helyre, amelyet készítettem.
+{15:13} Az előző alkalommal nem voltatok velünk, s emiatt magunkra vontuk Istenünk, az Örökkévaló haragját, mivel nem kértük ki a tanácsát, hogyan kell megfelelően hordoznunk a Szövetségládát.”
+{15:14} Tehát megszentelték magukat a papok és a léviták, hogy fölvigyék az Örökkévalónak, Izráel Istenének Szövetségládáját.
+{15:15} A léviták rudakkal vállukra emelték a ládát, és úgy vitték — ahogyan azt az Örökkévaló szava szerint Mózes megparancsolta.
+{i15:16} Dávid kijelöli az énekes lévitákat
+{15:16} Dávid parancsa szerint a léviták vezetői — a saját rokonaik közül — énekeseket választottak ki, akik hangos énekszóval, hárfa, lant és cintányér kíséretével dicsérték az Örökkévalót.
+{15:17} Így választották ki énekesnek Hémánt, Jóel fiát, azután Ászáfot, Berekjáhú fiát, és Mérári családjából Étánt, Kúsájáhú fiát. Ők valamennyien rokonok voltak.
+{15:18} Velük együtt szolgáltak, mint segítők a következő rokonaik: Zekarjáhú, Bén, Jaaziél, Semirámót, Jehiél, Unni, Eliáb, Benájáhú, Maaszéjáhú, Mattitjáhú, Elifléhú és Miknéjáhú. Azután két ajtóőrt is kijelöltek: Obed-Edómot és Jeiélt.
+{15:19} Az énekesek, Hémán, Ászáf és Étán kezelték a bronzból készült cintányérokat is.
+{15:20} Zekarjá, Aziél, Semirámót, Jehiél, Unni, Eliáb, Maaszéjáhú és Benájáhú játszottak a magas hangú húros hangszereken.
+{15:21} Mettitjáhú, Elifléhú, Miknéjáhú, Obed-Edóm, Jeíél, és Azazjáhú a mélyebb hangú húros hangszereket szólaltatták meg.
+{15:22} Az éneklésben Kenanjáhú volt a léviták vezetője, mert ő értett ehhez a legjobban. Így az éneklést ő irányította.
+{15:23} Berekjá és Elkána őrködtek a Szövetségládánál, a bejárat előtt.
+{15:24} A trombitákat a következő papok fújták az Isten Szövetségládája előtt: Sebanjáhú, Jósafát, Netanél, Amászaj, Zekarjáhú, Benájáhú és Eliézer. Obed-Edóm és Jeiél szintén a Szövetségládánál őrködtek a bejárat előtt.
+{15:25} Akkor Dávid vezetésével Izráel népének a vezetői és hadsereg vezérei nagy örömmel elmentek Obed-Edóm házához, hogy elhozzák onnan az Örökkévaló Szövetségládáját.
+{15:26} Az Örökkévaló megsegítette a lévitákat, akik a Szövetségládát vitték, ezért feláldoztak az Örökkévalónak hét bikát és hét kost.
+{15:27} Dávid, a Szövetségládát hordozó léviták, az énekesek és Kenanjá, a vezetőjük valamennyien finom lenvászon ruhát viseltek. Dávid ezen felül lenvászon efódot is vett magára.
+{15:28} Így vitte egész Izráel az Örökkévaló Szövetségládáját hangos örömkiáltásokkal, a sófár hangja mellett; trombitaszóval, és cintányérokkal, hárfákkal, lantokkal kísérve.
+{15:29} Amikor a Szövetségládát bevitték a Dávid városába, Mikál, Saul leánya, Dávid felesége kinézett az ablakon. Látta, hogy Dávid király ugrál és táncol örömében, és emiatt megvetette őt.
+{16:1} Azután bevitték a Szövetségládát abba a sátorba, amelyet Dávid készített erre a célra, és elhelyezték annak közepén. Majd égőáldozatokat és hálaáldozatokat mutattak be Istennek.
+{16:2} Miután befejezte az áldozatokat, Dávid megáldotta a népet az Örökkévaló nevében,
+{16:3} és minden egyes férfit és nőt megajándékozott Izráelben: mindenkinek adott egy kenyeret, egy préselt datolyából készített kalácsot és egy mazsolából készült kalácsot.
+{16:4} Majd Dávid kiválasztott néhányat a léviták közül, hogy az Örökkévaló Szövetségládája előtt teljesítsenek szolgálatot: hirdessék az Örökkévaló, Izráel Istene dicsőségét, adjanak hálát neki, és imádják őt.
+{16:5} Ezek a léviták a következők voltak: Ászáf lett a vezetőjük, a helyettese pedig Zekarjá, azután a többiek: Jeíél, Semirámót, Jehiél, Mattitjá, Eliáb, Banájáhú, Obed-Edóm és Jeiél, aki hárfán és lanton játszott. Ászáf kezelte a cintányért.
+{16:6} Benájáhú és Jahaziél papok állandó feladata volt a trombiták megfújása az Isten Szövetségládája előtt.
+{16:7} Dávid ezen a napon állította először szolgálatba Ászáfot és a társait, és ekkor bízta rájuk először, hogy énekkel adjanak hálát az Örökkévalónak és dicsérjék őt.
+{i16:8} Dávid hálaadó éneke
+{16:8} Adjatok hálát az Örökkévalónak! Dicsérjétek nagy nevét! Hirdessétek a népeknek tetteit!
+{16:9} Énekeljetek neki, dicsérjétek őt! Mondjátok el csodálatos tetteit!
+{16:10} Dicsekedjetek szent nevével! Ti, akik keresitek az Örökkévalót, teljes szívvel örvendezzetek neki!
+{16:11} Keressétek az Örökkévalót, kívánjátok erejét, törekedjetek jelenlétébe szüntelen!
+{16:12} Emlékezzetek csodás tetteire, emlékezzetek csodáira és ítéleteire, amelyeket kihirdetett,
+{16:13} ó, Izráelnek, az Örökkévaló szolgájának utódai, Jákób fiai, akiket ő kiválasztott!
+{16:14} Az Örökkévaló a mi Istenünk! Határozatai az egész földön érvényesek.
+{16:15} Emlékezzetek Szövetségére örökké, adott szavára, amelyet ezer nemzedéknek ígért,
+{16:16} a Szövetségre, amelyet Ábrahámmal kötött, az ígéretre, amelyre Izsáknak megesküdött!
+{16:17} Megerősítette, mint törvényt Jákóbnak, akit Izráelnek nevezett, és népével örök Szövetséget kötött:
+{16:18} „Neked adom Kánaán földjét örökségül, ez lesz a te birtokod!”
+{16:19} Kicsiny volt akkor még Ábrahám családja, mint a jövevények, úgy vándoroltak a földön.
+{16:20} Helyről-helyre vonultak, országról-országra bujdostak.
+{16:21} Nem engedte az Örökkévaló, hogy ártsanak nekik, még királyokat is megbüntetett miattuk:
+{16:22} „Ne nyúljatok felkent szolgáimhoz, prófétáimat ne bántsátok!”
+{16:23} Énekeljen az Örökkévalónak az egész föld! Hirdessétek napról napra szabadítását!
+{16:24} Hirdessétek dicsőségét az összes nemzetnek, mondjátok el minden népnek csodálatos tetteit!
+{16:25} Mert hatalmas az Örökkévaló, és méltó a dicséretre! Imádat, tisztelet és félelem illeti őt, minden más istennél inkább!
+{16:26} Mert a nemzetek istenei tehetetlen bábok csupán, de az Örökkévaló teremtette az eget!
+{16:27} Dicsőség és méltóság ragyog előtte, öröm és erő lakik szent helyén!
+{16:28} Adjatok az Örökkévalónak, népek családjai, adjatok az Örökkévalónak dicsőséget és tiszteletet!
+{16:29} Adjátok az Örökkévalónak a dicsőséget, amely megilleti, hozzatok neki ajándék-áldozatot, jöjjetek színe elé! Imádjátok az Örökkévalót szentségben és ékességben,
+{16:30} reszkessen előtte minden ember! Ő erősítette meg a Földet, hogy ne inogjon.
+{16:31} Örüljetek, akik a Mennyben laktok, és örvendezzen minden földi lakó! Hirdessék mindenütt a népek között: „Uralkodik az Örökkévaló!”
+{16:32} Kiáltson örömében a tenger, és minden, ami benne él! Örvendjen a szántóföld és termése!
+{16:33} Ujjongva énekelnek majd az erdő fái, amikor az Örökkévaló jön! Mert eljön, hogy megítélje a népeket, és uralkodjon az egész Földön!
+{16:34} Adjatok hálát az Örökkévalónak, mert ő jó! Mert hűséges szeretete örökké kísér!
+{16:35} Mondjátok neki: „Ments meg minket szabadító Istenünk, gyűjts össze, és ments ki a népek közül, hadd dicsérjük szent neved, hadd dicsekedjünk dicséreteddel!”
+{16:36} Áldott legyen az Örökkévaló, Izráel Istene, öröktől fogva mindörökké! Erre az egész nép így felelt: „Ámen!” — és mind dicsérték az Örökkévalót.
+{16:37} Így állította szolgálatba Dávid Ászáfot és a rokonait, az énekes lévitákat. Ők pedig attól kezdve megszakítás nélkül és önállóan teljesítették a szolgálatukat az Örökkévaló Szövetségládája előtt. Napi beosztásuk rendje szerint váltották egymást a szolgálatban.
+{16:38} Dávid Obed-Edómot, Jeíélt és 68 lévita rokonukat is Ászáf vezetése alá rendelte, hogy segítsenek a szolgálatban. Obed-Edóm, Jedútún fia és Hószá kapuőrök voltak.
+{16:39} Cádók főpapot és társait Dávid Gibeonban az Örökkévaló Szent Sátorához rendelte, a magaslatra,
+{16:40} hogy az Örökkévaló Törvénye szerint, amelyet az Örökkévaló Izráelnek adott, minden reggel és este mutassák be az égőáldozatokat az oltáron.
+{16:41} Velük volt Hémán, Jedútún és a többi név szerint kiválasztott lévita, hogy énekekkel dicsérjék az Örökkévalót. „Dicsérjétek az Örökkévalót, mert hűséges szeretete örökké tart!” — ezt az éneket énekelték.
+{16:42} Hémán és Jedútún trombitával, cintányérral, és más hangszerekkel zenéltek az Örökkévalónak. Jedútún fiai kapuőrök voltak.
+{16:43} Ezután mindenki visszatért a lakóhelyére. Dávid is hazament, hogy megáldja a családját.
+{i17:1} Isten ígéretet tesz Dávidnak
+{17:1} Miután Dávid palotája felépült, és ő beköltözött oda, egyszer azt mondta Nátán prófétának: „Látod, én cédrusfából készült palotában lakom, az Örökkévaló Szövetségládája meg a sátorban!”
+{17:2} Nátán ezt válaszolta: „Tedd meg, amit szeretnél, mert Isten veled van!”
+{17:3} Azon az éjszakán azonban Isten megszólította Nátánt, és ezt mondta:
+{17:4} „Menj, és mondd meg Dávidnak, a szolgámnak: »Ezt mondja az Örökkévaló: Ne te építs nekem lakóházat, Dávid!
+{17:5} Attól kezdve, hogy Izráelt felhoztam Egyiptomból, mind a mai napig sohasem laktam házban, hanem egyik sátorból a másikba, és egyik szentélyből a másikba költöztem.
+{17:6} Miközben Izráel népével együtt költöztem, mondtam-e valaha is Izráel bármelyik vezetőjének — akiket én bíztam meg, hogy népemet pásztorolják — , hogy miért nem építenek nekem cédruspalotát?!«
+{17:7} Most azért ezt mondd szolgámnak, Dávidnak: »Ezt mondja az Örökkévaló, a Seregek Ura: Én emeltelek fel téged a juhok aklából és én hívtalak el a nyáj mellől, a legelőről, hogy népemnek, Izráelnek a fejedelme légy!
+{17:8} Én vagyok veled azóta is. Akárhová mentél, veled voltam, és minden ellenségedet kiirtottam előled. Olyan hírnevet fogok szerezni neked, amilyen a földi uralkodók között csak a legnagyobbaknak van.
+{17:9} Helyet is készítettem népemnek, Izráelnek, és elültettem őket. Békességben és nyugalomban élhetnek, senki sem fogja háborgatni őket többé. A gonoszok sem fogják őket szorongatni és elnyomni, mint eleinte,
+{17:10} és mint a bírák napjaiban, akiket népem, Izráel fölé állítottam, hogy vezessék őket. Ezen fölül, én fogom lábad alá vetni minden ellenségedet. Sőt, én mondom, hogy az Örökkévaló fog neked házat építeni!
+{17:11} Amikor majd életed ideje betelik, és őseidhez csatlakozol, akkor fel fogom támasztani az egyik leszármazottadat — a fiaid közül az egyiket — , és az ő királyi uralmát megerősítem.
+{17:12} Ő lesz az, aki majd házat épít nekem — én pedig mindörökre megerősítem a trónját.
+{17:13} Apja leszek, ő pedig a fiam lesz. Hűséges szeretetem nem fogom visszavenni tőle — mint ahogy visszavettem attól, aki előtted volt — ,
+{17:14} hanem mindörökre megerősítem őt a házamban és királyságomban. Örökre megerősítem és állandóvá teszem a trónját.«”
+{17:15} Nátán az egész éjjeli látomást, és ezt az üzenetet szóról szóra elmondta Dávidnak.
+{i17:16} Dávid imádsága
+{17:16} Ekkor Dávid király elment, és az Örökkévaló előtt leült. Ezt mondta: „Örökkévaló Isten! Ugyan ki vagyok én, és micsoda az én családom, hogy ennyire megtiszteltél engem?
+{17:17} Sőt, Istenem, ezen fölül még a családom jövőjéről is szóltál! Úgy bántál velem, mint valami magas rangú személlyel, ó, Istenem, Örökkévaló!
+{17:18} Mit mondhatna erre Dávid? Hiszen te annyira megtisztelted szolgádat, és jól ismered őt!
+{17:19} Örökkévaló, szolgád kedvéért és szíved szerint jelentetted ki és vitted véghez mindezeket a hatalmas dolgokat.
+{17:20} Ó, Örökkévaló! Nincs senki hozzád fogható! Nincs Isten rajtad kívül! Soha nem hallottunk senki másról, aki ilyen csodálatos dolgokat tett volna!
+{17:21} Van-e a Földön még egy nép, amely népedhez, Izráelhez hasonló lenne? Ki hallott valaha is olyat, hogy Isten a maga számára megváltson egy népet, mint ahogy te megtetted ezt Izráellel, hogy hírnevet szerezz magadnak hatalmas tetteiddel? Történt-e valaha olyan, hogy Isten más népeket űzött el a helyükről, hogy helyet készítsen a saját népének, amelyet kiszabadított Egyiptomból?
+{17:22} Így tetted népedet, Izráelt mindörökre valóban a saját népeddé — te pedig, Örökkévaló, így lettél mindörökre Istenükké.
+{17:23} Most pedig Örökkévaló, szavaidat, amelyeket szolgádról és annak családjáról mondtál, erősítsd meg mindörökre, és vidd véghez mindazt, amit mondtál!
+{17:24} Igen, te beteljesíted, amit mondtál, és felmagasztalod nevedet mindörökre — mert ezt fogják mondani: »Az Örökkévaló, a Seregek Ura, Izráel Istene valóban Istene lett Izráelnek!« Szolgádnak, Dávidnak a családját pedig erősítsd meg, és tedd állandóvá!
+{17:25} Istenem, te fülem hallatára kijelentetted, hogy szolgádnak házat építesz — ezért merészelt szolgád így imádkozni előtted.
+{17:26} Örökkévaló! Te vagy az Isten, te mondtad szolgádnak mindezeket a jó dolgokat,
+{17:27} és megáldottad szolgád házát, hogy fennmaradjon előtted mindörökké. S mivel te áldottad meg, áldott is lesz mindörökké!”
+{i18:1} Dávid győztes hadjáratai
+{18:1} Ezután Dávid győzelmet aratott a filiszteusok fölött, és uralma alá vetette őket. Gát városát a környező falvakkal együtt elvette tőlük, és a saját birodalmához csatolta.
+{18:2} Ugyancsak legyőzte a moábiakat, és adófizető szolgáivá tette őket.
+{18:3} Hamát városa mellett legyőzte Hadadezernek, Cóbá királyának a seregét, aki ki akarta terjeszteni az uralmát az Eufrátesz folyóig.
+{18:4} Dávid nagy hadizsákmányt szerzett. Zsákmányul ejtett 1 000 harci szekeret, és sok hadifoglyot szerzett: 7 000 lovast és 20 000 gyalogost. A harci szekereket, száz szekér kivételével, mind szétrombolta.
+{18:5} Damaszkuszból egy arám hadsereg jött, hogy Hadadezert, Cóbá királyát megsegítse Dávid ellen. Dávid azonban legyőzte az arámokat is, és 22 000 katonát megölt közülük.
+{18:6} Ezután helyőrséget létesített Arám fővárosában, Damaszkuszban, s ettől kezdve az arámok Dávid adófizető szolgái lettek. Az Örökkévaló győzelemre segítette Dávidot mindenhol, ahová ment.
+{18:7} Dávid gazdag hadizsákmányt is szerzett: Hadadezer vezéreinek az aranypajzsait, amelyeket Jeruzsálembe vitt,
+{18:8} azután igen nagy mennyiségű bronzot is Hadadezer városaiból: Tibhatból és Kúnból. Ezekből készítette később Salamon király a Templom oszlopait, a víztároló medencéket és a különböző templomi eszközöket.
+{18:9} Amikor Tói, Hamát királya meghallotta, hogy Dávid legyőzte Hadadezernek, Cóbá királyának az egész seregét, elküldte a fiát, Hadórámot Dávidhoz, hogy üdvözölje, és
+{18:10} hogy köszönetet mondjon neki. Tói ugyanis ellenséges viszonyban volt Hadadezerrel, és harcoltak egymás ellen. Hadórám ajándékul hozott Dávidnak mindenféle arany-, ezüst- és bronztárgyakat,
+{18:11} amelyeket azután Dávid az Örökkévalónak szentelt, és a Templomban helyezett el a hadizsákmányból származó arany- és ezüsttárgyakkal együtt, amelyeket a hadjáratai során szerzett az edomiaktól, moábiaktól, ammoniaktól, filiszteusoktól és az amálekiektől.
+{18:12} Abisaj, Cerújá fia vezetésével Dávid serege legyőzte az edomiakat a Sós-völgyben, és 18 000 harcost megölt közülük.
+{18:13} Ezután Abisaj helyőrséget állított Edomba, és ettől kezdve az edomiak Dávid szolgái lettek. Az Örökkévaló győzelemre segítette Dávidot mindenhol, ahová ment.
+{i18:14} Dávid fontosabb vezetői
+{18:14} Így hát Dávid egész Izráel fölött uralkodott, mint király. Egész népét igazságosan kormányozta, helyes döntéseket hozott, és azokat véghez is vitte.
+{18:15} Hadseregének a főparancsnoka Jóáb, Cerúja fia volt, Jehósáfát, Ahilúd fia pedig a krónikás.
+{18:16} Cádók, Ahitúb fia és Abímelek, Ebjátár fia voltak a papok, Savsá pedig az írástudó.
+{18:17} Dávid testőrségének (a kerétiek és pelétiek csapatának) a parancsnoka: Benája, Jehójádá fia volt. Dávid fiai pedig a király mellett voltak, mint elsőrangú vezetők.
+{i19:1} Hadjárat az ammoniak ellen
+{19:1} Ezután meghalt Náhás, az ammoniak királya, és a fia követte a trónon.
+{19:2} Dávid ekkor azt gondolta: „Náhás jóindulatú volt irántam, én is jóindulatú leszek Hánúnhoz, Náhás fiához!” Ezért követeket küldött Hánúnhoz, hogy fejezzék ki Dávid együttérzését Náhás halála miatt. A követek el is mentek az ammoniakhoz.
+{19:3} Az ammoniak főemberei azonban azt mondták Hánúnnak: „Ne hagyd magad félrevezetni! Dávid követei nem azért jöttek hozzád, hogy tiszteletet mutassanak apád iránt, és kifejezzék az együttérzésüket a halála miatt, hanem hogy kikémleljék, azután pedig kifosszák az országodat!”
+{19:4} Emiatt Hánún elfogatta Dávid követeit, és megszégyenítette őket: levágatta a szakállukat, és deréktól lefelé a ruhájuk alsó részét, majd elküldte őket.
+{19:5} Amikor Dávidnak jelentették, milyen szégyen érte a követeit, eléjük küldte egyik szolgáját ezzel az üzenettel: „Maradjatok Jerikó városában, amíg a szakállatok újra kinő, csak azután jöjjetek vissza Jeruzsálembe!”
+{19:6} Az ammoniak megértették, hogy gyűlöletessé lettek Dávid számára, ezért felkészültek a harcra Dávid ellen. Hánún arám katonákat bérelt Aram-Naharaimból, Aram-Maakából, és Cóbából 1 000 talentum ezüstért: 32 000
+{19:7} harci szekeret és lovasokat, Maaká királya vezetésével. Ezek a segédcsapatok meg is érkeztek, és letáboroztak Médebá városa előtt. Az ammoniak is összegyűjtötték a seregüket, és készültek a csatára.
+{19:8} Amikor ezt Dávid megtudta, Jóábot küldte ki egész seregével együtt, hogy szálljon szembe az ellenséggel.
+{19:9} Az ammoniak felsorakoztak a csatához a város kapuja előtt. A segítségükre jött királyok serege pedig külön állt fel a nyílt mezőn.
+{19:10} Jóáb látta, hogy elől is, hátul is közrefogta az ellenség, ezért kiválogatta a serege színe-javát, és a maga vezetése alatt az arám sereggel szemben sorakoztatta fel őket.
+{19:11} A többieket a testvére, Abisaj vezetésével az ammoniakkal szemben állította csatarendbe.
+{19:12} Akkor Jóáb ezt mondta Abisajnak: „Ha az arámok serege erősebbnek bizonyul nálam, akkor jöjj a segítségemre! Ha pedig az ammoniak szorongatnak meg téged, akkor én segítelek meg.
+{19:13} Erős légy, és harcoljunk bátran népünkért és Istenünk városaiért! Az Örökkévaló pedig tegye, amit jónak lát!”
+{19:14} Azután Jóáb és a serege rohamra indult az arámok ellen, azok pedig elfutottak előle.
+{19:15} Amikor az ammoniak látták, hogy az arámok megfutamodtak, ők is futni kezdtek Abisaj, Jóáb testvére elől. Bemenekültek a városukba, Jóáb pedig a seregével együtt visszatért Jeruzsálembe.
+{19:16} Amikor az arámok vezetői látták, hogy Izráel legyőzte őket, segítségül hívták követeik által az Eufrátesz folyótól keletre lakó arám népeket — s azok el is jöttek. Seregük vezére Sófak lett, aki Hadadezer hadseregének a vezetője volt.
+{19:17} Dávid, mikor tudomást szerzett erről, összegyűjtötte a seregét egész Izráelből, átkelt a Jordánon, és felsorakoztatta a katonáit az arámokkal szemben. Azután megütközött a két sereg,
+{19:18} és az arámok elfutottak Izráel elől. Dávid vezetésével Izráel az arámok közül megölt 7 000 katonát, akik a harci szekereken küzdöttek, és 40 000 gyalogost, sőt, a vezért, Sófakot is.
+{19:19} Amikor Hadadezer szolgái látták, hogy Izráel legyőzte a seregüket, békét kötöttek Dáviddal, és attól fogva őt szolgálták. Ettől kezdve azonban az arámok többé nem segítették az ammoniakat.
+{i20:1} Jóáb hadjárata az ammoniak ellen
+{20:1} Az esztendő elején, amikor a királyok általában elindították a tavaszi hadjáratokat, Jóáb is elindult a seregével az ammoniak ellen, de Dávid Jeruzsálemben maradt. Izráel serege végigpusztította az ammoniak országát, és Rabbá városához érkezett. Körülvették és ostromolták a várost, azután elfoglalták és lerombolták.
+{20:2} Azután Dávid elvette az ammoniak királyától a koronáját, és a saját fejére tette. A korona — amely így Dávid fejére került — egy talentum aranyból készült, és drágakövek ékesítették. Rabbá elfoglalásakor Dávid nagy hadizsákmányt vitt magával,
+{20:3} a város lakosságát pedig rabszolgákká tette, és nehéz munkára fogta: fűrésszel, vascsákánnyal és fejszével kellett dolgozniuk. Hasonlóképpen bánt el Dávid a többi ammoni városokkal is, azután visszatért Jeruzsálembe.
+{i20:4} Dávid harcosai megölik az óriás termetű filiszteus vitézeket
+{20:4} Ezután Izráel a filiszteusokkal harcolt Gézerben. Ekkor történt, hogy Dávid egyik vitéze, a húsái Szibbekaj megölte Szippajt, aki a Rafa nevű bálványisten szolgálatára szentelte magát. Ezután a filiszteusok Izráeltől vereséget szenvedtek.
+{20:5} Később ismét kiújult a harc a filiszteusokkal. Ekkor ölt meg Elhánán, Jáír fia Lahmit, a gáti Góliát testvérét. Lahmi lándzsája olyan súlyos és hosszú volt, mint a szövőszék gerendája.
+{20:6} Egy másik alkalommal, Dávid vitézei ismét a filiszteusokkal harcoltak Gát városa mellett. A filiszteusok között volt egy hatalmas termetű harcos, akinek mindkét kezén és lábán hat-hat ujja volt, összesen huszonnégy. Ő is aki a Rafa nevű bálványisten szolgálatára szentelte magát.
+{20:7} Ez a harcos gyalázta és szidalmazta Izráelt, de Jonatán (Dávid bátyjának, Simeának a fia) levágta és megölte.
+{20:8} Ezek a hatalmas termetű harcosok mind a Rafa nevű bálványisten szolgálatára szentelték magukat, mind Gátból származtak — és valamennyit Dávid és a vitézei ölték meg.
+{i21:1} Dávid vétke: a népszámlálás
+{21:1} Ezek után történt, hogy a Sátán Izráel ellen támadt, és arra ingerelte Dávidot, hogy tartson népszámlálást Izráelben.
+{21:2} Dávid hívatta Jóábot és a seregének tisztjeit, és ezt parancsolta nekik: „Menjetek, és tartsatok népszámlálást Izráelben! Menjetek végig az egész országon, az egyik végétől a másikig, Beérsebától Dánig, és számoljatok meg mindenkit, azután hozzátok elém az eredményt!”
+{21:3} Jóáb erre azt felelte: „Az Örökkévaló sokasítsa meg a népét százszorosan! Uram, királyom, ez a nép mind téged szolgál — miért akarod hát tudni számukat? Miért teszed bűnössé Izráelt?”
+{21:4} A király azonban nem engedett Jóábnak, aki ezután kénytelen volt végrehajtani a parancsot. Így hát Jóáb elindult, és bejárta egész Izráelt, majd visszatért Jeruzsálembe,
+{21:5} és jelentést tett Dávidnak. Egész Izráelben összesen 1 100 000 hadra fogható férfi volt, Júdában pedig 470 000.
+{21:6} Jóáb azonban nem vette számba Lévi és Benjámin törzsét, mert gyűlölte a király parancsát.
+{i21:7} Isten lesújt Izráelre
+{21:7} Istennek azonban nem tetszett Dávid parancsa, ezért lesújtott Izráelre.
+{21:8} Dávid akkor ezt mondta Istennek: „Nagyot vétettem azzal, hogy elrendeltem a népszámlálást! Kérlek, bocsásd meg szolgád bűnét, mert nagy ostobaságot követtem el!”
+{21:9} Akkor az Örökkévaló ezt mondta Gádnak, aki Dávid mellé rendelt próféta volt:
+{21:10} „Menj, és mondd meg Dávidnak: »Ezt mondja az Örökkévaló: három büntetés közül kell választanod — s amelyiket választod, azt teszem veled.«”
+{21:11} Akkor Gád elment Dávidhoz, ezzel az üzenettel: „Ezt mondja az Örökkévaló: Válassz!
+{21:12} Vagy három évig tartó éhínség sújtja az országodat, vagy három hónapig ellenséged üldöz, és kardja pusztítja népedet, vagy pedig három napig az Örökkévaló kardja, halálos járvány és az Örökkévaló angyala pusztít egész Izráel területén — döntsd el, milyen választ vigyek annak, aki hozzád küldött!”
+{21:13} Dávid ezt felelte Gádnak: „Nagyon szorongatott helyzetbe kerültem! Mégis inkább az Örökkévaló keze sújtson rám, mint az emberek keze, mert az Örökkévaló nagyon könyörületes!”
+{21:14} Így hát az Örökkévaló a járványos betegséget küldte Izráelre, amelyben 70 000 ember meghalt.
+{21:15} Isten Jeruzsálem ellen küldött egy angyalt, hogy pusztítsa annak lakóit. Amikor az angyal éppen hozzákezdett, hogy Jeruzsálemet is elpusztítsa, az Örökkévaló látta ezt, és elhatározta, hogy mégsem irtja ki a város lakóit. Rászólt a pusztítóra: „Állj meg! Elég ennyi!” Az Örökkévaló angyala éppen a jebúszi Ornán szérűskertjénél állt meg, ahol búzát szoktak csépelni.
+{i21:16} Isten megállítja a pusztítót
+{21:16} Dávid felnézett és meglátta az angyalt, aki ott állt az ég és a föld között, kezében magasra emelt karddal, amellyel éppen Jeruzsálemre készült lesújtani. Akkor Dávid és a többi vezetők, akik mind zsákruhába öltöztek a gyász miatt, a földre borultak.
+{21:17} Dávid ezt mondta Istennek: „Nem én parancsoltam, hogy számlálják meg a népet? Én vétkeztem, én, a pásztoruk követtem el gonoszságot! De a nyáj — ők mit tettek, hogy így pusztítod őket? Kérlek, Örökkévaló, engem sújtson a kezed és a családomat, de kíméld meg népedet a csapástól!”
+{i21:18} Dávid oltárt épít
+{21:18} Akkor az Örökkévaló angyala szólt Gád prófétának, hogy mondja meg Dávidnak: menjen, és építsen oltárt az Örökkévalónak a jebúszi Ornán mezején.
+{21:19} Dávid ezután felment oda — ahogyan Gád az Örökkévaló nevében mondta neki.
+{21:20} Ornán éppen búzát csépelt azon a helyen a fiaival együtt. Ahogy hátra nézett, meglátta az angyalt — négy fia annyira megijedt, hogy elfutottak és elbújtak.
+{21:21} Dávid éppen ekkor érkezett oda. Ahogy Ornán meglátta a királyt, eléje ment és a földig hajolt.
+{21:22} Dávid megszólította: „Szeretném megvenni tőled ezt a mezőt, hogy oltárt építsek itt az Örökkévalónak. Teljes árat fizetek érte, hogy megálljon a csapás, amely a népet sújtja.”
+{21:23} Ornán ezt felelte: „Legyen a tied az egész mező, uram, királyom! Tégy vele, amit jónak látsz! Ráadásul odaadom az ökröket az égőáldozathoz, a csépléshez való eszközöket tűzifának, a gabonát pedig ételáldozatnak. Mindent neked adok!”
+{21:24} Dávid király azonban így válaszolt: „Nem, meg akarom venni tőled teljes áron — ahogy az igazságos. Nem akarok a tiédből áldozni az Örökkévalónak, sem olyan égőáldozatot bemutatni, amely nekem semmibe sem kerül.”
+{21:25} Így hát Dávid teljes áron megvásárolta a mezőt Ornántól, és 600 sékel aranyat fizetett érte.
+{21:26} Azután oltárt épített ott az Örökkévalónak, s azon égőáldozatot és hálaáldozatot mutatott be. Az Örökkévalóhoz kiáltott, és az Örökkévaló válaszolt neki: tüzet küldött ez égből az égőáldozat oltárára.
+{21:27} Ezután az Örökkévaló parancsolt az angyalnak, hogy tegye vissza kardját a helyére.
+{21:28} Dávid látta, hogy az Örökkévaló válaszolt neki, ezért abban az időben a jebúszi Ornán mezején mutatott be áldozatokat az Örökkévalónak.
+{21:29} (Ugyanis a Szent Sátor, az Örökkévaló lakóhelye, amelyet még Mózes készített a pusztában, és az égőáldozati oltár abban az időben Gibeonban volt, a magaslaton.
+{21:30} Dávid pedig nem mehetett a gibeoni oltárhoz, hogy Istent kérlelje, mert nagyon megrémült az Örökkévaló angyalának a kivont kardjától.)
+{i22:1} Dávid előkészíti a Templom építését
+{22:1} Dávid ezt mondta: „Ez az Örökkévaló Isten háza! Ez az oltár Izráel égőáldozati oltára!”
+{22:2} Ezután Dávid elrendelte, hogy gyűjtsék össze Izráel földjéről azokat a lakosokat, akik ott laktak, de nem tartoztak Izráel népéhez. Kiválasztott közülük munkásokat, akiknek azt adta feladatául, hogy a kőbányákban dolgozzanak, és készítsenek faragott kőtömböket a Templom építéséhez.
+{22:3} Nagy mennyiségű vasat is szerzett Dávid a Templom kapuihoz, szegek és sarokvasak készítéséhez. Ezen kívül tömérdek bronzot és
+{22:4} cédrusgerendát is összegyűjtött. Ez utóbbit a szidóniak és tírusziak nagy mennyiségben szállították Dávidnak.
+{22:5} Dávid ugyanis azt gondolta: „Salamon, a fiam még nagyon fiatal és tapasztalatlan. Az Örökkévalónak pedig olyan hatalmas és gyönyörű Templomot akarok építeni, amelynek dicsősége, híre és szépsége minden mást felülmúl az egész földön! Ezért mindent gondosan elő akarok készíteni.” Így hát Dávid még életében mindent előkészített, és megtervezett.
+{22:6} Azután Dávid hívatta a fiát, Salamont, és megparancsolta neki, hogy építsen Templomot az Örökkévalónak, Izráel Istenének.
+{22:7} Azt mondta neki: „Fiam, én akartam Templomot építeni Istenem, az Örökkévaló nevének.
+{22:8} De az Örökkévaló szólt hozzám, és ezt mondta: »Dávid, te sokat háborúskodtál, és sok embert megöltél. Nem te fogsz házat építeni az én nevemnek, mert sok ember vérét ontottad a földre a szemem láttára.
+{22:9} Fiad fog születni, aki a békesség embere lesz, mert nyugalmat adok neki minden körülötte lévő ellenségétől — ezért Salamon lesz a neve. Az ő idejében békességet és nyugalmat adok Izráelnek.
+{22:10} Ő épít házat az én nevemnek, a fiammá lesz, és én pedig apjává leszek. Örökre megerősítem a királyi uralmát Izráel felett.«
+{22:11} Így hát, fiam, az Örökkévaló veled lesz, hogy sikeresen felépítsd Istenednek, az Örökkévalónak a Templomát — ahogyan ő kijelentette rólad.
+{22:12} Az Örökkévaló adjon neked bölcsességet és értelmet, amikor Izráel fölé állít téged, hogy engedelmeskedj Istened, az Örökkévaló törvényének!
+{22:13} Mert ha engedelmeskedsz a rendelkezéseknek és a törvényeknek, amelyeket az Örökkévaló Mózes által parancsolt Izráelnek, és mindent aszerint teszel — akkor leszel sikeres mindenben. Légy bátor és határozott — nem szabad soha félned, és ne engedd, hogy bármi elbizonytalanítson!
+{22:14} Látod, sok fáradsággal összegyűjtöttem az Örökkévaló Templomához 100 000 talentum aranyat, 1 000 000 talentum ezüstöt. Ezen fölül olyan rengeteg bronzot és vasat, hogy számát sem tudom. Előkészítettem építőköveket és fagerendákat is — te pedig még gyűjts ezekhez!
+{22:15} Bőven vannak mesterembereid is: kőfejtők, kőfaragók, ácsok és sok egyéb mester, akik
+{22:16} elkészítik majd a szükséges eszközöket aranyból, ezüstből, bronzból és vasból. Így hát kezdj hozzá, és veled lesz az Örökkévaló!”
+{22:17} Dávid megparancsolta Izráel összes vezetőjének, hogy segítsenek a fiának, Salamonnak.
+{22:18} Ezt mondta nekik: „Látjátok, Istenetek, az Örökkévaló veletek van! Nézzétek meg: körös-körül minden felől békességet és nyugalmat adott nektek! Az Örökkévaló kezembe adta mindazokat a népeket, akik körülöttünk laknak, és meghódoltak az Örökkévaló előtt, és népe előtt.
+{22:19} Most hát teljes szívvel-lélekkel törekedjetek megismerni Isteneteket, az Örökkévalót és az ő akaratát! Kezdjetek hozzá, és építsétek fel az Örökkévaló Isten Templomát! Azután vigyétek oda az Örökkévaló Szövetségládáját és az Istennek szentelt szent eszközöket, abba a Templomba, amely az Örökkévaló nevének épül.”
+{i23:1} A léviták szolgálatának rendje
+{23:1} Amikor Dávid megöregedett, és életének ideje beteljesedett, királlyá tette Salamont egész Izráel fölött,
+{23:2} és összehívta Izráel minden vezetőjét, meg a papokat és a lévitákat.
+{23:3} Összeírták és megszámolták a harminc évesnél idősebb lévitákat — 38 000 férfit.
+{23:4} Ezek feladatait Dávid így határozta meg: „24 000 fő az Örökkévaló Templomával kapcsolatos tennivalókat végezze, 6 000 fő bíráskodjon, és különböző tisztségeket viseljen,
+{23:5} 4 000 fő őrizze a kapukat, 4 000 pedig dicsérje az Örökkévalót azokkal a hangszerekkel, amelyeket erre a célra készítettem!”
+{23:6} Azután Dávid csoportokba osztotta a lévitákat aszerint, hogy Lévi melyik fiának voltak a leszármazottjai, Gérsónnak, Kehátnak vagy Merárinak.
+{i23:7} Gérsón leszármazottjai
+{23:7} Gérsón utódai voltak: Ladán és Simei.
+{23:8} Ladánnak három fia volt: az első Jehiél, azután Zétám és Jóel.
+{23:9} Simei három fiai: Selómit, Haziél és Hárán. Ezek voltak Ladán nemzetségfői.
+{23:10} Simei négy fia: az első Jahat, a második Zízá, azután Jeús és Berija.
+{23:11} Mivel Jeúsnak és Beríának nem volt sok fia, ők mindannyian egy csoportba tartoztak.
+{i23:12} Kehát leszármazottjai
+{23:12} Kehátnak négy fia volt: Amrám, Jichár, Hebron és Uzziél.
+{23:13} Amrám fia Áron és Mózes. Áront és a fiait örökre különválasztották és felszentelték, hogy ők foglalkozzanak a legszentebb dolgokkal; hogy füstölőáldozatot mutassanak be az Örökkévaló előtt; hogy az Örökkévalónak szolgáljanak, és hogy az Örökkévaló nevében megáldják az embereket.
+{23:14} Mózesnek, az Isten emberének a gyermekeit Lévi törzséhez számították.
+{23:15} Két fia, Gersóm és Eliézer volt.
+{23:16} Gersóm elsőszülött fia Sebuél.
+{23:17} Eliézer első és egyetlen fia Rehabjá, akinek utódai nagyon megszaporodtak.
+{23:18} Jichár első fia Selómit volt.
+{23:19} Hebron elsőszülött fia Jerijjáhú, a második Amarjá, a harmadik Jahaziél, a negyedik Jekamám.
+{23:20} Uzziél első fia Mika, a második Jisijjá.
+{i23:21} Merári leszármazottjai
+{23:21} Merári fiai: Mahli és Músi. Mahli fiai: Eleázár és Kís.
+{23:22} Eleázárnak nem volt fia, csak leányai, akiket a saját rokonaik, Kís fiai vettek feleségül.
+{23:23} Músi három fia: Mahli, Éder és Jerémót.
+{23:24} Ezek voltak a húsz évesnél idősebb léviták, családjaik szerint felsorolva, és ezek voltak a családfők, név szerint feljegyezve. Ők voltak az Örökkévaló házának a szolgái — ők végezték a Templommal kapcsolatos szolgálatokat.
+{i23:25} A léviták feladatai
+{23:25} Dávid ezt mondta: „Az Örökkévaló, Izráel Istene nyugalmat adott népének, és Jeruzsálemet választotta ki örök lakóhelyéül,
+{23:26} ezért a lévitáknak nem kell többé hordozniuk sem a Szent Sátrat, sem a többi felszerelést.”
+{23:27} Tehát Dávid utolsó rendelkezése szerint számba vették és összeírták a húsz évnél idősebb lévitákat.
+{23:28} A léviták feladata volt, hogy segítsenek Áron leszármazottjainak az Örökkévaló Templomával kapcsolatos szolgálatokban, és hogy gondot viseljenek a Templom udvaraira, kamráira, és mindenféle szent eszköz tisztántartására. Az ő felelősségük volt többek között:
+{23:29} a szent kenyerek elrendezése, az ételáldozatokhoz szükséges finomliszt és a kovásztalan kenyerek előkészítése, az áldozati lepények sütése, az olajjal kevert áldozatok előkészítése és a szükséges anyagok mennyiségének pontos kimérése.
+{23:30} A lévitáknak minden reggel és este ott kellett állniuk a Templomban, hogy dicsérjék az Örökkévalót, és hálát adjanak neki.
+{23:31} Amikor a papok égőáldozatot mutattak be az Örökkévalónak szombatonként, Újholdkor és az ünnepeken, a lévitáknak a rendtartás szerint meghatározott számban állandóan ott kellett állniuk az Örökkévaló előtt.
+{23:32} Így hát a léviták feladata volt, hogy a Szent Sátor és a Templom körüli teendőket ellássák, valamint, hogy segítsenek Áron leszármazottjainak, amikor ők a szolgálatukat végzik az Örökkévaló Templomában.
+{i24:1} A papok csoportjai
+{24:1} Áron leszármazottjait, a papokat a következő csoportokba osztották: Áronnak négy fia volt: Nádáb, Abíhú, Eleázár és Ítámár.
+{24:2} Nádáb és Abíhú még Áron életében meghalt, de fiaik nem voltak. Így Eleázár és Ítámár viselték a papi szolgálat tisztségét.
+{24:3} Dávid külön csoportba osztotta be a papi szolgálatra Cádók vezetésével Eleázár leszármazottjait, és Ahimelek vezetésével Ítámár leszármazottjait.
+{24:4} Eleázár utódai között tizenhat családfő, Ítámár utódai között pedig csak nyolc családfő volt.
+{24:5} Mindkét nemzetségből sorsolással jelölték ki a családfőket, mert mindannyian a szentély és Isten fejedelmei voltak.
+{24:6} A sorsolást a király, a főemberek, Cádók főpap, Ahimelek (aki Ebjátár fia), valamint a papok és a léviták családfőinek a jelenlétében tartották. Kihúztak egy nevet az egyik családból, azután egy következőt a másikból. Amikor valakinek a nevét kihúzták, Semajá, az írástudó ezt azonnal feljegyezte. Semajá, Netanél fia maga is lévita volt. A sorsolás eredménye a következő sorrendet alakította ki:
+{24:7} Jehójárib lett az első, Jedajá a második,
+{24:8} Hárim a harmadik, Szeórim a negyedik,
+{24:9} Malkijjá az ötödik, Mijjámin a hatodik,
+{24:10} Hakkóc a hetedik, Abijjá a nyolcadik,
+{24:11} Jésua a kilencedik, Sekanjáhú a tizedik,
+{24:12} Eljásib a tizenegyedik, Jákim a tizenkettedik,
+{24:13} Huppá a tizenharmadik, Jesebáb a tizennegyedik,
+{24:14} Bilgá a tizenötödik, Immér a tizenhatodik,
+{24:15} Hézír a tizenhetedik, Happiccéc a tizennyolcadik,
+{24:16} Petahjá a tizenkilencedik, Jehezkél a huszadik,
+{24:17} Jákin a huszonegyedik, Gámúl a huszonkettedik,
+{24:18} Delájáhú a huszonharmadik, és Maazjáhú a huszonnegyedik.
+{24:19} Ennek a sorrendnek megfelelően végezték a szolgálatukat. Ők mentek be az Örökkévaló Templomába, hogy ott elvégezzék azokat a szertartásokat, amelyeket ősapjuk, Áron rájuk bízott — úgy, ahogyan azt Izráel Istene, az Örökkévaló Áronnak megparancsolta.
+{i24:20} A léviták csoportjai
+{24:20} Ez a névsora Lévi többi leszármazottjának: Amrám utóda volt Súbáél, ennek utóda Jedejáhú.
+{24:21} Rehabjáhú legidősebb fia volt Jissijá.
+{24:22} Jichári utóda volt Selómót, ennek utóda Jahat.
+{24:23} Hebron fiai: az első Jerijjáhú, a második Amarjáhú, a harmadik Jahaziél, a negyedik Jekamám.
+{24:24} Uzziél fia volt Mika, ennek utóda Sámír.
+{24:25} Mika testvére Jissijjá, ennek utóda Zekarjáhú.
+{24:26} Merári utódai: Mahli és Músi, valamint Merári fiának, Jaazijjáhúnak a leszármazottjai.
+{24:27} Ezek is Merári utódai voltak Jaazijjáhú ágán: Sóham, Zakkúr és Ibri.
+{24:28} Mahlitól származott Eleázár, akinek nem volt fia.
+{24:29} Kís fia volt Jerahmeél.
+{24:30} Músi fiai: Mahli, Éder és Jerimót. Ezek voltak a léviták családfői, családjaik szerint.
+{24:31} Őket is ugyanúgy sorsolással osztották be a szolgálatra, mint a rokonaikat, Áron utódait. A sorsolásnál jelen volt Dávid király, Cádók és Ahimelek, valamint a papok és a léviták családfői. A sorsolásnál nem tettek különbséget a családfők és a család egyéb férfitagjai között.
+{i25:1} A templomi énekesek és zenészek csoportjai
+{25:1} Dávid a vezetőkkel együtt kijelölt és különválasztott egyeseket Ászáf, Hémán és Jedútún fiai közül, hogy prófétáljanak, énekeljenek és hangszereken — lanton, hárfán, meg cintányéron — játsszanak. A következőket választották ki erre a szolgálatra:
+{25:2} Ászáf fiai közül: Zakkúr, Jószef, Netanjá és Aszarélá. A vezetőjük maga Ászáf volt, aki viszont közvetlenül a király felügyelete alatt végezte a prófétai szolgálatát.
+{25:3} Jedútún hat fia: Gedaljáhú, Ceri, Jesájahú, Simei, Hasajáhú és Mattitjáhú. Ők az apjuk vezetésével végezték a szolgálatukat: húros hangszereken játszva prófétáltak, magasztaló és hálaadó énekekkel dicsérték az Örökkévalót.
+{25:4} Hémán fiai: Bukkijjáhú, Mattanjáhú, Uzziél, Sebuél, Jerimót, Hananjá, Hanáni, Eliátá, Giddalti, Rómamti-Ezer, Josbekásá, Mallóti, Hótir és Mahaziót.
+{25:5} Ők valamennyien Hémán, a király mellé rendelt próféta fiai voltak. Isten ugyanis megígérte Hémánnak, hogy hatalmassá teszi a családját: tizennégy fiút és három leányt adott neki.
+{25:6} Hémán fiai valamennyien apjuk vezetése alatt énekelték az Örökkévaló házának az énekeit, és hárfán, lanton és cintányérral zenéltek — így végezték a szolgálatukat Isten házában. Ászáf, Hémán és Jedútún közvetlenül a király irányítása alá tartozott.
+{25:7} Az énekes léviták csoportja összesen 288 főből állt. Valamennyien képzett énekesek és hangszerjátékosok voltak, akiket megtanítottak rá, hogyan énekeljenek az Örökkévalónak.
+{25:8} Az énekesek szolgálati beosztását sorsolással készítették el. A sorsolásnál mindenkit egyenlőképpen vettek számításba, idősebbet és fiatalt, mestert és tanítványát. Mindegyik csoport 12 főből állt.
+{25:9} Az első csoport vezetője az Ászáf családjából való Jószéf lett, aki fiaival és rokonaival együtt szolgált. A második vezetője Gedaljáhú lett, aki a fiaival és a rokonaival együtt szolgált.
+{25:10} A harmadik csoportot Zakkúr vezette, aki a fiaival és a rokonaival együtt szolgált.
+{25:11} A negyedik csoport vezetője Jicri volt, aki a fiaival és a rokonaival együtt szolgált.
+{25:12} Az ötödiket Netanjáhú vezette, aki a fiaival és a rokonaival együtt szolgált.
+{25:13} A hatodik csoport Bukkijjáhú vezetése alatt szolgált, aki a fiaival és a rokonaival együtt alkotta a csoportot.
+{25:14} Jeszarélá lett a hetedik csoport vezetője — ő is a fiaival és a rokonaival együtt szolgált.
+{25:15} Jesájahú vezette a nyolcadik szolgáló csoportot, amely a fiaiból és a rokonaiból állt.
+{25:16} A kilencedik csoportot Mattanjáhú vezette, aki a fiaival és a rokonaival együtt szolgált.
+{25:17} Simei vezetésével szolgált a tizedik csoport, amely a fiaiból és a rokonaiból állt.
+{25:18} Azarél lett a tizenegyedik csoport vezetője — ő is a fiaival és a rokonaival együtt szolgált.
+{25:19} Hasabjá vezette a tizenkettedik csoportot, amely a fiaiból és a rokonaiból állt.
+{25:20} A tizenharmadik vezetője Súbáél lett, aki a fiaival és a rokonaival együtt szolgált.
+{25:21} Mattitjáhú vezette a tizennegyedik csoportot, amely a fiaiból és a rokonaiból állt.
+{25:22} A tizenötödik csoport vezetője Jerémót volt, aki a fiaival és a rokonaival együtt szolgált.
+{25:23} A tizenhatodiké Hananjáhú lett. Ő is a fiaival és a rokonaival együtt szolgált.
+{25:24} Josbekásá vezette a tizenhetedik csoportot, amely a fiaiból és a rokonaiból állt.
+{25:25} A tizennyolcadik csoport vezetője Hanáni lett, aki a fiaival és a rokonaival együtt szolgált.
+{25:26} Mallóti vezette a tizenkilencedik csoportot, amely a fiaiból és a rokonaiból állt.
+{25:27} Elijjátá vezetése alatt szolgált a huszadik csoport, amely a fiaiból és a rokonaiból állt.
+{25:28} A huszonegyedik csoport vezetője Hótír lett, aki a fiaival és a rokonaival együtt szolgált.
+{25:29} Giddalti vezette a huszonkettedik csoportot, amely a fiaiból és a rokonaiból állt.
+{25:30} A huszonharmadik csoport vezetője Mahaziót lett, aki a fiaival és a rokonaival együtt szolgált.
+{25:31} Végül a huszonnegyedik csoport vezetője Rómamti-Ezer volt, aki szintén a fiaival és a rokonaival együtt szolgált.
+{i26:1} A kapuőrök beosztása
+{26:1} A kapuőrök beosztása a következő. Kórah leszármazottjai közül: Meselemjáhú és a fiai. Meselemjáhú Kóré fia volt, és Ászáf családjából származott.
+{26:2} A fiai: az első Zekarjáhú, a második Jediaél, a harmadik Zebadjáhú, a negyedik Jatniél,
+{26:3} az ötödik Élám, a hatodik Jehóhánán, a hetedik Eljehóénáj.
+{26:4} Obed-Edóm fiai: Semajá az elsőszülött, Jehózábád a második, Jóáh a harmadik, Szákár a negyedik, Netanél az ötödik,
+{26:5} Ammiél a hatodik, Jisszákár a hetedik, Peulletaj a nyolcadik. Isten nagyon megáldotta Obed-Edómot.
+{26:6} Fiának, Semajának a fiai is vezetők lettek a nemzetségükben, mert tehetséges és vezetésre termett férfiak voltak. Név szerint
+{26:7} a következők: Otni, Refáél, Obed, Elihú és a rokonaik: Szemakjáhú és Elzábád, akik erős és tehetséges emberek voltak.
+{26:8} Ezek mind Obed-Edóm leszármazottjai voltak, erős és bátor férfiak, készek a szolgálatra, összesen 62 férfi.
+{26:9} Meselemjáhú fiai és rokonai összesen tizennyolcan voltak — mind bátor és erős férfiak.
+{26:10} A Merári családjából való Hószá fiai: az első Simri, aki ugyan nem az elsőszülött volt, apja mégis őt tette meg a nemzetség vezetőjének,
+{26:11} a második Hilkijjáhú, a harmadik Tebaljáhú, a negyedik Zekarjáhú. Hószá fiai és rokonai összesen tizenhárman voltak.
+{26:12} A következők voltak a kapuőrök csoportjai és azok vezetői. Nekik is megvolt a maguk feladata az Örökkévaló Templomának a szolgálatában, akárcsak a rokonaiknak.
+{26:13} A szolgálati beosztást ebben az esetben is sorsolással készítették el. Minden egyes kapuhoz kijelöltek egy családot, tekintet nélkül arra, hogy az a család hány lelket számlált.
+{26:14} A keleti kaput Selemjáhúra és családjára bízták. Fiára, Zekarjáhúra, aki bölcs tanácsadó volt, és a családjára az északi kaput bízták.
+{26:15} Obed-Edómnak és családjának jutott a déli kapu. Az ő fiai őrködtek a raktáraknál.
+{26:16} A nyugati kaput Suppim és Hószá őrizték a családjukkal. Ugyancsak ők álltak őrt a Salleket-kapunál is, a felfelé vezető út mellett. A kapuőrök kettesével álltak őrt, egymás mellett.
+{26:17} Minden nap hat lévita állt őrt a keleti kapunál, négy az északinál, négy a délinél, és a raktáraknál is kettő-kettő minden ajtónál.
+{26:18} A Templom nyugati udvarában négyen őrködtek, és még ketten az udvarba vezető útnál.
+{26:19} Ezek voltak a kapuőrök csoportjai, akik valamennyien Kórah és Merári családjából kerültek ki.
+{i26:20} A Templom kincstárának őrei
+{26:20} A léviták felügyelték az Isten Templomának a kincstárát és az Istennek szentelt tárgyak kamráit.
+{26:21} Ladán Gersón családjába tartozott. Jehiéli pedig az egyik nemzetség-vezetője volt Ladán családjának.
+{26:22} Jehiéli két fia, Zétám és Jóel voltak az Örökkévaló Temploma kincstárának a felügyelői és őrei.
+{26:23} A többi felügyelőt Amrám, Jichár, Hebron és Uzziél leszármazottjai közül választották ki.
+{26:24} Sebuél volt a kincsek őrzőinek a felelős vezetője, aki Gérsómnak, Mózes fiának a leszármazottja volt.
+{26:25} Sebuél leszármazottjai Eliézer ágán: Eliézer fia, Rehabjáhú, ennek fia Jesájahú, ennek fia Jórám, ennek fia Zikri, és ennek fia Selómit.
+{26:26} Ez utóbbi volt a felügyelője — a rokonaival együtt — azoknak a kincseknek, amelyeket Dávid király, a nemzetségek vezetői, a hadsereg vezetői, az ezredesek és a századosok Istennek szenteltek.
+{26:27} Amikor a hadjáratokból hazatértek, a hadizsákmány egy részét is az Örökkévalónak szentelték, és a Templom fenntartására és javítására fordították.
+{26:28} Ezeken kívül Sámuel próféta, azután Saul, Kís fia, meg Abner, Nér fia, és Jóáb, Cerúja fia is szenteltek ajándékokat az Örökkévalónak. Mindezek az adományok Selómitra és a rokonaira voltak bízva.
+{26:29} Kenanjáhút és a fiait — akik Jichár családjába tartoztak — jelölték ki, hogy bírók és tisztviselők legyenek a Templomon kívül, egész Izráel területén.
+{26:30} A Hebron családjából való Hasabjáhú és a rokonai — összesen 1 700 bátor és erős férfi — az Örökkévaló dolgait illetően királyi tisztviselők voltak Izráelnek a Jordántól nyugatra fekvő területein.
+{26:31} Hebron leszármazottjai közül Jerijjá volt a családfő a származási jegyzék szerint. Dávid uralkodásának 40. évében megvizsgálták Hebron leszármazottjainak a jegyzékét, és azt találták, hogy vannak közöttük kiváló férfiak, akik Jazér városában, Gileádban élnek.
+{26:32} Így hát Dávid Jerijjá vezetésével őket bízta meg, hogy királyi tisztviselők legyenek Rúben törzse, Gád törzse és Manassé fél törzse fölött az Örökkévaló minden dolgában és a királyra tartozó ügyekben. Ez a csoport 2 700 erős és bátor családfőből állt.
+{i27:1} Dávid hadserege
+{27:1} Ez a névsora a hadsereg vezetőinek, az ezredeseknek, századosoknak és a többi tisztnek, akik a király szolgálatában álltak. A hadsereg tizenkét csapattestből állt, és mindegyikben 24 000 férfi teljesített katonai szolgálatot. Mindegyik csapattest évente egy hónapig állt szolgálatban.
+{27:2} Az első csapattest 24 000 harcosból állt, és az első hónapban szolgált.
+{27:3} Ekkor Jásobám, Jabdiél fia töltötte be a vezér tisztségét. Ő Pérec leszármazottja volt.
+{27:4} A második csapattest 24 000 harcosból állt, és a második hónapban szolgált, a vezetője Miklót volt. Ekkor az ahói Dódaj töltötte be a vezér tisztségét.
+{27:5} A harmadik csapattest 24 000 harcosból állt, és a harmadik hónapban szolgált. Ekkor Benája, Jójádá főpap fia töltötte be a vezér tisztségét.
+{27:6} Ő volt Dávid harmincfős különleges csapatának, a „harminc hősnek” az egyike, és egyúttal a vezetője. A csapattest parancsnoka Benája fia, Ammizábád volt.
+{27:7} A negyedik csapattest 24 000 harcosból állt, és a negyedik hónapban szolgált. Ekkor Aszáél, Jóáb testvére töltötte be a vezér tisztségét. Aszáél után a fia, Zebadjá töltötte be ezt a tisztséget.
+{27:8} Az ötödik csapattest 24 000 harcosból állt, és az ötödik hónapban szolgált. Ekkor a jizráhi Samhút töltötte be a vezér tisztségét.
+{27:9} A hatodik csapattest 24 000 harcosból állt, és a hatodik hónapban szolgált. Ekkor a tekóai Írá, Ikkés fia töltötte be a vezér tisztségét.
+{27:10} A hetedik csapattest 24 000 harcosból állt, és a hetedik hónapban szolgált. Ekkor a pelóni Hélec töltötte be a vezér tisztségét, aki Efraim törzséből származott.
+{27:11} A nyolcadik csapattest 24 000 harcosból állt, és a nyolcadik hónapban szolgált. Ekkor a húsái Szibbekaj töltötte be a vezér tisztségét, aki Zerah családjából származott.
+{27:12} A kilencedik csapattest 24 000 harcosból állt, és a kilencedik hónapban szolgált. Ekkor az anátóti Abiezer töltötte be a vezér tisztségét, aki Benjámin törzsébe tartozott.
+{27:13} A tizedik csapattest 24 000 harcosból állt, és a tizedik hónapban szolgált. Ekkor a netófái Mahraj töltötte be a vezér tisztségét, aki Zerah családjából származott.
+{27:14} A tizenegyedik csapattest 24 000 harcosból állt, és a tizenegyedik hónapban szolgált. Ekkor a pirátóni Benája töltötte be a vezér tisztségét, aki Efraim törzséből származott.
+{27:15} A tizenkettedik csapattest 24 000 harcosból állt, és a tizenkettedik hónapban szolgált. Ekkor a netófái Heldaj töltötte be a vezér tisztségét, aki Otniél leszármazottja volt.
+{i27:16} Izráel törzseinek vezetői
+{27:16} Izráel törzseinek vezetői a következők voltak: Eliézer, Zikri fia volt Rúben törzsének a fejedelme, Sefatjáhú, Maaká fia volt Simeon törzsének a fejedelme,
+{27:17} Hasabjá, Kemúél fia volt Lévi törzsének, a lévitáknak a fejedelme, Cádók volt Áron leszármazottjainak a fejedelme,
+{27:18} Elihú, Dávid testvére volt Júda törzsének a fejedelme, Omri, Mikaél fia volt Issakár törzsének a fejedelme,
+{27:19} Jismajáhú, Óbadjáhú fia volt Zebulon törzsének a fejedelme, Jerimót, Azriél fia volt Naftáli törzsének a fejedelme,
+{27:20} Hóséá, Azazjáhú fia volt Efraim törzsének a fejedelme, Jóel, Pedájáhú fia volt Manassé fél törzsének a fejedelme,
+{27:21} Jiddó, Zekarjáhú fia volt Manassé másik fél törzsének a fejedelme Gileádban, Jaasziél, Abner fia volt Benjámin törzsének a fejedelme,
+{27:22} Azarél, Jeróhám fia volt Dán törzsének a fejedelme. Ezek voltak Izráel törzseinek a vezetői.
+{i27:23} Dávid népszámlálása
+{27:23} Dávid elhatározta, hogy népszámlálást tart Izráelben. De a húsz évnél fiatalabb férfiakat nem vette számba, mert az Örökkévaló megígérte, hogy úgy megsokasítja Izráel népét, mint az ég csillagait.
+{27:24} Jóáb, Cerúja fia elkezdte a népszámlálást, de nem fejezte be, mert emiatt Isten haragja sújtott Izráelre. Ezért ezt a létszámot nem jegyezték fel Dávid király krónikáiban.
+{i27:25} A királyi tisztviselők
+{27:25} Ez a névsora a királyi tisztviselőknek, akik a király birtokait és vagyonát kezelték: Azmávet, Adiél fia volt a királyi raktárok felügyelője. Jehónátán, Uzzijjáhú fia volt a felügyelője a vidéki falvakban, a városokban és az erődítményekben lévő raktáraknak.
+{27:26} A földművesek felügyelője Ezri, Kelúb fia volt.
+{27:27} A szőlők felügyelője a rámai Simei volt. A szőlők termésének és a bor tárolásának a sefemi Zabdi volt a felügyelője.
+{27:28} Az olajfaligeteknek és a fügefás kerteknek, amelyek Sefélában, a nyugati dombvidéken voltak, a gádéri Baálhánán volt a felügyelője. Az olívaolaj raktárainak a felügyelője Jóás volt.
+{27:29} A Sáron-síkságon legelő szarvasmarhák felügyelője a sároni Sitraj volt. A völgyekben legelő szarvasmarhák felügyelője Sáfát, Adlaj fia volt.
+{27:30} A tevék felügyelője a jismáéli Óbil, a szamaraké a mérónóti Jedejáhú volt.
+{27:31} A juhnyájak felügyelője a hagari Jáziz volt. Ezek viseltek gondot a király vagyonára.
+{27:32} Jonatán, Dávid nagybátyja bölcs tanácsadó és írástudó volt. Jehiél, Hakmóni fia a király fiainak a nevelője volt.
+{27:33} Ahitófel a király tanácsadója volt. Az arki Húsaj volt a király barátja.
+{27:34} Ahitófel után Jehójádá, Benájáhú fia és Ebjátár lettek a király tanácsadói. A király hadseregének a parancsnoka Jóáb volt.
+{i28:1} Dávid beszéde a Templom felépítéséről
+{28:1} Dávid összehívta Jeruzsálembe Izráel összes vezetőit: a törzsek fejedelmeit, a királyi hadsereg csapattesteinek a parancsnokait, az ezredeseket és a századosokat, a királyi birtokok és nyájak felügyelőit, a király fiainak nevelőjét, a királyi udvar tisztviselőit, a különleges katonai egység tagjait, és minden egyéb fontos tisztségviselőt.
+{28:2} Amikor mind együtt voltak, a király felállt, és beszédet mondott. „Testvéreim, Izráel népe! Hallgassatok meg engem! Az volt a szándékom és tervem, hogy én magam építek az Örökkévaló Szövetségládájának, Istenünk lába zsámolyának olyan házat, ahol megállapodhat, hiszen nem kell többé helyről-helyre vándorolnia. Mindent elő is készítettem az építéshez,
+{28:3} azonban Isten szólt hozzám: »Nem te fogsz az én nevemnek házat építeni, mert sokat hadakoztál, és sokakat megöltél.«
+{28:4} Az Örökkévaló, Izráel Istene apám egész családjából mégis engem választott, hogy örökké Izráel királya legyek. Mert Júda törzsét választotta, hogy első legyen Izráel törzsei között, Júda törzséből apám családját, apám fiai közül pedig jónak látta, hogy engem tegyen királlyá egész Izráel fölött.
+{28:5} Az Örökkévaló sok fiút adott nekem, de valamennyi közül Salamon fiamat választotta, hogy az Örökkévaló királyságának trónjára üljön, és uralkodjon Izráel felett.
+{28:6} Az Örökkévaló azt mondta nekem: »Salamon, a fiad fog nekem házat építeni, és ő építi fel udvaraimat is, mert őt választottam, hogy fiammá legyen, én pedig apjává legyek,
+{28:7} és örökre állandóvá teszem királyi uralmát, ha a jövőben is állhatatosan és hűségesen véghezviszi, amit parancsolok neki, és ha kitartóan engedelmeskedik törvényeimnek — mint ahogy ma állhatatos és engedelmes.«
+{28:8} Most pedig figyeljetek rám! Egész Izráel, az Örökkévaló népe közösségének a szeme láttára és Istenünk füle hallatára mondom nektek: keressétek az Örökkévalónak, Isteneteknek az akaratát, és engedelmeskedjetek parancsainak! Akkor továbbra is tiétek lesz ez a jó föld, és állandó örökségül hagyhatjátok azt gyermekeiteknek.”
+{28:9} Ezután Salamonhoz fordult: „Te pedig fiam, Salamon, törekedj egyre jobban megismerni atyád Istenét, és szolgáld őt teljes szívvel-lélekkel, engedelmességre készséges lelkülettel! Mert az Örökkévaló szüntelen vizsgálja a szíveket, és tökéletesen átlátja a gondolatok és szándékok célját és mozgatórugóit. Ha tehát keresed őt és kutatod akaratát, akkor meg is találod. Ha pedig elhagyod őt és hátat fordítasz neki, akkor ő is hátat fordít neked örökre.
+{28:10} Értsd meg hát, hogy az Örökkévaló téged választott, hogy házat építs neki — szent helyet, ahol lakozzon. Légy erős és határozott — és építsd fel!”
+{28:11} Ezután Dávid átadta Salamonnak, a fiának a szent hely tervét és mintáját, amelyeket korábban a Szellemtől ihletve kigondolt. Ezek a tervek a következőkre vonatkoztak: a Templom épülete és annak homlokzata,
+{28:12} a kincstárak, a felső szinten lévő kamrák, a Templom belső részei, a Szentek Szentje — vagyis a Szövetségláda helye — , a Templom körüli udvarok és az Istennek szentelt ajándékok raktárai.
+{28:13} Továbbá átadta a papok és a léviták szolgálati beosztásának és csoportjaiknak a tervét, azután az Örökkévaló Templomában végzendő szolgálatok és tennivalók leírását. Átadta a Templomban végzendő szertartásokhoz szükséges minden eszköz és berendezési tárgy tervét és leírását.
+{28:14} Az aranyból és ezüstből készítendő tárgyaknál a tervek megjelölték a hozzájuk szükséges nemesfém mennyiségét is súlymérték szerint.
+{28:15} Ugyanígy tartalmazták az aranyból, illetve ezüstből készítendő mécstartókat, a rajtuk lévő mécseseket, és a hozzájuk szükséges nemesfém mennyiségét is súlymérték szerint.
+{28:16} Hasonlóképpen a szent kenyerek aranyasztalait, az ezüstasztalokat;
+{28:17} a színarany villákat, edényeket, kelyheket, tányérokat; az ezüstkelyheket, és a hozzájuk szükséges nemesfém mennyiségét is súlymérték szerint.
+{28:18} Ezen kívül a legtisztább aranyból készítendő füstölőoltárt, az arany kerub-szobrok hordozóját — vagyis a Szövetségláda fedelét — , és a hozzájuk szükséges fém mennyiségét is súlymérték szerint. Ezek azok az aranykerubok, amelyek kiterjesztett szárnyaikkal betakarták az Örökkévaló Szövetségládáját.
+{28:19} Dávid azt mondta: „Mindezeket a terveket úgy készítettem és írtam le, hogy az Örökkévaló keze rajtam nyugodott. Ő mutatta és magyarázta el nekem, hogyan készüljenek ezek.”
+{28:20} Azután Dávid ezt mondta Salamonnak: „Fiam, légy erős és határozott, és fogj hozzá és fejezd is be ezt a munkát! Ne félj, és ne hagyd magad elbizonytalanítani, mert Istenem, az Örökkévaló Isten veled van! Ő nem hagy el téged, sem nem hagy cserben, amíg be nem fejezed az Örökkévaló házának építését és a templomi szolgálatok megszervezését.
+{28:21} Nézd, veled vannak a papok és a léviták szolgálati csoportjai, hogy az Isten Templomának minden szolgálatát elvégezzék. Itt vannak, és rendelkezésedre állnak mind a mesteremberek, akik mindenféle szükséges szakmunkát készek elvégezni. Veled vannak mind a vezetők és melletted áll az egész nép — mindannyian a rendelkezésedre állnak.”
+{i29:1} A Templom építésére adott ajándékok
+{29:1} Ezután Dávid király ezt mondta az összegyűlt vezetőknek: „Látjátok, egyedül a fiamat, Salamont választotta Isten erre a feladatra. De Salamon még fiatal és tapasztalatlan. Ez az építkezés pedig igen nagy feladatot jelent, hiszen ez a Templom nem embereknek, hanem magának az Örökkévaló Istennek készül.
+{29:2} Ami engem illet, erőm szerint bőségesen szereztem és gyűjtöttem Istenem Temploma számára aranyat és ezüstöt az arany- és ezüsteszközökhöz; bronzot és vasat a bronz- és vastárgyak számára; faanyagot az épülethez; ónixot és mindenféle egyéb drágaköveket az ötvösmunkákhoz; és különböző színű padlóköveket és fehér márványt.
+{29:3} Mivel Istenem Templomának a felépítését teljes szívemből kívánom, azon fölül, amit a Szent Templom számára előkészítettem, még a saját kincstáramból is adok
+{29:4} 3 000 talentum ófiri aranyat és 7 000 talentum tiszta ezüstöt a Templom falainak a burkolására,
+{29:5} és az arany- illetve az ezüsttárgyak készítésére — a mesteremberek kezébe. Ki akar közületek még ma önként ajándékot adni az Örökkévalónak?”
+{29:6} Akkor a vezetők is bőkezűen adtak mindenféle ajándékot az Isten Temploma építésére és berendezésére. A nemzetségfők, Izráel törzseinek a fejedelmei, a hadsereg ezredesei, századosai és a királyi
+{29:7} tisztviselők összesen a következőket ajánlották fel: 5 000 talentum aranyat és 10 000 arany dárikot, 10 000 talentum ezüstöt, 18 000 talentum bronzot és 100 000 talentum vasat.
+{29:8} Akinek drágakövek voltak a birtokában, az azt is az Örökkévaló háza kincsestárának adta, a gérsóni Jehiél (a kincstár felügyelője) kezébe.
+{29:9} Az egész népet nagy öröm töltötte el, mert bőkezűen, önként és tiszta szívvel adták az Örökkévalónak mindezeket. Dávid király is teljes szívvel örült ennek.
+{i29:10} Dávid király áldja az Örökkévalót
+{29:10} Akkor Dávid király az egész gyülekezet előtt hangosan áldotta az Örökkévalót: „Áldott legyél Örökkévaló, ősapánknak, Izráelnek Istene, öröktől fogva mindörökké!
+{29:11} Örökkévaló, tiéd minden nagyság, hatalom, dicsőség, győzelem és méltóság! Tiéd minden, ami a Mennyben és a Földön van! Örökkévaló, tiéd a királyi uralom, téged illet a felmagasztalás, hiszen te vagy a forrása és a feje mindennek!
+{29:12} Tőled származik minden gazdagság és dicsőség, te uralkodsz mindenen. Kezedben van minden hatalom és erő. Te teszel valakit naggyá, és kezed erősít meg mindenkit.
+{29:13} Ezért most Istenünk, hálát adunk neked és dicsérjük neved,
+{29:14} mert ugyan ki vagyok én, és mi az én népem, hogy a magunk erejéből ajándékoztunk volna bármit is? Hiszen minden tőled jön, és csak abból adtunk, amit kezedből kaptunk!
+{29:15} Mert csak átutazó vándorok vagyunk, mint őseink mindannyian. Földi napjaink, mint az árnyékok tovatűnnek, s nincs remény maradnunk.
+{29:16} Örökkévaló Istenünk, mindez a gazdagság, amit szent neved házának építésére gyűjtöttünk, kezedből származik, és mind a tiéd!
+{29:17} Tudom Istenem, hogy te a szíveket vizsgálod, az őszinteséget szereted, én pedig tiszta szívvel, őszinte lélekkel adtam mindezt, és örömmel láttam, hogy néped is, amely itt összegyűlt, készségesen és szabadon adta mindezt neked.
+{29:18} Örökkévaló, őseinknek, Ábrahámnak, Izsáknak és Izráelnek Istene! Őrizd meg néped szívében örökre ezt az indulatot, és szívüket fordítsd magad felé!
+{29:19} Te adj fiamnak, Salamonnak tökéletes szívet, hogy parancsod, törvényed és tanácsod szerint járjon el, engedelmesen. Segítsd meg őt, Örökkévaló, hogy felépítse a Templomot, amelyet én előkészítettem!”
+{29:20} Akkor Dávid azt mondta az egész gyülekezetnek: „Áldjátok az Örökkévalót, Isteneteket!” Mindannyian áldották és dicsérték az Örökkévalót, őseik Istenét, majd földig hajoltak és leborultak az Örökkévaló és a király előtt.
+{i29:21} Salamon trónra lép
+{29:21} A következő napon áldozatokat vittek az Örökkévalónak. Azután égőáldozatokat mutattak be neki: 1 000 bikát, 1 000 kost, 1 000 bárányt, a szükséges italáldozatokkal együtt, és rengeteg egyéb áldozatot is egész Izráelért.
+{29:22} Egész nap nagy örömmel ettek-ittak az Örökkévaló jelenlétében. Azután másodszor is királlyá tették Salamont, Dávid fiát: felkenték a szent olajjal az Örökkévaló fejedelmévé. Ugyanakkor Cádókot is felkenték főpappá.
+{29:23} Így követte Salamon az apját, Dávid királyt az Örökkévaló trónján. Sikeresen uralkodott, és egész Izráel engedelmeskedett neki.
+{29:24} A vezetők, a királyi tisztviselők, a hadsereg tisztjei és Dávid király többi fiai mind megerősítették, hogy elfogadják Salamont királyuknak és hűségesek lesznek hozzá.
+{29:25} Az Örökkévaló pedig felmagasztalta Salamont egész Izráel népe előtt, és nagyobb királyi méltóságot és tekintélyt adott neki, mint az előtte lévő izráeli királyoknak.
+{i29:26} Dávid halála
+{29:26} Dávid, Isai fia egész Izráel fölött uralkodott. Összesen negyven
+{29:27} évig uralkodott: Hebronban hét esztendeig, Jeruzsálemben pedig harminchárom évig.
+{29:28} Teljes életet élt, érett öregkorában halt meg, betelt az élettel, gazdagsággal és dicsőséggel. Utána a fia, Salamon követte a trónon.
+{29:29} Dávid király uralkodásának eseményei az elsőtől az utolsóig mind fel vannak jegyezve Sámuel próféta, Nátán próféta és Gád próféta könyveiben.
+{29:30} Ezekben megtalálható Dávid uralkodásának a története, Dávid tettei és hatalma, és mindaz, ami történt vele; meg azok az események is, amelyek Dávid idejében Izráelben és a környező királyságokban történtek.

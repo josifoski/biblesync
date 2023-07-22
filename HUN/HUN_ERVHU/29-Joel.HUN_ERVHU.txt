@@ -1,0 +1,86 @@
+{i1:1} Prófécia a közelgő csapásokról
+{1:1} Ez az Örökkévaló üzenete, amely Jóel prófétához, Petúél fiához érkezett:
+{1:2} Hallgassátok meg ezt, népem vezetői! Figyeljetek rám, akik e földön laktok! Történt-e valaha ilyen a ti időtökben, vagy őseitek napjaiban?
+{1:3} Mondjátok el ezt fiaitoknak, ők is a gyermekeiknek, azok meg a következő nemzedéknek!
+{i1:4} Sáskajárás
+{1:4} Amit az egyik sáskaraj meghagyott, megette a másik, amit ez megkímélt, felfalta a következő, s ha még maradt ezután valami, csupaszra tarolta azt a negyedik.
+{1:5} Ébredjetek, ti részegek, és sírjatok! Jajgassatok mind, ti borivók! Mert nincs többé sem must, sem bor, elvették tőletek!
+{1:6} Pusztító sereg szállta meg országomat, erős és megszámlálhatatlan. Fogaik oroszlánfogak, széttépnek és összemorzsolnak mindent.
+{1:7} Elpusztították szőlőskertemet, összetörték fügefáimat, meztelenre hántották, szétdobálták, fehérlenek csupaszon maradt ágai.
+{i1:8} Felhívás böjtre
+{1:8} Sírjatok, gyászoljatok, mint a zsákruhába öltözött ifjú menyasszony, aki halott vőlegényét siratja!
+{1:9} Gyászoljatok, sírjatok, ti papok, az Örökkévaló szolgái! Nincs többé étel- és italáldozat az Örökkévaló Templomában.
+{1:10} Elpusztult a szántóföld, gyászol a mező, elpusztult a gabona, nem lesz aratás, kiszáradt a szőlő, elmarad a szüret, nem termett az olajfa, elapadt az olaj.
+{1:11} Hiába remélt jó termést a szántóvető, siratja a búzát, az árpát, jajgatnak a szőlőművesek is, nem lesz már sem aratás, sem szüret!
+{1:12} Kipusztult a szőlő, száraz a borsajtó, kiszáradt a füge és a gránátalma, kiégett az alma és a datolyapálma, elszáradtak még a mező fái is! Bizony, kiveszett az öröm az emberek közül!
+{1:13} Jajgassatok, papok, öltsetek gyászruhát! Sírjatok, kik az oltárnál szolgáltok, öltözzetek zsákba, Istenem szolgái, éjjel-nappal abban járjatok! Gyászoljatok, mert megszűnt az étel- és italáldozat Istenetek Templomában!
+{1:14} Hirdessetek szent böjtöt, hívjátok össze a népgyűlést, gyűjtsetek össze minden vezetőt, hívjátok az ország lakóit az Örökkévaló házába, Istenetek Templomába! Kiáltsatok együtt az Örökkévalóhoz kegyelemért!
+{i1:15} Mint a pusztítás, úgy jön az Örökkévaló napja
+{1:15} Jaj, az a nap! Mert közel az Örökkévaló napja, s mint a pusztító sereg, úgy jön el a Mindenható szavára!
+{1:16} Hiszen szemünk láttára tűnt el minden étel-ital, boldogság és öröm Istenünk házából!
+{1:17} Hiába vetettünk, elszáradt a mag a földben. Üres a magtár, düledezik a csűr, elmaradt az aratás, elszáradt a vetés.
+{1:18} Hogy bőgnek az éhes állatok! Nyugtalanul kóborolnak a marhacsordák, mert kiszáradtak a legelők. Sínylődnek még a nyájak is.
+{1:19} Hozzád kiáltok, Örökkévaló, mert tűz égette ki a puszták legelőit, láng perzselte föl a mező fáit. Nem maradt egy tenyérnyi zöld sem.
+{1:20} A mezei vadak is bőgve hozzád esengenek, mert kiszáradt forrás és patak, tűz perzselte föl a puszta legelőit!
+{i2:1} Az Örökkévaló napja közel!
+{2:1} Fújjátok meg a sófárt a Sionon! Fújjatok riadót szent hegyemen! Reszkessen a föld minden lakója, mert közel az Örökkévaló napja, itt van már a küszöbön!
+{2:2} Sötétség és homály napja az, komor fellegek és köd uralja! Mire felkél a hajnal, seregek borítják el a hegyeket. Micsoda hatalmas, erős hadsereg! Nem volt ilyen még soha, nem is lesz többé, míg ember él a földön!
+{2:3} Előttük mintha pusztító tűz perzselne, utánuk mintha láng lobogna. Előttük a táj, mint az Édenkert, utánuk csak üszkös rom és pusztaság marad, semmi sem menekül meg tőlük.
+{2:4} Mint a vágtató lovak, úgy rohannak, mint rohamozó lovasok, úgy száguldanak.
+{2:5} Robognak a hegyek tetején, mint harci szekerek dübörögnek, mint a tarlótűz ropogása, rémítő zajjal robognak, ütközetre rohannak.
+{2:6} Elrémülnek láttukra a népek, minden arc elsápad.
+{2:7} Mint erős harcosok, rohannak a csatába. Mint ostromló katonák, felhágnak a falakra. Mind egyenesen rohannak, soraik fel nem bomlanak.
+{2:8} Mindegyik a maga ösvényén halad, társát nem akadályozza. Nekirontanak a fegyvereknek, de még sebet sem kapnak.
+{2:9} Lerohanják a várost, futkosnak a kőfal tetején, felmásznak a házfalon, betörnek az ablakon, mint a tolvaj.
+{2:10} Még a föld is belereszket, megremeg az ég is, elsötétül a Nap és Hold, a csillagok sem ragyognak,
+{2:11} mikor az Örökkévaló szava mennydörög, mikor hatalmas seregét szólítja. Rettenetes az ő serege! Ellenállhatatlan, mert az Örökkévaló parancsát teljesíti! Bizony, nagy és rettenetes az Örökkévaló napja! Ki tudja elviselni?
+{i2:12} Felhívás böjtre és imádkozásra
+{2:12} „De még most is hívlak benneteket! — mondja az Örökkévaló. — Jöjjetek vissza hozzám teljes szívvel, böjtölve, sírva és gyászolva!
+{2:13} De szíveteket szaggassátok meg, ne ruháitokat! Így térjetek vissza az Örökkévalóhoz, Istenetekhez, mert ő irgalmas és kegyelmes, türelme hosszú, szeretete erős, és örül, ha büntető ítéletét nem kell végrehajtania.
+{2:14} Talán megkönyörül rajtatok, és ítéletét mégsem hajtja végre, hanem áldást hagy maga után. S akkor ismét hozhattok az Örökkévalónak, Isteneteknek, étel- és italáldozatot!
+{i2:15} Könyörülj meg népeden, Örökkévaló!
+{2:15} Fújjátok meg a sófárt a Sionon! Hirdessetek szent böjtöt, hívjátok össze a népgyűlést,
+{2:16} gyűjtsétek össze a népet, tartsatok szent gyűlést, gyűjtsétek össze a vezetőket, hozzátok a gyermekeket, még a csecsemőket is! Jöjjön ki házából az ifjú férj, jöjjön fiatal felesége is, senki se maradjon távol!
+{2:17} A papok, az Örökkévaló szolgái, sírjanak a Templom és az oltár között, és mondják: „Könyörülj meg népeden, Örökkévaló, ne engedd, hogy örökséged gyalázzák a nemzetek! Ne uralkodjanak rajtuk, s ne gúnyolhassák őket: »Lássuk hát, hol van most Istenetek!«”
+{i2:18} Az Örökkévaló megkegyelmez népének
+{2:18} Akkor fellángolt az Örökkévaló féltő szeretete, és népének megkegyelmezett.
+{2:19} Ezt mondta nekik: „Most már adok nektek búzát, bort és olajat, hogy jóllakjatok, és bőségben éljetek! S többé nem hagyom, hogy a nemzetek gúnyoljanak titeket!
+{2:20} Elűzöm földetekről az északi sereget, messze hajítom, kietlen sivatagba vetem, elejét a Keleti-tengerbe, végét a Nyugati-tengerbe taszítom. Szörnyű dolgokat tett, ezért romlásának bűze az egekig ér, pusztulásának büdösségét messze földön érzik.
+{i2:21} Kipótolom nektek az esztendőket
+{2:21} Ujjongj és örülj, te föld, ne félj, mert nagy dolgokat tesz veled az Örökkévaló!
+{2:22} Mezei vadak, ne féljetek! Kizöldülnek a pusztai legelők megint, újra teremnek a gyümölcsfák, a szőlő és füge termésüket érlelik.
+{2:23} Sion fiai, ti is ujjongjatok, örüljetek az Örökkévalóban, Istenetekben, mert újra esőt ad nektek alkalmas időben. Hullat rátok korai esőt idejében, és késői esőt az első hónapban.
+{2:24} A szérűskertek megtelnek gabonával, a szőlőprésből bőven ömlik a must, az olajprésből meg az olívaolaj.
+{2:25} Kipótolom az elmaradt termést, amelyet a sáskák raja felemésztett, a meddő éveket, amelyeket elpusztított rátok küldött nagy seregem!
+{2:26} Bőven ehettek, megelégedtek, dicséritek Istenetek, az Örökkévaló nevét, mert csodálatosan bánt veletek! Nem vall szégyent népem soha többé!
+{2:27} Akkor majd megtudjátok, hogy Izráel népe között lakom, hogy én vagyok az Örökkévaló, Istenetek, és nincs más kívülem! Nem vall szégyent népem soha többé!
+{i2:28} Kiöntöm Szellemem minden emberre
+{2:28} Ezek után kiöntöm Szellemem minden emberre. Fiaitok és leányaitok prófétálni fognak, az idősek álmokat látnak, a fiatalok pedig látomásokat kapnak.
+{2:29} Kiöntöm Szellemem azokban a napokban még a szolgákra is, férfiakra és nőkre egyaránt.
+{2:30} Csodálatos jeleket mutatok égen és földön: vért, tüzet és füstoszlopokat.
+{2:31} A Nap elsötétül, a Hold vérszínűre változik, mielőtt az Örökkévaló nagy és rettenetes napja megérkezik.
+{2:32} De mind megmenekülnek, akik segítségül hívják az Örökkévaló nevét, mert ők Sion hegyén és Jeruzsálemben menedéket találnak — megmondta ezt az Örökkévaló előre — , és a megmaradók között lesznek azok, akiket ő elhív.”
+{i3:1} Az Örökkévaló ítéletet tart a nemzetek fölött
+{3:1} „Nézzétek! Abban az időben, azokban a napokban, mikor jóra fordítom Júda és Jeruzsálem népének sorsát,
+{3:2} egyúttal összegyűjtök minden nemzetet, leviszem őket a Jósafát völgyébe, és ott perbe szállok velük népem miatt. Bizony, ítéletet tartok fölöttük, örökségem, Izráel miatt, amelyet szétszórtak a nemzetek közé, és földem miatt, amelyet felosztottak maguk között.
+{3:3} Perelni fogok velük, amiért sorshúzással adták el népemet. Eladták a fiúkat, hogy prostituáltakat szerezzenek, eladták a leányokat, hogy bort vegyenek, és mulatozzanak.”
+{3:4} „Hát nektek mi dolgotok velem, Tírusz, Szidón és Filisztea tartományai? Bosszút akartok állni rajtam? Majd én fizetek meg nektek, és bosszútokat fejetekre fordítom vissza!
+{3:5} Bizony, megfizetek nektek, amiért elraboltátok ezüstöm, aranyam, templomotokba vittétek drága kincseim!
+{3:6} Júdából és Jeruzsálemből foglyokat szereztetek, s hogy vissza ne térhessenek földjükre, eladtátok őket a görögöknek!
+{3:7} Nézzétek, mit teszek: felveszem őket onnan, s visszahozom népemet a saját földjére! Rajtatok pedig bosszút állok ezért:
+{3:8} fiaitokat és leányaitokat Júda népének kezébe adom, ők pedig eladják azokat a sábaiaknak és a távoli népeknek” — az Örökkévaló mondja ezt.
+{i3:9} Tömegek, tömegek a döntés völgyében!
+{3:9} Hirdessétek ezt a nemzetek között: készüljetek a háborúra! Készítsétek fel a harcosokat, gyűljenek össze a csapatok, vonuljanak föl, jöjjenek!
+{3:10} Még az ekéből is kardot kovácsoljatok, metszőkésből is dárdát készítsetek! Még a gyenge is mondja: „Erős vagyok!”
+{3:11} Jöjjetek, népek, mindenfelől, sietve gyűljetek össze, nemzetek! Ide vezesd harcosaidat, Örökkévaló!
+{3:12} „Keljenek fel mind a nemzetek, gyűljenek a Jósafát-völgybe mindenfelől, mert ott tartok fölöttük ítéletet!
+{3:13} Lendítsétek a sarlót, megérett az aratnivaló! Színig töltve szőlővel a sajtó, jöjjetek, tapossátok, áradjon a must! Csordulásig tele gonoszságukkal!
+{3:14} Tömegek, tömegek a Döntés Völgyében! Közel van az Örökkévaló napja a Döntés Völgyében!
+{3:15} Elsötétül a Nap és a Hold, a csillagok sem fénylenek.
+{3:16} Felharsan az Örökkévaló hangja Sionról, kiereszti hangját Jeruzsálemből, hogy ég és föld belereszket! De népének az Örökkévaló lesz menedéke, Izráel fiainak ő lesz erős kővára.
+{3:17} Akkor megtudjátok, hogy én vagyok az Örökkévaló, Istenetek, aki Sionban lakom, szent hegyemen! Akkor szentté lesz Jeruzsálem, hová idegen többé be nem léphet.”
+{i3:18} Júda és Jeruzsálem felvirágzik
+{3:18} „Akkor a hegyeken szőlő és bor terem, a dombokról tej folyik, és Júda minden száraz patakmedrét majd víz árasztja el. Az Örökkévaló Templomából forrás fakad, és a Sittím völgyét megöntözi.
+{3:19} De Egyiptom földje pusztává lesz, Edom kietlen sivataggá, mert kegyetlenül bántak Júda népével, ártatlanokat öltek Izráelben.
+{3:20} Júda földje pedig virulni fog örökké, és Jeruzsálemet lakni fogják nemzedékről nemzedékre.
+{3:21} Mert megbosszulom az ártatlanok halálát, nem hagyom a gyilkosokat büntetlenül!” Akkor Sion lesz az Örökkévaló lakóhelye!

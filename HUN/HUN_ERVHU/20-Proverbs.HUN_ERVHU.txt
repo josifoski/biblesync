@@ -1,0 +1,970 @@
+{i1:1} Bevezetés
+{1:1} Ezek Salamonnak, Dávid fiának, Izráel királyának bölcs mondásai.
+{1:2} Általuk ismerheted meg a bölcsességet, helyreigazítanak és tanácsolnak téged, segítenek megérteni a bölcs tanításokat.
+{1:3} Segítenek kiigazítani téged, hogy bölcs legyél, megtanítanak helyesen cselekedni, igazságosnak lenni, és becsületesen élni.
+{1:4} Az oktalan embert eszessé, a fiatalokat is előrelátóvá és megfontolttá teszik.
+{1:5} Még a bölcsek is gyarapíthatják tudásukat, ha megszívlelik. Még az értelmesek is segítséget kapnak,
+{1:6} hogy megérthessék a bölcsek rejtett értelmű mondásait, példázatait és hasonlatait.
+{1:7} Az Örökkévalót tisztelni és félni, ez a bölcsesség forrása és kezdete! Csak az öntelt ostobák gyűlölik a bölcsességet, és vetik meg figyelmeztetését.
+{i1:8} Kerüld a rossz társaságot!
+{1:8} Fiam, kövesd apád útmutatását, ne vesd meg, amire anyád tanított!
+{1:9} Ha megfogadod szüleid tanítását, ékes korona lesz az a fejeden, aranylánc a nyakadon.
+{1:10} Fiam, ha gonosztevők hívnak, hogy állj közéjük, ne hallgass rájuk, ne menj velük!
+{1:11} Azt mondják: „Gyere velünk, álljunk lesbe, öljük meg, aki arra jön, raboljuk ki az ártatlanokat!
+{1:12} Pusztítsuk el őket, ahogy a halál elnyeli az élőket, pusztítsuk el teljesen, dobjuk őket sírgödörbe!
+{1:13} Drága kincseiket mind elvesszük, hogy megtöltsük házainkat.
+{1:14} Állj be közénk, legyünk társak, s minden zsákmányon osztozunk!”
+{1:15} Fiam, ne állj közéjük, ösvényeikre rá se lépj,
+{1:16} mert csak rosszra igyekeznek, gyilkolni sietnek!
+{1:17} Ha látja a madár, mikor hálót feszít a madarász, nem repül bele, elkerüli.
+{1:18} De ezek a rablók a saját életük árán állnak lesbe, mert saját csapdájukba esnek!
+{1:19} Bizony, mindenki így jár, aki mohón rabolva gyűjt vagyont: zsákmánya saját gazdáját pusztítja el!
+{i1:20} Bölcsesség hívja az embereket
+{1:20} Bölcsesség az utcákon kiált, zsúfolt piactereken szól hangosan,
+{1:21} forgalmas kereszteződéseknél, s a városkapuk előtt szól:
+{1:22} „Ó ti tudatlanok, meddig ragaszkodtok még a tudatlansághoz? Ti gúnyolódók, meddig csúfolódtok még? Ti öntelt ostobák, meddig gyűlölitek az igazi tudást?
+{1:23} Bárcsak hallgatnátok figyelmeztetésemre, akkor kijelenteném nektek titkaimat, és megértetném veletek tanításomat!
+{1:24} De nem hallgattatok rám, hiába ajánlottam fel segítségemet, kezemet nyújtottam nektek, de elfordultatok tőlem,
+{1:25} semmibe vettétek minden tanácsomat, intésemmel nem törődtetek.
+{1:26} Ezért majd én is nevetek rajtatok, mikor utolér a nyomorúság, kigúnyollak, mikor rátok szakad, amitől féltetek,
+{1:27} mikor lecsap rátok a rettegés, mint a vihar, mint forgószél, zúdul rátok a veszedelem, elborít a tengernyi baj és nyomorúság.
+{1:28} Akkor majd kiáltoztok utánam, de nem felelek, kerestek majd mindenütt, de nem találtok.
+{1:29} Mivel gyűlöltétek a bölcsességet, s nem tiszteltétek az Örökkévalót,
+{1:30} tanácsaimmal nem törődtetek, és leráztátok fenyítéseimet,
+{1:31} aratjátok hát, amit vetettetek, s jóllaktok azzal, amit gonoszul kifőztetek.
+{1:32} A tudatlanokat önelégültségük pusztítja el, az öntelt ostobákat pedig elbizakodottságuk öli meg.
+{1:33} De aki engedelmesen hallgat rám, biztonságban fog élni, félelem nélküli nyugalomban, távol a veszedelemtől.”
+{i2:1} Hallgass a bölcsességre!
+{2:1} Fiam, fogadd meg szavamat, jegyezd meg jól parancsaimat!
+{2:2} Ha figyelmesen hallgatsz a bölcsességre, szívvel-lélekkel törekszel a megértésre,
+{2:3} ha Istenhez kiáltasz a helyes ítéletért, hozzá könyörögsz értelemért,
+{2:4} ha keresed a bölcsességet, mint az ezüstöt, kutatod, mint az elrejtett kincseket,
+{2:5} akkor majd igazán megérted, hogy az Örökkévalót tisztelni és félni mit jelent. Akkor igazán megismered Istent.
+{2:6} Mert az Örökkévaló a bölcsesség forrása, szájából származik az értelem és tudás.
+{2:7} Az igazak számára bölcsességet tartogat, amely megvédi azt, aki igazságosan él.
+{2:8} Megőrzi az igazak ösvényeit, szemmel tartja és megóvja hűségeseinek lépéseit.
+{2:9} Ha őrá hallgatsz, megérted mi a helyes és igazságos, ha őt követed, megtalálsz minden jó utat,
+{2:10} mert bölcsesség költözik szívedbe, az ismeret örömmel tölti meg lelkedet,
+{2:11} okos előrelátás őrködik feletted, értelem védelmez téged.
+{2:12} Megőriz a gonoszoktól, akik gonoszul beszélnek,
+{2:13} akik a becsület útjáról letértek, hogy sötét utakon járjanak,
+{2:14} akik örülnek, ha rosszat tehetnek, élvezik, ami gonosz és megromlott,
+{2:15} akik görbe utakon járnak, lopnak, csalnak és hazudnak.
+{2:16} Bölcsesség ment meg az idegen asszonytól, más feleségétől, aki hízelgő szavakkal csábít,
+{2:17} aki férjéhez, ifjúsága társához, hűtlen, s aki megtöri Istene szövetségét.
+{2:18} Ha ilyen asszony házába lépsz, a halálba vezető útra térsz, mert ösvényei a sírba vezetnek.
+{2:19} Akik hozzá bemennek, egy sem tér vissza, az élet útját többé nem találják.
+{2:20} Bölcsesség vezet a jó úton, hogy le ne térj az igazak ösvényéről.
+{2:21} Mert csak az igazak maradnak meg a földön, csak az ártatlanok laknak rajta.
+{2:22} A gonoszokat mind kivágják, a hűtleneket gyökerestül kiirtják róla!
+{i3:1} Bölcsesség áldásai
+{3:1} Fiam, ne felejtsd el, amire tanítalak, vésd szívedbe parancsaimat,
+{3:2} mert megszaporítják napjaidat és életed éveit, jólétet és békességet hoznak neked!
+{3:3} A szeretetet és hűséget soha el ne hagyd, kösd magadra, mint nyakláncot, vésd a szívedbe őket!
+{3:4} Akkor Isten és az emberek egyaránt szeretni fognak, és megbecsülnek.
+{3:5} Bízz az Örökkévalóban teljes szívvel, és ne menj a saját fejed után!
+{3:6} Minden helyzetben ismerd fel az Örökkévalót és akaratát, akkor majd ő egyengeti utadat, és vezeti lépteidet!
+{3:7} Ne képzeld magad túl okosnak, hanem tiszteld és féld az Örökkévalót, a gonosznak pedig fordíts hátat!
+{3:8} Egészség lesz ez a testednek, s még a csontjaid is felüdülnek.
+{3:9} Tiszteld az Örökkévalót vagyonodból, minden jövedelmed színe-javából,
+{3:10} akkor gabonával telik meg éléskamrád, szőlőprésed mustot áraszt!
+{3:11} Fiam, mikor az Örökkévaló figyelmeztet és fegyelmez, ne utasítsd el, ne sértődj meg, ha helyreigazít!
+{3:12} Mert akit szeret az Örökkévaló, azt helyreigazítja és megfegyelmezi, mint apa a fiát, akit nagyon szeret.
+{3:13} Boldog, aki megtalálta a bölcsességet, áldott, aki értelmet talált!
+{3:14} Mert ez több hasznot hoz, mint az ezüst, értékesebb, mint a színarany,
+{3:15} drágább, mint a rubin, kívánatosabb, mint bármi más!
+{3:16} A bölcsesség jobbjában hosszú élet van, bal kezében gazdagság és dicsőség,
+{3:17} útjai gyönyörűségesek, jólétre és békességre vezetnek.
+{3:18} Élet fája a bölcsesség annak, aki megragadja, és akik magukhoz ölelik, milyen boldogok!
+{3:19} Az Örökkévaló bölcsességgel teremtette a Földet, és értelemmel feszítette ki az eget,
+{3:20} tudásával hasította fel a mélységet, és zúdított esőt a fellegekből.
+{3:21} Fiam, ne téveszd a szemed elől, ragaszkodj a bölcsességhez és megfontoltsághoz,
+{3:22} mert ezek éltetik a lelkedet, nyakadat aranylánccal ékesítik!
+{3:23} Akkor biztos léptekkel járhatsz utadon, s nem botlasz meg soha,
+{3:24} ha lefekszel, nem félsz semmitől, nyugodtan alszol, és álmod könnyű,
+{3:25} nem rettegsz váratlan bajoktól, sem a pusztító vihartól, amely a gonoszokra zúdul,
+{3:26} mert az Örökkévaló maga nyújt neked biztonságot, s megóvja lábadat a csapdáktól.
+{3:27} Ne késlekedj jót tenni a rászorulóval, ha módod van rá, hogy adj!
+{3:28} Ne mondd szomszédodnak, ha nálad van, amit kér: „Jöjj vissza holnap, majd akkor adok!”
+{3:29} Ne tervezz rosszat szomszédod ellen, aki bizalommal van irántad!
+{3:30} Ne pereskedj ok nélkül azzal, aki nem bántott téged!
+{3:31} Ne irigyeld, aki erőszakos, s ne kövesd a példáját soha,
+{3:32} mert az Örökkévaló utálja a gonoszokat, de az igazakat bizalmába fogadja!
+{3:33} Az Örökkévaló megátkozza a gonosz ember családját, de megáldja az igazak otthonát.
+{3:34} Az Örökkévaló megalázza azt, aki másokat megaláz, de jóindulattal van az alázatosak iránt.
+{3:35} A bölcsek dicsőséget örökölnek, a magabiztos ostobák pedig megszégyenülnek.
+{i4:1} Törekedj a bölcsességre!
+{4:1} Fiaim, fogadjátok meg apátok tanácsait, hallgassatok rá, hogy bölcsességet tanuljatok.
+{4:2} Mert jó tanácsot adok nektek, el ne felejtsétek hát, amire tanítalak!
+{4:3} Mikor kisgyermek voltam apám mellett, anyám egyetlen dédelgetett kisfia,
+{4:4} engem is így tanított apám: „Fiam, jól vésd a szívedbe szavamat! Engedelmeskedj parancsaimnak, és élni fogsz!
+{4:5} Törekedj a bölcsességre, törekedj az értelemre! Ne felejtsd el szavaimat, s ne fordulj el attól, amit mondok!
+{4:6} Ragaszkodj a bölcsességhez, s ő majd megvéd, szeresd őt, és megőriz téged!
+{4:7} A bölcsesség a legfontosabb a világon, tehát igyekezz, hogy megszerezd! Szerezd meg, bármibe kerül!
+{4:8} Emeld magasra a bölcsességet, s ő is felemel téged, öleld magadhoz, és dicsőséget szerez neked,
+{4:9} tisztességgel koszorúzza fejed, dicsőséggel koronáz meg!”
+{4:10} Fiam, hallgass rám, fogadd meg szavam, hogy hosszú életet élhess!
+{4:11} A bölcsesség útjára tanítalak, egyenes ösvényen vezetlek.
+{4:12} Ha ezen jársz, semmi sem gátol, ha ezen futsz, nem botlasz meg soha.
+{4:13} Ragadd meg tanácsomat, ki ne engedd kezedből, szorítsd magadhoz, mert az életed függ tőle!
+{4:14} Ne lépj a gonoszok útjára, ne kövesd a gonosztevők példáját!
+{4:15} Messze kerüld őket, közelükbe se menj, fordíts hátat nekik, s menj tovább!
+{4:16} Mert a gonoszok nem nyughatnak, amíg rosszat nem tehetnek, még aludni sem tudnak, ha valakit el nem gáncsolhatnak,
+{4:17} gonoszság a kenyerük, erőszak az italuk.
+{4:18} Az igazak ösvénye, mint a hajnali világosság: minél tovább haladnak rajta, annál jobban ragyog, egészen a déli verőfényig.
+{4:19} De a gonoszok útja sűrű sötétségbe vezet, ahol nem látják, miben botlanak meg.
+{4:20} Fiam, hallgass a szavamra, gondosan figyeld, amit mondok!
+{4:21} Tartsd a szemed előtt, vésd a szíved mélyébe szavaimat,
+{4:22} mert életet adnak, ha megragadod őket, egészséget és gyógyulást egész testednek.
+{4:23} Mindennél jobban őrizd a szívedet, mert abból fakad az élet forrása!
+{4:24} Távol legyen tőled, hogy hamisan beszélj, az igazság elferdítését messze kerüld!
+{4:25} Szemed előre nézzen, figyelj az útra, tekinteted tartsd a célodon!
+{4:26} Gondosan ügyelj minden lépésedre, és biztonságosan járhatsz utadon!
+{4:27} Se jobbra, se balra ne térj le, s maradj távol a gonosztól!
+{i5:1} Kerüld a házasságtörést!
+{5:1} Fiam, figyelj bölcsességemre, hallgass értelmem szavára,
+{5:2} hogy megőrizd józanságodat, és ajkad mindig bölcsen szóljon!
+{5:3} Mert az idegen asszony ajka, mint a méz, szája sima és hívogató,
+{5:4} de végül keserűséget okoz, mint az üröm, éles fájdalmat, mint a kétélű kard.
+{5:5} Léptei a halál felé vezetnek téged, lábai a halottak országába vezető úton járnak.
+{5:6} Ne kövesd őt, mert nem az élet útján jár, hanem tekervényes utakon, de észre sem veszed.
+{5:7} Most azért fiaim, hallgassatok rám! Ne térjetek el szavaimtól!
+{5:8} Kerüljétek az idegen nőket, közelébe se menjetek házuk ajtajának!
+{5:9} Ne adjátok másnak életerőtök javát, ne rabolja el éveiteket a kegyetlen,
+{5:10} ne kerüljön idegenek kezébe vagyonotok, ne kerüljön más házába munkátok gyümölcse!
+{5:11} Különben keservesen jajgatsz majd életed végén, mikor testedet betegség emészti,
+{5:12} és be kell vallanod: „Hogy gyűlöltem a fenyítést! Miért nem hallgattam a figyelmeztetésre?
+{5:13} Miért is nem engedelmeskedtem tanítóimnak? Miért nem hallgattam mesteremre!
+{5:14} Bizony, most minden baj rám szakadt, s szégyenem mindenki látja!”
+{i5:15} Örvendezz a feleségednek!
+{5:15} Fiam, te csak a saját kutadból igyál vizet! Csak saját forrásod friss vize üdítsen!
+{5:16} Ne jusson az utcára abból semmi, patakod vize ne legyen akárkié!
+{5:17} Egyedül a tiéd legyen, ne osztozz rajta idegenekkel!
+{5:18} Legyen forrásod áldott, s örvendezz feleségednek, akit fiatalon megszerettél!
+{5:19} Olyan legyen számodra, mint kedves szarvasünő, vagy kecses gazella, melleiben gyönyörködjél, az ő szerelme töltsön el örömmel!
+{5:20} Miért keresnél gyönyört idegen nő karjai között? Minek ölelgetnéd mellét az idegennek?
+{5:21} Hiszen az Örökkévaló jól látja útjaidat, figyelmesen vizsgálja minden lépésedet!
+{5:22} A gonoszt saját vétke ejti csapdába, és bűneinek kötelei tartják fogva,
+{5:23} fegyelmezetlensége miatt fog meghalni, saját ostobasága vezeti félre, s elpusztul.
+{i6:1} Ne vállalj felelősséget más adósságáért!
+{6:1} Fiam, ne vállalj felelősséget más adósságáért! Ne tégy ígéretet, ne írj alá ilyen szerződést!
+{6:2} Mert ígéreted csapdába ejt téged, s így saját szavaidnak fogságába esel.
+{6:3} Szabadítsd ki magad, fiam, ha másnak hatalmába kerültél: menj, alázkodj meg előtte, s kérd, hogy mentsen fel ígéreted alól!
+{6:4} Tedd meg még ma, ne halogasd holnapig, álmot se engedj szemeidnek!
+{6:5} Menekülj ki a csapdából, mint őz fut a vadász elől, szabadítsd ki magad, mint madár a madarász kezéből!
+{i6:6} A lustaság veszedelmes
+{6:6} Nézd a hangyákat, te lusta, figyeld meg, hogyan élnek, és tanulj tőlük!
+{6:7} Lásd, nincs vezérük, sem királyuk, vagy parancsolójuk,
+{6:8} összegyűjtik mégis nyáron az ennivalót, megtöltik aratáskor raktárukat!
+{6:9} Meddig heverészel még, te lusta? Mikor kelsz már fel álmodból?
+{6:10} „Még egy kis alvás, egy rövid szundítás, csak pár perc még, és felkelek.”
+{6:11} Ezért tör rád a szegénység, mint az útonálló, és a nyomorúság, mint fegyveres rabló.
+{i6:12} Bajkeverők
+{6:12} A hitvány, rosszindulatú ember folyton jön-megy, s mindenkiről rosszat mond,
+{6:13} becsapja az embereket, szemével kacsint, kezével, lábával titokban jelt ad,
+{6:14} hamisság van szívében, gonosz tervet forgat eszében, mindenhol viszályt szít.
+{6:15} De hirtelen veszedelem szakad rá, összetörik, nem kel fel soha többé.
+{i6:16} Amit az Örökkévaló gyűlöl
+{6:16} Ezeket az Örökkévaló gyűlöli, sőt, szívből utálja:
+{6:17} a szemet, amelyből büszkeség sugárzik, a nyelvet, amely hazugságot mond, a kezet, amely ártatlan ember vérét ontja,
+{6:18} a szívet, amely gonosz terveket sző, a lábat, amelyek siet gonoszt tenni,
+{6:19} a hamis tanút, aki hazugságot beszél, és azt, aki viszályt szít a testvérek között.
+{i6:20} Óvakodj a házasságtörő asszonyoktól!
+{6:20} Fiam, engedelmeskedj apád parancsának, és anyád tanítását el ne felejtsd!
+{6:21} Kösd a nyakadba, őrizd meg szívedben.
+{6:22} Bárhová mész, vezet, ha lefekszel, őriz, ha felkelsz, beszélget veled.
+{6:23} Mert olyan szüleid parancsa, mint a lámpa, tanításuk, mint a világosság, fegyelmezésük, mint az élet útja.
+{6:24} Mert megőriznek téged a romlott nőktől, az idegen nők hízelgő szavaitól.
+{6:25} Ne kívánd meg szépségüket, ne ejtsen rabul pillantásuk!
+{6:26} Mert miattuk miatt koldusbotra jutsz, a házasságtörő asszony egész életed tönkreteszi!
+{6:27} Tehetsz-e zsebedbe izzó parazsat, hogy meg ne égesse ruhádat?
+{6:28} Járhatsz-e égő parázson, hogy meg ne égesse talpadat?
+{6:29} Így jár, aki elcsábítja más feleségét! Nem marad büntetlenül, aki más asszonyához nyúl!
+{6:30} Nem vetik meg a tolvajt, ha azért lop, mert éhes,
+{6:31} ha megfogják, mégis vissza kell fizesse, hétszeresen, még ha rá is megy minden vagyona.
+{6:32} Esztelen bolond, aki elcsábítja más feleségét! Csak az tegyen ilyet, aki el akarja pusztítani magát!
+{6:33} Mert verés és szégyen éri, gyalázata soha nem múlik el.
+{6:34} A megcsalt férj haragját féltékenysége szítja, sem ajándékkal, sem pénzzel
+{6:35} le nem csendesíted. Bizony, irgalom nélkül bosszút áll a házasságtörőn!
+{i7:1} Bölcsesség megóv a házasságtöréstől
+{7:1} Fiam, fogadd meg tanácsomat, vésd szívedbe parancsaimat!
+{7:2} Engedelmeskedj parancsaimnak, hogy élj, kövesd tanításomat, őrizd meg, mint a szemed fényét!
+{7:3} Kösd az ujjadra, vésd a szívedbe szavaimat!
+{7:4} Mondd a bölcsességnek: „Nővérem vagy!” Legyen az értelem a legjobb barátod!
+{7:5} Akkor megőriznek téged más feleségétől, a hízelgő idegen asszonyoktól.
+{7:6} Kitekintettem ablakomon, kinéztem az utcára a rácson keresztül,
+{7:7} s megláttam a tapasztalatlan fiatalok között, észrevettem egy ostoba fiút.
+{7:8} Arra ment az utcán, befordult a sarkon, s annak a nőnek a háza felé közeledett,
+{7:9} alkonyatkor, az est leszálltakor, mikor az éjjel közeleg.
+{7:10} Akkor a nő a fiú elé lépett, ruhája, mint a prostituáltaké, szívében kész a terve,
+{7:11} lelke nyughatatlan és féktelen, nem tud otthon maradni sohasem,
+{7:12} hol az utcán, hol a téren, vagy éppen az utcasarkon lesi áldozatát.
+{7:13} Megragadta a fiút, szégyentelen megcsókolta, s ezzel csalogatta:
+{7:14} „Fogadalmi áldozatot mutattam be, asztalom meg van rakva ételekkel,
+{7:15} ezért jöttem, kerestelek, lám, most megleltelek!
+{7:16} Ágyamat megvetettem, színes szőttesekkel borítottam,
+{7:17} egyiptomi takaróm mirhával, aloéval, fahéjjal illatozik.
+{7:18} Jöjj be hozzám, szeretkezzünk reggelig, élvezzük az ölelést hajnalig!
+{7:19} Nincs otthon a férjem, hosszú útra ment, messzire utazott
+{7:20} teli erszényt vitt magával, nem tér vissza még két hétig.”
+{7:21} Levette lábáról a fiút hízelkedéssel, elcsábította mézes szavaival.
+{7:22} Az ostoba fiú meg követte, mint ökör a vágóhídra, ment utána, sietett, mint őzbak a csapdába,
+{7:23} ahol a nyíl átjárja. Mint a madár, ha vakon a hálóba repül, s nem tudja, hogy életével fizet érte!
+{7:24} Most azért fiaim, hallgassatok rám! Fogadjátok meg tanácsomat!
+{7:25} Ne térjen szívetek ilyen utakra, ne járjatok ilyen nők ösvényein!
+{7:26} Mert sok férfit sebeztek halálra, sokan vannak, akiknek vesztét okozták!
+{7:27} Házuk a halálba vivő út kapuja, útjuk az alvilágba vezet!
+{i8:1} A bölcsesség hív
+{8:1} Figyeljetek! Bölcsesség hív benneteket, az értelem szól hangos szóval, figyeljetek!
+{8:2} Megáll a hegyek tetején, az utak mellett, ott, ahol az ösvények találkoznak,
+{8:3} kiált a kapuknál, a város bejáratainál, nyitott ajtóknál nyilvánosan szól:
+{8:4} „Férfiak, hozzátok kiáltok, minden ember hallja meg szavam!
+{8:5} Tanuljatok tőlem bölcsességet, tudatlanok, szerezzetek értelmes szívet, öntelt ostobák!
+{8:6} Hallgassatok rám, mert életbevágóan fontos, amit mondok, és igazat mondok, ha megszólalok!
+{8:7} Szájam igazságot mond, ajkam utálja a gonoszságot.
+{8:8} Minden szavam egyenes és igaz, nincs bennük sem hamisság, sem torzítás.
+{8:9} Mind világos az értelmeseknek, aki bölcsességre vágyik, mind megértheti.
+{8:10} Fogadjátok meg tanácsomat, mert ezüstnél többet ér, válasszátok tudásomat, inkább, mint az aranyat!
+{8:11} Mert a bölcsesség drágább a gyöngyöknél, kívánatosabb a drágaköveknél.
+{8:12} Én, bölcsesség, az értelemmel lakom, nálam van a tudás és a tervezés.
+{8:13} Aki tiszteli és féli az Örökkévalót, gyűlölje a gonoszt! A büszkeséget, a dicsekvést, a gonosz utat, a hazug beszédet mind gyűlölöm!
+{8:14} Nálam a bölcs tanács, és a helyes ítélet, enyém az értelem, az erő és a hatalom.
+{8:15} Általam uralkodnak a királyok, és hoznak a vezetők igazságos törvényeket.
+{8:16} Minden uralkodó általam gyakorolja hatalmát, általam hoznak igazságos ítéletet a bírák.
+{8:17} Szeretem azokat, akik engem szeretnek, megtalálnak, akik igazán keresnek.
+{8:18} Gazdagság van kezemben, és megbecsülés, maradandó vagyon és igazságosság.
+{8:19} Ami tőlem származik, többet ér, mint az arany, drágább, mint a színarany. Amit én adok, értékesebb a tiszta ezüstnél.
+{8:20} Az igazságosság ösvényén járok, a jogosság útjának közepén.
+{8:21} Gazdag örökséghez juttatom, aki engem szeret, házát kincsekkel töltöm meg.
+{8:22} Elsőként engem formált az Örökkévaló, réges-régen, minden más munkája előtt,
+{8:23} öröktől fogva felkent, és helyemre állított, kezdetben, még a Föld kezdete előtt.
+{8:24} Mikor megszülettem, még tengerek sem voltak, vízforrások sem csörgedeztek.
+{8:25} Előbb születtem, mint a hegyek a helyükre kerültek, s a dombok megállapodtak,
+{8:26} előbb, mint az Örökkévaló a Földet s a mezőket teremtette, vagy a világ legelső porszemét.
+{8:27} Ott voltam, mikor az Örökkévaló a Mennyet teremtette, mikor kimérte az óceán partjait.
+{8:28} Ott voltam, mikor megerősítette fönt a fellegeket, és lent a mélység forrásait.
+{8:29} Ott voltam, mikor parancsolt a tengereknek, hogy át ne lépjék a határt, amit nekik szabott. Ott voltam, mikor lefektette a Föld alapjait.
+{8:30} Mellette nőttem fel, mint gyermek az apja mellett, naponta bennem lelte örömét, előtte játszottam és örültem szüntelen.
+{8:31} Játszottam mindennel, amit a Földön teremtett, és gyönyörködtem az emberekben.
+{8:32} Ezért hát, fiaim, hallgassatok rám, hogy ti is boldogok legyetek: kövessétek az én ösvényemet!
+{8:33} Bölcsek legyetek, fogadjátok meg tanácsaimat, ne utasítsatok el, ne vonakodjatok!
+{8:34} Boldog, aki hallgat rám, s ajtóm előtt vár engem naponta, aki rám vár kapuim előtt.
+{8:35} Mert aki megtalál engem, életet talál, és az Örökkévaló jóindulatát.
+{8:36} De ha nem keres meg, magának árt vele. Akik engem gyűlölnek, szeretik a halált!”
+{i9:1} Bölcsesség vendégségbe hív
+{9:1} Felépítette házát a bölcsesség, kifaragta mind a hét oszlopát.
+{9:2} Mindent elkészített: ételeket, borokat, asztalt terített vendégeinek.
+{9:3} Szolgáit kiküldte, hogy hívják vendégeit, s hogy a város magaslatairól kiáltsanak:
+{9:4} „Jöjjetek mind, akik tanácsra szorultok!” Hívja a tapasztalatlanokat is:
+{9:5} „Jöjjetek, legyetek vendégeim, egyetek-igyatok asztalomnál,
+{9:6} hagyjátok el bolondságaitokat, hogy éljetek, és járjatok az értelem ösvényein!”
+{9:7} Aki öntelt és büszke csúfolódót figyelmeztet, csak bajt szerez magának. Ha meginted a gonoszt, megvádol téged, és neked támad.
+{9:8} Ne intsd meg a büszke és öntelt embert, csak meggyűlöl érte, intsd meg a bölcset, és szeretni fog!
+{9:9} Tanítsd a bölcset, és még bölcsebb lesz, tanácsold azt, aki igazságos, és tanul belőle!
+{9:10} A bölcsesség kezdete: tisztelni és félni az Örökkévalót. A Szentet megismerni — az vezet értelemhez.
+{9:11} Bölcsesség szaporítja meg napjaidat, éveket ad életed éveidhez.
+{9:12} Ha bölccsé leszel, magad látod hasznát, ha büszke és csúfolódó, te vallod kárát.
+{i9:13} Ostobaság is hívogat
+{9:13} Az öntelt ostobaság, mint fecsegő és tudatlan asszony,
+{9:14} kiül háza kapujába, a dombtetőn, székében ül a város fölött,
+{9:15} hívja a járókelőket, szólongatja az arra menőket:
+{9:16} „Jöjjetek mind, akik tanácsra szorultok!” Hívja a tapasztalatlanokat is:
+{9:17} „A lopott víz édes, a titokban evett kenyér gyönyörűséges!”
+{9:18} De azok nem tudják, hogy házában a holtak árnyai laknak, nem veszik észre, hogy vendégei a sír mélyébe süllyedtek!
+{i10:1} Salamon bölcs mondásai
+{10:1} Ezek Salamon bölcs mondásai. A bölcs fiú örömet szerez apjának, az ostoba fiú pedig szomorúságot anyjának.
+{10:2} A csalással szerzett vagyon mit sem ér, de az igazságosság megszabadít a haláltól.
+{10:3} Az Örökkévaló megadja, amit az igazságosak kívánnak, de megakadályozza, hogy a gonoszok kívánsága teljesüljön.
+{10:4} A lusta ember elszegényedik, a szorgalmas pedig meggazdagodik.
+{10:5} Az értelmes fiú aratáskor begyűjti a termést, a haszontalan pedig átalussza az aratást.
+{10:6} Az emberek áldják, aki igazságos, míg a gonoszok beszéde csak erőszakosságukat leplezi.
+{10:7} Az igaz ember nevét áldva emlegetik, de a gonosz nevét átokként használják.
+{10:8} A bölcs szívű engedelmeskedik a parancsnak, az istentelen beszédű pedig elbukik.
+{10:9} Aki igazságosan él, az biztonságban lakik, de aki görbe utakon jár, azt rajtakapják.
+{10:10} Aki rosszindulatú és alattomos, az bajt okoz, az istentelen beszédű pedig elbukik.
+{10:11} Az igazságos ember beszéde élet forrása, de a gonoszok beszéde csak erőszakosságukat takargatja.
+{10:12} A gyűlölet felszítja a viszályt, de a szeretet minden vétket befed.
+{10:13} Az értelmes ember beszédében bölcsességet találsz, az esztelen hátának pedig verés való.
+{10:14} A bölcsek a szívükben gyűjtik a tudást, az ostobák pedig kifecsegik, és bajt hoznak magukra.
+{10:15} A gazdag embert vagyona védi, a szegényt pedig nincstelensége teszi tönkre.
+{10:16} Az igazságos ember jövedelme az életet szolgálja, de amit a bűnös szerez, abból újabb bűnök származnak.
+{10:17} Aki elfogadja a figyelmeztetést, az maga is az élet útját mutatja másoknak, aki pedig elutasítja az intést, másokat is félrevezet.
+{10:18} Aki hazugsággal takarja el gyűlöletét, s aki rágalmat terjeszt, ostoba mind a kettő.
+{10:19} Aki sokat beszél, sokat is vétkezik, aki pedig idejében elhallgat, az bölcs.
+{10:20} Az igaz ember beszéde drága, mint a színezüst, az istentelennek pedig még a gondolatai is értéktelenek.
+{10:21} Az igaz ember bölcs beszéde sokakat táplál, az ostobák pedig esztelenségük miatt halnak meg.
+{10:22} Az Örökkévaló áldása tesz igazán gazdaggá, nem az ember erőlködése.
+{10:23} Az öntelt ostoba élvezi, ha gonoszságot követhet el, az értelmes embernek pedig a bölcsességben telik öröme.
+{10:24} Amitől fél a gonosz, az esik meg vele, amit pedig az igazak kívánnak, megkapják.
+{10:25} Már az első vihar elsöpri a gonoszt, de az igazak örökké megmaradnak.
+{10:26} Mint ecet a fogaknak, füst a szemeknek, olyan a lusta szolga a megbízójának.
+{10:27} Aki tiszteli és féli az Örökkévalót, annak élete meghosszabbodik, a gonosz ember élete pedig megrövidül.
+{10:28} Amit az igaz remél, annak örülni fog, de amit a gonosz vár, abból semmi sem lesz.
+{10:29} Az Örökkévalónak tetsző élet az igazak kővára, de pusztulás a gonosztevőknek.
+{10:30} Az igaz embert semmi sem tudja kimozdítani a helyéről, de a gonoszok végleg ki fognak pusztulni a Földről.
+{10:31} Az igaz ember szája bölcsességet mond, de a gonosz nyelvűt kipusztítják a Földről.
+{10:32} Az igaz ajka kedvesen szól, de a gonosz szája csak bajt okoz.
+{11:1} Az Örökkévaló utálja a hamis mérleget, de kedvére vannak a pontos mérősúlyok.
+{11:2} A kevélységgel a megszégyenülés, az alázatossággal pedig a bölcsesség jár együtt.
+{11:3} Az igazságszeretőket becsületességük vezeti, a hűtleneket pedig becstelenségük teszi tönkre.
+{11:4} Semmit sem ér a vagyon az ítélet napján, de aki szereti az igazságot — az megmenti őt a haláltól.
+{11:5} Az igazságosan élő embernek az igazságosság készít egyenes utat, de aki romlott, a saját gonoszsága miatt bukik el.
+{11:6} Aki szereti az igazságot, azt megmenti az igazság, a hűtleneket pedig a saját mohó kívánságuk ejti csapdába.
+{11:7} Mikor meghal az istentelen, reménye is meghal, szertefoszlik minden, amiben bízott.
+{11:8} Az igazságszerető embert kimentik a bajból, helyette az istentelen kerül bele.
+{11:9} A képmutató a beszédével teszi tönkre embertársát, az igazat pedig megmenti tudása.
+{11:10} Ha virulnak az igazak, örül a város, s mikor a gonoszokat kigyomlálják belőle, ujjong a város, és lakói vigadnak.
+{11:11} Az igazságszerető emberek felvirágoztatják, a gonoszok beszéde pedig lezülleszti a várost.
+{11:12} Aki megvetéssel beszél a másikról, esztelen, aki pedig értelmes, inkább hallgat.
+{11:13} A pletykálkodó kifecsegi mások titkait, de a megbízható tud titkot tartani.
+{11:14} Bölcs vezetés nélkül lezüllik a nemzet, ha pedig sok tanácsadója van, felvirágzik.
+{11:15} Ha kezességet vállalsz más adósságáért, biztosan rosszul jársz, ha pedig visszautasítod a kezességet, biztonságban élhetsz.
+{11:16} A kedves és szelíd asszony tiszteletet, a hős harcos pedig zsákmányt szerez.
+{11:17} Ha másokon könyörülsz, saját lelkednek használsz vele, ha pedig kegyetlen vagy, saját testednek ártasz.
+{11:18} Az istentelen csalással szerzett vagyona elillan, aki pedig igazságosságot vet, maradandó jutalmat arat.
+{11:19} Ha állhatatosan kitartasz az igazságosság mellett, az élet felé haladsz, de ha a gonoszságot hajszolod, a vesztedbe rohansz.
+{11:20} Utálja az Örökkévaló az álnok szívűt, de kedvét leli a tisztességesekben.
+{11:21} Nem ússza meg büntetés nélkül a gonosz, ebben biztos lehetsz, az igazak és gyermekeik pedig megmenekülnek.
+{11:22} Az oktalan asszony, ha szépséges, olyan, mint az aranykarika egy disznó orrában.
+{11:23} Amit az igazak kívánnak, abból sok jó származik, de a gonoszok nem remélhetnek mást, mint haragot.
+{11:24} Van aki bőkezűen adakozik, mégis egyre gyarapodik, s van, aki mindent megtart magának, mégis elszegényedik.
+{11:25} A bőkezű adakozó bővelkedik, s aki másokat felüdít, maga is felüdül.
+{11:26} Aki felhalmozza búzáját, átkozza azt a nép, de áldják azt, aki eladja a termést.
+{11:27} Ha teljes erőddel jóra igyekszel, jóindulatra számíthatsz te is, ha pedig gonoszságra törekszel, azt kapod te is.
+{11:28} Aki vagyonában bízik, lehullik, mint ősszel a levél, az igaz pedig kivirul, mint tavasszal a fák.
+{11:29} Aki rosszul bánik a családjával, annak végül semmije sem marad. Az ostoba szolgája lesz a bölcs szívűnek.
+{11:30} Az igaz ember élete olyan gyümölcsöket terem, mint az Élet Fája, és a bölcs sokak lelkét megmenti.
+{11:31} Az igazságos itt a Földön megkapja, amit érdemel, mennyivel inkább az istentelenek és a bűnösök!
+{12:1} Aki tanulni vágyik, elfogadja a helyreigazítást, aki pedig visszautasítja, ostoba marad.
+{12:2} A jóindulatú emberhez az Örökkévaló is jóindulatú, de aki gonosz terveket sző, azt elítéli.
+{12:3} A gonoszt nem erősíti meg a gonoszsága, az igaz viszont szilárd, mint az erős gyökerű fa.
+{12:4} A jó feleség olyan, mint a korona a férje fején, de mint a csontok fájdalma, aki szégyent hoz a férjére.
+{12:5} Az igaz ember szándékai becsületesek, az istentelen tervei pedig tisztességtelenek.
+{12:6} A gonoszok szavai lesben állnak, hogy megöljenek valakit, az igazak szavai pedig megmentenek a veszélytől.
+{12:7} Ha pusztulnak a gonoszok, írmagjuk sem marad, az igazak családja pedig fennmarad.
+{12:8} Az értelmes férfit megbecsülik, de az ostobát megvetik.
+{12:9} Jobb, ha nem sokra becsülnek, de mégis van szolgád, mintha sokra tartod magad, de még kenyérre se telik.
+{12:10} Az igaz ember jól bánik még az állataival is, de az istentelennek még a „jóindulata” is kegyetlenség.
+{12:11} Aki gondosan műveli a földjét, jóllakik a termésével, aki viszont elpocsékolja idejét, az ostoba.
+{12:12} Az istentelen kívánja a gonoszsággal szerzett vagyont, az igaz pedig olyan, mint a mélyen gyökerező növény, amely bőven terem.
+{12:13} A gonoszt a saját bűnös beszéde ejti csapdába, az igazságszerető pedig kimenekül a bajból.
+{12:14} Amit mond az ember, annak a gyümölcséből lakik jól, és amit tesz, annak a jutalmát kapja meg.
+{12:15} A bolond szerint minden, amit tesz, helyes, a bölcs pedig hallgat a tanácsra.
+{12:16} Az ostoba haragja hamar kitudódik, az értelmes pedig fel sem veszi a sértést.
+{12:17} A megbízható tanú az igazságot, a hamis tanú pedig az igazságtalanságot erősíti.
+{12:18} Aki meggondolatlanul fecseg, mintha tőrével döfködne, a bölcs beszéde pedig meggyógyít.
+{12:19} Az igaz beszéd örökre megmarad, de a hazugság csak egy pillanatig áll meg.
+{12:20} Akik gonosz terveket szőnek, azoknak szívében hamisság lakik, akik pedig békességet hozó tanácsot adnak, azokéban öröm.
+{12:21} Az igazságszerető embert nem éri veszedelem, de az istentelen élete bajjal teli.
+{12:22} Az Örökkévaló gyűlöli a hazug beszédet, de szereti a hűségeseket.
+{12:23} Aki okos, nem fitogtatja tudását, de az ostobák kifecsegik butaságukat.
+{12:24} A szorgalmas ember uralkodni, a lusta pedig robotolni fog.
+{12:25} Az aggodalom elcsüggeszti, a jó szó pedig felvidítja az embert.
+{12:26} Az igazságszerető ember útbaigazítja társát, de az istentelen másokat is rossz útra visz.
+{12:27} A lusta nem ejt zsákmányt soha, a szorgalmas pedig drága kincset talál.
+{12:28} Az igazságosság útja az életre vezet, ha ezen jársz, nem látsz halált soha.
+{13:1} A bölcs fiú elfogadta apja tanácsát, de az öntelt ostoba nem hallgatott a figyelmeztetésre.
+{13:2} Amit mond az ember, annak a gyümölcsével lakik jól, de aki hazug és hűtlen, az csak kegyetlen büntetést kap.
+{13:3} Aki vigyáz arra, hogy mit mond, megőrzi lelkét a bajtól, aki pedig meggondolatlanul beszél, az saját magát sodorja bajba.
+{13:4} A lusta mindig sóvárog valami után, de hiába, a szorgalmas pedig bőségesen megkapja, amit kíván.
+{13:5} Az igaz gyűlöli a hazugságot, az istentelen pedig gyalázatos és szégyenletes dolgokat tesz.
+{13:6} Az igazságosság megőrzi azt, aki igazságosan él, a gonoszság ellenben tönkreteszi azt, aki szereti a bűnt.
+{13:7} Van, aki gazdagnak mutatja magát, pedig semmije sincsen, más meg szegénynek tetteti magát, holott igen gazdag.
+{13:8} A gazdag vagyona váltságdíj lehet az életéért, de a szegényt senki sem fenyegeti.
+{13:9} Az igaz ember világossága vidáman fénylik, az istentelen lámpája pedig hamar kialszik.
+{13:10} Az ostoba büszkeség csak veszekedést okoz, a bölcs pedig elfogadja a tanácsot.
+{13:11} A könnyen szerzett vagyon hamar elszáll, aki pedig apránként gyűjt, egyre gyarapodik.
+{13:12} A halogatott remény elcsüggeszti a szíved, de a beteljesült kívánság az élet fája.
+{13:13} Aki elutasítja Isten szavát, az adósságba süllyed, de aki tiszteli és féli azt, megkapja jutalmát.
+{13:14} A bölcs ember tanítása az élet forrása, szavai megóvnak a halál csapdáitól.
+{13:15} Aki értelmes, azt kedvelik, de az élet keményen bánik az istentelenekkel.
+{13:16} Az okos ember meggondolja, mit tesz, az ostoba pedig a tetteivel mutatja ki ostobaságát.
+{13:17} Az istentelen, ha megbízzák, bajt okoz, a megbízható követ pedig gyógyulást hoz.
+{13:18} Szégyen és szegénység jut annak, aki elutasítja a figyelmeztetést, aki pedig megfogadja, annak tisztelet és gazdagság.
+{13:19} A teljesült kívánság édes a léleknek, de az ostoba kívánja a gonoszt, és nem akar róla lemondani.
+{13:20} Aki a bölcsekkel barátkozik, maga is bölcs lesz, de ha ostobákhoz csatlakozik, bajba kerül.
+{13:21} A bűnösöket szerencsétlenség üldözi, de az igazak szép jutalmat kapnak.
+{13:22} Az igaz örökséget hagy még az unokáinak is, a bűnösök vagyona pedig az igazak számára van félretéve.
+{13:23} A szegény ember szántóföldje bőséges termést adhat, de néha az igazságtalanság azt is tönkreteszi.
+{13:24} Aki nem fenyíti meg a fiát, amikor kellene, nem szereti igazán, aki pedig valóban szereti, idejében megfegyelmezi.
+{13:25} Az igaz ember jóllakásig ehet, míg a gonoszok éhen maradnak.
+{14:1} A bölcs asszony építi a családját, az ostoba pedig saját kezével rombolja le.
+{14:2} Aki igazságosan él, tiszteli és féli az Örökkévalót, de aki görbe utakon jár, Istent veti meg.
+{14:3} Az ostoba a beszéde miatt bajba kerül, a bölcset pedig saját szavai mentik meg.
+{14:4} Ha nincsenek ökreid, hogy műveljék a földet, üres a magtárad. De bőséges termésre számíthatsz, ha erős ökreid vannak.
+{14:5} A hűséges tanú mindig igazat mond, de a hamis tanú hazudik.
+{14:6} A gúnyolódó hiába keresi a bölcsességet, nem találja, az értelmes azonban örömest tanul.
+{14:7} Hagyd ott az öntelt ostobát, hiszen semmit sem tanulhatsz tőle.
+{14:8} Az értelmesek bölcsessége abban van, hogy tudják, hová mennek, az ostobák bolondsága pedig abban, hogy még magukat is becsapják.
+{14:9} Az ostobákat büntetéssel kell rávenni, hogy engedelmeskedjenek a törvénynek, de az igazságosak örömmel engedelmeskednek.
+{14:10} Bánatodat csak a saját szíved ismeri igazán, és örömödben sem osztozhat idegen.
+{14:11} Az istentelen ember családja tönkremegy, az igazaké pedig felvirágzik.
+{14:12} Van olyan út, amely helyesnek látszik, végül mégis a halálba vezet.
+{14:13} Nevetés közben is fájhat a szíved, és az öröm végén szomorúság várhat.
+{14:14} A romlott szívű ember megkapja tetteiért méltó büntetését, a jó ember pedig jutalmát.
+{14:15} Az ostoba mindent elhisz, amit hall, a bölcs pedig minden lépését jól meggondolja.
+{14:16} A bölcs óvatos, és elkerüli a bajt, az ostoba pedig gátlástalan és elbizakodott.
+{14:17} A hirtelen haragú ostobán cselekszik, aki pedig gonosz terveket szövöget, azt meggyűlölik.
+{14:18} Az ostobák bolondságot örökölnek, az értelmeseket pedig tudással koronázzák meg.
+{14:19} Térdet hajt a gonosz a jó előtt, meghajol az istentelen az igazak kapujában.
+{14:20} A szegény embert még a szomszédja is lenézi, bezzeg a gazdagnak sok a barátja!
+{14:21} Aki megveti a másikat, vétkezik, de áldott, aki segít a szegényeken.
+{14:22} Akik gonoszt terveznek, elszámítják magukat, akik pedig jót, azok jóindulatra és hűségre számíthatnak.
+{14:23} A szorgalmas munka mindig hasznot hajt, de aki csak a száját jártatja, elszegényedik.
+{14:24} A bölcsek koronája a gazdagság, az öntelt ostobáké pedig saját butaságuk.
+{14:25} Az igaz tanú életet ment, a hamis tanú pedig cserben hagy.
+{14:26} Akik tisztelik és félik az Örökkévalót, teljes bizalommal vannak iránta, s ez még a gyermekeiknek is menedéket jelent.
+{14:27} Az Örökkévalót tisztelni és félni — ez az élet forrása, így kerülheted el a halál csapdáit.
+{14:28} A nép sokasága a király dicsősége, de ha elfogy a nemzet, elbukik a király is.
+{14:29} Aki féken tartja haragját, az igazán értelmes, aki pedig hirtelen haragú, nagyokat hibázik.
+{14:30} A békességes, nyugodt szív egészség a testednek, de az indulatosság még a csontjaidat is megrontja.
+{14:31} Aki a szegényt elnyomja, annak Teremtőjét bántja meg, aki pedig segít a szegényeken, Istent tiszteli ezzel.
+{14:32} Saját gonoszsága miatt pusztul el a gonosz, az igazakat pedig ártatlanságuk oltalmazza.
+{14:33} Az értelmes ember szívében nyugszik a bölcsesség, amelynek az ostobák lelke hírét sem hallotta.
+{14:34} Az igazságosság felvirágoztatja a nemzetet, az igazságtalanság pedig romlásba dönti.
+{14:35} A király jóindulattal van bölcs szolgája iránt, de a haszontalant haragja sújtja.
+{15:1} Aki szelíden válaszol, lecsendesíti a haragot, a sértő, kemény beszéd pedig felszítja.
+{15:2} A bölcsek beszéde vonzóvá teszi a tudást, az öntelt ostobákból pedig csak úgy dől a butaság.
+{15:3} Az Örökkévaló szemei mindent figyelemmel kísérnek, a jókat és gonoszokat egyaránt szemmel tartja ő!
+{15:4} A szelíd és kedves szó olyan, mint az élet fája, de a hamis beszéd összetöri az ember szellemét.
+{15:5} Az ostoba visszautasítja apja figyelmeztetését, aki pedig elfogadja, értelmessé válik.
+{15:6} Az igaz ember házában nagy kincs van, de amit a gonosz megszerez, abból csak baj lesz.
+{15:7} A bölcs beszéde tudást terjeszt, de az öntelt ostobáknak a gondolkozása is zavaros.
+{15:8} Az Örökkévaló utálja, amit a gonoszok áldoznak neki, de az igazak imádságának örül.
+{15:9} A gonoszok életmódját utálja az Örökkévaló, de szereti azokat, akik igazságosan akarnak élni.
+{15:10} Súlyos fenyítést kap, aki letér az Örökkévaló útjáról, aki pedig nem fogadja el a fenyítést: meghal.
+{15:11} Az Örökkévaló előtt nyitott könyv a halál országa és a nagy mélység is, mennyivel inkább az emberek szíve!
+{15:12} Az ostoba csúfolódó utálja azt, aki figyelmezteti, és nem kér a bölcsek tanácsából.
+{15:13} Amikor tele van a szíved örömmel, még az arcod is ragyog, szíved fájdalma pedig összetöri szellemedet.
+{15:14} Az értelmes szívű keresi a tudást, a magabiztos ostobák pedig bolondságokon rágódnak.
+{15:15} A nyomorultak számára minden nap nehéz, de a vidám szívűnek minden napja ünnep.
+{15:16} Jobb szerényen élni, de félni és tisztelni az Örökkévalót, mint nagy gazdagság miatt örökké gondokkal küszködni.
+{15:17} Többet ér egy tányér egyszerű étel, ha szeretettel teszik eléd, mint a dúsan terített asztal, ha gyűlölködve ülik körül.
+{15:18} A hirtelen haragú felszítja, a türelmes pedig lecsendesíti a veszekedést.
+{15:19} A lusta élete olyan, mint a tövisekkel benőtt ösvény, az igazságosé pedig, mint a sima országút.
+{15:20} A bölcs fiú örömet szerez apjának, az öntelt ostoba pedig szégyent hoz anyjára.
+{15:21} Az értelmetlen örül, ha valami ostobaságot tehet, az értelmes pedig egyenes úton jár.
+{15:22} Bölcs tanács nélkül meghiúsul a terved, ha pedig hallgatsz a bölcsek tanácsára, megvalósul.
+{15:23} Örömet szerez, ha meg tudsz felelni valakinek, még inkább, ha ezt jó pillanatban teszed!
+{15:24} A bölcs ember útja felfelé vezet, az életre, egyre távolabb a halottak országától, amely a mélyben van.
+{15:25} Az Örökkévaló összedönti a büszkék házát, de megvédi az özvegyek birtokát.
+{15:26} A gonosz gondolatokat gyűlöli az Örökkévaló, de a kedves szavakat szereti.
+{15:27} Aki csalással szerzett vagyon után sóvárog, saját családját teszi tönkre, aki pedig gyűlöli a megvesztegetést, élni fog.
+{15:28} Az igazságos megválogatja szavait, de az istentelenek szájából árad a gonoszság.
+{15:29} Az Örökkévaló távol van az istentelenektől, de az igazak imádságára válaszol.
+{15:30} Az örömtől ragyogó szemek másokat is felvidítanak, s a jó hír szinte megeleveníti testedet.
+{15:31} Aki hallgat a figyelmeztetésre, amely az életre vezet, az a bölcsek között fog lakni.
+{15:32} Aki elutasítja a figyelmeztetést, a saját életét gyűlöli, aki viszont megfogadja, értelmes lesz.
+{15:33} Az Örökkévaló tisztelete és félelme bölcsességre tanít, és a megtiszteltetést az alázatosság készíti elő.
+{16:1} Az ember szíve tervezget, de a bölcs válasz az Örökkévalótól származik.
+{16:2} Mindenki helyesnek tartja a saját tetteit, de az Örökkévaló az, aki mérlegeli szívünk szándékait.
+{16:3} Bízd rá az Örökkévalóra minden dolgodat, így lesznek sikeresek a terveid.
+{16:4} Az Örökkévaló mindent a saját rendeltetése szerint teremtett, még az istenteleneket is: őket a veszedelem napjára.
+{16:5} Az Örökkévaló utálja, aki öntelt, s biztos, hogy nem hagyja büntetlenül.
+{16:6} A kegyelem és hűség eltörli a bűnt. Tiszteld és féld az Örökkévalót, az távol tart a gonosztól!
+{16:7} Ha az Örökkévalónak tetszik, ahogy élsz, még az ellenségeidet is kibékíti veled.
+{16:8} Jobb a kevés, amit igazságosan szereztél, mint a nagy gazdagság, amihez csalással jutottál.
+{16:9} Terveidet a szíved készíti, de lépteidet az Örökkévaló irányítja.
+{16:10} Amit a király mond, az törvény, s mikor ítéletet hoz, nem téved.
+{16:11} Az Örökkévaló azt kívánja, hogy minden mérleg és mérősúly pontos, és minden üzleti megállapodás igazságos legyen.
+{16:12} Az igazságtalanság utálatos a király számára, mert uralmát az igazságosság és jogosság tartja fenn.
+{16:13} A király örül az igaz beszédnek, ezért szereti azt, aki igazat mond.
+{16:14} Akire a király megharagszik, az közel kerül a halálhoz, de a bölcs le tudja csendesíteni a király haragját.
+{16:15} Akire a király arca ragyog, az élni fog, mert a király jóindulata olyan, mint a tavaszi eső.
+{16:16} Mennyivel többet ér bölcsességet gyűjteni, mint aranyat! Mennyivel jobb értelmet szerezni, mint ezüstöt!
+{16:17} Az igaz útja elkerüli a gonoszt, és a ki ügyel a lépéseire, megőrzi életét.
+{16:18} Büszkeség a közelgő összeomlás hírnöke, elbizakodottság pedig bukásé.
+{16:19} Jobb ha szerény vagy a szegények között, mint ha büszkékkel osztozol a zsákmányon.
+{16:20} Aki Isten beszédére figyel, és megfogadja azt, annak jó dolga lesz, és aki az Örökkévalóban bízik, milyen áldott!
+{16:21} Az emberek értelmesnek tartják a bölcs szívűt. A gondosan megválogatott szavak meggyőzőek.
+{16:22} Élet forrása a bölcsesség az értelmesnek, az ostobák büntetése pedig a saját ostobaságuk.
+{16:23} A bölcs szívű okosan szól, és a szavaival gyarapítja a tudást.
+{16:24} A kedves beszéd, mint a tiszta méz, édes a léleknek, egészség a testnek.
+{16:25} Van olyan út, amely helyesnek látszik, végül mégis a halálba vezet.
+{16:26} Éhsége a munkás javát szolgálja, mert sürgeti, hogy keresse meg kenyerét.
+{16:27} A haszontalan ember gonosz terveket sző, beszéde pedig pusztító tűz.
+{16:28} A bajkeverő viszályt szít, a rágalmazó éket ver még a barátok közé is.
+{16:29} Az erőszakos becsapja társát, és rossz útra vezeti.
+{16:30} Aki öszehúzza szemét, gonoszságot tervez, s aki összeszorítja ajkát, már el is határozta magát a rosszra.
+{16:31} Az ősz haj dicsőség koronája, azokon, akik igazságosan élnek.
+{16:32} Többet ér a türelmes kitartás, mint a nagy hősiesség, és az önuralom, mint a hadi sikerek.
+{16:33} Az ember sorsot húzhat, de az Örökkévaló dönti el a dolgot.
+{17:1} Jobb egy falat száraz kenyér békességgel, mint a folytonos lakomázás veszekedéssel.
+{17:2} A bölcs szolga uralkodni fog gazdája haszontalan fián, és együtt örököl a testvérekkel.
+{17:3} Olvasztótégely kell az ezüstnek, kemence az aranynak, az ember szívét pedig az Örökkévaló tisztítja meg.
+{17:4} Aki a gonosz beszédre figyel, maga is gonosztevő, aki rágalomra hallgat, maga is hazug.
+{17:5} Ha a szegényen gúnyolódsz, Teremtőjét sérted meg, aki pedig más baján örül, nem kerüli el a büntetést.
+{17:6} Az öregek koronája az unokák, a gyermekek dicsősége pedig a szülők.
+{17:7} Nem illik az ostoba szájába a választékos beszéd, még kevésbé az uralkodó ajkára a hamis szó.
+{17:8} Van, aki varázserejű kőnek hiszi a megvesztegetést, mindenütt ezzel akar célhoz érni.
+{17:9} Aki megbocsátja a vétket, szeretetre törekszik, aki pedig újra felemlegeti, még a barátokat is elválasztja.
+{17:10} Az értelmes embert egyetlen figyelmeztetés mélyebben érinti, mint száz csapás az öntelt ostobát.
+{17:11} A gonosz egyre csak lázadozik, míg végül kegyetlen hírnök indul ellene.
+{17:12} Inkább egy anyamedvével találkozz, akitől bocsait elvették, mint egy dühöngő ostobával!
+{17:13} Ha rosszal fizetsz a jóért, befészkel házadba a gonosz, és el nem hagy többé!
+{17:14} A vita kezdete olyan, mint repedés a gáton. Hagyd abba, mielőtt a veszekedés kitör!
+{17:15} Az Örökkévaló utálja a bűnös felmentését, és ugyanígy az ártatlan elítélését is.
+{17:16} Mit ér a pénz az ostoba kezében? Hogy bölcsességet vegyen rajta, ahhoz nincs esze!
+{17:17} Az igazi barát mindig szeret téged, de akkor válik igazán a testvéreddé, ha bajba kerülsz.
+{17:18} Csak a bolond vállal kezességet más ember adósságáért!
+{17:19} Aki veszekedni szeret, a bűnt szereti, és aki dicsekszik, veszedelmet hoz magára.
+{17:20} Az álnok szívűnek nem lesz jó sorsa, és a hamis beszédű nagy bajba kerül.
+{17:21} Az öntelt ostoba szüleinek bánata, az ilyen fiú apjának nincs sok öröme.
+{17:22} Az öröm gyógyulás és egészség, de a bánat még csontjaidat is elemészti.
+{17:23} Az istentelen titokban elfogadja a megvesztegetést, hogy elferdítse az igazságot.
+{17:24} Az értelmes a bölcsességen tartja a szemét, az ostobák pedig távoli dolgokról álmodoznak.
+{17:25} Az ostoba gyermekek sok bánatot okoznak apjuknak, és keserűséget anyjuknak.
+{17:26} Megbüntetni az ártatlant, vagy megverni a nemes lelkűt, nem igazságos.
+{17:27} A bölcs megválogatja a szavait, az értelmes higgadtan viselkedik.
+{17:28} Még az ostoba is bölcsnek tűnik, mikor hallgat, és értelmesnek hiszik, ameddig nem beszél.
+{18:1} Az önfejű csak saját kívánságát követi, és dühösen elutasít minden bölcs tanácsot.
+{18:2} Az ostoba nem hallgat senkire, egyre a saját gondolatait mondja.
+{18:3} Amikor az istentelen bejön, vele jön a megvetés, de hamar követi a szidalom és a gyalázat is.
+{18:4} A bölcs beszéde mély víz, a bölcsesség forrása pedig, mint a mélyből feltörő patak.
+{18:5} Nem jó a bűnösnek kedvezni, sem az igazat kiforgatni jogaiból.
+{18:6} Az ostobák beszéde veszekedést okoz, szájuk büntetésért kiált.
+{18:7} Az ostoba a beszédével saját magát teszi tönkre, és szavaival csapdát állít magának.
+{18:8} A rágalmat könnyű elhinni, ahogy a finom falatot könnyű lenyelni.
+{18:9} Aki hanyagul végzi munkáját, testvére annak, aki szándékosan rombol.
+{18:10} Erős bástya az Örökkévaló, hozzá menekül az igaz, és védelmet talál.
+{18:11} Azt hiszik a gazdagok, hogy vagyonuk megvédi őket, azt képzelik, magas kőfal a gazdagság.
+{18:12} A bukás előtt büszkeség jár, a megtiszteltetés előtt pedig alázatosság.
+{18:13} Aki meg sem hallgatja a kérdést, és úgy felel, az ostoba és megszégyenül.
+{18:14} Az embert a szelleme támogatja a szenvedés elviselésében, de ha reményét veszti, azt ki tudja elviselni?
+{18:15} Az értelmes szíve szomjas a tudásra, és a bölcs füle ismeretre éhes.
+{18:16} Az ajándék megnyitja előtted a lehetőséget, és a hatalmasok elé juttat.
+{18:17} Aki elsőnek szól, annak látszólag igaza van, majd ellenfele következik, és kérdéseivel próbára teszi.
+{18:18} A sorsolás eldönti a vitát, és elválasztja a vitázó feleket.
+{18:19} Megsértett barátod nehezebb visszanyerni, mint az erős várat elfoglalni. A veszekedés olyan, mint erős zár a palota kapuján.
+{18:20} Beszéded gyümölcsével kell jóllaknod, és amit mondasz, annak következményét eszed, akár jó, akár rossz az.
+{18:21} Élet és halál a nyelv hatalmától függ, s ahogyan bánsz vele, úgy eszed gyümölcsét.
+{18:22} Aki jó feleséget keresett magának, nagy kincset talált, mert az Örökkévaló jóindulattal volt iránta.
+{18:23} Aki szegény, alázatosan könyörög segítségért, a gazdag pedig gorombán válaszol.
+{18:24} Van olyan barát, aki csak bajba kever, de van olyan is, aki hűségesebb a testvérnél.
+{19:1} Jobb szegényen, de becsületesen élni, mint ostobának lenni, és hamisan beszélni.
+{19:2} A puszta lelkesedés tudás nélkül semmit sem ér, és aki hirtelenkedik, hibát vét.
+{19:3} Az ostoba ember életét saját butasága teszi tönkre, mégis az Örökkévalót okolja érte.
+{19:4} A gazdagság sok barátot szerez, de a szegényt még barátai is elkerülik.
+{19:5} A hamis tanú nem ússza meg büntetlenül, és aki folyton hazudik, nem menekül meg.
+{19:6} A bőkezű adakozónak sokan hízelegnek, és aki ajándékot osztogat, annak mindenki barátja.
+{19:7} Aki szegény, azt a testvérei elkerülik, elhagyják még barátai is, segítséget kér tőlük, de hiába.
+{19:8} Szerezz bölcsességet, ha szereted az életet, őrizd meg az értelmet, hogy jó dolgod legyen!
+{19:9} Aki hamisan tanúskodik, megkapja büntetését: a hazug tanú tönkremegy.
+{19:10} Nem illik az ostobához a gazdagság és jólét, még kevésbé a szolgához, hogy fejedelmeken uralkodjon.
+{19:11} Bölcs dolog, ha fékezed haragod, és dicsőségedre válik, ha nem veszed fel a sértést.
+{19:12} Mint oroszlán-ordítás, olyan a király haragja, de mint a frissítő harmat a fűnek, a jóindulata.
+{19:13} Az öntelt és ostoba fiú tengernyi bajt okoz apjának. Az elégedetlen asszony pedig olyan, mint a lyukas háztetőn folyton becsepegő eső.
+{19:14} Házat és vagyont örökölhetsz szüleidtől, de jó feleséget csak az Örökkévaló adhat.
+{19:15} A lustaság mély álomba merít, és a lomha ember éhezni fog.
+{19:16} Ha engedelmeskedsz az Örökkévaló parancsának, az életed mented meg, de ha elutasítod, meghalsz.
+{19:17} Kölcsönadsz az Örökkévalónak, ha a szegényeken segítesz, ő pedig visszafizeti neked.
+{19:18} Fegyelmezd meg a fiadat, amíg még van remény, de ne engedd, hogy haragod elragadjon, és összetörd!
+{19:19} Akit erőszakos haragja elragad, büntetést kapjon érte, különben még erőszakosabb lesz.
+{19:20} Hallgass a tanácsra, s fogadd el a helyreigazítást, akkor végül te is bölccsé leszel.
+{19:21} Mennyi gondolat és szándék kavarog az ember lelkében, de csak az Örökkévaló terve valósul meg!
+{19:22} Amit Isten a leginkább kíván tőled, az a hűség. Jobb szegénynek lenni, mint hűtlennek.
+{19:23} Ha tiszteled és féled az Örökkévalót, utad az életre vezet, s nyugodtan alhatsz, mert nem ér veszedelem.
+{19:24} A lusta még magával sem törődik, még arra sem képes, hogy az ételt a tálból a szájához emelje.
+{19:25} A beképzelt ostobát fenyíteni kell, hogy okuljon belőle, de az értelmes már abból is tanul, ha valaki figyelmezteti.
+{19:26} Szégyenletes és gyalázatos, aki bántalmazza apját, vagy elkergeti anyját.
+{19:27} Fiam, ha nem hallgatsz a figyelmeztetésre, eltávolodsz a bölcsességtől.
+{19:28} A hitvány tanú csúfot űz a törvényből, és az istentelen szája igazságtalanságot terjeszt.
+{19:29} A büszke és öntelt embert ítélet várja, a beképzelt ostobákat pedig verés.
+{20:1} A bor elveszi a józan eszed, a tömény ital nagyhangúvá tesz, s aki megrészegedik, ostoba.
+{20:2} A haragvó király olyan, mint az ordító oroszlán. Ha magadra haragítod, az életedbe kerülhet.
+{20:3} Megbecsülést érdemel, aki elkerüli a veszekedést, az ostobák pedig hamar vitába keverednek.
+{20:4} Nem szánt ősszel a lusta, nyáron meg aratni szeretne, de nincs mit.
+{20:5} Mint a mély kútban a víz, olyan az ember szívében a szándék, de az értelmes mégis a felszínre hozza!
+{20:6} Sokan barátodnak mondják magukat, de találsz-e egyet is, aki igazán hűséges hozzád?
+{20:7} Az igazságszerető ember egész életében egyenes úton jár, s még a gyermekei is áldottak!
+{20:8} Amikor a király ítéletet tart, tekintete elválasztja az igazat a gonosztól, mint búzát a pelyvától.
+{20:9} Ki mondhatja: „Megtisztítottam szívem minden rossztól, bűneimtől megtisztultam?”
+{20:10} Az Örökkévaló utálja, ha más mértékkel mérsz eladásnál, mint vételnél, s így becsapod az embereket.
+{20:11} Még egy gyermek is a tetteivel mutatja meg jellemét, ebből láthatod, hogy jó-e, vagy rossz.
+{20:12} A jó fület és az éles szemet egyaránt az Örökkévaló teremtette.
+{20:13} Ha szeretsz aludni, szegény leszel! Kelj fel, dolgozz, és bőven lesz mit enned!
+{20:14} „Hitvány holmi, nem sokat ér!” — mondja a vevő alkudozás közben, de mikor elmegy, már dicsekszik vele.
+{20:15} Nagy érték az arany és az igazgyöngy, de a bölcs beszéd mindennél többet ér.
+{20:16} Vedd zálogba a ruháját attól, aki idegenért vállal kezességet!
+{20:17} Amit csalással szereztél, előbb édesnek érzed, de végül mintha kavicsokkal telne meg a szád.
+{20:18} A terveket a jó tanács teszi sikeressé, és csak alapos tanácskozással viselj háborút!
+{20:19} Aki mások magánügyeit kipletykálja, abban ne bízz! Ne barátkozz olyannal, aki folyton fecseg!
+{20:20} Aki apját, anyját átkozza, annak világossága a legnagyobb sötétben alszik ki.
+{20:21} Ha örökséged idő előtt követeled, akkor végül nem lesz áldás rajta.
+{20:22} Ne állj bosszút magadért, inkább várj, amíg az Örökkévaló megfizet!
+{20:23} Ha nem egyforma mértékkel mérsz mindenkinek, az utálatos az Örökkévaló számára! Soha ne használj hamis mérleget!
+{20:24} Az Örökkévaló irányítja az emberek lépéseit. Honnan tudhatnánk, utunk hová vezet?
+{20:25} Csapdába esel, ha elhamarkodottan fogadsz valamit Istennek, és utána gondolkozol rajta, tudod-e teljesíteni.
+{20:26} A bölcs király különválasztja a gonoszokat az igazaktól, ahogy a polyvát különválasztják a búzától, a gonoszokat pedig összezúzza.
+{20:27} Az ember szelleme lámpa az Örökkévaló kezében, amellyel az ember legbelsőbb zugait is megvizsgálja.
+{20:28} Kegyelem és hűség őrzi a királyt, uralmát a hűséges szeretet tartja fenn.
+{20:29} A fiatalok dísze az erő, az öregek ékessége pedig az ősz fej.
+{20:30} Kitisztítják lelkedből a gonoszt a megsebző csapások, megtisztítanak a szíved mélyébe ható sebek.
+{21:1} Ahogy a földműves irányítja a csatorna vizét, úgy tartja kezében az Örökkévaló a király szívét: vezeti, amerre akarja.
+{21:2} A saját útját mindenki helyesnek tartja, de aki megvizsgálja és mérlegeli szíved szándékait — az Örökkévaló az!
+{21:3} Tedd meg, ami helyes és igazságos, — ezt az Örökkévaló többre értékeli minden áldozatnál.
+{21:4} Büszke tekintet és gőgös gondolatok, — ez az istentelen szántóföldje, amelyből bűn terem.
+{21:5} Ha szorgalmas vagy, terveid bőséges hasznot hoznak, de ha türelmetlen és kapkodó, csak a szegénységet sietteted.
+{21:6} A hazugsággal szerzett gazdagság hamar eltűnik, mint a pára. Aki így akar meggazdagodni, a halált keresi.
+{21:7} A gonoszokat a saját erőszakosságuk pusztítja el, mert nem akarnak igazságosan élni.
+{21:8} A bűnös útja tekervényes, az igaz pedig egyenes úton jár.
+{21:9} Jobb a szabad ég alatt, a lapos háztetőn lakni, mint a veszekedős asszonnyal egy fedél alatt.
+{21:10} Az istentelen ember lelke vágyik a gonoszságra, még a barátja iránt sem jóindulatú.
+{21:11} Ha megfenyítik a beképzelt ostobát, még ő is bölcsebb lesz tőle, de a bölcs már a figyelmeztetésből is okul.
+{21:12} Az Örökkévaló igazságos! Szemmel tartja az istentelenek házát, és porig rombolja őket.
+{21:13} Ha nem akarod meghallani a szegények segélykiáltását, akkor neked sem felel senki, amikor segítségért kiáltasz.
+{21:14} A titokban adott ajándék lecsendesíti a haragot, a kézbe csúsztatott megvesztegetés lecsillapítja az indulatot.
+{21:15} Az igazságszerető emberek örülnek, mikor az igazság érvényesül, a gonosztevők pedig megrettennek.
+{21:16} Aki letér a bölcsesség útjáról, hamar a halottak közé jut.
+{21:17} Aki csak a szórakozást hajhássza, végül elszegényedik, aki pedig szereti a bort és a költekezést, sohasem lesz gazdag.
+{21:18} Az istentelen fizet váltságdíjat az igazért, és a csaló a becsületes helyett.
+{21:19} Jobb egyedül lakni a pusztában, mint a hirtelen haragú és veszekedős asszonnyal egy házban.
+{21:20} Drága kincs és olaj van a bölcs házában, az ostobának pedig semmije sincs, mert eltékozolja.
+{21:21} Aki igazságosságra, hűségre és szeretetre törekszik, életet talál, jogosságot és megbecsülést.
+{21:22} A bölcs elfoglalja az erős harcosok városát, lerombolja bástyáikat, melyekben bíztak.
+{21:23} Ha gondosan vigyázol szavaidra, sok bajtól mentheted meg magad.
+{21:24} A büszke lenéz és kicsúfol mindenkit, tetteit féktelen gőg hajtja.
+{21:25} A lustát a saját telhetetlen kívánsága öli meg, mert nem akar dolgozni.
+{21:26} A kapzsi embernek soha semmi sem elég, az igazságos pedig adakozik, és nem sajnálja.
+{21:27} Az Örökkévaló utálja, amikor istentelen hoz áldozatot neki, különösen, mikor gonosz szándékkal teszi.
+{21:28} A hamis tanú el fog veszni, aki pedig odafigyel az ügyre, annak a tanúnak megáll a szava.
+{21:29} Aki becsületes, az biztos benne, hogy jó úton jár, az istentelen pedig csak tetteti.
+{21:30} Sem bölcsesség, sem okosság, sem tanács nem állhat ellen az Örökkévaló akaratának.
+{21:31} A lovakat felkészítheted a csatára, de a győzelem az Örökkévaló kezében van!
+{22:1} A jó hírnév többet ér, mint a nagy gazdagság, s ha jóindulattal vannak irántad, az értékesebb, mint az ezüst és arany.
+{22:2} Az Örökkévaló szemében gazdag és szegény egyforma: ő teremtette mind a kettőt.
+{22:3} A bölcs látja a közelgő veszedelmet, és elrejtőzik előle, az ostoba pedig egyenesen belefut, és megszenvedi.
+{22:4} Tiszteld és féld az Örökkévalót, s légy alázatos! Jutalmad: gazdagság, tisztesség és élet.
+{22:5} A tisztességtelen emberre tövisek és csapdák várnak, de aki vigyáz magára, messze elkerüli azokat.
+{22:6} Neveld a gyermekedet hozzá illő módon, s akkor még idős korában sem tér el tanításodtól.
+{22:7} A gazdag uralkodik a szegényen, és az adós szolgája a hitelezőjének.
+{22:8} Aki jogtalanságot vet, veszedelmet arat, és haragjának botja eltörik.
+{22:9} Aki jó szívvel adakozik, áldott lesz, mert saját kenyeréből ad az éhezőknek.
+{22:10} Zavard el, aki másokat kigúnyol! Vele együtt elmegy a viszály is, megszűnik a vitatkozás és gyalázkodás.
+{22:11} Akinek szíve tiszta, beszéde kedves, annak barátja a király.
+{22:12} Az Örökkévaló őrködik az igaz tudás fölött, és meghiúsítja az istentelen szavait.
+{22:13} Azt mondja a lusta: „Oroszlán jár az utcán, még megölne, ha kimennék!”
+{22:14} Mély verem a paráznaság: akire az Örökkévaló haragszik, beleesik abba.
+{22:15} A gyermekhez könnyen tapad a bolondság, de a fenyítés pálcája elűzi tőle.
+{22:16} Aki elvesz a szegénytől, hogy saját vagyonát gyarapítsa, vagy aki gazdagnak ajándékoz, biztosan szegény lesz mind a kettő!
+{i22:17} Harminc bölcs mondás
+{22:17} Figyelj arra, amit a bölcsek mondanak, hallgasd meg szavaimat! Vésd szívedbe, amire tanítalak!
+{22:18} Hasznodra válik, ha jól megjegyzed, és segítségedre lesz, amikor mondogatod.
+{22:19} Bízz az Örökkévalóban, higgy benne, és őrá támaszkodj! Most erre tanítalak téged, igen, éppen téged!
+{22:20} Ezért írtam ezt a harminc bölcs mondást a számodra. Kiválogattam a legfontosabb tudnivalókat és a legjobb tanácsokat,
+{22:21} hogy tanítsalak az igazságra. Így majd helyesen meg tudsz felelni annak, aki elküldött téged.
+{i22:22} — 1 —
+{22:22} Ne foszd ki a szegényt, és ne okozz kárt a nyomorultnak a bíróság előtt!
+{22:23} Vigyázz, mert az Örökkévaló támogatja és védi őket! Aki a szegényt megrabolja, annak az Örökkévaló is elveszi életét!
+{i22:24} — 2 —
+{22:24} Ne barátkozz haragos természetű emberrel, és ne tarts azzal, aki hirtelen haragú,
+{22:25} különben te is hasonló leszel hozzá, és bajt hozol magadra!
+{i22:26} — 3 —
+{22:26} Ne vállalj felelősséget mások adósságáért, ne légy kezese senkinek!
+{22:27} Ha nem tudsz helyette fizetni, még az ágyadat is kihúzhatják alólad!
+{i22:28} — 4 —
+{22:28} Ne vidd odébb a birtokhatár kövét, amelyet még őseid állítottak!
+{i22:29} — 5 —
+{22:29} Aki tehetséges és szorgalmas, királyokat fog szolgálni, nem közönséges embereket.
+{i23:1} — 6 —
+{23:1} Ha az uralkodó vendégül lát, jól gondold meg, kinek az asztalánál ülsz!
+{23:2} Ne egyél túl sokat, még akkor se, ha nagyon éhes vagy!
+{23:3} Ne kívánd meg a kínált finom falatokat, lehet, hogy csak próbára tesz.
+{i23:4} — 7 —
+{23:4} Ne törekedj a gazdagságra! Legyen eszed, és meg se próbáld!
+{23:5} A pénz gyorsan elszáll, egy szempillantás alatt eltűnik, elrepül, mint a madár.
+{i23:6} — 8 —
+{23:6} Ha kapzsi ember hív vendégségbe, ne ülj az asztalához, s ne kívánd a finom ételeket, amivel kínál!
+{23:7} Azt mondja: „Egyél, igyál!” — de sajnálja tőled, és azt számolgatja, mennyibe kerül ez neki.
+{23:8} Amit megettél, kihányod, és hiába udvariaskodtál.
+{i23:9} — 9 —
+{23:9} Meg se próbálj tanácsot adni a magabiztos ostobának! Úgyis csak kineveti bölcs szavaidat.
+{i23:10} — 10 —
+{23:10} Ne vidd odébb a birtokhatár kövét, amelyet még elődeid állítottak! Ne vedd el az árváktól birtokukat,
+{23:11} mert erős az Örökkévaló, az árvák védelmezője! Ő védi meg ügyüket veled szemben!
+{i23:12} — 11 —
+{23:12} Fogadd meg az intést, hallgass a bölcs beszédre!
+{i23:13} — 12 —
+{23:13} Fegyelmezd meg a gyermeket, ha szükséges! Még ha meg is kell fenyítened, nem hal bele.
+{23:14} Lehet, hogy a haláltól mented meg, ha megvesszőzöd!
+{i23:15} — 13 —
+{23:15} Fiam, ha bölcs leszel, boldoggá teszel engem is!
+{23:16} Mennyire örülök majd, ha bölcsen beszélsz!
+{i23:17} — 14 —
+{23:17} Ne irigyeld a bűnösöket, de mindig teljes szívedből tiszteld és féld az Örökkévalót!
+{23:18} Akkor jó jövő vár rád, és amit remélsz, abban nem fogsz csalódni!
+{i23:19} — 15 —
+{23:19} Hallgass rám fiam, hogy bölcs legyél, és irányítsd szíved az Örökkévaló útjára!
+{23:20} Ne barátkozz iszákosokkal, és ne járj együtt azokkal, akik túl sokat esznek!
+{23:21} Mert az ilyenek elszegényednek: folyton csak esznek, isznak, alszanak, végül semmijük sem marad.
+{i23:22} — 16 —
+{23:22} Hallgass apád tanácsára, mert neki köszönheted, hogy élsz! Tiszteld anyádat, még idős korában is!
+{23:23} Az igazság, bölcsesség, tanács és értelem minden pénzt megér, vedd meg bármi áron, de soha el ne add semmiért!
+{23:24} Milyen boldog az igazságszerető gyermek apja, s mennyi öröme telik az apának bölcs gyermekében!
+{23:25} Hadd örüljenek a te szüleid is, hadd teljék öröme benned annak, aki megszült!
+{i23:26} — 17 —
+{23:26} Add nekem a szívedet, fiam! Kövesd életem példáját!
+{23:27} A prostituált veszélyes, mint a mély verem, más asszonya pedig, mint a szűk kút: nehéz kiszabadulni belőle.
+{23:28} Leselkedik rád, hogy rabul ejtsen, mint a rabló áldozatára, és a házasságtörő férfiak számát szaporítja.
+{i23:29} — 18 —
+{23:29} Kik azok, akik folyton vitatkoznak és verekednek, sok szomorúságot és bajt okoznak, sebeket kapnak ok nélkül, és szemük a bortól vöröslik?
+{23:30} Azok, akik egész éjjel bor mellett mulatnak, s folyton ürügyet keresnek, hogy ihassanak.
+{23:31} Ne nézd hát a bort, ne csodáld rubin színét! Ne nézd, hogyan gyöngyözik a pohárban, mert hamar lecsúszik a torkodon!
+{23:32} Végül megmar, mint a kígyó, megmérgez, mint a vipera!
+{23:33} Részegen furcsa dolgokat látsz, és össze-vissza beszélsz.
+{23:34} Úgy érzed, viharos tengeren hánykolódsz, az árboc tetején.
+{23:35} Azt mondod: „Ütöttek, de nem fájt. Vertek, de nem is éreztem. Mikor fogok felébredni? Hadd igyak még egy kicsit!”
+{i24:1} — 19 —
+{24:1} Ne irigykedj a gonoszokra! Messze kerüld őket,
+{24:2} mert folyton valami pusztítást terveznek, gonoszságról beszélnek!
+{i24:3} — 20 —
+{24:3} Bölcsesség által épül a ház, az otthon és a család, és az értelem által lesz erős.
+{24:4} Az otthont és a családi élet minden területét pedig a tudás tölti meg drága és kedves kincsekkel.
+{i24:5} — 21 —
+{24:5} A bölcs férfi hatalmasabb, mint az erős, és a tudós hatalmasabb, mint akinek csak a testi ereje nagy.
+{24:6} Ezért bölcs tanácsosokkal viselj háborút, és ha igazán győzni akarsz, sok ilyenre van szükséged.
+{i24:7} — 22 —
+{24:7} Az ostobának elérhetetlen a bölcsesség, ezért ki se nyissa száját, mikor a vezetők tanácskoznak!
+{i24:8} — 23 —
+{24:8} Aki gonosz dolgokat tervez, azt bajkeverőnek hívják.
+{24:9} Istentelen tervet szőni bűn. A csúfolódót mindenki utálja.
+{i24:10} — 24 —
+{24:10} Ha nehéz időkben gyengének bizonyulsz, akkor valóban kevés az erőd!
+{i24:11} — 25 —
+{24:11} Mentsd meg a halálra szánt foglyokat! Szabadítsd ki azokat, akik a vesztőhely felé tántorognak!
+{24:12} Ne mondd: „Nem is tudtam róla!”, mert az Örökkévaló, aki a szíveket vizsgálja, jól tudja, mit miért teszel! Aki a lelkedet őrzi, tudja, és mindenkinek tettei szerint fizet.
+{i24:13} — 26 —
+{24:13} Fiam, egyél mézet, mert jó! Bizony, édes a tiszta méz.
+{24:14} Ilyen a bölcsesség is: édes a lelkednek. Ha megtalálod, szép jövő vár rád, és amit remélsz, abban nem fogsz csalódni.
+{i24:15} — 27 —
+{24:15} Ne légy olyan, mint a lesben álló rabló, ne akard kirabolni az igazságszerető ember otthonát és családját, ne támadd meg otthonát!
+{24:16} Mert az igaz ember is sokszor elesik, mégis mindannyiszor felkel, de az istentelent egyetlen baj is teljesen elpusztítja.
+{i24:17} — 28 —
+{24:17} Ne örülj annak, ha ellenségedet baj éri, ne légy kárörvendő, mikor elesik!
+{24:18} Mert az Örökkévaló látja, és megharagszik rád, ellenségedről pedig elfordul haragja.
+{i24:19} — 29 —
+{24:19} Ne bosszankodj a gonosztevők miatt, és ne irigykedj az istentelenekre!
+{24:20} Mert a gonosznak nincs jövője, és az istentelen világossága kialszik.
+{i24:21} — 30 —
+{24:21} Fiam, tiszteld az Örökkévalót és a királyt, és egyik ellen se lázadj!
+{24:22} A lázadót hirtelen baj éri, mert sokféle veszedelmet zúdíthat rá az Örökkévaló is, meg a király is!
+{i24:23} További bölcs mondások
+{24:23} Ezek a mondások is a bölcsektől származnak: A bíró legyen pártatlan és elfogulatlan azokkal szemben, akik fölött ítélkezik!
+{24:24} A bírót, aki felmenti a bűnöst, átkozzák az emberek és utálják a népek.
+{24:25} De ha elítéli a bűnöst, jó dolga lesz, és bőséges áldásban lesz része.
+{24:26} Aki őszintén válaszol, az az igaz barátod.
+{24:27} Előbb végezd el a szántóföldi munkákat, majd a vetést, azután építsd fel a házad.
+{24:28} Ne beszélj alapos ok nélkül senki ellen, különben ostobának tűnhetsz!
+{24:29} Ne mondd: „Én is úgy bánok vele, ahogy ő velem! Bosszút állok azért, amit velem tett!”
+{24:30} Láttam egy lusta és gondatlan ember kertjét, amikor mellette mentem el. Milyen ostoba lehet ennek a szőlőskertnek a gazdája!
+{24:31} A kert ki se látszott a gazból, úgy elborították a tövisek, kőkerítése pedig leomlott.
+{24:32} Ezt látva elgondolkoztam, és ezt tanultam belőle:
+{24:33} „Csak még egy kicsit hadd aludjak, egy kicsit pihenek még!” —
+{24:34} így tör rád a szegénység, mint a rabló! Mire körülnézel, már semmid sincsen, mintha tolvaj lopta volna el.
+{i25:1} További bölcs mondások Salamon királytól
+{25:1} Ezek is Salamon bölcs mondásai, amelyeket Ezékiásnak, Júda királyának szolgái gyűjtöttek össze.
+{25:2} Istent tiszteljük azokért, amiket eltitkol előlünk, a királyt pedig azokért, amiket felfedez.
+{25:3} Az ég magassága, a föld mélye és a királyok szíve kifürkészhetetlen!
+{25:4} Tisztítsd meg az ezüstöt a salaktól, akkor az ötvös gyönyörű mestermunkát készít belőle!
+{25:5} Távolítsd el az istentelen tanácsadókat a király közeléből, és megerősíti trónját az igazságosság!
+{25:6} Ne dicsekedj a király előtt, és ne foglald el a vezetők helyét!
+{25:7} Jobb, ha azt mondják: „Jöjj előrébb!”, mintha megaláznak, s a vezetők szeme láttára hátrébb állítanak.
+{25:8} Ne fordulj elhamarkodottan a bírósághoz! Mihez kezdesz, ha ellenfeled kerül ki győztesen?
+{25:9} Ha panaszod van valaki ellen, ezt vele beszéld meg négyszemközt, ne mással! Ne pletykáld ki más dolgait,
+{25:10} különben a másik megszégyenít téged, és rossz híredet terjeszti.
+{25:11} Mint aranyalmák ezüsttányéron, olyan a helyén mondott szó, és a helyes döntés.
+{25:12} Mint arany fülbevaló, vagy színarany ékszer, olyan a bölcs figyelmeztetés annak, aki azt elfogadja.
+{25:13} Mint egy pohár hideg víz a nyári hőségben az aratónak, olyan a megbízható küldött annak, aki elküldte: felüdíti lelkét.
+{25:14} Aki ajándékot ígér, de mégsem ad, olyan, mint a felhős, szeles idő, amely nem hoz esőt.
+{25:15} Türelemmel még a királyt is meggyőzheted, a makacs ellenkezést is megtörheted szelíd beszéddel.
+{25:16} Ha mézet találtál, egyél, amennyi jólesik, de ne túl sokat, mert kihányod!
+{25:17} Még a barátodhoz se menj túl gyakran, mert megsokallja, és elege lesz belőled!
+{25:18} Aki hamisan tanúskodik valaki ellen, veszélyes, mint a buzogány, a kard, vagy az éles nyíl!
+{25:19} Nehéz helyzetben sohase bízz meg hűtlen emberben, mert cserbenhagy, mint a fájós fogad, vagy a kificamodott bokád.
+{25:20} Vidám dalt énekelni bánatos embernek oly ostobaság, mint hidegben levetkőzni, vagy a sebre ecetet önteni.
+{25:21} Ha ellenséged éhezik, adj neki enni, ha szomjazik, itasd meg!
+{25:22} Ha így bánsz vele, égetni fogja a szégyen, mintha parazsat tennél a fejére. Az Örökkévaló pedig megjutalmaz téged.
+{25:23} Az északi szél esőt hoz. A másik háta mögötti vádaskodás pedig haragot támaszt.
+{25:24} Jobb a szabad ég alatt, a lapos háztető sarkában lakni, mint a veszekedős feleséggel egy házban.
+{25:25} Olyan a messzi földről érkezett jó hír, mint a pohár hideg víz a szomjas embernek.
+{25:26} Mint a felkavart kút, vagy a beszennyezett forrás, olyan az igaz ember, ha elbizonytalanodik, és enged a gonosznak.
+{25:27} Túl sok mézet enni, vagy a magunk dicsőségét keresni, nem jó.
+{25:28} Ha nem tudsz uralkodni magadon, olyan vagy, mint a város kőfal nélkül.
+{i26:1} Bölcs mondások az ostobákról
+{26:1} Mint hóesés a nyárhoz, vagy záporeső az aratáshoz, úgy nem illik a megtiszteltetés az öntelt ostobához.
+{26:2} Ahogy elszáll a madár, elrepül a fecske, úgy száll el az ok nélkül mondott átok is.
+{26:3} Ostor a lónak, zabla a szamárnak, és verés való az öntelt ostobának.
+{26:4} Ne válaszolj az öntelt ostobának a bolondsága szerint, különben te is hasonló leszel hozzá!
+{26:5} De felelj meg az öntelt ostobának a bolondságához mérten, hogy ne képzelje magát olyan okosnak!
+{26:6} Ha üzeneted ostoba emberre bízod, olyan, mintha saját lábadat vágnád le, és hívnád a bajt.
+{26:7} Mint a sánta bicegése, olyan, ha az ostoba bölcs mondást idéz.
+{26:8} Amilyen értelmetlen hozzákötni a követ a parittyához, olyan, ha az ostobát megtisztelik.
+{26:9} Mint mikor a részeg kezébe beleakad a tövis, olyan az, ha az ostoba bölcs mondást akar idézni.
+{26:10} Aki ostobát fogad szolgálatába, vagy idegen csavargót, olyan, mint aki vaktában lövi nyilait, és valakit megsebez.
+{26:11} Az ostoba újra meg újra elköveti ugyanazt a butaságot, mint a kutya, amely visszatér ahhoz, amit kihányt.
+{26:12} Láttál-e olyan embert, aki magát bölcsnek tartja? Még az ostoba felől is több reményed lehet, mint felőle!
+{26:13} Azt mondja a lusta, ha otthon akar maradni: „Nem mehetek ki, mert oroszlán járkál az utcán!”
+{26:14} Ide-oda forog ágyán a lusta, mint az ajtó a sarkán.
+{26:15} Kinyújtja kezét a tálba, de szájához már nem emeli — ilyen a lusta.
+{26:16} A lusta hétszer okosabbnak gondolja magát azoknál, akik valóban bölcsek.
+{26:17} Mintha kóbor kutyát fognál fülön, ha az, ha veszekedésbe avatkozol, amely nem rád tartozik.
+{26:18} Mint az őrült, aki találomra tüzes nyilakat lövöldöz, s gyilkol,
+{26:19} olyan, aki becsapja társát, s azt mondja: „Ugyan, csak tréfáltam!”
+{26:20} Kialszik a tűz, ha elfogy a tűzrevaló, megszűnik a viszály, ha elmegy a rágalmazó.
+{26:21} Fát a tűzre, szenet a parázsra, — ilyen a bajkeverő a viszály felszítására.
+{26:22} A rágalom mélyen behatol a lélekbe, akárcsak a finom falatok a test belsejébe.
+{26:23} Mint olcsó cserépkorsón hamis ezüstborítás, olyan a hízelgő beszéd, mely gonosz szívből származik.
+{26:24} Aki gyűlöletet hordoz a szívében, beszédével igyekszik azt palástolni, de közben gonosz terveket szövöget.
+{26:25} Ezért ne higgy neki, akármilyen kedvesen is szól, mert szíve tele van gonoszsággal!
+{26:26} A gyűlöletet egy ideig el lehet takarni álnoksággal, de előbb-utóbb lelepleződik mindenki előtt.
+{26:27} Aki másnak vermet ás, maga esik bele, és aki sziklát görget fel az emelkedőn, arra gurul vissza.
+{26:28} A hazug ember gyűlöli azt, akit tönkretett, és a hízelgés bukást okoz.
+{27:1} Ne légy elbizakodott a jövőre nézve, mert nem tudhatod, mit hoz a holnap.
+{27:2} Más dicsérjen téged, ne te magadat, inkább az idegen szája, mint a tiéd!
+{27:3} Súlyos a kő, és nehéz a homok, de még nehezebb a bosszúság, amelyet az ostobák okoznak.
+{27:4} Pusztító árvíz a kegyetlen harag, de az irigység még veszedelmesebb!
+{27:5} Jobb, ha nyíltan megintesz valakit, mint ha titokban szereted.
+{27:6} A barátodban akkor is bízhatsz, ha fáj, amit mond, de az ellenséged akkor is rosszat akar, mikor hízeleg.
+{27:7} A jóllakott ember még a mézet is megtapossa, de aki valóban éhes, annak még a keserű is édes.
+{27:8} Mint a fészkéből kiesett madárfióka, olyan az ember, aki messze vándorol otthonától.
+{27:9} Felvidít az illatos olaj és az édes illatú füstölő, de még inkább a barátod szívből jövő jó tanácsa.
+{27:10} Barátod el ne hagyd, se apád barátját! Ne utazz a testvéredhez, hogy meglátogasd, amikor bajban vagy! Többet ér a közeli szomszéd, mint a távoli testvér.
+{27:11} Fiam, légy bölcs, hadd örüljek sikerednek, s hadd tudjak megfelelni annak, aki gyaláz.
+{27:12} Az okos ember előre látja a bajt, és kitér előle, az ostoba pedig nekimegy, és megszenvedi.
+{27:13} Vedd zálogba a ruháját attól, aki idegenért vállal kezességet!
+{27:14} Ha kora hajnalban nagy hangon köszöntöd szomszédodat, lehet, hogy áldás helyett átoknak veszi.
+{27:15} Mint esős napon a szüntelen csepegő víz, olyan a feleség, aki folyton veszekszik.
+{27:16} Elhallgattatni őt oly nehéz, mint a szelet visszafogni, vagy az olajat megtartani a markodban.
+{27:17} Az acélpengét acéllal élesítik, csakúgy, mint a barátok egymást csiszolják.
+{27:18} Aki fügefát gondoz, eszi is a gyümölcsét, s aki hűségesen szolgálja mesterét, azt megbecsülik.
+{27:19} Ahogy a víztükör megmutatja arcodat, ha belenézel, úgy mutatja meg a szíved, milyen a valódi természeted.
+{27:20} A halál országa és a feneketlen mélység soha be nem telik, ilyen az ember szemének kívánsága is: telhetetlen.
+{27:21} Az ezüstöt az olvasztótégely, az aranyat a kemence, az ember jellemét pedig az teszi próbára, ha megdícsérik.
+{27:22} Az öntelt ostobát akár mozsárban is apróra törheted, a bolondságát mégsem tudod kitisztítani belőle.
+{27:23} Gondosan vizsgáld meg juhaidat és kecskéidet, viselj gondot nyájaidra,
+{27:24} mert a gazdagság nem tart örökké, sőt, a korona sem marad fenn örökre!
+{27:25} Mikor lekaszálják a füvet, és új sarjad a helyén, és begyűjtik a hegyekről a szénát,
+{27:26} nyírd meg juhaidat, készíts a gyapjúból ruhákat! Adj el néhány kecskét, és vásárolj értük földet!
+{27:27} Akkor lesz elég kecsketej, hogy táplálja családodat, s még a szolgáidat is.
+{28:1} Az istentelen akkor is menekül, ha senki sem üldözi, az igazságszerető pedig bátor, mint az oroszlán.
+{28:2} Amelyik országban sokat vétkeznek a törvény ellen, annak vezetői sűrűn váltják egymást. De a bölcs és értelmes vezető sokáig fog uralkodni, ha a nép engedelmeskedik a törvénynek.
+{28:3} Ha egy szegényből válik szegényeket elnyomó uralkodó, az olyan, mint a pusztító felhőszakadás, amely után nem terem semmi.
+{28:4} Akik nem akarnak engedelmeskedni a törvénynek, dicsérik a gonoszokat, akik pedig engedelmeskednek annak, harcolnak a gonoszok ellen.
+{28:5} A gonoszok föl sem fogják, mi az igazságosság, de akik szeretik az Örökkévalót, egészen megértik.
+{28:6} Jobb becsületesen élni szegénységben, mint tisztességtelenül és gazdagon.
+{28:7} A bölcs fiú engedelmeskedik a törvénynek, aki pedig haszontalan emberek társaságába keveredik, szégyent hoz apjára.
+{28:8} Aki hitelezéssel és uzsorakamattal szerzi vagyonát, annak gyűjti azt, aki a szegényeknek adakozik.
+{28:9} Aki elfordul Isten törvényétől és tanításától, annak még az imádsága is utálatos Isten számára.
+{28:10} Aki rossz útra vezeti az igazságszeretőt, az maga esik csapdába, az ártatlan pedig szép örökséget kap.
+{28:11} Aki gazdag, mind bölcsnek képzeli magát, de az értelmes szegény kiismeri őt, és átlát rajta.
+{28:12} Amikor igazságszeretők győznek, nagy az örvendezés, de ha az istentelenek kerekednek fölül, elrejtőznek az emberek.
+{28:13} Ha takargatod bűneidet, nem lesz jó dolgod, de ha bevallod, és elfordulsz tőlük, kegyelmet kapsz.
+{28:14} Boldog és áldott, aki tiszteli embertársait, de aki makacs, bajba kerül.
+{28:15} Mint zsákmányára rohanó oroszlán, vagy támadó medve, olyan a nyomorult népen uralkodó istentelen vezető.
+{28:16} Az ostoba uralkodó kegyetlenül elnyomja népét, de a becsületes vezető, aki gyűlöli a megvesztegetést, sokáig uralkodik.
+{28:17} A gyilkos, akit szándékos emberölés bűne terhel, hadd fusson a sírig, az ilyenen ne segíts!
+{28:18} Aki egyenes úton jár, biztonságban él, aki pedig görbe utakon, hirtelen elbukik.
+{28:19} Aki földjét szorgalmasan műveli, jóllakik annak termésével, de aki haszontalan dolgokat kerget, elszegényedik.
+{28:20} Aki megbízható és hűséges, sokféle áldást kap, aki pedig hirtelen akar meggazdagodni, büntetést.
+{28:21} Légy pártatlan és elfogulatlan az ítéletben, különben még egy falat kenyérért is hamisan ítélhetsz!
+{28:22} A pénzsóvár hirtelen akar meggazdagodni, de nem veszi észre, hogy ehelyett szegénységre jut.
+{28:23} Aki őszintén megint valakit, azt végül megkedvelik, inkább, mint a hízelegőt.
+{28:24} Aki apjától, vagy anyjától lop, és azt mondja: „Nem tettem semmi rosszat!” — az olyan, mint a gonosztevő.
+{28:25} Aki kapzsi és telhetetlen, az viszályt szít az emberek között, de aki az Örökkévalóban bízik, az meggazdagodik.
+{28:26} Aki saját magában bízik, az öntelt ostoba, aki viszont bölcsen él, az megmenekül a bajtól.
+{28:27} Ha adakozol a szegényeknek, semmiben sem látsz hiányt, de ha nem akarsz segíteni rajtuk, sokan átkozni fognak.
+{28:28} Mikor gonoszok kaparintják meg a hatalmat, elrejtőznek az emberek. Mikor pedig vereséget szenvednek a gonoszok, gyarapodnak és sokasodnak az igazak.
+{29:1} Aki sok intés ellenére mégis önfejű marad, egyszer csak összetörik, menthetetlenül.
+{29:2} Amikor igazságszerető kerül hatalomra, örül a nép, ha pedig istentelen uralkodik, mindenki sóhajtozik.
+{29:3} Ha szereted a bölcsességet, örömet szerzel apádnak, de ha prostituáltakhoz jársz, eltékozlod a vagyonát.
+{29:4} Amikor igazságos király uralkodik, megerősödik a nemzet. Aki pedig súlyos adókat vet ki, romba dönti az országot.
+{29:5} Aki hízeleg a másiknak, az csapdát állít neki.
+{29:6} A gonoszt a saját bűne ejti csapdába, az igazságszerető pedig énekel és örül.
+{29:7} Az igazságszerető törődik a szegények ügyével, de az istentelent nem érdeklik a szegények.
+{29:8} A büszke csúfolódók fellázítják a várost, és zűrzavart okoznak, a bölcsek pedig lecsillapítják a gyűlölködést.
+{29:9} Ha bölcs és ostoba vitatkozik, az ostoba hol dühös, hol meg nevet, de nem tudnak megegyezni semmiképp.
+{29:10} A gyilkos gyűlöli az ártatlant, az igazságszeretők pedig igyekeznek megmenteni az ártatlan életét.
+{29:11} Az ostoba szabad folyást enged indulatának, a bölcs pedig megfékezi és lecsillapítja haragját.
+{29:12} Amelyik vezető hallgat a hazugságra, annak romlott minden beosztottja is.
+{29:13} Egy dologban a szegény és elnyomója is hasonló: az Örökkévaló élteti mind a kettőt.
+{29:14} Amelyik király igazságosan bánik a szegényekkel, annak uralkodása hosszú és szilárd.
+{29:15} A gyermeket a helyreigazítás és fenyítés bölccsé teszi, de a szabadjára engedett gyermek szégyent hoz anyjára.
+{29:16} Amikor istentelenek kaparintják meg a hatalmat, megszaporodik a bűn, de az igazak meglátják a gonoszok bukását.
+{29:17} Fegyelmezd meg a fiadat, akkor nyugalmat hoz neked, és örömöd lesz benne.
+{29:18} Ahol nincs prófétai látás, ott elvadul és lezüllik a nemzet. De milyen boldog és áldott, aki követi a tanítást!
+{29:19} Pusztán szavakkal nem lehet fegyelmezni a szolgát, megérti ugyan, de mégsem engedelmeskedik.
+{29:20} Még a magabiztos ostobához is több reményt fűzhetsz, mint akinek gondolkodás nélkül jár a szája.
+{29:21} Ha gyermekkorától fogva mindent megengedsz a szolgádnak, a végén majd nem bírsz vele.
+{29:22} A haragos ember viszályt szít, és a hirtelen haragú sokat vétkezik.
+{29:23} Büszkeséged miatt megaláztatás ér, alázatosságodért pedig megtiszteltetés.
+{29:24} Saját magának ellensége, aki a tolvajjal társul, mert bár hallja az esküt, mégsem tanúskodhat.
+{29:25} Az emberektől való félelem csapdába ejt, de aki az Örökkévalóban bízik, megmenekül.
+{29:26} Sokan a királyhoz fordulnak ügyükkel, pedig csak az Örökkévaló szolgáltat igazságot!
+{29:27} Az igazságszerető irtózik a gonosztól, az istentelen gonosz pedig gyűlöli azt, aki becsületesen él.
+{i30:1} Ágúr bölcs mondásai
+{30:1} Ágúrnak, a masszái Jáke fiának bölcs mondásai. Ezt mondta Itielnek és Ukalnak:
+{30:2} Bizony, én mindenkinél kevesebbet tudok, semmit sem ismerek és értek úgy, ahogy az emberek.
+{30:3} Nem tanultam bölcsességet, és nem ismerem a Szentet.
+{30:4} Ki ment fel valaha is a Mennybe, és jött vissza onnan? Ki tudta összefogni a szelet a markába? Ki gyűjtötte össze a vizeket ruhája sarkába? Ki jelölte ki a Föld határait? Ismered-e a nevét? Vagy tudod-e a fiának nevét?
+{30:5} Isten minden szava színtiszta, kipróbált igazság, ő maga pedig biztonságos menedék mindenkinek, aki bízik benne.
+{30:6} Ezért amit ő mond, ahhoz ne tégy hozzá egy szót se, mert számon kéri rajtad, és rád bizonyítja hazugságodat!
+{30:7} Örökkévaló, két dolgot kérek tőled, add meg, kérlek, mielőtt meghalok!
+{30:8} Messze űzd el tőlem a hazugságot és a hamiskodást! Se túl szegénnyé, se túl gazdaggá ne tégy engem! Add meg a mindennapi kenyeremet!
+{30:9} Különben még jó dolgomban megtagadnálak, és azt mondanám: „Ugyan, kicsoda az Örökkévaló?!” Vagy szegénységem miatt lopni kényszerülnék, s ezzel szégyent hoznék Istenem nevére.
+{30:10} Ne vádold be a szolgát uránál, mert megátkoz téged, és megbűnhődsz érte!
+{30:11} Micsoda nemzedék az, amely átkozza apját, és nem áldja anyját?!
+{30:12} Micsoda nemzedék az, amely tisztának tartja magát, noha nem tisztult meg bűneitől?!
+{30:13} Micsoda nemzedék az, amelynek büszke a tekintete és gőgös a pillantása?!
+{30:14} Micsoda nemzedék az, amelynek fogai, mint a kardok, zápfogai, mint a kések, hogy felfalja a szegényeket az egész földről, és a nincsteleneket az emberek közül?!
+{30:15} A piócának két szája van, s mindkettő ezt mondja: „Add nekem! Add nekem!” Ugyanígy ezeket soha ki nem elégítheted, sohasem mondják, hogy elég:
+{30:16} a halottak országa, a meddő asszony, a száraz föld, amely esőre szomjazik, és a tűz. Ezeknek soha semmi sem elég.
+{30:17} Aki apját kicsúfolja, vagy idős anyját lenézi, az megérdemli, hogy a szemét hollók vájják ki, testét pedig keselyűk szaggassák szét.
+{30:18} Vannak felfoghatatlan csodák számomra, amelyeket semmiképpen nem tudok megérteni:
+{30:19} miképp repül a sas az égen, merre megy a kígyó a sziklán, hol jár a hajó a tengeren, és hogyan jár együtt a férfi és a nő.
+{30:20} A hűtlen asszony megcsalja férjét, azután megmosdik, és azt mondja: „Nem tettem semmi rosszat!”
+{30:21} Van, ami miatt megrendül a föld, s amit nem tud elviselni:
+{30:22} a szolgát, akiből király lesz, az üresfejű ostobát, ha jól megy a sora,
+{30:23} az asszonyt, akit férje megvet, mégis elveszi feleségül, a szolgálólányt, aki úrnője helyére lép.
+{30:24} Vannak állatok, amelyek aprók — mégis nagyon bölcsek:
+{30:25} a hangyák népe: kicsik és gyengék — nyáron mégis élelmet gyűjtenek télre,
+{30:26} a mormoták sem erősek — mégis sziklákra építik házukat,
+{30:27} a sáskáknak nincs királyuk — mégis szép rendben vonulnak,
+{30:28} a gyíkok kézzel megfoghatók — mégis ott vannak a királyok palotájában is.
+{30:29} Vannak, akik méltósággal járnak, s akiknek minden lépése fejedelmi:
+{30:30} az oroszlán, az állatok fejedelme, nem hátrál meg senki elől,
+{30:31} a peckesen lépkedő kakas, a kecskebak, és a király, aki hadseregét vezeti.
+{30:32} Ha büszke voltál, ha ostobán viselkedtél, ha mások ellen rosszat gondoltál, tedd kezed a szádra, és hallgass!
+{30:33} Ha sokáig köpülöd a tejet, vaj lesz belőle, ha sokáig fújod az orrod, vérezni kezd, ha pedig sokáig bosszantasz valakit, viszály lesz belőle.
+{i31:1} Lemúél király bölcs mondásai
+{31:1} Lemúél, Massza királya bölcs mondásai, amelyeket anyjától tanult:
+{31:2} Hallgass rám, fiam, hallgass meg, gyermekem, hallgass rám, fiam, akit Istentől kértem!
+{31:3} Ne pazarold erőd asszonyokra! Ne tékozold erőd azokra, akik már sok királyt tönkretettek!
+{31:4} Lemúél, nem való a királyhoz a borivás! Nem illik az uralkodóhoz, ha részegítő italt kíván!
+{31:5} Mert ha iszik, elfelejti, mit mond a törvény, és nem tud igazságosan ítélni a szegények ügyében.
+{31:6} Annak való a részegítő ital, akinek nincs reménye, és a bor annak, aki el van keseredve!
+{31:7} Ezek igyanak, hogy elfelejtsék a bajt, és ne gondoljanak nyomorúságukra!
+{31:8} Szólj annak érdekében, aki nem tudja jogait megvédeni! Emelj szót a mellett, aki bajba került!
+{31:9} Szólj, ne hallgass! Ítélj igazságosan! Karold fel a szegények és nyomorultak ügyét, szolgáltass nekik igazságot!
+{i31:10} A tökéletes feleség
+{31:10} Bizony, nem könnyű derék feleséget találni! Mennyivel drágább az ilyen asszony az igazgyöngyöknél!
+{31:11} Férje teljesen megbízik benne, semmiben nem lát hiányt,
+{31:12} mert felesége mindig erősíti, bátorítja, soha nem fordul ellene.
+{31:13} Az igazi feleség összegyűjti a gyapjút és a lenfonalat, és jókedvűen maga készít belőle szövetet és vásznat.
+{31:14} Élelmet hoz a családnak messziről, mint a kereskedőhajók a tengeren túlról.
+{31:15} Felkel még hajnal előtt, ételt készít családjának, és eligazítja a szolgákat.
+{31:16} Eladó földet keres, kiválasztja, megveszi, saját kezével szőlőskertet telepít.
+{31:17} Keményen dolgozik, de nem fárad bele, karját megerősíti, hogy minden munkáját el tudja végezni.
+{31:18} Tudja, hogy munkája hasznos, még éjszaka sem alszik ki világossága.
+{31:19} Maga készíti a fonalat, maga szövi a ruhák szövetét.
+{31:20} Bőkezűen adakozik a szegényeknek, és szívesen segít a nyomorultakon.
+{31:21} Nem aggódik, mikor a tél eljön, mert egész családját meleg ruhákba öltözteti.
+{31:22} Színes szőtteseket és takarókat készít ágyára, maga készítette fehér lenvászonba és bíborba öltözik.
+{31:23} Férjét jól ismerik, megbecsülik a városi tanácsban, ahol az ország vezetői között foglal helyet.
+{31:24} Az igazi feleség öveket és finom szövetet sző, és eladja a kereskedőknek.
+{31:25} Erő és méltóság a ruhája, ő pedig nem fél a jövőtől, örömmel néz a holnap elé.
+{31:26} Ha megszólal, bölcsen beszél, kedvességre és szeretetre tanít.
+{31:27} Gondot visel családja minden dolgára, sohasem lustálkodik.
+{31:28} Előállnak gyermekei, és áldják, férje pedig dicséri őt:
+{31:29} „Bizony, sok-sok derék asszony élt előtted, de te fölülmúlod valamennyit!”
+{31:30} Mert a báj csalóka, és elmúlik a szépség, de dicséretre méltó az az asszony, aki tiszteli és féli az Örökkévalót!
+{31:31} Adjatok neki jutalmat keze munkájának gyümölcséből! Dicsérje őt munkája eredménye a város kapuiban!

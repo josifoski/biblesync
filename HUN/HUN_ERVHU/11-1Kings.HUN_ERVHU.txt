@@ -1,0 +1,867 @@
+{i1:1} Adónijjá meg akarja szerezni a királyságot
+{1:1} Dávid király nagyon megöregedett, és idős kora miatt állandóan fázott. Szolgái hiába próbálták takarókkal melegíteni.
+{1:2} Végül azt javasolták a királynak: „Hadd keressünk urunknak egy fiatal szűz leányt, aki gondozza a királyt. Ha ez a leány a király karjai között fekszik, akkor urunk nem fog fázni többé.”
+{1:3} A király szolgái tehát keresni kezdtek egész Izráelben egy szép leányt, hogy szolgálja a királyt. Végül rátaláltak a súnémi Abiságra, akit el is vittek Dávidhoz.
+{1:4} Ez a leány valóban nagyon szép volt. Ettől fogva ő ápolta és gondozta a királyt, aki azonban nem hált vele.
+{1:5} Adónijjá, Dávid fia, akit Haggít szült Dávidnak, daliás termetű férfi volt. Adónijjá később született, mint a féltestvére, Absolon. Adónijjá elbizakodottságában ezt mondta: „Én leszek a király Dávid után!” Saját testőrökből álló kíséretet szerzett magának, amely lovasokból, harci
+{1:6} szekerekből és ötven gyalogos katonából állt. Ez utóbbiak mindig Adónijjá harci szekere előtt futottak, akárhová ment. Dávid azonban soha nem szólt Adónijjának, és nem vonta kérdőre, bármit is tett. Soha nem dorgálta meg: „Fiam, miért viselkedsz így?!”
+{1:7} Adónijjá tanácskozott Jóábbal, Cerúja fiával és Ebjátárral, a pappal, akik a pártjára álltak, és támogatták.
+{1:8} Azonban voltak, akik nem csatlakoztak Adónijjához: Cádók pap, Benája, Jójádá fia, azután Nátán próféta, Simei, Réi, meg Dávid testőrei.
+{1:9} Ezután történt, hogy Adónijjá juhokat, marhákat és hizlalt borjakat áldozott a Kígyó-sziklánál, a Rógél-forrás mellett. Erre az alkalomra meghívta a testvéreit — a király összes fiát — , és Júda törzsének minden királyi tisztviselőjét,
+{1:10} csak a következőket nem hívta meg: Salamont, a testvérét; Nátán prófétát meg Benáját és a király testőreit.
+{i1:11} Nátán és Betsabé közbenjár Dávidnál
+{1:11} Nátán próféta azonban megtudta ezt, és felkereste Betsabét, Salamon anyját. Ezt kérdezte tőle: „Nem hallottad, hogy Adónijjá, Haggít fia lett a király? Urunk, Dávid pedig semmit sem tud róla!
+{1:12} Most hát hallgass rám! Hadd adjak neked tanácsot, hogyan mentheted meg az életedet és fiad, Salamon életét is.
+{1:13} Menj be Dávid királyhoz, és mondd ezt neki: Uram, királyom! Nem úgy van-e, hogy esküvel erősítve megígérted szolgálódnak: »Egészen biztos, hogy a fiad, Salamon lesz utánam a király, ő követ engem a trónon!« Akkor miért lett mégis Adónijjá a király?”
+{1:14} Amíg te beszélsz a királlyal, én is bemegyek hozzá, és megerősítem szavaidat.
+{1:15} Így hát Betsabé meglátogatta a királyt, aki már nagyon öreg volt, és a hálószobájában feküdt. A súnémi Abiság volt mellette, aki szolgálta a királyt.
+{1:16} Betsabé fejet hajtott, majd földre borult a király előtt, aki megkérdezte tőle: „Mit kívánsz?”
+{1:17} Betsabé így felelt: „Uram, királyom! Te megesküdtél nekem, szolgálólányodnak az Örökkévalóra, Istenedre: »Egészen biztos, hogy a fiad, Salamon lesz utánam a király, ő követ engem a trónon!«
+{1:18} Most pedig Adónijjá lett a király, te pedig, uram, királyom, nem is tudsz róla!
+{1:19} Adónijjá éppen most nagy lakomát tart. Sok bikát, hizlalt borjút és juhot áldozott, és meghívta a király összes fiát, Ebjátár papot és Jóábot, a hadsereg vezetőjét. De Salamont, a szolgádat nem hívta meg.
+{1:20} Most hát, uram, királyom, rajtad van egész Izráel szeme! Neked kell megmondanod, ki legyen a király utánad!
+{1:21} Máskülönben, miután te, uram, királyom, pihenni térsz őseid mellé, Adónijjá engem és Salamont lázadónak fog tekinteni.”
+{1:22} Mialatt Betsabé a királlyal beszélt, megérkezett Nátán próféta is.
+{1:23} A szolgák jelentették a királynak: „Itt van Nátán próféta.” Nátán bejött, és földre borult a király előtt.
+{1:24} Azután ezt kérdezte: „Uram, király! Te mondtad azt, hogy Adónijjá uralkodjon utánad, és ő üljön a trónodra?
+{1:25} Mert ő ma nagy vendégséget rendezett. Sok bikát, hizlalt borjút és juhot áldozott, meghívta a király összes fiát, a hadsereg vezetőit és Ebjátár papot. Ezek együtt lakomáznak, és azt kiáltják: »Éljen Adónijjá, a király!«
+{1:26} Azonban engem, a te szolgádat; Cádók papot, Benáját, Jójádá fiát, és szolgádat, Salamont — bennünket nem hívott meg Adónijjá!
+{1:27} Uram, királyom, valóban tőled van ez a dolog? Ha igen, akkor miért nem mondtad meg szolgáidnak, ki fog követni a trónodon?”
+{1:28} Akkor Dávid behívatta Betsabét, aki megállt előtte.
+{1:29} A király megesküdött: „Az Örökkévalóra esküszöm, aki örökké él, és aki megszabadította a lelkemet minden bajból,
+{1:30} hogy bizony ma megteszem, amit régen esküvel megígértem neked! Mert megesküdtem neked az Örökkévalóra, Izráel Istenére: »Egészen biztos, hogy a te fiad, Salamon uralkodik utánam, és ő ül majd a trónomra.«”
+{1:31} Akkor Betsabé arccal a földre borult a király előtt, és ezt mondta: „Uram, Dávid király, örökké élj!”
+{i1:32} Salamon trónra lép
+{1:32} Majd Dávid király ezt parancsolta: „Hívjátok ide Cádók papot, Nátán prófétát és Benáját, Jójádá fiát!” Azok be is jöttek, és megálltak a király előtt,
+{1:33} aki ezt parancsolta nekik: „Vegyétek magatok mellé szolgáimat! Salamont ültessétek fel az öszvéremre, és vonuljatok le a Gihon-forráshoz!
+{1:34} Ott Cádók pap és Nátán próféta kenje fel Salamont egész Izráel királyává! Azután fújjátok meg a trombitákat, és kiáltsátok: »Éljen Salamon király!«
+{1:35} Azután vonuljatok fel ide, és Salamon üljön a trónomra, mert helyettem ő lesz a király! Őt választottam, hogy uralkodjon Izráel és Júda fölött.”
+{1:36} Benája, Jójádá fia így válaszolt a királynak: „Ámen! Úgy legyen! Mondjon rá áment az Örökkévaló, uram, királyom Istene is!
+{1:37} Ahogyan az Örökkévaló vele volt urammal, a királlyal — úgy legyen Salamonnal is, és tegye trónját még hatalmasabbá, mint uram, Dávid király trónját!”
+{1:38} Akkor Cádók pap, Nátán próféta, Benája, Jójádá fia és a királyi testőrség felültette Salamont Dávid király öszvérére, és levonultak a Gihon-forráshoz.
+{1:39} Cádók pap a Szent Sátorból kihozta az olajtartót, amelyben a szent olajat őrizték. Az olajat Salamon fejére öntötte, így kente fel királlyá. Megfújták a trombitákat és az egész nép azt kiáltotta: „Éljen Salamon, a király!”
+{1:40} Majd felvonultak a Dávid városába, és az egész nép nagy örvendezéssel és sípokat fújva követte a királyt. Olyan hangosan kiáltoztak és ujjongtak, hogy a föld is meghasadt hangjuktól.
+{1:41} Ezalatt Adónijjá és vendégei éppen a lakoma végére értek, és meghallották ezt a nagy zajt. Jóáb megkérdezte, amikor a trombita hangját hallotta: „Mit jelent ez a nagy zaj, mi történik a városban?”
+{1:42} Amikor ezt mondta, betoppant Jonatán, Ebjátár pap fia. Adónijjá megszólította: „Gyere csak, te megbízható ember vagy, és biztosan jó hírt hoztál!”
+{1:43} Ő pedig így válaszolt: „Nem! Dávid király Salamont tette királlyá!
+{1:44} Elküldte vele Cádók papot, Nátán prófétát, Benáját, Jójádá fiát és a királyi testőrséget, akik Salamont a király öszvérére ültették.
+{1:45} Azután Cádók pap és Nátán próféta királlyá kente Salamont a Gihon-forrásnál. Onnan felvonultak a Dávid városába nagy örvendezéssel — ettől zajos a város, ezt hallottátok ti is.
+{1:46} Salamon már ott is ül a királyi trónon.
+{1:47} Sőt, a király szolgái és főemberei is mind odamentek urunkhoz, Dávid királyhoz, és kifejezték jókívánságaikat: »Istened tegye Salamon nevét még híresebbé, mint a te nevedet! Tegye Salamon trónját még hatalmasabbá, mint a te trónodat!« A király erre meghajolt a fekvőhelyén,
+{1:48} majd ezt mondta: »Áldott legyen az Örökkévaló, Izráel Istene, aki engedte meglátnom, hogy ma az egyik fiam ül a trónomon!«”
+{1:49} Ennek hallatán Adónijjá vendégei megrémültek, és mind szétszéledtek.
+{1:50} Adónijjá is felkelt, és mivel félt Salamontól, sietve elment a Szent Sátorhoz, és megfogta az oltár szarvát, hogy ne öljék meg.
+{1:51} Salamonnak jelentették: „Adónijjá fél tőled, Salamon király, ezért elment, és megfogta az oltár szarvát. Azt mondja: »Esküdjön meg Salamon király, hogy nem fogja szolgáját megöletni!«”
+{1:52} Salamon erre így válaszolt: „Ha Adónijjá úgy él, hogy hűségét bizonyítja — akkor a haja szála sem görbül. De ha valami gonoszságot követ el, akkor meg kell halnia!”
+{1:53} Akkor Salamon király elküldte szolgáit, akik elhozták Adónijját az oltártól. Adónijjá a király elé járult, és meghajolt előtte. Salamon pedig azt mondta neki: „Menj haza!”
+{i2:1} Dávid tanácsokat ad Salamonnak
+{2:1} Közeledett Dávid halálának ideje, ezért hívatta Salamont, és ezt mondta neki:
+{2:2} „Fiam, én hamarosan elindulok azon az úton, amelyen minden embernek el kell mennie. Te azonban légy erős, és mutasd meg, hogy férfi vagy!
+{2:3} Amit Istened, az Örökkévaló rád bízott, abban légy hűséges, és járj az ő útjain! Tartsd meg törvényeit, rendelkezéseit, parancsait és döntéseit — ahogyan Mózes Törvényében meg van írva — hogy minden ügyedben és utadban sikeres légy!
+{2:4} Akkor az Örökkévaló beteljesíti, amit megígért nekem: »Ha a fiaid gondosan ügyelnek arra, hogyan élnek és cselekszenek, ha teljes szívvel-lélekkel és hűségesen járnak jelenlétemben, akkor Izráel királya mindig a te utódaid közül való lesz.«
+{2:5} Fiam, te is tudod, mit követett el ellenem Jóáb, Cerúja fia: hogyan gyilkolta meg Izráel seregének két vezérét, Abnert, Nér fiát és Amászát, Jeter fiát. Úgy gyilkolta meg őket békeidőben, mintha háború lett volna. Ártatlanok vére fröccsent Jóáb övére és csizmájára!
+{2:6} Te azonban bölcsen járj el, és ne engedd, hogy Jóáb idős korában, békében haljon meg!
+{2:7} Ugyanakkor, bánj jóindulattal a gileádi Barzillaj fiaival! Asztalodnál üljenek, mert segítettek engem, amikor testvéred, Absolon elől menekültem.
+{2:8} Azután itt van még ez a Simei, Gera fia, aki Benjámin törzséből és Bahúrim városából való. Emlékezz rá, hogy Simei milyen súlyos átkokat kiabált rám, amikor Mahanaimba mentem. Amikor visszatértem, elém jött a Jordánhoz, és megesküdtem neki az Örökkévalóra, hogy nem fogom megölni.
+{2:9} Te azonban ne hagyd Simeit büntetlenül. Bölcs vagy, és megtalálod a módját, hogyan büntesd meg. Ne hagyd, hogy békében haljon meg idős korában!”
+{i2:10} Dávid király halála
+{2:10} Azután meghalt Dávid, és csatlakozott őseihez. A Dávid városában temették el.
+{2:11} Összesen negyven évig uralkodott Izráel királyaként: hét évig Hebronban és harminchárom évig Jeruzsálemben.
+{i2:12} Salamon uralma megerősödik
+{2:12} Ezután Salamon ült Dávidnak, apjának trónján, és a királysága nagyon megerősödött.
+{2:13} Ezek után történt, hogy Adónijjá, Haggít fia egyszer felkereste Betsabét, Salamon anyját. Betsabé megkérdezte: „Békés szándékkal jössz?” Adónijjá ezt felelte: „Igen.
+{2:14} Csak mondani szeretnék valamit.” „Akkor mondd!” — biztatta Betsabé.
+{2:15} Adónijjá ekkor belekezdett: „Te magad is tudod, hogy a királyság már az enyém volt, és egész Izráel azt várta, hogy én leszek a király. De azután a királyi hatalom mégis a testvéremé lett — az Örökkévaló akaratából.
+{2:16} Hadd kérjek tőled valamit — kérlek, ne tagadd meg tőlem!” Betsabé ezt válaszolta: „Ki vele, mit kívánsz?”
+{2:17} „Tudom, hogy a te kérésedet Salamon biztosan nem fogja visszautasítani. Kérd meg hát, egyezzen bele, hogy feleségül vegyem a súnémi Abiságot!” — felelte Adónijjá.
+{2:18} „Rendben van, beszélek a királlyal az érdekedben” — ígérte meg Betsabé.
+{2:19} El is ment Salamon királyhoz, aki felállt a trónról, és meghajolt anyja tiszteletére. Majd visszaült trónjára, széket hozatott, és a király anyját a jobbjára ültette.
+{2:20} Betsabé hozzákezdett: „Szeretnék kérni tőled valamit, ne utasíts el!” „Kérj csak nyugodtan anyám, nem fogom megtagadni tőled” — biztatta a király.
+{2:21} „Engedd meg, hogy Adónijjá, a testvéred feleségül vegye a súnémi Abiságot!” — kérte Betsabé.
+{2:22} Erre Salamon kérdéssel válaszolt: „Miért csak a súnémi Abiságot kéred Adónijjának, miért nem mindjárt az egész királyságot?! Bizony, a bátyám, Adónijjá az egész királyságot is meg akarja szerezni Abisággal együtt — akárcsak a támogatói: Ebjátár pap és Jóáb, Cerúja fia.”
+{2:23} Azután Salamon király így folytatta, és megesküdött az Örökkévalóra: „Úgy segítsen engem Isten, hogy ezért Adónijjá az életével fog fizetni!
+{2:24} Esküszöm az Örökkévalóra, aki örökké él, aki megerősített és apám trónjára ültetett, s aki ígérete szerint uralkodói dinasztiát épített nekem, hogy emiatt Adónijjának még ma meg kell halnia!”
+{2:25} Salamon király ekkor parancsolt Benájának, Jójádá fiának, hogy azonnal menjen, és végezze ki Adónijját. Benája pedig végrehajtotta a parancsot.
+{2:26} Azután a király ezt parancsolta Ebjátár papnak: „Megérdemelnéd, hogy kivégeztesselek, mégis megkímélem az életed, mert te hordoztad az Örökkévaló Isten Szövetségládáját apám, Dávid előtt és együtt szenvedtél apámmal a nehéz időkben. Megengedem, hogy hazamenj Anatótba, a birtokodra — de maradj is ott!”
+{2:27} Így fosztotta meg Salamon Ebjátárt a tisztségétől, hogy ne legyen többé az Örökkévaló papja. Ekkor teljesedett be az Örökkévaló szava, amit Silóban mondott Éli pap családjáról.
+{2:28} Jóáb is tudomást szerzett ezekről, és megijedt, mert ő is Adónijját követte — bár korábban nem állt Absolon pártjára. Sietve odamenekült az Örökkévaló Szent Sátorához, és megfogta az oltár szarvát.
+{2:29} Megvitték a hírét Salamonnak, hogy Jóáb elfutott az Örökkévaló Sátorához, és hogy az oltárnál keresett menedéket. A király ekkor utána küldte Benáját, Jójádá fiát ezzel a paranccsal: „Menj, és végezd ki Jóábot!”
+{2:30} Benája oda is ment a Szent Sátorhoz, és szólt Jóábnak: „A király parancsolja, hogy jöjj ki onnan!” De Jóáb azt felelte: „Nem megyek! Itt akarok meghalni.” Benája visszament a királyhoz, és jelentette, amit Jóáb mondott.
+{2:31} A király pedig így válaszolt: „Legyen úgy, ahogy ő mondta: végezd ki ott, ahol van, azután temesd el. Így hárítsd el rólam és apám családjáról az ártatlanok vérét, akiket Jóáb gyilkolt meg.
+{2:32} Így bünteti meg Jóábot gyilkosságaiért az Örökkévaló. Mert apám tudta nélkül fegyverrel meggyilkolt két férfit, akik igazabbak és nemesebbek voltak, mint ő maga: Abnert, Nér fiát, Izráel seregének vezérét és Amászát, Jeter fiát, Júda seregének vezérét.
+{2:33} Halálukért a felelősség és a büntetés szálljon Jóáb fejére és utódaira örökké! Dávidnak, trónjának, családjának és leszármazottjainak pedig az Örökkévaló adjon békességet örökre!”
+{2:34} Akkor Benája, Jójádá fia ismét visszament Jóábhoz, levágta és megölte. Jóábot a saját háza mellett temették el, a pusztában.
+{2:35} A király ezután Benáját nevezte ki Jóáb helyére a hadsereg parancsnokának. Cádók papot pedig főpappá tette Ebjátár helyett.
+{2:36} Majd hívatta Simeit, és ezt parancsolta neki: „Építs házat Jeruzsálemben, költözz oda, és attól kezdve ki ne lépj a városból!
+{2:37} Tudd meg, hogy ha mégis elhagyod a várost, és átléped a Kidron-patakot, meg kell halnod — de ezért csak magadat okolhatod majd.”
+{2:38} Simei így felelt: „Jó, amit mondtál, királyom. Szolgád engedelmeskedik. Úgy teszek, ahogyan uram, a király parancsolta.” Ettől kezdve Simei egy ideig Jeruzsálemben lakott.
+{2:39} Három év elteltével azonban Simeitől megszökött két rabszolgája. Majd hírét hozták Simeinek, hogy a szökevények Ákishoz, Maaká fiához, Gát királyához menekültek.
+{2:40} Akkor Simei felnyergelte a szamarát, elment Gátba, és visszahozta szolgáit Ákis királytól.
+{2:41} Salamonnak jelentették, hogy Simei Jeruzsálemből Gátba ment, és már vissza is tért onnan.
+{2:42} A király hívatta Simeit, és felelősségre vonta: „Emlékszel, hogy megeskettelek az Örökkévalóra, és figyelmeztettelek, hogy amely napon kimész Jeruzsálemből, meg kell halnod! Akkor azt felelted, hogy rendben van, és engedelmeskedni fogsz.
+{2:43} Miért nem tartottad meg az Örökkévalóra tett esküdet, és miért nem engedelmeskedtél parancsomnak?”
+{2:44} Majd még hozzátette: „Tudod te azt nagyon jól, Simei, mennyi gonoszságot követtél el apám, Dávid ellen! Az Örökkévaló most a fejedre zúdítja a saját gonoszságodat.
+{2:45} De Salamon király áldott lesz, és Dávid trónja szilárdan fog állni az Örökkévaló előtt örökké.”
+{2:46} Ezután parancsolt a király Benájának, Jójádá fiának, hogy vigye ki, és végezze ki Simeit. Benája végrehajtotta az ítéletet, Salamon királyi hatalma pedig megerősödött.
+{i3:1} Salamon bölcsességet kér Istentől
+{3:1} Salamon szövetséges viszonyba került a fáraóval, Egyiptom királyával, mivel feleségül vette a fáraó leányát, akit Jeruzsálembe vitt, a Dávid városába. Ekkor Salamon még nem készült el a saját palotájának, az Örökkévaló Templomának és Jeruzsálem kőfalának építésével.
+{3:2} Mivel az Örökkévaló számára még nem épült fel a Templom, az emberek szerte az országban a magaslatokon mutattak be Istennek áldozatokat.
+{3:3} Salamon szerette az Örökkévalót, és apjának, Dávidnak rendelkezései szerint élt és uralkodott, de ő is a magaslatokon mutatta be az Örökkévalónak az égőáldozatokat és illatáldozatokat.
+{3:4} Akkoriban Salamon Gibeonba járt, hogy ott áldozzon az Örökkévalónak, mert ott volt a legfontosabb áldozó-magaslat, és azon egy oltár. Egyszer 1 000 állatot vitt áldozatul az Örökkévalónak Gibeonba.
+{3:5} Azon az éjszakán Gibeonban az Örökkévaló megjelent Salamonnak álmában, és ezt mondta neki: „Kérd el tőlem, amit szeretnél megkapni!”
+{3:6} Salamon így válaszolt: „Örökkévaló, te hűséggel és szeretettel voltál apám, a te szolgád, Dávid iránt, aki hűségesen, igazságosan és tiszta szívvel követett téged. Mindmáig megőrizted iránta való hűséges szereteted, hiszen fiát ültetted trónjára, aki most is uralkodik.
+{3:7} Örökkévaló Isten, te tetted szolgádat királlyá, apám, Dávid helyett — én pedig még olyan vagyok, mint egy kisgyermek: nincs tapasztalatom abban, hogyan kell helyesen uralkodni.
+{3:8} Szolgád a te néped között él, amelyet magadnak választottál — s ez a nép oly hatalmas, hogy meg sem számolható.
+{3:9} Kérlek hát, adj szolgádnak bölcs szívet néped kormányzásához, hogy különbséget tudjak tenni jó és rossz között. Mert e nélkül hogyan kormányozhatná valaki ezt a hatalmas népet?”
+{3:10} Tetszett az Örökkévalónak, hogy Salamon ezt kérte.
+{3:11} Ezért Isten ezt felelte neki: „Jól tetted, hogy ezt kérted, és nem hosszú életet, gazdagságot vagy az ellenségeid vesztét. Mivel bölcsességet kértél ahhoz, hogy helyesen tudj döntést és igazságos ítéletet hozni,
+{3:12} ezért, lásd, teljesítettem kérésedet. Olyan bölcs és értelmes szívet adtam neked, amilyen eddig még senki másnak nem volt, de utánad sem lesz.
+{3:13} Sőt, ráadásul megadtam azt is, amit nem kértél: olyan gazdagságot és dicsőséget, hogy életedben nem lesz hozzád fogható nagy király.
+{3:14} Ha az én utamon jársz, és ha parancsaim és rendelkezéseim szerint élsz, mint ahogyan apád, Dávid is tette, akkor ezeken fölül még életed idejét is meghosszabbítom.”
+{3:15} Salamon felébredt, és akkor értette meg, hogy Isten beszélt vele álmában. Azután Jeruzsálembe ment, és odaállt az Örökkévaló Szövetségládája elé, majd áldozatokat mutatott be az Örökkévalónak: égőáldozatot és hálaáldozatot. Utána nagy lakomát rendezett minden szolgájának.
+{i3:16} Salamon bölcs ítélete
+{3:16} Ezek után történt, hogy egyszer két asszony jött a király elé, ítéletét kérve. Prostituáltak voltak, megálltak a király trónja előtt,
+{3:17} és egyikük előadta az esetet: „Uram, királyom! Mi ketten egy házban lakunk, és mindketten gyermeket vártunk. Én szültem meg hamarabb a gyermekemet,
+{3:18} ő pedig három nappal később. Ezalatt senki más nem volt velünk a házban, csak mi ketten és a csecsemők.
+{3:19} Az egyik éjjel ő ráfeküdt a saját gyermekére, aki emiatt meghalt.
+{3:20} Ő azonban még akkor éjjel felkelt, és amíg én aludtam, kicserélte a két csecsemőt: elvette mellőlem a fiamat, és a saját halott fiát tette a helyére.
+{3:21} Reggel, amikor szoptatni akartam a fiamat, láttam, hogy már nem él! De ahogy alaposabban szemügyre vettem, láttam, hogy ez nem is az én fiam, akit szültem.”
+{3:22} Ekkor azonban a másik asszony közbevágott: „Nem így van! Az eleven gyermek az enyém, és a halott a tiéd!” Az első asszony így válaszolt: „Nem igaz! A te fiad halt meg, az élő pedig az enyém!” Így vitatkoztak a király előtt.
+{3:23} Végül a király ezt mondta: „Szóval mindketten azt állítjátok, hogy az élő gyermek a tiétek, és a másiknak a fia halt meg?”
+{3:24} Akkor a király szólt a szolgáknak, hogy hozzanak egy kardot.
+{3:25} Majd ezt mondta: „Vágjátok ketté az élő gyermeket! Adjátok az egyik felét az egyik asszonynak, a másik felét a másiknak!”
+{3:26} Az élő gyermek anyja ekkor megsajnálta a fiát, és így kiáltott a királynak: „Ó, uram, kérlek, inkább legyen a másik asszonyé a gyermek, csak ne öljék meg!” A másik asszony viszont ezt mondta: „Vágjátok csak ketté, ne legyen se az övé, se az enyém!”
+{3:27} Akkor a király így ítélt: „Ne öljétek meg az élő gyermeket, hanem adjátok az első asszonynak, mert valóban ő az anyja!”
+{3:28} Egész Izráel népe hallott erről az esetről és Salamon ítéletéről. Tisztelettel és félelemmel tekintettek a királyra, mert megértették, hogy Isten bölcsessége lakik benne, és így hozza meg ítéleteit.
+{i4:1} Salamon királysága
+{4:1} Salamon király egész Izráel fölött uralkodott.
+{4:2} A király fontosabb tisztségviselői a következők voltak: Azarjáhú, Cádók fia volt a főpap,
+{4:3} Elihóref és Ahijjá, Sisá fiai voltak a király titkárai, Jehóséfét, Ahilúd fia pedig a krónikaíró.
+{4:4} Benája, Jójádá fia vezette a hadsereget, Cádók és Ebjátár papok voltak,
+{4:5} Azarjáhú, Nátán fia volt a helytartók vezetője, Zábúd pap, Nátán fia volt a király bizalmas barátja és tanácsadója,
+{4:6} Ahisár volt a királyi palota gondviselője, Adónirám, Abdá fia pedig a kényszermunkások felügyelője.
+{4:7} Izráel területe tizenkét tartományra volt felosztva. Ezek élére Salamon egy-egy helytartót nevezett ki, akik a tartományuk terményeiből ellátták élelemmel a király egész udvartartását. Mindegyik tartomány évente egy hónapig gondoskodott a király és udvara ellátásáról.
+{4:8} A tizenkét helytartó a következő volt: Ben Húr volt Efraim dombvidékének a helytartója.
+{4:9} Ben Deker volt Mákac, Saalbim, Bétsemes, Élón és Bét-Hánán helytartója.
+{4:10} Ben Heszed volt Arubbót, Szókó és Héfer helytartója.
+{4:11} Ben Abinádáb volt Dór dombvidékének helytartója. Ő vette feleségül Salamon egyik leányát, Táfatot.
+{4:12} Baaná, Ahilúd fia volt a helytartó ezen a területen: Taanak, Meggidó; egész Bétseán, Cáretán és Jezréel mellett; azután Bétseántól egészen Ábél-Mehóláig és Jokmoámig.
+{4:13} Ben Geber volt a helytartó a gileádi Rámótban, azután Jáirnak, Manassé fiának gileádi sátorfalvaiban és a básáni Argób vidékén lévő 60 városban, amelyeket erős kőfalak vettek körül és amelyeknek kapui bronzból készült zárakkal voltak megerősítve.
+{4:14} Ahinádáb, Iddó fia Mahanáimban volt helytartó,
+{4:15} Naftáliban pedig Ahimaac, aki Salamon egyik leányát, Boszmatot vette feleségül.
+{4:16} Baaná, Húsaj fia Ásérban és Álótban,
+{4:17} Jehósáfát, Párúah fia Issakárban,
+{4:18} Simei, Élá fia Benjáminban volt a helytartó.
+{4:19} Geber, Úri fia volt a helytartó Gileádban, amely korábban Szihónnak, az emóriak királyának és Ógnak, Básán királyának az országa volt. Geber volt ennek az egész tartománynak a helytartója.
+{4:20} Júdának és Izráelnek Salamon idejében olyan rengeteg lakosa volt, mint a homokszemek a tengerparton. Mind boldogan éltek: ettek, ittak, örvendeztek.
+{4:21} Salamon királyi uralma kiterjedt az Eufrátesz folyótól nyugatra a filiszteusok földjéig és Egyiptom határáig minden királyságra. Ezeknek az országoknak a királyai rendszeresen adót fizettek Salamonnak, és egész életükben szolgálták őt.
+{4:22} A királyi udvar ellátására minden nap a következőket szállították: 30 kór finomliszt, 60 kór kenyérliszt,
+{4:23} 10 hizlalt szarvasmarha, 20 legelőn tartott szarvasmarha, 100 juh, ezenkívül szarvasok, gazellák, őzek és hizlalt szárnyasok.
+{4:24} Salamon király uralkodott az Eufrátesz folyótól nyugatra: Tifszahtól Gázáig minden ország fölött, a szomszédos királyságokkal pedig békében élt.
+{4:25} Júda és Izráel népe Salamon uralkodás idején Dántól Beér-Sebáig biztonságban, nyugalomban és békességben élt, mindenki a saját birtokán, a saját szőlője és fügefája alatt.
+{4:26} Salamonnak igen sok harci szekere volt. Ezeket és a hozzájuk tartozó lovakat 4 000 istállóban tartották. A harci szekereken 12 000 harcos teljesített szolgálatot.
+{4:27} Minden hónapban a soron következő helytartó gondoskodott a királyi udvar és a király vendégeinek bőséges ellátásáról — nem is volt hiányuk semmiben.
+{4:28} Ugyancsak a helytartók látták el takarmánnyal a lovas katonák és a harci szekerek lovait: árpát és szalmát szállítottak rendszeresen szolgálatuk rendje szerint.
+{i4:29} Salamon bölcsessége
+{4:29} Isten rendkívüli bölcsességet és értelmet adott Salamonnak, és elméjének befogadóképességét pedig szerfölött kiszélesítette.
+{4:30} Ezért Salamon bölcsebb volt mind a keleti országok, mind Egyiptom összes bölcseinél.
+{4:31} Minden embernél bölcsebb volt, még az ezráhi Étánnál is; még Máhól fiainál is: Hámánnál, Kalkólnál és Dardánál. Ezért híre-neve minden nép között elterjedt.
+{4:32} Salamon 3 000 példabeszédet és 1 005 éneket szerzett.
+{4:33} Igen sok dologról szólt: növényekről — a cédrusfáktól kezdve, amelyek a Libanon-hegységben nőnek, az izsópig, amely a falak réseiből is kinő — , meg mindenféle vadállatokról, madarakról, hüllőkről, rovarokról és halakról.
+{4:34} El is jöttek az emberek minden nép közül, hogy Salamon bölcsességét hallják. Még a királyok közül is eljöttek, akikhez Salamon bölcsességének híre eljutott.
+{i5:1} Előkészületek a Templom építéséhez
+{5:1} Hírám, Tírusz királya megtudta, hogy Salamont királlyá tették, és hogy így apja, Dávid helyén most már Salamon uralkodik. Ezért elküldte a követeit Salamonhoz, merthogy korábban is mindig jó barátságban volt Dávid királlyal.
+{5:2} Salamon pedig ezt üzente Hírámnak:
+{5:3} „Hírám király, te tudod, hogy apám, Dávid király nem építhetett Istene, az Örökkévaló nevének házat, mert minden oldalról háborúkkal volt elfoglalva, egészen addig, amíg az Örökkévaló Dávid hatalma alá nem kényszerítette az ellenségeit.
+{5:4} Most azonban Istenem, az Örökkévaló mindenfelől békességet és nyugalmat adott nekem és népemnek. Sem ellenség, sem veszély nem fenyeget bennünket.
+{5:5} Ezért elhatároztam, hogy Istenem, az Örökkévaló nevének templomot építek. Mert ezt mondta az Örökkévaló apámnak, Dávidnak: »A fiad, akit utánad a trónodra ültetek, ő fog majd házat építeni nevemnek.«
+{5:6} Ezért hát, Hírám király, parancsold meg szolgáidnak, hogy vágjanak ki cédrusfákat számomra a Libanon-hegységben! Szolgáim együtt fognak dolgozni a te szolgáiddal, és kívánságod szerint megfizetem munkájukat, hiszen tudod, hogy Izráelben nincsenek olyan gyakorlott favágók, mint a szidóniak között.”
+{5:7} Hírám nagyon megörült Salamon üzenetének, és ezt mondta: „Áldott legyen ma az Örökkévaló, aki Dávidnak ilyen bölcs fiút adott, hogy e nagy népen uralkodjon!”
+{5:8} Salamonnak pedig ezt üzente: „Meghallgattam és teljesítem kérésed: küldök neked cédrus- és jegenyefenyő-törzseket.
+{5:9} Szolgáim majd kivágják a fákat, leviszik a fatörzseket a tengerhez, ahol tutajokat készítenek belőlük, és elszállítják azokat a tengeren abba a kikötőbe, amelybe óhajtod. Ott majd szétszedik a tutajokat, te pedig szállíttasd el a fatörzseket. Viszonzásul annyit kérek, hogy gondoskodj egész udvartartásom élelmezéséről!”
+{5:10} Így is történt: Hírám szállított Salamonnak annyi cédrus- és jegenyefenyő-gerendát, amennyire szüksége volt,
+{5:11} Salamon viszont évről-évre szállított 20 000 kór búzát és 20 000 bat tiszta olívaolajat Hírám udvarának az ellátására.
+{5:12} Az Örökkévaló tehát — ígérete szerint — bölcsességet adott Salamonnak. Hírám és Salamon békességben éltek egymás szomszédságában, sőt, szövetséget is kötöttek.
+{5:13} Salamon király kijelölt Izráelből 30 000 férfit, akiket arra rendelt, hogy Hírám király szolgáinak segítsenek a Libanon-hegységben. Három csoportra osztotta őket, mindegyikbe 10
+{5:14} 000 munkás tartozott. A csoportok felváltva dolgoztak egy-egy hónapig a Libanon hegyein, majd hazatértek, és két hónapig otthon tartózkodtak. Ezeknek a vezetője Adónirám volt.
+{5:15} Rajtuk kívül 3 300 munkavezető irányításával 70 000 munkás végezte a
+{5:16} teherhordást, 80 000 pedig a kőbányákban fejtette a követ Júda hegyei között.
+{5:17} A király parancsára a kőfaragók hatalmas méretű és nagyon értékes kőtömböket fejtettek és faragtak ki. Ezekből készült a Templom alapja.
+{5:18} Salamon építőmunkásai, Hírám építőmunkásai, meg a gebáli munkások együtt készítették elő ezeket a kőtömböket és a fagerendákat az Örökkévaló Temploma számára.
+{i6:1} Salamon felépíti a Templomot
+{6:1} Salamon király, uralkodásának negyedik évében, Ziv hónapban — ez a második hónap — hozzákezdett az Örökkévaló házának építéséhez. Ez 480 évvel azután történt, hogy Izráel népe kivonult Egyiptom földjéről.
+{6:2} A Templom épülete, amelyet Salamon az Örökkévalónak épített, 60 könyök hosszú, 20 könyök széles és 30 könyök magas volt.
+{6:3} Az előcsarnok a főépület szélességének megfelelően 20 könyök széles volt, és 10 könyök mélységben csatlakozott a főépület tömbjéhez.
+{6:4} A Templom falán ablaknyílások voltak, amelyek kívül szélesebbek voltak, mint belül.
+{6:5} Az épületet három emelet magasan szobák egész sora vette körül, mind a szentély, mind a szentek szentje külső fala mentén.
+{6:6} A Templom fala fölfelé haladva lépcsőzetesen kialakítva egyre keskenyebbre épült. Ezekre a lépcsőkre támaszkodtak a szobák padlóját hordozó gerendák, amelyek azonban nem nyúltak bele a Templom falába. Így a magasabban fekvő szobák tágasabbak lettek, mint az alattuk lévők. A földszinti szobák szélessége öt könyök, az első emeleti szobáké hat könyök, a második emeletieké pedig hét könyök lett.
+{6:7} A kőfaragók az építőköveket pontosan a megadott méretre faragták a kőbányákban, ezért a Templom építésekor már nem volt szükség kalapácsra, vésőre vagy egyéb vasszerszámokra. Ezért nem is járt nagy zajjal az építés.
+{6:8} A fal melletti szobák bejárata a Templom déli oldalán nyílott. Innen lehetett bemenni a földszinti szobákba. A bejárattól lépcső vezetett fel az első emeletre, onnan pedig tovább a másodikra.
+{6:9} Miután Salamon felépítette a Templom falait, az egész épületet cédrusfa gerendákkal és deszkákkal fedte be.
+{6:10} Azután felépítették az épületet körülvevő szobák sorait és emeleteit is, amelyek cédrusfa gerendákkal kapcsolódtak a főépülethez. Mind a három szinten öt könyök volt a szobák magassága.
+{6:11} Azután az Örökkévaló ezt mondta Salamonnak:
+{6:12} „A Templomra nézve, amelyet építesz, ezt mondom neked: ha rendelkezéseim szerint élsz, ha véghezviszed határozataimat és engedelmeskedsz parancsaimnak, akkor én is beteljesítem apádnak, Dávidnak tett ígéretemet:
+{6:13} Izráel gyermekei között fogok lakni, és nem hagyom el népemet, Izráelt.”
+{6:14} Salamon tehát felépítette a Templom épületét. Ezután annak belső berendezését készítette el.
+{6:15} Belülről a falakat a padlótól a mennyezetig mindenhol cédrusdeszkával, a kőpadlót pedig ciprusdeszkával borította be.
+{6:16} A hátsó faltól 20 könyök távolságra cédrusdeszkából falat emelt a padlótól a mennyezetig. Ez választotta el a mögötte lévő legszentebb részt, vagyis a Szentek Szentjét az előtte lévő Szentélytől,
+{6:17} amelynek hossza a Templom első faláig 40 könyök volt.
+{6:18} A Templom egész belseje cédrusfa burkolatot kapott, amelyet faragásokkal díszítettek: kinyílt virágokat és gömb alakú díszeket faragtak rá. A faburkolat mindent befedett, az alatta lévő kő sehol sem látszott ki.
+{6:19} A Templom legbelső része volt a Szentek Szentje, itt helyezték el az Örökkévaló Szövetségládáját.
+{6:20} A Szentek Szentjének szélessége, magassága és hosszúsága egyaránt 20 könyök volt. Ezt belülről mindenhol színarannyal borították be. A Szentek Szentje előtt állt a füstölő-oltár, amely cédrusfából készült, de ezt is beborították arannyal.
+{6:21} Az egész Templom belseje színarannyal volt
+{6:22} borítva. A Szentek Szentje előtt aranyláncok húzódtak.
+{6:23} Készítettek két szobrot olajfából, amelyek kerubokat ábrázoltak, és a Szentek Szentjében helyezték
+{6:24} el őket. A két, egyenként 10 könyök magas szobor egyforma volt. Mindegyiknek
+{6:25} két — egyenként 5 könyök hosszú — szárnya volt, amelyeket kiterjesztve tartottak.
+{6:26} Így az egyik szárnyuk végétől a másik szárnyuk végéig éppen 10 könyök volt a távolság.
+{6:27} A két kerub-szobor a Szentek Szentjében állt egymás mellett. Az oldalfal irányába kiterjesztett szárnyaik éppen érintették a falat, a másik két szárnyuk pedig középen összeért.
+{6:28} Mindkét szobrot arannyal borították be.
+{6:29} A Templom belső falait — a Szentélyben és a Szentek Szentjében egyaránt — faragásokkal díszítették, amelyek kerubokat, pálmafákat és kinyílt virágokat ábrázoltak. Ezek a díszítések körös-körül futottak a falakon.
+{6:30} A kőpadlót az egész Templomban — a Szentélyben és a Szentek Szentjében egyaránt — beborították arannyal.
+{6:31} A Szentélyt és a Szentek Szentjét olajfából készített kétszárnyú ajtó választotta el egymástól, amelynek kerete ötszögletű volt.
+{6:32} Az ajtó két szárnyát kerubokat, pálmafákat és kinyílt virágokat ábrázoló faragásokkal díszítették, majd az ajtó egész felszínét beborították arannyal.
+{6:33} A Szentély bejáratánál is ajtó állt, de ennek formája négyszögletű volt, az ajtófélfák
+{6:34} olajfából, maguk az ajtószárnyak pedig ciprusfából készültek. Mindkét ajtószárny két-két forgatható részből állt.
+{6:35} Ezt az ajtót is kerubokat, pálmafákat és kinyílt virágokat ábrázoló faragásokkal díszítették, majd az egész felszínét — még a faragásokat is — egyenletesen bevonták arannyal.
+{6:36} Ezután a Templom előtti belső udvart építették fel. Fallal vették körül, amely váltakozva három sor faragott kőből, majd egy sor cédrusgerendából épült.
+{6:37} Salamon király uralkodásának negyedik évében, Ziv hónapban kezdtek hozzá a Templom építéséhez: ekkor helyezték el az alapköveit. Hét teljes évig folyt az építkezés: a
+{6:38} tizenegyedik év nyolcadik hónapjában, Búl hónapban fejezték be a munkálatokat, ekkorra az egész épület és annak részei mind elkészültek — pontosan a tervek szerint.
+{i7:1} Salamon palotája
+{7:1} Salamon felépítette a maga palotáját is — ez tizenhárom év alatt készült el teljesen.
+{7:2} Épített egy nagy épületet, amelynek hossza 100, szélessége 50, magassága 30 könyök volt — ezt „Libanoni erdő házának” nevezték. Az épület négy sor cédrusoszlopon állt, amelyeken cédrusgerendák nyugodtak.
+{7:3} A gerendákon cédrusfa pallók alkották a mennyezetet. Három sorban összesen 45 gerenda szolgált az oszlopok közötti tér áthidalására. Minden sorban 15 gerenda volt.
+{7:4} Az épület oldalfalain, három szinten egymás fölött keretezett ablakok sora nyílott. A két átellenes oldalon az ablakok éppen egymással szemben helyezkedtek el.
+{7:5} Minden ajtókeret formája négyszögű volt. Az épület két végén három-három kapu nyílott.
+{7:6} Ezután Salamon felépítette az oszlopcsarnokot is, amelynek hossza 50, szélessége 30 könyök volt. Ez elé pedig fedett oszlopos előcsarnokot készített.
+{7:7} Azután a tróntermet építtette meg, amelyet cédrusfával burkolt a padlótól a mennyezetig. Ezt így nevezték: „Ítélet Terme” — mert Salamon király itt tartott ítéletet alattvalói fölött.
+{7:8} Az Ítélet Terme mögötti udvarban épült a király saját palotája, amelyben Salamon lakosztálya volt. Hasonló palotát épített Salamon a fáraó leánya számára is, akit feleségül vett. A király és a királynő palotái az Ítélet Terméhez hasonlóan készültek.
+{7:9} Mindezek az épületek nagyon értékes kőtömbökből épültek, amelyeket még a kőbányában fűrésszel minden oldalról méretre vágtak. A falak az alapjuktól a tetejükig ilyen kövekből voltak rakva. Az udvarokat keretező falak is hasonló módon épültek.
+{7:10} A falak alapja 10, illetve 8 könyök hosszú értékes faragott kőtömbökből készült.
+{7:11} Ezekre kerültek a következő rétegek, szintén hasonlóan méretre vágott kövekből és cédrusgerendákból.
+{7:12} A palota udvarát, a Templom belső udvarát és az oszlopcsarnok udvarát falak vették körül, amelyeket hasonló módon építettek: váltakozva három sor kőtömb és egy sor cédrusgerenda alkotta azokat.
+{i7:13} Jákin és Boáz oszlopa
+{7:13} Ezután Salamon Tíruszból hívott egy mesterembert, akit Hírámnak neveztek,
+{7:14} s akinek anyja Izráelből származott, Naftáli törzséből, apja pedig bronzműves mester volt Tíruszban. Hírám szintén kitűnő mesterember volt, bölcs és értelmes, aki mindenféle bronztárgyat el tudott készíteni. Tehát eljött Salamonhoz, és mindent elkészített, amit a király kívánt.
+{7:15} Bronzból öntött két egyforma oszlopot, amelyeknek magassága 18, a kerülete pedig 12 könyök volt. Az oszlopok üregesek voltak, a faluk vastagsága pedig tenyérnyi.
+{7:16} Az oszlopok tetejére egy-egy oszlopfőt illesztett Hírám, amely szintén bronzból készült, és 5 könyök magasságú volt.
+{7:17} Majd az oszlopfőket láncokból álló hálóval borította, azokra pedig két
+{7:18} sorban 200 bronzgömböt fűzött fel, amelyeknek formája a gránátalma termését
+{7:19} utánozta. Mindegyik oszlopfőt körös-körül 200 ilyen bronz gránátalma díszített. Az
+{7:20} oszlopfők 4 könyök magasak voltak, és formájuk a fehér liliom virágára hasonlított.
+{7:21} A két oszlopot a Templom oszlopcsarnoka előtt állították fel, egyiket a bejárattól jobbra, a másikat balra. A jobb oldali oszlopot „Jákin”-nak nevezték, a másikat „Boáz”-nak hívták.
+{7:22} Az oszlopfők formája liliom alakú volt. Így fejezte be Hírám az oszlopok készítését.
+{i7:23} A Templom egyéb fölszerelései
+{7:23} Azután Hírám készített egy nagyméretű víztartó medencét, amely kör alakú volt, és egy darabban öntött bronzból állt. Ennek átmérője 10, magassága 5, kerülete pedig 30 könyök volt.
+{7:24} A medence pereme alatt két sor gömb futott körbe, egy könyöknyi távolságra 10 gömb jutott. Ezeket a gömböket a medencével egy darabban öntötték.
+{7:25} Tizenkét bika formájú bronzfigura tartotta a hátán a medencét. A bikák hármasával álltak egymás mellett. Csoportjaik északra, nyugatra, délre, illetve keletre néztek — hátsó részük pedig a medence alatt, belül volt.
+{7:26} A medencébe 2 000 bat víz fért. Falának vastagsága tenyérnyi volt, a pereme pedig kifelé hajlott, mint a fehér liliom virága, vagy mint a pohár pereme.
+{7:27} Tíz egyforma, négyszögletes mosdóállványt is készített bronzból. Oldaluk 4, a magasságuk 3 könyök volt.
+{7:28} Az állványok oldallapokból és keretből álltak, amelyeket oroszlánok, bikák
+{7:29} és kerubok figurái díszítettek, alattuk és fölöttük pedig virágfüzér-mintázat húzódott.
+{7:30} Mindegyik állványnak négy kereke volt, amelyeket két tengely kapcsolt össze. Ezek is öntött bronzból készültek. Az állvány négy sarkán virág formájú támasztékok tartották a víztartályt. A támasztékokat egy darabban öntötték ki.
+{7:31} A tartályon fölül egy könyök magasságban perem húzódott, amelyet domborművű minták díszítettek. Ez a perem négyszögletes volt, nem kerek. A tartály fölső nyílásának átmérője másfél könyök volt.
+{7:32} Az állványok kerekei az oldalak alatt helyezkedtek el, a tengelyeket pedig az állványhoz erősítették. A kerekek átmérője másfél könyök volt,
+{7:33} és a harci szekerek kerekeihez hasonlítottak. Úgy is készítették el minden részüket: a tengelyeket, az abroncsokat, a küllőket és a kerékagyakat is bronzból öntötték.
+{7:34} Az állványok négy sarkán egy-egy támaszték volt, amelyeket az állvánnyal együtt öntöttek, egy darabban.
+{7:35} Az állvány fölső részén fél könyök magas bronzcsík vette körül a tartályt — ezt is egy darabban öntötték az állvány többi részével.
+{7:36} Az egész állványra — ahol csak hely volt rá — Hírám díszítéseket vésett, amelyek kerubokat, oroszlánokat és pálmafákat ábrázoltak. A figurákat virágfüzérek keretezték.
+{7:37} Hírám mind a tíz mosdóállványt ugyanabban a formában öntötte ki, ezért azok mind méretükre, mind díszítésükre nézve teljesen egyformák lettek.
+{7:38} Azután készített tíz egyforma mosdómedencét ugyancsak bronzból öntve, amelyeket a tíz tartóállványra helyezett. Egy-egy medence átmérője 4 könyök volt, és 40 bat víz fért bele.
+{7:39} Az állványra helyezett mosdómedencéket a Templom udvarában, az épület előtt, a bejárattól jobbra és balra helyezték el, mindkét oldalon ötöt-ötöt. A nagyméretű medence a Templom délkeleti sarka mellé került.
+{7:40} Ezen kívül Hírám készített még bronzból üstöket, kis lapátokat és edényeket is. Ezzel befejezte azokat a
+{7:41} munkákat, amelyeknek elvégzésével őt Salamon király megbízta. Ezeket a bronztárgyakat készítette Hírám az Örökkévaló Temploma számára:
+{7:42} 2 nagy oszlop, 2 liliom alakú oszlopfő, 2 háló, amely az oszlopfőket borította, 400 gránátalma formájú
+{7:43} dísz, amelyek két sorban a hálókon függtek, 10 mosdómedence, 10 állvány a mosdómedencék számára, 1 nagy
+{7:44} medence, 12 bika-szobor, amelyek a medencét tartották, továbbá számos üst, kisebb lapát és edény a Templomnál
+{7:45} végzendő papi szolgálathoz. Hírám mindezeket annak megfelelően készítette el fényesre csiszolt bronzból, ahogyan azt Salamon király megrendelte tőle.
+{7:46} Salamon király nem mérette meg, hogy mindezekhez mennyi bronzot használtak föl, mivel olyan nagy mennyiségről volt szó. A király
+{7:47} rendelkezése szerint ezeket a bronztárgyakat Szukkót és Cáretán városok között, a Jordán folyó mellett öntötték ki, tömör agyagtalajba vájt formákban.
+{7:48} Salamon király elkészíttette a Templom fölszereléséhez a következő aranytárgyakat is: 1 füstölő-oltár, 1 asztal — a szent kenyerek számára, 10
+{7:49} színarany mécstartó (ezek közül 5 a Szentély déli, 5 pedig az északi oldalához került), rajtuk az arany virágok és mécsesek,
+{7:50} ezenkívül a koppantók, színarany tálak, ollók a mécsesekhez, edények, kanalak, parázstartó serpenyők, színarany sarokpántok a Szentély kapujához és a Szentek Szentjének ajtószárnyaihoz.
+{7:51} Így hát Salamon király sikeresen befejezte az Örökkévaló Templomával kapcsolatos összes munkát. Azután pedig bevitte a Templom kincseskamráiba azokat az ezüst-, arany- és egyéb tárgyakat, amelyeket még apja, Dávid király gyűjtött és szentelt az Örökkévaló Temploma számára.
+{i8:1} A Szövetségládát a Templomba viszik
+{8:1} Ezután Salamon összehívta Jeruzsálembe Izráel vezetőit, a törzsek fejedelmeit és a nemzetségfőket, hogy Dávid városából, vagyis Sionból felvigyék a Templomba az Örökkévaló Szövetségládáját.
+{8:2} Tehát a hetedik, vagyis az Étánim hónapban összegyűlt Izráelből minden férfi Salamon királyhoz az ünnepre.
+{8:3} Amikor Izráel összes vezetői együtt voltak, a papok a rudak segítségével felemelték a Szövetségládát,
+{8:4} és felvitték a Templomba. Ugyanakkor felvitték oda a papok és léviták a Találkozás Sátorát és az összes szent eszközt is, amely addig a sátorban volt.
+{8:5} Salamon király és Izráel egész közössége, amely a király hívására összegyűlt a Szövetségláda előtt, juhokat és marhákat áldozott Istennek. Olyan sok állatot feláldoztak, hogy meg sem lehetett számolni őket.
+{8:6} Azután a papok bevitték az Örökkévaló Szövetségládáját a helyére, a Szentek Szentjébe, a Templom legbelső részébe, és elhelyezték a kerubok szárnyai alatt.
+{8:7} A kerubok kiterjesztett szárnyai betakarták a Szövetségládát és annak rúdjait.
+{8:8} A Szövetségláda rúdjai olyan hosszúak voltak, hogy a rudak vége látható volt a Szentélyből, de a Templomon kívülről már nem látszottak. Ezek a rudak a mai napig is ott vannak.
+{8:9} A Szövetségládában nem volt más, csak az a két kőtábla, amelyet Mózes helyezett el abban még a Hóreb-hegynél, amikor az Örökkévaló szövetséget kötött Izráel népével, miután Egyiptomból kivonultak.
+{8:10} Amikor a papok kijöttek a Szentélyből, felhő töltötte be az Örökkévaló Templomát.
+{8:11} A papok nem tudtak a helyükre állni, és nem végezhették a szolgálatukat, mert az Örökkévaló dicsősége betöltötte a Templomot.
+{i8:12} Salamon beszéde
+{8:12} Akkor Salamon király megszólalt: „Az Örökkévaló teremtette a Napot, hogy világítson az égen, de ő maga sűrű felhőben lakik.
+{8:13} Örökkévaló, dicsőséges házat építettem neked, helyet készítettem számodra, hogy ott lakjál örökre!”
+{8:14} Ezután a király megfordult, és megáldotta Izráel egész közösségét, miközben mindenki állva hallgatta a király szavait.
+{8:15} Ő pedig ezt mondta: „Áldott legyen az Örökkévaló, Izráel Istene, aki most beteljesítette hatalmával, amit apámnak, Dávidnak megígért. Mert ezt mondta neki:
+{8:16} »Én hoztam ki népemet, Izráelt Egyiptom földjéről, de mindmáig nem választottam egyetlen várost sem Izráel törzsei közül, hogy ott építsenek nekem házat, amelyben nevem lakjon, és nem választottam egy férfit sem népem, Izráel vezetőjéül. De most Jeruzsálemet választom, hogy ebben a városban építsenek házat a nevemnek, és Dávidot választom, hogy uralkodjon népem, Izráel fölött.«
+{8:17} Apám, Dávid elhatározta, hogy Izráel Istenének, az Örökkévaló nevének Templomot épít,
+{8:18} de az Örökkévaló ezt mondta neki: »Látom, elhatároztad, hogy házat építesz a nevemnek — és ezt jól gondoltad!
+{8:19} Mégsem te fogod felépíteni ezt a házat, hanem a fiad, aki még csak ezután fog megszületni. Ő fogja felépíteni ezt a házat a nevemnek.«
+{8:20} Az Örökkévaló beteljesítette ígéretét, amelyet mondott, mert valóban apám, Dávid helyére léptem, Izráel trónjára ültem — ahogy az Örökkévaló megígérte — , és felépítettem a Templomot az Örökkévaló, Izráel Istene nevének.
+{8:21} Elhelyeztem ott a Szövetségládát, amelyben az Örökkévaló Szövetsége van, amelyet őseinkkel kötött, amikor kiszabadította őket Egyiptomból.”
+{i8:22} Salamon imádsága
+{8:22} Ezután Salamon az Örökkévaló oltára elé állt, Izráel egész összegyűlt népével szemben, és karját az ég felé tárva
+{8:23} így imádkozott: „Ó Örökkévaló, Izráel Istene! Nincs hozzád fogható isten sem égen, sem földön! Te megtartod a szövetséget, amelyet szolgáiddal kötöttél, és hűséges szereteted állandó marad azok iránt, akik teljes szívvel-lélekkel járnak jelenlétedben.
+{8:24} Megtartottad, amit szolgádnak, Dávidnak, apámnak megígértél. Amit mondtál neki, azt hatalmaddal a mai napon be is teljesítetted.
+{8:25} Most hát, Örökkévaló, Izráel Istene tartsd meg, és teljesítsd be a többi ígéretedet is, amelyeket szolgádnak, Dávidnak, apámnak ígértél, amikor azt mondtad: »Mindörökké valamelyik férfi leszármazottad fog a szemem előtt Izráel trónján ülni királyként. De csak akkor, ha fiaid is ügyelnek útjukra, és jelenlétemben élnek, ahogyan te a jelenlétemben élsz.«
+{8:26} Most hát, Ó Örökkévaló, Izráel Istene, teljesítsd be, amit szolgádnak, Dávidnak — apámnak — ígértél!
+{8:27} De hogyan is lakhatna Isten a Földön, az emberek között?! Hiszen téged, Uram, az egész Menny, még a legmagasabb Menny sem tud magába fogadni! Mennyivel kevésbé ez a ház, amelyet építettem!
+{8:28} Mégis hallgasd meg, kérlek, szolgád imádságát és könyörgését! Istenem, Örökkévaló, hallgass meg engem, szolgádat, mikor ma hozzád kiáltok és hozzád imádkozom!
+{8:29} Legyen ez a ház éjjel-nappal szüntelen szemed előtt! Figyelj rá, hiszen te mondtad, hogy ide helyezed nevedet! Hallgasd meg szolgád, amikor e Templom felé fordulva hozzád imádkozik!
+{8:30} Hallgasd meg szolgád és néped, Izráel imádságát a jövőben is, amikor majd e Templom felé fordulva hozzád imádkoznak! Hallgasd meg a Mennyből, lakóhelyedről őket, és amikor elfogadod imádságunkat, bocsáss meg nekünk!
+{8:31} Amikor valaki vétkezik társa ellen, és ide áll oltárod elé, és megesküszik,
+{8:32} akkor hallgasd meg őt a Mennyből, és ítéld meg szolgádat: a bűnösnek fizess meg tettei szerint, az ártatlannak pedig szolgáltass igazságot, és mentsd fel a vád alól.
+{8:33} Amikor néped, Izráel vereséget szenved ellenségeitől, mert vétkezett ellened, de azután visszatér hozzád, és megvallja nevedet, imádkozik és könyörög előtted ebben a házban,
+{8:34} akkor hallgasd meg népedet a Mennyből, bocsásd meg bűneit, és hozd haza őket a földre, amelyet őseiknek adtál.
+{8:35} Amikor bezárod az eget, hogy ne essen eső, mert néped vétkezett ellened, de azután e Templom felé fordulva imádkoznak hozzád, megvallják nevedet és elfordulnak bűneiktől, mert megfenyítetted őket,
+{8:36} akkor hallgasd meg őket a Mennyből, bocsásd meg szolgáid, egész néped bűneit, és tanítsd őket a jó útra, hogy azon járjanak — és küldj esőt a földedre, amelyet birtokul adtál népednek.
+{8:37} Előfordulhat, hogy éhínség sújtja a földet, vagy halálos járvány pusztítja népedet, vagy vándorsáska, kártékony bogarak, illetve betegségek pusztítják földjeinken a termést, vagy ellenség ostromolja városainkat, vagy más csapás, betegség, vagy egyéb baj zúdul ránk.
+{8:38} Akkor, ha egy ember vagy az egész néped, Izráel kitárt karokkal imádkozik és könyörög e hely felé fordulva — mert mindenki maga tudja, milyen fenyítést kapott és mit szenvedett — ,
+{8:39} akkor hallgasd meg őket a Mennyből, lakóhelyedről, és bocsásd meg vétkeiket, és bánj velük tetteik szerint, hiszen látod a szívüket. Bizony egyedül te tudod, mi van az ember szívében!
+{8:40} Igen, hallgasd meg őket, hogy féljenek és tiszteljenek téged, ameddig csak élnek a földön, amelyet őseinknek adtál.
+{8:41} A nemzetek messze földön is hallani fogják nagy neved, erős karod és hatalmad hírét.
+{8:42} Eljönnek hát az idegen nemzetekhez tartozók is, hogy házad felé fordulva imádkozzanak e helyen.
+{8:43} Akkor hallgasd meg őket is a Mennyből, lakóhelyedről, és add meg nekik mindazt, amit kérnek tőled! Akkor majd a föld minden népe megismeri nevedet, félnek és tisztelnek téged, ahogyan néped, Izráel féli és tiszteli neved. Akkor majd minden nép megtudja, hogy ez az a ház, ahol nevedet segítségül hívják; a ház, amelyet számodra építettem.
+{8:44} Amikor néped hadjáratra indul ellenségei ellen — bárhová küldöd is őket — , és imádkoznak hozzád, Örökkévaló, e város felé fordulva, amelyet magadnak választottál, és e ház felé fordulva, amelyet nevednek építettem,
+{8:45} akkor hallgasd meg a Mennyből imádságukat, és segítsd meg őket!
+{8:46} Ha majd néped vétkezik ellened, Örökkévaló — mert nincs ember, aki soha ne vétkezne — , akkor te haragodban ellenségeik kezébe adod őket, azok pedig fogságba viszik őket a közelbe vagy távolra.
+{8:47} A fogságban azonban feléd fordulnak, és így könyörögnek majd hozzád: »Vétkeztünk, bűnösök vagyunk, gonoszul cselekedtünk!«
+{8:48} Akkor majd ellenségeik földjén, ahová száműzetésbe hurcolták őket, teljes szívvel-lélekkel visszatérnek hozzád, Örökkévaló, és imádkoznak a föld felé fordulva, amelyet őseiknek adtál, a város felé fordulva, amelyet választottál, és e ház felé fordulva, amelyet nevednek építettem.
+{8:49} Kérlek, akkor majd hallgasd meg a Mennyből, lakóhelyedről könyörgésüket, és segítsd meg őket!
+{8:50} Bocsásd meg néped bűneit és gonosz tetteiket, amellyel vétkeztek ellened! Azokat pedig, akik elhurcolták és fogságban tartják őket, indítsd irántuk könyörületességre!
+{8:51} Hiszen ez a te néped, örökséged, akiket te magad szabadítottál ki Egyiptomból, a tüzes vaskemencéből!
+{8:52} Istenem, kérlek, hallgasd meg szolgád könyörgését, és figyelj néped, Izráel imádságaira! Hallgass meg bennünket, amikor hozzád imádkozunk, és segítségül hívunk téged!
+{8:53} Hiszen te választottál ki bennünket a föld összes népe közül, hogy örökségeddé legyünk — ahogy ezt kijelentetted szolgád, Mózes által, amikor kihoztad őseinket Egyiptomból, Ó Uram, Örökkévaló Istenem!”
+{8:54} Így imádkozott Salamon király az Örökkévalóhoz, s ez idő alatt térden állt az oltár előtt, és kezeit az égre emelte. Amikor befejezte az imádságot,
+{8:55} fölállt, és messzire hallható hangon megáldotta Izráel egész közösségét:
+{8:56} „Áldott legyen az Örökkévaló, aki békességet és nyugalmat adott népének, Izráelnek, ahogyan megígérte! Az Örökkévaló sok ígéretet adott, szolgája, Mózes által, s ezeket kivétel nélkül mind megtartotta!
+{8:57} Legyen velünk Istenünk, az Örökkévaló, ahogyan őseinkkel is volt! Ne hagyjon el bennünket, se ne taszítson el minket magától!
+{8:58} Fordítsa magához a szívünket, hogy az ő útjain járjunk, engedelmeskedjünk parancsainak, rendelkezéseinek és határozatainak, amelyeket őseinknek adott!
+{8:59} Ezek a szavak pedig, amelyekkel könyörögtem az Örökkévaló előtt, legyenek éjjel és nappal Istenünk, az Örökkévaló előtt, hogy minden nap jóindulattal tekintsen szolgája és egész népe, Izráel ügyére!
+{8:60} Hadd tudják meg a föld nemzetei mindannyian, hogy az Örökkévaló az egyetlen igaz Isten, és rajta kívül nincs más!
+{8:61} Ti pedig vigyázzatok, hogy szívetek mindig tökéletesen hűséges legyen Istenünk, az Örökkévaló iránt, és járjatok rendelkezései és parancsai szerint úgy, mint ma!”
+{8:62} Azután a király és Izráel egész népe áldozatot mutatott be az Örökkévalónak.
+{8:63} Salamon király 22 000 marhát és 120 000 juhot áldozott fel az Örökkévalónak hálaáldozatul. A király és a nép így szentelte föl az Örökkévaló Templomát.
+{8:64} Ezen a napon szentelte föl a király a Templom épülete előtti udvart is. Az égőáldozatokat, ételáldozatokat és a hálaáldozatok zsíros részeit ebben az udvarban áldozta föl az Örökkévalónak, mert a Templom előtti nagy bronzoltáron ezek az áldozatok már nem fértek el.
+{8:65} Így ünnepelte meg Salamon és Izráel egész népe az ünnepet, amelyre az egész országból nagyon sokan összegyűltek az északi határtól, a hámáti hágótól fogva a déli határig, Egyiptom patakjáig. Az ünnep kétszer hét, vagyis 14 napig tartott.
+{8:66} Amikor az ünnepnapok leteltek, Salamon hazabocsátotta a népet, ők pedig áldották a királyt, majd hálás szívvel és örömmel hazatértek. Mindannyian örültek annak a sok jónak, amit az Örökkévaló tett Dáviddal, szolgájával és az Örökkévaló népével, Izráellel.
+{i9:1} Az Örökkévaló ismét megjelenik Salamonnak
+{9:1} Salamon befejezte az Örökkévaló Templomának és a királyi palotának az építését és berendezését. Sikeresen véghezvitte a többi építkezést is, amelyet eltervezett.
+{9:2} Ezután az Örökkévaló egyik éjjel másodszor is megjelent Salamonnak, mint ahogy Gibeonban is történt.
+{9:3} Ezt mondta: „Salamon, meghallgattam imádságodat, és teljesítettem kérésedet: azáltal, hogy nevem itt lakik mindörökké, megszenteltem ezt a házat, amelyet építettél. Állandóan a szemem előtt fogom tartani ezt a házat, és a szívem itt lesz örökre.
+{9:4} Te pedig, Salamon, állandóan élj a jelenlétemben, mint ahogy apád, Dávid élt, teljes szívvel-lélekkel, igazságosságban és egyenességben! Mindent annak megfelelően vigyél véghez, amint parancsolom neked, és tartsd meg rendelkezéseimet és törvényeimet!
+{9:5} Ha így teszel, akkor megerősítem és állandóvá teszem királyságod trónját, ahogy megígértem apádnak, Dávidnak: »Mindörökké valamelyik férfi leszármazottad lesz Izráel királya.«
+{9:6} De ha te, vagy az utódaid elfordultok tőlem és nem engedelmeskedtek rendelkezéseimnek és parancsaimnak, amelyeket nektek adtam, ha elmentek és más isteneket imádtok és szolgáltok,
+{9:7} akkor gyökerestül kitéplek titeket a földből, amelyet nektek adtam. Akkor ezt a házat, amelyet nevem számára különválasztottam, elhajítom a szemem elől, és többé nem törődöm vele, Izráel pedig figyelmeztető példa és gúnyolódás tárgya lesz a többi népek között.
+{9:8} Bizony, akkor ebből a házból csak egy romhalmaz marad, és mindenki megdöbben rajta, ha elmegy mellette! Ámulva fogják kérdezni: »Miért bánt így az Örökkévaló ezzel az országgal és ezzel a házzal?«
+{9:9} És akkor ezt fogják válaszolni: »Azért, mert ez a nép elhagyta Istenét, az Örökkévalót, aki őseiket kihozta Egyiptomból! Azért, mert más istenekhez ragaszkodtak, azokat imádták és szolgálták! Ezért hozta rájuk az Örökkévaló mindezt a pusztítást és bajt!«”
+{9:10} Húsz évig tartott, amíg Salamon fölépítette az Örökkévaló Templomát és a saját palotáját.
+{9:11} Ezekhez az építkezésekhez Hírám, Tírusz királya szállította a gerendákat cédrusfából és egyéb fenyőfélékből, meg a szükséges aranyat, Salamon kérése szerint. Cserébe Salamon király Hírámnak adott 20 várost Galilea vidékén.
+{9:12} Hírám ezután elindult Tíruszból, hogy megszemlélje ezt a 20 várost, de nem volt megelégedve velük.
+{9:13} Ezért azt mondta Salamonnak: „Ugyan barátom, miféle városokat adtál nekem?” El is nevezte azt a vidéket „Kábúl földjének”. Így hívják azt ma is.
+{9:14} Azután Hírám még további 120 talentum aranyat küldött Salamonnak.
+{i9:15} Salamon egyéb építkezései
+{9:15} Ezeket az építkezéseket folytatta Salamon a kényszermunkásokkal: fölépítette az Örökkévaló Templomát, a saját királyi palotáját, ezenkívül kijavította és megerősítette Jeruzsálemben Milló területét és körös-körül a város kőfalait, meg országa egyéb városait, többek között Hácórt, Meggidót és Gézert.
+{9:16} Ami Gézert illeti, azt azért építette újjá, mert a fáraó korábban megostromolta, elfoglalta és fölégette ezt a várost, a benne lakó kánaániakat pedig megölte. Majd a várost nászajándékul a leányának, Salamon feleségének ajándékozta.
+{9:17} Ezután építette föl Gézert Salamon király. Ezen kívül a következő városokat is megerősítette és kiépítette: Alsó-Béthoront,
+{9:18} Baalátot és Tadmórt, amelyek Júda pusztájában fekszenek,
+{9:19} azután több raktárvárost, meg azokat a városokat, ahol a harci szekereit és a hozzájuk tartozó lovakat tartotta. Amit csak akart, azt Salamon mind fölépítette és megújította: Jeruzsálemben, a Libanon-hegységben és egész birodalmában mindenütt.
+{9:20} Országában éltek olyan nemzetek maradékai is, akik nem tartoztak Izráel közösségéhez: emóriak, hettiták, perizziek, hivviek és jebúsziak.
+{9:21} Azért maradtak meg az őslakosok közül, mert Izráel népe nem tudta kiirtani őket. Ezeknek a nemzeteknek a leszármazottjait Salamon kényszermunkára kötelezte, és ez így van mind a mai napig.
+{9:22} Izráel népe közül azonban Salamon senkit nem szorított kényszermunkára, hanem közülük kerültek ki a királyi tisztviselők, a hadsereg tisztjei, a testőrök és a harci szekerek katonái.
+{9:23} Salamon építkezéseinél összesen 550 felügyelő irányította a munkásokat.
+{9:24} Amikor elkészült az a palota, amelyet Salamon a felesége, a fáraó leánya számára emelt, a király átköltöztette oda feleségét és annak udvartartását a Dávid városából. Ezután építette újjá Salamon a város Milló elnevezésű részét.
+{9:25} Minden évben háromszor Salamon király égőáldozatokat és hálaáldozatokat mutatott be az Örökkévalónak azon az oltáron, amelyet a király épített. Ezen kívül a király tömjént is vitt áldozatul. Amire a Templomban végzett szolgálatokhoz szükség volt, arról mind a király gondoskodott.
+{9:26} Ecjón-Geberben, amely Élót mellett fekszik a Vörös-tenger partján, Edom földjén, Salamon hajókat készíttetett.
+{9:27} Hírám király elküldte embereit, akik gyakorlott hajósok voltak, és ismerték a tengert, hogy Salamon szolgáival együtt induljanak ezekkel a hajókkal a tengeri utakra.
+{9:28} El is mentek Ófirba, és 420 talentum aranyat hoztak onnan Salamonnak.
+{i10:1} Sába királynője meglátogatja Salamont
+{10:1} Sába királynője is hallotta Salamon hírnevét és az Örökkévaló nevét. Ezért útra kelt, hogy Salamont nehéz kérdésekkel próbára tegye.
+{10:2} A királynő nagy kísérettel utazott: sok szolgával és nagy tevekaravánnal, amely drága fűszereket, drágaköveket és rengeteg aranyat szállított. Amikor megérkezett Jeruzsálembe, találkozott Salamonnal, és beszélt vele mindenről, amit a szívében forgatott.
+{10:3} Salamonnak nem esett nehezére válaszolni a kérdéseire: mindegyikre meg tudott felelni.
+{10:4} Sába királynője látta Salamon bölcsességét, megnézte a királyi palotát, amelyet Salamon épített,
+{10:5} látta, milyen ételeket szolgálnak fel a király asztalánál, látta a főembereket a király mellett ülni, elcsodálkozott az ételek és italok felszolgálóin és a ruháikon, látta, amint a király áldozatokat mutat be az Örökkévaló Templomában — mindezek láttán a lélegzete is elakadt az ámulattól.
+{10:6} Majd ezt mondta a királynak: „Amit országomban hallottam a bölcsességedről, tetteidről és mondásaidról, az mind igaznak bizonyult!
+{10:7} De nem akartam elhinni, amíg a saját szememmel meg nem győződtem róla. Bizony, nekem még a felét sem mondták el annak, amit itt láttam. Bölcsességed és gazdagságod fölülmúlta híredet!
+{10:8} Boldogok tisztségviselőid és szolgáid, hogy hallhatják bölcsességedet!
+{10:9} Áldott legyen Istened, az Örökkévaló, aki kedvét leli benned, és Izráel trónjára ültetett! Bizony, szereti az Örökkévaló Izráel népét mindörökké, ezért tett téged Izráel királyává, hogy igazságosan uralkodj és igazságot szolgáltass népednek.”
+{10:10} Sába királynője igen sok ajándékot adott Salamonnak: 120 talentum aranyat, rengeteg illatszert, füstölőszert és drágaköveket. Senki más nem ajándékozott ilyen sok illatszert és füstölőszert Salamonnak, mint a királynő.
+{10:11} Hírám király szolgái, Salamon szolgáival együtt nemcsak aranyat, hanem sok almug fát és drágakövet is hoztak Ófirból.
+{10:12} Salamon ebből oszlopokat készíttetett az Örökkévaló Templomába és a királyi palotába, ezenkívül az énekesek számára hangszereket is: hárfákat és lantokat. Ilyen sok almug fát azóta sem láttak Júdában.
+{10:13} Salamon király is megajándékozta Sába királynőjét mindazzal, amit csak kívánt, vagy kért tőle — azon kívül, amit királyi ajándékul önként adott neki. Ezután Sába királynője szolgáival együtt visszatért országába.
+{i10:14} Salamon gazdagsága
+{10:14} Salamon kincstárába évente 666 talentum arany érkezett,
+{10:15} azon kívül, amit az árusok és a kereskedők befizettek. Arábia királyai és Salamon országának helytartói is rendszeresen hoztak a királynak aranyat.
+{10:16} Salamon készíttetett 200 nagyméretű és 300 kisebb vert arany pajzsot — ezek egyenként 600 sékel, illetve 3
+{10:17} mina aranyból készültek. A pajzsokat a palotának abban a termében helyezte el, amelyet „Libanoni erdő házának” neveztek.
+{10:18} Salamon készíttetett egy nagy királyi trónt, amelyet elefántcsont faragványok díszítettek, és a legfinomabb arannyal vontak be.
+{10:19} Hat lépcső vezetett fel a trónhoz, amelynek kerek háttámlája volt. A trónszék két karfája mellett egy-egy oroszlán szobra állt.
+{10:20} A lépcsőkön jobbról-balról szintén oroszlánszobrok álltak: összesen tizenkettő. Ehhez hasonló trónt nem készítettek azelőtt más királyságban.
+{10:21} Salamon minden ivóedénye aranyból készült, akárcsak a királyi palota „Libanoni erdő házának” az összes eszköze is. A palotában nem használtak ezüsteszközöket, mert Salamon idejében az ezüstöt nem sokra becsülték.
+{10:22} A király minden harmadik évben Hírám király szolgáival együtt hajókat küldött Társisba, ahonnan aranyat, ezüstöt, elefántcsontot, majmokat és pávákat hoztak.
+{10:23} Salamon király gazdagság és bölcsesség tekintetében fölülmúlta a Föld minden más királyát.
+{10:24} Ezért az emberek minden országból igyekeztek Salamont meglátogatni, hogy hallják bölcsességét, amellyel Isten megajándékozta.
+{10:25} Amikor meglátogatták, évről-évre rengeteg ajándékot hoztak: ezüst-, és aranytárgyakat, díszes ruhákat, fegyvereket, drága illatszereket, füstölőszereket, lovakat és öszvéreket.
+{10:26} Salamon hadseregében 1 400 harci szekér és 12 000 ló volt. Ezeket külön városokban — a szekerek városaiban — állomásoztatta, egy részük pedig állandóan a király mellett, Jeruzsálemben teljesített szolgálatot.
+{10:27} Uralkodása idején Jeruzsálemben olyan közönséges lett az ezüst, mint a kő, és annyi volt a cédrusfából készült épület, mint a vadfüge a síkságon.
+{10:28} Salamon kereskedői megszabott áron lovakat vásároltak Egyiptomból és Kevéből.
+{10:29} Vásároltak harci szekereket is Egyiptomból, darabját 600 sékel ezüstért, a hozzá való lovakat pedig 150 sékel ezüstért. Ezeket azután eladták a hettiták és arámok királyainak.
+{i11:1} Salamont sok felesége bálványimádásra viszi
+{11:1} Salamon sok olyan nőt megszeretett, akik nem Izráelből, hanem más népek közül származtak: a fáraó leányát meg a moábiak, az ammoniak, az edomiak, a szidóniak és a hettiták közül való nőket.
+{11:2} Pedig az Örökkévaló megparancsolta Izráel népének: „Ne házasodjatok össze idegen népek fiaival és leányaival, mert az idegen házastársak bizonyosan elfordítják az Örökkévalótól a szíveteket az ő isteneikhez!” Salamon mégis ragaszkodott ezekhez az idegen származású asszonyokhoz, és megszerette őket.
+{11:3} Ezek közül vett magának 700 feleséget — idegen népek uralkodóinak és főembereinek a leányait — , s rajtuk kívül még 300 ágyasa is volt. Bizony, ezek az idegen asszonyok az ő szívét is elfordították az Isten iránti hűségtől.
+{11:4} Amikor Salamon megöregedett, már nem ragaszkodott Istenéhez, az Örökkévalóhoz teljes szívvel, mint ahogyan apja, Dávid király tette. Azért történt ez, mert Salamon szívét az asszonyai elcsábították, és rávették arra, hogy más isteneket tiszteljen és imádjon.
+{11:5} Így Salamon Astóretet, a szidóniak istennőjét és Milkómot az ammoniak utálatos bálványát is tisztelte.
+{11:6} Olyan dolgokat tett Salamon, amelyeket az Örökkévaló súlyos bűnöknek tart. Salamon már nem követte teljes szívvel az Örökkévalót, mint ahogy apja, Dávid tette.
+{11:7} Még áldozóhelyeket is épített Salamon a Jeruzsálem mellett emelkedő hegyen Kemósnak, a moábiak utálatos bálványának, meg Moloknak, az ammoniak szörnyű bálványistenének tiszteletére.
+{11:8} Hasonló áldozóhelyeket épített Salamon az idegen népek közül származó asszonyai számára, akik ott a saját isteneiknek tömjént füstölögtettek és áldozatokat mutattak be.
+{11:9} Salamon tehát nem maradt hűséges Izráel Istenéhez, az Örökkévalóhoz, aki pedig kétszer is megjelent neki. Emiatt az Örökkévaló megharagudott Salamonra.
+{11:10} Bár az Örökkévaló megparancsolta neki, hogy ne imádjon más isteneket, Salamon nem engedelmeskedett neki.
+{11:11} Ezért az Örökkévaló azt mondta Salamonnak: „Mivel ezt tetted, és így megtörted a szövetséget, és nem tartottad meg rendelkezéseimet, amelyeket parancsoltam neked, ezért én is elszakítom tőled királyságodat, és a szolgádnak adom.
+{11:12} Apádra, Dávidra való tekintettel azonban ameddig élsz, ezt nem teszem meg, hanem a királyságot csak a fiad kezéből ragadom ki.
+{11:13} De még tőle sem veszem el az egészet, hanem meghagyok a kezében egyetlen törzset, szolgámra, Dávidra való tekintettel, és Jeruzsálemért, amelyet kiválasztottam.”
+{i11:14} Salamon ellenségei
+{11:14} Az Örökkévaló ellenséget támasztott Salamonnak: Hadadot, aki az edomi királyi családból származott.
+{11:15} Hadad története a következő: Dávid még régebben háborút viselt az edomiak ellen. Jóáb vezetésével Izráel serege
+{11:16} hat hónapig harcolt az edomiakkal, s ezalatt szinte minden férfit megöltek Edom népéből. Azután eltemették a halottakat.
+{11:17} Ekkor történt, hogy Hadadot — aki még kisgyermek volt — apjának szolgái megmentették, és Egyiptomba akartak menekülni vele.
+{11:18} Előbb Midjánba, majd Páránba mentek, ahol még további menekültek is csatlakoztak hozzájuk. Azután az egész edomi csoport Egyiptomba futott, és menedéket kértek a fáraótól, aki befogadta őket az országába, és letelepítette őket. A fáraó lakóházat és földbirtokot adományozott Hadadnak, és gondoskodott az élelmezéséről.
+{11:19} A fáraó jóindulattal volt Hadad iránt, és feleségül adta hozzá a feleségének, Taphenész királynőnek a nővérét.
+{11:20} Ebből a házasságból született Hadad fia, Genubat, akit Taphenész a fáraó udvarában neveltetett fel, a fáraó gyerekeivel együtt.
+{11:21} Amikor Hadad meghallotta, hogy Dávid király elhunyt, és Jóáb, a sereg vezére is meghalt, ezt mondta a fáraónak: „Kérlek, engedd meg, hogy visszatérjek szülőföldemre!”
+{11:22} A fáraó megkérdezte tőle: „Talán hiányt szenvedtél valamiben, hogy haza akarsz menni?” „Nem, uram, mindennel elláttál engem, csupán engedélyedet kérem, hogy visszaköltözhessek a saját országomba.”
+{11:23} Másik ellenséget is támasztott az Örökkévaló Salamonnak: Rezónt, Eljádá fiát, aki urától, Hadadezertől, Cóbá királyától menekült el.
+{11:24} Amikor Dávid király megverte Cóbá hadseregét, Rezón maga köré gyűjtött egy rablócsapatot, és a vezérük lett, majd Damaszkuszban telepedett le, és ott uralkodott.
+{11:25} Ő lett Arám királya, és Salamon egész uralkodása idején ellensége volt Izráelnek. Ő is sok bajt okozott Izráelnek, akárcsak Hadad.
+{11:26} Jeroboám, az efrátai Nebát fia Cerédában élt, anyja, Cerúja özvegyasszony volt. Jeroboám Salamon egyik udvari tisztviselője volt, de föllázadt a király ellen.
+{11:27} Ez pedig így történt: Salamon király építkezései során megerősítette Millót, és Dávid városának falait kijavította.
+{11:28} Jeroboám ezeknél az építési munkáknál dolgozott, de nem kényszermunkás volt, hanem szabad ember. Amikor Salamon látta, hogy ez a fiatalember milyen szorgalmasan végzi a munkáját, kinevezte a József törzseihez tartozó kényszermunkások felügyelőjévé.
+{11:29} Ebben az időben történt, hogy egyszer Jeroboám elment Jeruzsálemből, és útközben találkozott a sílói Ahijjá prófétával, aki éppen egy új köpeny viselt. Nem volt senki más a közelben, csak ők ketten voltak a mezőn.
+{11:30} Ahijjá ekkor fogta a köpenyét, és 12 darabra szakította,
+{11:31} majd ezt mondta Jeroboámnak: „Vegyél el magadnak 10 részt, mert ezt mondja neked az Örökkévaló, Izráel Istene: »Kiszakítom Salamon kezéből a királyságot, és tíz törzset neked adok belőle, Jeroboám.
+{11:32} Egy törzset meghagyok neki, szolgámra, Dávidra való tekintettel, és Jeruzsálemért, amelyet kiválasztottam Izráel törzsei közül.
+{11:33} A többit azonban elveszem Salamontól, mert elfordult tőlem, és más isteneket imádott: Astóretet, a szidóniak istennőjét, Kemóst, a moábiak istenét és Milkómot, az ammoniak istenét. Elveszem tőle, mert azzal ellentétben, ahogy apja, Dávid élt és cselekedett, Salamon nem az én utamon járt: nem azt tette, amit én jónak tartok, és nem engedelmeskedett rendelkezéseimnek és határozataimnak.
+{11:34} Azonban nem veszem ki Salamon kezéből az egész királyságot. Ő uralkodó marad egész életében — így határoztam szolgám, Dávid kedvéért, akit kiválasztottam, mert ő engedelmeskedett parancsaimnak és határozataimnak.
+{11:35} Salamon fiának a kezéből ragadom ki majd az országot, és akkor adok neked tíz törzset belőle.
+{11:36} De egy törzset meghagyok Salamon fiának uralma alatt, hogy szolgámnak, Dávidnak utódai közül maradjon valaki, aki Jeruzsálemben uralkodik — abban a városban, amelyet kiválasztottam, hogy nevem oda helyezzem.
+{11:37} Téged pedig, Jeroboám, fölemellek, és királlyá teszlek Izráel fölött, hogy uralkodj mindenen, amit a szíved kíván.
+{11:38} Ha engedelmeskedsz mindannak, amit parancsolok neked, ha az én utamon jársz, ha azt teszed, amit én jónak látok, és megtartod rendelkezéseimet és parancsaimat, ahogyan szolgám, Dávid tette, akkor veled leszek, és maradandó királyi dinasztiát építek neked, ahogyan Dávidnak is építettem, és neked adom Izráelt.
+{11:39} Így fogom megalázni Dávid utódait amiatt, amit Salamon tett, de nem örökre.«”
+{11:40} Salamon ki akarta végeztetni Jeroboámot, ő azonban Egyiptomba menekült, Sisák fáraóhoz. Ott keresett menedéket, és ott is maradt egészen Salamon haláláig.
+{i11:41} Salamon halála
+{11:41} Salamon többi dolgait, és mindazt, amit tett, meg a bölcsességét följegyezték a Salamon történetének könyvében.
+{11:42} Salamon király negyven esztendeig uralkodott Jeruzsálemben egész Izráel fölött.
+{11:43} Azután meghalt, és eltemették apjának, Dávidnak városában. Fia, Roboám követte a trónon.
+{i12:1} Kettészakad az ország
+{12:1} Egész Izráel összegyűlt Sikem városába, hogy Roboámot királlyá tegyék — tehát Roboám is oda ment.
+{12:2} Jeroboám, Nebát fia még régebben Egyiptomba menekült Salamon király elől. Mikor azonban meghallotta, hogy Roboámot akarják királlyá tenni, hazatért Egyiptomból a saját városába, Cerédába, amely Efraim hegyvidékén található.
+{12:3} A nép ezt mondta Roboám királynak:
+{12:4} „Apád, Salamon király nehéz terheket rakott a vállunkra. Kérünk, könnyítsd meg azokat a terheket és szolgálatokat, amelyekkel apád megterhelt bennünket — akkor szolgálunk téged is!”
+{12:5} Roboám így felelt: „Jöjjetek vissza három nap múlva, akkor választ adok nektek.” Az emberek ekkor elmentek.
+{12:6} Roboám király megkérdezte azokat az idősebb tanácsadókat, akik Salamon idejében szolgálták a királyt: „Mit tanácsoltok, milyen választ adjak a népnek?”
+{12:7} Ők pedig azt mondták: „Ha te most szolgálod a népet, jóindulattal bánsz velük, és kedvesen válaszolsz nekik — akkor ők is szolgálni fognak téged örökké.”
+{12:8} De Roboám király nem fogadta meg a tanácsukat, hanem azokhoz a fiatalokhoz fordult, akik vele együtt nevelkedtek az udvarban, és a szűkebb környezetéhez tartoztak.
+{12:9} Őket is megkérdezte hát: „Mit tanácsoltok, mit válaszoljak a népnek? Azt kérik tőlem, hogy könnyítsem meg terheiket, amelyeket apám rakott a vállukra.”
+{12:10} Az ifjak, akik Roboámmal együtt nőttek fel, így válaszoltak: „Ezt feleld nekik: »Nekem a kisujjam is vastagabb, mint apám dereka!
+{12:11} Ha apám nehéz terheket rakott rátok, én még súlyosabb igát teszek a nyakatokba! Ha ő korbáccsal fenyített titeket, én majd skorpiókkal foglak ostorozni benneteket!«”
+{12:12} Harmadnapon tehát ismét Roboám király elé járult az egész nép, ahogy a király meghagyta nekik.
+{12:13} Akkor Roboám keményen és gorombán válaszolt a kérésükre. Nem fogadta meg, amit az idős tanácsadók javasoltak,
+{12:14} hanem a vele egykorú ifjak tanácsa szerint válaszolt: „Ha apám nehéz terheket rakott rátok, én még súlyosabb igát teszek a nyakatokba! Ha ő korbáccsal fenyített titeket, én majd skorpiókkal foglak ostorozni benneteket!”
+{12:15} Így hát Roboám király nem hallgatott a nép kérésére, hanem elutasította őket. De Istentől volt ez a dolog, mert az Örökkévaló így teljesítette be a szavát, amit a silói Ahijjá által mondott Jeroboámnak, Nebát fiának.
+{12:16} Amikor az egész nép látta, hogy a király nem hallgatta meg kérésüket, hanem elutasította őket, így válaszoltak a királynak: „Ugyan mi közünk van Dávid családjához? Mi közünk nekünk Isai fiához? Térj vissza, ó Izráel! Mindenki a maga sátorába! Dávid fia, te meg uralkodj csak a saját rokonságodon!” S ezzel az egész sokaság szétoszlott, és mindenki hazament.
+{12:17} Ettől kezdve Roboám csak azoknak az izráelieknek maradt a királya, akik Júda városaiban laktak.
+{12:18} Roboám mégis kiküldte Izráel népéhez Hadórámot, aki a királynak járó köteles munkák felügyelője volt. Az izráeliek azonban köveket dobáltak Hadórámra, és megölték. Roboám is alig tudott elmenekülni onnan: harci szekeréhez rohant, és elvágtatott Jeruzsálembe.
+{12:19} Így történt, hogy Izráel népe fellázadt Dávid utódai ellen, és elszakadt tőlük. Így van ez mind a mai napig.
+{12:20} Amikor Izráel törzsei meghallották, hogy Jeroboám hazatért Egyiptomból, követeket küldtek hozzá, és az egész közösség gyűlése elé hívták, majd pedig királlyá tették Izráel törzsei fölött. Dávid családját csak Júda törzse fogadta el továbbra is uralkodóháznak.
+{i12:21} Jeroboám két bika-szobrot állít fel
+{12:21} Amikor Roboám visszaért Jeruzsálembe, összegyűjtötte 180 000 legjobb harcosát Júda és Benjámin törzséből. Hadjáratot akart indítani Izráel törzsei ellen, hogy visszaszerezze fölöttük királyi hatalmát.
+{12:22} Ekkor azonban az Örökkévaló szólt Semajának, az Isten emberének:
+{12:23} „Mondd meg Roboámnak, Salamon fiának, Júda királyának, meg Júda és Benjámin törzsének és mindazoknak, akik Izráel népéből Júdában és Benjáminban laknak:
+{12:24} Ezt mondja az Örökkévaló: »Ne vonuljatok fel, és ne harcoljatok Izráel törzsei, a testvéreitek ellen! Minden férfi térjen vissza a családjához, mert én határoztam úgy, hogy mindez így történjen!«” Ők pedig hallgattak az Örökkévaló szavára, és hazatértek, ahogy az Örökkévaló parancsolta.
+{12:25} Ezután Jeroboám újjáépítette Sikem városát, amely Efraim hegyvidékén fekszik, és ott lakott. Majd kiépítette Penúél városát.
+{12:26} Jeroboám azután ezt gondolta: „Ha országom népe följár Jeruzsálembe, hogy ott az Örökkévaló Templomában áldozatokat mutassanak be, akkor a szívük előbb-utóbb mégiscsak korábbi uruk,
+{12:27} Roboám, Júda királya felé fog hajlani. Azután engem megölnek, ők meg visszatérnek Roboám uralma alá, s akkor a királyság ismét Dávid családjának a kezébe kerül!”
+{12:28} Megtanácskozta hát ezt a dolgot az embereivel, és készíttetett két arany bika-szobrot. Majd ezt mondta a népnek: „Ugyan minek fáradnátok azzal, hogy fölmenjetek Jeruzsálembe? Nézd Izráel, itt van Istened, aki kihozott téged Egyiptomból!”
+{12:29} Az egyik szobrot Bétel, a másikat Dán városában helyezte el.
+{12:30} Ez pedig súlyos bűn okozója lett Izráel népe számára, mert ettől fogva ezekhez a bika-szobrokhoz jártak Istent imádni Dánba és Bételbe.
+{12:31} Ezen kívül Jeroboám építkezett is a magaslatokon, majd papokat választott az egész nép közül, olyanokat is, akik nem Lévi törzsébe tartoztak.
+{12:32} Egy új ünnepet is elrendelt Jeroboám a nyolcadik hónap 15. napján, s ekkor égőáldozatokat mutatott be. Ez az ünnep hasonló volt ahhoz, amit Júdában tartottak. Bételben áldozatokat mutatott be Jeroboám azoknak az arany bika-szobroknak, amelyet ő maga készíttetett, és papokat nevezett ki azokra az áldozati magaslatokra, amelyeket ő maga jelölt ki.
+{12:33} Így hát Jeroboám a saját elgondolása szerint rendezett ünnepet Bételben a nyolcadik hónap 15. napján Izráel népe számára. Ezen az ünnepen ő maga mutatott be áldozatokat az oltáron, amelyet ő készített, és tömjént is füstölögtetett.
+{i13:1} Prófécia a bételi oltár ellen
+{13:1} Az Örökkévaló szólt egyik prófétájának, Isten egyik emberének Júdában, hogy menjen Bételbe. A próféta el is ment, és éppen akkor érkezett oda, amikor Jeroboám a bételi oltár mellett állt, és tömjént füstölögtetett rajta.
+{13:2} Isten embere ekkor az Örökkévaló szava szerint ezt kiáltotta az oltárnak: „Oltár! Oltár! Ezt mondja az Örökkévaló: »Dávid családjából egy fiú születik majd, akit Jósiásnak neveznek. Most a magaslatok papjai áldozatként tömjént égetnek terajtad! De eljön az idő, amikor Jósiás ezeket a papokat fogja rajtad áldozatként elégetni! Bizony, emberi csontokat fog megégetni rajtad!«”
+{13:3} Isten embere ugyanakkor csodálatos jelt is mutatott, és ezt mondta: „Nézzétek! Ez a jel a bizonyíték arra nézve, hogy amit mondtam, azt valóban az Örökkévaló üzente: Az oltár meg fog hasadni, és a hamu kiömlik belőle.”
+{13:4} Amikor Jeroboám király meghallotta Isten emberének beszédét, amelyet a bételi oltár ellen mondott, elvette a kezét az oltártól, és az Isten emberére mutatott: „Fogjátok el!” — kiáltotta a katonáinak. Ebben a pillanatban megbénult a kinyújtott karja, és visszahúzni már nem tudta.
+{13:5} Ugyanekkor az oltár meghasadt, és a hamu kiömlött belőle — így teljesedett be az a jel, amelyet az Örökkévaló szava szerint az Isten embere mondott.
+{13:6} A király ekkor így kérlelte az Isten emberét: „Kérlek, könyörögj Istenedhez, az Örökkévalóhoz, imádkozz értem, hogy a karom meggyógyuljon!” Ő pedig imádkozott az Örökkévalóhoz, és a király karja meggyógyult: ismét olyan lett, mint korábban volt.
+{13:7} A király ekkor azt mondta neki: „Légy a vendégem! Gyere velem, ülj az asztalomhoz, azután majd megjutalmazlak!”
+{13:8} De az így válaszolt: „Ha királyságod felét adnád is nekem, akkor sem mennék veled a házadba! Ezen a helyen nem eszem, nem iszom semmit.
+{13:9} Az Örökkévaló megparancsolta nekem, hogy itt ne egyek, ne igyak semmit, és más úton térjek vissza, mint amelyen jöttem.”
+{13:10} Ezután Isten embere elment, de másik úton indult vissza Júdába, mint amelyen Bételbe érkezett.
+{i13:11} Isten emberének halála
+{13:11} Ebben az időben élt Bételben egy öreg próféta, akinek a fiai elújságolták mindazt, amit a Júdából érkezett próféta, Isten embere tett azon a napon, és amit a királynak mondott Bételben.
+{13:12} Az öreg próféta megkérdezte: „Melyik úton ment el az az ember?” A fiai megmutatták az utat.
+{13:13} Akkor az öreg próféta azt mondta: „Nyergeljétek föl hamar a szamaramat!” Azok fölnyergelték a szamarát, az öreg próféta pedig elsietett.
+{13:14} Utolérte Isten emberét, aki éppen egy tölgyfa alatt pihent, s megkérdezte: „Te vagy az Isten embere, aki nemrégen jött Júdából?” „Én vagyok az” — felelte.
+{13:15} Akkor az öreg próféta meghívta magához: „Gyere velem, hadd lássalak vendégül!”
+{13:16} De a másik ezt válaszolta: „Nem mehetek veled vissza Bételbe, és nem lehetek a vendéged. Ezen a helyen nem ehetek-ihatok semmit.
+{13:17} Az Örökkévaló azt mondta nekem, hogy itt nem szabad semmit ennem, vagy innom, és más úton kell hazatérnem, mint amelyen jöttem.”
+{13:18} Ekkor az öreg próféta ezt mondta neki: „Én is próféta vagyok, mint te. Egy angyal jött hozzám, és ezt az üzenetet hozta az Örökkévalótól: »Hozd vissza azt az embert a házadba, és lásd vendégül, hogy veled egyen és igyon.«” Ez azonban nem volt igaz, az öreg próféta hazudott a fiatalabb prófétának.
+{13:19} Így azután mindketten visszatértek az öreg próféta házába, ahol együtt ettek-ittak.
+{13:20} Még az asztalnál ültek, amikor az Örökkévaló szólt az öreg prófétához,
+{13:21} aki így kiáltott a fiatalabb prófétának: „Halld meg az Örökkévaló üzenetét! Ezt mondja most neked az Örökkévaló: »Nem engedelmeskedtél az Örökkévaló szavának, és megszegted Istened, az Örökkévaló parancsát!
+{13:22} Azt parancsolta neked, hogy ezen a helyen ne egyél-igyál semmit, te mégis visszajöttél ide, és ettél-ittál ezen a helyen! Ezért testedet nem fogják őseid sírboltjába temetni.«”
+{13:23} Miután ettek-ittak, az Isten embere fölnyergelte a szamarát, és elment.
+{13:24} De útközben rátámadt egy oroszlán, és megölte. Holtteste az úton hevert, az oroszlán és a szamár pedig ott álltak mellette.
+{13:25} Az arra járók látták az úton heverő holttestet meg a mellette álló oroszlánt, és amikor abba a városba értek, ahol az öreg próféta lakott, elhíresztelték ezt.
+{13:26} Meghallotta ezt az öreg próféta is, aki azt mondta: „Az Isten embere az, aki engedetlen volt az Örökkévaló szava iránt, aki ezért kiszolgáltatta az oroszlánnak, hogy az megölje. Úgy történt, ahogy az Örökkévaló előre megmondta.”
+{13:27} Azután szólt a fiainak, hogy nyergeljék föl a szamarát,
+{13:28} és odament, ahol a holttest feküdt. Az oroszlán és a szamár még mindig ott álltak a test mellett, de az oroszlán nem nyúlt a halotthoz, sem a szamarat nem bántotta.
+{13:29} Az öreg próféta föltette a halottat a szamarára, és visszavitte a városba, hogy tisztességgel eltemesse.
+{13:30} A saját családi sírboltjába temette az Isten emberének holttestét, és elsiratták őt: „Jaj, testvérem!”
+{13:31} Azután az öreg próféta azt mondta a fiainak: „Mikor meghalok, engem is ide temessetek, Isten embere mellé. Helyezzétek csontjaimat az ő csontjai mellé!
+{13:32} Tudjátok meg, hogy az Örökkévaló szava, amelyet ő mondott a bételi oltárról és a magaslatokon emelt templomokról, amelyek Samária városaiban épültek, bizony, mind beteljesedik!”
+{13:33} Jeroboám király ezek után sem változott meg, hanem tovább folytatta gonoszságait. Ezután is választott magának az egész népből embereket, hogy papokká tegye őket. Aki csak pap akart lenni, azt Jeroboám pappá szentelte, és a magaslatokon állította szolgálatba.
+{13:34} Jeroboám családjának ez a bűn okozta a vesztét, emiatt irtották ki egészen a föld színéről ezt a családot.
+{i14:1} Prófécia Jeroboám családjáról
+{14:1} Abban az időben történt, hogy Jeroboám fia, Abijjá megbetegedett.
+{14:2} Jeroboám ekkor ezt mondta feleségének: „Menj el Silóba, Ahijjá prófétához, aki megmondta nekem, hogy Izráel királya leszek. De öltözz álruhába, hogy senki se ismerjen föl, hogy te vagy a király felesége!
+{14:3} Vigyél magaddal 10 kenyeret és kalácsot, meg egy korsó mézet ajándékul a prófétának. Ő megmondja neked, mi lesz a fiúnkkal.”
+{14:4} Jeroboám felesége így is tett, fölkészült az útra, és elment Silóba, Ahijjá házába. A próféta ekkor már nagyon idős volt, és megvakult.
+{14:5} Az Örökkévaló azonban szólt Ahijjához, mielőtt az asszony odaérkezett volna: „Jeroboám felesége jön hozzád, hogy a beteg fia miatt megkérdezzen téged. Te pedig így és így válaszolj neki, ha megérkezik.” Jeroboám felesége álruhába öltözött, és úgy ment Ahijjához.
+{14:6} Amikor Ahijjá meghallotta ajtaja előtt az asszony lépteit, megszólította: „Gyere csak be, Jeroboám felesége! De miért öltöztél álruhába? Rossz híreket kell mondanom neked!
+{14:7} Menj vissza, és mondd meg Jeroboámnak, hogy ezt üzeni neki az Örökkévaló, Izráel Istene: »Én emeltelek ki téged a nép közül, és fejedelemmé tettelek népem, Izráel fölött.
+{14:8} Dávid családjától elszakítottam a királyi uralmat, és neked adtam. Te azonban nem olyan vagy, mint szolgám, Dávid, aki engedelmeskedett a parancsaimnak, teljes szívvel követett engem, és mindig azt tette, amit helyesnek tartok.
+{14:9} Nem, te olyan bűnöket követtél el, amelyek súlyosabbak, mint amelyeket előtted bárki is elkövetett! Más isteneket készítettél magadnak, bálványszobrokat állítottál, hogy engem haragra ingerelj! Hátad mögé hajítottál engem!
+{14:10} Emiatt súlyos csapásokkal verem meg Jeroboám családját, kiirtok minden férfit a leszármazottjai közül Izráelből, apraját-nagyját egyaránt. Elsöpröm a föld színéről Jeroboám egész családját, mint ahogy a szárított ganéjt elégetik, és semmi sem marad belőle.
+{14:11} Aki közülük a városban hal meg, azt a kutyák eszik meg, aki pedig a mezőn pusztul el, azt az égi madarak takarítják el. Bizony, így lesz, mert az Örökkévaló mondta ezt.«”
+{14:12} Azután Ahijjá még hozzátette: „Most menj haza, s amikor belépsz a városba, akkor fog meghalni a gyermeked.
+{14:13} Egész Izráel siratja majd, és tisztességgel eltemetik. Ő az egyetlen Jeroboám családjából, akit tisztességgel sírba helyeznek, mert Jeroboám utódai közül csak benne talált valami jót az Örökkévaló, Izráel Istene.
+{14:14} Az Örökkévaló pedig másik királyt állít Jeroboám helyére, Izráel élére, aki ki fogja irtani Jeroboám egész családját. Ez hamarosan meg fog történni.
+{14:15} Azután az Örökkévaló haragjában csapásokkal sújtja Izráel népét is, amely félelmében úgy fog reszketni, mint a nád a vízben. Gyökerestül kitépi az Örökkévaló Izráelt abból a jó földből, amelyet őseiknek adott, azután szétszórja népét az Eufrátesz folyótól keletre fekvő országokba — ahogy a vetőmagot szokták a szántóföldön. Így bánik velük, mivel bálványoszlopokat állítottak Aserának, hogy az Örökkévalót fölbosszantsák velük.
+{14:16} Bizony, az Örökkévaló kiszolgáltatja Izráel népét ellenségeiknek Jeroboám bűnei miatt, aki bűnbe vitte Izráel egész népét.”
+{14:17} Ezután Jeroboám felesége hazament Tirca városába, s amikor átlépte háza küszöbét, akkor halt meg a fia.
+{14:18} Izráel egész népe megsiratta ezt a fiút, amikor eltemették — így teljesedett be, amit az Örökkévaló mondott, szolgája, Ahijjá próféta által.
+{14:19} Jeroboám uralkodásának és hadjáratainak többi eseményét följegyezték az Izráel királyainak történetéről szóló könyvben.
+{14:20} Jeroboám király 22 évig uralkodott, azután meghalt, és fia, Nádáb követte a trónon.
+{i14:21} Roboám, Júda királya
+{14:21} Roboám, Salamon fia 41 éves volt, amikor Júda királya lett. Anyját Naámának hívták, és ammoni származású volt. Roboám 17 évig uralkodott Jeruzsálemben, abban a városban, amelyet az Örökkévaló kiválasztott Izráel összes törzsei közül, hogy a neve ott lakozzon.
+{14:22} Júda népe is sokat vétkezett az Örökkévaló ellen. Olyan dolgokat tettek, amelyeket az Örökkévaló rossznak tart. Még őseiknél is súlyosabb bűnöket követtek el, s ezekkel magukra haragították az Örökkévalót.
+{14:23} Ők is építettek más istenek számára magaslatokat, és állítottak emlékköveket, meg szent oszlopokat minden domb tetején és minden zöldellő fa alatt.
+{14:24} Még férfi prostituáltak is voltak Júdában. Bizony, Júda népe is elkövette mindazokat az utálatos bűnöket, amelyeket az előttük ott élő népek követtek el, akiket az Örökkévaló Izráel népe elől kiűzött a földjükről.
+{14:25} Roboám király uralkodásának ötödik évében Sisák, Egyiptom királya fölvonult Jeruzsálem ellen.
+{14:26} Amikor elvonult, hadizsákmányként elvitte magával az Örökkévaló Templomából és a királyi palotából az összes kincset. Még azokat az aranypajzsokat is elhurcolta, amelyeket még Salamon király készíttetett.
+{14:27} Helyettük Roboám király bronzból készíttetett hasonló pajzsokat, és azokat adta a királyi testőrök kezébe, akik a palota kapuit őrizték.
+{14:28} Amikor a király fölment az Örökkévaló Templomába, a testőrök fölvették a pajzsokat, és úgy kisérték a királyt. Utána visszavitték a bronzpajzsokat az őrszobába.
+{14:29} Roboám egyéb dolgait, és mindazt, amit tett, följegyezték a Júda királyainak történetéről szóló könyvben.
+{14:30} Roboám és Jeroboám között egész uralkodásuk alatt háborúskodás folyt.
+{14:31} Azután Roboám meghalt, és ősei mellé temették Dávid városában. Roboám anyja egy Naamá nevű asszony volt, ammoni származású. Roboámot a fia, Abijjá követte a trónon.
+{i15:1} Abijjá, Júda királya
+{15:1} Jeroboám, Nebát fia uralkodásának 18. évében kezdett uralkodni Abijjá, Júda királya.
+{15:2} Három évig uralkodott Jeruzsálemben. Anyja, Maaká, Absolon leánya volt.
+{15:3} Abijjá ugyanazokat a bűnöket követte el, mint az apja, Roboám. Abijjá szíve nem volt hűséges Istenéhez, az Örökkévalóhoz, és nem követte ősének, Dávidnak a példáját, akinek szíve tökéletes volt az Örökkévaló iránt.
+{15:4} Dávidra való tekintettel az Örökkévaló mégis kegyelmes volt Abijjához, és megadta neki, hogy fia kövesse a trónon, valamint Jeruzsálemet is megőrizte.
+{15:5} Igen, az Örökkévaló így bánt vele, mert Dávid mindig azt tette, amit az Örökkévaló jónak látott, és egész életében nem tért el attól, amit az Örökkévaló parancsolt neki — kivéve azt, ahogyan a hettita Úriással bánt.
+{15:6} Roboám és Jeroboám között egész uralkodásuk alatt háborúskodás folyt.
+{15:7} Abijjá egyéb dolgait, és mindazt, amit tett, följegyezték a Júda királyainak történetéről szóló könyvben. Abijjá és Jeroboám között is állandó háborúskodás folyt.
+{15:8} Azután Abijjá meghalt, és eltemették a Dávid városában. Abijját a fia, Ászá követte Júda trónján.
+{i15:9} Ászá, Júda királya
+{15:9} Jeroboám, Izráel királya uralkodásának huszadik évében lépett Júda trónjára Ászá.
+{15:10} Negyvenegy évig uralkodott Jeruzsálemben. Nagyanyja Maaká volt, Absolon leánya.
+{15:11} Ászá, Dávidhoz hasonlóan azt tette, amit az Örökkévaló jónak és helyesnek látott.
+{15:12} Kikergette Júdából azokat a férfiakat, akik az idegen isteneket szexuális kicsapongással tisztelték. Az elődei által készített bálványokat pedig elpusztította.
+{15:13} Még nagyanyját, Maakát is megfosztotta az anyakirálynői méltóságtól, mert Maaká egy utálatos bálványt állított fel Asera tiszteletére. Ászá összetörte ezt a bálványt, és megégette a Kidron-patak völgyében.
+{15:14} Bár az áldozóhalmokat nem szüntette meg, Ászá szíve mégis hűséges volt az Örökkévaló iránt egész életében.
+{15:15} Ászá bevitte az Örökkévaló Templomába azokat a fogadalmi ajándékokat — aranyat, ezüstöt és egyéb dolgokat — , amelyeket apja és ő maga szentelt az Örökkévalónak.
+{15:16} Ászá, Júda királya és Baasá, Izráel királya között állandó háborúskodás folyt.
+{15:17} Baasá, Izráel királya betört Júda országába, és Ráma városában elkezdte egy erődítmény kiépítését. Azért tette ezt, hogy ellenőrzése alatt tarthassa a Júdába vezető utat, és megakadályozza, hogy bárki oda bejusson, vagy onnan kijöhessen.
+{15:18} Ekkor Ászá összegyűjtötte az összes megmaradt aranyat és ezüstöt az Örökkévaló házának és a királyi palotának a kincstárából. Az egészet elküldte szolgáival Benhadadnak, Arám királyának, aki Damaszkuszban uralkodott. Benhadad Tabrimmón fia, ez pedig Hezjón fia volt. A kincsekkel együtt ezt üzente Benhadadnak:
+{15:19} „Kössünk szövetséget, ahogy apám és a te apád is szövetségesek voltak! Ezt az ezüstöt és aranyat neked küldtem. Bontsd fel a Baasával, Izráel királyával kötött szövetségedet, hogy Baasá vonuljon vissza.”
+{15:20} Benhadad teljesítette Ászá kérését, és hadseregét Izráel ellen küldte. Megtámadták Izráel városait: Ijjónt, Dánt, Ábél-Bét-Maakát és Kinnerót egész vidékét Naftáli földjén.
+{15:21} Amikor Baasá ezt meghallotta, abbahagyta a rámai erődítmény építését, és Tircában telepedett le.
+{15:22} Akkor Ászá király parancsára összegyűjtötték Júdából kivétel nélkül az összes férfit, és elhordatták velük az összes építőanyagot — a köveket és gerendákat — , amellyel Baasá építkezett Rámában. Ászá ezekkel az anyagokkal azután a benjámini Geba és Micpá városait erősítette meg.
+{15:23} Ászá egyéb dolgait, összes hőstetteit meg a városokat, amelyeket kiépített, és mindazt, amit tett, följegyezték a Júda királyainak történetéről szóló könyvben. Idős korában Ászának súlyosan megbetegedett a lába.
+{15:24} Azután Ászá meghalt, és eltemették ősei mellé a Dávid városában. Ászát a fia, Jósafát követte Júda trónján.
+{i15:25} Nádáb és Baasá uralkodása Izráelben
+{15:25} Ászá, Júda királya uralkodásának második évében lépett Izráel trónjára Nádáb, Jeroboám fia, és két évig uralkodott Izráelben.
+{15:26} Nádáb is olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart. Ugyanazokat követte el, amelyekkel Jeroboám bűnbe vitte Izráel népét, mert az apja példáját követte.
+{15:27} Az Issakár törzsébe tartozó Baasá, Ahijjá fia azonban összeesküvést szőtt Nádáb ellen, és meggyilkolta őt. Ez a filiszteusok városának, Gibbetónnak az ostrománál történt, amelyet Nádáb egész Izráel seregével ostrom alá vett.
+{15:28} Ászá, Júda királya uralkodásának harmadik évében Baasá meggyilkolta Nádábot, és Izráel királya lett.
+{15:29} Első dolga az volt, hogy Jeroboám összes leszármazottját kiirtotta. Egy lelket sem hagyott életben az egész családból. Így teljesedett be az Örökkévaló szava, amelyet szolgája, a silói Ahijjá próféta által mondott.
+{15:30} Az Örökkévaló ezt azok miatt a bűnök miatt mondta, amelyekkel Jeroboám egész Izráel népét bűnbe vitte, és az Örökkévalót, Izráel Istenét haragra ingerelte.
+{15:31} Nádáb egyéb dolgait, és mindazt, amit tett, följegyezték az Izráel királyainak történetéről szóló könyvben.
+{15:32} Ászá, Júda királya, és Baasá, Izráel királya között is állandó háborúskodás folyt.
+{15:33} Ászá, Júda királya uralkodásának harmadik évében lépett Izráel trónjára Baasá, Ahijjá fia Tircában, és 24 évig uralkodott Izráelben.
+{15:34} Baasá olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart. Ugyanazokat követte el, amelyekkel Jeroboám bűnbe vitte Izráel népét, mert az ő példáját követte.
+{16:1} Az Örökkévaló — Jéhú próféta, Hanáni fia által — ezt mondta Baasának:
+{16:2} „Én emeltelek föl a porból, és uralkodóvá tettelek népem, Izráel fölött! Te mégis Jeroboám útját követted, bűnbe vitted népemet, Izráelt! Ők pedig haragra ingereltek a vétkeikkel.
+{16:3} Baasá, én eltöröllek téged a föld színéről, és kiirtom családod minden tagját! Úgy fogok veletek is bánni, mint Jeroboám, Nebát fia családjával.
+{16:4} Aki a családodból a városban hal meg, annak testét a kutyák eszik meg, aki pedig a városon kívül pusztul el, azt az égi madarak tépik szét.”
+{16:5} Baasá egyéb dolgait, hőstetteit, és mindazt, amit tett, följegyezték az Izráel királyainak történetéről szóló könyvben.
+{16:6} Azután Baasá meghalt, és Tircában temették el. Fia, Élá követte Izráel trónján.
+{16:7} Baasá sok olyan dolgot követett el, amelyet az Örökkévaló gonoszságnak tartott, s amelyekkel Baasá az Örökkévalót haragra ingerelte. Baasá és családja olyan volt, mint Jeroboám és annak családja. Ezen felül Baasá még ki is irtotta Jeroboám családját. Mindezek miatt az Örökkévaló — Jéhú próféta, Hanáni fia által — kijelentette ítéletét Baasá és családja ellen.
+{i16:8} Élá és Zimri uralkodása Izráelben
+{16:8} Ászá, Júda királya uralkodásának 26. évében lett Izráel királya Élá, Baasá fia. Két esztendeig uralkodott Tircában.
+{16:9} Élá király ellen azonban összeesküvést szőtt Zimri, a harci szekerek egyik csapatának parancsnoka. Egyszer Élá vendégségbe ment Arcához, aki Tircában a királyi palota felügyelője volt. Ettek-ittak, és Élá lerészegedett.
+{16:10} Akkor Zimri bement a házba, meggyilkolta Élá királyt, és magához ragadta a királyi hatalmat. Ez Ászá, Júda királya uralkodásának 27. évében történt.
+{16:11} Alighogy Zimri király lett, első dolga volt, hogy kiirtsa Baasá egész családjából a férfiakat. Senkit sem hagyott életben Baasá rokonai közül, sőt még a barátait is meggyilkoltatta.
+{16:12} Így teljesedett be az Örökkévaló szava, amelyet Jéhú próféta által mondott Baasá családjáról: Zimri teljesen kipusztította őket.
+{16:13} Baasá és fia, Élá bűnei miatt történt ez, amelyekkel Izráel népét bűnbe vitték, és bálványimádásukkal az Örökkévalót, Izráel Istenét haragra ingerelték.
+{16:14} Élá király egyéb viselt dolgait, és mindazt, amit tett, följegyezték az Izráel királyainak történetéről szóló könyvben.
+{16:15} Ászá, Júda királya uralkodásának 27. évében lett király Izráelben Zimri, de csak 7 napig uralkodott Tircában. A hadsereg ekkor éppen a filiszteusok városát, Gibbetónt ostromolta.
+{16:16} Amikor megtudták, hogy Zimri összeesküvést szőtt Élá király ellen, és meg is gyilkolta őt, akkor az egész hadsereg, ott a táborban Omrit, a sereg vezérét kiáltotta ki Izráel királyává még azon a napon.
+{16:17} Ezután Omri a sereg élén fölvonult Gibbetónból, és körülzárta Tirca városát, ahol Zimri volt.
+{16:18} Amikor Zimri látta, hogy Omri serege elfoglalja a várost, bemenekült a királyi palota tornyába, magára gyújtotta, és azzal együtt pusztult el.
+{16:19} Azért történt így, mert Zimri is Jeroboám útján járt, ugyanazokat a bűnöket követte el, és ugyanúgy bűnbe vitte Izráel népét. Olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart.
+{16:20} Zimri egyéb viselt dolgait, és árulását följegyezték az Izráel királyainak történetéről szóló könyvben.
+{i16:21} Omri, Izráel királya
+{16:21} Ezután Izráel népe két pártra szakadt. Az egyik párt Tibnit, Gínat fiát akarta királlyá tenni, a másik pedig Omrit.
+{16:22} Ez utóbbi párt bizonyult erősebbnek, és Tibni meghalt. Így Omri lett Izráel királya.
+{16:23} Ászá, Júda királya uralkodásának 31. évében lett király Izráelben Omri, és 12 évig uralkodott. Hat évig Tircában tartotta királyi udvarát,
+{16:24} azután új várost épített, és odaköltözött. Semertől 2 talentum ezüstért megvásárolta Samária hegyét, és ott építette föl az új várost, amelyet az eredeti tulajdonos nevéről Samáriának nevezett el.
+{16:25} Omri minden elődjénél gonoszabb volt. Olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart.
+{16:26} Jeroboám, Nebát fia útján járt, és ugyanazokat a bűnöket követte el. Ugyanúgy bűnbe vitte Izráel népét, amely a bálványimádással haragra ingerelte az Örökkévalót, Izráel Istenét.
+{16:27} Omri egyéb dolgait és hőstetteit följegyezték az Izráel királyainak történetéről szóló könyvben.
+{16:28} Azután Omri meghalt, és Samáriában temették el. Fia, Aháb követte Izráel trónján.
+{i16:29} Aháb, Izráel királya
+{16:29} Ászá, Júda királya uralkodásának 38. évében Aháb, Omri fia lett a király Izráelben. Samáriában uralkodott 22 évig.
+{16:30} Aháb minden elődjénél gonoszabb volt. Olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart.
+{16:31} Ugyanazokat a bűnöket követte el, amelyeket Jeroboám, Nebát fia. Ráadásul, feleségül vette Jezábelt, a szidóniak királyának, Etbaalnak a leányát! Ettől kezdve Aháb is Baált tisztelte és imádta.
+{16:32} Templomot és oltárt is épített Baál tiszteletére Samáriában.
+{16:33} Asera-oszlopot is állított, és még inkább haragra ingerelte az Örökkévalót, Izráel Istenét, mint az előtte uralkodó izráeli királyok.
+{16:34} Aháb uralkodása idején történt, hogy a bételi Híél újjáépítette Jerikó városát. Az alapokat elsőszülött fiának az élete árán fektette le, a város kapuit pedig legkisebb fiának az élete árán állította föl — éppen úgy, ahogy azt az Örökkévaló előre megmondta Józsué, Nún fia által.
+{i17:1} Illés próféta és a nagy szárazság
+{17:1} Illés próféta Tisbe városából származott, Gileádból. Azt mondta Ahábnak, Izráel királyának: „Esküszöm az élő Örökkévalóra, Izráel Istenére, aki előtt állok, hogy a következő években mindaddig sem eső, sem harmat nem hullik, amíg én nem mondom.”
+{17:2} Azután az Örökkévaló szólt Illésnek:
+{17:3} „Menj el innen kelet felé, és rejtőzz el a Kerít-patak völgyében, a Jordántól keletre!
+{17:4} A patakból ihatsz, és parancsoltam a hollóknak, hogy tápláljanak téged.”
+{17:5} Illés tehát elment a Jordánon túlra, az Örökkévaló szava szerint, és letelepedett a Kerít-patak mellett.
+{17:6} A hollók minden reggel és este kenyeret és húst hoztak neki, vizet pedig a patakból ivott.
+{17:7} Mivel azonban egy csepp eső sem esett az országban, egy idő múlva ez a patak is kiszáradt.
+{17:8} Akkor az Örökkévaló ismét szólt Illésnek:
+{17:9} „Illés, indulj útnak, menj a Szidónhoz tartozó Sareptába, és lakj ott egy ideig! Nézd, parancsoltam ott egy özvegyasszonynak, hogy gondoskodjon rólad.”
+{17:10} Illés elindult, és amikor Sarepta kapujához közeledett, látott egy özvegyasszonyt, aki tűzrevaló gallyakat szedegetett. Illés megszólította: „Kérlek, hozz egy kis vizet nekem a korsódban, nagyon szomjas vagyok!”
+{17:11} Amikor az asszony elindult, hogy vizet hozzon, Illés még utána szólt: „Egy falat kenyeret is hozz, kérlek!”
+{17:12} De az asszony így válaszolt: „Istenedre, az élő Örökkévalóra mondom, hogy már semmi kenyerem sincs. Mindössze egy marék lisztem és egy kis olajam maradt a korsóban. Most éppen azért szedegetek egy kis fát, hogy az utolsó néhány lepényt elkészítsem a fiamnak és magamnak. Ha azt megettük, azután már nincs más hátra, mint hogy éhen haljunk!”
+{17:13} Illés azonban így biztatta: „Ne félj, csak készítsd el azt a néhány lepényt, ahogy mondtad! De először nekem készíts egy kis lepényt, és hozd ide, azután készíts magadnak és a fiadnak is.
+{17:14} Mert azt mondja az Örökkévaló, Izráel Istene: »Liszted nem fogy el, s olajad nem fogy ki a korsóból, amíg az Örökkévaló ismét esőt nem küld a földre.«”
+{17:15} Az asszony megfogadta Illés szavát, hazament, és elkészítette az ételt. Abból evett Illés is, az asszony is, meg a családja is, sok napon keresztül.
+{17:16} Nem fogyott el sem a lisztje, sem az olaja — az Örökkévaló szava szerint, amelyet Illés mondott neki.
+{17:17} Történt azonban, hogy egy idő múlva megbetegedett az asszony fia, és az állapota egyre súlyosabb lett. A végén már nem is lélegzett.
+{17:18} Akkor az asszony így szólt Illéshez: „Miért jöttél ide, Isten embere? Azért, hogy a bűneimre emlékeztess, és megöld a fiamat?”
+{17:19} „Add ide a fiadat!” — mondta Illés. Azzal elvette az asszony karjából a gyereket, és fölvitte az emeleten lévő szobájába, ahol a szállása volt. Ott lefektette az ágyára,
+{17:20} és így kiáltott az Örökkévalóhoz: „Örökkévaló Istenem! Ez az özvegyasszony befogadott engem a házába, s most ilyen bajt hozol rá, hogy megölöd a fiát?!”
+{17:21} Azután háromszor ráborult a gyermekre, és kiáltott az Örökkévalóhoz: „Örökkévaló Istenem! Kérlek, térjen vissza a gyermek lelke a testébe!”
+{17:22} Az Örökkévaló meghallgatta Illés kérését, a gyermek lelke visszatért a testébe, és föléledt.
+{17:23} Illés ekkor karjába vette a gyermeket, levitte az anyjához, és átadta neki. „Nézd, él a fiad!” — mondta.
+{17:24} „Most tudtam meg igazán — válaszolta az asszony — , hogy te valóban az Isten embere vagy, és valóban az Örökkévaló szavát mondod!”
+{i18:1} Illés és Aháb találkozása
+{18:1} Már harmadik éve tartott a szárazság, amikor az Örökkévaló szólt Illésnek: „Menj, jelenj meg Aháb előtt, azután esőt adok a földre!”
+{18:2} Illés tehát elindult, hogy találkozzon Ahábbal. Ebben az időben már nagyon súlyos éhínség uralkodott Samáriában.
+{18:3} Aháb király hívatta Óbadjáhút, a királyi palota felügyelőjét. Ez az Óbadjáhú igazán tisztelte és félte az Örökkévalót.
+{18:4} Amikor Jezábel kiirtotta az Örökkévaló prófétáit, Óbadjáhú igyekezett megmenteni őket. Százat közülük elrejtett két barlangban — 50-50 főt mindegyikben — , és gondoskodott az ellátásukról.
+{18:5} Aháb ezt mondta Óbadjáhúnak: „Gyere, menjünk el, járjuk sorra az országban a forrásokat és a patakokat, talán ott még találunk valami kevés füvet a lovainknak és öszvéreinknek, hogy ne kelljen mindet levágnunk!”
+{18:6} Azután megbeszélték, hogy Aháb az ország egyik részét, Óbadjáhú meg a másik részét járja be. Ezután elváltak egymástól, s mind a ketten egyedül mentek tovább.
+{18:7} Amint Óbadjáhú továbbment az útján, egyszer csak ott állt előtte Illés. Óbadjáhú megismerte, földig hajolt előtte, és megkérdezte: „Te vagy az, uram, Illés?”
+{18:8} „Én vagyok — felelt Illés — , de most menj, és jelentsd uradnak, Ahábnak, hogy itt vagyok!”
+{18:9} Óbadjáhú azonban nagyon megrémült, és ezt mondta: „Jaj, uram, mit vétettem neked, hogy Aháb kezébe akarsz adni, hogy megöljön engem?
+{18:10} Istenedre, az Örökkévalóra esküszöm, hogy Aháb már mindenhová elküldte az embereit, hogy felkutassanak téged. Minden országban kerestetett, és ha azt mondták, hogy nem láttak téged arrafelé, még meg is eskette őket, hogy csakugyan nem tudják, hol vagy.
+{18:11} Most meg azt akarod, hogy menjek Ahábhoz, és jelentsem neki, hogy megtaláltalak!
+{18:12} De mi lesz, ha miközben én Ahábhoz megyek, téged elragad valahová az Örökkévaló Szelleme? Ha jelentem Ahábnak, hogy te itt vagy, ő meg nem talál téged, akkor engem biztosan megöl! Gyermekkorom óta tisztelem és félem az Örökkévalót!
+{18:13} Biztosan tudod, hogy amikor Jezábel legyilkoltatta az Örökkévaló prófétáit, én százat megmentettem közülük. Ötvenet az egyik, ötvenet a másik barlangban rejtettem el, és gondoskodtam az ellátásukról.
+{18:14} Most mégis azt akarod, hogy mondjam Ahábnak: »Megtaláltam Illést!« — s akkor a király kivégeztet engem!”
+{18:15} De Illés megnyugtatta Óbadjáhút: „Ne félj! Az Örökkévalóra, a Seregek Urára esküszöm, akit szolgálok, hogy még ma találkozni fogok Ahábbal!”
+{18:16} Ezután Óbadjáhú Aháb után ment, és jelentette, hogy megtalálta Illést. Aháb azonnal Illéshez sietett,
+{18:17} és amikor meglátta, így szólította meg: „Valóban te vagy az, Illés, aki Izráelt bajba sodortad?”
+{18:18} „Nem én, hanem te sodortad bajba Izráelt, apád családjával együtt! — válaszolt Illés. — Igen, ti tettétek tönkre Izráelt azzal, hogy az Örökkévaló parancsainak nem engedelmeskedtetek, te pedig a Baálokat követted!
+{18:19} Most azonban hívd össze Izráel egész népét hozzám a Kármel-hegyre! Gyűjtsd oda Baál 450 prófétáját, meg Asera 400 prófétáját is, akiket Jezábel tart el és akikkel állandóan tanácskozik!”
+{i18:20} Az Örökkévaló az Isten!
+{18:20} Aháb tehát összegyűjtötte egész Izráel népét és azokat a prófétákat a Kármel-hegyre.
+{18:21} Amikor mindannyian együtt voltak, Illés az emberek elé állt, és ezt mondta: „Meddig fogtok még kétfelé sántikálni? Döntsétek el végre, ki az igazi Isten! Ha az Örökkévaló az Isten, akkor őt kövessétek! Ha pedig Baál, akkor kövessétek őt!” De senki sem felelt egy szót sem.
+{18:22} Akkor Illés így folytatta: „Nézzétek! Egyedül én maradtam meg az Örökkévaló prófétái közül, Baálnak meg 450 prófétája gyűlt itt össze.
+{18:23} Adjatok hát nekünk egy-egy bikát! Baál prófétái válasszák maguknak az egyiket, vágják le, készítsék el az égőáldozatra, és tegyék föl az oltárra, a fahasábokra, de ne gyújtsanak tüzet alatta. Én is ugyanezt fogom tenni a másik bikával, és fölteszem azt a másik oltárra, de nem gyújtok tüzet alatta.
+{18:24} Ezután a Baál-próféták hívják segítségül istenüket, és én is segítségül hívom az Örökkévaló nevét. Amelyik isten felel, és tüzet küld az áldozatra, az az igazi Isten!” Erre az egész nép így válaszolt: „Igen, jó lesz így!”
+{18:25} Ezután Illés a Baál-prófétákhoz fordult: „Mivel sokan vagytok, kezdjetek hozzá először ti! Válasszátok magatoknak az egyik bikát, és készítsétek elő az áldozatra! Azután hívjátok segítségül isteneteket, de tüzet ne gyújtsatok!”
+{18:26} Így is történt. A Baál-próféták fogták az egyik bikát, elkészítették, azután segítségül hívták Baált reggeltől délig: „Ó, Baál! Ó, Baál, hallgass meg minket!” De semmi nem történt. Nem jött egy hang felelet sem. Ott ugráltak a maguk készítette oltár körül, de ez sem segített.
+{18:27} Déltájban Illés csúfolni kezdte őket: „Hangosabban kiáltsatok! Hiszen isten ő, vagy nem? Talán éppen félrement, hogy a szükségét végezze! Vagy elutazott, netalán elszunyókált?! — Kiáltsatok hangosabban, talán fölébred!”
+{18:28} Azok erre még hangosabban kiabáltak, és kardokkal meg lándzsákkal vagdosták magukat, ahogy szokták, amíg a vérük csorgott, de hiába.
+{18:29} Már a délután is eltelt, de még mindig nem történt semmi. Majd őrjöngeni kezdtek, de akkor sem jött válasz, sem hang, sem semmi más jelét nem lehetett látni, hogy Baál meghallgatta volna őket. Így ment ez egészen az esti áldozat idejéig.
+{18:30} Akkor Illés ezt mondta az embereknek: „Gyűljetek ide körém!” Ekkor a tömeg körülvette. Akkor Illés hozzáfogott, hogy újra fölépítse az Örökkévaló lerombolt oltárát.
+{18:31} Előbb fogott 12 követ, mivel Izráelnek is 12 törzse van, amelyek Jákób fiaitól származtak. Jákóbnak régen azt mondta az Örökkévaló: „Ezentúl Izráel legyen a neved!”
+{18:32} Ezekből a kövekből épített Illés oltárt az Örökkévalónak. Majd árkot húzott az oltár körül, amelybe kétkosárnyi vetőmag elfért volna.
+{18:33} Az oltárra fölrakta a fahasábokat, majd arra az elkészített áldozati állatot. Ezután azt mondta: „Öntsétek le az egészet négy vödör vízzel!”
+{18:34} Majd ezt mondta: „Ismét öntsétek le az egészet négy vödör vízzel!” Utána ezt harmadszor is megtették Illés parancsára.
+{18:35} Ekkor már minden csurgott a víztől: az áldozati állat, a fa, az oltár, és még a körülötte lévő árok is megtelt.
+{18:36} Amikor eljött az esti áldozat bemutatásának az ideje, Illés próféta odalépett az oltárhoz, és így imádkozott: „Örökkévaló Isten! Ábrahám, Izsák és Izráel Istene! Legyen most nyilvánvaló, hogy te vagy az Isten Izráelben, hogy én a te szolgád vagyok, és hogy mindezt a te szavad szerint tettem!
+{18:37} Hallgass meg engem, Örökkévaló Isten! Hallgass meg, hogy ezek az emberek megbizonyosodjanak róla, hogy te, az Örökkévaló, vagy az Isten! Hadd tudják meg, hogy a szívüket te fordítod vissza magadhoz!”
+{18:38} Ekkor az Örökkévaló tüze leszállt az égből, és teljesen elégette az áldozatot, a fát, az oltár köveit, sőt még a port is. Az oltár körüli árokban lévő vizet pedig kiszárította.
+{18:39} Látta ezt az egész nép, arccal a földre estek, és ezt kiáltották: „Az Örökkévaló az Isten! Az Örökkévaló az Isten!”
+{18:40} Illés pedig ezt mondta nekik: „Fogjátok meg Baál prófétáit! Egyet se hagyjatok megszökni!” Az emberek meg is ragadták őket. Illés pedig levezette őket a Kisón-patakhoz, és ott valamennyit megölte.
+{18:41} Azután szólt Ahábnak: „Most pedig egyél-igyál, mert nagy esőnek a zúgását hallom!”
+{18:42} Aháb el is ment, hogy egyen valamit. Illés azonban fölment a Kármel-hegy tetejére. Ott letérdelt imádkozni: a fejét a térdei közé hajtotta.
+{18:43} Azután szólt a szolgájának: „Állj a hegy csúcsára, és nézz a tenger felé! Szólj, ha látsz valamit!” A szolga jelentette: „Nem látok semmit!” De Illés visszaküldte: „Figyelj tovább!” Ez hétszer történt,
+{18:44} míg végre hetedszerre a szolga azzal jött vissza: „Egy tenyérnyi kis felhőcskét látok a tengerből fölemelkedni!” Akkor Illés ezt mondta a szolgájának: „Siess, szólj Ahábnak, hogy azonnal induljon el a harci szekerével, különben utoléri a nagy eső!”
+{18:45} Aháb így is tett, és a szekerén Jezréelbe sietett. Közben az ég a fellegektől elsötétült, nagy szél kerekedett, és zuhogni kezdett az eső.
+{18:46} Az Örökkévaló ereje ekkor betöltötte Illést, aki a derekára kötötte köpenyét, és oly gyorsan Jezréelbe futott, hogy hamarabb ért oda, mint Aháb a harci szekerével.
+{i19:1} Illés a Hóreb-hegyen
+{19:1} Aháb király elmondta a feleségének, Jezábelnek mindazt, amit Illés tett, és hogy a Baál-prófétákat mind megölte karddal.
+{19:2} Erre Jezábel követet küldött Illéshez ezzel az üzenettel: „Esküszöm, hogy holnap ilyenkor te is úgy jársz, mint azok a próféták, akiket megöltél! Úgy bánjanak velem is az istenek, vagy még rosszabbul, ha nem így lesz!”
+{19:3} Ezt hallva Illés elfutott, hogy mentse az életét. Szolgájával együtt Júda déli részére menekült. Amikor Beérsebába érkezett, szolgáját ott hagyta,
+{19:4} ő maga pedig egyedül kiment a sivatagba egynapi járóföldre. Azután leült egy rekettyebokor alá, és azt kívánta, bárcsak meghalhatna. Azt mondta: „Örökkévaló, már nem bírom tovább! Kérlek, vedd el az életem most, hiszen én sem vagyok jobb, mint őseim!”
+{19:5} Azután lefeküdt a bokor alá, és elaludt. Hirtelen egy angyal jelent meg, aki megérintette és fölkeltette: „Illés, kelj föl, és egyél!”
+{19:6} Illés fölriadt, és a feje mellett frissen sült lepényt és egy korsó vizet talált. Evett-ivott, azután ismét lefeküdt aludni.
+{19:7} Egy idő múlva az Örökkévaló angyala ismét eljött, megérintette, és fölkeltette: „Illés, kelj föl, és egyél, mert nagy út előtt állsz!”
+{19:8} Illés fölébredt, ismét evett-ivott, majd útnak indult. Annak az ételnek az erejével ment 40 nap és 40 éjjel, amíg a Hóreb-hegyhez, Isten hegyéhez nem ért.
+{19:9} Bement egy barlangba, és ott töltötte az éjszakát. Az Örökkévaló megszólította: „Illés, mit keresel itt?”
+{19:10} „Teljes erőmmel szolgáltalak téged, Örökkévaló, Seregek Ura és Istene! — válaszolt Illés. — De Izráel népe elhagyta a szövetségedet, lerombolták oltáraidat és meggyilkolták prófétáidat! Egyedül maradtam, prófétáid közül csak én maradtam életben, és most engem is halálra keresnek!”
+{19:11} „Gyere ki onnan, és állj meg előttem a hegyen — mondta az Örökkévaló — , mert ott fogok elvonulni előtted!” Akkor hatalmas szélvihar támadt, amely még a hegyet is megrázta, s a sziklákat leszaggatta az Örökkévaló előtt, de maga az Örökkévaló nem volt abban a szélben. Azután nagy földrengés következett, de az Örökkévaló nem volt a földrengésben sem.
+{19:12} Utána tűz jött, de az Örökkévaló nem volt abban sem. A tűz után egy halk és szelíd hang hallatszott.
+{19:13} Amikor Illés ezt meghallotta, palástjával eltakarta az arcát, kiment és megállt a barlang bejáratánál. Az a hang pedig megszólította: „Illés, mit keresel itt?”
+{19:14} „Teljes erőmmel szolgáltalak téged, Örökkévaló, Seregek Ura és Istene! — válaszolt Illés. — De Izráel népe elhagyta a szövetségedet, lerombolták oltáraidat és meggyilkolták prófétáidat! Egyedül maradtam, prófétáid közül csak én maradtam életben, és most engem is halálra keresnek!”
+{19:15} Az Örökkévaló ezt mondta neki: „Illés, fordulj meg, és menj vissza azon az úton, amelyen ide jöttél, azután menj a Damaszkusz melletti sivatagba! Ott kend fel Hazáélt Arám királyává.
+{19:16} Azután Jéhút, Nimsi fiát kend fel Izráel királyává! Elizeust, az ábél-mahólái Sáfát fiát pedig kend fel prófétává, hogy álljon a helyedre.
+{19:17} Aki megmenekül Hazáél kardjától, azt Jéhú öli meg. Aki megmenekül Jéhú kardjától, azt Elizeus öli meg.
+{19:18} Mégis megőrzök magamnak 7 000 férfit Izráelben: mindazokat, akik nem hajtottak térdet Baál előtt, és nem imádták őt.”
+{i19:19} Illés megkeresi Elizeust
+{19:19} Ezután Illés elindult, hogy megkeresse Elizeust, Sáfát fiát. Amikor rátalált, Elizeus éppen szántott az embereivel együtt. Tizenkét pár ökörrel dolgoztak, Elizeus maga a tizenkettedikkel szántott. Illés odament hozzá, a köpenyét szó nélkül Elizeus vállára terítette, majd továbbment.
+{19:20} Elizeus azonnal otthagyta az ökröket, Illés után futott, és így kérlelte: „Hadd menjek haza, hogy szüleimtől elbúcsúzzam! Azután követlek téged.” Illés ezt válaszolta: „Menj csak, tőlem nyugodtan hazamehetsz!”
+{19:21} Elizeus hazament. Azután levágta a pár ökröt, a szántáshoz használt eszközökkel tüzet rakott, megfőzte a húst, és megvendégelte az embereket. Miután együtt ettek, Elizeus csatlakozott Illéshez, és a szolgája lett.
+{i20:1} Háború Izráel és Arám között
+{20:1} Benhadad, Arám királya összegyűjtötte hadseregét, hogy Samária ellen vonuljon. Harminckét király vonult hadba vele együtt, rengeteg harci szekérrel és lóval. Körülvették Samária városát, és ostromolni kezdték.
+{20:2} Benhadad követeket küldött Ahábhoz, Izráel királyához a körülzárt városba ezzel az üzenettel: „Ezt mondja neked Benhadad:
+{20:3} »Ezüstöd és aranyad az enyém, legszebb feleségeid és gyermekeid is az enyémek!«”
+{20:4} Izráel királya válaszul ezt üzente Benhadadnak: „Szolgád vagyok, uram, és minden vagyonom a tiéd!”
+{20:5} Az arám követek hamarosan visszatértek Ahábhoz, ezzel a követeléssel: „Azt üzeni neked Benhadad: »Megmondtam neked, hogy add nekem ezüstödet, aranyadat, feleségeidet és gyermekeidet!
+{20:6} Ezért holnap elküldöm hozzád a szolgáimat, akik átkutatják a palotádat és a szolgáid házait. Elhoznak onnan, amit csak akarnak, és ami csak a számotokra értékes.«”
+{20:7} Akkor Izráel királya összehívta az ország idős vezetőit, és ezt mondta nekik: „Nézzétek, Benhadad a vesztünkre tör! Elküldte követeit, hogy elvigyék feleségeimet, gyermekeimet, aranyamat és ezüstömet. Én pedig nem tagadtam meg tőle.”
+{20:8} De a vezetők és az egész nép azt mondta: „Ne engedj neki! Ne teljesítsd a követelését!”
+{20:9} Akkor Aháb ezt a választ adta Benhadad követeinek: „Mondjátok meg uramnak, Arám királyának: »Amit először mondtál, azt megteszem, de amit másodszorra követelsz tőlem, azt nem teljesítem!«” A követek megvitték a választ,
+{20:10} majd hamarosan visszatértek Ahábhoz. „Ezt üzeni neked Benhadad: »Engem pusztítsanak el az istenek, ha most el nem pusztítom Samáriát! Annyi sem marad belőle, hogy romjaiból a katonáim egy-egy maréknyi port vehessenek a kezükbe!«” — mondták.
+{20:11} Erre azonban Izráel királya így válaszolt: „Mondjátok meg uratoknak, hogy aki felköti a kardját, az ne dicsekedjen úgy, mint aki a győztes csata után leteszi azt!”
+{20:12} Amikor ezzel az üzenettel az arám követek visszamentek Benhadadhoz, ő éppen a többi királlyal együtt lakomázott és borozott a sátrában. Amint meghallotta, mit üzent Aháb, azonnal kiadta a parancsot, hogy serege készüljön az ostromra. Az arám sereg föl is készült Samária megrohanására.
+{20:13} Eközben egy próféta ment Ahábhoz, Izráel királyához, és ezt mondta neki: „Aháb király, ezt üzeni neked az Örökkévaló: »Nézd ezt a hatalmas arám sereget! Még ma kiszolgáltatom neked, hogy megtudd, hogy én vagyok az Örökkévaló!«”
+{20:14} Aháb ezt kérdezte: „Ki által?” A próféta ezt felelte: „Azt mondja az Örökkévaló: »A tartományok kormányzóinak ifjú harcosai által.«” Aháb még megkérdezte: „Ki vezesse a csatát?” „Te magad!” — válaszolta a próféta.
+{20:15} Akkor Aháb összeszámolta a tartományok kormányzóinak ifjú harcosait: összesen 232-en voltak. Azután seregszemlét tartott egész serege fölött: 7 000 harcosa készült a csatára.
+{20:16} Éppen dél volt, amikor Aháb jelt adott seregének a támadásra. Kivonultak a városból, és megtámadták az arám sereget. Benhadad éppen a többi 32 királlyal borozott a sátrában, és már valamennyien részegre itták magukat.
+{20:17} Aháb serege előtt vonultak az ifjak, a tartományok kormányzóinak ifjú harcosai. Benhadadnak jelentették a katonái, hogy Samáriából harcosok jöttek ki.
+{20:18} Ő azt parancsolta: „Akár harcolni jöttek, akár békével, fogjátok el őket elevenen!”
+{20:19} Aháb serege követte az elől haladó ifjakat.
+{20:20} Amikor a két sereg összecsapott, az izráeli ifjak mindannyian levágták azokat az arám katonákat, akik eléjük kerültek. Az arám sereg erre megfutamodott, az izráeliek meg üldözték őket. Maga Benhadad is lóra pattant, és lovasaival együtt elmenekült.
+{20:21} Izráel királya is vágta a menekülőket, a lovasokat és a harci szekereken hercolókat. Nagy győzelmet aratott azon a napon az arám sereg fölött.
+{20:22} Ezután az a próféta ismét Ahábhoz ment és figyelmeztette: „Arám királya jövő tavasszal ismét megtámadja az országodat, ezért készülj föl, erősítsd meg seregedet, és jól gondold meg, mit kell tenned!”
+{20:23} A vesztes csata után tanácsadói ezt mondták Benhadadnak: „Királyunk, a héberek istenei a hegyek istenei, ezért bizonyultak erősebbnek nálunk. De ha síkságon ütközünk meg velük, biztosan legyőzzük őket!
+{20:24} Ezt tanácsoljuk neked: a 32 király helyett bízd a sereg vezetését a saját vezéreidre!
+{20:25} Gyűjts össze ismét olyan sereget, mint amilyet most elvesztettél, ugyanannyi lovast és harci szekeret! Azután ütközzünk meg a héberekkel a síkságon, majd meglátod, hogy akkor miénk lesz a győzelem!” Benhadad elfogadta a tanácsot,
+{20:26} a következő tavasszal ismét összegyűjtötte Arám hadseregét, és Izráel ellen vonult Áfék városához.
+{20:27} Izráel is készült a csatára, összegyűjtötték seregüket, és szintén Áfék mellett vertek tábort. De az ellenséghez képest az izráeli tábor csak akkorának látszott, mint két kis kecskenyáj, míg az arám tábor belepte az egész vidéket.
+{20:28} Akkor az Isten embere előlépett, és ezt mondta Izráel királyának: „Ezt üzeni neked az Örökkévaló: »Az arámok azt mondták, hogy az Örökkévaló csak a hegyek istene, de a síkságon nincs ereje. Emiatt az egész hatalmas arám sereget kiszolgáltatom neked. Akkor megtudod, hogy én vagyok az Örökkévaló!«”
+{20:29} A két sereg ott táborozott, egymással szemben 7 napig. A hetedik napon megütköztek, és Izráel ismét nagy győzelmet aratott: mintegy 100 000 arám gyalogos esett el a csatában egyetlen napon,
+{20:30} csak 27 000 fő maradt életben. Ezek bemenekültek Áfék városába, de ott meg a város fala szakadt rájuk, és úgy pusztultak el. Maga Benhadad király is a városban próbált elrejtőzni, és házról-házra bujkált.
+{20:31} Szolgái ezt tanácsolták neki: „Urunk, azt hallottuk, hogy Izráel királyai nagyon könyörületesek. Kössünk hát zsákot a derekunkra, vegyünk kötelet a nyakunkba, és adjuk meg magunkat Izráel királyának! Akkor talán megkíméli az életünket.”
+{20:32} Így is történt. Benhadad szolgái zsákot kötöttek a derekukra, nyakukra meg kötelet, és így járultak Izráel királya elé, hogy megadják magukat. Ezt mondták Ahábnak: „Szolgád, Benhadad ezt üzeni: »Kíméld meg, kérlek, az életemet!«” Aháb ezt kérdezte: „Hát még életben van? Ha igen, akkor a testvéremnek tekintem!”
+{20:33} A követek sietve szaván fogták, és így válaszoltak: „Igen, Benhadad a testvéred!” „Akkor vezessétek elém!” — mondta Aháb. Amikor Benhadad előjött a rejtekhelyéről, Aháb maga mellé szólította a harci szekerébe.
+{20:34} Benhadad ezt mondta: „Visszaadom neked azokat a városokat, amelyeket apám elvett apádtól. Te pedig bazársorokat nyithatsz Damaszkuszban, ahogy apám is tette Samáriában.” „Rendben van — válaszolta Aháb — , ha megesküdsz erre, szabadon engedlek.” Így hát szövetséget kötöttek egymással, és Benhadad szabadon visszatérhetett a hazájába.
+{i20:35} Prófécia Aháb ellen
+{20:35} Ezután történt, hogy a próféták tanítványai közül az egyik azt mondta a társának: „Kérlek, üss meg engem!” Azért mondta ezt, mert az Örökkévaló parancsolta neki. De a társa nem akarta megütni.
+{20:36} Akkor az első próféta azt mondta neki: „Mivel nem engedelmeskedtél az Örökkévaló szavának, mihelyst elmész innen, egy oroszlán támad rád, és megöl téged.” Így is történt: alighogy elváltak, egy oroszlán támadt rá, és megölte azt a prófétát.
+{20:37} Ezután az első próféta megkért egy másik férfit: „Kérlek, üss meg engem!” Az úgy megütötte, hogy a próféta meg is sebesült.
+{20:38} Ezután a próféta bekötötte sebes arcát, és így nem lehetett ráismerni. Azután odaállt az út szélére, és várta, hogy Aháb király arra jöjjön.
+{20:39} Jött is, a próféta pedig kiáltott hozzá: „Uram, királyom, segíts rajtam! Én is részt vettem az arám sereg ellen vívott csatában. Az egyik társam odahozott hozzám egy arám foglyot, és ezt mondta: »Őrizd ezt a foglyot, amíg visszajövök! Ha hagyod megszökni, életéért az életeddel fizetsz, vagy egy talentum ezüstöt adsz váltságdíjul!«
+{20:40} Nekem azonban valami dolgom akadt máshol, és mire visszamentem, a fogoly megszökött.” A király így válaszolt: „Magad mondtad ki ítéletedet! Beismerted, hogy a te hibádból szökött meg, tehát felelős vagy érte!”
+{20:41} Ekkor azonban a próféta levette a kötést az arcáról, és a király fölismerte, hogy a próféták közé tartozik.
+{20:42} A próféta így szólt a királyhoz: „Ezt mondja neked az Örökkévaló: »Futni engedted azt a férfit, akit én halálra szántam, emiatt életeddel fizetsz életéért, és népeddel népéért!«”
+{20:43} Izráel királya ezután haraggal és elkeseredve ment haza Samáriába.
+{i21:1} Aháb elveszi Nábóttól a szőlőskertjét
+{21:1} Ezek után történt a következő eset. A jezréeli Nábótnak volt egy szép szőlőskertje Ahábnak, Samária királyának a palotája mellett.
+{21:2} Aháb szerette volna megszerezni ezt a kertet, ezért szólt Nábótnak: „Add nekem a szőlőskertedet, mert közel van a palotámhoz! Szeretnék ott egy veteményes kertet telepíteni. Adok cserébe egy jobb szőlőskertet, vagy kifizetem az árát, ha kívánod.”
+{21:3} De Nábót így felelt: „Mentsen meg attól az Örökkévaló, hogy másnak adjam a családi örökségemet!”
+{21:4} Aháb megharagudott és elkeseredett, hogy Nábót nem akart megválni a családi örökségétől. Így ment haza, de annyira el volt keseredve, hogy még enni sem akart, inkább lefeküdt, és a fal felé fordult.
+{21:5} Jezábel, a felesége megkérdezte: „Mi bánt téged? Mitől vagy olyan szomorú, hogy még enni sem akarsz?”
+{21:6} Aháb elmondta, mi történt: „Kértem a jezréeli Nábótot, hogy adja el nekem a szőlőskertjét, mert meg akarom venni tőle. Felajánlottam azt is, hogy adok helyette másikat cserébe, de semmiképpen nem akar megválni tőle.”
+{21:7} „Ugyan — mondta a felesége — , emiatt ne búsulj, hiszen te vagy Izráel királya, nem igaz? Kelj csak föl, egyél-igyál, majd én megszerzem neked Nábót szőlőjét!”
+{21:8} Ezután Jezábel leveleket írt Aháb király nevében, Jezréel városa idős vezetőinek és befolyásos előkelő polgárainak, majd a leveleket a király gyűrűjével lepecsételte.
+{21:9} Ez állt a levelekben: „Hirdessetek böjtöt a városban, hívjátok össze a gyűlést, és ültessétek Nábótot az egyik főhelyre.
+{21:10} Azután keressetek két hitvány férfit, akik hajlandók hamisan tanúskodni Nábót ellen. Mondják azt, hogy hallották, amint Nábót gyalázta Istent és a királyt. Utána vigyétek ki a városból, és kövezzétek meg Nábótot, hogy meghaljon!”
+{21:11} Jezréel vezetői és előkelő polgárai megtették, amit Jezábel írt nekik.
+{21:12} Böjtöt hirdettek, összehívták a népgyűlést, és Nábótot előre ültették.
+{21:13} Két hitvány férfi a népgyűlés előtt azzal vádolta Nábótot, hogy gyalázta Istent és a királyt. Ezután Nábótot kivitték a városból, és halálra kövezték.
+{21:14} Majd üzenetet küldtek Jezábelnek: „Nábótot megköveztük, és meghalt.”
+{21:15} Jezábel, amint megkapta az üzenetet, Ahábhoz sietett: „A jezréeli Nábót meghalt! Most már elfoglalhatod magadnak a szőlőskertjét, amelyet nem akart eladni neked!”
+{21:16} Aháb azonnal oda is ment, és elfoglalta Nábót kertjét.
+{i21:17} Illés kihirdeti az Örökkévaló ítéletét Aháb ellen
+{21:17} Ekkor az Örökkévaló szólt a tisbei Illés prófétának:
+{21:18} „Indulj, és menj el Ahábhoz, Izráel királyához, aki Samáriában uralkodik, és éppen most ment Nábót szőlőskertjébe, hogy azt birtokba vegye.
+{21:19} Ezt mondd neki: »Aháb, ezt üzeni neked az Örökkévaló: Ugye, hogy meggyilkoltad Nábótot? Most még a földjét is elvetted?!« Mondd meg neki: »Tudd meg Aháb, azon a helyen, ahol a kutyák fölnyalták Nábót vérét, ott fogják fölnyalni a te véredet is! — Az Örökkévaló mondja ezt neked!«”
+{21:20} Illés tehát elment Ahábhoz, aki mikor meglátta, így fogadta: „Már megint rám találtál, ellenségem?” „Igen, megtaláltalak — mondta Illés — , mert egészen odaszántad magad, hogy olyan dolgokat tegyél, amelyeket az Örökkévaló gonoszságnak tart!
+{21:21} Ezért halld meg, mit üzen neked az Örökkévaló: »Aháb, emiatt elpusztítalak téged! Sőt, kiirtom minden férfiutódodat, szabadokat és szolgákat egyaránt, hogy írmagjuk sem marad!
+{21:22} Úgy fogok bánni veletek, mint Jeroboám, Nebát fia családjával, és mint Baasá, Ahijjá családjával, mert haragra ingereltél engem, és mert Izráelt bűnbe vitted.
+{21:23} Ami pedig Jezábelt illeti, őt a kutyák fogják széttépni Jezréel falainál.
+{21:24} Aki Aháb családjából a városban hal meg, azt a kutyák eszik meg, aki pedig a városon kívül pusztul el, azt az égi madarak szaggatják szét.«”
+{21:25} Bizony, senki sem követett el annyi gonoszságot és súlyos gaztettet, mint Aháb! Egészen rászánta magát, hogy olyan dolgokat tegyen, amelyeket az Örökkévaló gonoszságnak tart, mert a felesége, Jezábel ösztökélte ezekre a gaztettekre.
+{21:26} Aháb gyalázatos módon imádta a bálványokat. Követte ebben az emóriakat, akiket az Örökkévaló kiirtott Izráel népe elől erről a földről.
+{21:27} Aháb meghallgatta, amit Illés mondott, azután megszaggatta a ruháit, zsákruhát öltött magára, s abban is aludt, böjtölt, és megalázottságban járt-kelt.
+{21:28} Az Örökkévaló így szólt a tisbei Illéshez:
+{21:29} „Láttad, hogy megalázta magát Aháb előttem? Ezért a megígért csapásokat nem az ő életében, hanem csak fia idejében hozom el a családjára.”
+{i22:1} Aháb és a próféták
+{22:1} Ezután három esztendeig nem volt háború Arám és Izráel között.
+{22:2} A harmadik évben Jósafát, Júda királya meglátogatta Ahábot, Izráel királyát.
+{22:3} Amikor a két király és a vezetők együtt voltak, Aháb ezt mondta az udvari embereinek: „Tudjátok, hogy Arám királya elvette tőlünk a gileádi Rámót városát, mi meg nem teszünk semmit, hogy visszaszerezzük!”
+{22:4} Azután Jósafáthoz fordult: „Velem jössz-e harcolni, hogy visszafoglaljuk a gileádi Rámótot?” Jósafát ezt válaszolta Izráel királyának: „Én is elmegyek, akárcsak te — és katonáim is, akárcsak a te katonáid, lovaim is, akárcsak a te lovaid.”
+{22:5} Azután Jósafát még hozzátette: „Előbb azonban kérd ki az Örökkévaló tanácsát!”
+{22:6} Így hát Izráel királya összegyűjtötte országából a prófétákat, 400 férfit, és megkérdezte őket: „Indítsunk-e hadjáratot Rámót-Gileád elfoglalására, vagy ne?” A próféták mind biztatták: „Vonulj fel, Isten a kezedbe adja azt a várost!”
+{22:7} Jósafát mégis megkérdezte: „Nincs már más prófétája az Örökkévalónak, akitől tanácsot kérhetnénk?”
+{22:8} Aháb ezt válaszolta: „Van ugyan még egy, aki által az Örökkévalót megkérdezhetnénk, de őt ki nem állhatom, mert nekem soha nem prófétál jót, csak rosszat! Mikájehú az, Jimlá fia.” Jósafát erre azt mondta: „Ne beszéljen így a király!”
+{22:9} Akkor Aháb szólította egyik udvari emberét: „Siess és hívd ide Mikájehút, Jimlá fiát!”
+{22:10} Izráel királya és Jósafát, Júda királya — mindegyik a maga trónszékén, díszes ruhákba öltözve — Samária kapuja előtt ültek, ahol csépelni szoktak, előttük pedig a próféták prófétáltak.
+{22:11} Az egyikük, Cidkijjá, Kenaaná fia vas-szarvakat készített magának, és ezt mondta a királynak: „Ezt mondja az Örökkévaló: »Ezekkel fogod Arámot öklelni, amíg végleg elpusztítod őket!«”
+{22:12} A többi próféta is hasonlókat prófétált: „Vonulj fel Rámót-Gileád ellen, és győzni fogsz! Az Örökkévaló a kezedbe adja a várost!”
+{i22:13} Mikájehú próféciája
+{22:13} A hírnök, akit a király küldött, eljutott Mikájehúhoz, és ezt mondta neki: „Nézd, a próféták egyhangúlag mind jót prófétálnak a királynak, mondj te is valami jót — akárcsak ők!”
+{22:14} Mikájehú ezt válaszolta: „Amilyen biztos, hogy az Örökkévaló él, olyan biztos, hogy csak azt fogom mondani, amit ő mond nekem!”
+{22:15} Amikor Ahábhoz ért, a király őt is megkérdezte: „Mikájehú, indítsunk-e hadjáratot Rámót-Gileád visszafoglalására, vagy mondjunk le róla?” A próféta ezt felelte: „Menj el Rámót-Gileád elfoglalására, győzni fogsz, és a város a kezedbe kerül.”
+{22:16} De a király rákiáltott: „Hányszor kell még megeskesselek, hogy csak az igazat mondd nekem az Örökkévaló nevében?!”
+{22:17} Akkor Mikájehú ezt mondta: „Láttam Izráel egész népét szétszórva a hegyeken. Szanaszét kóboroltak, mint a pásztor nélkül maradt juhok. Az Örökkévaló pedig ezt mondta: »Nincs már ezeknek gazdájuk! Térjen hát minden férfi az otthonába békében!«”
+{22:18} Ekkor Izráel királya ezt mondta Jósafátnak: „Na ugye, nem megmondtam, hogy ez soha nem prófétál nekem jót, csak rosszat?!”
+{22:19} Akkor Mikájehú így folytatta: „Halljátok az Örökkévaló szavát! Láttam az Örökkévalót a trónján, és az egész mennyei sereget jobb és bal keze felől.
+{22:20} Az Örökkévaló ezt kérdezte: »Ki fogja rávenni Ahábot, Izráel királyát, hogy Rámót-Gileád ellen vonuljon, és ott haljon meg a harcban?« Erre ki ezt, ki azt mondta.
+{22:21} Azután jött egy szellem, az Örökkévaló elé állt, és azt mondta: »Majd én ráveszem Ahábot.« »Hogyan?« — kérdezte az Örökkévaló.
+{22:22} Az így válaszolt: »Elmegyek, és hazugság szelleme leszek Aháb minden prófétájának szájában.« Az Örökkévaló pedig ezt felelte neki: »Rendben van, vezesd félre Ahábot — így sikerülni fog! Menj, és tedd meg, amit mondtál!«
+{22:23} Látod, Aháb király, az Örökkévaló adta a hazugság szellemét a prófétáid szájába! De ő maga mondta ki a vesztedet.”
+{22:24} Ekkor Cidkijjá, Kanaaná fia odalépett Mikájehúhoz, és pofonvágta. „Igen?! Szóval az Örökkévaló Szelleme elhagyott engem, hogy rajtad keresztül szóljon?” — kérdezte.
+{22:25} Mikájehú így válaszolt: „Meg fogod látni azon a napon, amikor rémülten egyik szobából a másikba futkosol, hogy elrejtőzz!”
+{22:26} Akkor Izráel királya megparancsolta: „Fogjátok meg Mikájehút, és vigyétek vissza Ámónhoz, a város kormányzójához és Jóáshoz, a király fiához.
+{22:27} Mondjátok meg nekik: »Ezt parancsolja a király: zárjátok börtönbe, és tartsátok kenyéren és vízen, amíg békében vissza nem térek!«”
+{22:28} Mikájehú csak ennyit mondott: „Ha valóban békességben jössz vissza, akkor nem az Örökkévaló szólt általam!” Majd még felkiáltott: „Halljátok meg ezt valamennyien, és tudja meg az egész nép!”
+{i22:29} Aháb halála
+{22:29} Azután Izráel királya és Jósafát, Júda királya együtt felvonultak seregeikkel Rámót-Gileád ellen.
+{22:30} Izráel királya azt mondta Jósafátnak: „Te csak öltözz a magad királyi ruhájába, de én álruhát veszek, és úgy megyek a csatába.” Úgy is tett: álruhát vett magára, és úgy indult a harcba.
+{22:31} Arám királya a csata előtt azt parancsolta a harci szekerek 32 parancsnokának: „Ne törődjetek senki mással, csak Izráel királyát támadjátok!”
+{22:32} Amikor csata közben a harci szekerek parancsnokai meglátták Jósafátot, azt hitték, hogy ő Izráel királya. Ezért bekerítették, és mindannyian csak őt akarták megölni. Jósafát azonban felkiáltott.
+{22:33} Amikor a harci szekerek parancsnokai meghallották Jósafát csatakiáltását, észrevették, hogy nem ő Izráel királya, elfordultak hát tőle, és otthagyták.
+{22:34} Közben egy harcos csak úgy találomra kilőtt egy nyilat, amely azonban éppen Izráel királyát sebesítette meg. Ahábot olyan helyen találta el a nyíl, ahol a páncéljának a részeit összekapcsolták. Szólt a harci szekere hajtójának: „Fordulj meg, vigyél ki a csatából, mert megsebesültem!”
+{22:35} A harc egyre hevesebb lett, ahogy telt az idő. Aháb, Izráel királya estig a harci szekerébe kapaszkodva tartotta magát az arám sereggel szemben, s közben vére a kocsiba folyt. Amikor a nap leszállt, Aháb meghalt.
+{22:36} Napnyugtakor kiáltás futott végig a seregben: „Térjen vissza mindenki a maga városába! Mindenki a maga hazájába!”
+{22:37} Így halt meg Aháb király. Holttestét visszavitték Samáriába, és ott is temették el.
+{22:38} A király harci kocsiját, amelyet Aháb vére szennyezett be, Samária mellett a víztárolónál mosták tisztára — ahol a prostituáltak szoktak fürödni — , s közben Aháb vérét a kutyák nyaldosták a kocsiról. Pontosan úgy történt, ahogy azt az Örökkévaló előre megmondta.
+{22:39} Aháb többi dolgait, és mindazt, amit uralkodása idején tett, följegyezték az Izráel királyainak történetéről szóló könyvben. Itt olvasható az is, hogy milyen építkezéseket folytatott Izráel városaiban, és hogyan ékesítette elefántcsont díszekkel a palotáját.
+{22:40} Azután Aháb meghalt, és utána a fia, Ahazjá lett Izráel királya.
+{i22:41} Jósafát, Júda királya
+{22:41} Aháb, Izráel királya uralkodásának negyedik évében lépett trónra Jósafát, Ászá fia, Júda királya.
+{22:42} Jósafát 35 éves volt, amikor Jeruzsálemben uralkodni kezdett, és 25 évig volt Júda királya. Anyja, akit Azúbának hívtak, Silhi leánya volt.
+{22:43} Jósafát mindenben követte apja, Ászá példáját, s attól nem tért el. Azt tette, amit az Örökkévaló jónak tart. Ennek ellenére a magaslatokon a nép továbbra is áldozatokat mutatott be, és tömjént füstölögtetett.
+{22:44} Jósafát békességben élt Izráel királyával.
+{22:45} Kiűzte országából azokat a férfi prostituáltakat, akik még apjának, Ászának idejéből megmaradtak.
+{22:46} Jósafát egyéb dolgait, hőstetteit és hadjáratait följegyezték a Júda királyainak történetéről szóló könyvben.
+{22:47} Jósafát idejében nem volt király Edomban, csak helytartó.
+{22:48} Jósafát kereskedőhajókat építtetett, hogy Ófirba küldje azokat aranyért. De ezek a hajók még Ecjón-Geberben összetörtek, és el sem tudtak indulni Ófirba.
+{22:49} Ekkor Ahazjá, Aháb fia fölajánlotta Jósafátnak, hogy szolgái Jósafát szolgáival együtt hajózzanak a tengereken. De Jósafát ezt nem fogadta el.
+{22:50} Azután Jósafát meghalt, és ősapjának, Dávidnak a városában temették el, ősei mellé. Fia, Jórám követte Júda trónján.
+{i22:51} Ahazjá, Izráel királya
+{22:51} Jósafát, Júda királya uralkodásának 17. évében lett Izráel királya Ahazjá, Aháb fia Samáriában, és két évig uralkodott.
+{22:52} Olyan dolgokat tett, amelyeket az Örökkévaló rossznak tart, mert apját és anyját követte. Jeroboám, Nebát fia útján járt, aki bűnbe vezette Izráelt.
+{22:53} Ahazjá is Baált szolgálta és imádta, s ezzel haragra ingerelte az Örökkévalót, Izráel Istenét — éppen úgy, ahogy azt apja tette.

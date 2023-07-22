@@ -1,0 +1,1354 @@
+{i1:1} İsrail'de Yapılan İlk Sayım
+{1:1} İsrailliler'in Mısır'dan çıkışının ikinci yılı, ikinci ayın birinci günü RAB Sina Çölü'nde, Buluşma Çadırı'nda Musa'ya şöyle seslendi:
+{1:2} “Sen ve Harun İsrail topluluğunun bütün boylarıyla ailelerinin sayımını yapın. Bütün erkekleri bir bir sayıp
+{1:3} adlarını yazın. İsrailliler'den savaşabilecek durumda yirmi ve daha yukarı yaştaki bütün erkekleri sayıp bölüklere ayırın.
+{1:4} Size yardım etmek için yanınızda her oymaktan birer adam bulunsun; bu kişiler aile başı olmalı.
+{1:5} Size yardımcı olacak adamların adları şunlardır: “Ruben oymağından: Şedeur oğlu Elisur,
+{1:6} Şimon oymağından: Surişadday oğlu Şelumiel,
+{1:7} Yahuda oymağından: Amminadav oğlu Nahşon,
+{1:8} İssakar oymağından: Suar oğlu Netanel,
+{1:9} Zevulun oymağından: Helon oğlu Eliav,
+{1:10} Yusufoğulları'ndan Efrayim oymağından: Ammihut oğlu Elişama, Manaşşe oymağından: Pedahsur oğlu Gamliel,
+{1:11} Benyamin oymağından: Gidoni oğlu Avidan,
+{1:12} Dan oymağından: Ammişadday oğlu Ahiezer,
+{1:13} Aşer oymağından: Okran oğlu Pagiel,
+{1:14} Gad oymağından: Deuel oğlu Elyasaf,
+{1:15} Naftali oymağından: Enan oğlu Ahira.”
+{1:16} Bunlar İsrail topluluğundan atanmış adamlardı; atalarının soyundan gelen oymak önderleri, İsrail'in boy başlarıydı.
+{1:17} Musa'yla Harun adları bildirilen bu adamları getirttiler.
+{1:18} RAB'bin buyruğu uyarınca ikinci ayın birinci günü bütün halkı topladılar. Yirmi ve daha yukarı yaştakileri
+{1:19} boylarına, ailelerine göre birer birer sayıp adlarını yazdılar. Böylece Musa Sina Çölü'nde halkın sayımını yaptı.
+{1:20} İsrail'in ilk oğlu Ruben'in soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştaki bütün erkekler bağlı oldukları boy ve aileye göre adlarıyla birer birer kayda geçirildi.
+{1:21} Ruben oymağından sayılanlar 46 500 kişiydi.
+{1:22} Şimon'un soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştaki bütün erkekler bağlı oldukları boy ve aileye göre adlarıyla birer birer belirlenip kayda geçirildi.
+{1:23} Şimon oymağından sayılanlar 59 300 kişiydi.
+{1:24} Gad'ın soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:25} Gad oymağından sayılanlar 45 650 kişiydi.
+{1:26} Yahuda'nın soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:27} Yahuda oymağından sayılanlar 74 600 kişiydi.
+{1:28} İssakar'ın soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:29} İssakar oymağından sayılanlar 54 400 kişiydi.
+{1:30} Zevulun'un soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:31} Zevulun oymağından sayılanlar 57 400 kişiydi.
+{1:32} Yusufoğulları'ndan, Efrayim soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:33} Efrayim oymağından sayılanlar 40 500 kişiydi.
+{1:34} Manaşşe'nin soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:35} Manaşşe oymağından sayılanlar 32 200 kişiydi.
+{1:36} Benyamin'in soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:37} Benyamin oymağından sayılanlar 35 400 kişiydi.
+{1:38} Dan'ın soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:39} Dan oymağından sayılanlar 62 700 kişiydi.
+{1:40} Aşer'in soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:41} Aşer oymağından sayılanlar 41 500 kişiydi.
+{1:42} Naftali'nin soyundan olanlar: Savaşabilecek durumda yirmi ve daha yukarı yaştakiler bağlı oldukları boy ve aileye göre adlarıyla kayda geçirildi.
+{1:43} Naftali oymağından sayılanlar 53 400 kişiydi.
+{1:44} Musa, Harun ve İsrail'in on iki önderi tarafından sayılanlar bunlardı. Her önder bağlı olduğu aileyi temsil ediyordu.
+{1:45} İsrail'de savaşabilecek durumda yirmi ve daha yukarı yaştakilerin tümü bağlı oldukları aileye göre sayıldılar.
+{1:46} Sayılanların toplamı 603 550 kişiydi.
+{1:47} Ne var ki, Levi oymağından olanlar öbürleriyle birlikte sayılmadı.
+{1:48} Çünkü RAB Musa'ya şöyle demişti:
+{1:49} “Ancak Levi oymağını sayma, öbür İsrailliler arasında yaptığın sayıma onları katma.
+{1:50} Levililer'i Levha Sandığı'nın bulunduğu konuttan, eşyalardan ve konuta ait her şeyden sorumlu kıl. Konutu ve bütün eşyalarını onlar taşısın; konutun bakımını onlar yapsın, çevresinde ordugah kursun.
+{1:51} Konut taşınırken onu Levililer toplayacak; konaklanacağı zaman da onlar kuracak. Levililer dışında konuta yaklaşan ölüm cezasına çarptırılacak.
+{1:52} İsrailliler çadırlarını bölükler halinde kuracaklar. Herkes kendi ordugahında, kendi sancağının altında bulunacak.
+{1:53} Ancak İsrail topluluğunun gazabıma uğramaması için Levililer Levha Sandığı'nın bulunduğu konutun çevresinde konaklayacak ve konuta bekçilik edecekler.”
+{1:54} İsrailliler bütün bunları tam tamına RAB'bin Musa'ya buyurduğu gibi yaptılar.
+{i2:1} Oymakların Konaklama Düzeni
+{2:1} RAB Musa'yla Harun'a, “İsrailliler sancaklarının altında, aile
+{2:2} bayraklarıyla Buluşma Çadırı'ndan biraz ötede çepeçevre konaklasın” dedi.
+{2:3} Doğuda, gündoğusunda konaklayan bölükler Yahuda ordugahının sancağına bağlı olacak. Yahudaoğulları'nın önderi Amminadav oğlu Nahşon olacak.
+{2:4} Bölüğünün sayısı 74 600 kişiydi.
+{2:5} İssakar oymağı onların bitişiğinde konaklayacak. İssakaroğulları'nın önderi Suar oğlu Netanel olacak.
+{2:6} Bölüğünün sayısı 54 400 kişiydi.
+{2:7} Sonra Zevulun oymağı konaklayacak. Zevulunoğulları'nın önderi Helon oğlu Eliav olacak.
+{2:8} Bölüğünün sayısı 57 400 kişiydi.
+{2:9} Yahuda ordugahına ayrılan bölüklerdeki adam sayısı 186 400 kişiydi. Yola ilk çıkacak olanlar bunlardı.
+{2:10} Güneyde Ruben ordugahının sancağı dikilecek, Ruben'e bağlı bölükler orada konaklayacak. Rubenoğulları'nın önderi Şedeur oğlu Elisur olacak.
+{2:11} Bölüğünün sayısı 46 500 kişiydi.
+{2:12} Şimon oymağı onların bitişiğinde konaklayacak. Şimonoğulları'nın önderi Surişadday oğlu Şelumiel olacak.
+{2:13} Bölüğünün sayısı 59 300 kişiydi.
+{2:14} Sonra Gad oymağı konaklayacak. Gadoğulları'nın önderi Deuel oğlu Elyasaf olacak.
+{2:15} Bölüğünün sayısı 45 650 kişiydi.
+{2:16} Ruben ordugahına ayrılan bölüklerdeki adam sayısı 151 450 kişiydi. İkinci sırada yola çıkacak olanlar bunlardı.
+{2:17} Buluşma Çadırı ve Levililer'in ordugahı göç sırasında öbür ordugahların ortasında yola çıkacak. Herkes konakladığı düzende kendi sancağı altında göç edecek.
+{2:18} Batıda Efrayim ordugahının sancağı dikilecek, Efrayim'e bağlı bölükler orada konaklayacak. Efrayimoğulları'nın önderi Ammihut oğlu Elişama olacak.
+{2:19} Bölüğünün sayısı 40 500 kişiydi.
+{2:20} Manaşşe oymağı onlara bitişik olacak. Manaşşeoğulları'nın önderi Pedahsur oğlu Gamliel olacak.
+{2:21} Bölüğünün sayısı 32 200 kişiydi.
+{2:22} Sonra Benyamin oymağı konaklayacak. Benyaminoğulları'nın önderi Gidoni oğlu Avidan olacak.
+{2:23} Bölüğünün sayısı 35 400 kişiydi.
+{2:24} Efrayim ordugahına ayrılan bölüklerdeki adam sayısı 108 100 kişiydi. Üçüncü olarak bunlar yola çıkacak.
+{2:25} Kuzeyde Dan ordugahının sancağı dikilecek, Dan'a bağlı bölükler orada konaklayacak. Danoğulları'nın önderi Ammişadday oğlu Ahiezer olacak.
+{2:26} Bölüğünün sayısı 62 700 kişiydi.
+{2:27} Aşer oymağı onların bitişiğinde konaklayacak. Aşeroğulları'nın önderi Okran oğlu Pagiel olacak.
+{2:28} Bölüğünün sayısı 41 500 kişiydi.
+{2:29} Sonra Naftali oymağı konaklayacak. Naftalioğulları'nın önderi Enan oğlu Ahira olacak.
+{2:30} Bölüğünün sayısı 53 400 kişiydi.
+{2:31} Dan ordugahına ayrılan adamların sayısı 157 600 kişiydi. Kendi sancakları altında en son onlar yola çıkacak.
+{2:32} Ailelerine göre sayılan İsrailliler bunlardı. Ordugahlardaki bütün bölüklerin toplamı 603 550 kişiydi.
+{2:33} RAB'bin Musa'ya verdiği buyruk uyarınca Levililer öbür İsrailliler'le birlikte sayılmadı.
+{2:34} Böylece İsrailliler RAB'bin Musa'ya buyurduğu gibi yaptılar. Sancakları altında ordugah kurdular. Göç ederken de herkes boyu ve ailesiyle birlikte yola çıktı.
+{i3:1} Levililer'in Görevleri
+{3:1} RAB Sina Dağı'nda Musa'ya seslendiği sırada Harun'la Musa'nın çocukları şunlardı.
+{3:2} Harun'un oğulları: İlk oğlu Nadav, Avihu, Elazar, İtamar.
+{3:3} Harun'un kâhin atanıp meshedilen oğulları bunlardı.
+{3:4} Nadav'la Avihu Sina Çölü'nde RAB'bin önünde kurallara aykırı bir ateş sunarken öldüler. Oğulları yoktu. Elazar'la İtamar babaları Harun'un yanında kâhinlik ettiler.
+{3:5} RAB Musa'ya şöyle dedi:
+{3:6} “Kâhin Harun'a yardım etmek üzere Levi oymağını çağırıp görevlendir.
+{3:7} Buluşma Çadırı'nda Harun'la bütün topluluk adına konutla ilgili hizmeti yürütsünler.
+{3:8} Buluşma Çadırı'ndaki bütün eşyalardan sorumlu olacak, İsrailliler adına konuta ilişkin hizmeti yerine getirecekler.
+{3:9} Levililer'i Harun'la oğullarının hizmetine ver. İsrailliler arasında tümüyle onun hizmetine ayrılanlar onlardır.
+{3:10} Kâhinlik görevini sürdürmek üzere Harun'la oğullarını görevlendir. Kutsal yere onlardan başka her kim yaklaşırsa öldürülecektir.”
+{3:11} RAB Musa'ya şöyle dedi:
+{3:12} “İşte İsrailli kadınların doğurduğu ilk erkek çocukların yerine İsrailliler arasından Levililer'i seçtim. Onlar benim olacaktır.
+{3:13} Çünkü bütün ilk doğanlar benimdir. Mısır'da ilk doğanların hepsini yok ettiğim gün, İsrail'de insan olsun hayvan olsun bütün ilk doğanları kendime ayırdım. Onlar benim olacak. Ben RAB'bim.”
+{3:14} RAB Musa'ya Sina Çölü'nde şöyle dedi:
+{3:15} “Levioğulları'nı ailelerine ve boylarına göre say. Bir aylık ve daha yukarı yaştaki her erkeği sayacaksın.”
+{3:16} Böylece Musa RAB'bin buyruğu uyarınca onları saydı.
+{3:17} Levi'nin oğullarının adları şunlardı: Gerşon, Kehat, Merari.
+{3:18} Gerşon'un boy başı olan oğulları şunlardı: Livni, Şimi.
+{3:19} Kehat'ın boy başı olan oğulları: Amram, Yishar, Hevron, Uzziel.
+{3:20} Merari'nin boy başı olan oğulları: Mahli, Muşi. Ailelerine göre Levi boyları bunlardı.
+{3:21} Livni ve Şimi boyları Gerşon soyundandı. Gerşon boyları bunlardı.
+{3:22} Bir aylık ve daha yukarı yaştaki bütün erkeklerin sayısı 7 500'dü.
+{3:23} Gerşon boyları batıda konutun arkasında konaklayacaktı.
+{3:24} Gerşon'a bağlı ailelerin önderi Lael oğlu Elyasaf'tı.
+{3:25} Buluşma Çadırı'nda Gerşonoğulları konuttan, çadırın örtüsünden, Buluşma Çadırı'nın girişindeki perdeden,
+{3:26} konutla sunağı çevreleyen avlunun perdelerinden, avlunun girişindeki perdeyle iplerden ve bunların kullanımından sorumlu olacaktı.
+{3:27} Amram, Yishar, Hevron ve Uzziel boyları Kehat soyundandı. Kehat boyları bunlardı.
+{3:28} Bir aylık ve daha yukarı yaştaki bütün erkeklerin sayısı 8 600'dü. Bunlar kutsal yerden sorumluydular.
+{3:29} Kehat boyları konutun güney yanında konaklayacaktı.
+{3:30} Kehat boylarına bağlı ailelerin önderi Uzziel oğlu Elisafan'dı.
+{3:31} Kehatlılar Antlaşma Sandığı'ndan*, masayla kandillikten, sunaklardan, kutsal yerin eşyalarından, perdeden ve bunların kullanımından sorumlu olacaktı.
+{3:32} Levili önderlerin başı Kâhin Harun'un oğlu Elazar olacak, kutsal yerden sorumlu olanları o yönetecekti.
+{3:33} Mahli ve Muşi boyları Merari soyundandı. Merari boyları bunlardı.
+{3:34} Bir aylık ve daha yukarı yaştaki bütün erkeklerin sayısı 6 200'dü.
+{3:35} Merari boylarına bağlı ailelerin önderi Avihayil oğlu Suriel'di. Merari boyları konutun kuzey yanında konaklayacaktı.
+{3:36} Merarioğulları konutun çerçevelerinden, kirişlerinden, direklerinden, tabanlarından, takımlarından ve bunların kullanımından,
+{3:37} konutu çevreleyen avlunun direkleriyle tabanlarından, kazıklarıyla iplerinden sorumlu olacaktı.
+{3:38} Musa, Harun ve oğulları konutun önünde, gündoğusu yönünde Buluşma Çadırı'nın önünde konaklayacaklardı. İsrailliler adına kutsal yerin bakımından sorumlu olacaklardı. Kutsal yere başka her kim yaklaşırsa öldürülecekti.
+{3:39} RAB'bin buyruğu uyarınca Musa'yla Harun'un Levili boylardan saydıkları bir aylık ve daha yukarı yaştaki bütün erkeklerin sayısı 22 000'di.
+{3:40} Sonra RAB Musa'ya, “İsrailliler'in bir aylık ve daha yukarı yaştaki ilk doğan bütün erkeklerini say, adlarını yaz” dedi,
+{3:41} “İsrailliler'in bütün ilk doğanlarının yerine Levililer'i, yine İsrailliler'in ilk doğan hayvanlarının yerine Levililer'in hayvanlarını bana ayır. Ben RAB'bim.”
+{3:42} Böylece Musa, RAB'bin buyurduğu gibi, İsrailliler arasında ilk doğanların tümünü saydı.
+{3:43} Adlarıyla yazılan, ilk doğan bir aylık ve daha yukarı yaştaki erkeklerin sayısı 22 273'tü.
+{3:44} RAB Musa'ya şöyle dedi:
+{3:45} “İsrailliler'in ilk doğanları yerine Levililer'i, hayvanları yerine de Levililer'in hayvanlarını ayır. Levililer benim olacak. Ben RAB'bim.
+{3:46} İsrailliler'in ilk doğanlarından olup Levililer'in sayısını aşan 273 kişi için bedel alacaksın.
+{3:47} Adam başına beşer şekel al. Kutsal yerin yirmi geradan oluşan şekelini ölçü tut.
+{3:48} Levililer'in sayısını aşanlardan bedel olarak alınan parayı Harun'la oğullarına ver.”
+{3:49} Böylece Musa, bedeli Levililer olanların sayısını aşan İsrailliler'den bedel parasını aldı.
+{3:50} İsrailliler'in ilk doğanlarından 1 365 kutsal yerin şekeli aldı.
+{3:51} RAB'bin sözü uyarınca, RAB'bin kendisine buyurduğu gibi, bedel parasını Harun'la oğullarına verdi.
+{i4:1} Kehatoğulları'nın Görevleri
+{4:1} RAB Musa'yla Harun'a, “Levi oymağında Kehatoğulları'na bağlı
+{4:2} boy ve aileler arasında sayım yapın” dedi,
+{4:3} “Buluşma Çadırı'nda hizmet etmeye gelen otuz ile elli yaş arasındaki adamların hepsini sayın.
+{4:4} “Kehatoğulları'nın Buluşma Çadırı'ndaki görevi şudur: En kutsal eşyaları taşımak.
+{4:5} Ordugah taşınacağı zaman Harun'la oğulları gelip bölme perdesini indirecekler ve Levha Sandığı'nı bununla örtecekler.
+{4:6} Sonra üzerine deri bir örtü geçirecek, üstüne de salt lacivert bir bez serecek, sırıklarını yerine koyacaklar.
+{4:7} “Kutsal masanın üzerine lacivert bir bez serip üzerine tabakları, sahanları, tasları, dökmelik sunu testilerini koyacaklar. Masada sürekli ekmek bulunmasını sağlayacaklar.
+{4:8} Bunların üzerine kırmızı bir bez serip deri bir örtüyle örtecek, sırıklarını yerine koyacaklar.
+{4:9} “Işık veren kandilliği, kandillerini, fitil maşalarını, tablalarını ve zeytinyağı için kullanılan kaplarını lacivert bir bezle örtecekler.
+{4:10} Kandillikle takımlarını deri bir örtüye sarıp sedyenin üzerine koyacaklar.
+{4:11} “Altın sunağın üzerine lacivert bir bez serip üzerine deri bir örtü örtecek, sırıklarını yerine koyacaklar.
+{4:12} Kutsal yerde kullanılan bütün eşyaları lacivert bir beze sarıp deri bir örtüyle örtecek, sedyenin üzerine koyacaklar.
+{4:13} Sunaktan yağı, külü kaldıracak, sunağı mor bir bezle örtecekler.
+{4:14} Sonra üzerine hizmet için kullanılan bütün takımları, ateş kaplarını, büyük çatalları, kürekleri, çanakları yerleştirip deri bir örtüyle örtecek, sırıklarını yerine koyacaklar.
+{4:15} “Ordugah başka yere taşınırken Harun'la oğulları kutsal yere ait bütün eşyaları ve takımları örtmeyi bitirdikten sonra, Kehatoğulları onları taşımaya gelecekler. Ölmemek için kutsal eşyalara dokunmayacaklar. Buluşma Çadırı'ndaki bu eşyaların taşınması Kehatoğulları'nın sorumluluğu altındadır.
+{4:16} “Kâhin Harun oğlu Elazar ışık için zeytinyağından, güzel kokulu buhurdan, günlük tahıl sunusundan ve mesh yağından –konuttan ve içindeki her şeyden– kutsal yerle eşyalarından sorumlu olacaktır.”
+{4:17} RAB Musa'yla Harun'a şöyle dedi:
+{4:18} “Kehat boylarının Levililer'in arasından yok olmasına yol açmayın.
+{4:19} En kutsal eşyalara yaklaşınca ölmemeleri için şöyle yapın: Harun'la oğulları kutsal yere girecek, her adamı göreceği işe atayıp ne taşıyacağını bildirecek.
+{4:20} Ancak Kehatoğulları içeri girip bir an bile kutsal eşyalara bakmamalı, yoksa ölürler.”
+{i4:21} Gerşonoğulları'nın Görevleri
+{4:21} RAB Musa'ya şöyle dedi:
+{4:22} “Gerşonoğulları'nı da boylarına, ailelerine göre say.
+{4:23} Buluşma Çadırı'ndaki işlerde çalışabilecek otuz ile elli yaş arasındaki bütün erkekleri say.
+{4:24} “Hizmet etmek ve yük taşımak konusunda Gerşon boylarının sorumluluğu şudur:
+{4:25} Konutun perdelerini, Buluşma Çadırı'nı ve örtüsünü, üzerindeki deri örtüyü, Buluşma Çadırı'nın girişindeki perdeyi, konutla sunağı çevreleyen avlunun
+{4:26} perdelerini, girişindeki perdeyi, ipleri ve bu amaçla kullanılan bütün eşyaları taşıyacaklar. Bu konuda gereken her şeyi Gerşonoğulları yapacak.
+{4:27} Yapacakları bütün hizmetler –yük taşıma ya da başka bir iş– Harun'la oğullarının yönetimi altında yapılacaktır. Taşıyacakları yükten Gerşonoğulları'nı sorumlu tutacaksınız.
+{4:28} Gerşon boylarının Buluşma Çadırı'yla ilgili görevi budur. Kâhin Harun oğlu İtamar'ın yönetimi altında hizmet edecekler.”
+{i4:29} Merarioğulları'nın Görevleri
+{4:29} “Boylarına ve ailelerine göre Merarioğulları'nı say.
+{4:30} Buluşma Çadırı'ndaki işlerde çalışabilecek otuz ile elli yaş arasındaki bütün erkekleri say.
+{4:31} Buluşma Çadırı'nda hizmet ederken şunları yapacaklar: Konutun çerçevelerini, kirişlerini, direklerini, tabanlarını,
+{4:32} çadırı çevreleyen avlunun direkleriyle tabanlarını, kazıklarını, iplerini ve bunların kullanımıyla ilgili bütün eşyaları taşıyacaklar. Herkesi yapacağı belirli işe ata.
+{4:33} Merari boylarının Buluşma Çadırı'yla ilgili görevi budur. Kâhin Harun oğlu İtamar'ın yönetimi altında hizmet edecekler.”
+{i4:34} Levililer'in Sayımı
+{4:34} Musa, Harun ve topluluğun önderleri, boylarına ve ailelerine göre Kehatoğulları'nı, Buluşma
+{4:35} Çadırı'ndaki işlerde çalışabilecek otuz ile elli yaş arasındaki bütün erkekleri saydılar.
+{4:36} Boylarına göre sayılanlar 2 750 kişiydi.
+{4:37} Buluşma Çadırı'nda hizmet gören Kehat boylarından sayılanlar bunlardı. RAB'bin Musa'ya verdiği buyruk uyarınca Musa'yla Harun onları saydılar.
+{4:38} Gerşonoğulları'ndan boylarına ve ailelerine göre Buluşma Çadırı'ndaki işlerde
+{4:39} çalışabilecek otuz ile elli yaş arasındaki bütün erkekleri saydılar.
+{4:40} Boylarına ve ailelerine göre sayılanlar 2 630 kişiydi.
+{4:41} Buluşma Çadırı'nda hizmet gören Gerşon boylarından sayılanlar bunlardı. RAB'bin buyruğu uyarınca Musa'yla Harun onları saydılar.
+{4:42} Merari boylarına ve ailelerine göre Buluşma Çadırı'ndaki işlerde
+{4:43} çalışabilecek otuz ile elli yaş arasındaki bütün erkekleri saydılar.
+{4:44} Boylarına göre sayılanlar 3 200 kişiydi.
+{4:45} Buluşma Çadırı'nda hizmet gören Merari boylarından sayılanlar bunlardı. RAB'bin Musa'ya verdiği buyruk uyarınca Musa'yla Harun onları saydılar.
+{4:46} Böylece Musa, Harun ve İsrail önderleri, boylarına ve ailelerine göre Levililer'i, Buluşma Çadırı'nda hizmet
+{4:47} gören ve yük taşıma işini yapan otuz ile elli yaş arasındaki bütün erkekleri saydılar.
+{4:48} Sayılanlar 8 580 kişiydi.
+{4:49} RAB'bin Musa'ya verdiği buyruk uyarınca, herkes yapacağı hizmete ve taşıyacağı yüke göre atandı. Böylece RAB'bin Musa'ya verdiği buyruk uyarınca yazıldılar.
+{i5:1} Topluluğu Temiz Tutmak
+{5:1} RAB Musa'ya şöyle dedi:
+{5:2} “İsrail halkına de ki, deri hastalığı veya akıntısı olan ya da ölüye dokunduğundan kirli sayılan herkesi ordugahın dışına çıkarsınlar.
+{5:3} Erkeği de kadını da çıkaracaksınız. Aralarında yaşadığım ordugahlarını kirletmemeleri için onları ordugahın dışına çıkaracaksınız.”
+{5:4} İsrail halkı denileni yaparak RAB'bin Musa'ya buyurduğu gibi onları ordugahın dışına çıkardı.
+{5:5} RAB Musa'ya şöyle dedi:
+{5:6} “İsrail halkına de ki, ‘Bir erkek ya da kadın, insanın işleyebileceği günahlardan birini işler, RAB'be ihanet ederse o kişi suçlu sayılır.
+{5:7} İşlediği günahı itiraf etmeli. Karşılığını, beşte birini üzerine ekleyerek suç işlediği kişiye ödeyecek.
+{5:8} Eğer kişinin işlenen suçun karşılığını alacak bir yakını yoksa, suçun karşılığı RAB'be ait olacak. Günahın bağışlanması için sunulan bağışlamalık koçla birlikte suçun karşılığı da kâhine verilecek.
+{5:9} İsrail halkının kâhine sunduğu kutsal armağanların bağış kısımları kâhinin olacak.
+{5:10} Herkesin kendine ayırdığı sunular kendinin, ama kâhine verdikleri kâhinin olacaktır.’”
+{5:11} RAB Musa'ya şöyle dedi:
+{5:12} “İsrail halkına de ki, ‘Eğer bir adamın karısı yoldan çıkar, ona ihanet eder,
+{5:13} başka bir adamla yatar, kirlendiği halde bu olayı kocasından gizlerse ve tanık olmadığı için kadının yaptığı ortaya çıkmazsa,
+{5:14} koca karısını kıskanır, ona karşı yüreğinde kuşku uyanırsa, kadın suçluysa ya da suçlu olmadığı halde kocası onu kıskanır, ona karşı yüreğinde kuşku uyanırsa,
+{5:15} adam karısını kâhine götürecek. Karısı için sunu olarak onda bir efa arpa unu alacak. Üzerine zeytinyağı dökmeyecek, günnük koymayacak. Çünkü bu kıskançlık sunusudur. Suçu anımsatan anımsatma sunusudur.
+{5:16} “‘Kâhin kadını öne çağırıp RAB'bin önünde durmasını sağlayacak.
+{5:17} Sonra, toprak bir kabın içine kutsal su koyacak. Konutun kurulu olduğu yerden biraz toprak alıp suya katacak.
+{5:18} Kadını RAB'bin önünde durdurduktan sonra onun saçını açacak, anımsatma sunusu, yani kıskançlık sunusunu eline verecek. Kendisi de lanet getiren acı suyu elinde tutacak.
+{5:19} Sonra kadına ant içirtip şöyle diyecek: Eğer başka bir adam seninle yatmadıysa, kocanla evliyken yoldan çıkıp günah işlemediysen, lanet getiren bu acı su sana zarar vermesin.
+{5:20} Ama kocanla evliyken yoldan çıkıp başka biriyle yatarak günah işlediysen
+{5:21} –kâhin kadına lanet andı içirtip şöyle diyecek– RAB sana eriyen kalça, şişen karın versin. RAB halkın arasında seni lanetli ve iğrenç duruma düşürsün.
+{5:22} Lanet getiren bu su karnına girince karnını şişirsin, kalçanı eritsin. “‘O zaman kadın, Amin, amin, diyecek.
+{5:23} “‘Kâhin bu lanetleri bir kitaba yazıp acı suda yıkayacak.
+{5:24} Lanet getiren acı suyu kadına içirecek. Su kadının içine girince acılık verecek.
+{5:25} Kâhin kadının elinden kıskançlık sunusunu alacak, RAB'bin huzurunda salladıktan sonra sunağa getirecek.
+{5:26} Kadının anma payı olarak sunudan bir avuç alıp sunakta yakacak. Sonra kadına suyu içirecek.
+{5:27} Eğer kadın kocasına ihanet etmiş, kendini kirletmişse, lanet getiren suyu içince acı duyacak; karnı şişip kalçası eriyecek. Halkı arasında lanetli olacak.
+{5:28} Ama kendini kirletmemişse, temizse, zarar görmeyecek, çocuk doğurabilecek.
+{5:29} “‘Kıskançlık yasası budur. Bir kadın yoldan çıkar, kocasıyla evliyken kendini kirletirse,
+{5:30} ya da bir koca karısını kıskanır, ona karşı yüreğinde kuşku uyanırsa, kâhin kadını RAB'bin önünde durduracak, bu yasayı ona uygulayacak.
+{5:31} Kocası herhangi bir suçtan suçsuz sayılacak, kadınsa suçunun cezasını çekecek.’”
+{i6:1} Rab'bin Adanmışı
+{6:1} RAB Musa'ya şöyle dedi:
+{6:2} “İsrail halkına de ki, ‘Eğer bir erkek ya da kadın RAB'be adanmış kişi olarak RAB'be özel bir adak adamak, kendini RAB'be adamak isterse,
+{6:3} şaraptan ya da herhangi bir içkiden kaçınacak, şaraptan ya da başka içkilerden yapılmış sirke içmeyecek. Üzüm suyu da içmeyecek. Yaş ya da kuru üzüm yemeyecek.
+{6:4} RAB'be adanmışlığı süresince çekirdekten kabuğuna dek asmanın ürününden hiçbir şey yemeyecek.
+{6:5} “‘RAB'be adanmışlığı süresince başına ustura değmeyecek. Kendini RAB'be adadığı günler tamamlanıncaya dek kutsal olacak, saçını uzatacak.
+{6:6} Kendini RAB'be adadığı günler boyunca ölüye yaklaşmayacak.
+{6:7} Annesi, babası, erkek ya da kız kardeşi ölse bile onlar için kendini kirletmeyecek. Çünkü kendini Tanrısı'na adama simgesi başı üzerindedir.
+{6:8} Adanmışlığı süresince RAB için kutsal olacaktır.
+{6:9} “‘Eğer ansızın yanında biri ölür, adamış olduğu başını kirletirse, temizlendiği gün, yedinci gün saçını tıraş edecek.
+{6:10} Sekizinci gün Buluşma Çadırı'nın giriş bölümünde kâhine iki kumru ya da iki güvercin sunacak.
+{6:11} Kâhin birini günah sunusu, öbürünü yakmalık sunu olarak sunacak. Böylece ölünün yanında bulunmakla kirlenen adam arınacak. O gün başını yeniden adayacak.
+{6:12} Adanmışlığı süresince kendini RAB'be yeniden adayacak. Suç sunusu olarak bir yaşında bir erkek kuzu getirecek. Önceki günler sayılmayacak, çünkü adanmışlığı kirlenmiş sayıldı.
+{6:13} “‘Adanmış kişi için yasa şudur: Kendini adamış olduğu günler tamamlanınca, Buluşma Çadırı'nın giriş bölümüne getirilecek.
+{6:14} Orada RAB'be sunularını sunacak: Yakmalık sunu için bir yaşında kusursuz bir erkek kuzu, günah sunusu olarak bir yaşında kusursuz bir dişi kuzu, esenlik sunusu için kusursuz bir koç,
+{6:15} tahıl sunusu ve dökmelik sunularla birlikte bir sepet mayasız ekmek, ince undan zeytinyağıyla yoğrulmuş pideler, üzerine yağ sürülmüş mayasız yufkalar.
+{6:16} “‘Kâhin bunları günah sunusu ve yakmalık sunu olarak RAB'bin önünde sunacak.
+{6:17} Esenlik kurbanı olarak da koçu mayasız ekmek sepetiyle birlikte RAB'be sunacak. İlgili tahıl ve dökmelik sunuları da sunacak.
+{6:18} “‘Sonra adanmış kişi Buluşma Çadırı'nın giriş bölümünde adadığı saçını tıraş edecek, saçını alıp esenlik kurbanının altındaki ateşe koyacak.
+{6:19} “‘Adanmış kişi adadığı saçını tıraş ettikten sonra, kâhin koçun haşlanmış budunu, sepetten alacağı mayasız pide ve mayasız yufkayla birlikte adanmış kişinin eline koyacak.
+{6:20} Sonra sallamalık sunu olarak RAB'bin huzurunda bunları sallayacak. Bunlar sallanan döş ve bağış olarak sunulan butla birlikte kutsaldır, kâhin için ayrılacaktır. Bundan sonra adanmış kişi şarap içebilir.
+{6:21} “‘Adak adayan adanmış kişiyle ilgili yasa budur. RAB'be sunacağı sunu adağı uyarınca olacak. Elinden geldiğince daha fazlasını verebilir. Adanmışlıkla ilgili yasa uyarınca adadığı adağı yerine getirmelidir.’”
+{i6:22} Kâhinin Yapacağı Kutsama
+{6:22} RAB Musa'ya şöyle dedi:
+{6:23} “Harun'la oğullarına de ki, ‘İsrail halkını şöyle kutsayacaksınız. Onlara diyeceksiniz ki,
+{6:24} RAB sizi kutsasın Ve korusun;
+{6:25} RAB aydın yüzünü size göstersin Ve size lütfetsin;
+{6:26} RAB yüzünü size çevirsin Ve size esenlik versin.’
+{6:27} “Böylece kâhinler İsrail halkını adımı anarak kutsayacaklar. Ben de onları kutsayacağım.”
+{i7:1} Önderlerin Rab'be Verdiği Armağanlar
+{7:1} Musa konutu bitirdiği gün onu meshetti. Onu ve içindeki bütün eşyaları, sunağı ve bütün takımlarını da meshedip adadı.
+{7:2} Sonra İsrail ileri gelenleri, sayılanlardan sorumlu olan aile ve oymak önderleri armağanlar sundular. RAB'be armağan olarak üstü kapalı altı araba
+{7:3} ve on iki öküz getirdiler: Her iki önder için bir araba, her önder için bir öküz. Bu armağanları konutun önüne getirdiler.
+{7:4} Sonra RAB Musa'ya, “Bunları Buluşma Çadırı'ndaki hizmetlerde kullanılmak
+{7:5} üzere onlardan alıp yapacakları işe göre Levililer'e ver” dedi.
+{7:6} Musa arabaları, öküzleri alıp Levililer'e verdi.
+{7:7} Yapacakları işe göre Gerşonoğulları'na iki arabayla dört öküz,
+{7:8} Merarioğulları'na da dört arabayla sekiz öküz verdi. Bunlar Kâhin Harun oğlu İtamar'ın sorumluluğu altında yapıldı.
+{7:9} Kehatoğulları'na ise bir şey vermedi. Çünkü onların görevi kutsal eşyaları omuzlarında taşımaktı.
+{7:10} Meshedilen sunağın adanması için önderler armağanlarını sunağın önüne getirdiler.
+{7:11} Çünkü RAB Musa'ya, “Sunağın adanması için her gün bir önder kendi armağanını sunacak” demişti.
+{7:12} Birinci gün Yahuda oymağından Amminadav oğlu Nahşon armağanlarını sundu.
+{7:13} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:14} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:15} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:16} günah sunusu için bir teke;
+{7:17} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Amminadav oğlu Nahşon'un getirdiği armağanlar bunlardı.
+{7:18} İkinci gün İssakar oymağı önderi Suar oğlu Netanel armağanlarını sundu.
+{7:19} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:20} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:21} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:22} günah sunusu için bir teke;
+{7:23} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Suar oğlu Netanel'in getirdiği armağanlar bunlardı.
+{7:24} Üçüncü gün Zevulun oymağı önderi Helon oğlu Eliav armağanlarını sundu.
+{7:25} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:26} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:27} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:28} günah sunusu için bir teke;
+{7:29} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Helon oğlu Eliav'ın getirdiği armağanlar bunlardı.
+{7:30} Dördüncü gün Ruben oymağı önderi Şedeur oğlu Elisur armağanlarını sundu.
+{7:31} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:32} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:33} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:34} günah sunusu için bir teke;
+{7:35} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Şedeur oğlu Elisur'un getirdiği armağanlar bunlardı.
+{7:36} Beşinci gün Şimon oymağı önderi Surişadday oğlu Şelumiel armağanlarını sundu.
+{7:37} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:38} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:39} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:40} günah sunusu için bir teke;
+{7:41} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Surişadday oğlu Şelumiel'in getirdiği armağanlar bunlardı.
+{7:42} Altıncı gün Gad oymağı önderi Deuel oğlu Elyasaf armağanlarını sundu.
+{7:43} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:44} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:45} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:46} günah sunusu için bir teke;
+{7:47} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Deuel oğlu Elyasaf'ın getirdiği armağanlar bunlardı.
+{7:48} Yedinci gün Efrayim oymağı önderi Ammihut oğlu Elişama armağanlarını sundu.
+{7:49} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:50} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:51} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:52} günah sunusu için bir teke;
+{7:53} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Ammihut oğlu Elişama'nın getirdiği armağanlar bunlardı.
+{7:54} Sekizinci gün Manaşşe oymağı önderi Pedahsur oğlu Gamliel armağanlarını sundu.
+{7:55} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:56} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:57} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:58} günah sunusu için bir teke;
+{7:59} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Pedahsur oğlu Gamliel'in getirdiği armağanlar bunlardı.
+{7:60} Dokuzuncu gün Benyamin oymağı önderi Gidoni oğlu Avidan armağanlarını sundu.
+{7:61} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:62} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:63} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:64} günah sunusu için bir teke;
+{7:65} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Gidoni oğlu Avidan'ın getirdiği armağanlar bunlardı.
+{7:66} Onuncu gün Dan oymağı önderi Ammişadday oğlu Ahiezer armağanlarını sundu.
+{7:67} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:68} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:69} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:70} günah sunusu için bir teke;
+{7:71} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Ammişadday oğlu Ahiezer'in getirdiği armağanlar bunlardı.
+{7:72} On birinci gün Aşer oymağı önderi Okran oğlu Pagiel armağanlarını sundu.
+{7:73} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:74} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:75} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:76} günah sunusu için bir teke;
+{7:77} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Okran oğlu Pagiel'in getirdiği armağanlar bunlardı.
+{7:78} On ikinci gün Naftali oymağı önderi Enan oğlu Ahira armağanlarını sundu.
+{7:79} Getirdiği armağanlar şunlardı: 130 kutsal yerin şekeli ağırlığında gümüş bir tabak, yetmiş şekel ağırlığında gümüş bir çanak –ikisi de tahıl sunusu için zeytinyağıyla yoğrulmuş ince un doluydu–
+{7:80} buhur dolu on şekel ağırlığında altın bir tabak;
+{7:81} yakmalık sunu için bir boğa, bir koç, bir yaşında bir erkek kuzu;
+{7:82} günah sunusu için bir teke;
+{7:83} esenlik kurbanı için iki sığır, beş koç, beş teke, bir yaşında beş kuzu. Enan oğlu Ahira'nın getirdiği armağanlar bunlardı.
+{7:84} Sunak meshedildiğinde İsrail önderlerinin adanması için sunduğu armağanlar şunlardı: On iki gümüş tabak, on iki gümüş çanak, on iki altın tabak;
+{7:85} her gümüş tabağın ağırlığı 130 şekel, her çanağın ağırlığı yetmiş şekeldi. Bütün gümüş eşyaların toplam ağırlığı 2 400 kutsal yerin şekeliydi.
+{7:86} Buhur dolu on iki altın tabağın her birinin ağırlığı on kutsal yerin şekeliydi. Bütün altın tabakların toplam ağırlığı 120 şekeldi.
+{7:87} Yakmalık sunu için tahıl sunularıyla birlikte sunulan hayvanların sayısı on iki boğa, on iki koç, bir yaşında on iki erkek kuzuydu; günah sunusu için de on iki teke sunuldu.
+{7:88} Esenlik kurbanı için sunulan hayvanların sayısı yirmi dört sığır, altmış koç, altmış teke, bir yaşında altmış kuzuydu. Sunak meshedildikten sonra, adanması için verilen armağanlar bunlardı.
+{7:89} Musa RAB'le konuşmak için Buluşma Çadırı'na girince, Levha Sandığı'nın Bağışlanma Kapağı'nın üstündeki iki Keruv arasından kendisine seslenen sesi duydu. RAB Musa'yla bu şekilde konuştu.
+{i8:1} Kandillikle İlgili Kurallar
+{8:1} RAB Musa'ya şöyle dedi:
+{8:2} “Harun'a de ki, yedi kandili kandilliğin önünü aydınlatacak biçimde yerleştirsin.”
+{8:3} Harun söyleneni yaptı. RAB'bin Musa'ya buyurduğu gibi, kandilleri kandilliğin önüne yerleştirdi.
+{8:4} Kandillik, ayağından çiçek motiflerine dek dövme altından, RAB'bin Musa'ya gösterdiği örneğe göre yapıldı.
+{i8:5} Levililer'in Adanması
+{8:5} RAB Musa'ya şöyle dedi:
+{8:6} “Levililer'i İsrailliler'in arasından ayırıp dinsel açıdan arındır.
+{8:7} Onları arındırmak için şöyle yapacaksın: Günahtan arındırma suyunu üzerlerine serp; bedenlerindeki bütün kılları tıraş etmelerini, giysilerini yıkamalarını sağla. Böylece arınmış olurlar.
+{8:8} Sonra bir boğa ile tahıl sunusu için zeytinyağıyla yoğrulmuş ince un alsınlar; günah sunusu için sen de başka bir boğa alacaksın.
+{8:9} Levililer'i Buluşma Çadırı'nın önüne getir, bütün İsrail topluluğunu da topla.
+{8:10} Levililer'i RAB'bin huzuruna getireceksin, İsrailliler ellerini üzerlerine koyacaklar.
+{8:11} Harun, RAB'bin hizmetini yapabilmeleri için, İsrailliler'in arasından adak olarak Levililer'i RAB'be adayacak.
+{8:12} “Levililer ellerini boğaların başına koyacaklar; günahlarını bağışlatmak için boğalardan birini günah sunusu, öbürünü yakmalık sunu olarak RAB'be sunacaksın.
+{8:13} Levililer Harun'la oğullarının önünde duracaklar. Onları adak olarak RAB'be adayacaksın.
+{8:14} Levililer'i öbür İsrailliler'in arasından bu şekilde ayıracaksın. Levililer benim olacak.
+{8:15} “Sen onları arındırıp adak olarak adadıktan sonra, Levililer Buluşma Çadırı'ndaki hizmeti yerine getirmeye başlayacaklar.
+{8:16} Çünkü İsrailliler arasından Levililer tümüyle bana verilmiştir. İlk doğanların, İsrailli kadınların doğurdukları ilk erkek çocukların yerine onları kendime ayırdım.
+{8:17} İsrailliler arasında ilk doğan insan ya da hayvan benimdir. Mısır'da ilk doğanları yok ettiğim gün, onları kendime ayırdım.
+{8:18} İsrail'de ilk doğan erkek çocukların yerine Levililer'i seçtim.
+{8:19} İsrailliler kutsal yere yaklaştıklarında belaya uğramamaları için, onların adına Buluşma Çadırı'ndaki hizmeti yerine getirmek ve günahlarını bağışlatmak üzere, onların arasından Levililer'i Harun'la oğullarına armağan olarak verdim.”
+{8:20} Musa, Harun ve bütün İsrail topluluğu Levililer için söyleneni yaptılar. İsrailliler RAB'bin Musa'ya Levililer'le ilgili verdiği her buyruğu yerine getirdiler.
+{8:21} Levililer kendilerini günahtan arındırıp giysilerini yıkadılar. Sonra Harun onları RAB'bin huzurunda adak olarak adadı; onları arındırmak için günahlarını bağışlattı.
+{8:22} Bundan sonra Levililer Harun'la oğullarının sorumluluğu altında Buluşma Çadırı'ndaki hizmetlerini yapmaya geldiler. RAB'bin Levililer'e ilişkin Musa'ya verdiği buyrukları yerine getirdiler.
+{8:23} RAB Musa'ya şöyle dedi:
+{8:24} “Levililer'le ilgili kural şudur: Yirmi beş ve daha yukarı yaşta olanlar Buluşma Çadırı'nda hizmet edecekler.
+{8:25} Ancak elli yaşına gelince yaptıkları hizmetten ayrılıp bir daha çadırda çalışmayacaklar.
+{8:26} Buluşma Çadırı'nda görev yapan kardeşlerine yardımcı olacaklar, ama kendileri hizmet etmeyecekler. Levililer'in sorumluluklarını böyle düzenleyeceksin.”
+{i9:1} Fısıh Kurbanıyla İlgili Kurallar
+{9:1} İsrailliler'in Mısır'dan çıkışlarının ikinci yılının birinci ayında RAB Sina Çölü'nde Musa'ya şöyle seslendi:
+{9:2} “İsrailliler Fısıh kurbanını belirlenen zamanda kessinler.
+{9:3} Bütün kurallar, ilkeler uyarınca kurbanı belirlenen zamanda, bu ayın on dördüncü gününün akşamüstü keseceksiniz.”
+{9:4} Böylece Musa İsrailliler'e Fısıh kurbanını kesmelerini söyledi.
+{9:5} Onlar da Sina Çölü'nde birinci ayın on dördüncü gününün akşamüstü Fısıh kurbanını kestiler. Her şeyi RAB'bin Musa'ya buyurduğu gibi yaptılar.
+{9:6} Ancak, ölüye dokunduklarından kirli sayılan bazı kişiler o gün Fısıh kurbanını kesemediler. Aynı gün Musa'yla Harun'a gelip
+{9:7} Musa'ya, “Ölüye dokunduğumuzdan kirli sayılırız” dediler, “Ama öbür İsrailliler'le birlikte belirlenen zamanda RAB'bin sunusunu sunmamız neden engellensin?”
+{9:8} Musa, “RAB'bin sizinle ilgili bana neler söyleyeceğini duyuncaya dek bekleyin” dedi.
+{9:9} RAB Musa'ya şöyle dedi:
+{9:10} “İsrailliler'e de ki, ‘Sizlerden ya da soyunuzdan ölüye dokunduğu için kirli sayılan ya da uzak bir yolculukta bulunan biri RAB'bin Fısıh kurbanını kesebilir.
+{9:11} İkinci ayın on dördüncü gününün akşamüstü Fısıh kurbanını kesip mayasız ekmek ve acı otlarla yiyecek.
+{9:12} Sabaha dek kurbandan bir şey bırakmayacak, kemiklerini kırmayacak. Fısıh kurbanını bütün kuralları uyarınca kesmelidir.
+{9:13} Ancak, temiz sayılan ve yolculukta olmayan biri Fısıh kurbanını kesmeyi savsaklarsa, halkının arasından atılacaktır. Çünkü belirlenen zamanda RAB'bin sunusunu sunmamıştır. Günahının cezasını çekecektir.
+{9:14} “‘Aranızda yaşayan bir yabancı RAB'bin Fısıh kurbanını kesmek isterse, Fısıh'ın kuralları, ilkeleri uyarınca kesmelidir. Yerli ya da yabancı için aynı kuralı uygulamalısınız.’”
+{i9:15} Konutun Üstündeki Bulut (Çık.40:34-38)
+{9:15} Konut, yani Levha Sandığı'nın bulunduğu çadır kurulduğu gün üstünü bulut kapladı. Konutun üstündeki bulut akşamdan sabaha dek ateşi andırdı.
+{9:16} Bu hep böyle sürüp gitti. Konutu kaplayan bulut gece ateşi andırıyordu.
+{9:17} İsrailliler ancak bulut çadırın üzerinden kalkınca göçer, bulut nerede durursa orada konaklarlardı.
+{9:18} RAB'bin buyruğu uyarınca göç eder, yine RAB'bin buyruğu uyarınca konaklarlardı. Bulut konutun üzerinde durdukça yerlerinden ayrılmazlardı.
+{9:19} Bulut konutun üzerinde uzun süre durduğu zaman RAB'bin buyruğuna uyar, yola çıkmazlardı.
+{9:20} Bazen bulut konutun üzerinde birkaç gün kalırdı. Halk da RAB'bin verdiği buyruğa göre ya konakladığı yerde kalır ya da göç ederdi.
+{9:21} Bazı günler bulut akşamdan sabaha dek kalır, sabah konutun üzerinden kalkar kalkmaz halk yola çıkardı. Gece olsun, gündüz olsun, bulut konutun üzerinden kalkar kalkmaz halk yola çıkardı.
+{9:22} Bulut konutun üzerinde iki gün, bir ay ya da uzun süre kalsa bile, İsrailliler konakladıkları yerde kalır, yola koyulmazlardı. Ama bulut kalkar kalkmaz yola çıkarlardı.
+{9:23} RAB'bin buyruğu uyarınca konaklar ya da yola çıkarlardı. Böylece RAB'bin Musa aracılığıyla verdiği buyruğa uydular.
+{i10:1} Gümüş Borazanlar
+{10:1} RAB Musa'ya şöyle dedi:
+{10:2} “Dövme gümüşten iki borazan yapacaksın; bunları topluluğu çağırmak ve halkın yola çıkması için kullanacaksın.
+{10:3} İki borazan birden çalınınca, bütün topluluk senin yanında, Buluşma Çadırı'nın girişi önünde toplanacak.
+{10:4} Yalnız biri çalınırsa, önderler, İsrail'in oymak başları senin yanında toplanacak.
+{10:5} Borazan kısa çalınınca, doğuda konaklayanlar yola çıkacak.
+{10:6} İkinci kez kısa çalınınca da güneyde konaklayanlar yola çıkacak. Borazanın kısa çalınması oymakların yola çıkması için bir işarettir.
+{10:7} Topluluğu toplamak için de borazan çaldırt, ama kısa olmasın.
+{10:8} “Borazanları kâhin olan Harunoğulları çalacak. Borazan çalınması sizler ve gelecek kuşaklar için kalıcı bir kural olacak.
+{10:9} Sizi sıkıştıran düşmana karşı ülkenizde savaşa çıktığınızda, borazan çalın. O zaman Tanrınız RAB sizi anımsayacak, sizi düşmanlarınızdan kurtaracak.
+{10:10} Sevinçli olduğunuz günler –kutladığınız bayramlar ve Yeni Ay Törenleri'nde– yakmalık sunular ve esenlik kurbanları üzerine borazan çalacaksınız. Böylelikle Tanrınız'ın önünde anımsanmış olacaksınız. Ben Tanrınız RAB'bim.”
+{i10:11} İsrailliler Sina'dan Ayrılıyor
+{10:11} İkinci yılın ikinci ayının yirminci günü bulut Levha Sandığı'nın bulunduğu konutun üzerinden kalktı.
+{10:12} İsrailliler de Sina Çölü'nden göç etmeye başladılar. Bulut Paran Çölü'nde durdu.
+{10:13} Bu, RAB'bin Musa aracılığıyla verdiği buyruk uyarınca ilk göç edişleriydi.
+{10:14} Önce Yahuda sancağı bölükleriyle yola çıktı. Yahuda bölüğüne Amminadav oğlu Nahşon komuta ediyordu.
+{10:15} İssakar oymağının bölüğüne Suar oğlu Netanel,
+{10:16} Zevulun oymağının bölüğüne de Helon oğlu Eliav komuta ediyordu.
+{10:17} Konut yere indirilince, onu taşıyan Gerşonoğulları'yla Merarioğulları yola koyuldular.
+{10:18} Sonra Ruben sancağı bölükleriyle yola çıktı. Ruben bölüğüne Şedeur oğlu Elisur komuta ediyordu.
+{10:19} Şimon oymağının bölüğüne Surişadday oğlu Şelumiel,
+{10:20} Gad oymağının bölüğüne de Deuel oğlu Elyasaf komuta ediyordu.
+{10:21} Kehatlılar kutsal eşyaları taşıyarak yola koyuldular. Bunlar varmadan konut kurulmuş olurdu.
+{10:22} Efrayim sancağı bölükleriyle yola çıktı. Efrayim bölüğüne Ammihut oğlu Elişama komuta ediyordu.
+{10:23} Manaşşe oymağının bölüğüne Pedahsur oğlu Gamliel,
+{10:24} Benyamin oymağının bölüğüne de Gidoni oğlu Avidan komuta ediyordu.
+{10:25} En sonunda Dan sancağı ordunun artçı kolu olan bölükleriyle yola çıktı. Dan bölüğüne Ammişadday oğlu Ahiezer komuta ediyordu.
+{10:26} Aşer oymağının bölüğüne Okran oğlu Pagiel,
+{10:27} Naftali oymağının bölüğüne de Enan oğlu Ahira komuta ediyordu.
+{10:28} Yola koyulduklarında İsrailli bölüklerin yürüyüş düzeni böyleydi.
+{10:29} Musa, kayınbabası Midyanlı Reuel oğlu Hovav'a, “RAB'bin, ‘Size vereceğim’ dediği yere gidiyoruz” dedi, “Bizimle gel, sana iyi davranırız. Çünkü RAB İsrail'e iyilik edeceğine söz verdi.”
+{10:30} Hovav, “Gelmem” diye yanıtladı, “Ülkeme, akrabalarımın yanına döneceğim.”
+{10:31} Musa, “Lütfen bizi bırakma” diye üsteledi, “Çünkü çölde konaklayacağımız yerleri sen biliyorsun. Sen bize göz olabilirsin.
+{10:32} Bizimle gelirsen, RAB'bin yapacağı bütün iyilikleri seninle paylaşırız.”
+{10:33} RAB'bin Dağı'ndan ayrılıp üç günlük yol aldılar. Konaklayacakları yeri bulmaları için RAB'bin Antlaşma Sandığı üç gün boyunca önleri sıra gitti.
+{10:34} Konakladıkları yerden ayrıldıklarında da RAB'bin bulutu gündüzün onların üzerinde duruyordu.
+{10:35} Sandık yola çıkınca Musa, “Ya RAB, kalk! Düşmanların dağılsın, Senden nefret edenler önünden kaçsın!” diyordu.
+{10:36} Sandık konaklayınca da, “Ya RAB, binlerce, on binlerce İsrailli'ye dön!” diyordu.
+{i11:1} Halk Yakınıyor
+{11:1} Halk çektiği sıkıntılardan ötürü yakınmaya başladı. RAB bunu duyunca öfkelendi, aralarına ateşini göndererek ordugahın kenarlarını yakıp yok etti.
+{11:2} Halk Musa'ya yalvardı. Musa RAB'be yakarınca ateş söndü.
+{11:3} Bu nedenle oraya Tavera adı verildi. Çünkü RAB'bin gönderdiği ateş onların arasında yanmıştı.
+{11:4} Derken, halkın arasındaki yabancılar başka yiyeceklere özlem duymaya başladılar. İsrailliler de yine ağlayarak, “Keşke yiyecek biraz et olsaydı!” dediler,
+{11:5} “Mısır'da parasız yediğimiz balıkları, salatalıkları, karpuzları, pırasaları, soğanları, sarmısakları anımsıyoruz.
+{11:6} Şimdiyse yemek yeme isteğimizi yitirdik. Bu mandan başka hiçbir şey gördüğümüz yok.”
+{11:7} Man kişniş tohumuna benzerdi, görünüşü de reçine gibiydi.
+{11:8} Halk çıkıp onu toplar, değirmende öğütür ya da havanda döverdi. Çömlekte haşlayıp pide yaparlardı. Tadı zeytinyağında pişirilmiş yiyeceklere benzerdi.
+{11:9} Gece ordugaha çiy düşerken, man da birlikte düşerdi.
+{11:10} Musa herkesin, her ailenin çadırının önünde ağladığını duydu. RAB buna çok öfkelendi. Musa da üzüldü.
+{11:11} RAB'be, “Kuluna neden kötü davrandın?” dedi, “Seni hoşnut etmeyen ne yaptım ki, bu halkın yükünü bana yüklüyorsun?
+{11:12} Bütün bu halka ben mi gebe kaldım? Onları ben mi doğurdum? Öyleyse neden emzikteki çocuğu taşıyan bir dadı gibi, atalarına ant içerek söz verdiğin ülkeye onları kucağımda taşımamı istiyorsun?
+{11:13} Bütün bu halka verecek eti nereden bulayım? Bana, ‘Bize yiyecek et ver’ diye sızlanıp duruyorlar.
+{11:14} Bu halkı tek başıma taşıyamam, bunca yükü kaldıramam.
+{11:15} Bana böyle davranacaksan –eğer gözünde lütuf bulduysam– lütfen beni hemen öldür de kendi yıkımımı görmeyeyim.”
+{11:16} RAB Musa'ya, “Halk arasında önder ve yönetici bildiğin İsrail ileri gelenlerinden yetmiş kişi topla” dedi, “Onları Buluşma Çadırı'na getir, yanında dursunlar.
+{11:17} Ben inip seninle orada konuşacağım. Senin üzerindeki Ruh'tan alıp onlara vereceğim. Halkın yükünü tek başına taşımaman için sana yardım edecekler.
+{11:18} “Halka de ki, ‘Yarın için kendinizi kutsayın, et yiyeceksiniz. Keşke yiyecek biraz et olsaydı, Mısır'da durumumuz iyiydi diye ağladığınızı RAB duydu. Şimdi yemeniz için size et verecek.
+{11:19} Yalnız bir gün, iki gün, beş, on ya da yirmi gün değil,
+{11:20} bir ay boyunca, burnunuzdan gelinceye dek, tiksinene dek yiyeceksiniz. Çünkü aranızda olan RAB'bi reddettiniz. O'nun önünde, Mısır'dan neden çıktık diyerek ağladınız.’”
+{11:21} Musa, “Aralarında bulunduğum halkın 600 000'i yetişkin erkektir” diye karşılık verdi, “Oysa sen, ‘Bu halka bir ay boyunca yemesi için et vereceğim’ diyorsun.
+{11:22} Bütün davarlar, sığırlar kesilse, onları doyurur mu? Denizdeki bütün balıklar tutulsa, onları doyurur mu?”
+{11:23} RAB, “Elim kısaldı mı?” diye yanıtladı, “Sana söylediklerimin yerine gelip gelmeyeceğini şimdi göreceksin.”
+{11:24} Böylece Musa dışarı çıkıp RAB'bin kendisine söylediklerini halka bildirdi. Halkın ileri gelenlerinden yetmiş adam toplayıp çadırın çevresine yerleştirdi.
+{11:25} Sonra RAB bulutun içinde inip Musa'yla konuştu. Musa'nın üzerindeki Ruh'tan alıp yetmiş ileri gelene verdi. Ruh'u alınca peygamberlik ettilerse de, daha sonra hiç peygamberlik etmediler.
+{11:26} Eldat ve Medat adında iki kişi ordugahta kalmıştı. Seçilen yetmiş kişi arasındaydılar ama çadıra gitmemişlerdi. Ruh üzerlerine konunca ordugahta peygamberlik ettiler.
+{11:27} Bir genç koşup Musa'ya, “Eldat'la Medat ordugahta peygamberlik ediyor” diye haber verdi.
+{11:28} Gençliğinden beri Musa'nın yardımcısı olan Nun oğlu Yeşu, “Ey efendim Musa, onlara engel ol!” dedi.
+{11:29} Ama Musa, “Sen benim adıma mı kıskanıyorsun?” diye yanıtladı, “Keşke RAB'bin bütün halkı peygamber olsa da RAB üzerlerine Ruhu'nu gönderse!”
+{11:30} Sonra Musa'yla İsrail'in ileri gelenleri ordugaha döndüler.
+{i11:31} Rab Bıldırcın Gönderiyor
+{11:31} RAB denizden bıldırcın getiren bir rüzgar gönderdi. Rüzgar bıldırcınları ordugahın her yönünden bir günlük yol kadar uzaklığa, yerden iki arşın yüksekliğe indirdi.
+{11:32} Halk bütün gün, bütün gece ve ertesi gün durmadan bıldırcın topladı. Kimse on homerden az toplamadı. Bıldırcınları ordugahın çevresine serdiler.
+{11:33} Et daha halkın dişleri arasındayken, çiğnemeye vakit kalmadan RAB öfkelendi, onları büyük bir yıkımla cezalandırdı.
+{11:34} Bu nedenle oraya Kivrot-Hattaava adı verildi. Başka yiyeceklere özlem duyanları oraya gömdüler.
+{11:35} Halk Kivrot-Hattaava'dan Haserot'a göç edip orada kaldı.
+{i12:1} Miryam'la Harun'un Yakınmaları
+{12:1} Musa Kûşlu bir kadınla evlenmişti. Bundan dolayı Miryam'la Harun onu yerdiler.
+{12:2} “RAB yalnız Musa aracılığıyla mı konuştu?” dediler, “Bizim aracılığımızla da konuşmadı mı?” RAB bu yakınmaları duydu.
+{12:3} Musa yeryüzünde yaşayan herkesten daha alçakgönüllüydü.
+{12:4} RAB ansızın Musa, Harun ve Miryam'a, “Üçünüz Buluşma Çadırı'na gelin” dedi. Üçü de gittiler.
+{12:5} RAB bulut sütununun içinde indi. Çadırın kapısında durup Harun'la Miryam'ı çağırdı. İkisi ilerlerken
+{12:6} RAB onlara seslendi: “Sözlerime kulak verin: Eğer aranızda bir peygamber varsa, Ben RAB görümde kendimi ona tanıtır, Onunla düşte konuşurum.
+{12:7} Ama kulum Musa öyle değildir. O bütün evimde sadıktır.
+{12:8} Onunla bilmecelerle değil, Açıkça, yüzyüze konuşurum. O RAB'bin suretini görüyor. Öyleyse kulum Musa'yı yermekten korkmadınız mı?”
+{12:9} RAB onlara öfkelenip oradan gitti.
+{12:10} Bulut çadırın üzerinden ayrıldığında Miryam deri hastalığına yakalanmış, kar gibi bembeyaz olmuştu. Harun Miryam'a baktı, deri hastalığına yakalandığını gördü.
+{12:11} Musa'ya, “Ey efendim, lütfen akılsızca işlediğimiz günahtan ötürü bizi cezalandırma” dedi,
+{12:12} “Miryam etinin yarısı yenmiş olarak ana rahminden çıkan ölü bir bebeğe benzemesin.”
+{12:13} Musa RAB'be, “Ey Tanrı, lütfen Miryam'ı iyileştir!” diye yakardı.
+{12:14} RAB, “Babası onun yüzüne tükürseydi, yedi gün utanç içinde kalmayacak mıydı?” diye karşılık verdi, “Onu yedi gün ordugahtan uzaklaştırın, sonra geri getirilsin.”
+{12:15} Böylece Miryam yedi gün ordugahtan uzaklaştırıldı, o geri getirilene dek halk yola çıkmadı.
+{12:16} Bundan sonra halk Haserot'tan ayrılıp Paran Çölü'nde konakladı.
+{i13:1} Kenan Ülkesine Casuslar Gönderiliyor (Yas.1:19-33)
+{13:1} RAB Musa'ya, “İsrail halkına vereceğim Kenan ülkesini araştırmak için
+{13:2} bazı adamlar gönder” dedi, “Ataların her oymağından bir önder gönder.”
+{13:3} Musa RAB'bin buyruğu uyarınca Paran Çölü'nden adamları gönderdi. Hepsi İsrail halkının önderlerindendi.
+{13:4} Adları şöyleydi: Ruben oymağından Zakkur oğlu Şammua;
+{13:5} Şimon oymağından Hori oğlu Şafat;
+{13:6} Yahuda oymağından Yefunne oğlu Kalev;
+{13:7} İssakar oymağından Yusuf oğlu Yigal;
+{13:8} Efrayim oymağından Nun oğlu Hoşea;
+{13:9} Benyamin oymağından Rafu oğlu Palti;
+{13:10} Zevulun oymağından Sodi oğlu Gaddiel;
+{13:11} Yusuf oymağından –Manaşşe oymağından– Susi oğlu Gaddi;
+{13:12} Dan oymağından Gemalli oğlu Ammiel;
+{13:13} Aşer oymağından Mikael oğlu Setur;
+{13:14} Naftali oymağından Vofsi oğlu Nahbi;
+{13:15} Gad oymağından Maki oğlu Geuel.
+{13:16} Ülkeyi araştırmak üzere Musa'nın gönderdiği adamlar bunlardı. Musa Nun oğlu Hoşea'ya Yeşu adını verdi.
+{13:17} Musa, Kenan ülkesini araştırmak üzere onları gönderirken, “Negev'e, dağlık bölgeye gidin” dedi,
+{13:18} “Nasıl bir ülke olduğunu, orada yaşayan halkın güçlü mü zayıf mı, çok mu az mı olduğunu öğrenin.
+{13:19} Yaşadıkları ülke iyi mi kötü mü, kentleri nasıl, surlu mu değil mi anlayın.
+{13:20} Toprak nasıl? Verimli mi, kıraç mı? Çevre ağaçlık mı, değil mi? Elinizden geleni yapıp orada yetişen meyvelerden getirin.” Mevsim üzümün olgunlaşmaya başladığı zamandı.
+{13:21} Böylece adamlar yola çıkıp ülkeyi Zin Çölü'nden Levo-Hamat'a doğru Rehov'a dek araştırdılar.
+{13:22} Negev'den geçip Anakoğulları'ndan Ahiman, Şeşay ve Talmay'ın yaşadığı Hevron'a vardılar. –Hevron Mısır'daki Soan Kenti'nden yedi yıl önce kurulmuştu.–
+{13:23} Eşkol Vadisi'ne varınca, üzerinde bir salkım üzüm olan bir asma dalı kestiler. Adamlardan ikisi dalı bir sırıkta taşıdılar. Yanlarına nar, incir de aldılar.
+{13:24} İsrailliler'in kestiği üzüm salkımından dolayı oraya Eşkol Vadisi adı verildi.
+{13:25} Kırk gün dolaştıktan sonra adamlar ülkeyi araştırmaktan döndüler.
+{13:26} Paran Çölü'ndeki Kadeş'e, Musa'yla Harun'un ve İsrail topluluğunun yanına geldiler. Onlara ve bütün topluluğa gördüklerini anlatıp ülkenin ürünlerini gösterdiler.
+{13:27} Musa'ya, “Bizi gönderdiğin ülkeye gittik” dediler, “Gerçekten süt ve bal akıyor orada! İşte ülkenin ürünleri!
+{13:28} Ancak orada yaşayan halk güçlü, kentler de surlu ve çok büyük. Orada Anak soyundan gelen insanları bile gördük.
+{13:29} Amalekliler Negev'de; Hititler, Yevuslular ve Amorlular dağlık bölgede; Kenanlılar da denizin yanında ve Şeria Irmağı'nın kıyısında yaşıyor.”
+{13:30} Kalev, Musa'nın önünde halkı susturup, “Oraya gidip ülkeyi ele geçirelim. Kesinlikle buna yetecek gücümüz var” dedi.
+{13:31} Ne var ki, kendisiyle oraya giden adamlar, “Bu halka saldıramayız, onlar bizden daha güçlü” dediler.
+{13:32} Araştırdıkları ülke hakkında İsrailliler arasında kötü haber yayarak, “Boydan boya araştırdığımız ülke, içinde yaşayanları yiyip bitiren bir ülkedir” dediler, “Üstelik orada gördüğümüz herkes uzun boyluydu.
+{13:33} Nefiller'i, Nefiller'in soyundan gelen Anaklılar'ı gördük. Onların yanında kendimizi çekirge gibi hissettik, onlara da öyle göründük.”
+{i14:1} Halk Başkaldırıyor (Yas.1:26-46)
+{14:1} O gece bütün topluluk yüksek sesle bağrışıp ağladı.
+{14:2} Bütün İsrail halkı Musa'yla Harun'a karşı söylenmeye başladı. Onlara, “Keşke Mısır'da ya da bu çölde ölseydik!” dediler,
+{14:3} “RAB neden bizi bu ülkeye götürüyor? Kılıçtan geçirilelim diye mi? Karılarımız, çocuklarımız tutsak edilecek. Mısır'a dönmek bizim için daha iyi değil mi?”
+{14:4} Sonra birbirlerine, “Kendimize bir önder seçip Mısır'a dönelim” dediler.
+{14:5} Bunun üzerine Musa'yla Harun İsrail topluluğunun önünde yüzüstü yere kapandılar.
+{14:6} Ülkeyi araştıranlardan Nun oğlu Yeşu'yla Yefunne oğlu Kalev giysilerini yırttılar.
+{14:7} Sonra bütün İsrail topluluğuna şöyle dediler: “İçinden geçip araştırdığımız ülke çok iyi bir ülkedir.
+{14:8} Eğer RAB bizden hoşnut kalırsa, süt ve bal akan o ülkeye bizi götürecek ve orayı bize verecektir.
+{14:9} Ancak RAB'be karşı gelmeyin. Orada yaşayan halktan korkmayın. Onları ekmek yer gibi yiyip bitireceğiz. Koruyucuları onları bırakıp gitti. Ama RAB bizimledir. Onlardan korkmayın!”
+{14:10} Topluluk onları taşa tutmayı düşünürken, ansızın RAB'bin görkemi Buluşma Çadırı'nda bütün İsrail halkına göründü.
+{14:11} RAB Musa'ya şöyle dedi: “Ne zamana dek bu halk bana saygısızlık edecek? Onlara gösterdiğim bunca belirtiye karşın, ne zamana dek bana iman etmeyecekler?
+{14:12} Onları salgın hastalıkla cezalandıracağım, mirastan yoksun bırakacağım. Ama seni onlardan daha büyük, daha güçlü bir ulus kılacağım.”
+{14:13} Musa, “Mısırlılar bunu duyacak” diye karşılık verdi, “Çünkü bu halkı gücünle onların arasından sen çıkardın.
+{14:14} Kenan topraklarında yaşayan halka bunu anlatacaklar. Ya RAB, bu halkın arasında olduğunu, onlarla yüz yüze görüştüğünü, bulutunun onların üzerinde durduğunu, gündüz bulut sütunu, gece ateş sütunu içinde onlara yol gösterdiğini duymuşlar.
+{14:15} Eğer bu halkı bir insanmış gibi yok edersen, senin ününü duymuş olan bu uluslar,
+{14:16} ‘RAB ant içerek söz verdiği ülkeye bu halkı götüremediği için onları çölde yok etti’ diyecekler.
+{14:17} “Şimdi gücünü göster, ya Rab. Demiştin ki,
+{14:18} ‘RAB tez öfkelenmez, sevgisi engindir, suçu ve isyanı bağışlar. Ancak suçluyu cezasız bırakmaz; babaların işlediği suçun hesabını üçüncü, dördüncü kuşak çocuklarından sorar.’
+{14:19} Mısır'dan çıkışlarından bugüne dek bu halkı nasıl bağışladıysan, büyük sevgin uyarınca onların suçunu bağışla.”
+{14:20} RAB, “Dileğin üzerine onları bağışladım” diye yanıtladı,
+{14:21} “Ne var ki, varlığım ve yeryüzünü dolduran yüceliğim adına ant içerim ki,
+{14:22} yüceliğimi, Mısır'da ve çölde gösterdiğim belirtileri görüp de beni on kez sınayan, sözümü dinlemeyen bu kişilerden hiçbiri
+{14:23} atalarına ant içerek söz verdiğim ülkeyi görmeyecek. Beni küçümseyenlerden hiçbiri orayı görmeyecek.
+{14:24} Ama kulum Kalev'de başka bir ruh var, o bütün yüreğiyle ardımca yürüdü. Araştırmak için gittiği ülkeye onu götüreceğim, onun soyu orayı miras alacak.
+{14:25} Amalekliler'le Kenanlılar ovada yaşıyorlar. Siz yarın geri dönün, Kamış Denizi yolundan çöle gidin.”
+{14:26} RAB Musa'yla Harun'a da, “Bu kötü topluluk ne zamana
+{14:27} dek bana söylenecek?” dedi, “Bana söylenen İsrail halkının yakınmalarını duydum.
+{14:28} Onlara RAB şöyle diyor de: ‘Varlığım adına ant içerim ki, söylediklerinizin aynısını size yapacağım:
+{14:29} Cesetleriniz bu çöle serilecek. Bana söylenen, yirmi ve daha yukarı yaşta sayılan herkes çölde ölecek.
+{14:30} Sizi yerleştireceğime ant içtiğim ülkeye Yefunne oğlu Kalev'le Nun oğlu Yeşu'dan başkası girmeyecek.
+{14:31} Ama tutsak edilecek dediğiniz çocuklarınızı oraya, sizin reddettiğiniz ülkeye götüreceğim; orayı tanıyacaklar.
+{14:32} Size gelince, cesetleriniz bu çöle serilecek.
+{14:33} Çocuklarınız, hepiniz ölünceye dek kırk yıl çölde çobanlık edecek ve sizin sadakatsizliğiniz yüzünden sıkıntı çekecekler.
+{14:34} Ülkeyi araştırdığınız günler kadar –kırk gün, her gün için bir yıldan kırk yıl– suçunuzun cezasını çekeceksiniz. Sizden yüz çevirdiğimi bileceksiniz!’
+{14:35} Ben RAB söyledim; bana karşı toplanan bu kötü topluluğa bunları gerçekten yapacağım. Bu çölde yıkıma uğrayacak, burada ölecekler.”
+{14:36} Musa'nın ülkeyi araştırmak üzere gönderdiği adamlar geri dönüp ülke hakkında kötü haber yayarak bütün topluluğun RAB'be söylenmesine neden oldular.
+{14:37} Ülke hakkında kötü haber yayan bu adamlar RAB'bin önünde ölümcül hastalıktan öldüler.
+{14:38} Ülkeyi araştırmak üzere gidenlerden yalnız Nun oğlu Yeşu'yla Yefunne oğlu Kalev sağ kaldı.
+{14:39} Musa bu sözleri İsrail halkına bildirince, halk yasa büründü.
+{14:40} Sabah erkenden kalkıp dağın tepesine çıktılar. “Günah işledik” dediler, “Ama RAB'bin söz verdiği yere çıkmaya hazırız.”
+{14:41} Bunun üzerine Musa, “Neden RAB'bin buyruğuna karşı geliyorsunuz?” dedi, “Bunu başaramazsınız.
+{14:42} Savaşa gitmeyin, çünkü RAB sizinle olmayacak. Düşmanlarınızın önünde yenilgiye uğrayacaksınız.
+{14:43} Amalekliler'le Kenanlılar sizinle orada karşılaşacak ve sizi kılıçtan geçirecekler. Çünkü RAB'bin ardınca gitmekten vazgeçtiniz. RAB de sizinle olmayacak.”
+{14:44} Öyleyken, kendilerine güvenerek dağlık bölgenin tepesine çıktılar. RAB'bin Antlaşma Sandığı da Musa da ordugahta kaldı.
+{14:45} Dağlık bölgede yaşayan Amalekliler'le Kenanlılar üzerlerine saldırdılar, Horma Kenti'ne dek onları kovalayıp bozguna uğrattılar.
+{i15:1} Sunularla İlgili Kurallar
+{15:1} RAB Musa'ya şöyle dedi:
+{15:2} “İsrail halkına de ki, ‘Yerleşmek için size vereceğim ülkeye girince,
+{15:3} RAB'bi hoşnut eden bir koku yapmak için yakmalık sunu, özel adak kurbanı, gönülden verilen sunu ya da bayram sunusu gibi yakılan sunu olarak RAB'be sığır ya da davar sunacaksınız.
+{15:4} Sunu sunan kişi RAB'be tahıl sunusu olarak dörtte bir hin zeytinyağıyla yoğrulmuş onda bir efa ince un sunacak.
+{15:5} Yakmalık sunu ya da kurban için, her kuzuya dökmelik sunu olarak dörtte bir hin şarap hazırla.
+{15:6} “‘Koç sunarken tahıl sunusu olarak üçte bir hin zeytinyağıyla yoğrulmuş onda iki efa ince un hazırla.
+{15:7} Dökmelik sunu olarak da üçte bir hin şarap sun. Bunları RAB'bi hoşnut eden koku olarak sunacaksın.
+{15:8} RAB'be yakmalık sunu, özel adak kurbanı ya da esenlik sunusu olarak bir boğa sunduğunda,
+{15:9} boğayla birlikte tahıl sunusu olarak yarım hin zeytinyağıyla yoğrulmuş onda üç efa ince un sun.
+{15:10} Ayrıca dökmelik sunu olarak yarım hin şarap sun. Yakılan bu sunu RAB'bi hoşnut eden bir koku olacak.
+{15:11} Sığır, koç, davar –kuzu ya da keçi– böyle hazırlanacak.
+{15:12} Kaç hayvan sunacaksan her biri için aynı şeyleri yapacaksın.
+{15:13} “‘Her İsrail yerlisi RAB'bi hoşnut eden koku olarak yakılan bir sunu sunarken bunları aynen yapmalıdır.
+{15:14} Kuşaklar boyunca aranızda yaşayan bir yabancı ya da yerli olmayan bir konuk, RAB'bi hoşnut eden koku olarak yakılan bir sunu sunarken, sizin uyguladığınız kuralları uygulamalıdır.
+{15:15} Sizin ve aranızda yaşayan yabancılar için topluluk aynı kuralları uygulamalıdır. Kuşaklar boyunca kalıcı bir kural olacak bu. RAB'bin önünde siz nasılsanız, aranızda yaşayan yabancı da aynı olacak.
+{15:16} Size de aranızda yaşayan yabancıya da aynı yasalar ve kurallar uygulanacak.’”
+{15:17} RAB Musa'ya şöyle dedi:
+{15:18} “İsrail halkına de ki, ‘Sizi götüreceğim ülkeye girip
+{15:19} o ülkenin ekmeğinden yediğinizde, bir kısmını bana sunacaksınız.
+{15:20} İlk tahılınızdan sunu olarak bir pide sunacaksınız; bunu harmanınızdan bir sunu olarak sunacaksınız.
+{15:21} İlk tahılınızdan yapılmış bu sunuyu kuşaklar boyunca RAB'be sunacaksınız.’”
+{i15:22} Günah için Sunu
+{15:22} “‘Eğer bilmeden günah işlediyseniz, RAB'bin Musa'ya verdiği buyruklardan herhangi birini –RAB'bin buyruk verdiği
+{15:23} günden başlayarak Musa aracılığıyla size ve gelecek kuşaklara buyurduğu herhangi bir şeyi– yerine getirmediyseniz
+{15:24} ve bu günah bilmeden işlendiyse, bütün topluluk RAB'bi hoşnut eden koku sunmak için yakmalık sunu olarak istenilen tahıl ve dökmelik sunuyla birlikte bir boğa, günah sunusu olarak da bir teke sunacaktır.
+{15:25} Kâhin bütün İsrail topluluğunun günahını bağışlatacak, halk bağışlanacak. Çünkü bilmeyerek günah işlediler. İşledikleri günah yüzünden RAB için yakılan sunu olarak sunularını ve günah sunularını sundular.
+{15:26} Bütün İsrail topluluğu da aranızda yaşayan yabancılar da bağışlanacaktır. Çünkü halk bilmeyerek bu günahı işledi.
+{15:27} “‘Eğer biri bilmeden günah işlerse, günah sunusu olarak bir yaşında bir dişi keçi getirmeli.
+{15:28} Kâhin RAB'bin önünde, bilmeden günah işleyen kişinin günahını bağışlatacak. Bağışlatma yapılınca kişi bağışlanacak.
+{15:29} Bilmeden günah işleyen İsrail yerlisi için de aranızda yaşayan yabancı için de aynı yasayı uygulayacaksınız.
+{15:30} “‘Yerli ya da yabancı biri bilerek günah işlerse, RAB'be saygısızlık etmiştir. Bu kişi halkının arasından atılmalı.
+{15:31} RAB'bin sözünü küçümsemiş, buyruklarına karşı gelmiştir. Bu nedenle o kişi halkının arasından kesinlikle atılacak, suçunun cezasını çekecektir.’”
+{i15:32} Şabat Günü'nü Tutmayan Öldürülüyor
+{15:32} İsrailliler çöldeyken, Şabat Günü odun toplayan birini buldular.
+{15:33} Odun toplarken adamı bulanlar onu Musa'yla Harun'un ve bütün topluluğun önüne getirdiler.
+{15:34} Adama ne yapılacağı belirlenmediğinden onu gözaltında tuttular.
+{15:35} Derken RAB Musa'ya, “O adam öldürülmeli. Bütün topluluk ordugahın dışında onu taşa tutsun” dedi.
+{15:36} Böylece topluluk adamı ordugahın dışına çıkardı. RAB'bin Musa'ya buyurduğu gibi, onu taşlayarak öldürdüler.
+{i15:37} Püsküllerle İlgili Kural
+{15:37} RAB Musa'ya şöyle dedi:
+{15:38} “İsrail halkına de ki, ‘Kuşaklar boyunca giysinizin dört yanına püskül dikeceksiniz. Her püskülün üzerine lacivert bir kordon koyacaksınız.
+{15:39} Öyle ki, püskülleri gördükçe RAB'bin buyruklarını anımsayasınız. Böylelikle RAB'bin buyruklarına uyacak, yüreğinizin, gözünüzün istekleri ardınca gitmeyecek, hainlik etmeyeceksiniz.
+{15:40} Ta ki, bütün buyruklarımı anımsayıp tutasınız ve Tanrınız için kutsal olasınız.
+{15:41} Tanrınız olmak için sizi Mısır'dan çıkaran Tanrınız RAB benim. Tanrınız RAB benim.’”
+{i16:1} Korah, Datan ve Aviram Başkaldırıyor
+{16:1} Levi oğlu Kehat oğlu Yishar oğlu Korah, Ruben soyundan Eliavoğulları'ndan Datan, Aviram ve
+{16:2} Pelet oğlu On toplulukça seçilen, tanınmış iki yüz elli İsrailli önderle birlikte Musa'ya başkaldırdı.
+{16:3} Hep birlikte Musa'yla Harun'un yanına varıp, “Çok ileri gittiniz!” dediler, “Bütün topluluk, topluluğun her bireyi kutsaldır ve RAB onların arasındadır. Öyleyse neden kendinizi RAB'bin topluluğundan üstün görüyorsunuz?”
+{16:4} Bunu duyan Musa yüzüstü yere kapandı.
+{16:5} Sonra Korah'la yandaşlarına şöyle dedi: “Sabah RAB kimin kendisine ait olduğunu, kimin kutsal olduğunu açıklayacak ve o kişiyi huzuruna çağıracak. RAB seçeceği kişiyi huzuruna çağıracak.
+{16:6} Ey Korah ve yandaşları, kendinize buhurdanlar alın.
+{16:7} Yarın RAB'bin huzurunda buhurdanlarınızın içine ateş, ateşin üstüne de buhur koyun. RAB'bin seçeceği kişi, kutsal olan kişidir. Ey Levililer, çok ileri gittiniz!”
+{16:8} Musa Korah'la konuşmasını şöyle sürdürdü: “Ey Levililer, beni dinleyin!
+{16:9} İsrail'in Tanrısı sizi kendi huzuruna çıkarmak için ayırdı. RAB'bin Konutu'nun hizmetini yapmanız, topluluğun önünde durmanız, onlara hizmet etmeniz için
+{16:10} sizi İsrail topluluğunun arasından seçti. Sizi ve bütün Levili kardeşlerinizi huzuruna çıkardı. Bu yetmiyormuş gibi kâhinliği de mi istiyorsunuz?
+{16:11} Ey Korah, senin ve yandaşlarının böyle toplanması RAB'be karşı gelmektir. Harun kim ki, ona dil uzatıyorsunuz?”
+{16:12} Sonra Musa Eliavoğulları Datan'la Aviram'ı çağırttı. Ama onlar, “Gelmeyeceğiz” dediler,
+{16:13} “Bizi çölde öldürtmek için süt ve bal akan ülkeden çıkardın. Bu yetmiyormuş gibi başımıza geçmek istiyorsun.
+{16:14} Bizi süt ve bal akan ülkeye götürmediğin gibi mülk olarak bize tarlalar, bağlar da vermedin. Bu adamları kör mü sanıyorsun? Hayır, gelmeyeceğiz.”
+{16:15} Çok öfkelenen Musa RAB'be, “Onların sunularını önemseme. Onlardan bir eşek bile almadım, üstelik hiçbirine de haksızlık etmedim” dedi.
+{16:16} Sonra Korah'a, “Yarın sen ve bütün yandaşların –sen de, onlar da– RAB'bin önünde bulunmak için gelin” dedi, “Harun da gelsin.
+{16:17} Herkes kendi buhurdanını alıp içine buhur koysun. İki yüz elli kişi birer buhurdan alıp RAB'bin önüne getirsin. Harun'la sen de buhurdanlarınızı getirin.”
+{16:18} Böylece herkes buhurdanını alıp içine ateş, ateşin üstüne de buhur koydu. Sonra Musa ve Harun'la birlikte Buluşma Çadırı'nın giriş bölümünde durdular.
+{16:19} Korah bütün topluluğu Musa'yla Harun'un karşısında Buluşma Çadırı'nın giriş bölümünde toplayınca, RAB'bin görkemi bütün topluluğa göründü.
+{16:20} RAB, Musa'yla Harun'a, “Bu topluluğun arasından ayrılın
+{16:21} da onları bir anda yok edeyim” dedi.
+{16:22} Musa'yla Harun yüzüstü yere kapanarak, “Ey Tanrı, bütün insan ruhlarının Tanrısı!” dediler, “Bir kişi günah işledi diye bütün topluluğa mı öfkeleneceksin?”
+{16:23} RAB Musa'ya, “Topluluğa söyle, Korah'ın,
+{16:24} Datan'ın, Aviram'ın çadırlarından uzaklaşsınlar” dedi.
+{16:25} Musa Datan'la Aviram'a gitti. İsrail'in ileri gelenleri onu izledi.
+{16:26} Topluluğu uyararak, “Bu kötü adamların çadırlarından uzak durun!” dedi, “Onların hiçbir şeyine dokunmayın. Yoksa onların günahları yüzünden canınızdan olursunuz.”
+{16:27} Bunun üzerine topluluk Korah, Datan ve Aviram'ın çadırlarından uzaklaştı. Datan'la Aviram çıkıp karıları, küçük büyük çocuklarıyla birlikte çadırlarının önünde durdular.
+{16:28} Musa şöyle dedi: “Bütün bunları yapmam için RAB'bin beni gönderdiğini, kendiliğimden bir şey yapmadığımı şuradan anlayacaksınız:
+{16:29} Eğer bu adamlar herkes gibi doğal bir ölümle ölür, herkesin başına gelen bir olayla karşılaşırlarsa, bilin ki beni RAB göndermemiştir.
+{16:30} Ama RAB yepyeni bir olay yaratırsa, yer yarılıp onları ve onlara ait olan her şeyi yutarsa, ölüler diyarına diri diri inerlerse, bu adamların RAB'be saygısızlık ettiklerini anlayacaksınız.”
+{16:31} Musa konuşmasını bitirir bitirmez Korah, Datan ve Aviram'ın altındaki yer yarıldı.
+{16:32} Yer yarıldı, onları, ailelerini, Korah'ın adamlarıyla mallarını yuttu.
+{16:33} Sahip oldukları her şeyle birlikte diri diri ölüler diyarına indiler. Yer onların üzerine kapandı. Topluluğun arasından yok oldular.
+{16:34} Çığlıklarını duyan çevredeki İsrailliler, “Yer bizi de yutmasın!” diyerek kaçıştılar.
+{16:35} RAB'bin gönderdiği ateş buhur sunan iki yüz elli adamı yakıp yok etti.
+{16:36} RAB Musa'ya şöyle dedi:
+{16:37} “Kâhin Harun oğlu Elazar'a buhurdanları ateşin içinden çıkarmasını, ateş korlarını az öteye dağıtmasını söyle. Çünkü buhurdanlar kutsaldır.
+{16:38} İşledikleri günahtan ötürü öldürülen bu adamların buhurdanlarını levha haline getirip sunağı bunlarla kapla. Buhurdanlar RAB'be sunuldukları için kutsaldır. Bunlar İsrailliler için bir uyarı olsun.”
+{16:39} Böylece Kâhin Elazar, yanarak ölen adamların getirdiği tunç buhurdanları RAB'bin Musa aracılığıyla kendisine söylediği gibi alıp döverek sunağı kaplamak için levha haline getirdi.
+{16:40} Bu, İsrailliler'e Harun'un soyundan gelenlerden başka hiç kimsenin RAB'bin önüne çıkıp buhur yakmaması gerektiğini anımsatacaktı. Yoksa o kişi Korah'la yandaşları gibi yok olacaktı.
+{16:41} Ertesi gün bütün İsrail topluluğu Musa'yla Harun'a söylenmeye başladı. “RAB'bin halkını siz öldürdünüz” diyorlardı.
+{16:42} Topluluk Musa'yla Harun'a karşı toplanıp Buluşma Çadırı'na doğru yönelince, çadırı ansızın bulut kapladı ve RAB'bin görkemi göründü.
+{16:43} Musa'yla Harun Buluşma Çadırı'nın önüne geldiler.
+{16:44} RAB Musa'ya, “Bu topluluğun arasından ayrılın da onları
+{16:45} birden yok edeyim” dedi. Musa'yla Harun yüzüstü yere kapandılar.
+{16:46} Sonra Musa Harun'a, “Buhurdanını alıp içine sunaktan ateş koy, üstüne de buhur koy” dedi, “Günahlarını bağışlatmak için hemen topluluğa git. Çünkü RAB öfkesini yağdırdı. Öldürücü hastalık başladı.”
+{16:47} Harun Musa'nın dediğini yaparak buhurdanını alıp topluluğun ortasına koştu. Halkın arasında öldürücü hastalık başlamıştı. Harun buhur sunarak topluluğun günahını bağışlattı.
+{16:48} O ölülerle dirilerin arasında durunca, öldürücü hastalık da dindi.
+{16:49} Korah olayında ölenler dışında, öldürücü hastalıktan ölenlerin sayısı 14 700 kişiydi.
+{16:50} Öldürücü hastalık dindiğinden, Harun Musa'nın yanına, Buluşma Çadırı'nın giriş bölümüne döndü.
+{i17:1} Harun'un Değneği
+{17:1} RAB Musa'ya şöyle dedi:
+{17:2} “İsrail halkına her oymak önderi için bir tane olmak üzere on iki değnek getirmesini söyle. Her önderin adını kendi değneğinin üzerine yaz.
+{17:3} Levi oymağının değneği üzerine Harun'un adını yazacaksın. Her oymak önderi için bir değnek olacak.
+{17:4} Değnekleri Buluşma Çadırı'nda sizinle buluştuğum Levha Sandığı'nın önüne koy.
+{17:5} Seçeceğim kişinin değneği filiz verecek. İsrail halkının sizden sürekli yakınmasına son vereceğim.”
+{17:6} Musa İsrail halkıyla konuştu. Halkın önderleri, her oymak önderi için bir tane olmak üzere on iki değnek getirdiler. Harun'un değneği de aralarındaydı.
+{17:7} Musa değnekleri Levha Sandığı'nın bulunduğu çadırda RAB'bin önüne koydu.
+{17:8} Ertesi gün Musa Levha Sandığı'nın bulunduğu çadıra girdi. Baktı, Levi oymağını temsil eden Harun'un değneği filiz vermiş, tomurcuklanıp çiçek açmış, badem yetiştirmiş.
+{17:9} Musa bütün değnekleri RAB'bin önünden çıkarıp İsrail halkına gösterdi. Halk değneklere baktı, her biri kendi değneğini aldı.
+{17:10} RAB Musa'ya, “Başkaldıranlara bir uyarı olsun diye Harun'un değneğini saklanmak üzere Levha Sandığı'nın önüne koy” dedi, “Onların benden yakınmalarına son vereceksin; öyle ki, ölmesinler.”
+{17:11} Musa RAB'bin buyruğu uyarınca davrandı.
+{17:12} İsrailliler Musa'ya, “Yok olacağız! Öleceğiz! Hepimiz yok olacağız!” dediler,
+{17:13} “RAB'bin Konutu'na her yaklaşan ölüyor. Hepimiz mi yok olacağız?”
+{i18:1} Kâhinlerle Levililer'in Görevi
+{18:1} RAB Harun'a, “Sen, oğulların ve ailen kutsal yere ilişkin suçtan sorumlu tutulacaksınız” dedi, “Kâhinlik görevinizle ilgili suçtan da sen ve oğulların sorumlu tutulacaksınız.
+{18:2} Sen ve oğulların Levha Sandığı'nın bulunduğu çadırın önünde hizmet ederken, atanız Levi'nin oymağından kardeşlerinizin de size katılıp yardım etmelerini sağlayın.
+{18:3} Senin sorumluluğun altında çadırda hizmet etsinler. Ancak, siz de onlar da ölmeyesiniz diye kutsal yerin eşyalarına ya da sunağa yaklaşmasınlar.
+{18:4} Seninle çalışacak ve Buluşma Çadırı'yla ilgili bütün hizmetlerden sorumlu olacaklar. Levililer dışında hiç kimse bulunduğunuz yere yaklaşmayacak.
+{18:5} “Bundan sonra İsrail halkına öfkelenmemem için kutsal yerin ve sunağın hizmetinden sizler sorumlu olacaksınız.
+{18:6} Ben İsrailliler arasından Levili kardeşlerinizi size bir armağan olarak seçtim. Buluşma Çadırı'yla ilgili hizmeti yapmaları için onlar bana adanmıştır.
+{18:7} Ama sunaktaki ve perdenin ötesindeki kâhinlik görevini sen ve oğulların üstleneceksiniz. Kâhinlik görevini size armağan olarak veriyorum. Sizden başka kutsal yere kim yaklaşırsa öldürülecektir.”
+{i18:8} Kâhinlerle Levililer'in Payı
+{18:8} RAB Harun'la konuşmasını şöyle sürdürdü: “Bana sunulan kutsal sunuların bağış kısımlarını sana veriyorum. Bunları sonsuza dek pay olarak sana ve oğullarına veriyorum.
+{18:9} Sunakta tümüyle yakılmayan, bana sunulan en kutsal sunulardan şunlar senin olacak: Tahıl, suç ve günah sunuları. En kutsal sunular senin ve oğullarının olacak.
+{18:10} Bunları en kutsal sunu olarak yiyeceksin. Her erkek onlardan yiyebilir. Onları kutsal sayacaksın.
+{18:11} “Ayrıca şunlar da senin olacak: İsrailliler'in sunduğu sallamalık sunuların bağış kısımlarını sonsuza dek pay olarak sana, oğullarına ve kızlarına veriyorum. Ailende dinsel açıdan temiz olan herkes onları yiyebilir.
+{18:12} “RAB'be verdikleri ilk ürünleri –zeytinyağının, yeni şarabın, tahılın en iyisini– sana veriyorum.
+{18:13} Ülkede yetişen ilk ürünlerden RAB'be getirdiklerinin tümü senin olacak. Ailende dinsel açıdan temiz olan herkes onları yiyebilir.
+{18:14} “İsrail'de RAB'be koşulsuz adanan her şey senin olacak.
+{18:15} İnsan olsun hayvan olsun RAB'be adanan her rahmin ilk ürünü senin olacak. Ancak ilk doğan her çocuk ve kirli sayılan hayvanların her ilk doğanı için kesinlikle bedel alacaksın.
+{18:16} İlk doğanlar bir aylıkken, kendi biçeceğin değer uyarınca, yirmi geradan oluşan kutsal yerin şekeline göre beş şekel gümüş bedel alacaksın.
+{18:17} “Ancak sığırın, koyunun ya da keçinin ilk doğanı için bedel almayacaksın. Onlar benim için ayrılmıştır. Kanlarını sunağın üzerine dökeceksin, yağlarını RAB'bi hoşnut eden koku olsun diye yakılan bir sunu olarak yakacaksın.
+{18:18} Sallamalık sununun göğsü ve sağ budu senin olduğu gibi eti de senin olacak.
+{18:19} İsrailliler'in bana sundukları kutsal sunuların bağış kısımlarını sonsuza dek pay olarak sana, oğullarına ve kızlarına veriyorum. Senin ve soyun için bu RAB'bin önünde sonsuza dek sürecek bozulmaz bir antlaşmadır.”
+{18:20} RAB Harun'la konuşmasını şöyle sürdürdü: “Onların ülkesinde mirasın olmayacak, aralarında hiçbir payın olmayacak. İsrailliler arasında payın ve mirasın benim.
+{18:21} “Buluşma Çadırı'yla ilgili yaptıkları hizmete karşılık, İsrail'de toplanan bütün ondalıkları pay olarak Levililer'e veriyorum.
+{18:22} Bundan böyle öbür İsrailliler Buluşma Çadırı'na yaklaşmamalı. Yoksa günahlarının bedelini canlarıyla öderler.
+{18:23} Buluşma Çadırı'yla ilgili hizmeti Levililer yapacak, çadıra karşı işlenen suçtan onlar sorumlu olacak. Gelecek kuşaklarınız boyunca kalıcı bir kural olacak bu. İsrailliler arasında onların payı olmayacak.
+{18:24} Bunun yerine İsrailliler'in RAB'be armağan olarak verdiği ondalığı miras olarak Levililer'e veriyorum. Bu yüzden Levililer için, ‘İsrailliler arasında onların mirası olmayacak’ dedim.”
+{18:25} RAB Musa'ya şöyle dedi:
+{18:26} “Levililer'e de ki, ‘Pay olarak size verdiğim ondalıkları İsrailliler'den alınca, aldığınız ondalığın ondalığını RAB'be armağan olarak sunacaksınız.
+{18:27} Armağanınız harmandan tahıl ya da üzüm sıkma çukurundan bir armağan sayılacaktır.
+{18:28} Böylelikle siz de İsrailliler'den aldığınız bütün ondalıklardan RAB'be armağan sunacaksınız. Bu ondalıklardan RAB'bin armağanını Kâhin Harun'a vereceksiniz.
+{18:29} Aldığınız bütün armağanlardan RAB için bir armağan ayıracaksınız; hepsinin en iyisini, en kutsalını ayıracaksınız.’
+{18:30} “Levililer'e şöyle de: ‘En iyisini sunduğunuzda, geri kalanı harman ya da asma ürünü olarak size sayılacaktır.
+{18:31} Siz ve aileniz her yerde ondan yiyebilirsiniz. Buluşma Çadırı'nda yaptığınız hizmete karşılık size verilen ücrettir bu.
+{18:32} En iyisini sunarsanız, bu konuda günah işlememiş olursunuz. Ölmemek için İsrailliler'in sunduğu kutsal sunuları kirletmeyeceksiniz.’”
+{i19:1} Kirli Sayılanın Arındırılması
+{19:1} RAB Musa'yla Harun'a şöyle dedi:
+{19:2} “RAB'bin buyurduğu yasanın kuralı şudur: İsrailliler'e size kusursuz, özürsüz, boyunduruk takmamış kızıl bir inek getirmelerini söyleyin.
+{19:3} İnek Kâhin Elazar'a verilsin; ordugahın dışına çıkarılıp onun önünde kesilecek.
+{19:4} Kâhin Elazar parmağıyla kanından alıp yedi kez Buluşma Çadırı'nın önüne doğru serpecek.
+{19:5} Sonra Elazar'ın gözü önünde inek, derisi, eti, kanı ve gübresiyle birlikte yakılacak.
+{19:6} Kâhin biraz sedir ağacı, mercanköşkotu ve kırmızı iplik alıp yanmakta olan ineğin üzerine atacak.
+{19:7} Sonra giysilerini yıkayacak, yıkanacak. Ancak o zaman ordugaha girebilir. Ama akşama dek kirli sayılacaktır.
+{19:8} İneği yakan kişi de giysilerini yıkayacak, yıkanacak. O da akşama dek kirli sayılacak.
+{19:9} “Temiz sayılan bir kişi ineğin külünü toplayıp ordugahın dışında temiz sayılan bir yere koyacak. İsrail topluluğu temizlenme suyu için bu külü saklayacak; bu, günahtan arınmak içindir.
+{19:10} İneğin külünü toplayan adam giysilerini yıkayacak, akşama dek kirli sayılacak. Bu kural hem İsrailliler, hem de aralarında yaşayan yabancılar için kalıcı olacaktır.
+{19:11} “Herhangi bir insan ölüsüne dokunan kişi yedi gün kirli sayılacaktır.
+{19:12} Üçüncü ve yedinci gün temizlenme suyuyla kendini arındıracak, böylece paklanmış olacak. Üçüncü ve yedinci gün kendini arındırmazsa, paklanmış sayılmayacak.
+{19:13} Herhangi bir insan ölüsüne dokunup da kendini arındırmayan kişi RAB'bin Konutu'nu kirletmiş olur. O kişi İsrail'den atılmalı. Temizlenme suyu üzerine dökülmediği için kirli sayılır, kirliliği üzerinde kalır.
+{19:14} “Çadırda biri öldüğü zaman uygulanacak kural şudur: Çadıra giren ve çadırda bulunan herkes yedi gün kirli sayılacaktır.
+{19:15} Kapağı iple bağlanmamış, ağzı açık her kap kirli sayılacaktır.
+{19:16} “Kırda kılıçla öldürülmüş ya da doğal ölümle ölmüş birine, insan kemiğine ya da mezara her dokunan yedi gün kirli sayılacaktır.
+{19:17} “Kirli sayılan kişi için bir kabın içine yakılan günah sunusunun külünden koyun, üstüne duru su dökeceksiniz.
+{19:18} Temiz sayılan bir adam mercanköşkotunu alıp suya batıracak. Sonra çadırın, bütün eşyaların ve orada bulunanların üzerine serpecek. Kemiğe, öldürülmüş ya da doğal ölümle ölmüş kişiye ya da mezara dokunanın üzerine de suyu serpecek.
+{19:19} Temiz sayılan adam, üçüncü ve yedinci gün kirli sayılanın üzerine suyu serpecek. Yedinci gün onu arındıracak. Arınan kişi giysilerini yıkayacak, yıkanacak ve akşam temiz sayılacak.
+{19:20} Ancak, kirli sayılan biri kendini arındırmazsa topluluğun arasından atılmalı. Çünkü RAB'bin Tapınağı'nı kirletmiştir. Temizlenme suyu üzerine dökülmediği için kirli sayılır.
+{19:21} Onlar için bu kural kalıcı olacaktır. Temizlenme suyunu serpen kişi de giysisini yıkamalı. Temizlenme suyuna dokunan kişi akşama dek kirli sayılacak.
+{19:22} Kirli sayılan birinin dokunduğu nesne kirli sayılır; o nesneye dokunan da akşama dek kirli sayılır.”
+{i20:1} Kayadan Çıkan Su
+{20:1} İsrail topluluğu birinci ay Zin Çölü'ne vardı, halk Kadeş'te konakladı. Miryam orada öldü ve gömüldü.
+{20:2} Ancak topluluk için içecek su yoktu. Halk Musa'yla Harun'a karşı toplandı.
+{20:3} Musa'ya, “Keşke kardeşlerimiz RAB'bin önünde öldüğünde biz de ölseydik!” diye çıkıştılar,
+{20:4} “RAB'bin topluluğunu neden bu çöle getirdiniz? Biz de hayvanlarımız da ölelim diye mi?
+{20:5} Neden bizi bu korkunç yere getirmek için Mısır'dan çıkardınız? Ne tahıl, ne incir, ne üzüm ne de nar var. Üstelik içecek su da yok!”
+{20:6} Musa'yla Harun topluluktan ayrılıp Buluşma Çadırı'nın giriş bölümüne gittiler, yüzüstü yere kapandılar. RAB'bin görkemi onlara göründü.
+{20:7} RAB Musa'ya, “Değneği al” dedi, “Sen ve ağabeyin Harun topluluğu toplayın. Halkın gözü önünde su
+{20:8} fışkırması için kayaya buyruk verin. Onlar da hayvanları da içsin diye kayadan onlara su çıkaracaksınız.”
+{20:9} Musa kendisine verilen buyruk uyarınca değneği RAB'bin önünden aldı.
+{20:10} Musa'yla Harun topluluğu kayanın önüne topladılar. Musa, “Ey siz, başkaldıranlar, beni dinleyin!” dedi, “Bu kayadan size su çıkaralım mı?”
+{20:11} Sonra kolunu kaldırıp değneğiyle kayaya iki kez vurdu. Kayadan bol su fışkırdı, topluluk da hayvanları da içti.
+{20:12} RAB Musa'yla Harun'a, “Madem İsrailliler'in gözü önünde benim kutsallığımı sayarak bana güvenmediniz” dedi, “Bu topluluğu kendilerine vereceğim ülkeye de götürmeyeceksiniz.”
+{20:13} Bu sulara Meriva suları denildi. Çünkü İsrail halkı orada RAB'be çıkışmış, RAB de aralarında kutsallığını göstermişti.
+{i20:14} Edom Kralı İsrailliler'e Geçiş İzni Vermiyor
+{20:14} Musa Kadeş'ten Edom Kralı'na ulaklarla şu haberi gönderdi: “Kardeşin İsrail şöyle diyor: ‘Başımıza gelen güçlükleri biliyorsun.
+{20:15} Atalarımız Mısır'a gitmişler. Orada uzun yıllar yaşadık. Mısırlılar atalarımıza da bize de kötü davrandılar.
+{20:16} Ama biz RAB'be yakarınca, yakarışımızı işitti. Bir melek gönderip bizi Mısır'dan çıkardı. “‘Şimdi senin sınırına yakın bir kent olan Kadeş'teyiz.
+{20:17} İzin ver, ülkenden geçelim. Tarlalardan, bağlardan geçmeyeceğiz, hiçbir kuyudan da su içmeyeceğiz. Sınırından geçinceye dek, sağa sola sapmadan Kral yolundan yolumuza devam edeceğiz.’”
+{20:18} Ama Edom Kralı, “Ülkemden geçmeyeceksiniz!” diye yanıtladı, “Geçmeye kalkışırsanız kılıçla karşınıza çıkarım.”
+{20:19} İsrailliler, “Yol boyunca geçip gideceğiz” dediler, “Eğer biz ya da hayvanlarımız suyundan içersek karşılığını öderiz. Yürüyüp geçmek için senden izin istiyoruz, hepsi bu.”
+{20:20} Edom Kralı yine, “Geçmeyeceksiniz!” yanıtını verdi. Edomlular İsrailliler'e saldırmak üzere kalabalık ve güçlü bir orduyla yola çıktılar.
+{20:21} Edom Kralı ülkesinden geçmelerine izin vermeyince, İsrailliler dönüp ondan uzaklaştılar.
+{i20:22} Harun'un Ölümü
+{20:22} İsrail topluluğu Kadeş'ten ayrılıp Hor Dağı'na geldi.
+{20:23} RAB, Edom sınırındaki Hor Dağı'nda Musa'yla Harun'a şöyle dedi:
+{20:24} “Harun ölüp atalarına kavuşacak. İsrail halkına vereceğim ülkeye girmeyecek. Çünkü ikiniz Meriva sularında verdiğim buyruğa karşı geldiniz.
+{20:25} Harun'la oğlu Elazar'ı Hor Dağı'na çıkar.
+{20:26} Harun'un kâhinlik giysilerini üzerinden çıkarıp oğlu Elazar'a giydir. Harun orada ölüp atalarına kavuşacak.”
+{20:27} Musa RAB'bin buyurduğu gibi yaptı. Bütün topluluğun gözü önünde Hor Dağı'na çıktılar.
+{20:28} Musa Harun'un kâhinlik giysilerini üzerinden çıkarıp oğlu Elazar'a giydirdi. Harun orada, dağın tepesinde öldü. Sonra Musa'yla Elazar dağdan indiler.
+{20:29} Harun'un öldüğünü öğrenince bütün İsrail halkı onun için otuz gün yas tuttu.
+{i21:1} Arat Kenti Yok Ediliyor
+{21:1} Negev'de yaşayan Kenanlı Arat Kralı, İsrailliler'in Atarim yolundan geldiğini duyunca, onlara saldırarak bazılarını tutsak aldı.
+{21:2} Bunun üzerine İsrailliler, “Eğer bu halkı tümüyle elimize teslim edersen, kentlerini büsbütün yok edeceğiz” diyerek RAB'be adak adadılar.
+{21:3} RAB İsrailliler'in yalvarışını işitti ve Kenanlılar'ı ellerine teslim etti. İsrailliler onları da kentlerini de büsbütün yok ettiler. Oraya Horma adı verildi.
+{i21:4} Tunç Yılan
+{21:4} Edom ülkesinin çevresinden geçmek için Kamış Denizi yoluyla Hor Dağı'ndan ayrıldılar. Ama yolda halk sabırsızlandı.
+{21:5} Tanrı'dan ve Musa'dan yakınarak, “Çölde ölelim diye mi bizi Mısır'dan çıkardınız?” dediler, “Burada ne ekmek var, ne de su. Ayrıca bu iğrenç yiyecekten de tiksiniyoruz!”
+{21:6} Bunun üzerine RAB halkın arasına zehirli yılanlar gönderdi. Yılanlar ısırınca İsrailliler'den birçok kişi öldü.
+{21:7} Halk Musa'ya gelip, “RAB'den ve senden yakınmakla günah işledik. Yalvar da, RAB aramızdan yılanları kaldırsın” dedi. Bunun üzerine Musa halk için yalvardı.
+{21:8} RAB Musa'ya, “Bir yılan yap ve onu bir direğin üzerine koy. Isırılan herkes ona bakınca yaşayacaktır” dedi.
+{21:9} Böylece Musa tunç bir yılan yaparak direğin üzerine koydu. Yılan tarafından ısırılan kişiler tunç yılana bakınca yaşadı.
+{i21:10} Moav'a Yolculuk
+{21:10} İsrail halkı yola koyulup Ovot'ta konakladı.
+{21:11} Sonra Ovot'tan ayrılıp doğuda Moav'a bakan çölde, İye– Haavarim'de konakladı.
+{21:12} Oradan da ayrılıp Zeret Vadisi'nde konakladı.
+{21:13} Oradan da ayrılıp Amorlular'ın sınırına dek uzanan çölde, Arnon Vadisi'nin karşı yakasında konakladılar. Arnon Moav'la Amorlular'ın ülkesi arasındaki Moav sınırıdır.
+{21:14} RAB'bin Savaşları Kitabı'nda şöyle yazılıdır: “... Sufa topraklarında Vahev Kenti, vadiler, Arnon Vadisi,
+{21:15} Ar Kenti'ne dayanan ve Moav sınırı boyunca uzanan vadilerin yamaçları...”
+{21:16} Oradan RAB'bin Musa'ya, “Halkı bir araya topla, onlara su vereceğim” dediği kuyuya, Beer'e doğru yol aldılar.
+{21:17} O zaman İsrailliler şu ezgiyi söylediler: “Suların fışkırsın, ey kuyu! Ezgi okuyun ona.
+{21:18} O kuyu ki, onu önderlerle Halkın soyluları Asayla, değnekle kazdılar.” Bundan sonra çölden Mattana'ya,
+{21:19} Mattana'dan Nahaliel'e, Nahaliel'den Bamot'a,
+{21:20} Bamot'tan Moav topraklarındaki vadiye, çöle bakan Pisga Dağı'nın eteklerine gittiler.
+{i21:21} Kral Sihon ve Og'un Yenilgisi (Yas.2:26-3:11)
+{21:21} İsrailliler Amorlular'ın Kralı Sihon'a ulaklarla şu haberi gönderdi:
+{21:22} “İzin ver, ülkenden geçelim. Tarlalardan, bağlardan geçmeyeceğiz, hiçbir kuyudan su içmeyeceğiz. Sınırından geçinceye dek, Kral yolundan yolumuza devam edeceğiz.”
+{21:23} Ne var ki Sihon, ülkesinden İsrailliler'in geçmesine izin vermedi. İsrailliler'le savaşmak üzere bütün halkını toplayıp çöle çıktı. Yahesa'ya varınca, İsrailliler'e saldırdı.
+{21:24} İsrailliler onu kılıçtan geçirip Arnon'dan Yabbuk'a, Ammonlular'ın sınırına dek uzanan topraklarını aldılar. Az Kenti Ammon sınırını oluşturuyordu.
+{21:25} İsrailliler Heşbon ve çevresindeki köylerle birlikte Amorlular'ın bütün kentlerini ele geçirerek orada yaşamaya başladılar.
+{21:26} Heşbon Amorlular'ın Kralı Sihon'un kentiydi. Sihon eski Moav Kralı'na karşı savaşmış, Arnon'a dek uzanan topraklarını elinden almıştı.
+{21:27} Bunun için ozanlar şöyle diyor: “Heşbon'a gelin, Sihon'un kenti yeniden kurulsun Ve sağlamlaştırılsın.
+{21:28} Heşbon'dan ateş, Sihon'un kentinden alev çıktı; Moav'ın Ar Kenti'ni, Arnon tepelerinin efendilerini yakıp yok etti.
+{21:29} Vay sana, ey Moav! İlah Kemoş'un halkı, yok oldun! Kemoş senin oğullarının Amorlular'ın Kralı Sihon'a kaçmasını, Kızlarının ona tutsak olmasını önleyemedi.
+{21:30} Onları bozguna uğrattık; Heşbon Divon'a dek yıkıma uğradı. Medeva'ya uzanan Nofah'a dek onları yıkıma uğrattık.”
+{21:31} Böylece İsrail halkı Amorlular'ın ülkesinde yaşamaya başladı.
+{21:32} Musa Yazer'i araştırmak için adamlar gönderdi. Sonra İsrailliler Yazer çevresindeki köyleri ele geçirerek orada yaşayan Ammonlular'ı kovdular.
+{21:33} Bundan sonra dönüp Başan'a doğru ilerlediler. Başan Kralı Og'la ordusu onlarla savaşmak için Edrei'de karşılarına çıktı.
+{21:34} RAB Musa'ya, “Ondan korkma!” dedi, “Çünkü onu da ordusuyla ülkesini de senin eline teslim ettim. Amorlular'ın Heşbon'da yaşayan Kralı Sihon'a yaptığının aynısını ona da yapacaksın.”
+{21:35} Böylece İsrail halkı kimseyi sağ bırakmadan Og'la oğullarını ve ordusunu yok etti, ülkeyi ele geçirdi.
+{i22:1} Moav Kralı Balak Balam'ı Çağırıyor
+{22:1} İsrailliler yollarına devam ederek Moav ovalarında, Şeria Irmağı'nın doğusunda, Eriha karşısında konakladılar.
+{22:2} Sippor oğlu Balak İsrailliler'in Amorlular'a neler yaptığını duydu.
+{22:3} İsrail halkı kalabalık olduğundan, Moavlılar onlardan korkarak yılgıya düştü.
+{22:4} Midyan ileri gelenlerine, “Öküz kırda nasıl otu yiyip tüketirse, bu topluluk da çevremizdeki her şeyi yiyip bitirecek” dediler. O sırada Sippor oğlu Balak Moav Kralı'ydı.
+{22:5} Balak, Beor oğlu Balam'ı çağırmak için ulaklar gönderdi. Balam Fırat Irmağı kıyısında, Amav ülkesindeki Petor'da yaşıyordu. Balak şöyle dedi: “Mısır'dan çıkıp yeryüzünü kaplayan bir halk yanıbaşıma yerleşti.
+{22:6} Lütfen gel de benden daha güçlü olan bu halka benim için lanet oku. Olur ki, onları yener, ülkeden kovarız. Çünkü senin kutsadığın kişinin kutsanacağını, lanetlediğin kişinin lanetleneceğini biliyorum.”
+{22:7} Moav ve Midyan ileri gelenleri falcılık ücretini alıp gittiler. Balam'a varınca Balak'ın bildirisini ona ilettiler.
+{22:8} Balam onlara, “Geceyi burada geçirin” dedi, “RAB'bin bana söyleyecekleri uyarınca size yanıt vereceğim.” Bunun üzerine Moav önderleri geceyi Balam'ın yanında geçirdiler.
+{22:9} Tanrı Balam'a gelip, “Evinde kalan bu adamlar kim?” diye sordu.
+{22:10} Balam Tanrı'yı şöyle yanıtladı: “Sippor oğlu Moav Kralı Balak bana şu bildiriyi gönderdi:
+{22:11} ‘Mısır'dan çıkan halk yeryüzünü kapladı. Gel de benim için onlara lanet oku. Olur ki, onlarla savaşmaya gücüm yeter, onları kovarım.’”
+{22:12} Ama Tanrı Balam'a, “Onlarla gitme! Bu halka lanet okuma, onlar kutsanmış halktır” dedi.
+{22:13} Sabah Balam kalktı, Balak'ın önderlerine, “Ülkenize dönün. Çünkü RAB sizinle gelmeme izin vermiyor” dedi.
+{22:14} Moav önderleri dönüp Balak'a, “Balam bizimle gelmedi” dediler.
+{22:15} Bunun üzerine Balak ilk gidenlerden daha çok ve daha saygın başka önderler gönderdi.
+{22:16} Balam'a gidip şöyle dediler: “Sippor oğlu Balak diyor ki, ‘Lütfen yanıma gelmene engel olan hiçbir şeye izin verme.
+{22:17} Çünkü seni fazlasıyla ödüllendireceğim, ne istersen yapacağım. Ne olur, gel, benim için bu halka lanet oku.’”
+{22:18} Balam Balak'ın ulaklarına şu yanıtı verdi: “Balak sarayını altınla, gümüşle doldurup bana verse bile, Tanrım RAB'bin buyruğundan öte küçük büyük hiçbir şey yapamam.
+{22:19} Lütfen siz de bu gece burada kalın, RAB'bin bana başka bir diyeceği var mı öğreneyim.”
+{22:20} O gece Tanrı Balam'a gelip, “Madem bu adamlar seni çağırmaya gelmiş, onlarla git; ancak sana ne söylersem onu yap” dedi.
+{i22:21} Balam'ın Eşeği
+{22:21} Balam sabah kalkıp eşeğine palan vurdu, Moav önderleriyle birlikte gitti.
+{22:22} Tanrı onun gidişine öfkelendi. RAB'bin meleği engel olmak için yoluna dikildi. Balam eşeğine binmişti, yanında iki uşağı vardı.
+{22:23} Eşek, yalın kılıç yolda durmakta olan RAB'bin meleğini görünce, yoldan sapıp tarlaya girdi. Balam yola döndürmek için eşeği dövdü.
+{22:24} RAB'bin meleği iki bağın arasında iki yanı duvarlı dar bir yolda durdu.
+{22:25} Eşek RAB'bin meleğini görünce duvara sıkıştı, Balam'ın ayağını ezdi. Balam eşeği yine dövdü.
+{22:26} RAB'bin meleği ilerledi, sağa sola dönüşü olmayan dar bir yerde durdu.
+{22:27} Eşek RAB'bin meleğini görünce, Balam'ın altında yıkıldı. Balam öfkelendi, değneğiyle eşeği dövdü.
+{22:28} Bunun üzerine RAB eşeği konuşturdu. Eşek Balam'a, “Sana ne yaptım ki, üç kez beni böyle dövdün?” diye sordu.
+{22:29} Balam, “Benimle alay ediyorsun” diye yanıtladı, “Elimde kılıç olsaydı, seni hemen öldürürdüm.”
+{22:30} Eşek, “Bugüne dek hep üzerine bindiğin eşek değil miyim ben?” dedi, “Daha önce sana hiç böyle davrandım mı?” Balam, “Hayır” diye yanıtladı.
+{22:31} Bundan sonra RAB Balam'ın gözlerini açtı. Balam yalın kılıç yolda durmakta olan RAB'bin meleğini gördü, eğilip yüzüstü yere kapandı.
+{22:32} RAB'bin meleği, “Neden üç kez eşeğini dövdün?” diye sordu, “Ben seni engellemeye geldim. Çünkü gittiğin yol seni yıkıma götürüyor.
+{22:33} Eşek beni gördü, üç kez önümden saptı. Eğer yoldan sapmasaydı, seni öldürür, onu sağ bırakırdım.”
+{22:34} Balam RAB'bin meleğine, “Günah işledim” dedi, “Beni engellemek için yolda dikildiğini anlamadım. Uygun görmüyorsan şimdi evime döneyim.”
+{22:35} RAB'bin meleği, “Adamlarla git” dedi, “Ama yalnız sana söyleyeceklerimi söyleyeceksin.” Böylece Balam Balak'ın önderleriyle gitti.
+{22:36} Balak Balam'ın geldiğini duyunca, onu karşılamak için Arnon kıyısında, sınırın en uzak köşesindeki Moav Kenti'ne gitti.
+{22:37} Balam'a, “Seni çağırmak için adam gönderdiğimde neden gelmedin?” dedi, “Seni ödüllendirmeye gücüm yetmez mi?”
+{22:38} Balam, “İşte şimdi geldim” diye yanıtladı, “Ama ne diyebilirim ki? Ancak Tanrı'nın bana buyurduklarını söyleyeceğim.”
+{22:39} Bundan sonra Balam Balak'la yola çıkarak Kiryat-Husot'a gitti.
+{22:40} Balak sığırlar, davarlar kurban etti, Balam'la yanındaki önderlere et gönderdi.
+{22:41} Sabah Balak Balam'ı Bamot-Baal'a çıkardı. Balam oradan İsrail halkının bir kesimini görebildi.
+{i23:1} Balam'ın İlk Bildirisi
+{23:1} Balam Balak'a, “Burada benim için yedi sunak kur ve yedi boğayla yedi koç hazırla” dedi.
+{23:2} Balak onun dediğini yaptı. Balak'la Balam her sunağın üstünde birer boğayla koç sundular.
+{23:3} Sonra Balam Balak'a, “Ben az öteye gideceğim, sen yakmalık sununun yanında bekle” dedi, “Olur ki, RAB karşıma çıkar. Bana ne açıklarsa, sana bildiririm.” Sonra çıplak bir tepeye çıktı.
+{23:4} Tanrı Balam'a göründü. Balam Tanrı'ya, “Yedi sunak kurdum, her sunağın üstünde birer boğayla koç sundum” dedi.
+{23:5} RAB Balam'a ne söylemesi gerektiğini bildirerek, “Balak'a git, ona şu haberi ilet” dedi.
+{23:6} Böylece Balam Balak'ın yanına döndü. Onun Moav önderleriyle birlikte yakmalık sunusunun yanında durduğunu gördü.
+{23:7} Sonra şu bildiriyi iletti: “Balak beni Aram'dan, Moav Kralı beni doğu dağlarından getirdi. ‘Gel, benim için Yakup soyuna lanet oku’ dedi, ‘Gel, İsrail'in yıkımını dile.’
+{23:8} Tanrı'nın lanetlemediğini Ben nasıl lanetlerim? RAB'bin yıkımını istemediği kişinin yıkımını Ben nasıl isteyebilirim?
+{23:9} Kayaların doruğundan görüyorum onları, Tepelerden bakıyorum onlara. Tek başına yaşayan, Uluslardan kendini soyutlayan Bir halk görüyorum.
+{23:10} Kim Yakup soyunun tozunu Ve İsrail'in dörtte birini sayabilir? Doğru kişilerin ölümüyle öleyim, Sonum onlarınki gibi olsun!”
+{23:11} Balak Balam'a, “Bana ne yaptın?” dedi, “Düşmanlarıma lanet okuyasın diye seni getirdim. Oysa sen onları kutsadın!”
+{23:12} Balam, “Ben ancak RAB'bin söylememi istediği şeyleri söylemeliyim” diye yanıtladı.
+{i23:13} Balam'ın İkinci Bildirisi
+{23:13} Bunun üzerine Balak, “Ne olur, benimle gel” dedi, “Onları görebileceğin başka bir yere gidelim. Onların hepsini görmeyeceksin, bir kesimini göreceksin. Oradan onlara benim için lanet oku.”
+{23:14} Böylece Balak Balam'ı Pisga Dağı'ndaki Gözcüler Yaylası'na götürdü. Orada yedi sunak kurdu, her sunağın üstünde birer boğayla koç sundu.
+{23:15} Balam Balak'a, “Az ötede RAB'be danışacağım, sen burada yakmalık sununun yanında bekle” dedi.
+{23:16} RAB Balam'a göründü, ne söylemesi gerektiğini bildirerek, “Balak'a git, ona şu haberi ilet” dedi.
+{23:17} Böylece Balam Balak'ın yanına döndü, onun Moav önderleriyle birlikte yakmalık sunusunun yanında durduğunu gördü. Balak, “RAB ne dedi?” diye sordu.
+{23:18} Balam şu bildiriyi iletti: “Ey Balak, uyan ve dinle; Ey Sippor oğlu, bana kulak ver.
+{23:19} Tanrı insan değil ki, Yalan söylesin; İnsan soyundan değil ki, Düşüncesini değiştirsin. O söyler de yapmaz mı? Söz verir de yerine getirmez mi?
+{23:20} Kutsamak için bana buyruk verildi; O kutsadı, ben değiştiremem.
+{23:21} Yakup soyunda suç bulunmadı, Ne de İsrail'de kötülük. Tanrıları RAB aralarındadır, Aralarındaki kral olarak Adına sevinç çığlıkları atıyorlar.
+{23:22} Tanrı onları Mısır'dan çıkardı, O'nun yaban öküzü gibi gücü var.
+{23:23} Yakup soyuna yapılan büyü tutmaz; İsrail'e karşı falcılık etkili olmaz. Şimdi Yakup ve İsrail için, ‘Tanrı neler yaptı!’ denecek.
+{23:24} İşte halk bir dişi aslan gibi uyanıyor. Avını yiyip bitirmedikçe, Öldürülenlerin kanını içmedikçe rahat etmeyen aslan gibi kalkıyor.”
+{23:25} Bunun üzerine Balak, “Onlara ne lanet oku, ne de onları kutsa!” dedi.
+{23:26} Balam, “RAB ne derse onu yapmalıyım dememiş miydim sana?” diye yanıtladı.
+{i23:27} Balam'ın Üçüncü Bildirisi
+{23:27} Sonra Balak Balam'a, “Ne olur, gel, seni başka bir yere götüreyim” dedi, “Olur ki, Tanrı oradan benim için onlara lanet okumana izin verir.”
+{23:28} Böylece Balam'ı çöle bakan Peor Dağı'nın tepesine götürdü.
+{23:29} Balam, “Burada benim için yedi sunak kurup yedi boğayla yedi koç hazırla” dedi.
+{23:30} Balak onun dediğini yaptı, her sunağın üstünde birer boğayla koç sundu.
+{24:1} Balam, RAB'bin İsrail halkını kutsamaktan hoşnut olduğunu anlayınca, önceden yaptığı gibi gidip fala başvurmadı, yüzünü çöle çevirdi.
+{24:2} Baktı, İsrail'in oymak oymak yerleştiğini gördü. Tanrı'nın Ruhu onun üzerine inince,
+{24:3} şu bildiriyi iletti: “Beor oğlu Balam, Gözü açılmış olan,
+{24:4} Tanrı'nın sözlerini duyan, Her Şeye Gücü Yeten'in görümlerini gören, Yere kapanan, Tanrı'nın gözlerini açtığı kişi bildiriyor:
+{24:5} ‘Ey Yakup soyu, çadırların, Ey İsrail, konutların ne güzel!
+{24:6} Yayılıyorlar vadiler gibi, Irmak kıyısında bahçeler gibi, RAB'bin diktiği öd ağaçları gibi, Su kıyısındaki sedir ağaçları gibi.
+{24:7} Kovalarından sular akacak, Tohumları bol suyla sulanacak. Kralları Agak'tan büyük olacak, Krallığı yüceltilecek.
+{24:8} Tanrı onları Mısır'dan çıkardı, O'nun yaban öküzü gibi gücü var. Düşmanı olan ulusları yiyip bitirecek, Kemiklerini parçalayacak, Oklarıyla onları deşecekler.
+{24:9} Aslan gibi, dişi aslan gibi Yere çömelir, yatarlar, Kim onları uyandırmaya cesaret edebilir? Seni kutsayan kutsansın, Seni lanetleyen lanetlensin!’”
+{24:10} Balam'a öfkelenen Balak ellerini birbirine vurarak, “Düşmanlarıma lanet okuyasın diye seni çağırdım” dedi, “Oysa üç kez onları kutsadın.
+{24:11} Haydi, hemen evine dön! Seni ödüllendireceğimi söylemiştim. Ama RAB seni ödül almaktan yoksun bıraktı.”
+{24:12} Balam şöyle karşılık verdi: “Bana gönderdiğin ulaklara, ‘Balak sarayını altınla, gümüşle doldurup bana verse bile,
+{24:13} RAB'bin buyruğundan öte iyi kötü hiçbir şey yapamam. Ancak RAB ne derse onu söylerim’ dememiş miydim?
+{24:14} İşte şimdi halkıma dönüyorum. Gel, bu halkın gelecekte halkına neler yapacağını sana bildireyim.”
+{i24:15} Balam'ın Dördüncü Bildirisi
+{24:15} Sonra Balam şu bildiriyi iletti: “Beor oğlu Balam, Gözü açılmış olan,
+{24:16} Tanrı'nın sözlerini duyan, Yüceler Yücesi'nin bilgisine kavuşan, Her Şeye Gücü Yeten'in görümlerini gören, Yere kapanan, Tanrı'nın gözlerini açtığı kişi bildiriyor:
+{24:17} ‘Onu görüyorum, ama şimdilik değil, Ona bakıyorum, ama yakından değil. Yakup soyundan bir yıldız çıkacak, İsrail'den bir önder yükselecek. Moavlılar'ın alınlarını, Şetoğulları'nın başlarını ezecek.
+{24:18} Düşmanı olan Edom ele geçirilecek, Evet, Seir alınacak, Ama İsrail güçlenecek.
+{24:19} Yakup soyundan gelen kişi önderlik edecek, Kentte sağ kalanları yok edecek.’”
+{i24:20} Balam'ın Son Bildirileri
+{24:20} Balam Amalekliler'i görünce şu bildiriyi iletti: “Amalek halkı uluslar arasında birinciydi, Ama sonu yıkım olacak.”
+{24:21} Kenliler'i görünce de şu bildiriyi iletti: “Yaşadığınız yer güvenli, Yuvanız kayalarda kurulmuş;
+{24:22} Ama, ey Kenliler, Asurlular sizi tutsak edince, Yanıp yok olacaksınız.”
+{24:23} Balam bildirisini iletmeyi sürdürdü: “Ah, bunu yapan Tanrı'ysa, Kim sağ kalabilir?
+{24:24} Kittim kıyılarından gemiler gelecek, Asur'la Ever'i dize getirecekler, Kendileri de yıkıma uğrayacak.”
+{24:25} Bundan sonra Balam kalkıp evine döndü, Balak da kendi yoluna gitti.
+{i25:1} İsrailliler Peor'da Günaha Giriyor
+{25:1} İsrailliler Şittim'de yaşarken, erkekleri Moavlı kadınlarla zina etmeye başladı.
+{25:2} Bu kadınlar kendi ilahlarına kurban sunarken İsrailliler'i de çağırdılar. İsrail halkı yiyeceklerden yedi ve onların ilahlarına taptı.
+{25:3} Böylece Baal-Peor'a bağlandılar. RAB bu yüzden onlara öfkelendi.
+{25:4} Musa'ya, “Bu halkın bütün önderlerini gündüz benim önümde öldür” dedi, “Öyle ki, İsrail halkına öfkem yatışsın.”
+{25:5} Bunun üzerine Musa İsrail yargıçlarına, “Her biriniz kendi adamlarınız arasında Baal-Peor'a bağlanmış olanları öldürün” dedi.
+{25:6} O sırada İsrailli bir adam geldi, Musa'nın ve Buluşma Çadırı'nın girişinde ağlayan İsrail topluluğunun gözü önünde kardeşine Midyanlı bir kadın getirdi.
+{25:7} Bunu gören Kâhin Harun oğlu Elazar oğlu Pinehas topluluktan ayrılıp eline bir mızrak aldı.
+{25:8} İsrailli'nin ardına düşerek çadıra girdi ve mızrağı ikisine birden sapladı. Mızrak hem İsrailli'nin, hem de Midyanlı kadının karnını delip geçti. Böylece İsrail'i yok eden hastalık dindi.
+{25:9} Hastalıktan ölenlerin sayısı 24 000 kişiydi.
+{25:10} RAB Musa'ya şöyle dedi:
+{25:11} “Kâhin Harun oğlu Elazar oğlu Pinehas İsrail halkına öfkemin dinmesine neden oldu. Çünkü o, aralarında benim adıma büyük kıskançlık duydu. Bu yüzden onları kıskançlıktan büsbütün yok etmedim.
+{25:12} Ona de ki, ‘Onunla bir esenlik antlaşması yapacağım.
+{25:13} Kendisi ve soyundan gelenler için kalıcı bir kâhinlik antlaşması olacak bu. Çünkü o Tanrısı için kıskançlık duydu ve İsrail halkının günahlarını bağışlattı.’”
+{25:14} Midyanlı kadınla birlikte öldürülen İsrailli, Şimonoğulları'nın bir aile başıydı ve adı Salu oğlu Zimri'ydi.
+{25:15} Öldürülen kadın ise Midyanlı bir aile başı olan Sur'un kızı Kozbi'ydi.
+{25:16} RAB Musa'ya, “Midyanlılar'ı düşman
+{25:17} say ve yok et” dedi,
+{25:18} “Çünkü Peor olayında ve bunun sonucunda ölümcül hastalık çıktığı gün öldürülen kızkardeşleri Midyanlı önderin kızı Kozbi olayında kurdukları tuzaklarla sizi aldatarak düşmanca davrandılar.”
+{i26:1} İkinci Sayım
+{26:1} Ölümcül hastalık son bulunca RAB, Musa'yla Kâhin Harun oğlu Elazar'a, “İsrail topluluğunun ailelerine
+{26:2} göre sayımını yapın” dedi, “Savaşabilecek durumdaki yirmi ve daha yukarı yaştaki bütün erkekleri sayın.”
+{26:3} Bunun üzerine Musa'yla Kâhin Elazar, Şeria Irmağı'nın yanında, Eriha karşısındaki Moav ovalarında halka, “RAB'bin Musa'ya
+{26:4} verdiği buyruk uyarınca, yirmi ve daha yukarı yaştaki erkekleri sayın” dediler. Mısır'dan çıkan İsrailliler şunlardı:
+{26:5} İsrail'in ilk doğanı Ruben'in soyundan gelen Rubenoğulları: Hanok soyundan Hanok boyu, Pallu soyundan Pallu boyu,
+{26:6} Hesron soyundan Hesron boyu, Karmi soyundan Karmi boyu.
+{26:7} Ruben boyları bunlardı, sayıları 43 730 kişiydi.
+{26:8} Pallu'nun oğlu Eliav,
+{26:9} Eliav'ın oğulları Nemuel, Datan ve Aviram'dı. Bunlar topluluğun seçtiği, Musa'yla Harun'a, dolayısıyla RAB'be başkaldırarak Korah'ın yandaşlarına katılan Datan'la Aviram'dı.
+{26:10} Yer yarılıp onları Korah'la birlikte yutunca yok oldular. Ateş Korah'ın iki yüz elli yandaşını yakıp yok etti. Böylece başkalarına bir uyarı oldular.
+{26:11} Korah'ın oğulları ise ölmedi.
+{26:12} Boylarına göre Şimonoğulları şunlardı: Nemuel soyundan Nemuel boyu, Yamin soyundan Yamin boyu, Yakin soyundan Yakin boyu,
+{26:13} Zerah soyundan Zerah boyu, Şaul soyundan Şaul boyu.
+{26:14} Şimon boyları bunlardı, sayıları 22 200 kişiydi.
+{26:15} Boylarına göre Gadoğulları şunlardı: Sefon soyundan Sefon boyu, Hagi soyundan Hagi boyu, Şuni soyundan Şuni boyu,
+{26:16} Ozni soyundan Ozni boyu, Eri soyundan Eri boyu,
+{26:17} Arot soyundan Arot boyu, Areli soyundan Areli boyu.
+{26:18} Gad boyları bunlardı, sayıları 40 500 kişiydi.
+{26:19} Yahuda'nın iki oğlu Er'le Onan Kenan ülkesinde ölmüşlerdi.
+{26:20} Boylarına göre Yahudaoğulları şunlardı: Şela soyundan Şela boyu, Peres soyundan Peres boyu, Zerah soyundan Zerah boyu.
+{26:21} Peres soyundan gelenler şunlardı: Hesron soyundan Hesron boyu, Hamul soyundan Hamul boyu.
+{26:22} Yahuda boyları bunlardı, sayıları 76 500 kişiydi.
+{26:23} Boylarına göre İssakaroğulları şunlardı: Tola soyundan Tola boyu, Puvva soyundan Puvva boyu,
+{26:24} Yaşuv soyundan Yaşuv boyu, Şimron soyundan Şimron boyu.
+{26:25} İssakar boyları bunlardı, sayıları 64 300 kişiydi.
+{26:26} Boylarına göre Zevulunoğulları şunlardı: Seret soyundan Seret boyu, Elon soyundan Elon boyu, Yahleel soyundan Yahleel boyu.
+{26:27} Zevulun boyları bunlardı, sayıları 60 500 kişiydi.
+{26:28} Boylarına göre Yusuf'un oğulları: Manaşşe ve Efrayim.
+{26:29} Manaşşe soyundan gelenler: Makir soyundan Makir boyu –Makir Gilat'ın babasıydı– Gilat soyundan Gilat boyu.
+{26:30} Gilat soyundan gelenler şunlardı: İezer soyundan İezer boyu, Helek soyundan Helek boyu,
+{26:31} Asriel soyundan Asriel boyu, Şekem soyundan Şekem boyu,
+{26:32} Şemida soyundan Şemida boyu, Hefer soyundan Hefer boyu.
+{26:33} Hefer oğlu Selofhat'ın oğulları olmadı; yalnız Mahla, Noa, Hogla, Milka ve Tirsa adında kızları vardı.
+{26:34} Manaşşe boyları bunlardı, sayıları 52 700 kişiydi.
+{26:35} Boylarına göre Efrayim soyundan gelenler şunlardı: Şutelah soyundan Şutelah boyu, Beker soyundan Beker boyu, Tahan soyundan Tahan boyu.
+{26:36} Şutelah soyundan gelenler şunlardı: Eran soyundan Eran boyu.
+{26:37} Efrayim boyları bunlardı, sayıları 32 500 kişiydi. Boylarına göre Yusuf'un soyundan gelenler bunlardı.
+{26:38} Boylarına göre Benyamin soyundan gelenler: Bala soyundan Bala boyu, Aşbel soyundan Aşbel boyu, Ahiram soyundan Ahiram boyu,
+{26:39} Şufam soyundan Şufam boyu, Hufam soyundan Hufam boyu.
+{26:40} Bala'nın oğulları Ard'la Naaman'dı. Ard soyundan Ard boyu, Naaman soyundan Naaman boyu.
+{26:41} Boylarına göre Benyamin soyundan gelenler bunlardı, sayıları 45 600 kişiydi.
+{26:42} Boylarına göre Dan soyundan gelenler şunlardı: Şuham soyundan Şuham boyu. Dan boyu buydu.
+{26:43} Hepsi Şuham boyundandı, sayıları 64 400 kişiydi.
+{26:44} Boylarına göre Aşer soyundan gelenler: Yimna soyundan Yimna boyu, Yişvi soyundan Yişvi boyu, Beria soyundan Beria boyu.
+{26:45} Beria soyundan gelenler: Hever soyundan Hever boyu, Malkiel soyundan Malkiel boyu.
+{26:46} Aşer'in Serah adında bir kızı vardı.
+{26:47} Aşer boyları bunlardı, sayıları 53 400 kişiydi.
+{26:48} Boylarına göre Naftali soyundan gelenler: Yahseel soyundan Yahseel boyu, Guni soyundan Guni boyu,
+{26:49} Yeser soyundan Yeser boyu, Şillem soyundan Şillem boyu.
+{26:50} Boylarına göre Naftali boyları bunlardı, sayıları 45 400 kişiydi.
+{26:51} Sayılan İsrailliler'in toplamı 601 730 erkekti.
+{26:52} RAB Musa'ya şöyle dedi:
+{26:53} “Adlarının sayısına göre ülke bunlara pay olarak bölüştürülecek.
+{26:54} Sayıca çok olana büyük, sayıca az olana küçük pay vereceksin. Her oymağa kişi sayısına göre pay verilecek.
+{26:55} Ancak ülke kura ile dağıtılacak. Herkesin payı, ata oymağının adına göre olacak.
+{26:56} Küçük, büyük her oymağın payı kurayla dağıtılacak.”
+{26:57} Boylarına göre sayılan Levililer şunlardı: Gerşon soyundan Gerşon boyu, Kehat soyundan Kehat boyu, Merari soyundan Merari boyu.
+{26:58} Şunlar da Levili boylardı: Livni boyu, Hevron boyu, Mahli boyu, Muşi boyu, Korah boyu. Kehat Amram'ın babasıydı.
+{26:59} Amram'ın karısı Mısır'da doğan, Levi soyundan gelme Yokevet'ti. Amram'a Harun'u, Musa'yı ve kızkardeşleri Miryam'ı doğurdu.
+{26:60} Harun Nadav, Avihu, Elazar ve İtamar'ın babasıydı.
+{26:61} Nadav'la Avihu RAB'bin önünde kurallara aykırı bir ateş sunarken öldüler.
+{26:62} Levililer'den sayılan bir aylık ve daha yukarı yaştaki bütün erkekler 23 000 kişiydi. Bunlar öbür İsrailliler'le birlikte sayılmadılar. Çünkü öbür İsrailliler arasında onlara pay verilmemişti.
+{26:63} Şeria Irmağı yanında, Eriha karşısındaki Moav ovalarında Musa'yla Kâhin Elazar'ın saydıkları İsrailliler bunlardı.
+{26:64} Ancak, bu sayılanların arasında Musa'yla Kâhin Harun'un Sina Çölü'nde saymış olduğu İsrailliler'den kimse yoktu.
+{26:65} Çünkü RAB o dönemde sayımı yapılan İsrailliler'in kesinlikle çölde öleceğini söylemişti. Onlardan Yefunne oğlu Kalev'le Nun oğlu Yeşu'dan başka kimse sağ kalmamıştı.
+{i27:1} Selofhat'ın Kızları (Say.36:1-12)
+{27:1} Yusuf oğlu Manaşşe'nin boylarından Manaşşe oğlu Makir oğlu Gilat oğlu Hefer oğlu Selofhat'ın Mahla, Noa, Hogla, Milka,
+{27:2} Tirsa adındaki kızları, Buluşma Çadırı'nın girişinde Musa'nın, Kâhin Elazar'ın, önderlerin ve bütün topluluğun önüne gelip şöyle dediler:
+{27:3} “Babamız çölde öldü. RAB'be başkaldıran Korah'ın yandaşları arasında değildi. İşlemiş olduğu günahtan ötürü öldü. Oğulları olmadı.
+{27:4} Erkek çocuğu olmadı diye babamızın adı kendi boyu arasından neden yok olsun? Babamızın kardeşleri arasında bize de mülk verin.”
+{27:5} Musa onların davasını RAB'be götürdü.
+{27:6} RAB Musa'ya şöyle dedi:
+{27:7} “Selofhat'ın kızları doğru söylüyor. Onlara amcalarıyla birlikte miras olarak mülk verecek, babalarının mirasını onlara aktaracaksın.
+{27:8} “İsrailliler'e de ki, ‘Bir adam erkek çocuğu olmadan ölürse, mirasını kızına vereceksiniz.
+{27:9} Kızı yoksa mirasını kardeşlerine,
+{27:10} kardeşleri yoksa amcalarına vereceksiniz.
+{27:11} Amcaları da yoksa, mirasını bağlı olduğu boyda kendisine en yakın akrabasına vereceksiniz. Yakını mirası mülk edinsin. Musa'ya verdiğim buyruk uyarınca, İsrailliler için kesin bir kural olacak bu.’”
+{i27:12} Yeşu Musa'nın Yerine Geçecek (Yas.31:1-8)
+{27:12} Bundan sonra RAB Musa'ya, “Haavarim dağlık bölgesine çık, İsrailliler'e vereceğim ülkeye bak” dedi,
+{27:13} “Ülkeyi gördükten sonra, ağabeyin Harun gibi sen de ölüp atalarına kavuşacaksın.
+{27:14} Çünkü ikiniz de Zin Çölü'nde buyruğuma karşı çıktınız. Topluluk sularda bana başkaldırdığında, onların önünde kutsallığımı önemsemediniz.” –Bunlar Zin Çölü'ndeki Kadeş'te Meriva sularıdır.–
+{27:15} Musa, “Bütün insan ruhlarının Tanrısı RAB bu
+{27:16} topluluğa bir önder atasın” diye karşılık verdi,
+{27:17} “O kişi topluluğun önünde yürüsün ve topluluğu yönetsin. Öyle ki, RAB'bin topluluğu çobansız koyunlar gibi kalmasın.”
+{27:18} Bunun üzerine RAB, “Kendisinde RAB'bin Ruhu bulunan Nun oğlu Yeşu'yu yanına al, üzerine elini koy” dedi,
+{27:19} “Onu Kâhin Elazar'la bütün topluluğun önüne çıkar ve hepsinin önünde görevlendir.
+{27:20} Bütün İsrail topluluğu sözünü dinlesin diye ona yetkinden ver.
+{27:21} Kâhin Elazar'ın önüne çıkacak; kâhin, Yeşu için Urim aracılığıyla RAB'be danışacak. Bu yöntemle Elazar Yeşu'yu ve bütün halkı yönlendirecek.”
+{27:22} Musa RAB'bin kendisine buyurduğu gibi yaptı. Yeşu'yu Kâhin Elazar'ın ve bütün topluluğun önüne götürdü.
+{27:23} RAB'bin buyruğu uyarınca ellerini üzerine koyarak onu görevlendirdi.
+{i28:1} Günlük Sunular (Çık.29:38-46)
+{28:1} RAB Musa'ya şöyle dedi:
+{28:2} “İsrailliler'e buyur ve de ki, ‘Bana sunacağınız sunuyu –yakılan sunu ve beni hoşnut eden koku olarak sunacağınız yiyeceği– belirlenen zamanda sunmaya dikkat edeceksiniz.’
+{28:3} Onlara de ki, ‘RAB'be sunacağınız yakılan sunu şudur: Günlük yakmalık sunu olarak her gün bir yaşında kusursuz iki erkek kuzu sunacaksınız.
+{28:4} Kuzunun birini sabah, öbürünü akşamüstü sunun.
+{28:5} Kuzuyla birlikte tahıl sunusu olarak dörtte bir hin sıkma zeytinyağıyla yoğrulmuş onda bir efa ince un sunacaksınız.
+{28:6} Günlük yakmalık sunu, Sina Dağı'nda başlatılan, RAB'bi hoşnut eden koku olarak yakılan sunudur.
+{28:7} Kuzuyla birlikte dökmelik sunu olarak dörtte bir hin içki sunacaksınız. Dökmelik sunuyu RAB için kutsal yerde dökeceksiniz.
+{28:8} Öbür kuzuyu akşamüstü, yakılan sunu ve RAB'bi hoşnut eden koku olarak, sabahki gibi tahıl sunusu ve dökmelik sunuyla birlikte bana sunacaksınız.’”
+{i28:9} Şabat Sunuları
+{28:9} “‘Şabat Günü bir yaşında kusursuz iki erkek kuzuyla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda iki efa ince un ve onun dökmelik sunusunu sunacaksınız.
+{28:10} Günlük yakmalık sunuyla dökmelik sunusu dışında, her Şabat Günü sunulan yakmalık sunu budur.’”
+{i28:11} Yeni Ay Sunuları
+{28:11} “‘Her ayın ilk günü, RAB'be yakmalık sunu olarak iki boğa, bir koç ve bir yaşında kusursuz yedi erkek kuzu sunacaksınız.
+{28:12} Her boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa ince un; koçla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda iki efa ince un;
+{28:13} her kuzuyla da tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda bir efa ince un sunacaksınız. Bu, yakmalık sunu, RAB'bi hoşnut eden koku, yakılan sunu olacaktır.
+{28:14} Her boğayla dökmelik sunu olarak yarım hin, koçla üçte bir hin, her kuzuyla dörtte bir hin şarap sunacaksınız. Yıl boyunca her Yeni Ay'da yapılacak yakmalık sunu budur.
+{28:15} Günlük yakmalık sunuyla dökmelik sunusu dışında, RAB'be günah sunusu olarak bir teke sunulacak.’”
+{i28:16} Fısıh Sunuları (Çık.12:15-20; Lev.23:4-8; Yas.16:1-8)
+{28:16} “‘RAB'bin Fısıh kurbanı birinci ayın on dördüncü günü kesilmelidir.
+{28:17} On beşinci gün bayram olacaktır; yedi gün mayasız ekmek yiyeceksiniz.
+{28:18} İlk gün kutsal toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız.
+{28:19} RAB için yakılan sunu, yakmalık sunu olarak iki boğa, bir koç ve bir yaşında yedi erkek kuzu sunacaksınız. Sunacağınız hayvanlar kusursuz olmalı.
+{28:20} Her boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa,
+{28:21} koçla onda iki efa, her kuzuyla onda bir efa ince un sunacaksınız;
+{28:22} günahlarınızı bağışlatmak için de günah sunusu olarak bir teke sunacaksınız.
+{28:23} Her sabah sunacağınız günlük yakmalık sunuya ek olarak bunları da sunacaksınız.
+{28:24} Böylece her gün RAB'bi hoşnut eden koku olarak yakılan yiyecek sunusunu yedi gün sunacaksınız. Bunu günlük yakmalık sunuyla dökmelik sunusuna ek olarak sunacaksınız.
+{28:25} Yedinci gün kutsal toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız.’”
+{i28:26} Haftalar Bayramı'nda Sunulacak Sunular (Lev.23:15-22; Yas.16:9-12)
+{28:26} “‘İlk ürünleri kutlama günü, Haftalar Bayramı'nda* RAB'be yeni tahıl sunusu sunduğunuzda kutsal toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız.
+{28:27} RAB'bi hoşnut eden koku, yakmalık sunu olarak iki boğa, bir koç ve bir yaşında yedi erkek kuzu sunacaksınız.
+{28:28} Her boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa, koçla
+{28:29} birlikte onda iki efa, her kuzuyla da onda bir efa ince un sunacaksınız;
+{28:30} günahlarınızı bağışlatmak için de bir teke sunacaksınız.
+{28:31} Günlük yakmalık sunuyla tahıl sunusuna ek olarak bunları dökmelik sunuyla birlikte sunacaksınız. Sunacağınız hayvanlar kusursuz olmalı.’”
+{i29:1} Boru Çalma Günü (Lev.23:23-25)
+{29:1} “‘Yedinci ayın birinci günü kutsal toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız. O gün sizin için boru çalma günü olacak.
+{29:2} RAB'bi hoşnut eden koku, yakmalık sunu olarak kusursuz bir boğa, bir koç ve bir yaşında yedi erkek kuzu sunacaksınız.
+{29:3} Boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa, koçla birlikte
+{29:4} onda iki efa, her kuzuyla da onda bir efa ince un sunacaksınız.
+{29:5} Günahlarınızı bağışlatmak için de günah sunusu olarak bir teke sunacaksınız.
+{29:6} Kurala göre sunacağınız aylık ve günlük yakmalık sunuyla dökmelik sunulara, tahıl sunularına ek olarak bunları sunacaksınız. Bunlar RAB'bi hoşnut eden koku olarak yakılan sunulardır.’”
+{i29:7} Günahları Bağışlatma Günü Sunulacak Sunular (Lev.16:2-34; 23:26-32)
+{29:7} “‘Yedinci ayın onuncu günü kutsal bir toplantı düzenleyeceksiniz. O gün isteklerinizi denetleyecek, hiç iş yapmayacaksınız.
+{29:8} RAB'bi hoşnut eden koku, yakmalık sunu olarak bir boğa, bir koç ve bir yaşında yedi erkek kuzu sunacaksınız. Sunacağınız hayvanlar kusursuz olmalı.
+{29:9} Boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa, koçla birlikte onda iki efa,
+{29:10} her kuzuyla da onda bir efa ince un sunacaksınız.
+{29:11} Günah sunusu için bir teke sunacaksınız. Günahlarınızı bağışlatmak için sunulan günah sunusu, günlük yakmalık sunuyla dökmelik ve tahıl sunularına ek olarak bunları da sunacaksınız.’”
+{i29:12} Çardak Bayramı'nda Sunulacak Sunular (Lev.23:33-43; Yas.16:13-17)
+{29:12} “‘Yedinci ayın on beşinci günü kutsal bir toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız. Bu bayramı RAB'bin onuruna yedi gün kutlayacaksınız.
+{29:13} RAB'bi hoşnut eden koku olarak yakılan sunu, yakmalık sunu olarak on üç boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız. Bu hayvanlar kusursuz olmalı.
+{29:14} Her boğayla birlikte tahıl sunusu olarak zeytinyağıyla yoğrulmuş onda üç efa, her koçla
+{29:15} birlikte onda iki efa, her kuzuyla da onda bir efa ince un sunacaksınız.
+{29:16} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:17} “‘İkinci gün kusursuz on iki boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:18} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:19} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:20} “‘Üçüncü gün kusursuz on bir boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:21} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:22} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:23} “‘Dördüncü gün kusursuz on boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:24} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:25} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:26} “‘Beşinci gün kusursuz dokuz boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:27} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:28} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:29} “‘Altıncı gün kusursuz sekiz boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:30} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:31} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:32} “‘Yedinci gün kusursuz yedi boğa, iki koç ve bir yaşında on dört erkek kuzu sunacaksınız.
+{29:33} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:34} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:35} “‘Sekizinci gün bir toplantı düzenleyecek, gündelik işlerinizi yapmayacaksınız.
+{29:36} Yakmalık sunu, yakılan sunu, RAB'bi hoşnut eden koku olarak kusursuz bir boğa, bir koç ve bir yaşında yedi erkek kuzu sunacaksınız.
+{29:37} Boğa, koç ve kuzularla sayısına göre istenilen tahıl sunularını ve dökmelik sunuları sunacaksınız.
+{29:38} Günah sunusu için bir teke sunacaksınız. Bu sunular günlük yakmalık sunuyla tahıl sunularına ve dökmelik sunulara ek olacak.
+{29:39} “‘Adadığınız adaklar ve gönülden verdiğiniz sunuların yanısıra, bayramlarınızda RAB'be yakmalık, tahıl, dökmelik ve esenlik sunularınız olarak bunları sunun.’”
+{29:40} Musa RAB'bin kendisine buyurduğu her şeyi İsrailliler'e anlattı.
+{i30:1} Adaklarla İlgili Kurallar
+{30:1} Musa İsrail'in oymak önderlerine şöyle dedi: “RAB şöyle buyurdu:
+{30:2} ‘Eğer bir adam RAB'be adak adar ya da ant içerek kendini yükümlülük altına sokarsa, verdiği sözü bozmayacak, ağzından her çıkanı yerine getirecek.
+{30:3} “‘Genç bir kadın babasının evindeyken RAB'be adak adar ya da kendini yükümlülük altına sokarsa,
+{30:4} babası da onun RAB'be adadığı adağı ve kendini yükümlülük altına soktuğunu duyar, ona karşı çıkmazsa, kadının adadığı adaklar ve kendini altına soktuğu yükümlülük geçerli sayılacak.
+{30:5} Ama babası bunları duyduğu gün engel olursa, kadının adadığı adaklar ve kendini altına soktuğu yükümlülük geçerli sayılmayacak; RAB onu bağışlayacak, çünkü babası ona engel olmuştur.
+{30:6} “‘Eğer kadın adak adadıktan ya da düşünmeden kendini yükümlülük altına soktuktan sonra evlenirse,
+{30:7} kocası da bunu duyar ve aynı gün ona karşı çıkmazsa, adadığı adaklar ve kendini altına soktuğu yükümlülük geçerli sayılacak.
+{30:8} Ama kocası bunu duyduğu gün engel olur, kadının adadığı adağı ya da düşünmeden kendini altına soktuğu yükümlülüğü geçerli saymazsa, RAB kadını bağışlayacaktır.
+{30:9} “‘Dul ya da boşanmış bir kadının adadığı adak, kendini yükümlülük altına soktuğu her şey geçerli sayılacak.
+{30:10} “‘Eğer bir kadın evliyken bir adak adar ya da ant içerek kendini yükümlülük altına sokarsa,
+{30:11} kocası da bunu duyar, karşı çıkmaz, ona engel olmazsa, kadının adadığı bütün adaklar ya da kendini altına soktuğu her yükümlülük geçerli sayılacak.
+{30:12} Ama kocası bunları duyduğu gün engel olursa, kadının adadığı bütün adaklar ve kendini altına soktuğu yükümlülük geçerli sayılmayacak. Kocası geçersiz kılmıştır, RAB kadını bağışlayacak.
+{30:13} Kocası, kadının kendi isteklerini denetlemesi için adadığı adağı ya da ant içerek kendini altına soktuğu yükümlülüğü onaylayabilir ya da geçersiz kılabilir.
+{30:14} Eğer kocası bir gün içinde bu konuda ona karşı çıkmazsa, bütün adaklarını ya da yükümlülüklerini onaylamış olur. Onları duyduğu gün kadına karşı çıkmamakla onaylamış sayılır.
+{30:15} Eğer onları duyduktan bir süre sonra engel olursa, kadının suçundan kocası sorumlu olacaktır.’”
+{30:16} Erkekle karısı, babayla evinde yaşayan genç kızı arasındaki ilişki konusunda RAB'bin Musa'ya buyurduğu kurallar bunlardır.
+{i31:1} Midyanlılar'dan Öç Alınıyor
+{31:1} RAB Musa'ya, “Midyanlılar'dan İsrailliler'in öcünü
+{31:2} al; sonra ölüp atalarına kavuşacaksın” dedi.
+{31:3} Bunun üzerine Musa halka, “Midyanlılar'a karşı savaşmak ve onlardan RAB'bin öcünü almak üzere aranızdan adamlar silahlandırın” dedi,
+{31:4} “Savaşa İsrail'in her oymağından bin kişi gönderin.”
+{31:5} Böylece İsrail'in her oymağından biner kişi olmak üzere 12 000 kişi seçilip savaşa hazırlandı.
+{31:6} Musa onları –her oymaktan biner kişiyi– ve Kâhin Elazar oğlu Pinehas'ı savaşa gönderdi. Pinehas yanına kutsal yere ait bazı eşyaları ve çağrı borazanlarını aldı.
+{31:7} RAB'bin Musa'ya verdiği buyruk uyarınca, Midyanlılar'a savaş açıp bütün erkekleri öldürdüler.
+{31:8} Öldürdükleri arasında beş Midyan kralı –Evi, Rekem, Sur, Hur ve Reva– da vardı. Beor oğlu Balam'ı da kılıçla öldürdüler.
+{31:9} Midyanlı kadınlarla çocuklarını tutsak alıp bütün hayvanlarını, sürülerini, mallarını yağmaladılar.
+{31:10} Midyanlılar'ın yaşadığı bütün kentleri, obaları ateşe verdiler.
+{31:11} İnsanları, hayvanları, yağmalanmış bütün malları yanlarına aldılar.
+{31:12} Tutsaklarla yağmalanmış malları Şeria Irmağı'nın yanında, Eriha karşısında, Moav ovalarındaki ordugahta konaklayan Musa'yla Kâhin Elazar'a ve İsrail topluluğuna getirdiler.
+{31:13} Musa, Kâhin Elazar ve topluluğun önderleri onları karşılamak için ordugahın dışına çıktılar.
+{31:14} Musa savaştan dönen ordu komutanlarına –binbaşılara, yüzbaşılara– öfkelendi.
+{31:15} Onlara, “Bütün kadınları sağ mı bıraktınız?” diye çıkıştı,
+{31:16} “Bu kadınlar Balam'ın verdiği öğüde uyarak Peor olayında İsrailliler'in RAB'be ihanet etmesine neden oldular. Bu yüzden RAB'bin topluluğu arasında ölümcül hastalık başgösterdi.
+{31:17} Şimdi bütün erkek çocukları ve erkekle yatmış kadınları öldürün.
+{31:18} Yalnız erkekle yatmamış genç kızları kendiniz için sağ bırakın.
+{31:19} “Aranızda birini öldüren ya da öldürülen birine dokunan herkes yedi gün ordugahın dışında kalsın. Üçüncü ve yedinci gün kendinizi de tutsaklarınızı da günahtan arındıracaksınız.
+{31:20} Her giysiyi, deriden, keçi kılından, tahtadan yapılmış her nesneyi arındıracaksınız.”
+{31:21} Bundan sonra Kâhin Elazar, savaştan dönen askerlere, “RAB'bin Musa'ya buyurduğu yasanın kuralı şudur” dedi,
+{31:22} “Altını, gümüşü, tuncu, demiri, kalayı, kurşunu –ateşe dayanıklı her nesneyi– ateşten geçireceksiniz; ancak bundan
+{31:23} sonra temiz sayılacak. Ayrıca temizlenme suyuyla da arındıracaksınız. Ateşe dayanıklı olmayan nesneleri sudan geçireceksiniz.
+{31:24} Yedinci gün giysilerinizi yıkayın. Böylece temiz sayılacaksınız. Sonra ordugaha girebilirsiniz.”
+{i31:25} Yağmalanan Malın Paylaştırılması
+{31:25} RAB Musa'ya şöyle dedi:
+{31:26} “Sen, Kâhin Elazar ve topluluğun aile başları ele geçirilen insanlarla hayvanları sayacaksınız.
+{31:27} Ele geçirilenleri savaşa katılan askerlerle topluluğun geri kalanı arasında paylaştıracaksınız.
+{31:28} Savaşa katılan askerlere düşen paydan –insan, sığır, eşek, davardan– vergi olarak RAB'be beş yüzde bir pay ayıracaksın.
+{31:29} Bu vergiyi askerlere düşen yarı paydan alacak, RAB'be armağan olarak Kâhin Elazar'a vereceksin.
+{31:30} Öbür İsrailliler'e düşen yarıdan, gerek insanlardan, gerek hayvanlardan –sığır, eşek, davardan– ellide birini alıp RAB'bin Konutu'nun hizmetinden sorumlu olan Levililer'e vereceksin.”
+{31:31} Musa'yla Kâhin Elazar RAB'bin Musa'ya buyurduğu gibi yaptılar.
+{31:32} Savaşa katılan askerlerin ele geçirdiklerinden kalanlar şunlardı: 675 000 davar,
+{31:33} 72 000 sığır,
+{31:34} 61 000 eşek,
+{31:35} erkekle yatmamış 32 000 kız.
+{31:36} Savaşa katılan askerlere düşen yarı pay da şuydu: 337 500 davar,
+{31:37} bunlardan RAB'be vergi olarak 675 davar verildi;
+{31:38} 36 000 sığır, bunlardan RAB'be vergi olarak 72 sığır verildi;
+{31:39} 30 500 eşek, bunlardan RAB'be vergi olarak 61 eşek verildi;
+{31:40} 16 000 kişi, bunlardan RAB'be vergi olarak 32 kişi verildi.
+{31:41} Musa, RAB'bin kendisine buyurduğu gibi, RAB'be ayrılan vergiyi Kâhin Elazar'a verdi.
+{31:42} Musa'nın savaşa katılan askerlerden alıp İsrailliler'e ayırdığı yarı pay şuydu:
+{31:43} Topluluğa düşen yarı pay 337 500 davar,
+{31:44} 36 000 sığır,
+{31:45} 30 500 eşek,
+{31:46} 16 000 kişi.
+{31:47} Musa, RAB'bin kendisine buyurduğu gibi, İsrailliler'e düşen yarı paydan her elli kişiden ve hayvandan birini alıp RAB'bin Konutu'nun hizmetinden sorumlu olan Levililer'e verdi.
+{31:48} Ordu komutanları –binbaşılar ve yüzbaşılar– Musa'ya gidip,
+{31:49} “Efendimiz, yönetimimiz altındaki askerleri saydık, eksik yok” dediler,
+{31:50} “İşte, ele geçirdiğimiz altın eşyaları –pazıbentleri, bilezikleri, yüzükleri, küpeleri, kolyeleri– getirdik. Günahlarımızı bağışlatmak için bunları RAB'be sunuyoruz.”
+{31:51} Musa'yla Kâhin Elazar altını, her tür işlenmiş altın eşyayı onlardan aldılar.
+{31:52} Binbaşı ve yüzbaşılardan alıp RAB'be armağan olarak sundukları altının toplam ağırlığı 16 750 şekeldi.
+{31:53} Savaşa katılan her asker kendine yağmalanmış maldan almıştı.
+{31:54} Musa'yla Kâhin Elazar binbaşı ve yüzbaşılardan aldıkları altını İsrailliler için RAB'bin önünde bir anımsatma sunusu olarak Buluşma Çadırı'na getirdiler.
+{i32:1} Şeria Irmağı'nın Doğusuna Yerleşen Oymaklar (Yas.3:12-22)
+{32:1} Çok sayıda hayvanı olan Rubenliler'le Gadlılar Yazer ve Gilat topraklarının hayvanlar için uygun bir yer olduğunu gördüler.
+{32:2} Musa'yla Kâhin Elazar'a ve topluluğun önderlerine giderek, “RAB'bin yardımıyla İsrail halkının
+{32:3} ele geçirdiği Atarot, Divon, Yazer, Nimra, Heşbon, Elale, Sevam, Nevo, Beon
+{32:4} kentlerini içeren bölge hayvanlar için uygun bir yer” dediler, “Kullarınızın da hayvanları var.
+{32:5} Bizden hoşnut kaldıysanız, bu ülkeyi mülk olarak bize verin ki, Şeria Irmağı'nın karşı yakasına geçmek zorunda kalmayalım.”
+{32:6} Musa, “İsrailli kardeşleriniz savaşa giderken siz burada mı kalacaksınız?” diye karşılık verdi,
+{32:7} “RAB'bin kendilerine vereceği ülkeye giden İsrailliler'in neden cesaretini kırıyorsunuz?
+{32:8} Ülkeyi araştırsınlar diye Kadeş-Barnea'dan gönderdiğim babalarınız da aynı şeyi yaptılar.
+{32:9} Eşkol Vadisi'ne kadar gidip ülkeyi gördükten sonra, RAB'bin kendilerine vereceği ülkeye gitmemeleri için İsrailliler'in gözünü korkuttular.
+{32:10} O gün RAB öfkelenerek şöyle ant içti:
+{32:11} ‘Madem bütün yürekleriyle ardımca yürümediler, Mısır'dan çıkanlardan yirmi ve daha yukarı yaştakilerin hiçbiri İbrahim'e, İshak'a, Yakup'a ant içerek söz verdiğim ülkeyi görmeyecek.
+{32:12} Kenaz soyundan Yefunne oğlu Kalev'le Nun oğlu Yeşu'dan başkası orayı görmeyecek. Çünkü onlar bütün yürekleriyle ardımca yürüdüler.’
+{32:13} İsrailliler'e öfkelenen RAB, gözünde kötülük yapan o kuşak büsbütün yok oluncaya dek kırk yıl onları çölde dolaştırdı.
+{32:14} “İşte, ey günahkârlar soyu, babalarınızın yerine siz geçtiniz ve RAB'bin İsrail'e daha çok öfkelenmesine neden oluyorsunuz.
+{32:15} Eğer O'nun ardınca yürümekten vazgeçerseniz, bütün bu halkı yine çölde bırakacak; siz de bu halkın yok olmasına neden olacaksınız.”
+{32:16} Gadlılar'la Rubenliler Musa'ya yaklaşıp, “Burada hayvanlarımız için ağıllar yapmamıza, çocuklarımız için yeniden kentler kurmamıza izin ver” dediler,
+{32:17} “Kendimiz de hemen silahlanıp İsrailliler'i kendilerinin olacak ülkeye götürünceye dek onlara öncülük edeceğiz. Ülke halkı yüzünden çocuklarımız surlu kentlerde yaşayacak.
+{32:18} Her İsrailli mülküne kavuşmadan evlerimize dönmeyeceğiz.
+{32:19} Şeria Irmağı'nın karşı yakasında onlarla birlikte mülk almayacağız, çünkü bizim payımız Şeria Irmağı'nın doğu yakasına düştü.”
+{32:20} Musa şöyle yanıtladı: “Bu söylediklerinizi yapar, RAB'bin önünde savaşa gitmek üzere silahlanıp
+{32:21} RAB düşmanlarını kovuncaya dek hepiniz O'nun önünde Şeria Irmağı'nın karşı yakasına silahlı olarak geçerseniz,
+{32:22} ülke ele geçirildiğinde dönebilir, RAB'be ve İsrail'e karşı yükümlülüğünüzden özgür olursunuz. RAB'bin önünde bu topraklar sizin olacaktır.
+{32:23} “Ama söylediklerinizi yapmazsanız, RAB'be karşı günah işlemiş olursunuz; günahınızın cezasını çekeceğinizi bilmelisiniz.
+{32:24} Çocuklarınız için yeniden kentler kurun, davarlarınız için ağıllar yapın. Yeter ki, verdiğiniz sözü yerine getirin.”
+{32:25} Gadlılar'la Rubenliler, “Efendimiz, bize buyurduğun gibi yapacağız” diye yanıtladılar,
+{32:26} “Çoluk çocuğumuz, sığırlarımızla öbür hayvanlarımız burada, Gilat kentlerinde kalacak.
+{32:27} Ama buyurduğun gibi, silahlanmış olan herkes RAB'bin önünde savaşmak üzere karşı yakaya geçecek.”
+{32:28} Musa Gadlılar'la Rubenliler hakkında Kâhin Elazar'a, Nun oğlu Yeşu'ya ve İsrail oymaklarının aile başlarına buyruk verdi.
+{32:29} Şöyle dedi: “Gadlılar'la Rubenliler'den silahlanmış olan herkes RAB'bin önünde sizinle birlikte Şeria Irmağı'nın karşı yakasına geçerse, ülkeyi de ele geçirirseniz, Gilat bölgesini miras olarak onlara vereceksiniz.
+{32:30} Ama silahlanmış olarak sizinle ırmağın karşı yakasına geçmezlerse, Kenan ülkesinde sizinle miras alacaklar.”
+{32:31} Gadlılar'la Rubenliler, “RAB'bin bize buyurduğunu yapacağız” dediler,
+{32:32} “Silahlanmış olarak RAB'bin önünde Kenan ülkesine gideceğiz. Ama alacağımız mülk Şeria Irmağı'nın doğu yakasında olacak.”
+{32:33} Böylece Musa Gadlılar'la Rubenliler'e ve Yusuf oğlu Manaşşe oymağının yarısına Amorlular'ın Kralı Sihon'un ülkesiyle Başan Kralı Og'un ülkesini ve çevrelerindeki topraklarla kentleri verdi.
+{32:34} Gadlılar surlu Divon, Atarot, Aroer, Atrot-Şofan,
+{32:35} Yazer, Yogboha, Beytnimra ve Beytharan kentlerini
+{32:36} yeniden kurdular, davarları için ağıllar yaptılar.
+{32:37} Rubenliler Heşbon, Elale, Kiryatayim, Nevo, Baal-Meon –bu son iki ad
+{32:38} değiştirildi– ve Sivma kentlerini yeniden kurdular. Kurdukları kentlere yeni adlar verdiler.
+{32:39} Manaşşe oğlu Makir'in soyundan gelenler gidip Gilat'ı ele geçirerek, orada yaşayan Amorlular'ı kovdular.
+{32:40} Böylece Musa Gilat'ı Manaşşe oğlu Makir'in soyundan gelenlere verdi; onlar da oraya yerleştiler.
+{32:41} Manaşşe soyundan Yair gidip Amorlular'ın yerleşim birimlerini ele geçirdi ve bunlara Havvot-Yair adını verdi.
+{32:42} Novah da Kenat'la çevresindeki köyleri ele geçirerek oraya kendi adını verdi.
+{i33:1} Mısır'dan Moav'a Yolculuk
+{33:1} Musa'yla Harun önderliğinde birlikler halinde Mısır'dan çıkan İsrailliler sırasıyla aşağıdaki yolculukları yaptılar.
+{33:2} Musa RAB'bin buyruğu uyarınca sırasıyla yapılan yolculukları kayda geçirdi. Yapılan yolculuklar şunlardır:
+{33:3} İsrailliler Fısıh kurbanının ertesi günü –birinci ayın on beşinci günü– Mısırlılar'ın gözü önünde zafer havası içinde Ramses'ten yola çıktılar.
+{33:4} O sırada Mısırlılar RAB'bin yok ettiği ilk doğan çocuklarını gömüyorlardı; RAB onların ilahlarını yargılamıştı.
+{33:5} İsrailliler Ramses'ten yola çıkıp Sukkot'ta konakladılar.
+{33:6} Sukkot'tan ayrılıp çöl kenarındaki Etam'da konakladılar.
+{33:7} Etam'dan ayrılıp Baal-Sefon'un doğusundaki Pi-Hahirot'a döndüler, Migdol yakınlarında konakladılar.
+{33:8} Pi-Hahirot'tan ayrılıp denizden çöle geçtiler. Etam Çölü'nde üç gün yürüdükten sonra Mara'da konakladılar.
+{33:9} Mara'dan ayrılıp on iki su kaynağı ve yetmiş hurma ağacı olan Elim'e giderek orada konakladılar.
+{33:10} Elim'den ayrılıp Kamış Denizi kıyısında konakladılar.
+{33:11} Kamış Denizi'nden ayrılıp Sin Çölü'nde konakladılar.
+{33:12} Sin Çölü'nden ayrılıp Dofka'da konakladılar.
+{33:13} Dofka'dan ayrılıp Aluş'ta konakladılar.
+{33:14} Aluş'tan ayrılıp Refidim'de konakladılar. Orada halk için içecek su yoktu.
+{33:15} Refidim'den ayrılıp Sina Çölü'nde konakladılar.
+{33:16} Sina Çölü'nden ayrılıp Kivrot-Hattaava'da konakladılar.
+{33:17} Kivrot-Hattaava'dan ayrılıp Haserot'ta konakladılar.
+{33:18} Haserot'tan ayrılıp Ritma'da konakladılar.
+{33:19} Ritma'dan ayrılıp Rimmon-Peres'te konakladılar.
+{33:20} Rimmon-Peres'ten ayrılıp Livna'da konakladılar.
+{33:21} Livna'dan ayrılıp Rissa'da konakladılar.
+{33:22} Rissa'dan ayrılıp Kehelata'da konakladılar.
+{33:23} Kehelata'dan ayrılıp Şefer Dağı'nda konakladılar.
+{33:24} Şefer Dağı'ndan ayrılıp Harada'da konakladılar.
+{33:25} Harada'dan ayrılıp Makhelot'ta konakladılar.
+{33:26} Makhelot'tan ayrılıp Tahat'ta konakladılar.
+{33:27} Tahat'tan ayrılıp Terah'ta konakladılar.
+{33:28} Terah'tan ayrılıp Mitka'da konakladılar.
+{33:29} Mitka'dan ayrılıp Haşmona'da konakladılar.
+{33:30} Haşmona'dan ayrılıp Moserot'ta konakladılar.
+{33:31} Moserot'tan ayrılıp Bene-Yaakan'da konakladılar.
+{33:32} Bene-Yaakan'dan ayrılıp Hor-Hagidgat'ta konakladılar.
+{33:33} Hor-Hagidgat'tan ayrılıp Yotvata'da konakladılar.
+{33:34} Yotvata'dan ayrılıp Avrona'da konakladılar.
+{33:35} Avrona'dan ayrılıp Esyon-Gever'de konakladılar.
+{33:36} Esyon-Gever'den ayrılıp Zin Çölü'nde –Kadeş'te– konakladılar.
+{33:37} Kadeş'ten ayrılıp Edom sınırındaki Hor Dağı'nda konakladılar.
+{33:38} Kâhin Harun RAB'bin buyruğu uyarınca Hor Dağı'na çıktı. İsrailliler'in Mısır'dan çıkışlarının kırkıncı yılı, beşinci ayın birinci günü orada öldü.
+{33:39} Hor Dağı'nda öldüğünde Harun 123 yaşındaydı.
+{33:40} Kenan ülkesinin Negev bölgesinde yaşayan Kenanlı Arat Kralı İsrailliler'in geldiğini duydu.
+{33:41} İsrailliler Hor Dağı'ndan ayrılıp Salmona'da konakladılar.
+{33:42} Salmona'dan ayrılıp Punon'da konakladılar.
+{33:43} Punon'dan ayrılıp Ovot'ta konakladılar.
+{33:44} Ovot'tan ayrılıp Moav sınırındaki İye-Haavarim'de konakladılar.
+{33:45} İyim'den ayrılıp Divon-Gad'da konakladılar.
+{33:46} Divon-Gad'dan ayrılıp Almon-Divlatayma'da konakladılar.
+{33:47} Almon-Divlatayma'dan ayrılıp Nevo yakınlarındaki Haavarim dağlık bölgesinde konakladılar.
+{33:48} Haavarim dağlık bölgesinden ayrılıp Şeria Irmağı yanında, Eriha karşısındaki Moav ovalarında konakladılar.
+{33:49} Şeria Irmağı boyunca Beythayeşimot'tan Avel-Haşşittim'e kadar Moav ovalarında konakladılar.
+{33:50} Orada, Şeria Irmağı yanında Eriha karşısındaki Moav ovalarında RAB Musa'ya şöyle dedi:
+{33:51} “İsrailliler'e de ki, ‘Şeria Irmağı'ndan Kenan ülkesine geçince,
+{33:52} ülkede yaşayan bütün halkı kovacaksınız. Oyma ve dökme putlarını yok edecek, tapınma yerlerini yıkacaksınız.
+{33:53} Ülkeyi yurt edinecek, oraya yerleşeceksiniz; çünkü mülk edinesiniz diye orayı size verdim.
+{33:54} Ülkeyi boylarınız arasında kurayla paylaşacaksınız. Büyük boya büyük pay, küçük boya küçük pay vereceksiniz. Kurada kime ne çıkarsa, orası onun olacak. Dağıtımı atalarınızın oymaklarına göre yapacaksınız.
+{33:55} “‘Ama ülkede yaşayanları kovmazsanız, orada bıraktığınız halk gözlerinizde kanca, böğürlerinizde diken olacak. Yaşayacağınız ülkede size sıkıntı verecekler.
+{33:56} Ben de onlara yapmayı tasarladığımı size yapacağım.’”
+{i34:1} Kenan Ülkesinin Sınırları
+{34:1} RAB Musa'ya şöyle dedi:
+{34:2} “İsrailliler'e de ki, ‘Mülk olarak size düşecek Kenan ülkesine girince, sınırlarınız şöyle olacak:
+{34:3} “‘Güney sınırınız Zin Çölü'nden Edom sınırı boyunca uzanacak. Doğuda, güney sınırınız Lut Gölü'nün ucundan başlayacak,
+{34:4} Akrep Geçidi'nin güneyinden Zin'e geçip Kadeş-Barnea'nın güneyine dek uzanacak. Oradan Hasar-Addar'a ve Asmon'a,
+{34:5} oradan da Mısır Vadisi'ne uzanarak Akdeniz'de son bulacak.
+{34:6} “‘Batı sınırınız Akdeniz ve kıyısı olacak. Batıda sınırınız bu olacak.
+{34:7} “‘Kuzey sınırınız Akdeniz'den Hor Dağı'na dek uzanacak.
+{34:8} Hor Dağı'ndan Levo-Hamat'a, oradan Sedat'a,
+{34:9} Zifron'a doğru uzanarak Hasar-Enan'da son bulacak. Kuzeyde sınırınız bu olacak.
+{34:10} “‘Doğu sınırınız Hasar-Enan'dan Şefam'a dek uzanacak.
+{34:11} Sınırınız Şefam'dan Ayin'in doğusundaki Rivla'ya dek inecek. Oradan Kinneret Gölü'nün doğu kıyısındaki yamaçlara dek uzanacak.
+{34:12} Oradan Şeria Irmağı boyunca uzanacak ve Lut Gölü'nde son bulacak. “‘Her yandan ülkenizin sınırları bu olacaktır.’”
+{34:13} Musa İsrailliler'e, “Miras olarak kurayla paylaştıracağınız ülke budur” dedi, “RAB'bin buyruğu uyarınca ülke dokuz oymakla bir yarım oymak arasında paylaştırılacak.
+{34:14} Çünkü Ruben oymağına bağlı ailelerle Gad oymağına bağlı aileler ve Manaşşe oymağının öbür yarısı mülklerini aldılar.
+{34:15} Bu iki oymakla yarım oymak mülklerini Eriha'nın karşısındaki Şeria Irmağı'nın doğusunda aldılar.”
+{34:16} RAB Musa'ya şöyle dedi:
+{34:17} “Ülkeyi mülk olarak aranızda paylaştıracak adamlar şunlardır: Kâhin Elazar ve Nun oğlu Yeşu.
+{34:18} Ülkeyi mülk olarak paylaştırmaları için her oymaktan birer önder görevlendirin.
+{34:19} Şu adamları görevlendireceksiniz: “Yahuda oymağından Yefunne oğlu Kalev,
+{34:20} Şimon oymağından Ammihut oğlu Şemuel,
+{34:21} Benyamin oymağından Kislon oğlu Elidat,
+{34:22} Dan oymağından Yogli oğlu önder Bukki,
+{34:23} Yusufoğulları'ndan: Manaşşe oymağından Efot oğlu önder Hanniel,
+{34:24} Efrayim oymağından Şiftan oğlu önder Kemuel,
+{34:25} Zevulun oymağından Parnak oğlu önder Elisafan,
+{34:26} İssakar oymağından Azzan oğlu önder Paltiel,
+{34:27} Aşer oymağından Şelomi oğlu önder Ahihut,
+{34:28} Naftali oymağından Ammihut oğlu önder Pedahel.”
+{34:29} Kenan ülkesinde İsrailliler'e mülkü paylaştırmaları için RAB'bin görevlendirdiği adamlar bunlardı.
+{i35:1} Levililer'e Ayrılan Kentler
+{35:1} RAB Şeria Irmağı yanında Eriha karşısındaki Moav ovalarında Musa'ya şöyle dedi:
+{35:2} “İsrailliler'e buyruk ver, alacakları mülkten oturmaları için Levililer'e kentler versinler. Kentlerin çevresinde otlaklar da vereceksiniz.
+{35:3} Böylece yaşamak için Levililer'in kentleri olacak; sığırları, sürüleri, öbür hayvanları için otlakları da olacak.
+{35:4} “Levililer'e vereceğiniz kentlerin çevresindeki otlaklar kent surundan bin arşın uzaklıkta olacak.
+{35:5} Kent ortada olmak üzere, kent dışından doğuda iki bin arşın, güneyde iki bin arşın, batıda iki bin arşın, kuzeyde iki bin arşın ölçeceksiniz. Bu bölge kentler için otlak olacak.”
+{i35:6} Sığınak Kentler (Yas.4:41-43; 19:1-13; Yşu.20:1-9)
+{35:6} “Levililer'e vereceğiniz kentlerden altısı sığınak kent olacak; öyle ki, adam öldüren biri oraya kaçabilsin. Ayrıca Levililer'e kırk iki kent daha vereceksiniz.
+{35:7} Levililer'e otlaklarıyla birlikte toplam kırk sekiz kent vereceksiniz.
+{35:8} İsrailliler'in mülkünden Levililer'e vereceğiniz kentler her oymağa düşen pay oranında olsun. Çok kenti olan oymak çok, az kenti olan oymak az sayıda kent verecek.”
+{35:9} RAB Musa'yla konuşmasını şöyle sürdürdü:
+{35:10} “İsrailliler'e de ki, ‘Şeria Irmağı'ndan geçip Kenan ülkesine girince,
+{35:11} sığınak kentler olarak bazı kentler seçin. Öyle ki, istemeyerek birini öldüren kişi oraya kaçabilsin;
+{35:12} öç alacak kişiden kaçıp sığınacak bir yeriniz olsun. Böylece adam öldüren kişi topluluğun önünde yargılanmadan öldürülmesin.
+{35:13} Vereceğiniz bu altı kent sizin için sığınak kentler olacak.
+{35:14} Sığınak kentlerin üçünü Şeria Irmağı'nın doğusundan, üçünü de Kenan ülkesinden seçeceksiniz.
+{35:15} Bu altı kent İsrailliler ve aralarında yaşayan yabancılarla yerli olmayan konuklar için sığınak kentler olacak. Öyle ki, istemeyerek birini öldüren kişi oraya kaçabilsin.
+{35:16} “‘Eğer biri demir bir aletle başka birine vurur, o kişi de ölürse, adam katildir ve kesinlikle öldürülecektir.
+{35:17} Birinin elinde adam öldürebilecek bir taş varsa, bu taşla başka birine vurursa, o kişi de ölürse, adam katildir ve kesinlikle öldürülecektir.
+{35:18} Ya da elinde adam öldürebilecek tahtadan bir alet varsa, bununla birine vurursa, o kişi de ölürse, adam katildir ve kesinlikle öldürülecektir.
+{35:19} Ölenin öcünü alacak kişi, katili öldürecektir; onunla karşılaşınca onu öldürecektir.
+{35:20} Eğer biri başka birine beslediği kinden ötürü onu iter ya da bile bile ona bir nesne fırlatırsa, o kişi de ölürse,
+{35:21} ya da beslediği kinden ötürü onu yumruklar, o kişi de ölürse, vuran kişi kesinlikle öldürülecektir; katildir. Ölenin öcünü alacak kişi katille karşılaşınca onu öldürecektir.
+{35:22} “‘Eğer biri bir başkasına kin beslemediği halde ansızın onu iter ya da istemeyerek ona bir nesne fırlatırsa,
+{35:23} ya da onu görmeden üzerine öldürebilecek bir taş düşürürse, o kişi de ölürse, öldüren ölene kin beslemediğinden ve ona zarar vermek istemediğinden,
+{35:24} topluluk adam öldürenle kan öcünü alacak kişi arasında şu kurallar uyarınca karar verecek:
+{35:25} Topluluk adam öldüreni kan öcü alacak kişinin elinden korumalı ve kaçmış olduğu sığınak kente geri göndermeli. Kişi kutsal yağla meshedilmiş başkâhinin ölümüne dek orada kalmalıdır.
+{35:26} “‘Ama adam öldüren kaçmış olduğu sığınak kentin sınırını geçer,
+{35:27} kan öcü alacak kişi de onu sığınak kentin sınırı dışında görür, kan öcü alacak kişi öldüreni öldürürse suçlu sayılmayacaktır.
+{35:28} Çünkü adam öldüren, başkâhinin ölümüne dek sığınak kentte kalmalı. Ancak onun ölümünden sonra kendi toprağına dönebilir.
+{35:29} “‘Bunlar kuşaklar boyunca yaşadığınız her yerde sizin için kesin kural olacaktır.
+{35:30} “‘Adam öldüren, tanıkların tanıklığıyla öldürülecek, bir tek kişinin tanıklığıyla öldürülmeyecektir.
+{35:31} “‘Ölümü hak etmiş katilin canı için bedel almayacaksınız; o kesinlikle öldürülecektir.
+{35:32} “‘Sığınak kente kaçmış olan birinin başkâhinin ölümünden önce toprağına dönüp yaşaması için bedel almayacaksınız.
+{35:33} “‘İçinde yaşadığınız ülkeyi kirletmeyeceksiniz. Kan dökmek ülkeyi kirletir. İçinde kan dökülen ülke ancak kan dökenin kanıyla bağışlanır.
+{35:34} “‘İçinde oturduğunuz, benim de içinde yaşadığım ülkeyi kirletmeyeceksiniz; çünkü ben İsrailliler'in arasında yaşayan RAB'bim.’”
+{i36:1} Selofhat'ın Kızlarının Mirası (Say.27:1-11)
+{36:1} Yusufoğulları boylarından Manaşşe oğlu Makir oğlu Gilat'ın boyunun aile başları gelip Musa'ya ve İsrail'in aile başı olan önderlerine şöyle dediler:
+{36:2} “RAB ülkeyi mülk olarak kurayla İsrailliler arasında paylaştırması için efendimiz Musa'ya buyruk verdi. Kardeşimiz Selofhat'ın mirasının kızlarına verilmesi için de buyruk verildi.
+{36:3} Eğer Selofhat'ın kızları başka bir İsrail oymağına bağlı erkeklerle evlenirlerse, mirasları bizim ailelerimizden alınıp kocalarının bağlı oldukları oymağın mirasına eklenecek. Böylece kurayla bize düşen pay eksilecek.
+{36:4} İsrailliler'in özgürlük yılı kutlandığında, kızların mirası kocalarının bağlı olduğu oymağa eklenecek. Böylece onların mirası atalarımızın oymağına düşen mirastan alınacak.”
+{36:5} Musa, RAB'bin buyruğu uyarınca, İsrailliler'e şöyle buyurdu: “Yusuf soyundan gelenlerin söyledikleri doğrudur.
+{36:6} RAB Selofhat'ın kızları için şöyle diyor: Selofhat'ın kızları babalarının bağlı olduğu oymak ve boydan herhangi bir erkekle evlenmekte özgürdürler.
+{36:7} İsrail'de miras bir oymaktan öbür oymağa geçmeyecek. Her İsrailli atalarının bağlı olduğu oymağın mirasına bağlı kalacak.
+{36:8} Herhangi bir İsrail oymağında miras alan kız, babasının bağlı olduğu oymak ve boydan biriyle evlenmelidir. Öyle ki, her İsrailli atalarının mirasını sahiplenebilsin.
+{36:9} Miras bir oymaktan öbür oymağa geçmeyecek. Her İsrail oymağı aldığı mirasa bağlı kalacak.”
+{36:10} Selofhat'ın kızları Mahla, Tirsa, Hogla, Milka, Noa, RAB'bin
+{36:11} Musa'ya verdiği buyruk uyarınca davranarak amcalarının oğullarıyla evlendiler.
+{36:12} Böylece Yusuf oğlu Manaşşe boylarından erkeklerle evlendiler, dolayısıyla mirasları da babalarının bağlı olduğu boy ve oymakta kaldı.
+{36:13} RAB'bin Musa aracılığıyla Şeria Irmağı yanında Eriha karşısındaki Moav ovalarında İsrailliler'e verdiği buyruklar ve ilkeler bunlardı.

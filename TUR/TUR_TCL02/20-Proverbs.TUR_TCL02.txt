@@ -1,0 +1,963 @@
+{i1:1} Sunuş
+{1:1} Davut oğlu İsrail Kralı Süleyman'ın özdeyişleri:
+{1:2} Bu özdeyişler, bilgeliğe ve terbiyeye ulaşmak, Akıllıca sözleri anlamak,
+{1:3} Başarıya götüren terbiyeyi edinip Doğru, haklı ve adil olanı yapmak,
+{1:4} Saf kişiyi ihtiyatlı, Genç adamı bilgili ve sağgörülü kılmak içindir.
+{1:5} Özdeyişlerle benzetmeleri, Bilgelerin sözleriyle bilmecelerini anlamak için Bilge kişi
+{1:6} dinlesin ve kavrayışını artırsın, Akıllı kişi yaşam hüneri kazansın.
+{i1:7} Ayartmalardan Kaç
+{1:7} RAB korkusudur bilginin temeli. Ahmaklarsa bilgeliği ve terbiyeyi küçümser.
+{1:8} Oğlum, babanın uyarılarına kulak ver, Annenin öğrettiklerinden ayrılma.
+{1:9} Çünkü bunlar başın için sevimli bir çelenk, Boynun için gerdanlık olacaktır.
+{1:10} Oğlum, seni ayartmaya çalışan günahkârlara teslim olma.
+{1:11} Şöyle diyebilirler: “Bizimle gel, Adam öldürmek için pusuya yatalım, Zevk uğruna masum kişileri tuzağa düşürelim.
+{1:12} Onları ölüler diyarı gibi diri diri, Ölüm çukuruna inenler gibi Bütünüyle yutalım.
+{1:13} Bir sürü değerli mal ele geçirir, Evlerimizi ganimetle doldururuz.
+{1:14} Gel, sen de bize katıl, Tek bir kesemiz olacak.”
+{1:15} Oğlum, böyleleriyle gitme, Onların tuttuğu yoldan uzak dur.
+{1:16} Çünkü ayakları kötülüğe koşar, Çekinmeden kan dökerler.
+{1:17} Kuşların gözü önünde ağ sermek boşunadır.
+{1:18} Başkasına pusu kuran kendi kurduğu pusuya düşer. Yalnız kendi canıdır tuzağa düşürdüğü.
+{1:19} Haksız kazanca düşkün olanların sonu böyledir. Bu düşkünlük onları canlarından eder.
+{i1:20} Bilgeliğin Sesini Dinle
+{1:20} Bilgelik dışarıda yüksek sesle haykırıyor, Meydanlarda sesleniyor.
+{1:21} Kalabalık sokak başlarında bağırıyor, Kentin giriş kapılarında sözlerini duyuruyor:
+{1:22} “Ey budalalar, budalalığı ne zamana dek seveceksiniz? Alaycılar ne zamana dek alay etmekten zevk alacak? Akılsızlar ne zamana dek bilgiden nefret edecek?
+{1:23} Uyardığımda yola gelin, o zaman size yüreğimi açar, Sözlerimi anlamanıza yardım ederim.
+{1:24} Ama sizi çağırdığım zaman beni reddettiniz. Elimi uzattım, umursayan olmadı.
+{1:25} Duymazlıktan geldiniz bütün öğütlerimi, Uyarılarımı duymak istemediniz.
+{1:26} Bu yüzden ben de felaketinize sevineceğim. Belaya uğradığınızda, Bela üzerinize bir fırtına
+{1:27} gibi geldiğinde, Bir kasırga gibi geldiğinde felaketiniz, Sıkıntıya, kaygıya düştüğünüzde, Sizinle alay edeceğim.
+{1:28} O zaman beni çağıracaksınız, Ama yanıtlamayacağım. Var gücünüzle arayacaksınız beni, Ama bulamayacaksınız.
+{1:29} Çünkü bilgiden nefret ettiniz. RAB'den korkmayı reddettiniz.
+{1:30} Öğütlerimi istemediniz, Uyarılarımın tümünü küçümsediniz.
+{1:31} Bu nedenle tuttuğunuz yolun meyvesini yiyeceksiniz, Kendi düzenbazlığınıza doyacaksınız.
+{1:32} Bön adamlar dönekliklerinin kurbanı olacak. Akılsızlar kaygısızlıklarının içinde yok olup gidecek.
+{1:33} Ama beni dinleyen güvenlik içinde yaşayacak, Kötülükten korkmayacak, huzur bulacak.”
+{i2:1} Bilgeliğin Yararları
+{2:1} Oğlum, bilgeliğe kulak verip Yürekten akla
+{2:2} yönelerek Sözlerimi kabul eder, Buyruklarımı aklında tutarsan,
+{2:3} Evet, aklı çağırır, Ona gönülden seslenirsen,
+{2:4} Gümüş ararcasına onu ararsan, Onu ararsan define arar gibi,
+{2:5} RAB korkusunu anlar Ve Tanrı'yı yakından tanırsın.
+{2:6} Çünkü bilgeliğin kaynağı RAB'dir. O'nun ağzından bilgi ve anlayış çıkar.
+{2:7} Doğru kişileri başarıya ulaştırır, Kalkanıdır dürüst yaşayanların.
+{2:8} Adil olanların adımlarını korur, Sadık kullarının yolunu gözetir.
+{2:9} O zaman anlarsın her iyi yolu, Neyin doğru, haklı ve adil olduğunu.
+{2:10} Çünkü yüreğin bilgelikle dolacak, Zevk alacaksın bilgiden.
+{2:11} Sağgörü sana bekçilik edecek Ve akıl seni koruyacak.
+{2:12} Bunlar seni kötü yoldan, Ahlaksızın sözlerinden kurtaracak.
+{2:13} Onlar ki karanlık yollarda yürümek için Doğru yoldan ayrılırlar.
+{2:14} Kötülük yapmaktan hoşlanır, Zevk alırlar kötülüğün aşırısından.
+{2:15} Yolları dolambaçlı, Yaşayışları çarpıktır.
+{2:16} Bilgelik, gençken evlendiği eşini terk eden, Tanrı'nın önünde içtiği
+{2:17} andı unutan ahlaksız kadından, Sözleriyle yaltaklanan Vefasız kadından seni kurtaracak.
+{2:18} O kadının evi insanı ölüme, Yolları ölülere götürür.
+{2:19} Ona gidenlerden hiçbiri geri dönmez, Yaşam yollarına erişmez.
+{2:20} Bu nedenle sen iyilerin yolunda yürü, Doğruların izinden git.
+{2:21} Çünkü ülkede yaşayacak olan doğrulardır, Dürüst kişilerdir orada kalacak olan.
+{2:22} Kötüler ülkeden sürülecek, Hainler sökülüp atılacak.
+{i3:1} Bilgenin Yolu
+{3:1} Oğlum, unutma öğrettiklerimi, Aklında tut buyruklarımı.
+{3:2} Çünkü bunlar ömrünü uzatacak, Yaşam yıllarını, esenliğini artıracaktır.
+{3:3} Sevgiyi, sadakati hiç yanından ayırma, Bağla onları boynuna, Yaz yüreğinin levhasına.
+{3:4} Böylece Tanrı'nın ve insanların gözünde Beğeni ve saygınlık kazanacaksın.
+{3:5} RAB'be güven bütün yüreğinle, Kendi aklına bel bağlama.
+{3:6} Yaptığın her işte RAB'bi an, O senin yolunu düze çıkarır.
+{3:7} Kendini bilge biri olarak görme, RAB'den kork, kötülükten uzak dur.
+{3:8} Böylece bedenin sağlık Ve ferahlık bulur.
+{3:9} Servetinle ve ürününün turfandasıyla RAB'bi onurlandır.
+{3:10} O zaman ambarların tıka basa dolar, Teknelerin yeni şarapla dolup taşar.
+{3:11} Oğlum, RAB'bin terbiye edişini hafife alma, O'nun azarlamasından usanma.
+{3:12} Çünkü RAB, oğlundan hoşnut bir baba gibi, Sevdiğini azarlar.
+{3:13} Bilgeliğe erişene, Aklı bulana ne mutlu!
+{3:14} Gümüş kazanmaktansa onu kazanmak daha iyidir. Onun yararı altından daha çoktur.
+{3:15} Daha değerlidir mücevherden, Dileyeceğin hiçbir şey onunla kıyaslanamaz.
+{3:16} Sağ elinde uzun ömür, Sol elinde zenginlik ve onur vardır.
+{3:17} Yolları sevinç yollarıdır, Evet, bütün yolları esenliğe çıkarır.
+{3:18} Bilgelik yaşam ağacıdır ona sarılanlara, Ne mutlu ona sımsıkı tutunanlara!
+{3:19} RAB dünyanın temelini bilgelikle attı, Gökleri akıllıca yerleştirdi.
+{3:20} Bilgisiyle enginler yarıldı, Bulutlar suyunu verdi.
+{3:21} Oğlum, sağlam öğüde, sağgörüye tutun. Sakın gözünü ayırma onlardan.
+{3:22} Onlar sana yaşam verecek Ve boynuna güzel bir süs olacak.
+{3:23} O zaman güvenlik içinde yol alırsın, Sendelemeden.
+{3:24} Korkusuzca yatar, Tatlı tatlı uyursun.
+{3:25} Beklenmedik felaketten, Ya da kötülerin uğradığı yıkımdan korkma.
+{3:26} Çünkü senin güvencen RAB'dir, Tuzağa düşmekten seni O koruyacaktır.
+{3:27} Elinden geldikçe, İyiliğe hakkı olanlardan iyiliği esirgeme.
+{3:28} Elinde varken komşuna, “Bugün git, yarın gel, o zaman veririm” deme.
+{3:29} Sana güvenerek yanında yaşayan komşuna Kötülük tasarlama.
+{3:30} Sana kötülük etmemiş biriyle Yok yere çekişme.
+{3:31} Zorba kişiye imrenme, Onun yollarından hiçbirini seçme.
+{3:32} Çünkü RAB sapkınlardan tiksinir, Ama doğruların candan dostudur.
+{3:33} RAB kötülerin evini lanetler, Doğruların oturduğu yeriyse kutsar.
+{3:34} RAB alaycılarla alay eder, Ama alçakgönüllülere lütfeder.
+{3:35} Bilge kişiler onuru miras alacak, Akılsızlara yalnız utanç kalacak.
+{i4:1} Bilgeliğin Üstünlüğü
+{4:1} Çocuklarım, babanızın uyarılarına kulak verin. Dikkat edin ki anlayışlı olasınız.
+{4:2} Çünkü size iyi ders veriyorum, Ayrılmayın öğrettiğimden.
+{4:3} Ben bir çocukken babamın evinde, Annemin körpecik tek yavrusuyken,
+{4:4} Babam bana şunu öğretti: “Söylediklerime yürekten sarıl, Buyruklarımı yerine getir ki yaşayasın.
+{4:5} Bilgeliği ve aklı sahiplen, Söylediklerimi unutma, onlardan sapma.
+{4:6} Bilgelikten ayrılma, o seni korur. Sev onu, seni gözetir.
+{4:7} Bilgeliğe ilk adım onu sahiplenmektir. Bütün servetine mal olsa da akla sahip çık.
+{4:8} Onu el üstünde tut, o da seni yüceltecek, Ona sarılırsan seni onurlandıracak.
+{4:9} Başına zarif bir çelenk, Görkemli bir taç giydirecektir.”
+{4:10} Dinle oğlum, sözlerimi benimse ki, Uzasın ömrün.
+{4:11} Seni bilgelik yolunda eğitir, Doğru yollara yöneltirim.
+{4:12} Ayakların takılmadan yürür, Sürçmeden koşarsın.
+{4:13} Aldığın terbiyeye sarıl, bırakma, Onu uygula, çünkü odur yaşamın.
+{4:14} Kötülerin yoluna ayak basma, Yürüme alçakların yolunda,
+{4:15} O yoldan sakın, yakınından bile geçme, Yönünü değiştirip geç.
+{4:16} Çünkü kötülük etmedikçe uyuyamaz onlar, Uykuları kaçar saptırmadıkça birilerini.
+{4:17} Yedikleri ekmek kötülük, İçtikleri şarap zorbalık ürünüdür.
+{4:18} Oysa doğruların yolu şafak ışığı gibidir, Giderek öğle güneşinin parlaklığına erişir.
+{4:19} Kötülerin yoluysa zifiri karanlık gibidir, Neden tökezlediklerini bilmezler.
+{4:20} Oğlum, sözlerime dikkat et, Dediklerime kulak ver.
+{4:21} Aklından çıkmasın bunlar, Onları yüreğinde sakla.
+{4:22} Çünkü onları bulan için yaşam, Bedeni için şifadır bunlar.
+{4:23} Her şeyden önce de yüreğini koru, Çünkü yaşam ondan kaynaklanır.
+{4:24} Yalan çıkmasın ağzından, Uzak tut dudaklarını sapık sözlerden.
+{4:25} Gözlerin hep ileriye baksın, Dosdoğru önüne!
+{4:26} Gideceğin yolu düzle, O zaman bütün işlerin sağlam olur.
+{4:27} Sapma sağa sola, Ayağını kötülükten uzak tut.
+{i5:1} Zinaya Karşı Uyarı
+{5:1} Oğlum, bilgeliğime dikkat et, Akıllıca sözlerime kulak ver.
+{5:2} Böylelikle her zaman sağgörülü olur, Dudaklarınla bilgiyi korursun.
+{5:3} Zina eden kadının bal damlar dudaklarından, Ağzı daha yumuşaktır zeytinyağından.
+{5:4} Ama sonu pelinotu kadar acı, İki ağızlı kılıç kadar keskindir.
+{5:5} Ayakları ölüme gider, Adımları ölüler diyarına ulaşır.
+{5:6} Yaşama giden yolu hiç düşünmez, Yolları dolaşıktır, ama farkında değil.
+{5:7} Oğlum, şimdi beni dinle, Ağzımdan çıkan sözlerden ayrılma.
+{5:8} Öyle kadınlardan uzak dur, Yaklaşma evinin kapısına.
+{5:9} Yoksa onurunu başkalarına, Yıllarını bir gaddara kaptırırsın.
+{5:10} Varını yoğunu yer bitirir yabancılar, Emeğin başka birinin evini bayındır kılar.
+{5:11} Ah çekip inlersin ömrünün son günlerinde, Etin, bedenin tükendiğinde.
+{5:12} “Eğitilmekten neden bu kadar nefret ettim, Yüreğim uyarıları neden önemsemedi?” dersin.
+{5:13} “Öğretmenlerimin sözünü dinlemedim, Beni eğitenlere kulak vermedim.
+{5:14} Halkın ve topluluğun arasında Tam bir yıkımın eşiğine gelmişim.”
+{5:15} Suyu kendi sarnıcından, Kendi kuyunun kaynağından iç.
+{5:16} Pınarların sokakları, Akarsuların meydanları mı sulamalı?
+{5:17} Yalnız senin olsun onlar, Paylaşma yabancılarla.
+{5:18} Çeşmen bereketli olsun Ve gençken evlendiğin karınla mutlu ol.
+{5:19} Sevimli bir geyik, zarif bir ceylan gibi, Hep seni doyursun memeleri. Aşkıyla sürekli coş.
+{5:20} Oğlum, neden ahlaksız bir kadınla coşasın, Neden başka birinin karısını koynuna alasın?
+{5:21} RAB insanın tuttuğu yolu gözler, Attığı her adımı denetler.
+{5:22} Kötü kişiyi kendi suçları ele verecek, Günahının kemendi kıskıvrak bağlayacak onu.
+{5:23} Aşırı ahmaklığı onu yoldan çıkaracak, Terbiyeyi umursamadığı için ölecek.
+{i6:1} Tuzaklara Dikkat Et!
+{6:1} Oğlum, eğer birine kefil oldunsa, Onun borcunu yüklendinse,
+{6:2} Düştünse tuzağa kendi sözlerinle, Ağzının sözleriyle yakalandınsa,
+{6:3} O kişinin eline düştün demektir. Oğlum, şunu yap ve kendini kurtar: Git, yere kapan onun önünde, Ona yalvar yakar.
+{6:4} Gözlerine uyku girmesin, Ağırlaşmasın göz kapakların.
+{6:5} Avcının elinden ceylan gibi, Kuşbazın elinden kuş gibi kurtar kendini.
+{6:6} Ey tembel kişi, git, karıncalara bak, Onların yaşamından bilgelik öğren.
+{6:7} Başkanları, önderleri ya da yöneticileri olmadığı halde,
+{6:8} Yazın erzaklarını biriktirirler, Yiyeceklerini toplarlar biçim mevsiminde.
+{6:9} Ne zamana dek yatacaksın, ey tembel kişi? Ne zaman kalkacaksın uykundan?
+{6:10} “Biraz kestireyim, biraz uyuklayayım, Ellerimi kavuşturup şöyle bir uyuyayım” demeye kalmadan,
+{6:11} Yokluk bir haydut gibi, Yoksulluk bir akıncı gibi gelir üzerine.
+{6:12} Ağzında yalanla dolaşan kişi, Soysuz ve fesatçıdır.
+{6:13} Göz kırpar, bir sürü ayak oyunu, El kol hareketleri yapar,
+{6:14} Ahlaksız yüreğinde kötülük tasarlar, Çekişmeler yaratır durmadan.
+{6:15} Bu yüzden ansızın yıkıma uğrayacak, Birdenbire çaresizce yok olacak.
+{6:16} RAB'bin nefret ettiği altı şey, İğrendiği yedi şey vardır:
+{6:17} Gururlu gözler, Yalancı dil, Suçsuz kanı döken eller,
+{6:18} Düzenbaz yürek, Kötülüğe seğirten ayaklar,
+{6:19} Yalan soluyan yalancı tanık Ve kardeşler arasında çekişme yaratan kişi.
+{i6:20} Zinaya Karşı Bir Uyarı Daha
+{6:20} Oğlum, babanın buyruklarına uy, Annenin öğrettiklerinden ayrılma.
+{6:21} Bunlar sürekli yüreğinin bağı olsun, Tak onları boynuna.
+{6:22} Yolunda sana rehber olacak, Seni koruyacaklar yattığın zaman; Söyleşecekler seninle uyandığında.
+{6:23} Bu buyruklar sana çıra, Öğretilenler ışıktır. Eğitici uyarılar yaşam yolunu gösterir.
+{6:24} Seni kötü kadından, Başka birinin karısının yaltaklanan dilinden Koruyacak olan bunlardır.
+{6:25} Böyle kadınların güzelliği seni ayartmasın, Bakışları seni tutsak etmesin.
+{6:26} Çünkü fahişe yüzünden insan bir lokma ekmeğe muhtaç kalır, Başkasının karısıyla yatmak da kişinin canına mal olur.
+{6:27} İnsan koynuna ateş alır da, Giysisi yanmaz mı?
+{6:28} Korlar üzerinde yürür de, Ayakları kavrulmaz mı?
+{6:29} Başkasının karısıyla yatan adamın durumu budur. Böyle bir ilişkiye giren cezasız kalmaz.
+{6:30} Aç hırsız karnını doyurmak için çalıyorsa, Kimse onu hor görmez.
+{6:31} Ama yakalanırsa, çaldığının yedi katını ödemek zorunda; Varını yoğunu vermek anlamına gelse bile.
+{6:32} Zina eden adam sağduyudan yoksundur. Yaptıklarıyla kendini yok eder.
+{6:33} Payına düşen dayak ve onursuzluktur, Asla kurtulamaz utançtan.
+{6:34} Çünkü kıskançlık kocanın öfkesini azdırır, Öç alırken acımasız olur.
+{6:35} Hiçbir fidye kabul etmez, Gönlünü alamazsın armağanların çokluğuyla.
+{7:1} Oğlum, sözlerimi yerine getir, Aklında tut buyruklarımı.
+{7:2} Buyruklarımı yerine getir ki, yaşayasın. Öğrettiklerimi gözünün bebeği gibi koru.
+{7:3} Onları yüzük gibi parmaklarına geçir, Yüreğinin levhasına yaz.
+{7:4} Bilgeliğe, “Sen kızkardeşimsin”, Akla, “Akrabamsın” de.
+{7:5} Zina eden kadından, Yaltaklanan ahlaksız kadından seni koruyacak olan bunlardır.
+{7:6} Evimin penceresinden, Kafesin ardından dışarıyı seyrederken,
+{7:7} Bir sürü toy gencin arasında, Sağduyudan yoksun bir delikanlı çarptı gözüme.
+{7:8} Akşamüzeri, alaca karanlıkta, Akşam karanlığı çökerken, O
+{7:9} kadının oturduğu sokağa saptığını, Onun evine yöneldiğini gördüm.
+{7:10} Derken kadın onu karşıladı, Fahişe kılığıyla sinsice.
+{7:11} Yaygaracı, dik başlı biriydi kadın. Bir an bile durmaz evde.
+{7:12} Kâh sokakta, kâh meydanlardadır. Sokak başlarında pusuya yatar.
+{7:13} Delikanlıyı tutup öptü, Yüzü kızarmadan ona şöyle dedi:
+{7:14} “Esenlik kurbanlarımı kesmek zorundaydım, Adak sözümü bugün yerine getirdim.
+{7:15} Bunun için seni karşılamaya, seni aramaya çıktım, İşte buldum seni!
+{7:16} Döşeğime Mısır ipliğinden dokunmuş Renkli örtüler serdim.
+{7:17} Yatağıma mür, öd Ve tarçın serptim.
+{7:18} Haydi gel, sabaha dek doya doya sevişelim, Aşktan zevk alalım.
+{7:19} Kocam evde değil, Uzun bir yolculuğa çıktı.
+{7:20} Yanına para torbasını aldı, Dolunaydan önce eve dönmeyecek.”
+{7:21} Onu bir sürü çekici sözlerle baştan çıkardı, Tatlı diliyle peşinden sürükledi.
+{7:22} Kesimevine götürülen öküz gibi Hemen izledi onu delikanlı; Tuzağa düşen geyik gibi,
+{7:23} Ciğerini bir ok delene kadar; Kapana koşan bir kuş gibi, Bunun yaşamına mal olacağını bilmeden.
+{7:24} Çocuklarım, şimdi dinleyin beni, Kulak verin söylediklerime,
+{7:25} Sakın o kadına gönül vermeyin, Onun yolundan gitmeyin.
+{7:26} Yere serdiği bir sürü kurbanı var, Öldürdüğü kişilerin sayısı pek çok.
+{7:27} Ölüler diyarına giden yoldur onun evi, Ölüm odalarına götürür.
+{i8:1} Bilgeliğe Kulak Ver
+{8:1} Bilgelik çağırıyor, Akıl sesini yükseltiyor.
+{8:2} Yol kenarındaki tepelerin başında, Yolların birleştiği yerde duruyor o.
+{8:3} Kentin girişinde, kapıların yanında, Sesini yükseltiyor:
+{8:4} “Ey insanlar, size sesleniyorum, Çağrım insan soyunadır!
+{8:5} Ey bön kişiler, ihtiyatlı olmayı öğrenin; Sağduyulu olmayı öğrenin, ey akılsızlar!
+{8:6} Söylediğim yetkin sözleri dinleyin, Ağzımı doğruları söylemek için açarım.
+{8:7} Ağzım gerçeği duyurur, Çünkü dudaklarım kötülükten iğrenir.
+{8:8} Ağzımdan çıkan her söz doğrudur, Yoktur eğri ya da sapık olanı.
+{8:9} Apaçıktır hepsi anlayana, Bilgiye erişen, doğruluğunu bilir onların.
+{8:10} Gümüş yerine terbiyeyi, Saf altın yerine bilgiyi edinin.
+{8:11} Çünkü bilgelik mücevherden değerlidir, Dilediğin hiçbir şey onunla kıyaslanamaz.
+{8:12} Ben bilgelik olarak ihtiyatı kendime konut edindim. Bilgi ve sağgörü bendedir.
+{8:13} RAB'den korkmak kötülükten nefret etmek demektir. Kibirden, küstahlıktan, Kötü yoldan, sapık ağızdan nefret ederim.
+{8:14} Öğüt ve sağlam karar bana özgüdür. Akıl ve güç kaynağı benim.
+{8:15} Krallar sayemde egemenlik sürer, Hükümdarlar adil kurallar koyar.
+{8:16} Önderler, adaletle yöneten soylular Sayemde yönetirler.
+{8:17} Beni sevenleri ben de severim, Gayretle arayan beni bulur.
+{8:18} Zenginlik ve onur, Kalıcı değerler ve bolluk bendedir.
+{8:19} Meyvem altından, saf altından, Ürünüm seçme gümüşten daha iyidir.
+{8:20} Doğruluk yolunda, Adaletin izinden yürürüm.
+{8:21} Böylelikle, beni sevenleri servet sahibi yapar, Hazinelerini doldururum.
+{8:22} RAB yaratma işine başladığında İlk beni yarattı,
+{8:23} Dünya var olmadan önce, Ta başlangıçta, öncesizlikte yerimi aldım.
+{8:24} Enginler yokken, Suları bol pınarlar yokken doğdum ben.
+{8:25} Dağlar daha oluşmadan, Tepeler belirmeden, RAB dünyayı,
+{8:26} kırları Ve dünyadaki toprağın zerresini yaratmadan doğdum.
+{8:27} RAB gökleri yerine koyduğunda oradaydım, Engin denizleri ufukla çevirdiğinde,
+{8:28} Bulutları oluşturduğunda, Denizin kaynaklarını güçlendirdiğinde,
+{8:29} Sular buyruğundan öte geçmesinler diye Denize sınır çizdiğinde, Dünyanın temellerini pekiştirdiğinde,
+{8:30} Baş mimar olarak O'nun yanındaydım. Gün be gün sevinçle dolup taştım, Huzurunda hep coştum.
+{8:31} O'nun dünyası mutluluğum, İnsanları sevincimdi.
+{8:32} Çocuklarım, şimdi beni dinleyin: Yolumu izleyenlere ne mutlu!
+{8:33} Uyarılarımı dinleyin ve bilge kişiler olun, Görmezlikten gelmeyin onları.
+{8:34} Beni dinleyen, Her gün kapımı gözleyen, Kapımın eşiğinden ayrılmayan kişiye ne mutlu!
+{8:35} Çünkü beni bulan yaşam bulur Ve RAB'bin beğenisini kazanır.
+{8:36} Beni gözardı edense kendine zarar verir, Benden nefret eden, ölümü seviyor demektir.”
+{i9:1} Bilgeliği mi, Akılsızlığı mı Seveceksin?
+{9:1} Bilgelik kendi evini yaptı, Yedi direğini yonttu.
+{9:2} Hayvanlarını kesti, Şarabını hazırlayıp sofrasını kurdu.
+{9:3} Kentin en yüksek noktalarına gönderdiği Hizmetçileri aracılığıyla herkesi çağırıyor:
+{9:4} “Kim safsa buraya gelsin” diyor. Sağduyudan yoksun olanlara
+{9:5} da, “Gelin, yiyeceklerimi yiyin, Hazırladığım şaraptan için” diyor.
+{9:6} “Saflığı bırakın da yaşayın, Aklın yolunu izleyin.
+{9:7} “Alaycıyı paylayan aşağılanmayı hak eder, Kötü kişiyi azarlayan hakarete uğrar.
+{9:8} Alaycıyı azarlama, yoksa senden nefret eder. Bilge kişiyi azarlarsan, seni sever.
+{9:9} Bilge kişiyi eğitirsen Daha bilge olur, Doğru kişiye öğretirsen bilgisini artırır.
+{9:10} RAB korkusudur bilgeliğin temeli. Akıl Kutsal Olan'ı tanımaktır.
+{9:11} Benim sayemde günlerin çoğalacak, Ömrüne yıllar katılacak.
+{9:12} Bilgeysen, bilgeliğinin yararı sanadır, Alaycı olursan acısını yalnız sen çekersin.”
+{9:13} Akılsız kadın yaygaracı Ve saftır, hiçbir şey bilmez.
+{9:14} Evinin kapısında, Kentin en yüksek yerinde bir iskemleye
+{9:15} oturur; Yoldan geçenleri, Kendi yollarından gidenleri çağırmak için,
+{9:16} “Kim safsa buraya gelsin” der. Sağduyudan yoksun olanlara da,
+{9:17} “Çalıntı su tatlı, Gizlice yenen yemek lezzetlidir” der.
+{9:18} Ne var ki, evine girenler ölüme gittiklerini, Ona konuk olanlar Ölüler diyarının dibine indiklerini bilmezler.
+{i10:1} Doğrulukla Kötülüğün Karşılaştırılması
+{10:1} Süleyman'ın özdeyişleri: Bilge çocuk babasını sevindirir, Akılsız çocuk annesini üzer.
+{10:2} Haksızca kazanılan servetin yararı yoktur, Ama doğruluk ölümden kurtarır.
+{10:3} RAB doğru kişiyi aç komaz, Ama kötülerin isteğini boşa çıkarır.
+{10:4} Tembel eller insanı yoksullaştırır, Çalışkan el zengin eder.
+{10:5} Aklı başında evlat ürünü yazın toplar, Hasatta uyuyansa ailesinin yüzkarasıdır.
+{10:6} Bereket doğru kişinin başına yağar, Kötülerse zorbalıklarını sözle gizler.
+{10:7} Doğrular övgüyle, Kötüler nefretle anılır.
+{10:8} Bilge kişi buyrukları kabul eder, Çenesi düşük ahmaksa yıkıma uğrar.
+{10:9} Dürüst kişi güvenlik içinde yaşar, Ama hileli yoldan giden açığa vurulacaktır.
+{10:10} Sinsice göz kırpan, acılara neden olur. Çenesi düşük ahmak da yıkıma uğrar.
+{10:11} Doğru kişinin ağzı yaşam pınarıdır, Kötülerse zorbalıklarını sözle gizlerler.
+{10:12} Nefret çekişmeyi azdırır, Sevgi her suçu bağışlar.
+{10:13} Akıllı kişinin dudaklarından bilgelik akar, Ama sağduyudan yoksun olan sırtına kötek yer.
+{10:14} Bilge kişi bilgi biriktirir, Ahmağın ağzıysa onu yıkıma yaklaştırır.
+{10:15} Zenginin serveti onun kalesidir, Fakirin yoksulluğu ise onu yıkıma götürür.
+{10:16} Doğru kişinin ücreti yaşamdır, Kötünün geliriyse kendisine cezadır.
+{10:17} Terbiyeye kulak veren yaşam yolunu bulur. Uyarıları reddedense başkalarını yoldan saptırır.
+{10:18} Nefretini gizleyen kişinin dudakları yalancıdır. İftira yayan akılsızdır.
+{10:19} Çok konuşanın günahı eksik olmaz, Sağduyulu kişiyse dilini tutar.
+{10:20} Doğru kişinin dili saf gümüş gibidir, Kötünün niyetleriyse değersizdir.
+{10:21} Doğru kişinin sözleri birçoklarını besler, Ahmaklarsa sağduyu yoksunluğundan ölür.
+{10:22} RAB'bin bereketidir kişiyi zengin eden, RAB buna dert katmaz.
+{10:23} Kötülük akılsızlar için eğlence gibidir. Aklı başında olanlar içinse bilgelik aynı şeydir.
+{10:24} Kötü kişinin korktuğu başına gelir, Doğru kişiyse dileğine erişir.
+{10:25} Kasırga gelince kötü kişiyi silip götürür; Ama doğru kişi sonsuza dek ayakta kalır.
+{10:26} Dişler için sirke, Gözler için duman neyse, Tembel ulak da kendisini gönderen için öyledir.
+{10:27} RAB korkusu ömrü uzatır, Kötülerin yıllarıysa kısadır.
+{10:28} Doğrunun umudu onu sevindirir, Kötünün beklentileriyse boşa çıkar.
+{10:29} RAB'bin yolu dürüst için sığınak, Fesatçı içinse yıkımdır.
+{10:30} Doğru kişi hiçbir zaman sarsılmaz, Ama kötüler ülkede kalamaz.
+{10:31} Doğru kişinin ağzı bilgelik üretir, Sapık dilse kesilir.
+{10:32} Doğru kişinin dudakları söylenecek sözü bilir, Kötünün ağzındansa sapık sözler çıkar.
+{11:1} RAB hileli teraziden iğrenir, Hilesiz tartıdansa hoşnut kalır.
+{11:2} Küstahlığın ardından utanç gelir, Ama bilgelik alçakgönüllülerdedir.
+{11:3} Erdemlinin dürüstlüğü ona yol gösterir, Hainin yalancılığıysa yıkıma götürür.
+{11:4} Gazap günü servet işe yaramaz, Oysa doğruluk ölümden kurtarır.
+{11:5} Dürüst insanın doğruluğu onun yolunu düzler, Kötü kişiyse kötülüğü yüzünden yıkılıp düşer.
+{11:6} Erdemlinin doğruluğu onu kurtarır, Ama haini kendi hırsı ele verir.
+{11:7} Kötü kişi öldüğünde umutları yok olur, Güvendiği güç de biter.
+{11:8} Doğru kişi sıkıntıdan kurtulur, Onun yerine sıkıntıyı kötü kişi çeker.
+{11:9} Tanrısız kişi başkalarını ağzıyla yıkıma götürür, Oysa doğrular bilgi sayesinde kurtulur.
+{11:10} Doğruların başarısına kent bayram eder, Kötülerin ölümüne sevinç çığlıkları atılır.
+{11:11} Dürüstlerin kutsamasıyla kent gelişir, Ama kötülerin ağzı kenti yerle bir eder.
+{11:12} Başkasını küçük gören sağduyudan yoksundur, Akıllı kişiyse dilini tutar.
+{11:13} Dedikoducu sır saklayamaz, Oysa güvenilir insan sırdaş olur.
+{11:14} Yol göstereni olmayan ulus düşer, Danışmanı bol olan zafere gider.
+{11:15} Yabancıya kefil olan mutlaka zarar görür, Kefaletten kaçınan güvenlik içinde yaşar.
+{11:16} Sevecen kadın onur, Zorbalarsa yalnızca servet kazanır.
+{11:17} İyilikseverin yararı kendinedir, Gaddarsa kendi başına bela getirir.
+{11:18} Kötü kişinin kazancı aldatıcıdır, Doğruluk ekenin ödülüyse güvenlidir.
+{11:19} Yürekten doğru olan yaşama kavuşur, Kötülüğün ardından giden ölümünü hazırlar.
+{11:20} RAB sapık yürekliden iğrenir, Dürüst yaşayandan hoşnut kalır.
+{11:21} Bilin ki, kötü kişi cezasız kalmaz, Doğruların soyuysa kurtulur.
+{11:22} Sağduyudan yoksun kadının güzelliği, Domuzun burnundaki altın halkaya benzer.
+{11:23} Doğruların isteği hep iyilikle sonuçlanır, Kötülerin umutlarıysa gazapla.
+{11:24} Eliaçık olan daha çok kazanır, Hak yiyenin sonuysa yoksulluktur.
+{11:25} Cömert olan bolluğa erecek, Başkasına su verene su verilecek.
+{11:26} Halk buğday istifleyeni lanetler, Ama buğday satanı kutsar.
+{11:27} İyiliği amaç edinen beğeni kazanır, Kötülüğü amaç edinense kötülüğe uğrar.
+{11:28} Zenginliğine güvenen tepetaklak gidecek, Oysa doğrular dalındaki yaprak gibi gelişecek.
+{11:29} Ailesine sıkıntı çektirenin mirası yeldir, Ahmaklar da bilgelerin kulu olur.
+{11:30} Doğru kişinin işleri yaşam ağacının meyvesine benzer, Bilge kişi insanları kazanır.
+{11:31} Bu dünyada doğru kişi bile cezalandırılırsa, Kötülerle günahlıların cezalandırılacağı kesindir.
+{12:1} Terbiye edilmeyi seven bilgiyi de sever, Azarlanmaktan nefret eden budaladır.
+{12:2} İyi kişi RAB'bin lütfuna erer, Ama düzenbazı RAB mahkûm eder.
+{12:3} Kötülük kişiyi güvenliğe kavuşturmaz, Ama doğruların kökü kazılamaz.
+{12:4} Erdemli kadın kocasının tacıdır, Edepsiz kadınsa kocasını yer bitirir.
+{12:5} Doğruların tasarıları adil, Kötülerin öğütleri aldatıcıdır.
+{12:6} Kötülerin sözleri ölüm tuzağıdır, Doğruların konuşmasıysa onları kurtarır.
+{12:7} Kötüler yıkılıp yok olur, Doğru kişinin evi ayakta kalır.
+{12:8} Kişi sağduyusu oranında övülür, Çarpık düşünceliyse küçümsenir.
+{12:9} Köle sahibi olup aşağılanan Büyüklük taslayıp ekmeğe muhtaç olandan yeğdir.
+{12:10} Doğru kişi hayvanıyla ilgilenir, Ama kötünün sevecenliği bile zalimcedir.
+{12:11} Toprağını işleyenin ekmeği bol olur, Hayal peşinde koşansa sağduyudan yoksundur.
+{12:12} Kötü kişi kötülerin ganimetini ister, Ama doğru kişilerin kökü ürün verir.
+{12:13} Kötü kişinin günahlı sözleri kendisi için tuzaktır, Ama doğru kişi sıkıntıyı atlatır.
+{12:14} İnsan ağzının ürünüyle iyiliğe doyar, Elinin emeğine göre de karşılığını alır.
+{12:15} Ahmağın yolu kendi gözünde doğrudur, Bilge kişiyse öğüde kulak verir.
+{12:16} Ahmak sinirlendiğini hemen belli eder, Ama ihtiyatlı olan aşağılanmaya aldırmaz.
+{12:17} Dürüst tanık doğruyu söyler, Yalancı tanıksa hile solur.
+{12:18} Düşünmeden söylenen sözler kılıç gibi keser, Bilgelerin diliyse şifa verir.
+{12:19} Gerçek sözler sonsuza dek kalıcıdır, Oysa yalanın ömrü bir anlıktır.
+{12:20} Kötülük tasarlayanın yüreği hileci, Barışı öğütleyenin yüreğiyse sevinçlidir.
+{12:21} Doğru kişiye hiç zarar gelmez, Kötünün başıysa beladan kurtulmaz.
+{12:22} RAB yalancı dudaklardan iğrenir, Ama gerçeğe uyanlardan hoşnut kalır.
+{12:23} İhtiyatlı kişi bilgisini kendine saklar, Oysa akılsızın yüreği ahmaklığını ilan eder.
+{12:24} Çalışkanların eli egemenlik sürer, Tembellikse köleliğe götürür.
+{12:25} Kaygılı yürek insanı çökertir, Ama güzel söz sevindirir.
+{12:26} Doğru kişi arkadaşına da yol gösterir, Kötünün tuttuğu yolsa kendini saptırır.
+{12:27} Tembel kişi işini bitirmez, Oysa çalışkan değerli bir servet kazanır.
+{12:28} Doğru yol yaşam kaynağıdır, Bu yol ölümsüzlüğe götürür.
+{13:1} Bilge kişi terbiye edilmeyi sever, Alaycı kişi azarlansa da aldırmaz.
+{13:2} İyi insan ağzından çıkan sözler için ödüllendirilir, Ama hainlerin soluduğu zorbalıktır.
+{13:3} Dilini tutan canını korur, Ama boşboğazın sonu yıkımdır.
+{13:4} Tembel canının çektiğini elde edemez, Çalışkanın istekleriyse tümüyle yerine gelir.
+{13:5} Doğru kişi yalandan nefret eder, Kötünün sözleriyse iğrençtir, yüzkarasıdır.
+{13:6} Doğruluk dürüst yaşayanı korur, Kötülük günahkârı yıkar.
+{13:7} Kimi hiçbir şeyi yokken kendini zengin gösterir, Kimi serveti çokken kendini yoksul gösterir.
+{13:8} Kişinin serveti gün gelir canına fidye olur, Oysa yoksul kişi tehdide aldırmaz.
+{13:9} Doğruların ışığı parlak yanar, Kötülerin çırası söner.
+{13:10} Kibirden ancak kavga çıkar, Öğüt dinleyense bilgedir.
+{13:11} Havadan kazanılan para yok olur, Azar azar biriktirenin serveti çok olur.
+{13:12} Ertelenen umut hayal kırıklığına uğratır, Yerine gelen dilekse yaşam verir.
+{13:13} Uyarılara kulak asmayan bedelini öder, Buyruklara saygılı olansa ödülünü alır.
+{13:14} Bilgelerin öğrettikleri yaşam kaynağıdır, İnsanı ölüm tuzaklarından uzaklaştırır.
+{13:15} Sağduyulu davranış saygınlık kazandırır, Hainlerin yoluysa yıkıma götürür.
+{13:16} İhtiyatlı kişi işini bilerek yapar, Akılsız kişiyse ahmaklığını sergiler.
+{13:17} Kötü ulak belaya düşer, Güvenilir elçiyse şifa getirir.
+{13:18} Terbiye edilmeye yanaşmayanı Yokluk ve utanç bekliyor, Ama azara kulak veren onurlandırılır.
+{13:19} Yerine getirilen dilek mutluluk verir. Akılsız kötülükten uzak kalamaz.
+{13:20} Bilgelerle oturup kalkan bilge olur, Akılsızlarla dost olansa zarar görür.
+{13:21} Günahkârın peşini felaket bırakmaz, Doğruların ödülüyse gönençtir.
+{13:22} İyi kişi torunlarına miras bırakır, Günahkârın servetiyse doğru kişiye kalır.
+{13:23} Yoksulun tarlası bol ürün verebilir, Ama haksızlık bunu alıp götürür.
+{13:24} Oğlundan değneği esirgeyen, onu sevmiyor demektir. Seven baba özenle terbiye eder.
+{13:25} Doğru kişinin yeterince yiyeceği vardır, Kötünün karnıysa aç kalır.
+{14:1} Bilge kadın evini yapar, Ahmak kadın evini kendi eliyle yıkar.
+{14:2} Doğru yolda yürüyen, RAB'den korkar, Yoldan sapan, RAB'bi hor görür.
+{14:3} Ahmağın sözleri sırtına kötektir, Ama bilgenin dudakları kendisini korur.
+{14:4} Öküz yoksa yemlik boş kalır, Çünkü bol ürünü sağlayan öküzün gücüdür.
+{14:5} Güvenilir tanık yalan söylemez, Yalancı tanıksa yalan solur.
+{14:6} Alaycı bilgeliği arasa da bulamaz, Akıllı içinse bilgi edinmek kolaydır.
+{14:7} Akılsız kişiden uzak dur, Çünkü sana öğretecek bir şeyi yok.
+{14:8} İhtiyatlı kişinin bilgeliği, ne yapacağını bilmektir, Akılsızların ahmaklığıysa aldanmaktır.
+{14:9} Ahmaklar suç sunusuyla alay eder, Dürüstler ise iyi niyetlidir.
+{14:10} Yürek kendi acısını bilir, Sevinciniyse kimse paylaşmaz.
+{14:11} Kötü kişinin evi yerle bir edilecek, Doğru kişinin konutuysa bayındır olacak.
+{14:12} Öyle yol var ki, insana düz gibi görünür, Ama sonu ölümdür.
+{14:13} Gülerken bile yürek sızlayabilir, Sevinç bitince acı yine görünebilir.
+{14:14} Yüreği dönek olan tuttuğu yolun, İyi kişi de yaptıklarının ödülünü alacaktır.
+{14:15} Saf kişi her söze inanır, İhtiyatlı olansa attığı her adımı hesaplar.
+{14:16} Bilge kişi korktuğu için kötülükten uzaklaşır, Akılsızsa büyüklük taslayıp kendine güvenir.
+{14:17} Çabuk öfkelenen ahmakça davranır, Düzenbazdan herkes nefret eder.
+{14:18} Saf kişilerin mirası akılsızlıktır, İhtiyatlı kişilerin tacı ise bilgidir.
+{14:19} Alçaklar iyilerin önünde, Kötüler doğruların kapısında eğilirler.
+{14:20} Komşusu bile yoksulu sevmez, Oysa zenginin dostu çoktur.
+{14:21} Komşuyu hor görmek günahtır, Ne mutlu mazluma lütfedene!
+{14:22} Kötülük tasarlayan yolunu şaşırmaz mı? Oysa iyilik tasarlayan sevgi ve sadakat kazanır.
+{14:23} Her emek kazanç getirir, Ama boş lakırdı yoksulluğa götürür.
+{14:24} Bilgelerin tacı servetleridir, Akılsızlarsa ahmaklıklarıyla tanınır.
+{14:25} Dürüst tanık can kurtarır, Yalancı tanık aldatıcıdır.
+{14:26} RAB'den korkan tam güvenliktedir, RAB onun çocuklarına da sığınak olacaktır.
+{14:27} RAB korkusu yaşam kaynağıdır, İnsanı ölüm tuzaklarından uzaklaştırır.
+{14:28} Kralın yüceliği halkının çokluğuna bağlıdır, Halk yok olursa hükümdar da mahvolur.
+{14:29} Geç öfkelenen akıllıdır, Çabuk sinirlenen ahmaklığını gösterir.
+{14:30} Huzurlu yürek bedenin yaşam kaynağıdır, Hırs ise insanı için için yer bitirir.
+{14:31} Muhtacı ezen, Yaradanı'nı hor görüyor demektir. Yoksula acıyansa Yaradan'ı yüceltir.
+{14:32} Kötü kişi uğradığı felaketle yıkılır, Doğru insanın ölümde bile sığınacak yeri var.
+{14:33} Bilgelik akıllı kişinin yüreğinde barınır, Akılsızlar arasında bile kendini belli eder.
+{14:34} Doğruluk bir ulusu yüceltir, Oysa günah herhangi bir halk için utançtır.
+{14:35} Kral sağduyulu kulunu beğenir, Utanç getirene öfkelenir.
+{15:1} Yumuşak yanıt gazabı yatıştırır, Oysa yaralayıcı söz öfkeyi alevlendirir.
+{15:2} Bilgenin dili bilgiyi iyi kullanır, Akılsızın ağzındansa ahmaklık akar.
+{15:3} RAB'bin gözü her yerde olanı görür, Kötüleri de iyileri de gözler.
+{15:4} Okşayıcı dil yaşam verir, Çarpık dilse ruhu yaralar.
+{15:5} Ahmak babasının uyarılarını küçümser, İhtiyatlı kişi azara kulak verir.
+{15:6} Doğru kişinin evi büyük hazine gibidir, Kötünün geliriyse sıkıntı kaynağıdır.
+{15:7} Bilgelerin dudakları bilgi yayar, Ama akılsızların yüreği öyle değildir.
+{15:8} RAB kötülerin kurbanından iğrenir, Ama doğruların duası O'nu hoşnut eder.
+{15:9} RAB kötü kişinin yolundan iğrenir, Doğruluğun ardından gideni sever.
+{15:10} Yoldan sapan şiddetle cezalandırılır Ve azarlanmaktan nefret eden ölüme gider.
+{15:11} RAB, ölüm ve yıkım diyarında olup biteni bilir, Nerde kaldı ki insanın yüreği!
+{15:12} Alaycı kişi azarlanmaktan hoşlanmaz, Bilgelere gidip danışmaz.
+{15:13} Mutlu yürek yüzü neşelendirir, Acılı yürek ruhu ezer.
+{15:14} Akıllı yürek bilgi arar, Akılsızın ağzıysa ahmaklıkla beslenir.
+{15:15} Mazlumun bütün günleri sıkıntı doludur, Mutlu bir yürekse sahibine sürekli ziyafettir.
+{15:16} Yoksul olup RAB'den korkmak, Zengin olup kaygı içinde yaşamaktan yeğdir.
+{15:17} Sevgi dolu bir ortamdaki sebze yemeği, Nefret dolu bir ortamdaki besili danadan yeğdir.
+{15:18} Huysuz kişi çekişme yaratır, Sabırlı kişi kavgayı yatıştırır.
+{15:19} Tembelin yolu dikenli çit gibidir, Doğrunun yoluysa ana caddeye benzer.
+{15:20} Bilge çocuk babasını sevindirir, Akılsız çocuksa annesini küçümser.
+{15:21} Sağduyudan yoksun kişi ahmaklığıyla sevinir, Ama akıllı insan dürüst bir yaşam sürer.
+{15:22} Karşılıklı danışılmazsa tasarılar boşa çıkar, Danışmanların çokluğuyla başarıya ulaşılır.
+{15:23} Uygun yanıt sahibini mutlu eder, Yerinde söylenen söz ne güzeldir!
+{15:24} Sağduyulu kişi yukarıya, yaşama giden yoldadır, Bu da ölüler diyarına inmesini önler.
+{15:25} RAB kibirlinin evini yıkar, Dul kadının sınırını korur.
+{15:26} RAB kötünün tasarılarından iğrenir, Temiz düşüncelerden hoşnut kalır.
+{15:27} Kazanca düşkün kişi kendi evine sıkıntı verir, Rüşvetten nefret edense rahat yaşar.
+{15:28} Doğru kişinin aklı yanıtını iyi tartar, Kötünün ağzı kötülük saçar.
+{15:29} RAB kötülerden uzak durur, Oysa doğruların duasını duyar.
+{15:30} Gülen gözler yüreği sevindirir, İyi haber bedeni ferahlatır.
+{15:31} Yaşam veren uyarıları dinleyen, Bilgeler arasında konaklar.
+{15:32} Terbiyeden kaçan kendine zarar verir, Azara kulak verense sağduyu kazanır.
+{15:33} RAB korkusu bilgelik öğretir, Alçakgönüllülük de onurun önkoşuludur.
+{16:1} İnsan aklıyla çok şey tasarlayabilir, Ama dilin vereceği yanıt RAB'dendir.
+{16:2} İnsan her yaptığını temiz sanır, Ama niyetlerini tartan RAB'dir.
+{16:3} Yapacağın işleri RAB'be emanet et, O zaman tasarıların gerçekleşir.
+{16:4} RAB her şeyi amacına uygun yapar, Kötü kişinin yıkım gününü de O hazırlar.
+{16:5} RAB yüreği küstah olandan iğrenir, Bilin ki, öyleleri cezasız kalmaz.
+{16:6} Sevgi ve bağlılık suçları bağışlatır, RAB korkusu insanı kötülükten uzaklaştırır.
+{16:7} RAB kişinin yaşayışından hoşnutsa Düşmanlarını bile onunla barıştırır.
+{16:8} Doğrulukla kazanılan az şey Haksızlıkla kazanılan büyük gelirden iyidir.
+{16:9} Kişi yüreğinde gideceği yolu tasarlar, Ama adımlarını RAB yönlendirir.
+{16:10} Tanrı buyruklarını kralın ağzıyla açıklar, Bu nedenle kral adaleti çiğnememelidir.
+{16:11} Doğru terazi ve baskül RAB'bindir, Bütün tartı ağırlıklarını O belirler.
+{16:12} Krallar kötülükten iğrenir, Çünkü tahtın güvencesi adalettir.
+{16:13} Kral doğru söyleyenden hoşnut kalır, Dürüst konuşanı sever.
+{16:14} Kralın öfkesi ölüm habercisidir, Ama bilge kişi onu yatıştırır.
+{16:15} Kralın yüzü gülüyorsa, yaşam demektir. Lütfu son yağmuru getiren bulut gibidir.
+{16:16} Bilgelik kazanmak altından daha değerlidir, Akla sahip olmak da gümüşe yeğlenir.
+{16:17} Dürüstlerin tuttuğu yol kötülükten uzaklaştırır, Yoluna dikkat eden, canını korur.
+{16:18} Gururun ardından yıkım, Kibirli ruhun ardından da düşüş gelir.
+{16:19} Mazlumlar arasında alçakgönüllü biri olmak, Kibirlilerle çapul malı paylaşmaktan iyidir.
+{16:20} Öğüde kulak veren başarıya ulaşır, RAB'be güvenen mutlu olur.
+{16:21} Bilge yüreklilere akıllı denir, Tatlı söz ikna gücünü artırır.
+{16:22} Sağduyu, sahibine yaşam kaynağı, Ahmaklıksa ahmaklara cezadır.
+{16:23} Bilgenin aklı diline yön verir, Dudaklarının ikna gücünü artırır.
+{16:24} Hoş sözler petek balı gibidir, Cana tatlı ve bedene şifadır.
+{16:25} Öyle yol var ki, insana düz gibi görünür, Ama sonu ölümdür.
+{16:26} Emekçinin iştahıdır onu çalıştıran, Çünkü açlığı onu kamçılar.
+{16:27} Alçaklar başkalarına kötülük tasarlar, Konuşmaları kavurucu ateş gibidir.
+{16:28} Huysuz kişi çekişmeyi körükler, Dedikoducu can dostları ayırır.
+{16:29} Zorba kişi başkalarını ayartır Ve onları olumsuz yola yöneltir.
+{16:30} Göz kırpmak düzenbazlığa, Sinsi gülücükler kötülüğe işarettir.
+{16:31} Ağarmış saçlar onur tacıdır, Doğru yaşayışla kazanılır.
+{16:32} Sabırlı kişi yiğitten üstündür, Kendini denetleyen de kentler fethedenden üstündür.
+{16:33} İnsan kura atar, Ama her kararı RAB verir.
+{17:1} Huzur içinde kuru bir lokma, Kavga ve ziyafet dolu evden iyidir.
+{17:2} Sağduyulu köle, Ailesini utanca sokan oğula egemen olur Ve kardeşlerle birlikte mirastan pay alır.
+{17:3} Altın ocakta, gümüş potada arıtılır, Yüreği arıtansa RAB'dir.
+{17:4} Kötü kişi fesat yüklü dudakları dinler, Yalancı da yıkıcı dile kulak verir.
+{17:5} Yoksulla alay eden, onu yaratanı hor görür. Felakete sevinen cezasız kalmaz.
+{17:6} Torunlar yaşlıların tacıdır, Çocukların övüncü anne babalarıdır.
+{17:7} Kurumlu sözler ahmağa nasıl yakışmazsa, Soyluya da yalancı dudaklar hiç yakışmaz.
+{17:8} Sahibinin gözünde rüşvet bir tılsımdır. Ne yapsa başarılı olur.
+{17:9} Sevgi isteyen kişi suçları bağışlar, Olayı diline dolayansa can dostları ayırır.
+{17:10} Akıllı kişiyi azarlamak, Akılsıza yüz darbe vurmaktan etkilidir.
+{17:11} Kötü kişi ancak başkaldırmaya eğilimlidir, Ona gönderilecek ulak acımasız olacaktır.
+{17:12} Azgınlığı üstünde bir akılsızla karşılaşmak, Yavrularından edilmiş dişi ayıyla karşılaşmaktan beterdir.
+{17:13} İyiliğin karşılığını kötülükle ödeyenin Evinden kötülük eksik olmaz.
+{17:14} Kavganın başlangıcı su sızıntısına benzer, Bir patlamaya yol açmadan çekişmeyi bırak.
+{17:15} Kötüyü aklayan da, doğruyu mahkûm eden de RAB'bi tiksindirir.
+{17:16} Akılsız biri bilgelik satın almak için niye para harcasın? Zaten sağduyudan yoksun!
+{17:17} Dost her zaman sever, Kardeş sıkıntılı günde belli olur.
+{17:18} Sağduyudan yoksun kişi el sıkışıp Başkasına kefil olur.
+{17:19} Başkaldırıyı seven kavgayı sever, Kapısını yüksek yapan yıkımına davetiye çıkarır.
+{17:20} Sapık yürekli kişi iyilik beklememeli. Diliyle aldatan da belaya düşer.
+{17:21} Akılsız kendisini doğurana derttir, Ahmağın babası sevinç nedir bilmez.
+{17:22} İç ferahlığı sağlık getirir, Ezik ruh ise bedeni yıpratır.
+{17:23} Kötü kişi adaleti saptırmak için Gizlice rüşvet alır.
+{17:24} Akıllı kişi gözünü bilgelikten ayırmaz, Akılsızın gözüyse hep sağda soldadır.
+{17:25} Akılsız çocuk babasına üzüntü, Annesine acı verir.
+{17:26} Ne suçsuza ceza kesmek iyidir, Ne de görevliyi dürüst davrandığı için dövmek...
+{17:27} Bilgili kişi az konuşur, Akıllı kişi sakin ruhludur.
+{17:28} Çenesini tutup susan ahmak bile Bilge ve akıllı sayılır.
+{18:1} Geçimsiz kişi kendi çıkarı peşindedir, İyi öğüde hep karşı çıkar.
+{18:2} Akılsız kişi bir şey anlamaktan çok Kendi düşüncelerini açmaktan hoşlanır.
+{18:3} Kötülüğü aşağılanma, Ayıbı utanç izler.
+{18:4} Bilge kişinin ağzından çıkan sözler derin sular gibidir, Bilgelik pınarı da coşkun bir akarsu.
+{18:5} Kötüyü kayırmak da, Suçsuzdan adaleti esirgemek de iyi değildir.
+{18:6} Akılsızın dudakları çekişmeye yol açar, Ağzı da dayağı davet eder.
+{18:7} Akılsızın ağzı kendisini mahveder, Dudakları da canına tuzaktır.
+{18:8} Dedikodu tatlı lokma gibidir, İnsanın ta içine işler.
+{18:9} İşini savsaklayan kişi Yıkıcıya kardeştir.
+{18:10} RAB'bin adı güçlü kuledir, Ona sığınan doğru kişi için korunaktır.
+{18:11} Zengin servetini bir kale, Aşılmaz bir sur sanır.
+{18:12} Yürekteki gururu düşüş, Alçakgönüllülüğü ise onur izler.
+{18:13} Dinlemeden yanıt vermek Ahmaklık ve utançtır.
+{18:14} İnsanın ruhu hastalıkta ona destektir. Ama ezik ruh nasıl dayanabilir?
+{18:15} Akıllı kişi bilgiyi satın alır, Bilgenin kulağı da bilgi peşindedir.
+{18:16} Armağan, verenin yolunu açar Ve kendisini büyüklerin önüne çıkartır.
+{18:17} Duruşmada ilk konuşan haklı görünür, Başkası çıkıp onu sorgulayana dek.
+{18:18} Kura çekişmeleri sona erdirir, Güçlü rakipleri uzlaştırır.
+{18:19} Gücenmiş kardeş surlu kentten daha zor elde edilir. Çekişme sürgülü kale kapısı gibidir.
+{18:20} İnsanın karnı ağzının meyvesiyle, Dudaklarının ürünüyle doyar.
+{18:21} Dil ölüme de götürebilir, yaşama da; Konuşmayı seven, dilin meyvesine katlanmak zorundadır.
+{18:22} İyi bir eş bulan iyilik bulur Ve RAB'bin lütfuna erer.
+{18:23} Yoksul acınma dilenir, Zenginin yanıtıysa serttir.
+{18:24} Yıkıma götüren dostlar vardır, Ama öyle dost var ki, kardeşten yakındır insana.
+{19:1} Dürüst yaşayan bir yoksul olmak, Yalancı bir akılsız olmaktan yeğdir.
+{19:2} Bilgisiz heves işe yaramaz, Acelecilik insanı yanılgıya düşürür.
+{19:3} İnsanın ahmaklığı yaşamını yıkar, Yine de içinden RAB'be öfkelenir.
+{19:4} Zenginlik dost üstüne dost kazandırır. Oysa yoksulun dostu onu yüzüstü bırakır.
+{19:5} Yalancı tanık cezasız kalmaz, Yalan soluyan kurtulamaz.
+{19:6} Birçokları önemli kişinin gözüne girmek Ve eli açık olanın dostu olmak ister.
+{19:7} Yoksulun akrabaları bile onu sevmezse, Dostlarının ondan uzak duracağı daha da kesindir. Ne kadar yalvarsa ona yaklaşmazlar.
+{19:8} Sağduyulu olan canını sever, Aklı izleyen bolluğa kavuşur.
+{19:9} Yalancı tanık cezasız kalmaz, Yalan soluyan yok olur.
+{19:10} Akılsızın gösterişli bir yaşam sürmesi uygun değilse, Kölelerin önderlere egemen olması Hiç uygun değildir.
+{19:11} Sağduyulu kişi sabırlıdır, Kusurları hoş görmesi ona onur kazandırır.
+{19:12} Kralın öfkesi genç aslanın kükreyişine benzer, Lütfuysa otların üzerine düşen çiy gibidir.
+{19:13} Akılsız çocuk babasının başına beladır, Dırdır eden kadın sürekli damlayan su gibidir.
+{19:14} Ev ve servet babadan mirastır, Ama sağduyulu kadın RAB'bin armağanıdır.
+{19:15} Tembellik insanı uyuşukluğa iter, Haylaz kişi de aç kalır.
+{19:16} Tanrı buyruğuna uyan canını korur, Gitmesi gereken yolları umursamayan ölür.
+{19:17} Yoksula acıyan kişi RAB'be ödünç vermiş olur, Yaptığı iyilik için RAB onu ödüllendirir.
+{19:18} Henüz umut varken çocuğunu eğit, Onun yıkımına neden olma.
+{19:19} Huysuz insan cezasını çekmelidir. Onu bir kere kurtarsan da, hep aynı şeyi yapman gerekir.
+{19:20} Öğüde kulak ver, terbiyeyi kabul et ki, Ömrünün kalan kısmı boyunca bilge olasın.
+{19:21} İnsan yüreğinde çok şey tasarlar, Ama gerçekleşen, RAB'bin amacıdır.
+{19:22} İnsandan istenen vefadır, Yoksul olmak yalancı olmaktan yeğdir.
+{19:23} RAB korkusu Doygun ve dertsiz bir yaşama kavuşturur.
+{19:24} Tembel sahana daldırdığı elini Ağzına geri götürmek bile istemez.
+{19:25} Alaycıyı döversen bön kişi ibret alır, Akıllı kişiyi azarlarsan bilgisine bilgi katar.
+{19:26} Babasına saldıran, annesini kovan çocuk, Ailesinin utancı ve yüzkarasıdır.
+{19:27} Oğlum, uyarılara kulağını tıkarsan, Bilgi kaynağı sözlerden saparsın.
+{19:28} Niyeti bozuk tanık adaletle eğlenir, Kötülerin ağzı fesatla beslenir.
+{19:29} Alaycılar için ceza, Akılsızların sırtı için kötek hazırdır.
+{20:1} Şarap insanı alaycı, içki gürültücü yapar, Onun etkisiyle yoldan sapan bilge değildir.
+{20:2} Kralın öfkesi genç aslanın kükreyişine benzer, Onu kızdıran canından olur.
+{20:3} Kavgadan kaçınmak insan için onurdur, Oysa her ahmak tartışmaya hazırdır.
+{20:4} Sonbaharda çift sürmeyen tembel, Hasatta aradığını bulamaz.
+{20:5} İnsanın niyetleri derin bir kuyunun suları gibidir, Akıllı kişi onları açığa çıkarır.
+{20:6} İnsanların çoğu, “Vefalıyım” der. Ama sadık birini kim bulabilir?
+{20:7} Doğru ve dürüst bir babaya Sahip olan çocuklara ne mutlu!
+{20:8} Yargı kürsüsünde oturan kral, Kötülüğü gözleriyle ayıklar.
+{20:9} Kim, “Yüreğimi pak kıldım, Günahımdan arındım” diyebilir?
+{20:10} RAB hileli tartıdan da, hileli ölçüden de tiksinir.
+{20:11} Çocuk bile eylemleriyle kendini belli eder, Yaptıkları pak ve doğru mu, değil mi, anlaşılır.
+{20:12} İşiten kulağı da gören gözü de RAB yaratmıştır.
+{20:13} Uykuyu seversen yoksullaşırsın, Uyanık durursan ekmeğin bol olur.
+{20:14} Alıcı, “İşe yaramaz, işe yaramaz” der, Ama alıp gittikten sonra aldığıyla övünür.
+{20:15} Bol bol altının, mücevherin olabilir, Ama bilgi akıtan dudaklar daha değerlidir.
+{20:16} Tanımadığı birine kefil olanın giysisini al; Bir yabancı için yapıyorsa bunu, Giysisini rehin tut.
+{20:17} Hileyle kazanılan yiyecek insana tatlı gelir, Ama sonra ağza dolan çakıl gibidir.
+{20:18} Tasarılarını danışarak yap, Yöntemlere uyarak savaş.
+{20:19} Dedikoducu sır saklayamaz, Bu nedenle ağzı gevşek olanla arkadaşlık etme.
+{20:20} Annesine ya da babasına sövenin Işığı zifiri karanlıkta sönecek.
+{20:21} Tez elde edilen mirasın Sonu bereketli olmaz.
+{20:22} “Bu kötülüğü sana ödeteceğim” deme; RAB'bi bekle, O seni kurtarır.
+{20:23} RAB hileli tartıdan tiksinir, Hileli teraziden hoşlanmaz.
+{20:24} İnsanın adımlarını RAB yönlendirir; Öyleyse insan tuttuğu yolu nasıl anlayabilir?
+{20:25} Düşünmeden adakta bulunmak Sakıncalıdır.
+{20:26} Bilge kral kötüleri ayıklar, Harman döver gibi cezalandırır.
+{20:27} İnsanın ruhu RAB'bin ışığıdır, İç varlığın derinliklerine işler.
+{20:28} Sevgi ve sadakat kralın güvencesidir. Onun tahtını sağlamlaştıran sevgidir.
+{20:29} Gençlerin görkemi güçleri, Yaşlıların onuru ağarmış saçlardır.
+{20:30} Yaralayan darbeler kötülüğü temizler, Kötek iç varlığın derinliklerini paklar.
+{21:1} Kralın yüreği RAB'bin elindedir, Kanaldaki su gibi onu istediği yöne çevirir.
+{21:2} İnsan izlediği her yolun doğru olduğunu sanır, Ama niyetlerini tartan RAB'dir.
+{21:3} RAB kendisine kurban sunulmasından çok, Doğruluğun ve adaletin yerine getirilmesini ister.
+{21:4} Küstah bakışlar ve kibirli yürek Kötülerin çırası ve günahıdır.
+{21:5} Çalışkanın tasarıları hep bollukla, Her türlü acelecilik hep yoklukla sonuçlanır.
+{21:6} Yalan dolanla yapılan servet, Sis gibi geçicidir ve ölüm tuzağıdır.
+{21:7} Kötülerin zorbalığı kendilerini süpürüp götürür, Çünkü doğru olanı yapmaya yanaşmazlar.
+{21:8} Suçlunun yolu dolambaçlı, Pak kişinin yaptıklarıysa dosdoğrudur.
+{21:9} Kavgacı kadınla aynı evde oturmaktansa, Damın köşesinde oturmak yeğdir.
+{21:10} Kötünün can attığı kötülüktür, Hiç kimseye acımaz.
+{21:11} Alaycı cezalandırılınca bön kişi akıllanır, Bilge olan öğretilenden bilgi kazanır.
+{21:12} Adil Olan, kötünün evini dikkatle gözler Ve kötüleri yıkıma uğratır.
+{21:13} Yoksulun feryadına kulağını tıkayanın Feryadına yanıt verilmeyecektir.
+{21:14} Gizlice verilen armağan öfkeyi, Koyna sokuşturulan rüşvet de kızgın gazabı yatıştırır.
+{21:15} Hak yerine gelince doğru kişi sevinir, Fesatçı dehşete düşer.
+{21:16} Sağduyudan uzaklaşan, Kendini ölüler arasında bulur.
+{21:17} Zevkine düşkün olan yoksullaşır, Şaraba ve zeytinyağına düşkün kişi de zengin olmaz.
+{21:18} Kötü kişi doğru kişinin fidyesidir, Hain de dürüstün.
+{21:19} Çölde yaşamak, Can sıkıcı ve kavgacı kadınla yaşamaktan yeğdir.
+{21:20} Bilgenin evi değerli eşya ve zeytinyağıyla doludur, Akılsızsa malını har vurup harman savurur.
+{21:21} Doğruluğun ve sevginin ardından koşan, Yaşam, gönenç ve onur bulur.
+{21:22} Bilge kişi güçlülerin kentine saldırıp Güvendikleri kaleyi yıkar.
+{21:23} Ağzını ve dilini tutan Başını beladan korur.
+{21:24} Gururlu, küstah ve alaycı: Bunlar kas kas kasılan insanın adlarıdır.
+{21:25} Tembelin isteği onu ölüme götürür, Çünkü elleri çalışmaktan kaçınır;
+{21:26} Bütün gün isteklerini sıralar durur, Oysa doğru kişi esirgemeden verir.
+{21:27} Kötülerin sunduğu kurban iğrençtir, Hele bunu kötü niyetle sunarlarsa.
+{21:28} Yalancı tanık yok olur, Dinlemeyi bilenin tanıklığıysa inandırıcıdır.
+{21:29} Kötü kişi kendine güçlü bir görünüm verir, Erdemli insansa tuttuğu yoldan emindir.
+{21:30} RAB'be karşı başarılı olabilecek Bilgelik, akıl ve tasarı yoktur.
+{21:31} At savaş günü için hazır tutulur, Ama zafer sağlayan RAB'dir.
+{22:1} İyi ad büyük servetten, Saygınlık gümüş ve altından yeğdir.
+{22:2} Zenginle yoksulun ortak yönü şu: Her ikisini de RAB yarattı.
+{22:3} İhtiyatlı kişi tehlikeyi görünce saklanır, Bönse öne atılır ve zarar görür.
+{22:4} Alçakgönüllülüğün ve RAB korkusunun ödülü, Zenginlik, onur ve yaşamdır.
+{22:5} Kötünün yolu diken ve tuzakla doludur. Canını korumak isteyen bunlardan uzak durur.
+{22:6} Çocuğu tutması gereken yola göre yetiştir, Yaşlandığında o yoldan ayrılmaz.
+{22:7} Zengin yoksullara egemen olur, Borç alan borç verenin kulu olur.
+{22:8} Fesat eken dert biçer, Gazabının değneği yok olur.
+{22:9} Cömert olan kutsanır, Çünkü yemeğini yoksullarla paylaşır.
+{22:10} Alaycıyı kov, kavga biter; Çekişme ve aşağılamalar da sona erer.
+{22:11} Yürek temizliğini ve güzel sözleri seven, Kralın dostluğunu kazanır.
+{22:12} RAB bilgiyi gözetip korur, Hainin sözlerini ise altüst eder.
+{22:13} Tembel der ki, “Dışarda aslan var, Sokağa çıksam beni parçalar.”
+{22:14} Sokak kadınının ağzı dipsiz çukur gibidir, RAB'bin gazabına uğrayan oraya düşer.
+{22:15} Akılsızlık çocuğun öz yapısındadır, Değnekle terbiye edilirse akılsızlıktan uzaklaşır.
+{22:16} Servetini büyütmek için yoksulu ezenle Zengine armağan verenin sonu yoksulluktur.
+{i22:17} Bilgeden Otuz Öğüt
+{22:17} Kulak ver, bilgelerin sözlerini dinle, Öğrettiğimi zihnine işle.
+{22:18} Sözlerimi yüreğinde saklarsan mutlu olursun, Onlar hep hazır olsun dudaklarında.
+{22:19} RAB'be güvenmen için Bugün bunları sana, evet sana da bildiriyorum.
+{22:20} Senin için otuz söz yazdım, Bilgi ve öğüt sözleri...
+{22:21} Öyle ki, güvenilir, doğru sözleri bilesin, Böylece seni gönderene güvenilir yanıt verebilesin.
+{i22:22} (1) 22:22 Ayetleri 1'den 30'a kadar gruplara ayıran bu numaralar Masoretik metinde geçmemektedir.
+{22:22} Yoksulu, yoksul olduğu için soymaya kalkma, Düşkünü mahkemede ezme.
+{22:23} Çünkü onların davasını RAB yüklenecek Ve onları soyanların canını alacak.
+{i22:24} (2)
+{22:24} Huysuz kişiyle arkadaşlık etme; Tez öfkelenenle yola çıkma.
+{22:25} Yoksa onun yollarına alışır, Kendini tuzağa düşmüş bulursun.
+{i22:26} (3)
+{22:26} El sıkışıp Başkasının borcuna kefil olmaktan kaçın.
+{22:27} Ödeyecek paran olmazsa, Altındaki döşeğe bile el koyarlar.
+{i22:28} (4)
+{22:28} Atalarının belirlediği Eski sınır taşlarının yerini değiştirme.
+{i22:29} (5)
+{22:29} İşinde usta birini görüyor musun? Öylesi sıradan kişilere değil, Krallara bile hizmet eder.
+{i23:1} (6)
+{23:1} Bir önderle yemeğe oturduğunda Önüne konulana dikkat et.
+{23:2} İştahına yenilecek olursan, Daya bıçağı kendi boğazına.
+{23:3} Onun lezzetli yemeklerini çekmesin canın, Böyle yemeğin ardında hile olabilir.
+{i23:4} (7)
+{23:4} Zengin olmak için didinip durma, Çıkar bunu aklından.
+{23:5} Servet göz açıp kapayana dek yok olur, Kanatlanıp kartal gibi göklere uçar.
+{i23:6} (8)
+{23:6} Cimrinin verdiği yemeği yeme, Lezzetli yemeklerini çekmesin canın.
+{23:7} Çünkü yediğin her şeyin hesabını tutar, “Ye, iç” der sana, Ama yüreği senden yana değildir.
+{23:8} Yediğin azıcık yemeği kusarsın, Söylediğin güzel sözler de boşa gider.
+{i23:9} (9)
+{23:9} Akılsıza öğüt vermeye kalkma, Çünkü senin sözlerindeki sağduyuyu küçümser.
+{i23:10} (10)
+{23:10} Eski sınır taşlarının yerini değiştirme, Öksüzlerin toprağına el sürme.
+{23:11} Çünkü onların Velisi güçlüdür Ve onların davasını sana karşı O yürütür.
+{i23:12} (11)
+{23:12} Uyarıları zihnine işle, Bilgi dolu sözlere kulak ver.
+{23:13} Çocuğunu terbiye etmekten geri kalma, Onu değnekle dövsen de ölmez.
+{23:14} Onu değnekle döversen, Canını ölüler diyarından kurtarırsın.
+{i23:15} (12)
+{23:15} Oğlum, bilge yürekli olursan, Benim yüreğim de sevinir.
+{23:16} Dudakların doğru konuştuğunda Gönlüm de coşar.
+{i23:17} (13)
+{23:17} Günahkârlara imrenmektense, Sürekli RAB korkusunda yaşa.
+{23:18} Böylece bir geleceğin olur Ve umudun boşa çıkmaz.
+{23:19} Oğlum, dinle ve bilge ol, Yüreğini doğru yolda tut.
+{i23:20} (14)
+{23:20} Aşırı şarap içenlerle, Ete düşkün oburlarla arkadaşlık etme.
+{23:21} Çünkü ayyaş ve obur kişi yoksullaşır, Uyuşukluk da insana paçavra giydirir.
+{i23:22} (15)
+{23:22} Sana yaşam veren babanın sözlerine kulak ver, Yaşlandığı zaman anneni hor görme.
+{i23:23} (16)
+{23:23} Gerçeği satın al ve satma; Bilgeliği, terbiyeyi, aklı da.
+{23:24} Doğru kişinin babası coştukça coşar, Bilgece davranan oğulun babası sevinir.
+{23:25} Annenle baban seninle coşsun, Seni doğuran sevinsin.
+{i23:26} (17)
+{23:26} Oğlum, beni yürekten dinle, Gözünü gittiğim yoldan ayırma.
+{23:27} Çünkü fahişe derin bir çukur, Ahlaksız kadın dar bir kuyudur.
+{23:28} Evet, soyguncu gibi pusuda bekler Ve birçok erkeği yoldan çıkarır.
+{i23:29} (18)
+{23:29} Ah çeken kim? Vah çeken kim? Kimdir çekişip duran? Yakınan kim? Boş yere yaralanan kim? Gözleri kanlı olan kim?
+{23:30} İçmeye oturup kalkamayanlar, Karışık şarapları denemeye gidenlerdir.
+{23:31} Şarabın kızıl rengine, Kadehte ışımasına, Boğazdan aşağı süzülüvermesine bakma.
+{23:32} Sonunda yılan gibi ısırır, Engerek gibi sokar.
+{23:33} Gözlerin garip şeyler görür, Aklından ahlaksızlıklar geçer.
+{23:34} Kendini kâh denizin ortasında, Kâh gemi direğinin tepesinde yatıyor sanırsın.
+{23:35} “Dövdüler beni ama incinmedim, Vurdular ama farketmedim” dersin, “Yeniden içmek için ne zaman ayılacağım?”
+{i24:1} (19)
+{24:1} Kötülere imrenme, Onlarla birlikte olmayı isteme.
+{24:2} Çünkü yürekleri zorbalık tasarlar, Dudakları belalardan söz eder.
+{i24:3} (20)
+{24:3} Ev bilgelikle yapılır, Akılla pekiştirilir.
+{24:4} Bilgi sayesinde odaları Her türlü değerli, güzel eşyayla dolar.
+{i24:5} (21)
+{24:5} Bilgelik güçten, Bilgi kaba kuvvetten üstündür.
+{24:6} Savaşmak için yöntem, Zafer kazanmak için birçok danışman gerekli.
+{i24:7} (22)
+{24:7} Ahmak için bilgelik ulaşılamayacak kadar yüksektir, Kent kurulunda ağzını açamaz.
+{i24:8} (23)
+{24:8} Kötülük tasarlayan kişi Düzenbaz olarak bilinecektir.
+{24:9} Ahmakça tasarılar günahtır, Alaycı kişiden herkes iğrenir.
+{i24:10} (24)
+{24:10} Sıkıntılı günde cesaretini yitirirsen, Gücün kıt demektir.
+{i24:11} (25)
+{24:11} Ölüm tehlikesi içinde olanları kurtar, Ölmek üzere olanları esirge.
+{24:12} “İşte bunu bilmiyordum” desen de, İnsanın yüreğindekini bilen sezmez mi? Senin canını koruyan anlamaz mı? Ödetmez mi herkese yaptığını?
+{i24:13} (26)
+{24:13} Oğlum, bal ye, çünkü iyidir, Süzme bal damağa tatlı gelir.
+{24:14} Bilgelik de canın için öyledir, bilmiş ol. Bilgeliği bulursan bir geleceğin olur Ve umudun boşa çıkmaz.
+{i24:15} (27)
+{24:15} Ey kötü adam, doğru kişinin evine karşı pusuya yatma, Konutunu yıkmaya kalkma.
+{24:16} Çünkü doğru kişi yedi kez düşse yine kalkar, Ama kötüler felakette yıkılır.
+{i24:17} (28)
+{24:17} Düşmanın düşüşüne keyiflenme, Sendelemesine sevinme.
+{24:18} Yoksa RAB görür ve hoşnut kalmaz Ve düşmanına duyduğu öfke yatışır.
+{i24:19} (29)
+{24:19} Kötülük edenlere kızıp üzülme, Onlara özenme.
+{24:20} Çünkü kötülerin geleceği yok, Çırası sönecek onların.
+{i24:21} (30)
+{24:21} Oğlum, RAB'be ve krala saygı göster, Onlara başkaldıranlarla arkadaşlık etme.
+{24:22} Çünkü onlar ansızın felakete uğrar, İnsanın başına ne belalar getireceklerini kim bilir?
+{i24:23} Bilgelerin Öbür Özdeyişleri
+{24:23} Şunlar da bilgelerin sözleridir: Yargılarken yan tutmak iyi değildir.
+{24:24} Kötüye, “Suçsuzsun” diyen yargıcı Halklar lanetler, uluslar kınar.
+{24:25} Ne mutlu suçluyu mahkûm edene! Herkes onu candan kutlar.
+{24:26} Dürüst yanıt Gerçek dostluğun işaretidir.
+{24:27} İlkin dışardaki işini bitirip tarlanı hazırla, Ondan sonra evini yap.
+{24:28} Başkalarına karşı nedensiz tanıklık etme Ve dudaklarınla aldatma.
+{24:29} “Bana yaptığını ben de ona yapacağım, Ödeteceğim bana yaptığını” deme.
+{24:30} Tembelin tarlasından, Sağduyudan yoksun kişinin bağından geçtiğimde
+{24:31} Her yanı dikenlerin, otların Kapladığını gördüm; Taş duvar da yıkılmıştı.
+{24:32} Gördüklerimi derin derin düşündüm, Seyrettiklerimden ibret aldım.
+{24:33} “Biraz kestireyim, biraz uyuklayayım, Ellerimi kavuşturup şöyle bir uyuyayım” demeye kalmadan,
+{24:34} Yokluk bir haydut gibi, Yoksulluk bir akıncı gibi gelir üzerine.
+{i25:1} Süleyman'ın Özdeyişlerinin İkinci Bölümü
+{25:1} Bundan sonrakiler de Süleyman'ın özdeyişleridir. Bunları Yahuda Kralı Hizkiya'nın adamları derledi.
+{25:2} Tanrı'yı gizli tuttuğu şeyler için, Krallarıysa açığa çıkardıkları için yüceltiriz.
+{25:3} Göğün yüksekliği, yerin derinliği gibi, Kralların aklından geçen de kestirilemez.
+{25:4} Cürufu gümüşten ayırınca, Kuyumcunun işleyeceği madde kalır.
+{25:5} Kötüleri kralın huzurundan uzaklaştırırsan Kralın tahtı adaletle pekişir.
+{25:6} Kralın önünde kendini yüceltme, Önemli kişiler arasında yer edinmeye çalışma.
+{25:7} Çünkü kralın seni bir soylunun önünde alaşağı etmesindense, Sana, “Yukarıya gel” demesi yeğdir.
+{25:8} Gördüklerinle hemencecik mahkemeye başvurma; Çünkü başkası seni utandırabilir, Sonra ne yapacağını bilemezsin.
+{25:9} Davanı doğrudan komşunla gör; Başkasının sırrını açıklama.
+{25:10} Yoksa işiten seni utandırabilir Ve bu kötü ün yakanı bırakmaz.
+{25:11} Yerinde söylenen söz, Gümüş oymalardaki altın elma gibidir.
+{25:12} Altın küpe ya da altın bir süs neyse, Dinleyen kulak için bilgenin azarlaması da öyledir.
+{25:13} Hasatta kar serinliği nasılsa, Güvenilir ulak da kendisini gönderenler için öyledir. Böyle biri efendilerinin canına can katar.
+{25:14} Yağmursuz bulut ve yel nasılsa, Vermediği armağanla övünen kişi de öyledir.
+{25:15} Sabırla bir hükümdar bile ikna edilir, Tatlı dil en güçlü direnci kırar.
+{25:16} Bal buldun mu yeteri kadar ye, Fazla doyarsan kusarsın.
+{25:17} Başkalarının evine seyrek git, Yoksa onları bezdirir, nefretini kazanırsın.
+{25:18} Başkasına karşı yalancı tanıklık eden Topuz, kılıç ya da sivri ok gibidir.
+{25:19} Sıkıntılı günde haine güvenmek, Çürük dişe ya da sakat ayağa güvenmek gibidir.
+{25:20} Dertli kişiye ezgi söylemek, Soğuk günde giysilerini üzerinden almaya, Ya da sodaya sirke katmaya benzer.
+{25:21} Düşmanın acıkmışsa doyur, Susamışsa su ver.
+{25:22} Bunu yapmakla onu utanca boğarsın Ve RAB seni ödüllendirir.
+{25:23} Kuzeyden esen rüzgar nasıl yağmur getirirse, İftiracı dil de öfkeli bakışlara yol açar.
+{25:24} Kavgacı kadınla aynı evde oturmaktansa, Damın köşesinde oturmak yeğdir.
+{25:25} Susamış kişi için soğuk su neyse, Uzak ülkeden gelen iyi haber de öyledir.
+{25:26} Kötünün önünde pes eden doğru kişi, Suyu bulanmış pınar, kirlenmiş kuyu gibidir.
+{25:27} Fazla bal yemek iyi değildir; Hep yüceltilmeyi beklemek de...
+{25:28} Kendini denetleyemeyen kişi Yıkılmış sursuz kent gibidir.
+{26:1} Yaz ortasında kar, hasatta yağmur uygun olmadığı gibi, Akılsıza da onur yakışmaz.
+{26:2} Öteye beriye uçuşan serçe Ve kırlangıç gibi, Hak edilmemiş lanet de tutmaz.
+{26:3} Ata kırbaç, eşeğe gem, Akılsızın sırtına da değnek gerek.
+{26:4} Akılsıza ahmaklığına göre karşılık verme, Yoksa sen de onun düzeyine inersin.
+{26:5} Akılsıza ahmaklığına uygun karşılık ver, Yoksa kendini bilge sanır.
+{26:6} Akılsızın eliyle haber gönderen, Kendi ayaklarını kesen biri gibi, Kendine zarar verir.
+{26:7} Akılsızın ağzında özdeyiş, Kötürümün sarkan bacakları gibidir.
+{26:8} Akılsızı onurlandırmak, Taşı sapana bağlamak gibidir.
+{26:9} Sarhoşun elindeki dikenli dal ne ise, Akılsızın ağzında özdeyiş de odur.
+{26:10} Oklarını gelişigüzel fırlatan okçu neyse, Yoldan geçen akılsızı ya da sarhoşu ücretle tutan da öyledir.
+{26:11} Ahmaklığını tekrarlayan akılsız, Kusmuğuna dönen köpek gibidir.
+{26:12} Kendini bilge gören birini tanıyor musun? Akılsız bile ondan daha umut vericidir.
+{26:13} Tembel, “Yolda aslan var, Sokaklarda aslan dolaşıyor” der.
+{26:14} Menteşeleri üzerinde dönen kapı gibi, Tembel de yatağında döner durur.
+{26:15} Tembel elini sahana daldırır, Yeniden ağzına götürmeye üşenir.
+{26:16} Tembel kendini, Akıllıca yanıt veren yedi kişiden daha bilge sanır.
+{26:17} Kendini ilgilendirmeyen bir kavgaya bulaşan kişi, Yoldan geçen köpeği kulaklarından tutana benzer.
+{26:18} Ateşli ve öldürücü oklar savuran bir deli
+{26:19} neyse, Komşusunu aldatıp, “Şaka yapıyordum” Diyen de öyledir.
+{26:20} Odun bitince ateş söner, Dedikoducu yok olunca kavga diner.
+{26:21} Kor için kömür, ateş için odun neyse, Çekişmeyi alevlendirmek için kavgacı da öyledir.
+{26:22} Dedikodu tatlı lokma gibidir, İnsanın ta içine işler.
+{26:23} Okşayıcı dudaklarla kötü yürek, Sırlanmış toprak kaba benzer.
+{26:24} Yüreği nefret dolu kişi sözleriyle niyetini gizlemeye çalışır, Ama içi hile doludur.
+{26:25} Güzel sözlerine kanma, Çünkü yüreğinde yedi iğrenç şey vardır.
+{26:26} Nefretini hileyle örtse bile, Kötülüğü toplumun önünde ortaya çıkar.
+{26:27} Başkasının kuyusunu kazan içine kendi düşer, Taşı yuvarlayan altında kalır.
+{26:28} Yalancı dil incittiği kişilerden nefret eder, Yaltaklanan ağızdan yıkım gelir.
+{27:1} Yarınla övünme, Çünkü ne getireceğini bilemezsin.
+{27:2} Seni kendi ağzın değil, başkaları övsün, Kendi dudakların değil, yabancı övsün.
+{27:3} Taş ağırdır, kum bir yüktür, Ama ahmağın kışkırtması ikisinden de ağırdır.
+{27:4} Öfke zalim, hiddet azgındır, Ama kıskançlığa kim dayanabilir?
+{27:5} Açık bir azar, Gizli tutulan sevgiden iyidir.
+{27:6} Düşmanın öpücükleri aldatıcıdır, Ama dostun seni iyiliğin için yaralar.
+{27:7} Tok insanın canı balı bile çekmez, Aç kişiye en acı şey tatlı gelir.
+{27:8} Yuvasından uzak kalan kuş nasılsa, Yurdundan uzak kalan insan da öyledir.
+{27:9} Güzel koku ve buhur canı ferahlatır, Dostun verdiği öğüt insana tatlı gelir.
+{27:10} Kendi dostunu da babanın dostunu da bırakma Ve felakete uğradığın gün kardeşinin evine gitme; Yakın komşun uzaktaki kardeşten yeğdir.
+{27:11} Oğlum, bilgece davran ki yüreğim sevinsin, Beni ayıplayana yanıt vereyim.
+{27:12} İhtiyatlı kişi tehlikeyi görünce saklanır, Bönse öne atılır ve zarar görür.
+{27:13} Tanımadığı birine kefil olanın giysisini al; Bir yabancı için yapıyorsa bunu, Giysisini rehin tut.
+{27:14} Sabah sabah komşuya verilen gürültülü bir selam Küfür sayılır.
+{27:15} Kavgacı kadının dırdırı Yağmurlu günde damlaların dinmeyen sesi gibidir.
+{27:16} Böyle bir kadını dizginlemeye kalkmak, Rüzgarı ya da yağı avuçta tutmaya çalışmak gibidir.
+{27:17} Demir demiri biler, İnsan da insanı...
+{27:18} İncir ağacını budayan meyvesini yer, Efendisine hizmet eden onurlandırılır.
+{27:19} Su görüntümüzü nasıl yansıtıyorsa, Yürek de insanın içini yansıtır.
+{27:20} Ölüm ve yıkım diyarı insana doymaz, İnsanın gözü de hiç doymaz.
+{27:21} Altın ocakta, gümüş potada sınanır, İnsansa aldığı övgüyle sınanır.
+{27:22} Ahmağı buğdayla birlikte dibekte tokmakla dövsen bile, Ahmaklığından kurtulmaz.
+{27:23} Davarına iyi bak, Sığırlarına dikkat et.
+{27:24} Çünkü zenginlik kalıcı değildir Ve taç kuşaktan kuşağa geçmez.
+{27:25} Çayır biçilince, yeni çimen çıkınca, Dağlardaki otlar toplanınca,
+{27:26} Kuzular seni giydirir, Tekeler tarlanın bedeli olur.
+{27:27} Keçilerin sütü yalnız seni değil, Ev halkını, hizmetçilerini de doyurmaya yeter.
+{28:1} Kötü kişi kendisini kovalayan olmasa bile kaçar, Doğrularsa genç aslan gibi yüreklidir.
+{28:2} Ayaklanan ülke çok başlı olur, Ama akıllı, bilgili kişi düzeni sağlar.
+{28:3} Yoksulu ezen yoksul, Ürünü harap eden sağanak yağmur gibidir.
+{28:4} Yasayı terk eden kötüyü över, Yerine getirense kötüye karşı çıkar.
+{28:5} Kötüler adaletten anlamaz, RAB'be yönelenlerse her yönüyle anlar.
+{28:6} Dürüst bir yoksul olmak, Yolsuzlukla zengin olmaktan yeğdir.
+{28:7} Kutsal Yasa'yı yerine getiren çocuk akıllıdır, Oburlarla arkadaşlık edense babasını utandırır.
+{28:8} Faiz ve tefecilikle malına mal katan kişi, Bunu yoksullara acıyan için biriktirir.
+{28:9} Yasaya kulağını tıkayanın Duası da iğrençtir.
+{28:10} Dürüst kişileri kötü yola saptıran Kendi kazdığı çukura düşer. İyiliği, özü sözü bir olanlar miras alacak.
+{28:11} Zengin kendini bilge sanır, Ama akıllı yoksul onun içini okur.
+{28:12} Doğruların zaferi coşkuyla kutlanır, Ama kötüler egemen olunca insan kaçacak yer arar.
+{28:13} Günahlarını gizleyen başarılı olmaz, İtiraf edip bırakansa merhamet bulur.
+{28:14} Günahtan çekinen ne mutludur! İnatçılık edense belaya düşer.
+{28:15} Yoksul halkı yöneten kötü kişi Kükreyen aslan, saldırgan ayı gibidir.
+{28:16} Gaddar önderin aklı kıttır; Haksız kazançtan nefret edense uzun ömürlü olur.
+{28:17} Adam öldürmekten vicdan azabı çeken, mezara dek kaçacaktır; Kimse ona yardım etmesin.
+{28:18} Alnı ak yaşayan kurtulur, Yolsuzluk yapan ansızın yıkıma uğrar.
+{28:19} Toprağını işleyenin ekmeği bol olur, Hayal peşinde koşansa yoksulluğa doyar.
+{28:20} Güvenilir kişi bolluğa erer, Zengin olmaya can atansa beladan kurtulamaz.
+{28:21} Hatır gözetmek iyi değildir, Çünkü insan bir lokma ekmek için bile suç işler.
+{28:22} Cimri servet peşinde koşar, Yoksulluğa uğrayacağını düşünmez.
+{28:23} Başkasını azarlayan sonunda Pohpohlayandan daha çok beğeni kazanır.
+{28:24} Annesini ya da babasını soymayı günah saymayan, Haydutla birdir.
+{28:25} Açgözlü kavga çıkarır, RAB'be güvenense bolluk içinde yaşar.
+{28:26} Kendine güvenen akılsızdır, Bilgece davranan güvenlikte olur.
+{28:27} Yoksula verenin eksiği olmaz, Yoksulu görmezden gelense bir sürü lanete uğrar.
+{28:28} Kötüler egemen olunca insan kaçacak yer arar, Ama kötüler yok olunca doğrular çoğalır.
+{29:1} Defalarca azarlandığı halde dikbaşlılık eden, Ansızın yıkıma uğrayacak, çare yok.
+{29:2} Doğru kişiler çoğalınca halk sevinir, Kötü kişi hükümdar olunca halk inler.
+{29:3} Bilgeliği seven babasını sevindirir, Fahişelerle dostluk eden malını yitirir.
+{29:4} Adaletle yöneten kral ülkesini ayakta tutar, Rüşvet alansa çökertir.
+{29:5} Başkasını pohpohlayan kişi, Ona tuzak olur.
+{29:6} Kötünün başkaldırısı kendine tuzak olur, Doğru kişiyse ezgi söyler ve sevinir.
+{29:7} Doğru kişi yoksulların hakkını verir, Kötü kişi hak hukuk nedir bilmez.
+{29:8} Alaycı kişiler kentleri bile karıştırır, Bilgelerse öfkeyi yatıştırır.
+{29:9} Bilge kişiyle davası olan ahmak Kızar, alay eder ve rahat vermez.
+{29:10} Kana susamışlar dürüst kişiden nefret eder, Doğrularsa onun canını korur.
+{29:11} Akılsız hep patlamaya hazırdır, Bilgeyse öfkesini dizginler.
+{29:12} Hükümdar yalana kulak verirse, Bütün görevlileri de kötü olur.
+{29:13} Zorbayla yoksulun ortak bir noktası var: İkisinin de gözünü açan RAB'dir.
+{29:14} Yoksulları adaletle yöneten kralın Tahtı hep güvenlikte olur.
+{29:15} Değnekle terbiye bilgelik kazandırır, Kendi haline bırakılan çocuksa annesini utandırır.
+{29:16} Kötüler çoğalınca başkaldırı da çoğalır, Ama doğrular onların düşüşünü görecektir.
+{29:17} Oğlunu terbiye et, o da sana huzur verecek Ve gönlünü hoşnut edecektir.
+{29:18} Tanrısal esinden yoksun olan halk Sınır tanımaz olur. Ne mutlu Kutsal Yasa'yı yerine getirene!
+{29:19} Köle salt sözle terbiye edilemez, Çünkü anlasa da kulak asmaz.
+{29:20} Sözünü tartmadan konuşan birini tanıyor musun? Akılsızın durumu bile onunkinden daha umut vericidir.
+{29:21} Çocukluğundan beri kölesini şımartan, Sonunda cezasını çeker.
+{29:22} Öfkeli kişi çekişme yaratır, Huysuz kişinin başkaldırısı eksik olmaz.
+{29:23} Kibir insanı küçük düşürür, Alçakgönüllülükse onur kazandırır.
+{29:24} Hırsızla ortak olanın düşmanı kendisidir, Mahkemede yemin etse de bildiğini söylemez.
+{29:25} İnsandan korkmak tuzaktır, Ama RAB'be güvenen güvenlikte olur.
+{29:26} Hükümdarın gözüne girmek isteyen çoktur, Ama RAB'dir insana adalet sağlayan.
+{29:27} Doğrular haksızlardan iğrenir, Kötüler de dürüst yaşayanlardan.
+{i30:1} Agur'un Özdeyişleri
+{30:1} Massalı Yake oğlu Agur'un sözleri: Bu adam şöyle diyor: “Yoruldum, ey Tanrım, yoruldum ve tükendim.
+{30:2} Gerçekten ben insanların en cahiliyim, Bende insan aklı yok.
+{30:3} Bilgeliği öğrenmedim, Kutsal Olan'a ilişkin bilgiden de yoksunum.
+{30:4} Kim göklere çıkıp indi? Kim yeli avuçlarında topladı? Suları giysisiyle sarıp sarmalayan kim? Kim belirledi dünyanın sınırlarını? Adı nedir, oğlunun adı nedir, biliyorsan söyle!
+{30:5} Tanrı'nın her sözü güvenilirdir, O kendisine sığınan herkese kalkandır.
+{30:6} O'nun sözüne bir şey katma, Yoksa seni azarlar, yalancı çıkarsın.
+{30:7} Ey Tanrı, iki şey diledim senden: Ben ölmeden bunları esirgeme benden.
+{30:8} Sahtekârlığı, yalanı benden uzak tut, Bana ne yoksulluk ne de zenginlik ver; Payıma düşen ekmeği ver, yeter.
+{30:9} Yoksa bolluktan, ‘Kimmiş RAB?’ diye seni yadsır, Ya da yoksulluktan çalar Ve Tanrım'ın adını lekelemiş olurum.
+{30:10} “Köleyi efendisine çekiştirme, Yoksa sana lanet eder, sen de suçlu çıkarsın.
+{30:11} Öyleleri var ki, babalarına lanet eder, Annelerine değer vermezler.
+{30:12} Öyleleri var ki, kendilerini tertemiz sanırlar, Oysa kötülüklerinden arınmış değiller.
+{30:13} Öyleleri var ki, kendilerinden üstün kimse yok sanır, Herkese tepeden bakarlar.
+{30:14} Öyleleri var ki, dişleri kılıç, çeneleri bıçaktır, Mazlumlarla yoksulları yutup yeryüzünden yok ederler.
+{30:15} Sülüğün iki kızı vardır, adları ‘Ver, ver’ dir. Hiç doymayan üç şey, ‘Yeter’ demeyen dört şey vardır:
+{30:16} Ölüler diyarı, kısır rahim, Suya doymayan toprak ve ‘Yeter’ demeyen ateş.
+{30:17} Babasıyla alay edenin, annesinin sözünü hor görenin Gözünü vadideki kargalar oyacak; O akbabalara yem olacak.
+{30:18} Aklımın ermediği üç şey, Anlamadığım dört şey var:
+{30:19} Kartalın gökyüzünde, Yılanın kayada, Geminin denizde izlediği yol Ve erkeğin genç kızla tuttuğu yol.
+{30:20} Zina eden kadının yolu da şöyledir: Yer, ağzını siler, Sonra da, ‘Suç işlemedim’ der.
+{30:21} Yeryüzü üç şeyin altında sarsılır; Katlanamadığı dört şey vardır:
+{30:22} Kölenin kral olması, Budalanın doyması,
+{30:23} Nefret edilen kadının evlenmesi Ve hizmetçinin hanımının yerine geçmesi.
+{30:24} “Dünyada dört küçük yaratık var ki, Çok bilgece davranırlar:
+{30:25} Karıncalar güçlü olmayan bir topluluktur, Ama yiyeceklerini yazdan biriktirirler.
+{30:26} Kaya tavşanları da güçsüz bir topluluktur, Ama yuvalarını kaya kovuklarında yaparlar.
+{30:27} Çekirgelerin kralı yoktur, Ama bölük bölük ilerlerler.
+{30:28} Kertenkele elle bile yakalanır, Ama kral saraylarında bulunur.
+{30:29} “Yürüyüşü gösterişli üç yaratık, Davranışı gösterişli dört yaratık var:
+{30:30} Hayvanların en güçlüsü olan Ve hiçbir şeyin önünde pes etmeyen aslan,
+{30:31} Tazı, teke Ve ordusunun başındaki kral.
+{30:32} “Eğer budala gibi kendini yücelttinse Ya da kötülük tasarladınsa, Dur ve düşün!
+{30:33} Çünkü nasıl sütü dövünce tereyağı, Burnu sıkınca kan çıkarsa, Öfkeyi kurcalayınca da kavga çıkar.”
+{i31:1} Lemuel'in Özdeyişleri
+{31:1} Massa Kralı Lemuel'in sözleri, Annesinin ona öğrettikleri:
+{31:2} “Oğlum, rahmimin ürünü, ne diyeyim? Adaklarımın yanıtı oğlum, ne diyeyim?
+{31:3} Gücünü kadınlara, Gençliğini kralları mahvedenlere kaptırma!
+{31:4} “Şarap içmek krallara yakışmaz, ey Lemuel, Krallara yakışmaz! İçkiyi özlemek hükümdarlara yaraşmaz.
+{31:5} Çünkü içince kuralları unutur, Mazlumun hakkını yerler.
+{31:6} İçkiyi çaresize, Şarabı kaygı çekene verin.
+{31:7} İçsin ki yoksulluğunu unutsun, Artık sefaletini anmasın.
+{31:8} Ağzını hakkını savunamayan için, Kimsesizin davasını gütmek için aç.
+{31:9} Ağzını aç ve adaletle yargıla, Mazlumun, yoksulun hakkını savun.”
+{i31:10} Erdemli Kadın 31:10-31 ayetleri akrostiş biçimde yazılmıştır. Yani her satır sırayla İbranice alfabenin değişik bir harfiyle başlar.
+{31:10} Erdemli kadını kim bulabilir? Onun değeri mücevherden çok üstündür.
+{31:11} Kocası ona yürekten güvenir Ve kazancı eksilmez.
+{31:12} Kadın ona kötülükle değil, Yaşamı boyunca iyilikle karşılık verir.
+{31:13} Yün, keten bulur, Zevkle elleriyle işler.
+{31:14} Ticaret gemileri gibidir, Yiyeceğini uzaktan getirir.
+{31:15} Gün ağarmadan kalkar, Ev halkına yiyecek, hizmetçilerine paylarını verir.
+{31:16} Bir tarlayı gözüne kestirip satın alır, El emeğiyle kazandığı parayla bağ diker.
+{31:17} Giyinip kollarını sıvar, Canla başla çalışır.
+{31:18} Ticaretinin kârlı olduğunu bilir, Çırası gece boyunca yanar.
+{31:19} Eliyle örekeyi tutar, Avucunda iği tutar.
+{31:20} Mazluma kollarını açar, Yoksula elini uzatır.
+{31:21} Kar yağınca ev halkı için kaygılanmaz, Çünkü hepsinin iki kat giysisi vardır.
+{31:22} Yatak örtüleri dokur, Kendi giysileri ince mor ketendendir.
+{31:23} Kocası ülkenin ileri gelenleriyle oturup kalkar, Kent kurulunda iyi tanınır.
+{31:24} Kadın diktiği keten giysilerle Ördüğü kuşakları tüccara satar.
+{31:25} Güç ve onurla kuşanmıştır, Geleceğe güvenle bakar.
+{31:26} Ağzından bilgelik akar, Dili iyilik öğütler.
+{31:27} Ev halkının işlerini yönetir, Tembellik nedir bilmez.
+{31:28} Çocukları önünde ayağa kalkıp onu kutlar, Kocası onu över.
+{31:29} “Soylu işler yapan çok kadın var, Ama sen hepsinden üstünsün” der.
+{31:30} Çekicilik aldatıcı, güzellik boştur; Ama RAB'be saygılı kadın övülmeye layıktır.
+{31:31} Ellerinin hak ettiğini verin kendisine, Yaptıkları için kent kurulunda övülsün.

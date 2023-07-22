@@ -1,0 +1,240 @@
+{i1:1} Her Şey Bomboş
+{1:1} Bunlar Yeruşalim'de krallık yapan Davut oğlu Vaiz'in sözleridir:
+{1:2} “Her şey boş, bomboş, bomboş!” diyor Vaiz.
+{1:3} Ne kazancı var insanın Güneşin altında harcadığı onca emekten?
+{1:4} Kuşaklar gelir, kuşaklar geçer, Ama dünya sonsuza dek kalır.
+{1:5} Güneş doğar, güneş batar, Hep doğduğu yere koşar.
+{1:6} Rüzgar güneye gider, kuzeye döner, Döne döne eserek Hep aynı yolu izler.
+{1:7} Bütün ırmaklar denize akar, Yine de deniz dolmaz. Irmaklar hep çıktıkları yere döner.
+{1:8} Her şey yorucu, Sözcüklerle anlatılamayacak kadar. Göz görmekle doymuyor, Kulak işitmekle dolmuyor.
+{1:9} Önce ne olduysa, yine olacak. Önce ne yapıldıysa, yine yapılacak. Güneşin altında yeni bir şey yok.
+{1:10} Var mı kimsenin, “Bak bu yeni!” diyebileceği bir şey? Her şey çoktan, bizden yıllar önce de vardı.
+{1:11} Geçmiş kuşaklar anımsanmıyor, Gelecek kuşaklar da kendilerinden sonra gelenlerce anımsanmayacak.
+{i1:12} Bilgelik Boştur
+{1:12} Ben Vaiz, Yeruşalim'de İsrail kralıyken
+{1:13} kendimi göklerin altında yapılan her şeyi bilgece araştırıp incelemeye adadım. Tanrı'nın uğraşsınlar diye insanlara verdiği çetin bir zahmettir bu.
+{1:14} Güneşin altında yapılan bütün işleri gördüm; hepsi boştur, rüzgarı kovalamaya kalkışmaktır!
+{1:15} Eğri olan doğrultulamaz, eksik olan sayılamaz.
+{1:16} Kendi kendime, “İşte, bilgeliğimi benden önce Yeruşalim'de krallık yapan herkesten çok artırdım” dedim, “Alabildiğine bilgi ve bilgelik edindim.”
+{1:17} Kendimi bilgi ve bilgeliği, deliliği ve akılsızlığı anlamaya adadım. Gördüm ki, bu da yalnızca rüzgarı kovalamaya kalkışmakmış.
+{1:18} Çünkü çok bilgelik çok keder doğurur, bilgi arttıkça acı da artar.
+{i2:1} Zevklerin Anlamsızlığı
+{2:1} Kendi kendime, “Gel, zevki tat. İyi mi, değil mi, gör” dedim. Ama gördüm ki, o da boş.
+{2:2} Gülmeye, “Delilik”, zevke, “Ne işe yarar?” dedim.
+{2:3} İnsanların göklerin altında geçirdiği birkaç günlük ömürleri boyunca, yapacakları iyi bir şey olup olmadığını görünceye dek, bilgeliğimin önderliğinde, bedenimi şarapla nasıl canlandırayım, akılsızlığı nasıl ele alayım diye düşündüm durdum.
+{2:4} Büyük işlere girdim. Kendime evler inşa ettim, bağlar diktim.
+{2:5} Bahçeler, parklar yaptım, oralara türlü türlü meyve ağaçları diktim.
+{2:6} Dal budak salan orman ağaçlarını sulamak için havuzlar yaptım.
+{2:7} Kadın, erkek köleler satın aldım; evimde doğan kölelerim de vardı. Ayrıca benden önce Yeruşalim'de yaşayan herkesten çok sığıra, davara sahip oldum.
+{2:8} Altın, gümüş biriktirdim; kralların, illerin hazinelerini topladım. Kadın, erkek şarkıcılar ve erkeklerin özlemi olan bir harem edindim.
+{2:9} Böylece büyük üne kavuştum, benden önce Yeruşalim'de yaşayanların hepsini aştım. Bilgeliğimden de bir şey yitirmedim.
+{2:10} Gözümün dilediği hiçbir şeyi kendimden esirgemedim. Gönlümü hiçbir zevkten alıkoymadım. Yaptığım her işten zevk aldı gönlüm. Bütün emeğimin ödülü bu oldu.
+{2:11} Yaptığım bütün işlere, Çektiğim bütün emeklere bakınca, Gördüm ki, hepsi boş ve rüzgarı kovalamaya kalkışmakmış. Güneşin altında hiçbir kazanç yokmuş.
+{i2:12} Bilgelik Akılsızlıktan Üstündür
+{2:12} Sonra bilgelik, delilik, akılsızlık nedir diye baktım; Çünkü kralın yerine geçecek kişi Zaten yapılanın ötesinde ne yapabilir ki?
+{2:13} Işığın karanlıktan üstün olduğu gibi Bilgeliğin de akılsızlıktan üstün olduğunu gördüm.
+{2:14} Bilge nereye gittiğini görür, Ama akılsız karanlıkta yürür. İkisinin de aynı sonu paylaştığını gördüm.
+{2:15} “Akılsızın başına gelen, benim de başıma gelecek” Dedim kendi kendime, “Öyleyse kazancım ne bilgelikten?” “Bu da boş” dedim içimden.
+{2:16} Çünkü akılsız gibi, bilge de uzun süre anılmaz, Gelecekte ikisi de unutulur. Nitekim bilge de akılsız gibi ölür!
+{i2:17} Çalışmanın Anlamsızlığı
+{2:17} Böylece hayattan nefret ettim. Çünkü güneşin altında yapılan iş çetindi bence. Her şey boş ve rüzgarı kovalamaya kalkışmakmış.
+{2:18} Güneşin altında harcadığım bütün emekten nefret ettim. Çünkü her şeyi benden sonra gelecek olana bırakmak zorundayım.
+{2:19} Kim bilir, bilge mi olacak, akılsız mı? Güneşin altında bilgeliğimi kullanarak harcadığım bütün emek üzerinde saltanat sürecek. Bu da boş.
+{2:20} Bu yüzden güneşin altında harcadığım onca emeğe üzülmeye başladım.
+{2:21} Çünkü biri bilgelik, bilgi ve beceriyle çalışır, sonunda her şeyini hiç emek vermemiş başka birine bırakmak zorunda kalır. Bu da boş ve büyük bir hüsrandır.
+{2:22} Çünkü ne kazancı var adamın, güneşin altında harcadığı bunca emekten, bunca kafa yormaktan?
+{2:23} Günler boyunca çektiği zahmet acı ve dert doğurur. Gece bile içi rahat etmez. Bu da boş.
+{2:24} İnsan için yemekten, içmekten ve yaptığı işten zevk almaktan daha iyi bir şey yoktur. Gördüm ki, bu da Tanrı'dandır.
+{2:25} O'nsuz kim yiyebilir, kim zevk alabilir?
+{2:26} Çünkü Tanrı bilgiyi, bilgeliği, sevinci hoşnut kaldığı insana verir. Günahkâra ise, yığma, biriktirme zahmeti verir; biriktirdiklerini Tanrı'nın hoşnut kaldığı insanlara bıraksın diye. Bu da boş ve rüzgarı kovalamaya kalkışmakmış.
+{i3:1} Her Şeyin Zamanı Var
+{3:1} Her şeyin mevsimi, göklerin altındaki her olayın zamanı vardır.
+{3:2} Doğmanın zamanı var, ölmenin zamanı var. Dikmenin zamanı var, sökmenin zamanı var.
+{3:3} Öldürmenin zamanı var, şifa vermenin zamanı var. Yıkmanın zamanı var, yapmanın zamanı var.
+{3:4} Ağlamanın zamanı var, gülmenin zamanı var. Yas tutmanın zamanı var, oynamanın zamanı var.
+{3:5} Taş atmanın zamanı var, taş toplamanın zamanı var. Kucaklaşmanın zamanı var, kucaklaşmamanın zamanı var.
+{3:6} Aramanın zamanı var, vazgeçmenin zamanı var. Saklamanın zamanı var, atmanın zamanı var.
+{3:7} Yırtmanın zamanı var, dikmenin zamanı var. Susmanın zamanı var, konuşmanın zamanı var.
+{3:8} Sevmenin zamanı var, nefret etmenin zamanı var. Savaşın zamanı var, barışın zamanı var.
+{3:9} Çalışanın harcadığı emekten ne kazancı var?
+{3:10} Tanrı'nın uğraşsınlar diye insanlara verdiği zahmeti gördüm.
+{3:11} O her şeyi zamanında güzel yaptı. İnsanların yüreğine sonsuzluk kavramını koydu. Yine de insan Tanrı'nın yaptığı işi başından sonuna dek anlayamaz.
+{3:12} İnsan için yaşamı boyunca mutlu olmaktan, iyi yaşamaktan daha iyi bir şey olmadığını biliyorum.
+{3:13} Her insanın yiyip içmesi, yaptığı her işle doyuma ulaşması bir Tanrı armağanıdır.
+{3:14} Tanrı'nın yaptığı her şeyin sonsuza dek süreceğini biliyorum. Ona ne bir şey eklenebilir ne de ondan bir şey çıkarılabilir. Tanrı insanların kendisine saygı duymaları için bunu yapıyor.
+{3:15} Şimdi ne oluyorsa, geçmişte de oldu, Ne olacaksa, daha önce de olmuştur. Tanrı geçmiş olayların hesabını soruyor.
+{3:16} Güneşin altında bir şey daha gördüm: Adaletin ve doğruluğun yerini kötülük almış.
+{3:17} İçimden “Tanrı doğruyu da, kötüyü de yargılayacaktır” dedim, “Çünkü her olayın, her eylemin zamanını belirledi.”
+{3:18} İnsanlara gelince, “Tanrı hayvan olduklarını görsünler diye insanları sınıyor” diye düşündüm.
+{3:19} Çünkü insanların başına gelen hayvanların da başına geliyor. Aynı sonu paylaşıyorlar. Biri nasıl ölüyorsa, öbürü de öyle ölüyor. Hepsi aynı soluğu taşıyor. İnsanın hayvandan üstünlüğü yoktur. Çünkü her şey boş.
+{3:20} İkisi de aynı yere gidiyor; topraktan gelmiş, toprağa dönüyor.
+{3:21} Kim biliyor insan ruhunun yukarıya çıktığını, hayvan ruhunun aşağıya, yeraltına indiğini?
+{3:22} Sonuçta insanın yaptığı işten zevk almasından daha iyi bir şey olmadığını gördüm. Çünkü onun payına düşen budur. Kendisinden sonra olacakları görmesi için kim onu geri getirebilir?
+{i4:1} Dünyadaki Eziyetler
+{4:1} Güneşin altında yapılan baskılara bir daha baktım, Ezilenlerin gözyaşlarını gördüm; Avutanları yok, Güç ezenlerden yana, Avutanları yok.
+{4:2} Çoktan ölmüş ölüleri, Hâlâ sağ olan yaşayanlardan daha mutlu gördüm.
+{4:3} Ama henüz doğmamış, Güneşin altında yapılan kötülükleri görmemiş olan İkisinden de mutludur.
+{4:4} Harcanan her emeğin, yapılan her ustaca işin ardında kıskançlık olduğunu gördüm. Bu da boş ve rüzgarı kovalamaya kalkışmakmış.
+{4:5} Akılsız ellerini kavuşturup kendi kendini yer.
+{4:6} Rahat kazanılan bir avuç dolusu Zahmetle, rüzgarı kovalamaya kalkışarak kazanılan İki avuç dolusundan daha iyidir.
+{i4:7} Yalnızlığın Anlamsızlığı
+{4:7} Güneşin altında bir boş şey daha gördüm:
+{4:8} Yalnız bir adam vardı, Oğlu da kardeşi de yoktu. Çabaları dinmek nedir bilmezdi, Gözü zenginliğe doymazdı. “Kimin için çalışıyorum, Neden kendimi zevkten yoksun bırakıyorum?” diye sormazdı. Bu da boş ve çetin bir zahmettir.
+{4:9} İki kişi bir kişiden iyidir, Çünkü emeklerine iyi karşılık alırlar.
+{4:10} Biri düşerse, öteki kaldırır. Ama yalnız olup da düşenin vay haline! Onu kaldıran olmaz.
+{4:11} Ayrıca iki kişi birlikte yatarsa, birbirini ısıtır. Ama tek başına yatan nasıl ısınabilir?
+{4:12} Yalnız biri yenik düşer, Ama iki kişi direnebilir. Üç kat iplik kolay kolay kopmaz.
+{i4:13} Yükselmenin Anlamsızlığı
+{4:13} Yoksul ama bilge bir genç artık öğüt almayı bilmeyen kocamış akılsız kraldan iyidir.
+{4:14} Çünkü genç, ülkesinde yoksulluk içinde doğsa bile cezaevinden krallığa yükselebilir.
+{4:15} Güneşin altında yaşayan herkesin kralın yerine geçen genci izlediğini gördüm.
+{4:16} Yeni kralın yönettiği halk sayısız olabilir. Yine de sonrakiler ondan hoşnut olmayabilir. Gerçekten bu da boş ve rüzgarı kovalamaya kalkışmaktır.
+{i5:1} Tanrı'ya Karşı Tutumumuz
+{5:1} Tanrı'nın evine gittiğinde davranışına dikkat et. Yaptıkları kötülüğün farkında olmayan akılsızlar gibi kurban sunmak için değil, dinlemek için yaklaş.
+{5:2} Ağzını çabuk açma, Tanrı'nın önünde hemen konuya girme, Çünkü Tanrı gökte, sen yerdesin, Bu yüzden, az konuş.
+{5:3} Çok tasa kötü düş, Çok söz akılsızlık doğurur.
+{5:4} Tanrı'ya adak adayınca, yerine getirmekte gecikme. Çünkü O akılsızlardan hoşlanmaz. Adağını yerine getir!
+{5:5} Adamamak, adayıp da yerine getirmemekten iyidir.
+{5:6} Ağzının seni günaha sürüklemesine izin verme. Ulağın önünde: “Adağım yanlıştı” deme. Tanrı niçin senin sözlerine öfkelensin, yaptığın işi yok etsin?
+{5:7} Çünkü çok düş kurmak hayalciliğe ve laf kalabalığına yol açar; Tanrı'ya saygı göster.
+{i5:8} Zenginliğin Anlamsızlığı
+{5:8} Bir yerde yoksullara baskı yapıldığını, adaletin ve doğruluğun çiğnendiğini görürsen şaşma; çünkü üstü gözeten daha üst biri var, onların da üstleri var.
+{5:9} Tarlaların sürülmesini isteyen bir kral ülke için her bakımdan yararlıdır.
+{5:10} Parayı seven paraya doymaz, Zenginliği seven kazancıyla yetinmez. Bu da boştur.
+{5:11} Mal çoğaldıkça yiyeni de çoğalır. Sahibine ne yararı var, seyretmekten başka?
+{5:12} Az yesin, çok yesin işçi rahat uyur, Ama zenginin malı zengini uyutmaz.
+{5:13} Güneşin altında acı bir kötülük gördüm: Sahibinin zararına biriktirilen Ve bir talihsizlikle yok
+{5:14} olup giden servet. Böyle bir servet sahibi baba olsa bile, Oğluna bir şey bırakamaz.
+{5:15} Annesinin rahminden çıplak çıkar insan. Dünyaya nasıl geldiyse öyle gider, Emeğinden hiçbir şey götürmez elinde.
+{5:16} Dünyaya nasıl geldiyse öyle gider insan. Bu da acı bir kötülüktür. Ne kazancı var yel için zahmet çekmekten?
+{5:17} Ömrü boyunca büyük üzüntü, hastalık, öfke içinde Karanlıkta yiyor.
+{5:18} Gördüm ki, iyi ve güzel olan şu: Tanrı'nın insana verdiği birkaç günlük ömür boyunca yemek, içmek, güneşin altında harcadığı emekten zevk almak. Çünkü insanın payına düşen budur.
+{5:19} Üstelik Tanrı bir insana mal mülk veriyor, onu yemesi, ödülünü alması, yaptığı işten mutluluk duyması için ona güç veriyorsa, bu bir Tanrı armağanıdır.
+{5:20} Bu yüzden insan, geçen ömrünü pek düşünmez. Çünkü Tanrı onun yüreğini mutlulukla meşgul eder.
+{6:1} Güneşin altında insana ağır gelen bir kötülük gördüm:
+{6:2} Adam vardır, Tanrı kendisine mal, mülk, saygınlık verir, yerine gelmeyecek isteği yoktur. Ama Tanrı yemesine izin vermez; bir yabancı yer. Bu da boş ve acı bir derttir.
+{6:3} Bir adam yüz çocuk babası olup uzun yıllar yaşamış, ama uzun ömrüne karşılık, zenginliğin tadını çıkaramamış, bir mezara bile gömülmemişse, düşük çocuk ondan iyidir derim.
+{6:4} Çünkü düşük çocuk boş yere doğuyor, karanlık içinde geçip gidiyor, adı karanlığa gömülüyor.
+{6:5} Ne güneş yüzü görüyor, ne de bir şey tanıyor. Öbür adam iki kez biner
+{6:6} yıl yaşasa bile mutluluk duymaz, düşük çocuk ondan rahattır. Hepsi aynı yere gitmiyor mu?
+{6:7} İnsan hep boğazı için çalışır, Yine de doymaz.
+{6:8} Bilgenin akılsızdan ne üstünlüğü var? Yoksul başkasına nasıl davranacağını bilmekle ne yarar sağlar?
+{6:9} Gözün gördüğü gönlün çektiğinden iyidir. Bu da boş ve rüzgarı kovalamaya kalkışmaktır.
+{6:10} Ne varsa, adı çoktan konmuştur, İnsanın da ne olduğu biliniyor. Kimse kendinden güçlü olanla çekişemez.
+{6:11} Söz çoğaldıkça anlam azalır, Bunun kime yararı olur?
+{6:12} Çünkü gölge gibi gelip geçen kısa ve boş ömründe insana neyin yararlı olduğunu kim bilebilir? Bir adama kendisinden sonra güneşin altında neler olacağını kim söyleyebilir?
+{i7:1} Bilgelik
+{7:1} İyi ad hoş kokulu yağdan, Ölüm günü doğum gününden iyidir.
+{7:2} Yas evine gitmek, şölen evine gitmekten iyidir. Çünkü her insanın sonu ölümdür, Yaşayan herkes bunu aklında tutmalı.
+{7:3} Üzüntü gülmekten iyidir, Çünkü yüz mahzun olunca yürek sevinir.
+{7:4} Bilge kişinin aklı yas evindedir, Akılsızın aklıysa şenlik evinde.
+{7:5} Bilgenin azarını işitmek, Akılsızın türküsünü işitmekten iyidir.
+{7:6} Çünkü akılsızın gülmesi, Kazanın altındaki çalıların çatırtısı gibidir. Bu da boştur.
+{7:7} Haksız kazanç bilgeyi delirtir, Rüşvet karakteri bozar.
+{7:8} Bir olayın sonu başlangıcından iyidir. Sabırlı kibirliden iyidir.
+{7:9} Çabuk öfkelenme, Çünkü öfke akılsızların bağrında barınır.
+{7:10} “Neden geçmiş günler bugünlerden iyiydi?” diye sorma, Çünkü bu bilgece bir soru değil.
+{7:11} Bilgelik miras kadar iyidir, Güneşi gören herkes için yararlıdır.
+{7:12} Bilgelik siperdir, para da siper, Bilginin yararı ise şudur: Bilgelik ona sahip olan kişinin yaşamını korur.
+{7:13} Tanrı'nın yaptığını düşün: O'nun eğrilttiğini kim doğrultabilir?
+{7:14} İyi günde mutlu ol, Ama kötü günde dikkatle düşün; Tanrı birini öbürü gibi yaptı ki, İnsan kendisinden sonra neler olacağını bilmesin.
+{7:15} Boş ömrümde şunları gördüm: Doğru insan doğruluğuna karşın ölüyor, Kötü insanın ise, kötülüğüne karşın ömrü uzuyor.
+{7:16} Ne çok doğru ol ne de çok bilge. Niçin kendini yok edesin?
+{7:17} Ne çok kötü ol ne de akılsız. Niçin vaktinden önce ölesin?
+{7:18} Birini tutman iyidir, Öbüründen de elini çekme. Çünkü Tanrı'ya saygı duyan ikisini de başarır.
+{7:19} Bilgelik, bilge kişiyi kentteki on yöneticiden daha güçlü kılar.
+{7:20} Çünkü yeryüzünde hep iyilik yapan, Hiç günah işlemeyen doğru insan yoktur.
+{7:21} İnsanların söylediği her söze aldırma, Yoksa uşağının bile sana sövdüğünü duyabilirsin.
+{7:22} Çünkü sen de birçok kez Başkalarına sövdüğünü pekâlâ biliyorsun.
+{7:23} Bütün bunları bilgelikle denedim: “Bilge olacağım” dedim. Ama bu beni aşıyordu.
+{7:24} Bilgelik denen şey Uzak ve çok derindir, onu kim bulabilir?
+{7:25} Böylece, bilgelik ve çözüm aramaya, incelemeye, kavramaya, Kötülüğün akılsızlık, akılsızlığın delilik olduğunu anlamaya kafa yordum.
+{7:26} Kimi kadını ölümden acı buldum. O kadın ki, kendisi tuzak, yüreği kapan, elleri zincirdir. Tanrı'nın hoşnut kaldığı insan ondan kaçar, Günah işleyense ona tutsak olur.
+{7:27} Vaiz diyor ki, “Şunu gördüm: Bir çözüm bulmak için Bir şeyi öbürüne eklerken
+{7:28} –Araştırıp hâlâ bulamazken– Binde bir adam buldum, Ama aralarında bir kadın bulamadım.
+{7:29} Bulduğum tek şey: Tanrı insanları doğru yarattı, Oysa onlar hâlâ karmaşık çözümler arıyorlar.”
+{8:1} Bilge insan gibisi var mı? Kim olup bitenlerin anlamını bilebilir? Bilgelik insanın yüzünü aydınlatır, Sert görünüşünü değiştirir.
+{i8:2} Kralı Dinle
+{8:2} Kralın buyruğuna uy, diyorum. Çünkü Tanrı'nın önünde ant içtin.
+{8:3} Kralın huzurundan ayrılmak için acele etme. Kötülüğe bulaşma. Çünkü o dilediği her şeyi yapar.
+{8:4} Kralın sözünde güç vardır. Kim ona, “Ne yapıyorsun?” diyebilir?
+{8:5} Onun buyruğuna uyan zarar görmez. Bilge kişi bunun zamanını ve yolunu bilir.
+{8:6} Çünkü her işin bir zamanı ve yolu vardır. İnsanın derdi kendine yeter.
+{8:7} Kimse geleceği bilmez, Kim kime geleceği bildirebilir?
+{8:8} Rüzgarı tutup ona egemen olmaya kimsenin gücü yetmediği gibi, Ölüm gününe egemen olmaya da kimsenin gücü yetmez. Savaştan kaçış olmadığı gibi, kötülük de sahibini kurtaramaz.
+{8:9} Bütün bunları gördüm ve güneşin altında yapılan her iş üzerinde kafa yordum. Gün gelir, insanın insana egemenliği kendine zarar verir.
+{8:10} Bir de kötülerin gömüldüğünü gördüm. Kutsal yere girip çıkar, kötülük yaptıkları kentte övülürlerdi. Bu da boş.
+{8:11} Suçlu çabuk yargılanmazsa, insanlar kötülük etmek için cesaret bulur.
+{8:12} Günahlı yüz kez kötülük edip uzun yaşasa bile, Tanrı'dan korkanların, O'nun önünde saygıyla duranların iyilik göreceğini biliyorum.
+{8:13} Oysa kötü, Tanrı'dan korkmadığı için iyilik görmeyecek, gölge gibi olan ömrü uzamayacaktır.
+{8:14} Yeryüzünde boş bir şey daha var: Kötülerin hak ettiği doğruların, doğruların hak ettiğiyse kötülerin başına geliyor. Bu da boş, diyorum.
+{8:15} Mutluluğu övgüye değer buldum. Çünkü güneşin altında insan için yiyip içmekten, mutlu olmaktan daha iyi bir şey yoktur. Çünkü Tanrı'nın güneşin altında kendisine verdiği ömür boyunca çektiği zahmetten insana kalacak olan budur.
+{8:16} Bilgeliği ve dünyada çekilen zahmeti anlamak için kafamı yorunca –öyleleri var ki, gece gündüz gözüne uyku girmez–
+{8:17} Tanrı'nın yaptığı her şeyi gördüm. İnsan güneşin altında olup bitenleri keşfedemez. Arayıp bulmak için ne kadar çaba harcarsa harcasın, yine de anlamını bulamaz. Bilge kişi anladığını söylese bile gerçekten kavrayamaz.
+{i9:1} İnsanlar Tanrı'nın Elindedir
+{9:1} Böylece bütün bunları düşünüp taşındım ve şu sonuca vardım: Doğrular, bilgeler ve yaptıkları her şey Tanrı'nın elindedir. Onları sevginin mi, nefretin mi beklediğini kimse bilmez.
+{9:2} Herkesin başına aynı şey geliyor. Doğrunun, iyinin, kötünün, temizin, kirlinin, kurban sunanla sunmayanın başına gelen şey aynı. İyi insana ne oluyorsa, günahlıya da oluyor; Ant içene ne oluyorsa, ant içmekten korkana da aynısı oluyor.
+{9:3} Güneşin altında yapılan işlerin tümünün kötü yanı şu ki, herkesin başına aynı şey geliyor. Üstelik insanların içi kötülük doludur, yaşadıkları sürece içlerinde delilik vardır. Ardından ölüp gidiyorlar.
+{9:4} Yaşayanlar arasındaki herkes için umut vardır. Evet, sağ köpek ölü aslandan iyidir!
+{9:5} Çünkü yaşayanlar öleceğini biliyor, Ama ölüler hiçbir şey bilmiyor. Onlar için artık ödül yoktur, Anıları bile unutulmuştur.
+{9:6} Sevgileri, nefretleri, Kıskançlıkları çoktan bitmiştir. Güneşin altında yapılanlardan Bir daha payları olmayacaktır.
+{9:7} Git, sevinçle ekmeğini ye, neşeyle şarabını iç. Çünkü yaptıkların baştan beri Tanrı'nın hoşuna gitti.
+{9:8} Giysilerin hep ak olsun. Başından zeytinyağı eksilmesin.
+{9:9} Güneşin altında Tanrı'nın sana verdiği boş ömrün bütün günlerini, bütün anlamsız günlerini sevdiğin karınla güzel güzel yaşayarak geçir. Çünkü hayattan ve güneşin altında harcadığın emekten payına düşecek olan budur.
+{9:10} Çalışmak için eline ne geçerse, var gücünle çalış. Çünkü gitmekte olduğun ölüler diyarında iş, tasarı, bilgi ve bilgelik yoktur.
+{9:11} Güneşin altında bir şey daha gördüm: Yarışı hızlı koşanlar, Savaşı yiğitler, Ekmeği bilgeler, Serveti akıllılar, Beğeniyi bilgililer kazanmaz. Ama zaman ve şans hepsinin önüne çıkar.
+{9:12} Dahası insan kendi vaktini bilmez: Balığın acımasız ağa, kuşun kapana düştüğü gibi, İnsanlar da üzerlerine ansızın çöken kötü zamana yakalanırlar.
+{i9:13} Bilgelik Akılsızlıktan İyidir
+{9:13} Güneşin altında bilgelik olarak şunu da gördüm, beni çok etkiledi:
+{9:14} Çok az insanın yaşadığı küçük bir kent vardı. Güçlü bir kral saldırıp onu kuşattı. Karşısına büyük rampalar kurdu.
+{9:15} Kentte yoksul ama bilge bir adam vardı. Bilgeliğiyle kenti kurtardı. Ne var ki, kimse bu yoksul adamı anmadı.
+{9:16} Bunun üzerine, “Bilgelik güçten iyidir” dedim, “Ne yazık ki, yoksul insanın bilgeliği küçümseniyor, söyledikleri dikkate alınmıyor.”
+{9:17} Bilgenin sessizce söylediği sözler, Akılsızlar arasındaki önderin bağırışından iyidir.
+{9:18} Bilgelik silahtan iyidir, Ama bir deli çıkar, her şeyi berbat eder.
+{10:1} Ölü sinekler attarın ıtırını kokutur. Biraz aptallık da bilgeliği ve saygınlığı bastırır.
+{10:2} Bilgenin yüreği hep doğruya eğilimlidir, Akılsızın ise, hep yanlışa.
+{10:3} Yolda yürürken bile akılsızın aklı kıttır, Akılsız olduğunu herkese gösterir.
+{10:4} Yöneticinin öfkesi sana karşı alevlenirse, Yerinden ayrılma; Çünkü serinkanlılık büyük yanlışları bastırır.
+{10:5} Güneşin altında gördüğüm bir haksızlık var, Yöneticiden kaynaklanan bir yanlışı andırıyor:
+{10:6} Zenginler düşük makamlarda otururken, Aptallar yüksek makamlara atanıyor.
+{10:7} Köleleri at sırtında, Önderleri yerde köleler gibi yürürken gördüm.
+{10:8} Çukur kazan içine kendi düşer, Duvarda gedik açanı yılan sokar.
+{10:9} Taş çıkaran taştan incinir, Odun yaran tehlikeye girer.
+{10:10} Balta körse, ağzı bilenmemişse, Daha çok güç gerektirir; Ama bilgelik başarı doğurur.
+{10:11} Yılan büyü yapılmadan önce sokarsa, Büyücünün yararı olmaz.
+{10:12} Bilgenin ağzından çıkan sözler benimsenir, Oysa akılsız kendi ağzıyla yıkımına yol açar.
+{10:13} Sözünün başı aptallık, Sonu zırdeliliktir.
+{10:14} Akılsız konuştukça konuşur. Kimse ne olacağını bilmez. Kim ona kendisinden sonra ne olacağını bildirebilir?
+{10:15} Akılsızın emeği kendini öylesine yıpratır ki, Kente bile nasıl gideceğini bilemez.
+{10:16} Kralın bir çocuksa, Önderlerin sabah şölen veriyorsa, vay sana, ey ülke!
+{10:17} Kralın soyluysa, Önderlerin sarhoşluk için değil Güçlenmek için vaktinde yemek yiyorsa, ne mutlu sana, ey ülke!
+{10:18} Tembellikten dam çöker, Miskinlikten çatı akar.
+{10:19} Şölen eğlenmek için yapılır, Şarap yaşama sevinç katar, Paraysa her ihtiyacı karşılar.
+{10:20} İçinden bile krala sövme, Yatak odanda zengine lanet etme, Çünkü gökte uçan kuşlar haber taşır, Kanatlı varlıklar söylediğini aktarır.
+{i11:1} İyilik Yap, Denize At
+{11:1} Ekmeğini suya at, Çünkü günler sonra onu bulursun.
+{11:2} Yedi, hatta sekiz kişiye pay ver, Çünkü ülkenin başına ne felaket geleceğini bilemezsin.
+{11:3} Bulutlar su yüklüyse, Yeryüzüne döker yağmurlarını. Ağaç ister güneye ister kuzeye devrilsin, Devrildiği yerde kalır.
+{11:4} Rüzgarı gözeten ekmez, Bulutlara bakan biçmez.
+{11:5} Ana rahmindeki çocuğun nasıl ruh ve beden aldığını bilmediğin gibi, Her şeyi yaratan Tanrı'nın yaptıklarını da bilemezsin.
+{11:6} Tohumunu sabah ek, Akşam da elin boş durmasın. Çünkü bu mu iyi, şu mu, Yoksa ikisi de aynı sonucu mu verecek, bilemezsin.
+{11:7} Işık tatlıdır, Güneşi görmek güzeldir.
+{11:8} Evet, insan uzun yıllar yaşarsa, Sevinçle yaşasın. Ama karanlık günleri unutmasın, Çünkü onlar da az değil. Gelecek her şey boştur.
+{i11:9} Gençliğinin Değerini Bil
+{11:9} Ey delikanlı, gençliğinle sevin, Bırak gençlik günlerinde yüreğin sevinç duysun. Gönlünün isteklerini, gözünün gördüklerini izle, Ama bil ki, bütün bunlar için Tanrı seni yargılayacaktır.
+{11:10} Öyleyse at tasayı yüreğinden, Uzaklaştır derdi bedeninden. Çünkü gençlik de dinçlik de boştur.
+{12:1} Bu yüzden zor günler gelmeden, “Zevk almıyorum” diyeceğin yıllar yaklaşmadan, Güneş, ışık, ay
+{12:2} ve yıldızlar kararmadan Ve yağmurdan sonra bulutlar geri dönmeden, Gençlik günlerinde seni yaratanı anımsa.
+{12:3} O gün, evi bekleyenler titreyecek, Güçlüler eğilecek, Öğütücüler azaldığı için duracak, Pencereden bakanlar kararacak.
+{12:4} Değirmen sesi yavaşlayınca, Sokağa açılan çift kapı kapanacak, İnsanlar kuş sesiyle uyanacak, Ama şarkıların sesini duyamayacaklar.
+{12:5} Dahası yüksek yerden, Sokaktaki tehlikelerden korkacaklar; Badem ağacı çiçek açacak, Çekirge ağırlaşacak, Tutku zayıflayacak. Çünkü insan sonsuzluk evine gidecek, Yas tutanlar sokakta dolaşacak.
+{12:6} Gümüş tel kopmadan, Altın tas kırılmadan, Testi çeşmede parçalanmadan, Kuyu makarası kırılmadan,
+{12:7} Toprak geldiği yere dönmeden, Ruh onu veren Tanrı'ya dönmeden, Seni yaratanı anımsa.
+{12:8} “Her şey boş” diyor Vaiz, “Bomboş!”
+{i12:9} Son Söz
+{12:9} Vaiz yalnız bilge değildi, bildiklerini halka da öğretiyordu. Hesap etti, araştırdı ve birçok özdeyişi düzene soktu.
+{12:10} Güzel sözler bulmaya çalıştı. Yazdıkları gerçek ve doğrudur.
+{12:11} Bilgelerin sözleri üvendire gibidir, derledikleri özdeyişlerse, iyi çakılan çivi gibi; bir tek Çoban tarafından verilmişler.
+{12:12} Bunların dışındakilerden sakın, evladım. Çok kitap yazmanın sonu yoktur, fazla araştırma da bedeni yıpratır.
+{12:13} Her şey duyuldu, sonuç şu: Tanrı'ya saygı göster, buyruklarını yerine getir, Çünkü her insanın görevi budur.
+{12:14} Tanrı her işi, her gizli şeyi yargılayacaktır, İster iyi ister kötü olsun.

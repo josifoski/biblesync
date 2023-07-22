@@ -1,0 +1,1378 @@
+{i1:1} Az Örökkévaló elrendeli a népszámlálást Izráelben
+{1:1} Az Örökkévaló szólt Mózeshez a Találkozás Sátorában. Ez az Egyiptomból való kivonulás után, a második év második hónapjának első napján történt, a Sínai-pusztában. Ezt mondta az Örökkévaló:
+{1:2} „Vegyétek számba Izráel népének egész közösségét! Egyenként írjatok össze minden férfit a családja és nemzetsége szerint.
+{1:3} A férfiak közül a húsz éveseket és annál idősebbeket vegyétek számba, vagyis azokat, akik hadkötelesek. Mózes és Áron, ti ketten számoljátok meg őket a hadsereg egységei szerint!
+{1:4} Segíteni fog nektek minden törzsből egy-egy férfi, akik egyúttal a nemzetségük vezetői.
+{1:5} Ezek a férfiak a következők: Rúben törzséből Elicúr, Sedéúr fia,
+{1:6} Simeon törzséből Selumiél, Cúrisaddaj fia,
+{1:7} Júda törzséből Nahsón, Amminádáb fia,
+{1:8} Issakár törzséből Netanél, Cúár fia,
+{1:9} Zebulon törzséből Eliáb, Hélón fia,
+{1:10} József leszármazottjai közül: Efraim törzséből Elisáma, Ammihúd fia, Manassé törzséből Gamilél, Pedácúr fia,
+{1:11} Benjámin törzséből Abídán, Gideóni fia,
+{1:12} Dán törzséből Ahiezer, Ammisaddaj fia,
+{1:13} Ásér törzséből Pagiél, Okrán fia,
+{1:14} Gád törzséből Eljászáf, Deúél fia,
+{1:15} Naftáli törzséből Ahira, Énán fia”.
+{1:16} Az Örökkévaló tehát Izráel egész közösségéből kiválasztotta ezeket a férfiakat, akik egyúttal a nemzetségük és a törzsük vezetői is voltak.
+{1:17} Mózes és Áron maguk mellé vették ezeket a név szerint kiválasztott férfiakat,
+{1:18} és a második hónap első napjára összehívták Izráel egész közösségét. Majd törzsek, nemzetségek és családok szerint számba vették a 20 éves és annál idősebb férfiakat.
+{1:19} Mózes úgy végezte el a népszámlálást a Sínai-pusztában, ahogyan azt az Örökkévaló megparancsolta.
+{1:20} Minden törzsből összeírták és számba vették a 20 éves és annál idősebb, vagyis a hadköteles férfiakat nemzetségek és családok szerint. Az egyes törzsekben a következő létszámokat találták:
+{1:21} Rúben törzsében (Rúben volt Izráel elsőszülöttje) 46 500,
+{1:22} Simeon törzsében
+{1:23} 59 300,
+{1:24} Gád törzsében
+{1:25} 46 650,
+{1:26} Júda törzsében
+{1:27} 74 600,
+{1:28} Issakár törzsében
+{1:29} 54 400,
+{1:30} Zebulon törzsében
+{1:31} 57 400,
+{1:32} Efraim törzsében (Efraim József
+{1:33} fia volt) 40 500,
+{1:34} Manassé törzsében (Manassé József
+{1:35} fia volt) 32 200,
+{1:36} Benjámin törzsében
+{1:37} 35 400,
+{1:38} Dán törzsében
+{1:39} 62 700,
+{1:40} Ásér törzsében
+{1:41} 41 500,
+{1:42} Naftáli törzsében
+{1:43} pedig 53 400.
+{1:44} Tehát Mózes, Áron és a törzsek képviselői számba vették a férfiakat és ezeket a
+{1:45} létszámokat jegyezték föl az egyes törzsekből. Miután ezt elvégezték, összegezték, és úgy találták, hogy
+{1:46} Izráel népében a hadköteles, vagyis 20 éves, vagy annál idősebb férfiak száma mindösszesen 603 550 volt.
+{1:47} Azonban a Lévi törzsébe tartozókat nem vették számba.
+{1:48} Ugyanis az Örökkévaló ezt mondta Mózesnek:
+{1:49} „Amikor a népszámlálást végzitek, Lévi törzsét hagyjátok ki, ne vegyétek őket számba, és ne soroljátok őket a többi törzs közé!
+{1:50} Parancsold meg a lévitáknak, hogy viseljenek gondot a Találkozás Sátorára, meg mindarra a fölszerelésre, amely abban található. Amikor a tábor úton van, az ő feladatuk a Találkozás Sátorának és fölszerelésének hordozása és őrzése. Amikor letáboroztok, ők sátorozzanak a Találkozás Sátora körül.
+{1:51} Amikor a tábor útnak indul, a léviták feladata a Találkozás Sátorának lebontása, s amikor tábort vertek, nekik kell újra fölállítaniuk. Ha bárki más — vagyis nem a léviták közé tartozó — merészelne hozzányúlni a Találkozás Sátorához, annak halállal kell bűnhődnie.
+{1:52} Izráel többi törzsei mind a maguk tábori rendje szerint verjenek sátort, és mindenki maradjon a saját törzsi zászlaja közelében.
+{1:53} A léviták azonban úgy állítsák fel a sátraikat, hogy vegyék körül a Találkozás Sátorát, nehogy haragra gyulladjak Izráel közössége ellen. A Találkozás Sátorát a léviták őrizzék, és a sátor körüli teendőket csakis ők végezzék!”
+{1:54} Ezeket a parancsokat adta az Örökkévaló Mózesnek, és Izráel népe mindent ennek megfelelően tett.
+{i2:1} Izráel népének táborozási és vonulási rendje
+{2:1} Az Örökkévaló szólt Mózeshez és Áronhoz:
+{2:2} „Izráel népe a következő rendben táborozzon a Találkozás Sátora körül. Mindenki a maga nemzetségének és törzsének zászlaja alatt verjen sátort, a Találkozás Sátorától bizonyos távolságra.
+{2:3} A keleti oldalon, amerre a nap fölkel, Júda törzse táborozzon a saját zászlaja alatt, Nahsón, Amminádáb fia vezetésével.
+{2:4} Ebbe az altáborba 74 600 számba vett férfi tartozik.
+{2:5} Mellette Issakár törzse táborozzon a saját zászlaja alatt, Cúár fia, Netanél vezetésével.
+{2:6} Ebbe az altáborba 54 400 számba vett férfi tartozik.
+{2:7} Júda törzse mellett a másik oldalon Zebulon törzse táborozzon a saját zászlaja alatt, Hélón fia, Eliáb vezetésével.
+{2:8} Ebbe az altáborba 57 400 számba vett férfi tartozik.
+{2:9} Ez a három törzs, Júda törzsének vezetése alatt, együttesen 186 400 jegyzékbe vett férfit számlál. Amikor a tábor elindul, ők induljanak elsőnek.
+{2:10} A déli oldalon Rúben törzse táborozzon a saját zászlaja alatt, Sedéúr fia, Elicúr vezetésével.
+{2:11} Ebbe az altáborba 46 500 számba vett férfi tartozik.
+{2:12} Mellette Simeon törzse táborozzon a saját zászlaja alatt, Cúrisaddaj fia, Selumiél vezetésével.
+{2:13} Ebbe az altáborba 59 300 számba vett férfi tartozik.
+{2:14} Rúben törzse mellett a másik oldalon Gád törzse táborozzon a saját zászlaja alatt, Deúél fia, Eljászáf vezetésével.
+{2:15} Ebbe az altáborba 45 650 számba vett férfi tartozik.
+{2:16} Ez a három törzs, Rúben törzsének vezetése alatt, együttesen 151 450 jegyzékbe vett férfit számlál. Amikor a tábor elindul, ők induljanak másodiknak.
+{2:17} Amikor a nép vonul, Lévi törzse legyen a következő, amely elindul. Ők hordozzák a Találkozás Sátorát, amelyet így a vonuló törzsek elől-hátul közrefognak. Ahogyan a törzsek táboroznak, abban a sorrendben induljanak meg, mindenki a maga helyén és a saját zászlóját követve.
+{2:18} A nyugati oldalon Efraim törzse táborozzon a saját zászlaja alatt, Ammihúd fia, Elisáma vezetésével.
+{2:19} Ebbe az altáborba 40 500 számba vett férfi tartozik.
+{2:20} Mellette Manassé törzse táborozzon a saját zászlaja alatt, Pedácúr fia, Gamliél vezetésével.
+{2:21} Ebbe az altáborba 32 200 számba vett férfi tartozik.
+{2:22} Efraim törzse mellett a másik oldalon Benjámin törzse táborozzon a saját zászlaja alatt, Gideóni fia, Abidán vezetésével.
+{2:23} Ebbe az altáborba 35 400 számba vett férfi tartozik.
+{2:24} Ez a három törzs, Efraim törzsének vezetése alatt, együttesen 108 100 jegyzékbe vett férfit számlál. Amikor a tábor elindul, ők induljanak harmadiknak.
+{2:25} Az északi oldalon Dán törzse táborozzon a saját zászlaja alatt, Ammisaddaj fia, Ahiezer vezetésével.
+{2:26} Ebbe az altáborba 62 700 számba vett férfi tartozik.
+{2:27} Mellette Ásér törzse táborozzon a saját zászlaja alatt, Okrán fia, Pagiél vezetésével.
+{2:28} Ebbe az altáborba 41 500 számba vett férfi tartozik.
+{2:29} Dán törzse mellett a másik oldalon Naftáli törzse táborozzon a saját zászlaja alatt, Énán fia, Ahíra vezetésével.
+{2:30} Ebbe az altáborba 53 400 számba vett férfi tartozik.
+{2:31} Ez a három törzs, Dán törzsének vezetése alatt, együttesen 157 600 jegyzékbe vett férfit számlál. Amikor a tábor elindul, ők induljanak utoljára. Minden törzs a maga zászlaja alatt vonuljon”.
+{2:32} Ezek a törzsek tehát összesen 603 550 hadköteles férfit számláltak, akiket a népszámlálás során nemzetségek és törzsek szerinti rendben jegyzékbe vettek.
+{2:33} Csak Lévi törzsét nem vették számba, mert az Örökkévaló így parancsolta Mózesnek.
+{2:34} Ez tehát Izráel népének táborozási és vonulási rendje. Mindenki a maga nemzetsége és törzsének zászlaja szerint verte fel a sátrát, és vonuláskor is a saját csoportjában maradt, ahogyan azt Mózesnek az Örökkévaló megparancsolta.
+{i3:1} Áron családja, a papok rendje
+{3:1} Ezek voltak Áron és Mózes leszármazottjai abban az időben, amikor a Sínai-hegyen az Örökkévaló beszélt Mózessel.
+{3:2} Áron fiai: Nádáb, az elsőszülött, azután Abihú, Eleázár és Ítámár.
+{3:3} Mind a négyüket fölkenték és felavatták a papi szolgálatra.
+{3:4} Nádáb és Abihú azonban a Sínai-pusztában meghalt az Örökkévaló jelenlétében, amikor olyan illat-áldozatot mutattak be az Örökkévalónak, amelyet ő nem parancsolt. Nádábnak és Abihúnak nem volt fia. Tehát csak Eleázár és Ítámár maradt Áron fiai közül, akik a papi szolgálatot végezték apjuk, Áron felügyelete alatt.
+{i3:5} A léviták nemzetségei és feladataik
+{3:5} Ezt mondta az Örökkévaló Mózesnek:
+{3:6} „A Lévi törzséből való férfiakat rendeld Áron felügyelete alá, hogy segítsék őt a feladatainak teljesítésében.
+{3:7} Őrizzék a Sátrat, és álljanak Áron szolgálatára, meg az egész közösség szolgálatára a Találkozás Sátoránál.
+{3:8} A léviták viseljenek gondot a Sátor egész fölszerelésére és őrizzék azokat, amikor az egész nép úton van, vagy tábort ver.
+{3:9} Tehát rendeld a lévitákat Áron és fiai mellé, mert a lévitákat választottam ki Izráel egész népéből, hogy szolgáljanak a papoknak.
+{3:10} Áronnak és fiainak pedig parancsold meg, hogy viseljenek gondot a papi szolgálatra. Ha bárki illetéktelen személy beleavatkozik a papi szolgálatba, az halállal bűnhődjön”.
+{3:11} Ezt mondta az Örökkévaló Mózesnek:
+{3:12} „Minden elsőszülött az én tulajdonom! Amikor az egyiptomiak elsőszülöttjeit megöltem, egyúttal magamnak szenteltem minden elsőszülöttet Izráel népéből, sőt még háziállataik közül
+{3:13} is. Most azonban a lévitákkal helyettesítem Izráel elsőszülöttjeit. A lévitákat választottam ki Izráel népéből, hogy személyesen engem szolgáljanak. Én vagyok az Örökkévaló!”
+{3:14} Ezt mondta az Örökkévaló Mózesnek a Sínai-pusztában:
+{3:15} „Vedd számba a lévitákat, vagyis a Lévi törzsébe tartozó fiúkat és férfiakat egy hónapos kortól fölfelé, nemzetségeik és családjaik szerint”.
+{3:16} Mózes tehát számba vette őket, ahogyan az Örökkévaló megparancsolta.
+{3:17} Lévinek három fia volt: Gérsón, Kehát és Merári.
+{3:18} Gérsón fiai: Libni és Simei, akiktől a róluk elnevezett nemzetségek származtak.
+{3:19} Kehát fiai: Amrám, Jichár, Hebron és Uzzél, akiktől a róluk elnevezett nemzetségek származtak.
+{3:20} Merári fiai: Mahli és Músi, akiktől a róluk elnevezett nemzetségek származtak. Tehát ezek a Lévi törzsének nemzetségei.
+{3:21} Gérsóntól származik a Libni- és a Simei-nemzetség. Ezek tehát a Gersón-nemzetségek, amelyekben
+{3:22} összesen 7 500 egy hónapos és annál idősebb fiút, illetve férfit vettek számba.
+{3:23} E két nemzetség a Találkozás Sátora mögött, a nyugati oldalon táborozott.
+{3:24} Eljászáf, Láél fia vezette őket, mint nemzetségfő.
+{3:25} A gersóni nemzetségek feladata volt, hogy gondot viseljenek a Találkozás Sátorát borító takarókra, a bejáratokat fedő kárpitokra, és az udvar kerítését borító kárpitokra, meg
+{3:26} a hozzájuk tartozó kötelekre és egyéb felszerelésekre, az oltárra, és őrizzék azokat. Az ő dolguk volt a Sátor részeinek szállítása, felállítása és szétbontása is.
+{3:27} Keháttól származnak az Amrám-, Jichár-, Hebron- és Uzzíél-nemzetségek. Ezek tehát a Kehát-nemzetségek, amelyek a Szent Sátorban lévő szent tárgyak őrzésére
+{3:28} és gondozására voltak rendelve. A keháti nemzetségekben összesen 8 600 egy hónapos és annál idősebb fiút, illetve férfit vettek számba.
+{3:29} Ők a Találkozás Sátora mellett, a déli oldalon táboroztak.
+{3:30} Elicáfán, Uzzíél fia vezette őket, mint nemzetségfő.
+{3:31} A keháti nemzetségek feladata volt, hogy gondot viseljenek a Találkozás Sátorában lévő eszközökre és berendezési tárgyakra, őrizzék azokat, és ellássák a velük kapcsolatos szolgálatokat, amikor a tábor vonult, vagy megállt. Tehát rájuk volt bízva a Szövetségláda, az asztal, a mécstartó, a füstölő-oltár, a különféle eszközök és az a kárpit, amely a Szentek Szentje előtt függött.
+{3:32} Eleázár főpap, Áron fiaivolt az elöljárója a léviták vezetőinek. Az ő felügyelete alatt végezték a szolgálatukat mindazok, akik a Találkozás Sátorában lévő szent tárgyakat őrizték és gondozták.
+{3:33} Meráritól származik a Mahli- és a Músi-nemzetség. Ezek tehát a Merári-nemzetségek, amelyekben
+{3:34} összesen 6 200 egy hónapos és annál idősebb fiút, illetve férfit vettek számba.
+{3:35} Cúriél, Abihail fia vezette őket, mint nemzetségfő. E két nemzetség a Találkozás Sátora mellett, az északi oldalon táborozott.
+{3:36} A merári nemzetségek feladata volt, hogy gondot viseljenek a Találkozás Sátorának deszkáira, reteszeire, oszlopaira, talpaira,
+{3:37} valamint az udvar kerítésére, az oszlopokra, talpakra, cövekekre, kötelekre, és őrizzék azokat.
+{3:38} A Találkozás Sátora előtt, attól keletre Mózes és Áron fiai sátoroztak. Ők voltak felelősek Izráel egész népe érdekében a szent hely bejáratának őrzéséért. Ugyanis ha illetéktelen személy jött a szent hely közelébe, annak meg kellett halnia.
+{3:39} Mózes és Áron az Örökkévaló parancsa szerint tehát nemzetségenként számba vették az összes lévitát, vagyis az egy hónapos és annál idősebb fiúkat és férfiakat, és úgy találták, hogy ezek létszáma 22 000 fő.
+{i3:40} A léviták helyettesítik az elsőszülötteket
+{3:40} Ezt mondta az Örökkévaló Mózesnek: „Vedd számba Izráel népe között az összes elsőszülött fiút és férfit, akik legalább egy hónaposak, és vedd őket névjegyzékbe!
+{3:41} Az elsőszülöttekért cserébe a léviták lesznek az enyémek — én vagyok az Örökkévaló! Hasonlóképpen a léviták háziállatait is a saját tulajdonomnak tekintem azok helyett az elsőszülött háziállatok helyett, amelyek Izráel népének tulajdonában vannak”.
+{3:42} Mózes tehát számba vette az egy hónapos, vagy annál idősebb elsőszülött fiúkat és férfiakat Izráel egész népe között
+{3:43} — ahogyan azt az Örökkévaló megparancsolta. Névjegyzékbe vette ezeket, és úgy találta, hogy a létszámuk 22 273 fő.
+{3:44} Akkor az Örökkévaló ezt mondta Mózesnek:
+{3:45} „Mostantól fogva a számba vett léviták az enyémek Izráel elsőszülöttjei helyett, s a léviták háziállatai a többi törzs háziállatainak elsőszülöttjei helyett. Bizony, a léviták hozzám tartoznak, mert személyesen engem szolgálnak — én vagyok az Örökkévaló!
+{3:46} Ami pedig azt a 273 kiváltandó elsőszülöttet illeti, akik a léviták létszámán fölül vannak,
+{3:47} értük szedj be fejenként öt sékel ezüstöt. A szent sékel szerint számítsátok, amelyben egy sékel 20 gérát ér. Gyűjtsd össze ezt az ezüstöt,
+{3:48} és add oda Áronnak és a fiainak. Ez legyen a váltságdíj azért a 273 személyért”.
+{3:49} Mózes tehát összegyűjtötte a váltságdíjat attól a 273 elsőszülött fiútól és férfitól, akik a léviták létszámán fölül
+{3:50} voltak. Összesen 1 365 sékel ezüstöt gyűjtött össze (a szent sékel, vagyis a hivatalos mérték szerint számítva),
+{3:51} és ezt odaadta Áronnak és fiainak — ahogyan az Örökkévaló parancsolta.
+{i4:1} A Kehát-nemzetségek feladatai
+{4:1} Az Örökkévaló szólt Mózesnek és Áronnak:
+{4:2} „Vedd számba a Lévi törzsébe tartozó Kehát-nemzetségeket! Családonként és nemzetségenként írj össze
+{4:3} minden 30 és 50 év közötti hadköteles férfit, akik alkalmasak a Találkozás Sátora körüli szolgálatok ellátására!
+{4:4} Az ő feladatuk és felelősségük, hogy gondot viseljenek a legszentebb dolgokra: őrizzék és szállítsák azokat.
+{4:5} Amikor a tábor útnak indul, Áron és a fiai menjenek be a szentélybe, vegyék le a Szentély és a Szentek Szentje közötti kárpitot, és azzal takarják be a Szövetségládát.
+{4:6} Azután az egészet borítsák be delfinbőr-takaróval, s ezen fölül még egy kék bíborvászonnal is fedjék le. A Szövetségláda hordozására szolgáló rudakat dugják bele a láda oldalán lévő karikákba.
+{4:7} A szent kenyerek asztalát is takarják le kék bíborvászonnal, majd tegyék rá a tálakat, tömjénes serpenyőket, kelyheket, az italáldozathoz való korsókat, egyéb eszközöket és a kenyereket is.
+{4:8} Az egészet födjék be skarlátvörös vászonnal, azt meg a delfinbőr-takaróval, végül illesszék a helyükre a hordozásra szolgáló rudakat.
+{4:9} Azután takarják le kék bíborvászonnal az arany mécstartót, a mécseseket, a gondozásukra szolgáló szerszámokat, hamutartókat és a feltöltésre szolgáló olajtartó edényeket.
+{4:10} Ezen kívül takarják le még bőrtakaróval is, majd az egészet helyezzék a hordozókeretre.
+{4:11} Az arany füstölő-oltárt is takarják le kék bíborvászonnal, majd bőrtakaróval, a hordozó rudakat pedig illesszék a helyükre.
+{4:12} Minden egyéb eszközt és edényt gyűjtsenek össze a szentélyből, takarják le kék bíborvászonnal, majd bőrtakaróval, és helyezzék az egészet a hordozókeretre.
+{4:13} Az oltárról takarítsák el a hamut, azután takarják le piros bíborvászonnal.
+{4:14} Helyezzék rá az összes eszközt, amelyet az oltárnál szoktak használni: parázstartó serpenyőket, lapátokat, villákat, hintőedényeket. Az egészet födjék be bőrtakaróval, végül illesszék a helyükre a hordozásra szolgáló rudakat.
+{4:15} Amikor a tábor indulása előtt Áron és a fiai már befejezték ezeknek a legszentebb dolgoknak és eszközöknek a betakarását, csak akkor jöjjenek a keháti nemzetségekből való férfiak, és ők hordozzák a fölszerelést. De vigyázzanak, hogy csak a hordozó rudakat fogják, magukat a legszentebb dolgokat ne érintsék meg, mert akkor meghalnak! Tehát a keháti nemzetségek ezeket a Sátorhoz tartozó legszentebb dolgokat hordozzák, amikor a tábor vonul.
+{4:16} Eleázár főpap, Áron fia felelős az egész Találkozás Sátoráért, és minden fölszerelésért, amely abban van, mind a szent, mind a legszentebb dolgokért. Személyesen kell gondot viselnie a szent olajra, amely a mécsesekben ég, a jó illatú füstölőszerekre, a mindennapi lisztáldozatra és a fölkenetés szent olajára”.
+{4:17} Azután ezt mondta az Örökkévaló Mózesnek és Áronnak:
+{4:18} „Ezt tegyétek, hogy a kehátiak nemzetségéből való férfiak ne haljanak meg, amikor a szent dolgokat hordozzák: Áron és a fiai menjenek
+{4:19} be először a Találkozás Sátorába. Azután ők állítsanak minden keháti lévitát a maga helyére, és irányítsák őket, amikor a szent dolgokat hordozzák.
+{4:20} De amíg Áron és fiai mindent le nem takartak, a kehátiaknak nem szabad bemenniük a Sátorba, nehogy meglássák a legszentebb dolgokat, mert akkor meghalnak!”
+{i4:21} A Gerson-nemzetségek feladatai
+{4:21} Azután ezt mondta az Örökkévaló Mózesnek:
+{4:22} „Vedd számba a Gerson-nemzetségeket! Családonként és nemzetségenként
+{4:23} írj össze minden 30 és 50 év közötti hadköteles férfit, akik alkalmasak a Találkozás Sátora körüli szolgálatok ellátására!
+{4:24} Az ő feladatuk és felelősségük, hogy gondot viseljenek a fölszerelésekre, hordozzák és őrizzék azokat, amikor a tábor vonul, megáll vagy elindul.
+{4:25} Ezek a következők: a Sátort borító összes takaró, beleértve a külső delfinbőr-takarót is; a bejáratokat fedő kárpitok,
+{4:26} a sátor és az oltár körüli udvar kerítését alkotó takarók; az udvar bejáratának kárpitja, és az ezekhez tartozó kötelek és egyéb fölszerelések. Ők végezzenek minden, ezekkel kapcsolatos teendőt a vonulás alatt, a Sátor szétszedésénél és fölállításánál egyaránt.
+{4:27} A szolgálatukat Áron és fiai felügyelete alatt végezzék akkor is, amikor vonul a tábor, meg akkor is, amikor helyben vesztegel. A gersoniak
+{4:28} felelősek ezeknek a dolgoknak az őrzéséért is, mind vonuláskor, mind pedig a táborozás idején. Mindezeket Ítámár, Áron főpap fiának irányítása alatt végezzék.”
+{i4:29} A Merári-nemzetségek feladatai
+{4:29} „Vedd számba a Merári-nemzetségeket is! Családonként és nemzetségenként
+{4:30} írj össze minden 30 és 50 év közötti hadköteles férfit, akik alkalmasak a Találkozás Sátora körüli szolgálatok ellátására!
+{4:31} Az ő feladatuk és felelősségük, hogy gondot viseljenek a következő fölszerelésekre, hordozzák és őrizzék azokat, amikor a tábor vonul, megáll vagy elindul. Ezek a következők: a sátor deszkái, reteszei, oszlopai és talpai,
+{4:32} az udvar kerítésének oszlopai, talpai, cövekei, kötelei, és minden egyéb ide tartozó fölszerelés. Készíts listát ezekről a tárgyakról, amelyekért a meráriak felelősek.
+{4:33} Ezeket a feladatokat kell ellátniuk a merári nemzetségeknek, Ítámár pap, Áron fia felügyelete és irányítása alatt”.
+{i4:34} A léviták számbavétele
+{4:34} Mózes, Áron és a közösség törzsi vezetői együtt vették számba a Kehát-nemzetségeket családjaik és nemzetségeik szerint.
+{4:35} Jegyzékbe vették azokat a 30 és 50 év közötti férfiakat, akik alkalmasak voltak a szolgálatra a Találkozás Sátora körül,
+{4:36} és úgy találták, hogy a létszámuk 2 750 fő.
+{4:37} Tehát ennyien teljesítettek szolgálatot a Találkozás Sátoránál a Kehát-nemzetségekből, ahogyan azt az Örökkévaló parancsa szerint Mózes és Áron megszámolta.
+{4:38} Azután számba vették a Gerson-nemzetségeket is családjaik és nemzetségeik szerint.
+{4:39} Jegyzékbe vették a 30 és 50 év közötti férfiakat, akik alkalmasak voltak a szolgálatra a Találkozás Sátora körül,
+{4:40} és úgy találták, hogy a létszámuk 2 630 fő.
+{4:41} Tehát ennyien teljesítettek fizikai szolgálatot a Találkozás Sátoránál a gersoni nemzetségekből, ahogyan azt az Örökkévaló parancsa szerint Mózes és Áron megszámolta.
+{4:42} Azután számba vették a Merári-nemzetségeket is családjaik és nemzetségeik szerint.
+{4:43} Jegyzékbe vették a 30 és 50 év közötti férfiakat, akik alkalmasak voltak a szolgálatra a Találkozás Sátora körül,
+{4:44} és úgy találták, hogy a létszámuk 3 200 fő.
+{4:45} Tehát ennyien teljesítettek szolgálatot a Találkozás Sátoránál a merári nemzetségekből, ahogyan azt az Örökkévaló parancsa szerint Mózes és Áron megszámolta.
+{4:46} Mózes, Áron és Izráel törzsi vezetői így vették számba a lévitákat nemzetségeik és családjaik szerint.
+{4:47} Jegyzékbe vették az összes 30 és 50 év közötti férfit, aki alkalmas volt arra, hogy a Találkozás Sátorát és annak fölszerelését hordozza, fölállítsa és szétszedje.
+{4:48} Úgy találták, hogy a teljes létszámuk 8 580 fő.
+{4:49} Az Örökkévaló Mózesnek adott parancsai szerint tehát számba vették őket, és minden egyes lévitának meghatározták a maga feladatát a Sátor fölállításában, szétszedésében, és a vonulás idején.
+{i5:1} Tisztasági törvények
+{5:1} Az Örökkévaló ezt mondta Mózesnek:
+{5:2} „Parancsold meg Izráel népének, hogy küldjenek ki a táborukból mindenkit, aki tisztátalanná vált valamilyen rosszindulatú bőrbetegség miatt, vagy testéből származó folyás miatt, vagy mert megérintett egy holttestet.
+{5:3} Akár férfi, akár asszony az illető, küldjék ki a táboron kívülre, nehogy a tábor, ahol közöttetek lakom, tisztátalanná váljon miatta”.
+{5:4} Izráel népe engedelmeskedett az Örökkévaló szavának, amelyet Mózesnek mondott, és azokat a személyeket kiküldték a táboron kívülre.
+{i5:5} A másik ember elleni vétek jóvátétele
+{5:5} Az Örökkévaló így szólt Mózeshez:
+{5:6} „Mondd meg Izráel népének: amikor egy férfi vagy asszony vétkezik a másik ember ellen — ahogyan az emberek szoktak vétkezni — , akkor valójában az Örökkévaló ellen vétkezik, és ennek terhét viseli.
+{5:7} A vétkes ismerje el és vallja meg tettét. Azután teljes mértékben térítse meg az okozott kárt. Ezen fölül tegye hozzá annak ötödrészét, és azt is adja oda annak, aki ellen vétkezett.
+{5:8} Abban az esetben, ha az a személy, aki ellen vétkezett már nem él, és nincs örököse sem, akinek a jóvátételt ki lehetne fizetni, akkor ez az összeg az Örökkévalót illeti, ezért azt a vétkes adja oda a papnak. A pap áldozza fel a kost, hogy a vétkes számára engesztelést szerezzen, a jóvátétel összege pedig legyen a papé.
+{5:9} Amikor valaki önkéntes ajándékot visz az Örökkévalónak, azt adja át a papnak. Amelyik pap átveszi, annak a járandósága lesz, megtarthatja magának.
+{5:10} Tehát, ha valaki az Örökkévalónak szentel valamit, azt adja át annak a papnak, amelyiknek akarja. A pap pedig vegye át, az ő járandósága az.”
+{i5:11} A házastársi hűtlenség gyanújának tisztázása
+{5:11} Az Örökkévaló így szólt Mózeshez:
+{5:12} „Mondd meg Izráel népének: Előfordulhat, hogy valakinek a felesége eltévelyedik, hűtlenné lesz,
+{5:13} és házasságtörést követ el. Az is előfordulhat, hogy erről a férj nem szerez tudomást, mert nincs rá tanú, és nem érik tetten a hűtlen asszonyt, aki eltitkolja a férje elől, hogy tisztátalanná lett.
+{5:14} Azonban ezek után a férjet mégis hatalmába kerítheti a féltékenység és gyanakvás szelleme, és azzal gyanúsíthatja a feleségét, hogy házasságtörést követett el. Az is előfordulhat, hogy a férj akkor is ezzel vádolja a feleségét, amikor az asszony semmit nem vétett.
+{5:15} Ilyen esetben a férj vigye a feleségét a paphoz. Egyúttal vigyen magával lisztáldozatul a feleségéért egy tized éfá árpalisztet, de ne tegyen arra se olajat, se tömjént. Házastársi hűtlenség gyanúja miatti áldozat ez, amely arra szolgál, hogy világosságra hozza az elkövetett bűnt.
+{5:16} A pap állítsa az asszonyt az Örökkévaló jelenlétébe,
+{5:17} és vegyen egy kevés szent vizet egy cserépedénybe, majd szórjon bele a szentély földjéről egy kevés port.
+{5:18} Állítsa az asszonyt az Örökkévaló jelenlétébe, bontsa ki az asszony haját, és adja a kezébe a házastársi hűtlenség gyanúja miatti lisztáldozatot. A cserépedényt azonban, amelyben a keserű átokhozó víz van, a pap tartsa a kezében.
+{5:19} Ezután a pap eskesse meg az asszonyt, és ezt mondja neki: »Ha nem lettél hűtlen a férjedhez, ha nem háltál más férfival, tisztátalanná téve magadat, akkor ne ártson neked ez az átokhozó víz!
+{5:20} De ha hűtlenné lettél a férjedhez, és a férjeden kívül más férfival háltál, s így tisztátalanná tetted magadat,
+{5:21} akkor ártson neked ez az átokhozó víz, amikor megiszod. Akkor az Örökkévaló tegyen téged átkozottá néped között azáltal, hogy nem tudsz többé gyermeket szülni!
+{5:22} Akkor ez a víz hatoljon be a belső részeidbe, és ne tudjál többé gyermeket szülni!« Az asszony pedig felelje rá: »Ámen! Ámen!«
+{5:23} Azután a pap írja fel ezeket az átkokat egy könyvtekercsre, és az írást mossa bele az átokhozó vízbe,
+{5:24} majd az asszony igya meg azt a vizet. Ha az asszony bűnös volt, ez a víz behatol a belsejébe, és sok bajt okoz neki.
+{5:25} A pap vegye el az asszonytól a házastársi hűtlenség gyanúja miatti lisztáldozatot, mutassa fel az Örökkévaló előtt, és vigye az oltárhoz.
+{5:26} Vegyen ki abból egy marékkal, és égesse el az oltár tüzén, az egészet jelképező áldozatul. Az asszony pedig igya meg az átokhozó vizet.
+{5:27} Ha az asszony vétkezett a férje ellen, és tisztátalanná lett házasságtörés bűne miatt, akkor ez az átokhozó víz sok bajt okoz neki, képtelen lesz gyermeket szülni, és átkozottá lesz népe között.
+{5:28} Azonban, ha az asszony nem vétkezett, és nem lett tisztátalanná, akkor ártatlannak kell tekinteni, és képes lesz gyermeket szülni.
+{5:29} Ez tehát a házastársi hűtlenség gyanúja miatti lisztáldozat törvénye. Ennek megfelelően kell eljárni, ha egy asszony vétkezik a férje ellen, és házasságtörést követ el.
+{5:30} Így kell eljárni akkor is, ha a férjet hatalmába keríti a féltékenység és gyanakvás szelleme, és azzal gyanúsítja a feleségét, hogy házasságtörést követett el. Állítsa a feleségét az Örökkévaló elé, és a pap a fenti törvény szerint járjon el.
+{5:31} Akkor a férj mentes lesz a bűn következményeitől, az asszony pedig — ha vétkes — viseli azokat”.
+{i6:1} A nazírok törvénye
+{6:1} Így szólt az Örökkévaló Mózeshez:
+{6:2} „Mondd meg Izráel népének, ha valaki — akár férfi, akár nő — különleges fogadalmat tesz: nazírfogadalmat, vagyis az Örökkévalónak szenteli magát, akkor fogadalmának ideje alatt a következők szerint kell eljárnia.
+{6:3} Nem szabad bort vagy más részegítő italt innia, de még borecetet vagy más alkoholos italból készült ecetet sem! Nem ihat szőlőmustot, nem ehet friss szőlőt, vagy mazsolát sem.
+{6:4} Semmi olyat nem ehet vagy ihat, ami szőlőből származik, még a szőlő magját vagy héját sem.
+{6:5} Nazírfogadalmának ideje alatt nem szabad sem a hajából, sem a szakállából levágnia. Borotva ne is érintse a fejét, hanem szent legyen, és hagyja haját és szakállát szabadon nőni.
+{6:6} Nazírfogadalmának ideje alatt nem szabad holttestnek még a közelébe se mennie!
+{6:7} Még akkor se menjen be a halottas házba, ha apja, anyja vagy testvére halt meg, mert teljesen az Örökkévalónak szentelte magát!
+{6:8} Fogadalmának egész ideje alatt az Örökkévalónak van szentelve!
+{6:9} Ha pedig a nazír véletlenül mégis tisztátalanná válik, mert valaki váratlanul meghalt a jelenlétében, akkor a következők szerint kell eljárnia. Hét napot várjon, amíg megtisztul, s azon a napon egészen vágja le a haját.
+{6:10} Majd a nyolcadik napon vigyen két gerlét vagy galambfiókát a Találkozás Sátorának bejáratához, és adja oda azokat a papnak.
+{6:11} A pap az egyik madarat bűnáldozatként, a másikat égőáldozatként áldozza az Örökkévalónak. Így végezzen engesztelést a nazírért, aki tisztátalanná vált a holttest miatt. Egyúttal a nazír ismét szentelje oda magát az Örökkévalónak.
+{6:12} Tehát újra tegyen nazírfogadalmat az előző fogadalom teljes idejére. Az előző nazírfogadalom ideje nem számít, mert közben tisztátalanná lett. Egyúttal vigyen az Örökkévalónak egy esztendős hím bárányt vétekáldozatul.
+{6:13} A nazírra ez a törvény vonatkozik: amikor a fogadalom ideje letelik, vezessék a Találkozás Sátorának bejáratához.
+{6:14} Ő pedig vigye magával a következő áldozatokat: égőáldozatul egy esztendős hibátlan hím bárányt, bűnáldozatul egy esztendős hibátlan nőstény bárányt, hálaáldozatul egy hibátlan kost,
+{6:15} egy kosár kovásztalan kenyeret, finomlisztből olajjal gyúrt lepényeket, olajjal megkent kovásztalan lángosokat, és a hozzájuk tartozó liszt- és italáldozatokat.
+{6:16} A pap készítse el a bűnáldozatot és az égőáldozatot,
+{6:17} majd a kost is készítse el hálaáldozatul az Örökkévalónak a kovásztalan kenyerekkel és a többi liszt- és italáldozattal együtt.
+{6:18} A nazír ekkor nyírja le a haját a Szent Sátor bejáratánál, és a levágott hajat is helyezze az oltár tüzére, amelyen a hálaáldozat ég.
+{6:19} A pap vegye a kos megfőtt lapockáját, meg egy kovásztalan kenyeret és egy kovásztalan lángost, és ezeket tegye a nazír kezébe, miután az már lenyírta a haját.
+{6:20} Majd vegye el a nazír kezéből, és mutassa fel az Örökkévaló előtt ezeket az áldozatokat. Ezek a szent áldozati dolgok, akárcsak a kos melle része és a combja, mind a papot illetik meg. Ezek után a nazír már ihat bort.
+{6:21} Ezek tehát a nazírokra és a fogadalmukra vonatkozó törvények. Ezeket az áldozatokat mindenképpen be kell mutassa a nazír az Örökkévalónak, amikor fogadalmának ideje letelt. Ha ezen felül még mást is felajánlott, mert a vagyona lehetővé tette, azt is pontosan teljesítse a fogadalma szerint.”
+{i6:22} Az ároni áldás
+{6:22} Szólt az Örökkévaló Mózesnek:
+{6:23} „Mondd meg Áronnak és a fiainak, hogy amikor megáldják Izráel népét, ezt mondják:
+{6:24} »Áldjon meg téged az Örökkévaló, és őrizzen meg téged!
+{6:25} Világosítson meg az Örökkévaló jelenlétének világosságával, és legyen hozzád kegyelmes!
+{6:26} Forduljon feléd jóindulattal az Örökkévaló, és adjon békességet neked!«”
+{6:27} Azután az Úr még ezt mondta: „Tehát Áron és a fiai így helyezzék nevemet Izráel népére — és én megáldom őket”.
+{i7:1} A Találkozás Sátorának fölszentelése
+{7:1} Mózes befejezte a Találkozás Sátorának felállítását és berendezését, majd fölállította az oltárt is. Ezután szent olajjal mindezt megkente: a Sátrat, annak berendezését és az oltárt, meg a hozzá tartozó eszközöket — így szentelte föl azokat.
+{7:2} Ezután odajöttek a szent helyhez Izráel népének törzsi vezetői, és mindegyikük ajándékokat hozott az Örökkévalónak. Ezek a vezetők segítettek Mózesnek és Áronnak a népszámlálásban. Mindannyian nemzetségfők és egyúttal
+{7:3} a saját törzsük vezetői is voltak. Együttesen hozták az Örökkévalónak ajándékaikat: hat fedett ökrös szekeret, amelyeket két-két ökör húzott. Két-két fejedelem adott egy szekeret, és mindegyik egy-egy ökröt.
+{7:4} Akkor az Örökkévaló azt mondta Mózesnek:
+{7:5} „Vedd át tőlük ezeket az ajándékokat, és add oda a lévitáknak — a saját kijelölt feladataiknak megfelelően — , hogy használják azokat a Találkozás Sátorának szállításához”.
+{7:6} Mózes így is tett.
+{7:7} Két szekeret és hozzájuk két-két ökröt adott a gersóni nemzetségeknek.
+{7:8} Négy szekeret és hozzá nyolc ökröt pedig a merári nemzetségeknek adott annak megfelelően, hogy a szolgálatuk ellátásához mennyire volt szükségük. Ezek a nemzetségek mind Ítámár pap, Áron fia felügyelete alá voltak rendelve.
+{7:9} A keháti nemzetségeknek Mózes nem adott szekeret, mert az ő feladatuk az volt, hogy a legszentebb dolgokat gyalogosan, a vállukon hordozzák.
+{i7:10} Izráel törzsi vezetőinek ajándékai
+{7:10} Azon a napon, amikor Mózes fölszentelte az égőáldozati oltárt, mind a tizenkét vezető ajándékokat hozott az Örökkévalónak, hogy azokkal szenteljék föl az oltárt. Mindannyian odahozták az oltár elé ajándékaikat,
+{7:11} de az Örökkévaló ezt mondta Mózesnek: „Ne egyszerre, hanem egymás után hozzák ide az oltár fölszentelésére szánt ajándékaikat: minden nap egy-egy vezető kerüljön sorra”. Így is történt.
+{7:12} Ebben a
+{7:13} sorrendben hozták
+{7:14} ajándékaikat a
+{7:15} vezetők: az
+{7:16} első napon
+{7:17} Júda törzséből
+{7:18} Nahsón fejedelem,
+{7:19} Amminádáb fia,
+{7:20} a második
+{7:21} napon Issakár
+{7:22} törzséből Netanél
+{7:23} fejedelem, Cúár
+{7:24} fia, a
+{7:25} harmadik napon
+{7:26} Zebulon törzséből
+{7:27} Eliáb fejedelem,
+{7:28} Hélón fia,
+{7:29} a negyedik
+{7:30} napon Rúben
+{7:31} törzséből Elicúr
+{7:32} fejedelem, Sedéúr
+{7:33} fia, az
+{7:34} ötödik napon
+{7:35} Simeon törzséből
+{7:36} Selumiél fejedelem,
+{7:37} Cúrisaddaj fia,
+{7:38} a hatodik
+{7:39} napon Gád
+{7:40} törzséből Eljászáf
+{7:41} fejedelem, Deúél
+{7:42} fia, a
+{7:43} hetedik napon
+{7:44} Efraim törzséből
+{7:45} Elisáma fejedelem,
+{7:46} Ammihúd fia,
+{7:47} a nyolcadik
+{7:48} napon Manassé
+{7:49} törzséből Gamilél
+{7:50} fejedelem, Pedácúr
+{7:51} fia, a
+{7:52} kilencedik napon
+{7:53} Benjámin törzséből
+{7:54} Abídán fejedelem,
+{7:55} Gideóni fia,
+{7:56} a tizedik
+{7:57} napon Dán
+{7:58} törzséből Ahiezer
+{7:59} fejedelem, Ammisaddaj
+{7:60} fia, a
+{7:61} tizenegyedik napon
+{7:62} Ásér törzséből
+{7:63} Pagiél fejedelem,
+{7:64} Okrán fia,
+{7:65} a tizenkettedik
+{7:66} napon Naftáli
+{7:67} törzséből Ahira
+{7:68} fejedelem, Énán
+{7:69} fia. Mindegyik
+{7:70} fejedelem ajándéka
+{7:71} egyforma volt,
+{7:72} és a
+{7:73} következőkből állt
+{7:74} (a súlyok
+{7:75} a szent
+{7:76} mérték szerint
+{7:77} voltak): egy
+{7:78} 130 sékel
+{7:79} súlyú ezüsttál
+{7:80} és egy
+{7:81} 70 sékel
+{7:82} súlyú ezüstcsésze
+{7:83} — mindkettő tele olajjal gyúrt finomliszttel, lisztáldozatul, egy 10 sékel súlyú aranycsésze — , illatáldozathoz való füstölőszerekkel töltve, egy bikaborjú, egy kos, egy esztendős hím bárány égőáldozatul, egy kecskebak bűnáldozatul, két szarvasmarha, öt kos, öt bak, és öt egyesztendős hím bárány hálaáldozatul.
+{7:84} Tehát mindegyik fejedelem ajándéka ezekből állt, és ezt hozták ajándékul az Örökkévalónak, amikor az oltárt fölkenték, vagyis fölavatták. Összesen a fejedelmek 12
+{7:85} ezüsttálat, 12 ezüstcsészét és 12 aranycsészét hoztak. Az ezüsttálak egyenként 130, az ezüstcsészék 70, az aranycsészék pedig 10 sékelt nyomtak. Az ezüstedények
+{7:86} együttes súlya 2 400 sékel volt a szent sékel szerint. A 12 aranycsésze együttes súlya 120 sékel volt, és mindegyik meg volt töltve füstölőszerrel.
+{7:87} Égőáldozatul hoztak 12 bikát, 12 kost, 12 darab egyesztendős hím bárányt, és a hozzájuk tartozó lisztáldozatokat, bűnáldozatul pedig 12 kecskebakot.
+{7:88} Hálaáldozatra hoztak 24 bikát, 60 kost, 60 bakot és 60 darab egyesztendős hím bárányt. Ezeket hozták az Örökkévalónak ajándékul az oltár fölszentelésére, miután Mózes megkente az oltárt szent olajjal.
+{7:89} Amikor Mózes bement a Találkozás Sátorába, hogy az Örökkévalóval beszéljen, hallotta az Örökkévaló hangját, amint szólt hozzá a Szövetségláda fedelén lévő két kerub közül. Így beszélt az Örökkévaló Mózessel.
+{i8:1} Az arany mécstartó
+{8:1} Így szólt az Örökkévaló Mózeshez:
+{8:2} „Mondd meg Áronnak: az arany mécstartón úgy helyezze el a hét olajmécsest, hogy azok előre világítsanak”.
+{8:3} Áron így is tett: úgy helyezte el a mécseket, ahogy az Örökkévaló azt Mózesnek mondta.
+{8:4} A mécstartó színaranyból készült, ötvösmunkával. Egyetlen darabból kalapálták ki az aljától a szárain lévő virágokig. Pontosan arra a mintára készült, amelyet az Úr megmutatta Mózesnek.
+{i8:5} A léviták szolgálatba állítása
+{8:5} Azt mondta az Örökkévaló Mózesnek:
+{8:6} „Válaszd külön a lévitákat Izráel népéből és végezd el megtisztításuk szertartását, hogy rituálisan tiszták legyenek!
+{8:7} Ezt kell tenniük, hogy megtisztuljanak: először hintsd rájuk a megtisztulás vizét, azután borotválják le a hajukat és egész testüket, majd mossák ki ruháikat, és mosakodjanak meg.
+{8:8} Hozzanak egy bikaborjút és a hozzá tartozó lisztáldozatot: olajjal gyúrt finomlisztet. Azután egy másik bikaborjút is hozzanak bűnáldozatul.
+{8:9} Állítsd a lévitákat a Találkozás Sátora elé, és hívd össze Izráel egész közösségét.
+{8:10} Azután ahogy ott állnak az Örökkévaló jelenlétében, Izráel fiai tegyék rá kezüket a lévitákra.
+{8:11} Áron pedig ajánlja föl a lévitákat az Örökkévalónak Izráel népe részéről, hogy ezentúl a léviták végezzék az Örökkévaló szolgálatának munkáit.
+{8:12} Azután a léviták tegyék kezüket a bikák fejére, te pedig készítsd el az egyik bikát vétekáldozatul, a másikat égőáldozatul az Örökkévalónak, engesztelésül a lévitákért.
+{8:13} Így ajánld föl a lévitákat az Örökkévalónak, és állítsd őket szolgálatba, hogy legyenek Áronnak és fiainak, a papoknak segítői.
+{8:14} Így válaszd külön a lévitákat Izráel népének többi részétől, hogy személyesen nekem szolgáljanak.
+{8:15} Miután így rituálisan megtisztítottad és felajánlottad őket az Örökkévalónak, a léviták megkezdhetik gyakorlati szolgálatukat a Találkozás Sátoránál.
+{8:16} Izráel népének elsőszülöttjei helyett a lévitákat fogadtam magamhoz, hogy személyesen nekem szolgáljanak, ezért Izráel népe őket egészen nekem adta.
+{8:17} Izráelben minden elsőszülött az én tulajdonom, mind az emberek, mind a háziállatok között! Amikor az egyiptomiak elsőszülöttjeit megöltem, egyúttal magamnak szenteltem minden elsőszülöttet Izráel népéből.
+{8:18} Azonban Izráel elsőszülöttjeit a lévitákkal helyettesítettem.
+{8:19} A lévitákat pedig ajándékba adtam Áronnak és fiainak, a papoknak, hogy Izráel többi leszármazottjai helyett a léviták végezzék a Találkozás Sátoránál a gyakorlati szolgálatokat. A léviták segítsenek a papoknak az áldozatoknál, amelyek által engesztelést szereznek Izráel népe számára, és ne legyen csapás Izráel népén, amikor a szent hely közelébe jönnek.”
+{8:20} Mózes, Áron és Izráel egész közössége engedelmeskedett az Örökkévalónak, és a lévitákkal kapcsolatban mindenben aszerint jártak el, ahogy az Örökkévaló Mózesnek megparancsolta.
+{8:21} A léviták elvégezték a megtisztulás szertartását, és kimosták ruháikat. Áron pedig felajánlotta őket az Örökkévalónak szentelt ajándékul, azután engesztelést szerzett nekik az áldozat bemutatásával — így tisztította meg őket.
+{8:22} Csak ezután lettek alkalmasak a szolgálat ellátására a Találkozás Sátoránál, Áronnak és fiainak, a papoknak az irányításával. Mindenben úgy jártak el a lévitákkal kapcsolatban, ahogyan az Örökkévaló Mózesnek megparancsolta.
+{8:23} Azt mondta az Örökkévaló Mózesnek:
+{8:24} „A lévita férfiakra ez a különleges rendelkezés érvényes: 25 éves koruktól fogva álljanak szolgálatba a Találkozás Sátoránál!
+{8:25} Amikor pedig betöltik ötvenedik évüket, vonuljanak vissza a felelős szolgálattól.
+{8:26} Továbbra is segítsék a testvéreiket, a szent helyen szolgálatot végző lévitákat, de ők maguk már ne végezzenek felelős szolgálatot. Így szabd meg a léviták szolgálatát”.
+{i9:1} A Páska ünnepének törvényei
+{9:1} Ezt mondta az Örökkévaló Mózesnek a Sínai-pusztában, a második év első hónapjában azután, hogy Izráel népe kijött Egyiptomból:
+{9:2} „A megszabott időben, vagyis ennek a hónapnak 14. napján este tartsa meg
+{9:3} Izráel népe a Páska ünnepét! Mindent pontosan úgy tegyetek, ahogyan megmondtam nektek!”
+{9:4} Mózes tehát elmondta a népnek, hogy tartsák meg a Páska ünnepét.
+{9:5} Ők pedig engedelmeskedtek, és az első hónap 14. napján este megünnepelték a Páskát a Sínai-pusztában. Mindent úgy tettek, ahogy az Örökkévaló parancsolta Mózesnek.
+{9:6} Volt azonban néhány férfi a táborban, akik nem vehettek részt a Páska-ünnepen, mert holttest érintése miatt rituálisan tisztátalanokká váltak. Tehát Mózeshez és Áronhoz jöttek azon a napon,
+{9:7} és ezt mondták: „Igaz, hogy holttest érintése miatt tisztátalanokká váltunk, de miért kellene emiatt teljesen kimaradnunk az Örökkévalónak szentelt áldozat bemutatásából? Miért nem ünnepelhetjük meg mi is a megszabott időben a Páska ünnepét Izráel népével együtt?”
+{9:8} Mózes ezt felelte nekik: „Várjatok, amíg meghallom, hogy az Örökkévaló hogyan rendelkezik felőletek”.
+{9:9} Az Örökkévaló pedig ezt válaszolta Mózesnek:
+{9:10} „Ezt mondd Izráel népének: Ha közületek, vagy utódaitok közül valaki a Páska ünnepe idején éppen úton van, vagy holttest érintése miatt tisztátalanná vált, az is megtarthatja a Páska ünnepét, csakhogy egy későbbi időpontban.
+{9:11} A második hónap 14. napján este tartsa meg ezt az ünnepet, és akkor egye meg a páskabárányt kovásztalan kenyérrel és keserű fűszerekkel.
+{9:12} A páskabárány csontját ne törje meg, és ne hagyjon abból másnap reggelre semmit — ahogyan azt a páska törvénye szerint elrendeltem nektek.
+{9:13} De azt a személyt, aki a Páska ünnepének idején nincsen úton, vagy nincs tisztátalan állapotban, és mégsem vesz részt a Páska megünneplésében, ki kell zárni népe közül. Viselnie kell büntetését, mert nem mutatta be az áldozatot az Örökkévalónak a megfelelő időben.
+{9:14} Ami a közöttetek lakó idegeneket illeti, ha ők is meg akarják tartani a Páska ünnepét az Örökkévalónak, megtehetik, de akkor nekik is mindent úgy kell tenniük, ahogy azt a Pászkára vonatkozólag nektek parancsoltam. A Páska szempontjából ugyanazok a parancsok vonatkoznak Izráel népére és a közöttetek lakó idegenekre”.
+{i9:15} Az elindulás és letáborozás ideje
+{9:15} Amikor a Találkozás Sátorát, vagyis a Szövetség Sátorát fölállították, az Örökkévaló jelenlétének felhője borult föléje és betakarta. Estétől reggelig a felhő úgy világított, mintha tűz égne benne.
+{9:16} Ettől kezdve így volt ez mindig: nappal állandóan betakarta a Sátrat a felhő, amely éjjel tűznek látszott.
+{9:17} Amikor a felhő fölszállt a Sátorról, Izráel népe tábort bontott, útnak indult és követte a felhőt. Ahol pedig a felhő megállapodott, ott ismét tábort vertek.
+{9:18} Az Örökkévaló jeladása szerint vándoroltak és táboroztak Izráel fiai. Ameddig a felhő nem mozdult a Sátor fölül, addig ők sem mentek tovább,
+{9:19} még akkor sem, ha a felhő sokáig egy helyben állt. Követték az Örökkévaló jeladását, és nem mozdultak ők sem.
+{9:20} Előfordult, hogy a felhő csak néhány napig időzött a Sátor fölött — de akkor is csak a felhőt követve maradtak, vagy mentek tovább.
+{9:21} Volt úgy, hogy a felhő csak egyetlen éjjel maradt egy helyben, és másnap reggel már tovább is indult. A tábor ilyenkor is azonnal követte. Amikor a felhő felszállt, akár éjjel volt, akár nappal, a nép tábort bontott, és útnak indult.
+{9:22} Ha néhány napig, egy teljes hónapig, vagy még hosszabb ideig nem mozdult a felhő a Sátor fölül — , Izráel népe sem indult útnak, hanem sátraikban időztek. De amikor a felhő fölszállt a Szent Sátorról, a tábor is útnak eredt.
+{9:23} Az Örökkévaló parancsa szerint táboroztak le, és az ő parancsa szerint indultak el. Engedelmeskedtek az Örökkévaló rendelkezéseinek és parancsainak, amelyeket Mózesen keresztül kaptak.
+{i10:1} A két ezüst trombita
+{10:1} Ezt mondta az Örökkévaló Mózesnek:
+{10:2} „Készíts két ezüst trombitát! Ötvösmunkával készítsd őket, mindegyiket egy-egy darab ezüstből formálják ki. Ezek szolgáljanak Izráel közösségének összehívására és a tábor elindítására.
+{10:3} Amikor a közösséget kell összehívni, mind a kettőt fújjátok meg. Ilyenkor Izráel népének egész közössége gyűljön hozzád, a Találkozás Sátorának bejárata elé.
+{10:4} Ha csak a törzsek vezetőit, a nemzetségfőket kell összegyűjteni hozzád, akkor csak az egyik trombitát fújjátok meg.
+{10:5} Amikor pedig a tábornak kell elindulnia — és ilyenkor mindig a Találkozás Sátorának keleti oldalán táborozó törzsek induljanak először — , akkor rövid hangokat fújjatok mindkét trombitával.
+{10:6} Amikor másodszor is rövid hangokat fújtok, akkor induljanak a Sátor déli oldalán táborozó törzsek. A táborok elindításához mindig rövid hangokat fújjatok.
+{10:7} De amikor a közösséget akarjátok összehívni, hosszú hangokat fújjatok, ne rövideket.
+{10:8} Az ezüst trombitákat csak Áron fiai, a papok fújhatják meg. Ezeket a rendelkezéseket örök törvényként tartsátok meg nemzetségről nemzetségre!
+{10:9} Amikor majd a saját országotokban éltek, és a benneteket szorongató ellenség seregével készültök megütközni, akkor is ezekkel a trombitákkal fújjatok rövid hangokat, emlékeztetve Isteneteket, az Örökkévalót, hogy odafigyeljen rátok, és megszabadítson benneteket ellenségeitektől.
+{10:10} Viszont hosszú hangokat fújjatok mindkét trombitával, ha az ünnepeket és a szent összegyülekezést akarjátok jelezni a népnek! Így adjatok jelt az öröm napjain, az ünnepeken, és minden hónap kezdetén: az Újhold ünnepén, meg az égőáldozatok és hálaáldozatok bemutatásakor, emlékeztetve Isteneteket, hogy odafigyeljen rátok! Én vagyok Istenetek, az Örökkévaló!”
+{i10:11} Izráel népe elindul a Sínai-hegytől
+{10:11} Az Egyiptomból való elindulás utáni 2. évben, a 2. hónap 20. napján az Örökkévaló felhője fölszállt a Szövetség Sátoráról.
+{10:12} Tehát Izráel népe elindult a Sínai-puszta táborából, és táborhelyről táborhelyre haladva eljutottak Párán pusztájába, ahol az Örökkévaló felhője egy időre megállapodott.
+{10:13} Ekkor történt először, hogy úgy indultak útnak, ahogyan azt az Örökkévaló Mózes által megparancsolta.
+{10:14} Júda törzsének tábori zászlaja indult elsőnek, utána vonult Júda altáborának három serege. Nahsón, Amminádáb fia vezette őket.
+{10:15} Issakár törzsének vezetője Netanél, Cúár fia,
+{10:16} Zebulon törzsének vezetője pedig Eliáb, Hélón fia volt.
+{10:17} Miután a Találkozás Sátorát lebontották, a gersóni és merári nemzetségek elindultak a Sátor részeivel Júda altábora után.
+{10:18} Utánuk következett Rúben törzsének tábori zászlaja, amelyet Rúben altáborának három serege követett. Elicúr, Sedéúr fia vezette őket.
+{10:19} Simeon törzsének vezetője Selumiél, Cúrisaddaj fia,
+{10:20} Gád törzsének vezetője pedig Eljászáf, Deúél fia volt.
+{10:21} Utánuk indultak a keháti nemzetségek, akik a Sátorban lévő szent tárgyakat vitték. Így azután, mire ők a következő táborhelyre érkeztek, a többiek már újra fölállították a Sátrat, ahová a kehátiak egyenesen bevitték a szent tárgyakat.
+{10:22} Utánuk indult el Efraim törzsének tábori zászlaja, amelyet Efraim altáborának három serege követett. Elisáma, Ammihúd fia vezette őket.
+{10:23} Manassé törzsének vezetője Gamliél, Pacádúr fia,
+{10:24} Benjámin törzsének vezetője pedig Abidán, Gideóni fia volt.
+{10:25} Utánuk indult el Dán törzsének tábori zászlaja, amelyet Dán altáborának három serege követett. Ez volt Izráel egész seregének utóvédje. Ahiezer, Ammisaddaj fia vezette őket.
+{10:26} Ásér törzsének vezetője Pagiél, Okrán fia,
+{10:27} Naftáli törzsének vezetője pedig Ahira, Énán fia volt.
+{10:28} Ez volt Izráel táborának és seregeinek vonulási rendje, amikor a tábor útnak indult.
+{10:29} Mózesnek volt egy sógora, Hóbáb, a midjáni Reúélnak, Mózes apósának fia. Mózes így kérlelte Hóbábot: „Most el kell indulnunk, hogy eljussunk arra a helyre, amelyet az Örökkévaló nekünk ígért. Gyere velünk te is, és jót teszünk veled, mert az Örökkévaló jót ígért Izráelnek!”
+{10:30} De Hóbáb ezt felelte: „Inkább visszatérek a saját földemre és rokonaimhoz”.
+{10:31} Mózes tovább unszolta: „Kérlek, ne hagyj el bennünket, mert te jól ismered ezt a pusztaságot, és tudod, hol lehet tábort verni. Te lehetsz a táborunk »szeme!«
+{10:32} Ha velünk jössz, te is részesülhetsz mindabban a jóban, amit az Örökkévaló tesz velünk!”
+{10:33} Tehát elindultak az Örökkévaló hegyétől, és három napig vonultak. Az Örökkévaló Szövetségládáját a papok a nép előtt vitték, hogy helyet találjanak a nép számára, ahol megpihenhet.
+{10:34} Ahogy az előző táborhelyről útnak indultak, az Örökkévaló felhője egész nap fölöttük haladt, és beárnyékolta a tábort.
+{10:35} Amikor a papok fölvették a vállukra a Szövetségládát, és elindultak vele, Mózes ezt mondta: „Kelj föl, Örökkévaló! Szórd szét ellenségeidet! Fussanak gyűlölőid színed elől!”
+{10:36} Amikor pedig a Szövetségládát hordozó papok megálltak, ezt mondta Mózes: „Térj vissza, Örökkévaló, és pihenj le Izráel megszámlálhatatlan ezreinél!”
+{i11:1} Az Örökkévaló haragjának tüze pusztít a táborban
+{11:1} Egyszer Izráel népe panaszkodott a nehézségek miatt. Meghallotta ezt az Örökkévaló is, és nagyon megharagudott rájuk. Az Örökkévalótól származó tűz gyulladt fel közöttük, és megégette a tábor szélét.
+{11:2} Ekkor a nép Mózeshez könyörgött, hogy segítsen rajtuk, Mózes pedig imádkozott az Örökkévalóhoz, és a tűz elaludt.
+{11:3} Ezért elnevezték azt a helyet Tabérának, vagyis „Égésnek”, mert ott gyulladt föl a nép ellen az Örökkévaló haragjának tüze.
+{i11:4} A nép panasza és a 70 vezető kiválasztása
+{11:4} Voltak Izráel népe között idegenek is, akik csatlakoztak hozzájuk. Ezek hiányolták az Egyiptomban megszokott húst, és mindenáron húst akartak enni. Emiatt azután Izráel népe is síránkozni kezdett: „Húst szeretnénk enni, de ki adhat nekünk itt húst?
+{11:5} Bezzeg Egyiptomban jól ment a sorunk, ott mindig volt ingyen hal, meg az a sok jó zöldségféle! Milyen finom uborkát, dinnyét, póréhagymát, vöröshagymát és fokhagymát kaptunk!
+{11:6} Most meg elfogy az erőnk, mert itt mindig csak mannát kapunk!”
+{11:7} A manna hasonló volt a koriander magjához és a balzsamcsepphez.
+{11:8} Az emberek kimentek a táborból, szétszéledtek, és a földről szedegették össze. Azután kézimalommal megőrölték, vagy mozsárban összetörték, majd megfőzték és lepényt készítettek belőle. Az íze olyan volt, mint az olajos pogácsáé.
+{11:9} Amikor éjjel a harmat leszállt, akkor hullott a manna is.
+{11:10} Mózes meghallotta, hogy a nép panaszkodik. Minden család a maga sátrának ajtajában ült, és siránkozott. Az Örökkévaló pedig haragra lobbant a nép zúgolódása miatt. Mózes ekkor nagyon felháborodott,
+{11:11} és így fordult az Örökkévalóhoz: „Ó, Uram, miért bánsz velem ilyen rosszul? Hiszen a szolgád vagyok! Miért nem vagy hozzám jóindulattal? Miért raktad az én vállamra az egész nép minden gondját-baját?
+{11:12} Talán tőlem származott ez a nép? Vajon mind én szültem őket? Akkor miért mondod, hogy egyedül hordozzam őket, mint dajka a csecsemőt? Én vigyem be őket arra a földre, amelyet őseiknek ígértél?
+{11:13} Honnan vegyek én elegendő húst ennek a siránkozó tömegnek? Hiszen mind tőlem várják, hogy megetessem őket! »Adj nekünk húst, mert húst kívánunk!« — mondják nekem.
+{11:14} Örökkévaló, hogyan viseljem az egész nép terhét egymagam? Túl nehéz ez nekem!
+{11:15} Ha továbbra is így akarsz bánni velem, kérlek, inkább ölj meg most azonnal! Ha kedves vagyok neked, ölj meg, hogy ne kelljen néznem többé a magam nyomorúságát és kudarcát!”
+{11:16} Az Örökkévaló ezt válaszolta Mózesnek: „Gyűjtsd össze Izráel 70 idősebb vezetőjét! Ők a nép vezetői és tisztségviselői. Álljatok meg előttem mindannyian a Találkozás Sátoránál!
+{11:17} Akkor én leszállok, és beszélek veled. Majd pedig abból a Szellemből, amely most rajtad nyugszik, adok nekik is. Attól kezdve ők is hordozzák a nép vezetésének terhét veled együtt, s így nem kell egymagadnak viselned.
+{11:18} A népnek pedig hirdesd ki: »Szenteljék meg magatokat holnapra, mert akkor húst fogtok enni! Hiszen sírtatok az Örökkévalónak, hogy húst akartok enni, és hogy jobb dolgotok volt Egyiptomban, mint most. Ezért az Örökkévaló ad nektek húst, és ehettek, amennyit akartok!
+{11:19} De nem csak egy napig, vagy 2,5, 10 vagy 20 napig, hanem egy álló hónapig ehettek húst, amíg torkig lesztek vele, és megundorodtok tőle! Így
+{11:20} lesz, mert elutasítottátok az Örökkévalót, aki közöttetek lakik! Pedig ő jól tudja, mire van szükségetek, de ti mégis siránkoztatok! Azt mondtátok, hogy kár volt eljönni Egyiptomból…«”.
+{11:21} Mózes ezt felelte: „Uram, ebben a népben, amely között lakom, 600 000 csak a gyalogos harcosok száma, és te mégis azt mondod, hogy egy álló hónapig húst adsz nekik enni?!
+{11:22} Hiszen ha összes szarvasmarháinkat, juhainkat és kecskéinket levágnánk, még az sem lenne számukra elég! Ha a tenger összes halát kifognánk, még az is kevés lenne nekik!”
+{11:23} De az Örökkévaló ezt felelte Mózesnek: „Azt hiszed, ez már túl nehéz nekem? Majd meglátod, beteljesedik-e vagy nem, amit ígértem”.
+{11:24} Ezután Mózes kiment a néphez, és kihirdette nekik, amit az Örökkévaló üzent. Majd összegyűjtötte azt a 70 férfit Izráel vezetői közül, és odaállította őket a Találkozás Sátora köré.
+{11:25} Az Örökkévaló pedig leszállt a felhőben és beszélt Mózessel, azután abból a Szellemből, amely addig Mózesen nyugodott, adott a 70 vezetőnek is. Amint a Szellem rájuk szállt és megnyugodott rajtuk, ezek a vezetők is elkezdtek prófétálni. Később azonban már nem prófétáltak többé.
+{i11:26} Bárcsak az Örökkévaló népe mind próféta lenne!
+{11:26} A 70 vezető közül azonban ketten nem mentek oda a Találkozás Sátorához, hanem a táborban maradtak. Az egyiknek Eldád, a másiknak Médád volt a neve. Ők is szerepeltek a 70 vezető névsorában, akiket Mózes kiválasztott, de mégsem mentek oda a többiekkel együtt. Ennek ellenére a Szellem rajtuk is megnyugodott, és ők is prófétálni kezdtek, ott ahol voltak, a táborban.
+{11:27} Egy fiú elszaladt Mózeshez ezzel a hírrel: „Uram, Eldád és Médád prófétál a táborban!”
+{11:28} Erre Józsué, Nún fia, aki fiatal kora óta Mózes szolgája volt, ezt mondta Mózesnek: „Uram, tiltsd meg nekik!”
+{11:29} De Mózes ezt kérdezte Józsuétól: „Az én érdekemben vagy féltékeny rájuk? Bárcsak az Örökkévaló népe mind egy szálig próféta lenne! Bárcsak az Örökkévaló mindegyiküknek adná Szellemét!”
+{11:30} Ezután Mózes és a vezetők visszatértek a táborba.
+{i11:31} A fürjek tömege és a mohóság büntetése
+{11:31} Majd az Örökkévaló szelet küldött, amely a tenger felől fürjek seregét sodorta Izráel táborához. A fürjek lehullottak a tábor körül mindenfelől, egynapi járóföldnyi távolságra. Olyan nagy tömegben tolongtak, hogy két könyök magasságban elborították a földet.
+{11:32} A nép azon a napon, meg éjjel, sőt még az egész következő napon is fogdosta a fürjeket, és rengeteget összegyűjtöttek. Aki csak keveset gyűjtött, még az is vagy 10 hómert megtöltött velük. Azután a fürjek húsát kiterítették a földre a tábor körül.
+{11:33} Majd mohón nekiestek a húsnak, de még le sem nyelték, amikor az Örökkévaló megharagudott rájuk, és nagy csapással sújtotta a
+{11:34} népet: igen sokan meghaltak közülük, akiket ott, helyben el is temettek. Azt a helyet így nevezték el: „A mohó nép sírja”.
+{11:35} Azután a tábor tovább vonult, egészen Hacérótig, majd egy ideig ott vesztegelt.
+{i12:1} Mirjám és Áron Mózes ellen fordulnak
+{12:1} Egyszer Mirjám és Áron Mózes ellen fordult: kifogásolták, hogy kúsi nőt vett feleségül.
+{12:2} Azt is mondták: „Vajon tényleg csakis Mózes által szólt hozzánk az Örökkévaló? Bizony, rajtunk keresztül is szólt, nemcsak őáltala!” Az Örökkévaló pedig hallotta ezt.
+{12:3} Mózes nagyon szelíd ember volt, mindenki másnál alázatosabb.
+{12:4} Váratlanul maga az Örökkévaló szólította meg Mózest, Áront és Mirjámot: „Ti hárman azonnal jöjjetek a Találkozás Sátorához!” Ők oda is mentek.
+{12:5} Az Örökkévaló akkor leszállt a felhőoszlopban, megállt a Sátor bejárata fölött, nevén szólította Áront és Mirjámot, akik közelebb jöttek, és eléje álltak.
+{12:6} Akkor ezt mondta nekik: „Figyeljetek rám! Ha valaki próféta közöttetek, annak én, az Örökkévaló kijelenthetem magam látomásban, vagy álom által beszélhetek vele.
+{12:7} De szolgámmal, Mózessel nem így bánok, hiszen ő hűségesnek bizonyult egész házam népe felett!
+{12:8} Vele szemtől szemben beszélek, nem homályos látomásokban, vagy rejtélyes példázatokban. Mózes magát az Örökkévalót szemlélheti! Hogy merészeltetek hát szolgám, Mózes ellen beszélni?!”
+{12:9} Az Örökkévaló nagyon megharagudott Áronra és Mirjámra, majd eltávozott tőlük.
+{12:10} Amint a felhő fölszállt a Sátor bejáratától, Áron Mirjámra nézett, és látta, hogy Mirjám bőre egy pillanat alatt olyan fehér lett, mint a hó: szörnyű bőrbetegséget kapott!
+{12:11} Akkor Áron Mózeshez fordult: „Kérlek, uram, bocsásd meg nekünk, azt az ostoba bűnt, amit ellened vétettünk!
+{12:12} Kérlek, ne hagyd, hogy Mirjám olyan legyen, mint a halvaszületett csecsemő, aki már oszlásnak indult!”
+{12:13} Akkor Mózes könyörgött az Örökkévalónak Mirjám érdekében: „Ó, Isten, kérlek, gyógyítsd meg őt!”
+{12:14} De az Örökkévaló ezt felelte: „Ha csak a saját apja köpte volna szemen, hogy megszégyenítse, akkor is 7 napig kellene viselnie ezt a szégyent! Nem így van? Küldjétek ki Mirjámot a táboron kívülre 7 napra. Azután majd visszafogadhatjátok”.
+{12:15} Így is lett: Mirjámot 7 napra kiküldték a táborból. De ameddig ő nem jöhetett vissza, a tábor sem vonult tovább.
+{12:16} Azután továbbmentek Hacérótból, és Párán pusztájában ütöttek tábort.
+{i13:1} Mózes 12 kémet küld Kánaánba
+{13:1} Ezt mondta az Örökkévaló Mózesnek:
+{13:2} „Küldj ki férfiakat, hogy derítsék fel Kánaán földjét, amelyet Izráelnek adok. Minden törzsből egy-egy férfit küldj ki: olyanokat, akik vezetőnek számítanak közöttük”.
+{13:3} Mózes tehát Párán pusztájából felderítőket küldött ki, az Örökkévaló parancsa szerint. Mindegyikük vezetőnek számított a maga törzsében.
+{13:4} Név szerint ezek voltak a felderítők: Rúben törzséből Sammúa, Zakkúr fia,
+{13:5} Simeon törzséből Sáfát, Hóri fia,
+{13:6} Júda törzséből Káleb, Jefunne fia,
+{13:7} Issakár törzséből Jigál, Jószéf fia,
+{13:8} Efraim törzséből Hóséa (vagyis Józsué), Nún fia,
+{13:9} Benjámin törzséből Palti, Ráfú fia,
+{13:10} Zebulon törzséből Gaddiél, Szódi fia,
+{13:11} Manassé törzséből (amely Józseftől származott) Gaddi, Szúszi fia,
+{13:12} Dán törzséből Ammiél, Gemalli fia,
+{13:13} Ásér törzséből Szetúr, Mikáél fia,
+{13:14} Naftáli törzséből Nahbi, Vofszi fia,
+{13:15} Gád törzséből Geúél, Máki fia.
+{13:16} Tehát ezeket a felderítőket küldte ki Mózes Kánaánba. (Hóseát, Nún fiát Mózes Józsuénak nevezte.)
+{13:17} Ezt a feladatot bízta rájuk: „Induljatok a Negev-pusztán keresztül, azután menjetek föl a dombvidékre!
+{13:18} Nézzétek meg, milyen az a föld, és milyenek a lakóik: erősek vagy gyengék, sokan vagy kevesen vannak?
+{13:19} Figyeljétek meg, milyen a vidék, amelyen laknak: jó vagy rossz? Milyenek a települések: szabadon álló falvak vagy kőfallal kerített városok?
+{13:20} Nézzétek meg, milyen a termőföld: termékeny vagy sovány? Vannak-e ott fák vagy nincsenek? Bátran hozzatok a gyümölcsökből!” (Akkor éppen a szőlőérés kezdete volt.)
+{13:21} A felderítők tehát elindultak, és kikémlelték a földet a déli Cin-pusztától egészen az északi Rehób városáig, amely a Hamátba vezető út mellett fekszik.
+{13:22} Először a Negev-pusztán mentek keresztül, majd Hebronba értek. Ezen a vidéken Anák leszármazottjai éltek: Ahimán, Sésaj és Talmaj törzsei. (Hebron városa 7 esztendővel korábban épült, mint az egyiptomi Cóan.)
+{13:23} Azután elértek az Eskól-völgybe, s ott levágtak egy szőlővesszőt, amelyen egyetlen hatalmas fürt szőlő függött. Olyan súlyos volt, hogy egy rúdra kellett kötözniük, és
+{13:24} két férfi vitte a vállán. Emiatt nevezték azt a helyet Eskól-völgynek, vagyis „Szőlőfürt-völgynek”. Ugyanott szedtek gránátalmákat és fügét is — hogy vigyenek belőlük a táborba.
+{13:25} A felderítők 40 nap múltán értek vissza a táborba, Párán-pusztába, Kádésbe. Beszámoltak Mózesnek,
+{13:26} Áronnak és Izráel egész közösségének mindenről, amit láttak, és megmutatták a magukkal hozott gyümölcsöket.
+{13:27} Ezt mondták Mózesnek: „Bejártuk azt az országot, ahová küldtél bennünket. Valóban tejjel-mézzel folyó föld az, és ilyen gyümölcsöket terem!
+{13:28} Csak az a baj, hogy annak a földnek a lakói erősek, és városaik nagyok és kőfalak védik azokat! Sőt, még Anák leszármazottjait is láttuk közöttük!
+{13:29} A Negev-pusztában az amálekiek, a dombvidéken a hettiták, jebúsziak és emóriak, a tenger partján és a Jordán mellett pedig a kánaániak laknak”.
+{13:30} Káleb azonban, aki szintén a felderítők közé tartozott, így csendesítette és bíztatta a népet: „Ne féljetek! Bemehetünk és elfoglalhatjuk azt a földet! Biztosan sikerülni fog!”
+{13:31} De a többi felderítő ellenkező véleményen volt: „Nem, mi képtelenek lennénk harcolni azokkal a népekkel, mert sokkal erősebbek nálunk!” — mondták.
+{13:32} Így ezek a felderítők olyan híreket hoztak, amelyekkel elvették az emberek bátorságát. Azt mondták: „Az a föld, amelyet bejártunk és kikémleltünk, elemészti lakosait. Azok a népek csupa nagytermetű, erős harcosokból állnak!
+{13:33} Még óriásokat is láttunk ott, akik Anák leszármazottjai! Bizony, úgy éreztük magunkat mellettük, mintha sáskák lettünk volna. Nyilván ők is olyannak láttak minket, mint a sáskákat a fűben”.
+{i14:1} A nép kétségbeesik és fellázad
+{14:1} A felderítők rossz híreinek hatására az egész nép felkavarodott, mindenki kiabált, sokan sírtak és jajgattak egész éjjel, s végül valamennyien Mózes és Áron ellen fordultak, és őket hibáztatták.
+{14:2} „Jobb lett volna, ha Egyiptomban haltunk volna meg! Vagy legalább a sivatagban pusztultunk volna el!
+{14:3} Azért hozott az Örökkévaló ide bennünket, hogy most a harcban essünk el, gyermekeink és asszonyaink meg rabszolgák legyenek?! Nem lenne jobb visszamenni Egyiptomba?” — mondták.
+{14:4} Egymás között pedig azon tanakodtak: „Válasszunk magunknak másik vezetőt, forduljunk meg, és menjünk vissza Egyiptomba!”
+{14:5} Mózes és Áron ekkor az egész nép szeme láttára arcra borult a földön.
+{14:6} Józsué, Nún fia és Káleb, Jefunne fia azonban megszaggatták ruháikat, mert nagyon felháborodtak.
+{14:7} Ezt mondták Izráel közösségének: „Figyeljetek ránk! Mi is láttuk azt a földet, és tudjátok meg, hogy valóban nagyon szép és jó ország az!
+{14:8} Ha az Örökkévaló kedvel bennünket, akkor igenis bevezet oda minket, és nekünk adja azt a tejjel-mézzel folyó földet!
+{14:9} Ne lázadozzatok hát az Örökkévaló ellen! Ne féljetek az ott lakóktól, mert könnyen legyőzzük őket! Megesszük őket, mint a kenyeret. Hiszen azok az úgynevezett „istenek”, akik őket oltalmazzák, eltűnnek, mint az árnyék, de mivelünk Istenünk, az Örökkévaló van! Nem kell hát félnetek tőlük!”
+{i14:10} Mózes közbenjárása megmenti Izráelt a pusztulástól
+{14:10} De a nép nem hallgatott rájuk, és már azon tanakodtak, hogy Józsuét és Kálebet megkövezik. Ekkor azonban — az egész nép szeme láttára — hirtelen megjelent az Örökkévaló dicsősége a Találkozás Sátora fölött.
+{14:11} Az Örökkévaló ekkor Mózeshez szólt: „Nem tűrhetem már tovább, hogy ez a nép mindig elfordul tőlem, és visszautasít engem! Miért nem bíznak meg bennem annak ellenére, hogy annyi jelet és csodát műveltem közöttük?
+{14:12} Eltörlöm hát őket a föld színéről! Nem lesznek többé az én népem, hanem elpusztítom őket egyetlen csapással! Belőled pedig, Mózes, nagyobb és erősebb nemzetet támasztok!”
+{14:13} De Mózes így válaszolt az Örökkévalónak: „Örökkévaló, ha így teszel, azt az egyiptomiak is meg fogják hallani. Ők tudják, hogy te hoztad ki közülük hatalmas erőddel Izráel népét,
+{14:14} és hírül adták ezt a kánaáni nemzeteknek is. Azt is hallották, hogy te, Örökkévaló, Izráel népével együtt táborozol, hogy szemtől szembe megjelentél nekik, hogy felhőd néped fölött időzik, s hogy nappal a felhőben, éjjel pedig a tűzoszlopban vezeted őket.
+{14:15} Ha most mind egy szálig elpusztítod őket, akkor azok a nemzetek, amelyek hallották híredet, majd azt mondják:
+{14:16} »Úgy látszik, mivel az Örökkévaló nem volt képes bevinni ezt a népet arra a földre, amely felől megesküdött nekik, hát inkább mindet leöldöste a pusztában.«
+{14:17} Most hát, Örökkévaló, mutasd meg mindenkinek, hogy valóban milyen hatalmas vagy — ahogyan magad is mondtad:
+{14:18} »Türelmes az Örökkévaló, nem hirtelen haragú, hűséges szeretete nagy, megbocsátja a bűnt és a törvényszegést, bár nem hagyja azt egészen büntetés nélkül, hanem megbünteti az atyák vétkéért fiaikat a harmadik és negyedik nemzedékig.«
+{14:19} Kérlek, bocsásd meg ennek a népnek bűnét nagy szereteted miatt, ahogy már sokszor megtetted Egyiptom óta!”
+{14:20} Az Örökkévaló erre így felelt Mózesnek: „Rendben van, megbocsátok nekik, ahogy kérted.
+{14:21} De ez a nép, bár látta dicsőségemet, jeleimet és csodáimat, amelyeket Egyiptomban és a pusztában vittem végbe, próbára tette türelmemet már tízszer is, mivel
+{14:22} nem engedelmeskedett szavamnak. Emiatt esküszöm, hogy közülük senki sem fog bemenni arra a földre, amely felől őseiknek megesküdtem! Azok közül, akik elutasítottak engem, egyetlen
+{14:23} egy sem fog oda bemenni! Kálebbel azonban kivételt teszek, mert őbenne másféle szellem van, és tökéletes hűséggel követ engem. Őt beviszem arra a földre,
+{14:24} amelyet felderítőként már bejárt, és leszármazottjai birtokba is veszik majd. Ez olyan biztos, mint ahogy élek; és amilyen biztos, hogy dicsőségem betölti az egész földet!
+{14:25} Mivel előttetek, a völgyben az amálekiek és a kánaániak laknak, ezért holnap forduljatok vissza, és induljatok el a sivatagban, a Vörös-tenger felé vezető úton!”
+{i14:26} Az Örökkévaló ítéletet hirdet
+{14:26} Az Örökkévaló ezt mondta Mózesnek és Áronnak:
+{14:27} „Meddig tűrjem még ennek a gonosz népnek a zúgolódását? Hallottam, hogy panaszkodtak ellenem.
+{14:28} Ezt mondd nekik, Mózes: »Hallottam, amikor azt mondtátok, hogy jobb lett volna meghalnotok ebben a sivatagban. Ezért életemre esküszöm, hogy pontosan azt teszem veletek, amit mondtatok!
+{14:29} Igen, ebben a pusztában fogtok elhullani mind egy szálig! Bizony, itt haltok meg mindannyian, akiket megszámoltak 20 éves kortól fölfelé, mivel ellenem lázadtatok.
+{14:30} Egy sem megy be közületek arra a földre, amely felől megesküdtem, hogy ott fogtok lakni, kivéve Kálebet, Jefunne fiát és Józsuét, Nún fiát.
+{14:31} Attól féltetek, hogy gyermekeiteket az ellenség rabszolgákká teszi! Tudjátok meg hát, hogy én ezeket a gyermekeket be fogom vinni arra a földre! Ők majd meg fogják ismerni azt a földet, amely nektek nem kellett!
+{14:32} Ti pedig, bizony, mind ebben a pusztában hullotok el!
+{14:33} Gyermekeitek nomád pásztorok módjára élnek itt 40 esztendeig, mert mindaddig viselniük kell a ti hűtlenségetek következményeit, ameddig közületek az utolsó is ki nem pusztul ebből a nemzedékből.
+{14:34} Ti pedig 40 évig viselitek bűneitek terhét és következményeit, mert a felderítés minden napjáért egy-egy évet szabtam ki rátok. Akkor majd megtudjátok, milyen keserves dolog, ha ellenetek fordulok!
+{14:35} Ezt én, az Örökkévaló mondom nektek!« Esküszöm, hogy így bánok ezzel a gonosz néppel, amely összefogott ellenem: mind egy szálig ebben a pusztában fognak meghalni!”
+{14:36} Azok a férfiak, akiket Mózes kiküldött annak a földnek a felderítésére, kettő kivételével rossz híreket
+{14:37} hoztak, és föllázították Izráel egész közösségét Mózes ellen. Emiatt az Örökkévaló csapással sújtotta őket, és meghaltak.
+{14:38} Csak Józsué, Nún fia és Káleb, Jefunne fia maradt életben a 12 felderítő közül.
+{i14:39} A nép megpróbálja elfoglalni Kánaán földjét
+{14:39} Mózes tehát elmondta, amit az Örökkévaló üzent, és az egész nép nagyon elszomorodott.
+{14:40} Másnap korán reggel azonban fölkerekedtek, hogy behatoljanak a dombvidék legmagasabb részeire. Ezt mondták Mózesnek: „Elismerjük, hogy vétkeztünk. De most már mindannyian készen állunk, hogy felmenjünk arra a földre, amelyre az Örökkévaló parancsolta, hogy menjünk”.
+{14:41} Mózes azonban így felelt: „Már megint az ellenkezőjét akarjátok tenni annak, amit az Örökkévaló parancsolt! De miért? Ez a tervetek nem lesz sikeres.
+{14:42} Ne induljatok harcba, mert az Örökkévaló nem lesz veletek, és ellenségeitek csúfosan megvernek titeket!
+{14:43} Amálekiek és kánaániak vannak azon a vidéken veletek szemben, és bizony elhullotok fegyvereik csapásai alatt! Mivel elfordultatok az Örökkévalótól, ő is elfordult tőletek, és nem fog megsegíteni benneteket a harcban!”
+{14:44} De a nép most sem hallgatott Mózesre, hanem magabiztosan elindultak a dombvidék legmagasabb része felé. Mózes és az Örökkévaló Szövetségládája azonban egy lépésnyire sem mozdultak a táborból.
+{14:45} De az ott lakó amálekiek és a kánaániak harcosai lerohanták a behatoló izráeli csapatot, megverték, és egészen Hormáig kergették őket.
+{i15:1} Áldozati törvények
+{15:1} Így szólt az Örökkévaló Mózesnek:
+{15:2} „Mondd meg Izráel népének: Nektek adom azt a földet lakóhelyül, és be fogtok menni oda, hogy birtokba vegyétek.
+{15:3} Akkor majd különböző ajándékokat hoztok az Örökkévalónak: égőáldozatot, véresáldozatot, fogadalmi áldozatot, hálaáldozatot, vagy az ünnepeken szokásos áldozatokat. Borjút, bárányt vagy kecskét áldozzatok, amelynek illatát az Örökkévaló szívesen fogadja.
+{15:4} Az áldozati állattal együtt ilyenkor lisztáldozatot is hozzatok az Örökkévalónak! A lisztáldozat egy tized éfá legyen a legfinomabb lisztből, amelyet össze kell keverni egy negyed hin olívaolajjal.
+{15:5} Az égőáldozatul vagy véresáldozatul hozott minden egyes bárány mellé tegyetek italáldozatul egy negyed hin bort is.
+{15:6} Ha kost áldoztok, akkor tegyetek mellé lisztáldozatot is két tized éfá lisztből, amelyet össze kell keverni egy harmad hin olívaolajjal.
+{15:7} Ezen kívül tegyetek mellé italáldozatul egy harmad hin bort is. Kedves illatú áldozat ez, amelyet az Örökkévaló szívesen fogad.
+{15:8} Amikor bikaborjút hoztok az Örökkévalónak égő- vagy véresáldozatul, fogadalom teljesítésére vagy ünnepi közösségi áldozatul,
+{15:9} akkor tegyetek mellé lisztáldozatul három tized éfá lisztet, amelyet össze kell keverni fél hin olívaolajjal.
+{15:10} Ezen kívül tegyetek mellé italáldozatul fél hin bort is. Kedves illatú áldozat ez, amelyet az Örökkévaló szívesen fogad.
+{15:11} Tehát így készítsétek el az áldozatokat minden
+{15:12} egyes bikaborjú, kos, bárány vagy kecske feláldozásánál.
+{15:13} Ezek a rendelkezések vonatkoznak Izráel népének minden tagjára: így mutassanak be áldozatot ajándékul, hogy az Örökkévaló kedvesen fogadja azt.
+{15:14} Ha pedig egy közöttetek lakó idegen akar tűzáldozatot bemutatni az Örökkévalónak, akkor az idegen is ugyanígy készítse el azt, s akkor az Örökkévaló kedvesen fogadja tőle.
+{15:15} Ugyanaz a rendelkezés érvényes Izráel közösségére és a közöttetek lakó idegenekre is. Ez a törvény örökre érvényes marad, minden következő nemzedékben.
+{15:16} Ezek a törvények és rendelkezések egyformán vonatkoznak rátok, és a közöttetek lakó idegenekre.”
+{15:17} Szólt az Örökkévaló Mózesnek:
+{15:18} „Mondd meg Izráel népének: Amikor majd megérkeztek arra a földre, amelyre vezetlek titeket,
+{15:19} és a föld gabonát terem nektek, akkor a termésből először az Örökkévalónak adjatok lisztáldozatot.
+{15:20} Amikor az új termésből először készítetek tésztát, abból az első kenyeret vigyétek az Örökkévalónak — ez lesz a ti ételáldozatotok a szérűről.
+{15:21} Nemzedékről nemzedékre így vigyétek az Örökkévalónak az új termésből az első kenyeret ételáldozatul.”
+{15:22} „Izráel népe, az Örökkévaló parancsolatokat adott Mózesen keresztül nektek, amelyek érvényben maradnak nemzedékről-nemzedékre. Ha vétkeztek ezek ellen
+{15:23} a parancsok ellen, és nem tartjátok meg mindegyiket, amelyet az Örökkévaló mondott Mózesen keresztül, akkor így kell eljárnotok:
+{15:24} Ha Izráel egész közössége vétkezik, akkor vigyetek az Örökkévalónak egy bikaborjút áldozati ajándékul, a hozzá tartozó liszt- és italáldozattal együtt, az előírás szerint — jó illatú ajándék ez, amelyet az Örökkévaló szívesen fogad — , valamint egy bakot bűnáldozatul.
+{15:25} Amikor a pap bemutatja ezt az áldozatot, akkor engesztelést szerez arra a vétekre nézve Izráel egész közösségének, és az Örökkévaló megbocsát nekik.
+{15:26} Mivel tehát nem szándékos bűnről volt szó, amelyet az egész közösség követett el, és az egész közösség hozott az Örökkévalónak áldozatot a fentiek szerint, ezért az egész közösségnek — beleértve még a közöttük lakó idegeneket is — megbocsát az Örökkévaló.
+{15:27} Ha egy személy nem szándékosan vétkezik, akkor vigyen az Örökkévalónak bűnáldozatul egy esztendős nőstény kecskét.
+{15:28} Amikor a pap bemutatja ezt az áldozatot az Örökkévalónak, akkor engesztelést szerez arra a vétekre nézve az illetőnek, és az Örökkévaló megbocsát neki.
+{15:29} Ez a törvény egyaránt érvényes közöttetek mindenkire, akár Izráel népéhez tartozik, akár közöttetek élő idegenről van szó — feltéve, hogy az illető nem szándékosan vétkezett.
+{15:30} Azonban ha valaki — akár bennszülött, akár közöttetek lakó idegen — szándékosan vétkezik, akkor az ilyet ki kell irtani népe közül, mert tettével gyalázta az Örökkévalót.
+{15:31} Az ilyen személy az Örökkévaló szava ellen lázadt, és megszegte az Örökkévaló parancsát, emiatt viselnie kell bűnének következményét: ki kell irtani őt népe közül”.
+{i15:32} A szombati nyugalom megtörésének büntetése
+{15:32} Amikor Izráel népe a pusztában vándorolt, előfordult egyszer, hogy egy férfit rajtakaptak, hogy a szombati
+{15:33} nyugalom napján tűzifát gyűjtögetett. Odavitték hát az illetőt Mózes, Áron és az egész közösség elé.
+{15:34} Mivel nem volt világos, hogyan büntessék meg, úgy határoztak, hogy őrizet alá helyezik, amíg az Örökkévaló valamilyen kijelentést ad erre nézve.
+{15:35} Egy idő múlva az Örökkévaló szólt Mózesnek: „Annak az embernek meg kell halnia. Vigyétek ki a táboron kívülre, és az egész közösség kövezze meg!”
+{15:36} Így is történt: kivitték a táboron kívülre, és ott megkövezték. Így halt meg az a férfi. Úgy jártak el, ahogyan az Örökkévaló parancsolta Mózesnek.
+{i15:37} A ruhán lévő rojtok
+{15:37} Szólt az Örökkévaló Mózesnek:
+{15:38} „Mondd meg Izráel népének, hogy készítsenek a ruhájuk sarkára rojtokat, és fonjanak a rojtokba kék fonalat — így viseljék ruháikat nemzedékről nemzedékre!
+{15:39} Arra szolgálnak ezek, hogy valahányszor rájuk néztek, jusson eszetekbe, hogy engedelmeskedjetek az Örökkévaló parancsainak, és ne kövessétek a saját szívetek és szemetek kívánságait.
+{15:40} Tehát, emlékezzetek parancsaimra, és engedelmeskedjetek azoknak, hogy az én számomra elkülönített szent nép legyetek.
+{15:41} Én, az Örökkévaló, vagyok Istenetek, aki kihoztalak benneteket Egyiptomból, hogy Istenetekké legyek. Én vagyok az Örökkévaló, Istenetek!”
+{i16:1} Kórah lázadást szít Mózes ellen
+{16:1} A pusztai vándorlás idején történt, hogy Kórah, Dátán, Abirám és Ón összefogtak és fellázadtak Mózes ellen. Kórah Jichár fia, aki Kehát fia, aki Lévi fia volt. Dátán és Abirám Eliáb fiai voltak. Ón Pelet fia volt. 
+{16:2} Dátán, Abirám és Ón Rúben törzsébe tartoztak. Maguk mellé állítottak még vagy 250 férfit Izráel népéből: különböző ismert vezetőket, akiket a közösség választott.
+{16:3} Összegyűltek, odamentek Mózes és Áron elé, és ezt mondták nekik: „Mózes és Áron! Túl sok hatalmat tulajdonítotok magatoknak! Mit képzeltek ti magatokról? Azt hiszitek, különbek vagytok az Örökkévaló népénél? Hiszen ez az egész közösség szent, és az Örökkévaló közöttünk van!”
+{16:4} Mózes egy szót sem válaszolt, csak arccal a földre borult.
+{16:5} Azután fölkelt, és ezt felelte Kórahnak és társainak: „Holnap reggel az Örökkévaló maga fogja megmutatni, ki tartozik hozzá, ki a szent, ki jöhet közel hozzá. Csak az közeledhet az Örökkévalóhoz, akit ő kiválaszt.
+{16:6} Te, Kórah, és a társaid mindannyian jöjjetek ide holnap, hozzatok füstölőket, tegyetek bele parazsat, és rá füstölőszert! Így álljatok
+{16:7} meg az Örökkévaló előtt! Akit az Örökkévaló kiválaszt, az a szent. Ti vagytok azok, léviták, akik túl sokat akartok magatoknak!”
+{16:8} Majd még ezt is mondta Mózes Kórahnak: „Figyeljetek ide, léviták! Izráel Istene kiválasztott titeket Izráel népe közül, hogy közel jöhessetek hozzá. Hiszen nektek adta a
+{16:9} kiváltságot, hogy ellássátok a különféle gyakorlati tennivalókat a Találkozás Sátora szállítása és felállítása körül, meg különböző egyéb módokon szolgálhatjátok az egész közösséget! Mindez kevés nektek?
+{16:10} Az Örökkévaló megengedte neked, Kórah, és testvéreidnek, a lévitáknak, hogy közel jöhessetek hozzá! Ti pedig kevesellitek ezt, és papok is akartok lenni?
+{16:11} Bizony, nem Áron ellen fogtatok össze, hanem az Örökkévaló ellen! Kicsoda Áron, hogy ellene fordultok, és panaszkodok ellene?”
+{16:12} Azután Mózes üzent Dátánnak és Abirámnak, Eliáb fiainak, hogy jöjjenek hozzá. De azok elutasították. „Dehogy megyünk! — mondták. —
+{16:13} Nem elég, hogy kihoztál minket egy tejjel és mézzel folyó földről, hogy itt, a pusztában megölj bennünket? Most még parancsolgatsz is nekünk, mint valami fejedelem?
+{16:14} Nem éppen tejjel és mézzel folyó földre vezettél bennünket! Csak ígérted, de nem adtál nekünk sem szántóföldeket, sem szőlőskerteket örökségül! Meddig fogod még becsapni ezt a népet? Dehogy megyünk!”
+{16:15} Mózes emiatt nagyon megharagudott, és azt mondta az Örökkévalónak: „Uram, te tudod, hogy nem bántottam őket, s nem ártottam nekik! Nem vettem el tőlük még egy szamarat sem! Kérlek, ne fogadd el áldozataikat!”
+{16:16} Azután ezt mondta Kórahnak: „Holnap te és a társaid álljatok meg az Örökkévaló előtt. Áron is ott lesz.
+{16:17} Mindegyikőtök hozza a saját füstölőjét, és tegyen rá tömjént. Tehát összesen 250 füstölőt hozzatok, és Áron is hozza a sajátját”.
+{i16:18} Mózes és Áron közbenjár Izráelért
+{16:18} Így is történt: másnap reggel mind a 250 férfi összegyűlt a Találkozás Sátorának bejárata előtt. Mindenki hozta a füstölőjét, benne izzó parázzsal és rajta tömjénnel. Ott volt Mózes és Áron is.
+{16:19} Kórah összehívta Izráel egész közösségét Mózes és Áron ellen: valamennyien ott álltak a Sátor bejáratánál. Akkor az Örökkévaló dicsősége megjelent — mindenki jól látta.
+{16:20} Az Örökkévaló ekkor Mózeshez és Áronhoz szólt:
+{16:21} „Váljatok külön ettől az összegyűlt közösségtől, mert azonnal megsemmisítem őket!”
+{16:22} Mózes és Áron azonnal arcukra borultak az Örökkévaló előtt, és így kiáltottak hozzá: „Istenünk! Te vagy minden ember szellemének Istene! Miért az egész közösségre haragszol, amikor csak egyetlen férfi vétkezett?”
+{16:23} Az Örökkévaló így válaszolt Mózesnek:
+{16:24} „Mondd meg a népnek, hogy távolodjanak el Kórah, Dátán és Abirám sátraitól!”
+{16:25} Ekkor Mózes fölkelt, és Izráel népének vezetőivel együtt odament Dátánhoz és Abirámhoz.
+{16:26} Majd Mózes figyelmeztette a népet: „Vigyázzatok! Menjetek el ezeknek a gonosz embereknek a sátrai mellől, és semmihez se nyúljatok, ami az övék, nehogy bűneik miatt velük együtt pusztuljatok el!”
+{16:27} Az emberek el is húzódtak Kórah, Dátán és Abirám sátrai mellől, minden oldalról. Dátán és Abirám pedig feleségeikkel, fiaikkal és kicsinyeikkel együtt megálltak sátruk előtt.
+{i16:28} Kórahot és társait elnyeli a föld
+{16:28} Mózes ekkor az egész néphez fordult: „Figyeljetek rám! Most meg fogjátok tudni, hogy az Örökkévaló küldött el engem, hogy mindezeket megtegyem, és nem a saját akaratomat viszem véghez.
+{16:29} Ha ezek az emberek úgy fognak meghalni, mint mindenki más, és ha csak az történik velük, ami mindenki mással is előfordul, akkor nem az Örökkévaló küldött engem.
+{16:30} De ha az Örökkévaló valami újat cselekszik: ha a föld feltátja torkát, és elnyeli őket, és ők a hozzájuk tartozókkal együtt elevenen mennek le a halottak országába, akkor tudjátok meg, hogy az Örökkévaló ellen vétkeztek”.
+{16:31} Alighogy ezt kimondta, meghasadt a föld Kórah és társai lába alatt.
+{16:32} Mintha a föld valóban feltátotta volna torkát: mert hirtelen elnyelte őket egész családjukkal és minden tulajdonukkal együtt.
+{16:33} Ők pedig elevenen hullottak a Seolba mindenestül. Azután a föld ismét bezárult. Kóráh és a társai így vágattak ki Izráel közösségéből.
+{16:34} Az elveszettek kiáltásait hallva a nép rémülten futott szerteszét, és azt kiáltozták: „Meneküljünk, még minket is elnyel a föld!”
+{16:35} Az Örökkévaló ekkor tüzet küldött, amely elpusztította azt a 250 férfit, akik tömjénnel áldoztak.
+{16:36} Mózesnek az Örökkévaló ekkor ezt mondta:
+{16:37} „Szólj Eleázárnak, Áron főpap fiának, hogy szedje össze a 250 bronz tömjénfüstölőt a tűzvész helyéről, mert azok szentté lettek! A parazsat és a hamut szórja szét belőlük. Azok az emberek olyan bűnt követtek el, amely az
+{16:38} életükbe került. Ugyanakkor a kezükben tartott tömjénezők szentek lettek, mert azokat az Örökkévaló elé vitték. Készítsetek azokból a bronz tömjénezőkből vékonyra kalapált lapokat, és borítsátok be velük az égőáldozati oltárt. Emlékeztető jel lesz ez egész Izráel számára”.
+{16:39} Eleázár így is tett: összegyűjtötte a tömjénezőket, amelyekkel az elpusztult léviták füstöltek az Örökkévaló előtt. Majd a tömjénezőket vékony lapokká kalapálták, és beborították velük az oltárt,
+{16:40} ahogy az Örökkévaló megparancsolta Mózesnek. Emlékeztető jel ez Izráel számára, hogy aki nem Áron leszármazottjai közül való, az ne merészeljen tömjénfüsttel az Örökkévaló elé járulni, mert különben úgy jár, mint Kórah és társai.
+{i16:41} Áron áldozata megállítja a csapást
+{16:41} A következő napon Izráel népének egész közössége összegyűlt Mózes és Áron ellen. Zúgolódtak és vádolták őket: „Ti öltétek meg tegnap az Örökkévaló népe közül
+{16:42} azokat az embereket!” Ekkor azonban mind a Találkozás Sátora felé fordultak, mert az Örökkévaló felhője betakarta a Sátrat, és az Örökkévaló dicsősége megjelent fölötte.
+{16:43} Mózes és Áron oda ment a Sátor elé,
+{16:44} és az Örökkévaló szólt Mózeshez:
+{16:45} „Álljatok külön ettől a közösségtől, hadd pusztítsam el őket egy pillanat alatt!” Ekkor Mózes és Áron azonnal arcra borult az Örökkévaló előtt.
+{16:46} Majd Mózes szólt Áronnak: „Siess, fogd a saját tömjéneződet, tégy bele parazsat az oltárról, szórj rá tömjént, szaladj vele a nép közé, és szerezz engesztelést a számukra, mert az Örökkévaló nagyon megharagudott rájuk, és már hullanak is!”
+{16:47} Áron azonnal megtette, amit Mózes mondott: a tömjénezővel odaszaladt a nép közé, ahol a csapástól már egyre-másra hullottak az emberek. Tömjént szórt a parázsra, és így szerzett engesztelést a népnek bűnükért.
+{16:48} Áron tehát — kezében a füstölővel — ott állt az élők és holtak közötti határvonalon, és megállította a csapást.
+{16:49} De addigra már 14 700 fő meghalt a csapás miatt, azokon kívül, akik előző nap Kórah miatt elpusztultak.
+{16:50} Miután a csapás megszűnt, Áron visszatért Mózeshez a Találkozás Sátora elé.
+{i17:1} Áron botja kivirágzik
+{17:1} Az Örökkévaló szólt Mózesnek:
+{17:2} „Hirdesd ki ezeket Izráel népének! Vegyél a törzsek vezetőitől egy-egy botot, és mindegyikre írd fel annak a vezetőnek a
+{17:3} nevét, akitől kaptad. Áron nevét a Lévi botjára írd. Összesen tehát 12 botot gyűjts össze tőlük, minden törzsből egyet.
+{17:4} Majd ezeket a botokat tedd a földre, a Találkozás Sátorában a Szövetségláda elé, ahol találkozom veletek.
+{17:5} Annak a férfinak a botja, akit kiválasztok magamnak, ki fog hajtani. Így fogok véget vetni Izráel népe zúgolódásának, amellyel folyton ellened és Áron ellen támadtak”.
+{17:6} Kihirdette ezt Mózes a népnek, és a törzsek vezetői mind átadtak neki egy-egy botot. Áron botja is ott volt közöttük.
+{17:7} Mózes pedig elhelyezte a botokat az Örökkévaló jelenlétében, a Szövetség Sátorában.
+{17:8} Másnap, amikor Mózes bement a Sátorba, látta, hogy Áron botja — vagyis a Lévi törzsét jelképező bot — kihajtott: zöld leveleket, rügyeket és virágokat hozott, sőt, már mandulát is érlelt.
+{17:9} Ezután Mózes kihozta a botokat az Örökkévaló jelenlétéből, és megmutatta azokat Izráel egész népének. Minden törzsi vezető is látta, majd visszakapta a saját botját.
+{17:10} Akkor az Örökkévaló ezt mondta Mózesnek: „Áron botját tedd vissza a Szövetségláda elé! Őrizzétek meg, és maradjon ott! Szolgáljon figyelmeztető jelül a lázadásra hajlamos népnek, hogy ne zúgolódjanak többé ellenem, mert különben meghalnak!”
+{17:11} Mózes így is tett, visszavitte Áron botját, ahogyan az Örökkévaló parancsolta.
+{17:12} A nép azonban Mózeshez kiáltott: „Látod? Mindannyian meghalunk! Jaj, elveszünk, mind egy szálig elpusztulunk!
+{17:13} Aki csak a közelébe megy az Örökkévaló Sátorának, azonnal meghal! Hát tényleg mind meg kell haljunk?”
+{i18:1} A papokra és lévitákra vonatkozó rendelkezések
+{18:1} Az Örökkévaló ezt mondta Áronnak: „Áron, te és a fiaid, vagyis egész nemzetségetek felelős a szent dolgokért. Ha vétkeztek a szent dolgokkal és a papi szolgálattal kapcsolatban, nektek kell viselnetek a büntetést miatta.
+{18:2} Vedd magad mellé a rokonaidat, ősapád, Lévi leszármazottjait, vagyis a lévitákat, hogy szolgáljanak titeket, papokat. Ők segítsenek nektek, amikor a Szövetség Sátoránál a papi szolgálatot
+{18:3} végzitek. Ők segítsenek nektek a Szent Sátor egész területének őrzésében, de ne érintsék meg a szent dolgokat, vagy az oltárt, mert meghalnak, és ti is meghaltok!
+{18:4} Csak a léviták legyenek a segítőitek, csak ők őrizzék a Találkozás Sátorát, és lássák el a Sátor költöztetésével járó fizikai munkákat! Rajtuk kívül más, aki nem Lévi törzséből származik, nem segíthet nektek ezekben a dolgokban.
+{18:5} Ti őrizzétek a Találkozás Sátorát és az oltárt, nehogy ismét megharagudjak Izráel népére.
+{18:6} Látod, én magam választottam ki Izráel népe közül rokonaitokat, a lévitákat, és nektek ajándékoztam őket, hogy ők végezzék a Találkozás Sátorának szállítását és felállítását.
+{18:7} Te pedig — és utánad a fiaid — , őrizzétek a papi szolgálatok szentségét, és ne engedjetek illetéktelen személyt az oltár közelébe, vagy bemenni a Szentek Szentjébe! Azokat a feladatokat, amelyeket rátok bíztam, csak ti végezzétek! Ha rajtatok kívül valaki más mégis megpróbálná, az halállal lakoljon”.
+{18:8} Az Örökkévaló ezt is mondta Áronnak: „Rád bíztam mindazoknak az áldozatoknak az őrzését és kezelését, amelyeket Izráel népe az Örökkévalónak felajánl. Neked és fiaidnak adtam azokat, mint járandóságotokat. Örökké érvényes rendelkezés ez.
+{18:9} Amikor az emberek különböző áldozatokat hoznak nekem: ételáldozatot, bűnért való áldozatot vagy vétekáldozatot, akkor ezekből minden, amit az oltár tüzén nem égettek el, legyen a tiétek. Minthogy ezek a legszentebb dolgok, úgy is bánjatok velük!
+{18:10} Ezeket csak a Szent Sátor udvarában ehetitek meg, és tartsátok igen szentnek! Családjaitokban minden férfi ehet azokból.
+{18:11} Ugyancsak a ti járandóságotok minden olyan áldozat, amelyet Izráel népéből valaki önként ajánl fel nekem, s amelyet ti felmutattok az Örökkévaló jelenlétében. Ezeket is nektek adtam, egész családotok minden rituálisan tiszta tagja és leszármazottjaitok: fiaitok és leányaitok egyaránt ehetnek belőle.
+{18:12} Szintén nektek adtam az olívaolaj, szőlőmust, gabona és a belőlük készült termékek színe-javát.
+{18:13} Titeket illet aratáskor vagy betakarításkor minden termény első része: amit az emberek ilyenkor az Örökkévalónak hoznak, azt nektek adtam. Egész családotok minden rituálisan tiszta tagja ehet belőle.
+{18:14} Mindaz, amit valaki Izráelben különleges esküvel az Örökkévalónak szentel, szintén legyen a tiétek.
+{18:15} Minden gyermek, aki anyjának elsőszülöttje, az Örökkévaló tulajdona, és hasonlóképpen a háziállatok elsőszülött kicsinyei is. Ezeket az Örökkévalónak kell felajánlani, én pedig nektek adom őket. De mivel az elsőszülött gyermeket és a háziállatok közül a tisztátalan állat kicsinyét meg kell váltani, ezek helyett fogadjátok el a váltságdíjat.
+{18:16} Az elsőszülött gyermeket egy hónapos korában váltsák meg a szülei. Ennek a megszabott mértéke 5 sékel ezüst — a szent sékel szerint, amely 20 gérát ér.
+{18:17} Azonban nem szabad megváltani a szarvasmarha, juh vagy kecske elsőszülött kicsinyeit. Ezek szentek, tehát áldozatra valók. Jó illatú áldozati ajándék ez, amelyet az Örökkévaló szívesen fogad. Az állatok vérét öntsd az oltárra, zsíros részeiket égesd el az oltár tüzén,
+{18:18} húsuk azonban a ti részetek. Titeket illet az áldozatok jobb combja, és a felmutatott áldozatok szegye.
+{18:19} Mindazt, amit az emberek az Örökkévalónak fölajánlanak, mint szent áldozatot, nektek adom. A ti részetek az, leszármazottjaitokkal: fiaitokkal és leányaitokkal együtt. Örökké érvényes rendelkezés ez, a szövetség szerint, amelyet az Örökkévaló kötött veled, Áron, és utódaiddal, s amely fölbonthatatlan”.
+{18:20} Az Örökkévaló ezt is mondta Áronnak: „Az Izráel népe által elfoglalt földből neked és utódaidnak nem adok részt. Nem lesz saját birtokotok. Én vagyok a ti részetek és örökségetek Izráel népe között.
+{18:21} Ami a lévitákat illeti, nekik adtam minden tizedet, amelyet Izráel népe az Örökkévalónak hoz. Ez lesz a léviták öröksége, ezt kapják a szolgálatukért, amelyet a Találkozás Sátora körül végeznek.
+{18:22} De a lévitákon kívül a többi izráeliek ne közeledjenek a Sátorhoz. Ha mégis megteszik, halállal bűnhődjenek!
+{18:23} Csakis a léviták végezhetnek szolgálatot a Sátornál, és ha valaki ebben vétkezik, a léviták viseljék a büntetését. Örökké érvényes rendelkezés számotokra, hogy a léviták végezzék a Szent Sátor őrzését és szállítását. Ők nem kapnak örökségül földtulajdont abból a földből, amelyet Izráelnek ígértem,
+{18:24} mert a lévitáknak adtam minden tizedet, amelyet Izráel népe az Örökkévalónak hoz áldozatul. Ezért mondtam, hogy viszont földbirtokot nem kaphatnak, mint Izráel többi törzse”.
+{18:25} Azután az Örökkévaló szólt Mózeshez:
+{18:26} „Mondd meg a lévitáknak, hogy amikor Izráel népétől megkapják azokat a tizedeket, amelyeket nekik adtam örökségül, akkor ők is vigyenek abból áldozatot az Örökkévalónak! Adjanak tizedet az Örökkévalónak a néptől kapott tizedekből.
+{18:27} Bár a lévitáknak nem lesz saját birtokuk, és így termést sem takarítanak be, mégis úgy tekinti az Örökkévaló a léviták által fölajánlott tizedeket, mintha a cséplésből származó gabona vagy a szőlőprésből származó must lenne.
+{18:28} Tehát a léviták is vigyenek az Örökkévalónak tizedet mindenből, amit Izráel népétől kapnak. Ezeket a tizedekből származó tizedeket azonban a léviták Áron főpapnak adják oda.
+{18:29} Amikor a léviták megkapják a néptől a tizedeket, tegyék félre abból a színe-javát, és azt áldozzák az Örökkévalónak”.
+{18:30} „Még ezt is mondd meg a lévitáknak, Mózes: Amikor a nép behozza nekik a tizedeket, és abból a léviták a legjobb részt odaadják Áronnak, mint a saját tizedüket,
+{18:31} akkor a többit egész családjukkal együtt elfogyaszthatják. Az ő részük ez, amelyet a Sátor körül végzett gyakorlati szolgálatukért kapnak. Ha így járnak el, és ők is tizedet adnak
+{18:32} abból, amit kaptak, akkor nem vétkeznek, és nyugodtan elfogyaszthatják a maradékot. Nem kell attól félniük, hogy szentségtelenné teszik Izráel népének áldozatait, és nem kell attól tartaniuk, hogy emiatt meghalnak”.
+{i19:1} A megtisztulás szertartásai és rendelkezései
+{19:1} Ezt mondta az Örökkévaló Mózesnek és Áronnak:
+{19:2} „Ez a törvény rendelkezése, amelyet az Örökkévaló parancsolt. Mondjátok meg Izráel népének, hogy hozzanak egy vörös színű hibátlan és egészséges tehenet, amelyet még sohasem fogtak igába.
+{19:3} Vigyétek azt Eleázár paphoz, majd ő vezesse ki a táboron kívülre, és ott az ő jelenlétében vágják le az állatot.
+{19:4} Eleázár fogja föl a vért, vigye a Találkozás Sátora elé, és hintsen a vérből az ujjával hétszer a Sátor felé.
+{19:5} Azután égessék el a tehenet Eleázár szeme láttára, ő pedig dobjon a tűzbe cédrusfát, izsópot és vörös fonalat.
+{19:6} Az állat minden részét: bőrét, húsát, vérét és belső részeit is teljesen égessék el, amíg csak hamuvá nem lesz.
+{19:7} Ezután a pap mossa ki a ruháit, és mosakodjon meg, azután visszamehet a táborba, de aznap estig még tisztátalannak számít!
+{19:8} Az, aki a tehenet elégette, mossa ki ruháit, és mosakodjon meg, de aznap estig még tisztátalan!
+{19:9} Valaki más — de erre csak rituálisan tiszta férfi alkalmas — gyűjtse össze az elégetett tehén hamuját, és vigye azt a táboron kívül egy rituálisan tiszta helyre. Ezt a hamut őrizzék meg, hogy Izráel közössége ebből készítse a rituális megtisztulás szertartásához szükséges vizet.
+{19:10} Aki a hamut összegyűjtötte, az mossa ki a ruháit, de aznap estig még tisztátalan! Örökké érvényes rendelkezés ez Izráel népe és a közöttük lakó idegenek számára.
+{19:11} Ha valaki egy ember holttestét megérinti, az tisztátalanná válik 7 napig.
+{19:12} Ebben az esetben a harmadik napon tisztítsa meg magát a megtisztulás vizével, majd a hetedik napon ezt ismételje meg. Azután ismét tiszta lesz. Ha ezt nem teszi meg, akkor tisztátalan marad.
+{19:13} Ha tehát valaki megérint egy emberi holttestet, és utána nem tisztítja meg magát, az tisztátalanná teszi az Örökkévaló Szent Sátorát is, emiatt ki fogják irtani Izráel közösségéből. Mivel a megtisztulás vizével nem tisztították meg, ezért tisztátalan marad.
+{19:14} Amikor valaki a saját sátorában hal meg, a következő rendelkezés szerint kell eljárnotok: Mindazok, akik a halál beálltakor a sátorban tartózkodnak, vagy akkor lépnek be a sátorba, amikor a holttest még ott van, tisztátalanokká válnak hét napig.
+{19:15} Ugyancsak tisztátalanná válik minden olyan edény a sátorban, amely nincs szorosan lefedve.
+{19:16} Ha valaki a szabad ég alatt lévő emberi holttestet, emberi csontot, vagy sírt érint meg — függetlenül attól, hogy az elhunyt csatában esett el, vagy más ok miatt halt meg — , tisztátalanná válik hét napig.
+{19:17} Az ilyen tisztátalan személyt egy másik — de csakis rituálisan tiszta — személy segítségével a következőképpen kell megtisztítani. Az a másik személy tegyen a megégetett tisztulási áldozat, vagyis a vörös tehén hamujából egy edénybe, majd töltsön
+{19:18} arra tiszta forrásvizet. Azután a vízből egy köteg izsóppal hintsen arra, aki a holttest, emberi csont, vagy sír érintése miatt tisztátalanná vált, illetve arra a sátorra, amelyben valaki meghalt, és a sátorban lévő személyekre és edényekre is.
+{19:19} Ezt tegye a harmadik napon, és ismételje meg a hetedik napon is. A hetedik napon azután a tisztátalan személy mossa ki ruháit, majd fürödjön meg, és akkor estétől fogva már rituálisan tiszta lesz.
+{19:20} Azonban, ha valaki tisztátalanná válik, és nem tisztítja meg magát, az tisztátalanná teszi az Örökkévaló Szent Sátorát is, emiatt ki fogják irtani Izráel közösségéből. Mivel a megtisztulás vizével nem tisztították meg, ezért tisztátalan marad.
+{19:21} Örökké érvényes rendelkezés legyen ez Izráel népe számára! Az a személy, aki a tisztátalan emberre hinti a megtisztulás vizét, vagy megérinti ezt a vizet, maga is tisztátalanná válik aznap estig. Ebben az esetben az illető mossa ki a ruháit még estig.
+{19:22} Amit egy rituálisan tisztátalan személy megérint, az is tisztátalanná válik. Ha pedig valaki megérint egy tisztátalan személyt, maga is tisztátalanná lesz azon a napon estig”.
+{i20:1} Az Örökkévaló vizet ad a népnek a kősziklából
+{20:1} Izráel népének egész közössége eljutott a Cin-pusztába az első hónapban, és letelepedett Kádésban. Ott halt meg Mirjám, és ott is temették el.
+{20:2} Azonban ezen a táborhelyen nem volt víz, és a nép ismét elégedetlenkedett. Összegyűltek Mózes és Áron ellen,
+{20:3} szemrehányást tettek Mózesnek, és így kiabáltak: „Miért vezettétek az Örökkévaló népét ebbe a száraz sivatagba? Azt akarjátok, hogy
+{20:4} itt haljunk szomjan az állatainkkal együtt? Bárcsak mi is meghaltunk volna, amikor a testvéreink elpusztultak az Örökkévaló előtt!
+{20:5} Minek hoztatok ki bennünket Egyiptomból? Miért vezettetek ide, erre a kietlen helyre? Itt nincs gabona, nincs füge, sem szőlő, sem gránátalma! Még ivóvizünk sincs!”
+{20:6} Akkor Mózes és Áron otthagyták a tömeget, és a Találkozás Sátorának bejáratához mentek. Ott arcra borultak az Örökkévaló előtt, az Örökkévaló dicsősége pedig megjelent nekik.
+{20:7} Majd az Örökkévaló szólt Mózesnek:
+{20:8} „Vedd a botodat, és hívd össze Izráel közösségét a szikla elé! Te és a testvéred, Áron álljatok a szikla elé, és a nép szeme láttára szóljatok a sziklához, s akkor az vizet ad nektek. Így fakassz vizet a sziklából, hogy ihasson a nép és az állataik is”.
+{20:9} Mózes tehát elvette azt a botot a Találkozás Sátorából, ahogy az Örökkévaló parancsolta.
+{20:10} Majd Áronnal együtt összehívták az egész népet a kőszikla elé. Mózes ezt mondta a népnek: „Figyeljetek ide, ti lázadók! Azt akarjátok, hogy ebből a sziklából fakasszunk nektek vizet?”
+{20:11} Majd felemelte a botot, és kétszer a sziklára ütött vele, amelyből ekkor bőséges forrásvíz zúdult ki. Így az egész nép és az állataik is ihattak, amennyit akartak.
+{20:12} Az Örökkévaló azonban ezt mondta Mózesnek és Áronnak: „Mivel nem bíztatok bennem, s emiatt nem adtatok nekem dicsőséget Izráel népe előtt, ezért nem ti fogjátok ezt a népet bevezetni arra a földre, amelyet nekik adtam”.
+{20:13} Emiatt így nevezték azt a helyet és a kősziklából ömlő vizet: „Meríbá vize” — mivel Izráel népe ott perlekedett az Örökkévalóval, aki bebizonyította nekik, hogy ő szent.
+{i20:14} Edom nem engedi országán Izráelt átvonulni
+{20:14} Mózes Kádésből követeket küldött Edom királyához ezzel az üzenettel: „Testvéred, Izráel népe üzeni: Jól tudod, mennyi baj ért bennünket,
+{20:15} miután őseink Egyiptomba költöztek, és sok ideig ott éltünk. Hallottad, milyen rosszul bántak őseinkkel és velünk az egyiptomiak,
+{20:16} de azután az Örökkévalóhoz kiáltottunk, aki meghallgatott, egy angyalt küldött, és kiszabadított onnan bennünket. Most pedig országod határához érkeztünk, és Kádésban táborozunk.
+{20:17} Kérünk, engedd meg, hogy átvonuljunk országodon! Nem tapossuk le szántóföldjeidet, szőlőskertjeidet, s még vizet sem húzunk kútjaidból. Csak az országúton, a Királyok Útján vonulunk, s nem térünk le róla sem jobbra, sem balra, amíg el nem érjük a túlsó határt”.
+{20:18} De Edom királya így felelt a követeknek: „Nem mehettek keresztül országomon! Ha megpróbáljátok, felfegyverkezve vonulok ki ellenetek”.
+{20:19} A követek alkudozni próbáltak: „Mi valóban csak az országúton szeretnénk vonulni. Még az ivóvízért is hajlandók vagyunk fizetni mind a magunk, mind az állataink számára, csak engedd meg, hogy gyalogszerrel átvonulhassunk! Semmi egyéb szándékunk nincsen”.
+{20:20} Edom királya azonban hajthatatlan maradt: „Nem fogtok keresztülmenni!” — mondta. Ki is vonult nagy és erős hadseregével Izráel ellen a határhoz.
+{20:21} Mivel tehát Edom királya nem engedte a területén átvonulni őket, Izráel népének ki kellett kerülnie ezt az országot.
+{i20:22} Áron halála
+{20:22} Miután Kádést elhagyták, Izráel népe megérkezett a Hór-hegyhez, amely Edom
+{20:23} határán fekszik. Ott a hegyen az Örökkévaló szólt Mózesnek és Áronnak:
+{20:24} „Áron itt meg fog halni, és őseihez csatlakozik. Nem fog bemenni arra a földre, amelyet Izráel népének ígértem, mivel Meríbá vizénél ti ketten nem engedelmeskedtetek a parancsomnak.
+{20:25} Most pedig Mózes, vedd magad mellé Áront és a fiát, Eleázárt, azután menjetek föl a Hór-hegyre.
+{20:26} Ott vedd le Áronról a főpapi ruhát, és öltöztesd abba a fiát, Eleázárt. Áron pedig meg fog halni ott, és őseihez csatlakozik”.
+{20:27} Mózes megtette, amit az Örökkévaló mondott neki. Az egész nép szeme láttára fölmentek hárman a Hór-hegyre.
+{20:28} Ott Mózes levette Áron ruháit, és felöltöztette abba Eleázárt, Áron fiát. Áron ott halt meg, a hegy tetején. Azután Mózes és Eleázár lejöttek a hegyről.
+{20:29} Az egész közösség megtudta, hogy Áron meghalt, és gyászolták őt 30 napig.
+{i21:1} Arád és vidékének elfoglalása
+{21:1} Amikor a Negev-pusztaságban fekvő kánaáni Arád királya meghallotta, hogy Izráel népe az atárimi úton közeledik hozzá, megtámadta a vonuló népet, és foglyokat is ejtett közülük.
+{21:2} Ekkor Izráel népe különleges fogadást tett az Örökkévalónak: „Örökkévaló, ha győzelmet adsz nekünk e nép fölött, akkor városaikat mindenestől neked szenteljük, és velük együtt teljesen elpusztítjuk!”
+{21:3} Az Örökkévaló teljesítette kérésüket, és megsegítette őket, hogy legyőzzék Arád királyának seregét. Ezután városaikat elfoglalták, teljesen elpusztították, s összes lakosaikat kiirtották. Ennek emlékére nevezték el azt a vidéket „Hormának”.
+{i21:4} A bronzkígyó
+{21:4} A nép elindult a Hór-hegytől, és a Vörös-tenger felé vezető úton haladt, hogy Edom királyságának területét kikerülje. De belefáradtak a vándorlásba, elkeseredtek,
+{21:5} és megint zúgolódni kezdtek Isten és Mózes ellen: „Miért hoztatok minket ide Egyiptomból? Azért, hogy ebben a sivatagban pusztuljunk el? Hiszen nincs itt sem ennivaló, sem víz! Elegünk van már ebből a nyomorúságos ételből! Utáljuk!”
+{21:6} Válaszul az Örökkévaló mérges kígyókat küldött, amelyeknek halálos volt a marása. Sokan el is pusztultak a kígyómarás miatt.
+{21:7} Végül a nép Mózeshez gyülekezett, és ezt mondták: „Vétkeztünk, mert az Örökkévaló ellen és ellened szóltunk! Kérünk, könyörögj értünk az Örökkévalóhoz, hogy küldje el rólunk ezeket a kígyókat!” Mózes ekkor könyörgött az Örökkévalónak,
+{21:8} aki ezt felelte: „Készíts bronzkígyót, és erősítsd fel egy magas póznára! Akiket a mérges kígyók megmarnak, nézzenek föl a bronzkígyóra, akkor életben maradnak”.
+{21:9} Mózes így is tett: készített bronzból egy kígyót, és felerősítette egy magas póznára. Akit pedig a kígyók megmartak, ha fölnézett a bronzkígyóra, életben maradt és meggyógyult.
+{i21:10} Izráel tovább vonul a Piszgá-hegy felé
+{21:10} Azután Izráel népe tovább vonult, és tábort vertek Óbótnál.
+{21:11} Onnan is tovább indultak, és letáboroztak Ijjé-Abárimban, a Moáb országától keletre fekvő pusztában.
+{21:12} A következő állomáshelyük a Zered-patak mellett volt.
+{21:13} Azután ismét tovább vonultak, majd az Arnón túlsó partján vertek tábort, abban a pusztában, amely már az emóriak területe volt. Ugyanis, Moáb országa és az emóriak területe között az Arnón-patak a határ.
+{21:14} Így van ez megírva az Örökkévaló Harcainak Könyvében: „… és Váhéb Szúfában, és az Arnón-patak meredek falú völgyei,
+{21:15} és a völgyeket kísérő dombok, amelyek Ar városáig vezetnek. Ezek a helyek határolják Moáb országát”.
+{21:16} Onnan Beérbe mentek. Ott van az a kút, amelynél az Örökkévaló azt mondta Mózesnek: „Gyűjtsd össze a népet a kúthoz, akkor majd adok nekik vizet!”
+{21:17} Akkor énekelte Izráel népe ezt az éneket: „Kút, telj meg vízzel! Énekeljetek róla mindannyian!
+{21:18} Kút, amelyet a vezérek ástak, forrás, amelyet fejedelmek nyitottak vezéri pálcájukkal, ez a puszta ajándéka!”
+{21:19} Ezután tovább vonultak Mattánából Nahaliélbe, onnan Bámótba,
+{21:20} majd a völgybe, Moáb földjére. Ez a hely már a Piszgá-hegy lábánál fekszik, amelynek tetejéről látni lehet az egész sivatagot.
+{i21:21} Győzelem Szihón király fölött
+{21:21} Izráel követeket küldött Szihónhoz, az emóriak királyához, ezzel az üzenettel:
+{21:22} „Kérünk, engedj keresztül bennünket az országodon! Nem fogjuk letaposni sem szántóföldjeidet, sem szőlőidet, még kútjaidból sem iszunk. Csak az országúton, a Királyok Útján vonulunk, amíg át nem érünk földeden”.
+{21:23} De Szihón nem engedte meg Izráel népének, hogy átvonuljon országán. Sőt, összegyűjtötte seregét, és felvonult ellenük, hogy megütközzön velük a pusztaságban, és Jahac mellett meg is támadta őket.
+{21:24} Azonban Izráel a csatában legyőzte Szihón seregét, országát pedig elfoglalta az Arnón-patak és a Jabbók-patak közötti területen. A Jabbók volt Ammon országának megerősített határa.
+{21:25} Az elfoglalt területen Izráel népe birtokba vette az emóriak városait, és letelepedett azokban. Elfoglalták Hesbón városát, és a körülötte lévő falvakat is.
+{21:26} Hesbón volt azelőtt a városa Szihónnak, az emóriak királyának, aki régebben Moáb királyai ellen harcolt, és az Arnón patak terjedő földet elvette tőlük.
+{21:27} Ezért énekelték az emóriak egykor ezt az éneket: „Jöjjetek Hesbónba! Építsétek újjá Szihón városát!
+{21:28} Tűz csapott ki Hesbónból, láng lobbant fel Szihón városából, megégette Ar városát Moáb földjén, megemésztette Arnón dombjait.
+{21:29} Jaj neked, Moáb! Elvesztél, Kemós népe! Földönfutók lettek fiaid, leányaid meg az emóri Szihón király rabszolgái”.
+{21:30} De mi legyőztük az emóriakat, leromboltuk városaikat Hesbóntól Díbónig, Nasímtól Nófahig és Médebáig.
+{i21:31} Győzelem Óg király fölött
+{21:31} Így hát Izráel népe elfoglalta az emóriak földjét.
+{21:32} Mózes felderítőket küldött, hogy kémleljék ki Jazér városát. Azután Izráel elfoglalta Jazért, meg a körülötte lévő falvakat, az ott élő emóriakat pedig elűzték.
+{21:33} Majd tovább vonultak Básán felé. Akkor Óg, Básán királya eléjük vonult hadseregével Edrei városához, hogy megütközzön velük.
+{21:34} De az Örökkévaló ezt mondta Mózesnek: „Ne félj Ógtól! Kezedbe adom őt is, népét is, meg országát is. Úgy bánj vele, mint Szihónnal, az emóriak királyával, aki Hesbónban uralkodott!”
+{21:35} Ezután a csatában Izráel legyőzte Óg seregét. Őt magát is megölték fiaival együtt, és egész népét kiirtották. Senki sem maradt közülük életben. Óg országát pedig elfoglalta Izráel.
+{i22:1} Moáb királya fel akarja bérelni Bálám prófétát
+{22:1} Izráel tovább vonult, majd tábort vert Jerikóval szemben, a Jordán keleti oldalán, Moáb síkságán.
+{22:2} Abban az időben Bálák, Cippór fia volt Moáb királya, aki látta, hogyan bánt el Izráel
+{22:3} az emóriakkal. Bálák egész népével együtt nagyon megrettent Izráeltől. Azt mondták Midján fejedelmeinek: „Nézzétek az
+{22:4} izráeliek tömegeit! Úgy el fognak pusztítani minden királyságot körülöttünk, ahogy a marhacsorda lelegeli a rét füvét”.
+{22:5} Ezért hát Bálák követeket küldött Bálámhoz, Beór fiához, aki az Eufrátesz melletti Petór városában lakott, hogy hívják meg hozzá. Ezt üzente a követek által: „Nézd Bálám! Egy nép jött ki Egyiptomból. Oly sokan vannak, hogy ellepik a föld színét, és éppen országom mellett telepedtek le!
+{22:6} Sietve jöjj hát hozzám, és átkozd meg őket, mert erősebbek nálunk! Akkor talán legyőzhetem és elűzhetem őket országom határáról. Hiszen jól tudom, hogy akit te megáldasz, az áldott lesz, akit pedig megátkozol, az átkozott lesz”.
+{22:7} A követek, akik Moáb és Midján tekintélyes vezetői voltak, elindultak, és ajándékokat vittek Bálámnak. Amikor megérkeztek, átadták a király üzenetét.
+{22:8} Bálám erre így válaszolt: „Szálljatok meg itt ma éjjel, és holnap választ adok nektek, annak megfelelően, amit az Örökkévaló mond nekem”. A moábi vezetők tehát ott maradtak éjszakára.
+{22:9} Azon az éjjelen Isten Bálámhoz jött, és megkérdezte tőle: „Kik ezek az emberek, akik megszálltak nálad?”
+{22:10} „Moáb királya, Bálák, Cippór fia küldte őket hozzám — felelt Bálám — , ezzel az üzenettel:
+{22:11} »Egy nép jött ki Egyiptomból. Oly sokan vannak, hogy ellepik a föld színét. Jöjj hát hozzám, és átkozd meg őket, akkor talán legyőzhetem és elűzhetem őket.«”
+{22:12} De Isten azt mondta Bálámnak: „Ne menj velük! Nem szabad megátkoznod azt a népet, mert áldottak ők!”
+{22:13} Másnap reggel Bálám ezt válaszolta a király követeinek: „Térjetek vissza országotokba, de nélkülem, mert az Örökkévaló nem engedte meg, hogy veletek menjek”.
+{22:14} A moábi vezetők tehát visszatértek Bálák királyhoz, és jelentették: „Királyunk, Bálám nem akart eljönni velünk”.
+{22:15} Ezután Bálák ismét követeket küldött Bálámhoz, de ezúttal népesebb küldöttséget állított össze magasabb rangú vezetőkből, mint először.
+{22:16} Ezek is elmentek Bálámhoz, és tolmácsolták a király üzenetét: „Ezt üzeni neked Bálák, Cippór fia, Moáb királya: »Semmi se tartson vissza téged attól, hogy hozzám jöjj,
+{22:17} mert igen gazdagon megjutalmazlak, és megadom, amit kívánsz, csak jöjj, és átkozd meg azt a népet a kedvemért!«”
+{22:18} De Bálám így felelt nekik: „Ha királyotok ezüsttel-arannyal színig töltve nekem adná palotáját, akkor sem tehetnék Istenem, az Örökkévaló parancsa ellenére semmit.
+{22:19} De azért csak szálljatok meg nálam ma éjjel, mint az előző követek. Hadd tudjam meg, vajon mond-e nekem az Örökkévaló valamit azon kívül, amit a múltkor mondott”.
+{22:20} Azon az éjjelen az Örökkévaló ismét Bálámhoz jött, és azt mondta: „Ha ezek az emberek azért jöttek, hogy elhívjanak téged, akkor menj velük, de vigyázz, hogy csak azt tedd, amit mondok!”
+{i22:21} Az ostoba próféta és okos szamara
+{22:21} Így hát másnap reggel Bálám megnyergelte a szamarát, és útnak indult a moábi követekkel együtt.
+{22:22} Két szolgája is elkísérte az útra. Isten azonban megharagudott Bálámra, amiért ő elindult erre az útra. Ezért az Örökkévaló angyala kivont karddal a kezében elállta az
+{22:23} utat Bálám előtt. Amikor Bálám szamara meglátta az angyalt, letért az útról a mezőre, hogy kikerülje, Bálám pedig ütni kezdte a szamarát, hogy visszaterelje az útra.
+{22:24} Ezután az angyal egy szoros helyen, két szőlőskert között állta el az utat, ahol jobbról is, balról is kőkerítés húzódott.
+{22:25} A szamár látta az angyalt, és annyira a kőkerítéshez lapult, hogy Bálám lábát is odaszorította. Emiatt Bálám másodszor is megverte a szamarát.
+{22:26} Majd az angyal előre ment, és egy olyan szűk helyen állt meg, ahol már végképp nem lehetett kitérni előle sem jobbra, sem balra.
+{22:27} Amikor a szamár meglátta őt, lefeküdt a földre — pedig Bálám rajta ült — , és nem volt hajlandó továbbmenni. Erre Bálám nagyon mérges lett, és a botjával megint elverte a szamarát.
+{22:28} Akkor az Örökkévaló megnyitotta a szamár száját, hogy beszélni tudjon. A szamár pedig ezt kérdezte a gazdájától: „Mit vétettem neked, hogy már háromszor is megvertél?”
+{22:29} „Bolondot csináltál belőlem! — felelte mérgesen Bálám. — Ha kard lenne a kezemben, már meg is öltelek volna!”
+{22:30} De a szamár így válaszolt: „A te szamarad vagyok, Bálám! Régtől fogva hordalak téged a hátamon, de soha nem tettem veled ilyet ezelőtt, így van?” „Ez igaz!” — ismerte el Bálám.
+{22:31} Akkor az Örökkévaló megnyitotta Bálám szemét, aki csak ekkor látta meg az angyalt, amint ott állt előtte az úton, kivont kardjával a kezében. Ekkor Bálám földig hajolt az angyal előtt,
+{22:32} aki megszólította: „Bálám! Miért verted meg a szamarad háromszor is? Látod, én magam jöttem ki eléd, hogy megállítsalak, mert rossz úton jársz.
+{22:33} A szamarad látott engem, és már háromszor is kitért előlem. Ha nem tette volna, téged megöltelek volna, őt meg életben hagytam volna”.
+{22:34} Bálám így válaszolt: „Bocsáss meg! Most már látom, hogy vétkeztem, mert nem tudtam, hogy te vagy az, aki elállja utamat! De most inkább visszafordulok, ha nem tetszik neked, amit teszek”.
+{22:35} Az angyal így felelt: „Menj el ezekkel a férfiakkal, de csak azt mondd, amit tőlem hallasz!” Így hát Bálám továbbment a király követeivel.
+{22:36} Amikor Bálák király meghallotta, hogy Bálám közeledik, eléje sietett, egészen országa északi határáig, a móábi Ar városáig, amely az Arnón-patak mellett fekszik.
+{22:37} Azt mondta Bálámnak: „Miért nem jöttél azonnal, amikor követeket küldtem hozzád? Azt hitted, nem tudlak eléggé megjutalmazni?”
+{22:38} Bálám így felelt: „Látod, eljöttem hozzád! De nincs hatalmam rá, hogy akármit is mondjak magamtól. Azt kell mondanom, amit Isten a számba ad”.
+{22:39} Ezután együtt mentek Kirját-Húcótba,
+{22:40} ahol Bálák marhákat és juhokat áldozott, és azoknak húsából küldött Bálámnak és a moábi vezetőknek is.
+{22:41} Másnap reggel Bálák magával vitte Bálámot Bamót-Baál magaslataira, ahonnan már látni lehetett Izráel táborának szélét.
+{i23:1} Bálám első próféciája
+{23:1} Akkor Bálám ezt mondta Bálák királynak: „Építtess itt 7 oltárt, és készíts elő 7 bikát és 7 kost áldozatul”.
+{23:2} A király mindezt előkészítette, majd Bálámmal együtt föláldoztak mindegyik oltáron egy bikát és egy kost.
+{23:3} Ezután Bálám azt mondta a királynak: „Maradj itt az oltár mellett, amelyen az égőáldozat van, én pedig távolabb megyek. Hátha megjelenik nekem az Örökkévaló, és ad valamilyen kijelentést. Akkor majd elmondom neked.” Ezután Bálám fölment egy kopár hegyoromra.
+{23:4} Isten megjelent Bálámnak, aki így szólt hozzá: „Megépítettem a 7 oltárt, és föláldoztam neked 7 bikát és 7 kost”.
+{23:5} Az Örökkévaló pedig Báláknak szóló üzenetet adott Bálám szájába, és ezt mondta neki: „Menj vissza Bálákhoz, és ezt mondd neki!”
+{23:6} Bálák vissza is ment a királyhoz, aki még mindig ott állt az oltár mellett, Moáb vezetőivel együtt.
+{23:7} Akkor Bálám ezt a próféciát mondta: „Arám földjéről hívott ide Bálák, Moáb királya hozott kelet hegyei közül. »Jöjj, átkozd meg nekem Jákób népét, jöjj, rontsd meg Izráel nemzetét!« — kérte.
+{23:8} De hogyan átkozhatnám, akit Isten nem átkoz? Nem szólhatok az ellen, aki ellen nem szól az Örökkévaló!
+{23:9} A sziklák csúcsairól nézem Izráelt, a hegyek tetejéről látom őket: olyan nép ez, amely egyedül lakik, nem tartozik a nemzetek közé!
+{23:10} Ki tudná megszámlálni Jákób utódait? Hiszen Izráelben annyian vannak, mint a porszemek! Bár úgy halnék meg, mint ezek az igazak! Bárcsak úgy végezném, mint ez a nép!”
+{23:11} Bálák király fölháborodott: „Mit tettél? Ide hozattalak, hogy átkozd meg ellenségeimet, és te megáldottad őket!”
+{23:12} De Bálám ezt felelte: „Csak azt mondhatom, amit az Örökkévaló a számba ad!”
+{23:13} „Jöjj velem egy másik helyre, ahonnan Izráel táborának csak egy részét láthatod, nem az egészet! Majd onnan átkozd meg őket!”
+{23:14} Elvezette hát a király Bálámot az őrszemek helyére, a Piszgá-hegy tetejére, majd ott is építtetett 7 oltárt, és égőáldozatul föláldozott rajtuk 7 bikát és 7 kost.
+{23:15} Ezután Bálám azt mondta a királynak: „Maradj itt, az égőáldozat mellett, én pedig távolabb megyek, hogy az Örökkévalóval találkozzam”.
+{23:16} Az Örökkévaló ismét elébe jött Bálámnak, igét adott a szájába, és ezt mondta neki: „Menj vissza Bálákhoz, és ezt mondd neki”.
+{23:17} Bálám vissza is ment a királyhoz, aki még mindig ott állt az oltár mellett, Moáb vezetőivel együtt. „Mit mondott az Örökkévaló?” — kérdezte a király.
+{i23:18} Bálám második próféciája
+{23:18} Akkor Bálám ismét prófétált: „Figyelj most, Bálák! Hallgass rám, Cippór fia!
+{23:19} Nem ember az Isten, hogy hazudjon, nem halandó teremtmény ő, hogy meggondolja magát! Amit mond, azt meg is teszi, amit ígér, beteljesíti.
+{23:20} Áldjam Izráelt, azt parancsolta nekem, mert népét ő már megáldotta. Ezt én meg nem fordíthatom!
+{23:21} Nem tervezett az Örökkévaló rosszat Jákób ellen, nem akar ártani Izráel népének. Velük van az Örökkévaló, Izráel Istene, ezért ujjonganak Királyuknak.
+{23:22} A vad bivaly erejével hozta ki Isten e népet Egyiptomból.
+{23:23} Jákób ellen nem ér semmit a varázslás, nem fog az átok Izráelen. De népének idejében tudtára adja Isten, Izráelnek megmondja, hogy mit tervezett!
+{23:24} Micsoda nemzet ez! Ha fölkel, olyan mint a fiatal oroszlán, ha zsákmányra indul, mint a hímoroszlán, le nem nyugszik, míg prédát nem ejt, és annak vérét nem issza”.
+{23:25} Akkor Bálák király fölkiáltott: „Ha már nem átkozod, legalább ne áldd meg őket!”
+{23:26} „Nem megmondtam neked, hogy azt fogom tenni, amit az Örökkévaló parancsol nekem?”
+{23:27} Ezután Bálák király még egyszer próbálkozott: „Jöjj velem Bálám még egy másik helyre, hátha ott megengedi neked Isten, hogy onnan megátkozd azt a népet a kedvemért”.
+{23:28} Elvezette hát Bálámot a Peór-hegy tetejére, ahonnan az egész környező pusztaságot jól lehetett látni.
+{23:29} Ott Bálám ismét ezt mondta: „Építs nekem itt 7 oltárt, és készíts elő 7 bikát és 7 kost az áldozathoz”.
+{23:30} A király mindent elkészíttetett, majd föláldozták az állatokat égőáldozatul az oltárokon.
+{i24:1} Bálám harmadik próféciája
+{24:1} Bálám észrevette, hogy az Örökkévaló áldani akarja Izráel népét. Ezért nem folyamodott többé a szokásos varázslathoz, mint addig tette, hanem a puszta felé fordult.
+{24:2} Látta a távolban Izráel sátrait, ahogy törzsenként, a megszabott rendben táboroztak. Akkor Isten Szelleme szállt rá,
+{24:3} és megint prófétálni kezdett: „Ezt mondja Bálám, Beór fia, a megnyílt szemű férfi,
+{24:4} aki hallja Isten szavát, aki látja a Mindenhatótól kapott látomást, arcára borulva, de nyitott szemmel:
+{24:5} Milyen szépek a sátraid, ó Jákób népe! Mily gyönyörűek hajlékaid, Izráel!
+{24:6} Mint pálmafák hosszú sora, mint virágzó kertek a folyó mellett, mint az Örökkévaló ültette illatozó aloék vagy patakparti cédrusok!
+{24:7} Izráel vedreiből ömlik a víz, vetéseit bőségesen öntözi. Királyuk hatalmasabb Agágnál is, és királyságuk felemelkedik.
+{24:8} A vad bivaly erejével hozta ki Isten Egyiptomból e népet, amely legyőzi ellenségeit, nyilaival átveri a nemzeteket, s még csontjaikat is összetöri.
+{24:9} Mint oroszlán, olyan ez a nép! Leheveredik, nyugszik a helyén, megpihen, mint nőstényoroszlán, ki merné felriasztani? Bizony, áldott, aki téged áld, Izráel! De átkozott, aki átkozni mer!”
+{24:10} Ennek hallatára Bálák király megharagudott Bálámra, és összecsapta kezét: „Hát ezért hívattalak ide, hogy megáldjad ellenségeimet? Azt kértem tőled, hogy átkozd meg őket, te pedig már háromszor is áldást mondtál átok helyett!
+{24:11} Takarodj a szemem elől, és sürgősen térj vissza földedre! Megígértem, hogy gazdagon megjutalmazlak, de látod, az Örökkévaló megfosztott tőle!”
+{24:12} De Bálám így felelt: „Emlékezz, mit válaszoltam hozzám küldött követeidnek:
+{24:13} »Ha királyotok, Bálák, ezüsttel-arannyal színig töltve nekem adná palotáját, akkor sem tehetnék az Örökkévaló parancsa ellenére sem jót, sem rosszat. Azt kell mondanom, amit az Örökkévaló parancsol nekem.«
+{24:14} Most pedig visszatérek a saját népemhez, de előbb még feltárom előtted, mit fog Izráel tenni a te népeddel”.
+{i24:15} Bálám negyedik próféciája
+{24:15} Ekkor Bálám ismét prófétált: „Ezt mondja Bálám, Beór fia, a megnyílt szemű férfi,
+{24:16} aki hallja Isten szavát, aki tudását a Felségestől kapja, aki látja a Mindenhatótól kapott látomást, arcára borulva, de nyitott szemmel:
+{24:17} Látom jönni, de nem most, nézem őt, de még nem hamar: csillag származik Jákóbtól, királyi jogar emelkedik magasra Izráelből, szétzúzza Moáb fejedelmeit, összetöri Sét minden fiának fejét.
+{24:18} Bátran cselekszik Izráel: Edom földjét elfoglalja, Széír földjét ellenségeitől birtokba veszi.
+{24:19} Uralkodni fog, aki Jákóbtól származik, és elpusztítja az Arból menekülőket”.
+{24:20} Majd Bálám Amálek népére tekintett, és ezt prófétálta róla: „Bár Amálek a nemzetek eleje, mégis teljes pusztulás a vége!”
+{24:21} Majd a kéniek népére nézett, és ezt prófétálta róluk: „Magas sziklára raktad fészkedet, biztonságban érzed magad,
+{24:22} Asszíria mégis fogságba hurcolja népedet, és fészkedet fölégeti!”
+{24:23} Majd ismét prófétált: „Jaj, ki marad életben, amikor Isten ezt megteszi?
+{24:24} Hajók jönnek Kittim partjáról, s hódítók alázzák meg Asszíriát és Ébert, majd maguk is elpusztulnak”.
+{24:25} Ezután Bálám hazatért, és Bálák király is elment a maga útján.
+{i25:1} Izráel testi és szellemi paráznasága Baál-Peórban
+{25:1} Amikor Izráel népe Sittímben táborozott, a férfiak szexuális bűnt követtek el a moábi nőkkel,
+{25:2} akik meghívták őket, hogy vegyenek részt olyan pogány szertartáson, ahol a moábiak a maguk bálványisteneinek áldoztak. Sokan el is mentek, részt vettek ezeken az áldozati lakomákon, és imádták a moábiak bálványisteneit.
+{25:3} Így történt, hogy Izráelből sokan Baál-Peórhoz, ehhez a hamis bálványistenhez csatlakoztak. Emiatt az Örökkévaló nagyon megharagudott Izráelre,
+{25:4} és ezt mondta Mózesnek: „Hívasd a nép összes vezetőjét, és végeztesd ki őket az egész nép szeme láttára, majd a holttestüket akaszd föl az Örökkévaló előtt! Akkor majd elmúlik az Örökkévaló lángoló haragja, amely Izráel ellen föllobbant”.
+{25:5} Mózes hívatta Izráel bíráit, és ezt parancsolta nekik: „Mindegyikőtök ölje meg a rábízottak közül azokat, akik csatlakoztak Baál-Peórhoz, hogy azt a bálványt imádják!”
+{25:6} Mózes és Izráel egész közössége összegyűlt a Találkozás Sátorának bejárata előtt, és sírtak. Egy izráeli férfi éppen akkor hozott magával egy midjáni nőt az egész közösség szeme láttára, és bevitte családja sátrába.
+{25:7} Fineás azonban — aki Áron fiának, Eleázárnak a fia volt — otthagyta a közösséget, fogta a lándzsáját,
+{25:8} utána ment az izráeli férfinak a sátorba, és egyszerre keresztüldöfte a férfit és a nőt is deréktájon a lándzsájával. Ekkor megszűnt a csapás, amellyel az Örökkévaló sújtotta Izráel népét,
+{25:9} de addigra már 24 000 ember meghalt a táborban.
+{25:10} Akkor az Örökkévaló ezt mondta Mózesnek:
+{25:11} „Mivel Fineás, Eleázár fia, Áron főpap unokája féltő szeretetemtől indítva cselekedett, ezzel megmentette haragomtól Izráel népét: tehát nem fogom teljesen elpusztítani őket.
+{25:12} Mondd meg Fineásnak, hogy ezért szövetséget kötök vele: a barátom lesz örökké!
+{25:13} Fineással és utódaival szövetséget kötök, hogy örökre papjaim legyenek, mert Fineás féltő szeretetre indult, Istenéért cselekedett — és így szerzett engesztelést Izráel számára”.
+{25:14} Ez volt az a két személy, akiket Fineás egyszerre megölt: az izráeli férfi Zimri, Szálú fia, Simeon törzse egyik nemzetségének vezetője,
+{25:15} a midjáni asszony pedig Kozbi, Cúr leánya. Cúr Midján egyik nemzetségének vezetője volt.
+{25:16} Ezután az Örökkévaló szólt Mózesnek:
+{25:17} „A midjániak ellenségeitekké váltak, amikor csapdába csaltak benneteket Peórnál. Ugyancsak csapdát állítottak Kozbi, a midjáni vezető leánya által, akit megöltek
+{25:18} a csapás napján, amely Peór miatt sújtott Izráelre. Ezért hát támadjátok meg a midjániakat, és verjétek szét őket, mert ellenségeitek ők!”
+{i26:1} A második népszámlálás
+{26:1} Miután a csapás elmúlt, ezt mondta az Örökkévaló Mózesnek, és Eleázár főpapnak, Áron fiának:
+{26:2} „Számoljátok össze Izráel egész közösségét házuk népe szerint! Vegyetek számba minden hadköteles férfit, vagyis akik már elmúltak 20 évesek!”
+{26:3} Ebben az időben Izráel a Jordán mellett, Moáb síkságán táborozott, Jerikóval átellenben. Tehát Mózes és Eleázár főpap kihirdette a népnek:
+{26:4} „Népszámlálást kell tartanunk. Számba fogunk venni minden 20 évesnél idősebb férfit, ahogy az Örökkévaló parancsolta Mózesnek és azoknak, akik kijöttek Egyiptomból”.
+{i26:5} Rúben törzse
+{26:5} Rúben volt Izráel elsőszülöttje. Az ő leszármazottjai
+{26:6} a következők: Hanók, Pallú, Hecrón és Karmi.
+{26:7} Mindegyiküktől egy-egy nemzetség származott. Ezek Rúben törzsének nemzetségei, amelyekben összesen 43 730 férfit vettek számba.
+{26:8} Pallú fia Eliáb,
+{26:9} akinek fiai: Nemúél, Dátán és Abirám. A két utóbbi a közösség választott vezetője volt, és lázadást szítottak Mózes és Áron ellen Kórah csoportjával együtt. Valójában az Örökkévaló ellen lázadtak föl,
+{26:10} ezért a föld megnyílt a lábuk alatt, és elnyelte valamennyiüket. Ugyanakkor 250 férfit tűz emésztett meg. Mindez figyelmeztető jel lett Izráel számára.
+{26:11} De Kórah gyermekei nem haltak meg ebben a csapásban.
+{i26:12} Simeon törzse
+{26:12} Simeon leszármazottjai nemzetségeik szerint a következők voltak: Nemuél,
+{26:13} Jámin, Jákin, Zerah és Saul. Mindegyiküktől egy-egy nemzetség származott.
+{26:14} Ezek Simeon törzsének nemzetségei, amelyekben összesen 22 200 férfit vettek számba.
+{i26:15} Gád törzse
+{26:15} Gád leszármazottjai nemzetségeik szerint a következők
+{26:16} voltak: Cefón, Haggi, Súni, Ozni, Éri,
+{26:17} Aród és Aréli. Mindegyiküktől egy-egy nemzetség származott.
+{26:18} Ezek Gád törzsének nemzetségei, amelyekben összesen 40 500 férfit vettek számba.
+{i26:19} Júda törzse
+{26:19} Júda leszármazottjai nemzetségeik szerint a következők voltak: Sélá, Pérec és Zerah. Mindegyiküktől egy-egy nemzetség
+{26:20} származott. (Júda két fia, Ér és Ónán még sok évvel korábban Kánaán földjén meghalt.)
+{26:21} Pérec fiai Hecrón és Hámul. Mindegyiküktől egy-egy nemzetség származott.
+{26:22} Ezek Júda törzsének nemzetségei, amelyekben összesen 76 500 férfit vettek számba.
+{i26:23} Issakár törzse
+{26:23} Issakár leszármazottjai nemzetségeik szerint a következők voltak: Tólá,
+{26:24} Púva, Jásúb és Simrón. Mindegyiküktől egy-egy nemzetség származott.
+{26:25} Ezek Issakár törzsének nemzetségei, amelyekben összesen 64 300 férfit vettek számba.
+{i26:26} Zebulon törzse
+{26:26} Zebulon leszármazottjai nemzetségeik szerint a következők voltak: Szered, Élón és Jahleél. Mindegyiküktől egy-egy nemzetség származott.
+{26:27} Ezek Zebulon törzsének nemzetségei, amelyekben összesen 60 500 férfit vettek számba.
+{i26:28} Manassé törzse
+{26:28} Józsefnek két fia volt: Manassé és Efraim. Mindkettőtől egy-egy törzs származott, a maga nemzetségeivel.
+{26:29} Manassé leszármazottjai nemzetségeik szerint a következők voltak: Mákír, és a fia Gileád. Mindegyiküktől egy-egy nemzetség származott.
+{26:30} Gileád fiai: Íezer, Hélek,
+{26:31} Aszriél, Sikem,
+{26:32} Semidá és Héfer. Mindegyiküktől egy-egy nemzetség származott.
+{26:33} Célofhád Héfer fia volt, de neki csak leányai voltak: Mahlá, Nóá, Hoglá, Milká és Tircá.
+{26:34} Ezek Manassé törzsének nemzetségei, amelyekben összesen 52 700 férfit vettek számba.
+{i26:35} Efraim törzse
+{26:35} Efraim leszármazottjai nemzetségeik szerint a következők voltak: Sútelah, Beker és Tahan. Mindegyiküktől egy-egy nemzetség származott.
+{26:36} Sútelah leszármazottja Érán, akitől egy nemzetség származott.
+{26:37} Ezek Efraim törzsének nemzetségei, amelyekben összesen 32 500 férfit vettek számba. Ezek József leszármazottjai, nemzetségeik szerint.
+{i26:38} Benjámin törzse
+{26:38} Benjámin leszármazottjai nemzetségeik szerint a következők voltak: Bela,
+{26:39} Asbél, Ahirám, Súfám, és Húfám. Mindegyiküktől egy-egy nemzetség származott.
+{26:40} Bela leszármazottjai: Ard és Naámán. Mindegyiküktől egy-egy nemzetség származott.
+{26:41} Ezek Benjámin törzsének nemzetségei, amelyekben összesen 45 600 férfit vettek számba.
+{i26:42} Dán törzse
+{26:42} Dán leszármazottjai nemzetségeik szerint a következők voltak: Súhám, és a tőle származó nemzetség. Ez Dán törzsének egyetlen nemzetsége,
+{26:43} amelyből azonban igen sok család származott. Ezekben összesen 64 400 férfit vettek számba.
+{i26:44} Ásér törzse
+{26:44} Ásér leszármazottjai nemzetségeik szerint a következők voltak: Jimná, Jisvi és Berija. Mindegyiküktől egy-egy nemzetség származott.
+{26:45} Berija leszármazottjai: Héber és Malkiél, akiktől egy-egy nemzetség származott.
+{26:46} Ásér leányát Szerahnak hívták.
+{26:47} Ezek Ásér törzsének nemzetségei, amelyekben összesen 53 400 férfit vettek számba.
+{i26:48} Naftáli törzse
+{26:48} Naftáli leszármazottjai nemzetségeik szerint a következők voltak: Jahceél, Gúni,
+{26:49} Jécer és Sillém. Mindegyiküktől egy-egy nemzetség származott.
+{26:50} Ezek Naftáli törzsének nemzetségei, amelyekben összesen 45 400 férfit vettek számba.
+{i26:51} A népszámlálás eredménye
+{26:51} Izráel népéből tehát összesen 601 730 férfit vettek számba.
+{26:52} Ezután az Örökkévaló szólt Mózesnek:
+{26:53} „A földet az összeírás névjegyzéke szerint osszátok szét azok között, akiket most számba vettetek.
+{26:54} Minden törzs kapjon annyi földet, amennyi a hozzájuk tartozók számára szükséges. A nagyobb létszámú törzsnek arányosan nagyobb földterület, a kisebbnek arányosan kisebb jusson.
+{26:55} Azonban, hogy melyik terület melyik törzsé legyen, azt szent sorsolással állapítsátok meg. Az egyes családok pedig a saját törzsük területén belül kapjanak örökséget.
+{26:56} Mind a népesebb törzsek, mind a kisebbek szent sorsvetéssel kapják meg az örökségüket, vagyis a saját törzsi területüket”.
+{i26:57} Lévi törzse
+{26:57} Lévi leszármazottjai nemzetségeik szerint a következők voltak: Gérsón, Kehát és Merári. Mindegyiküktől egy-egy nemzetség származott.
+{26:58} Rajtuk kívül a Libni, Hebroni, Mahli, Músi és a Kórah nemzetségek is Lévi törzsébe tartoztak. Amrám Kórah fia.
+{26:59} Amrám felesége Jókebed, aki Egyiptomban született, és szintén Lévi törzsébe tartozott. Amrám és Jókebed gyermekei: Áron, Mózes és a nővérük, Mirjám.
+{26:60} Áron fiai: Nádáb, Abihú, Eleázár és Ítámár.
+{26:61} Nádáb és Abihú meghaltak, mert nem az Örökkévaló rendelése szerinti áldozatot mutattak be az Örökkévalónak.
+{26:62} Lévi törzsében a megszámolt egy hónaposnál idősebb fiúk és férfiak száma összesen 23 000 volt. Őket nem számolták a többi Izráeli férfi közé, mert nem kaptak állandó családi földbirtokot, mint a többiek.
+{26:63} Ez tehát annak a népszámlálásnak az eredménye, amelyet Mózes és Eleázár főpap tartottak Moáb síkságán, a Jordán mellett, Jerikóval szemben.
+{26:64} Sok évvel korábban, a Sínai-pusztában Mózes és Áron főpap már egyszer tartott hasonló népszámlálást. De akiket az első alkalommal számba vettek, azok közül már csak Káleb, Jefunne fia és Józsué, Nún
+{26:65} fia volt életben, mire a második népszámlálásra sor került. A többiek mind meghaltak a két népszámlálás között, mert az Örökkévaló előre megmondta, hogy a pusztában fognak meghalni, a vándorlás ideje alatt.
+{i27:1} Örökösödés leányágon
+{27:1} József fia Manassé, ennek fia Mákír, ennek fia Gileád, ennek fia Héfer, ennek fia Célofhád, akinek csak leányai születtek: Mahlá, Nóá, Hoglá, Milká és Tircá.
+{27:2} Ez az öt leány odaállt Mózes, Eleázár főpap és a vezetők elé, Izráel egész közösségének nyilvánossága előtt, a Találkozás Sátorának bejáratánál, és ezt mondták:
+{27:3} „Kérjük, hallgassátok meg kérésünket! Apánk meghalt a pusztai vándorlás során, de nem tartozott Kórah csoportjába, azok közé, akik fellázadtak az Örökkévaló ellen. Apánk a maga bűnei miatt halt meg, de fia nem született.
+{27:4} Arról senki sem tehet, hogy csak leányai születtek! Így viszont senki sem fogja nevét továbbvinni a leszármazottjai közül. Vajon helyes-e hogy az ő leszármazási vonala megszakadjon, és nevét kitöröljék Izráel népe közül, csak azért, mert nem született fia? Kérünk, adjatok nekünk is állandó családi földbirtokot a nemzetségünk területén, mint ahogy a fiúk szoktak kapni!”
+{27:5} Ezután Mózes az Örökkévaló elé terjesztette ezt az ügyet.
+{27:6} Az Örökkévaló pedig ezt felelte:
+{27:7} „Célofhád leányainak igaza van. Adj nekik földbirtokot apjuk rokonsága között. Azt a földet oszd szét közöttük, amit apjuknak adnál, ha élne.
+{27:8} Izráel népének meg add tudtára: ha valaki fiúörökös nélkül hal meg, akkor minden vagyonát a leánya örökölje!
+{27:9} Ha leánya sincs, akkor testvérei örököljenek utána.
+{27:10} Ha testvérei sincsenek, akkor apja testvérei legyenek az örökösök.
+{27:11} Ha ilyen rokona sincs, akkor a legközelebbi rokona örököljön utána. Törvény legyen ez Izráel számára, mert ezt az Örökkévaló mondta Mózesnek!”
+{i27:12} Az Örökkévaló Józsuét állítja Mózes helyére
+{27:12} Ezt mondta az Örökkévaló Mózesnek: „Menj fel az Abárim-hegyre, hogy onnan meglásd azt a földet, amelyet Izráel népének adok!
+{27:13} Miután láttad, neked is meg kell halnod, mint a testvérednek, Áronnak, és őseidhez fogsz csatlakozni.
+{27:14} Így kell ennek lennie, mivel te és Áron a Cin-pusztában nem engedelmeskedtetek a parancsomnak. Amikor a nép fellázadt ellenem, ti is engedetlenek voltatok azáltal, amit a népnek mondtatok, és nem mutattátok meg nekik, hogy én szent vagyok”. (Ez Kádés mellett történt, a „Lázadás-forrásnál”, a Cin-pusztában.)
+{27:15} Mózes ekkor így kérte az Örökkévalót:
+{27:16} „Kérlek, Örökkévaló, aki minden ember szellemének Istene vagy, állíts helyettem vezetőt Izráel közösségének élére!
+{27:17} Jelölj ki egy férfit, aki vezesse őket békében-harcban, és előttük járjon. Ne legyen az Örökkévaló közössége pásztor nélküli nyáj!”
+{27:18} Az Örökkévaló így válaszolt Mózesnek: „Józsué, Nún fia legyen az a férfi, mert bölcs és bátor.
+{27:19} Állítsd őt Eleázár főpap és az egész közösség elé, azután mindannyiuk előtt tedd rá a kezedet, így hatalmazd fel erre a feladatra, és adj neki utasításokat!
+{27:20} Így adj át neki vezetői felhatalmazásodból, hogy Izráel egész közössége engedelmeskedjen Józsuénak.
+{27:21} Ha döntenie kell valamiben, forduljon Eleázár főpaphoz, aki kérje ki az Örökkévaló határozatát az Úrím által, Józsué kérdése szerint. Azután Józsué, az egész hadsereg és Izráel egész közössége annak megfelelően cselekedjen, ahogy az Örökkévaló válaszolt a kérdésre. Ha az Örökkévaló úgy felel, akkor induljanak a csatába, ha pedig azt parancsolja, hogy térjenek haza, akkor tegyék azt”.
+{27:22} Mózes mindent annak megfelelően tett, ahogy az Örökkévaló parancsolta neki: Józsuét Eleázár főpap és az egész
+{27:23} közösség elé állította, majd a kezét Józsuéra tette, és megbízta, hogy ő legyen a nép vezetője.
+{i28:1} A mindennapi áldozat
+{28:1} Az Úr szólt Mózesnek:
+{28:2} „Parancsold meg Izráel népének, ügyeljenek rá, hogy a megszabott időben mutassák be nekem áldozataimat, amelyeket úgy fogadok, mint kedves illatú ajándékot.
+{28:3} Minden nap mutassanak be ajándékul az Örökkévalónak két hibátlan egyesztendős hím bárányt.
+{28:4} Az egyiket reggel, a másikat közvetlenül napnyugta után áldozzák fel.
+{28:5} Mindegyik mellé tegyenek lisztáldozatot is: egy tized éfá finomlisztet, egy negyed hin olívaolajjal keverve.
+{28:6} A bárányokkal egy időben mutassák be az italáldozatot is: egy negyed hin jó bort, amelyet a szent helyen öntsetek ki
+{28:7} az Örökkévalónak. Ez a mindennapi égőáldozat, amelyet a Sínai-hegynél rendeltem el. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{28:8} A reggeli és az esti áldozat mindenben egyforma legyen: a bárány-, a liszt- és az italáldozat is. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{i28:9} A szombati áldozat
+{28:9} A szombati nyugalom napján a mindennapi áldozaton felül mutassanak be az Örökkévalónak két hibátlan egyesztendős hím bárányt. A
+{28:10} hozzá tartozó lisztáldozat két tized éfá finomlisztből álljon, amelyet olívaolajjal gyúrjanak össze. Ugyanekkor mutassák be az italáldozatot is.
+{i28:11} Áldozat újhold napján
+{28:11} Minden hónap első napján, vagyis Újhold ünnepén mutassatok be égőáldozatot az Örökkévalónak: két bikaborjút, egy kost és hét egyesztendős hím bárányt. Valamennyi hibátlan legyen.
+{28:12} A hozzájuk tartozó lisztáldozat a bikaborjúhoz három tized, a koshoz két tized és a bárányokhoz egy-egy
+{28:13} tized éfá finomlisztből álljon, minden esetben olívaolajjal keverve. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{28:14} A hozzájuk tartozó italáldozat a bikaborjúhoz fél, a koshoz egyharmad, a bárányokhoz egy-egy negyed hin bor legyen. Ez az Újhold napján esedékes áldozat, amelyet az esztendő minden hónapjában, annak első napján kell bemutatnotok.
+{28:15} Ezen fölül vigyetek az Örökkévalónak vétekáldozatul egy bakot is. Mindezek a mindennapi égő- és italáldozaton fölül legyenek.
+{i28:16} Áldozat a Páska ünnepen
+{28:16} Az első hónap 14. napján mutassátok be az Örökkévalónak a Páskaáldozatot.
+{28:17} A következő, vagyis a 15. napon kezdődik a Kovásztalan Kenyerek hét napig tartó ünnepe. Ez alatt csakis kovász nélkül készült kenyeret egyetek.
+{28:18} Az ünnep első napján gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon ne dolgozzatok.
+{28:19} Mutassatok be ajándékul az Örökkévalónak égőáldozatot. Hozzatok az Örökkévalónak két bikaborjút, egy kost és hét egyesztendős hím bárányt. Valamennyi hibátlan legyen.
+{28:20} A hozzájuk tartozó lisztáldozat a borjúhoz három tized, a koshoz két tized
+{28:21} és a bárányokhoz egy-egy tized éfá finomlisztből álljon, minden esetben olívaolajjal keverve.
+{28:22} Ezen fölül vigyetek az Örökkévalónak bűnáldozatul egy bakot is, hogy engesztelést szerezzen számotokra.
+{28:23} Mindezek a reggeli mindennapi áldozaton fölül legyenek.
+{28:24} Az ünnepi hét napján minden nap ezt az áldozatot mutassátok be, a szokásos mindennapi áldozaton és a hozzá tartozó italáldozaton fölül. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{28:25} A hetedik napon ismét gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon se végezzétek napi munkátokat.
+{i28:26} Áldozat az Aratás ünnepén
+{28:26} Az Aratás ünnepének első napján hozzatok az Örökkévalónak az új termésből áldozatot. Ezen a napon gyűljetek össze az Örökkévalót tisztelni és imádni, és ne végezzétek napi munkátokat.
+{28:27} Mutassatok be égőáldozatot: két bikaborjút, egy kost és hét bárányt, amelyek egy évesek legyenek. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{28:28} A hozzájuk tartozó, olajjal kevert lisztáldozat a borjúhoz három tized, a koshoz két tized
+{28:29} és a bárányokhoz egy-egy tized éfá finomlisztből álljon.
+{28:30} Ezen fölül vigyetek az Örökkévalónak bűnáldozatul egy bakot is, hogy engesztelést szerezzen számotokra.
+{28:31} Mindezek a mindennapi áldozaton fölül legyenek. Az égőáldozatokhoz tegyétek hozzá a szokásos italáldozatokat is. Legyen gondotok rá, hogy az áldozati állatok egészségesek és hibátlanok legyenek.
+{i29:1} Áldozat a Kürtzengés ünnepén
+{29:1} A hetedik hónap első napján gyűljetek össze az Örökkévalót tisztelni és imádni. A Kürtzengés ünnepe ez. Ezen a napon ne végezzétek napi munkátokat.
+{29:2} Hozzatok az Örökkévalónak égőáldozatul egy bikaborjút, egy kost és hét egyesztendős bárányt. Az állatok egészségesek és hibátlanok legyenek. Jó illatú égőáldozat ez, amelyet az Örökkévaló kedvesen fogad.
+{29:3} A hozzájuk tartozó lisztáldozat a borjúhoz három tized, a koshoz két tized
+{29:4} és a bárányokhoz egy-egy tized éfá finomlisztből álljon, minden esetben olívaolajjal keverve.
+{29:5} Ezen fölül vigyetek az Örökkévalónak bűnáldozatul egy bakot is, hogy engesztelést szerezzen számotokra.
+{29:6} Mindezek az Újhold ünnepén esedékes égőáldozaton, a mindennapi égőáldozaton, és a hozzájuk tartozó liszt- és italáldozaton fölül legyenek. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{i29:7} Áldozat az Engesztelés ünnepén
+{29:7} A hetedik hónap 10. napján ismét gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon senki se végezzen semmiféle munkát, és böjtöléssel alázzátok meg magatokat.
+{29:8} Hozzatok az Örökkévalónak égőáldozatul egy bikaborjút, egy kost és hét egyesztendős hím bárányt. Az állatok egészségesek és hibátlanok legyenek. Jó illatú égőáldozat ez.
+{29:9} A hozzájuk tartozó lisztáldozat a borjúhoz három tized, a koshoz két tized
+{29:10} és a bárányokhoz egy-egy tized éfá finomlisztből álljon, minden esetben olívaolajjal keverve.
+{29:11} Ezen kívül vigyetek az Örökkévalónak bűnáldozatul egy bakot is, hogy engesztelést szerezzen számotokra. Ez a nagy engesztelő áldozaton, a mindennapi égőáldozaton, és a hozzájuk tartozó liszt- és italáldozatokon fölül legyen.
+{i29:12} Áldozatok a Sátorok ünnepén
+{29:12} A hetedik hónap 15. napján ismét gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon senki se végezze a foglalkozásához tartozó munkát. Hét napon keresztül ünnepeljétek az Örökkévaló ünnepét.
+{29:13} Hozzatok az Örökkévalónak égőáldozatul 13 bikaborjút, 2 kost és 14 egyesztendős hím bárányt. Az állatok egészségesek és hibátlanok legyenek. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{29:14} A hozzájuk tartozó lisztáldozat mindegyik borjúhoz három tized, mindegyik koshoz két tized
+{29:15} és a bárányokhoz egy-egy tized éfá finomlisztből álljon, minden esetben olívaolajjal keverve.
+{29:16} Ezen kívül vigyetek az Örökkévalónak bűnáldozatul egy bakot is. Mindezek a mindennapi égőáldozaton és a hozzá tartozó liszt- és italáldozaton fölül legyenek.
+{29:17} Az ünnep második
+{29:18} napjától a hetedik
+{29:19} napjáig minden nap
+{29:20} ugyanezeket az áldozatokat
+{29:21} hozzátok az Örökkévalónak.
+{29:22} Csak a második
+{29:23} napon 12, a
+{29:24} harmadikon 11, a
+{29:25} negyediken 10, az
+{29:26} ötödiken 9, a
+{29:27} hatodikon 8 és
+{29:28} a hetedik napon
+{29:29} 7 bikaborjút áldozzatok
+{29:30} fel, a hozzá
+{29:31} tartozó liszt- és
+{29:32} italáldozattal együtt. Mindezek
+{29:33} a mindennapi égőáldozaton
+{29:34} és a hozzá tartozó liszt- és italáldozatokon fölül legyenek.
+{29:35} Az ünnep utolsó nagy zárónapján, vagyis a nyolcadik napon ismét gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon senki se végezzen munkát.
+{29:36} Hozzatok az Örökkévalónak égőáldozatul egy bikaborjút, egy kost és hét egyesztendős hím bárányt. Az állatok egészségesek és hibátlanok legyenek. Jó illatú ajándék ez, amelyet az Örökkévaló kedvesen fogad.
+{29:37} A hozzájuk tartozó liszt- és italáldozatok az előírt mennyiségben igazodjanak az állatokhoz.
+{29:38} Ezen kívül vigyetek az Örökkévalónak bűnáldozatul egy bakot is. Mindezek a mindennapi égőáldozaton és a hozzá tartozó liszt- és italáldozaton fölül legyenek.
+{29:39} Ezek tehát azok az égő-, liszt-, ital- és hálaáldozatok, amelyeket az ünnepeken hozzatok az Örökkévalónak. A többi áldozatok, amelyeket fogadalom teljesítésére, vagy önként hoztok az Örökkévalónak, ezeken kívül legyenek”.
+{29:40} Mózes tehát elmondta Izráel népének mindazt, amit az Örökkévaló parancsolt neki.
+{i30:1} Rendelkezések a fogadalmakról
+{30:1} Mózes beszélt Izráel törzsi vezetőivel: „Az Örökkévaló parancsolja, hogy
+{30:2} ha egy férfi tesz fogadalmat, hogy valamit az Örökkévalónak szentel, vagy esküvel kötelezi magát arra, hogy valamit megtesz, illetve tartózkodik valamitől, akkor teljesítse is a fogadalmát, illetve esküjét! Ne szegje meg a szavát.
+{30:3} Hajadon leány, aki még apja házában él, szintén tehet fogadalmat, illetve esküvel kötelezheti magát, hogy valamit megtesz, illetve tartózkodik valamitől.
+{30:4} De fogadalma vagy esküje csak akkor érvényes, ha apja hallotta azt, és azon a napon nem szól ellene. Ilyen esetben az a leány teljesítse, amit az Örökkévalónak ígért.
+{30:5} Ellenben, ha a leány apja azon a napon, amelyen tudomást szerez a leánya fogadalmáról, megtiltja annak teljesítését, akkor a leány fogadalma vagy esküje érvénytelen. Ilyen esetben az Örökkévaló megbocsátja a leánynak, hogy fogadalmát nem tartotta meg, hiszen a leányt a saját apja tiltotta el annak teljesítésétől.
+{30:6} Hasonló a helyzet akkor is, ha egy leány meggondolatlanul fogadalmat tesz, vagy esküvel kötelezi magát az Örökkévalónak, azután pedig férjhez megy.
+{30:7} Ha a férje tudomást szerez erről, és azon a napon nem ellenzi, akkor a fogadalom érvényes marad, és azt az asszonynak teljesítenie is kell.
+{30:8} Ellenben, ha a férj azon a napon, amelyen tudomást szerez a felesége meggondolatlan fogadalmáról, megtiltja annak teljesítését, akkor a felesége fogadalma vagy esküje érvénytelen, mert a férje érvénytelenné tette. Ilyen esetben az Örökkévaló megbocsátja az asszonynak, hogy fogadalmát nem teljesítette.
+{30:9} Özvegy vagy elvált asszony fogadása és esküje érvényes: meg kell tartania.
+{30:10} Férjnél lévő asszony fogadalma és esküje
+{30:11} csak akkor érvényes, ha a férje tud arról, és nem szól ellene semmit. Ilyenkor az asszonynak meg kell tartania, amit fogadott.
+{30:12} De ha a férje azon a napon, amelyen tudomást szerez a felesége fogadalmáról vagy esküjéről, megtiltja annak teljesítését, akkor a felesége fogadalma vagy esküje érvénytelen. Ilyen esetben az Örökkévaló megbocsátja az asszonynak, hogy fogadalmát vagy esküjét nem tartotta meg, hiszen a férje tiltotta el annak teljesítésétől.
+{30:13} Tehát a férjes asszony minden fogadalmát és esküjét amellyel magát valamilyen módon elkötelezi, a férje erősíti meg, vagy teszi érvénytelenné.
+{30:14} Hogyan erősíti meg? Úgy, hogy miután tudomást szerez róla, azon a napon nem szól semmit ellene. Ilyen esetben az asszony tartsa meg, amit fogadott vagy esküvel ígért.
+{30:15} Azonban, ha a férj azon a napon nem szól ellene, később mégis meggondolja magát, és megtiltja feleségének fogadalma vagy esküje teljesítését, akkor a fogadalom vagy eskü megszegésének bűnét a férj viselje.”
+{30:16} Ezeket parancsolta az Örökkévaló Mózesnek a fogadalmakkal kapcsolatban, a férj és a felesége; illetve az apa és a házában lakó hajadon lánya tekintetében.
+{i31:1} Izráel harca a midjániak ellen
+{31:1} Ezt mondta az Örökkévaló Mózesnek:
+{31:2} „Állj bosszút a midjániakon azért, amit Izráel ellen tettek! Azután majd te is csatlakozol őseidhez!”
+{31:3} Tehát Mózes kihirdette a népnek: „Válasszatok ki mindegyik törzsből ezer-ezer harcost, és
+{31:4} készüljetek a harcra! Támadjátok meg Midján népét, és álljatok bosszút az Örökkévalóért rajtuk!”
+{31:5} Így is történt: Izráel népe közül kiválasztottak 12 000 harcost, minden törzsből ezret.
+{31:6} Ezt a sereget küldte harcba Mózes a midjániak ellen. Elküldte velük Fineást, a papot, Eleázár fiát is, aki magával vitte a szent dolgokat és a trombitákat, amelyek jeladásra szolgáltak.
+{31:7} Izráel serege megtámadta a midjániakat, amint az Örökkévaló megparancsolta Mózesnek. Le is győzték őket, és minden midjáni férfit megöltek.
+{31:8} Ezek között volt Midján öt királya is: Evi, Rekem, Cúr, Húr és Reba. Megölték velük együtt Bálámot, Beór fiát is.
+{31:9} A midjániak városait és falvait fölégették, a midjáni asszonyokat és gyermekeiket
+{31:10} pedig foglyul ejtették. Nagy zsákmányt is szereztek: sok háziállatot és nagy vagyont.
+{31:11} Összegyűjtötték a foglyokat, az állatokat és a hadizsákmányt, és mindezt odavitték Mózes, Eleázár főpap és Izráel népének közössége
+{31:12} elé, a táboron kívül. Ebben az időben Izráel a Jordán keleti partja mellett, Moáb síkságán táborozott, Jerikóval szemben.
+{31:13} Mózes, Eleázár főpap és Izráel vezetői kimentek a sereg elé a táboron kívülre.
+{31:14} Amikor Mózes meglátta a foglyokat, nagyon megharagudott a sereg vezetőire, a századosokra és ezredesekre.
+{31:15} Ezt mondta nekik: „Miért hagytátok életben ezeket az asszonyokat?
+{31:16} Elfelejtettétek, hogy ők voltak azok, akik Bálám tanácsára Peór mellett elcsábították az izráeli férfiakat, hogy elforduljanak az Örökkévalótól és így vétkezzenek ellene? Nem emlékeztek, milyen szörnyű csapás sújtotta emiatt az Örökkévaló népét?
+{31:17} Most hát azonnal öljétek meg a fiúkat és minden asszonyt, aki már férfival hált.
+{31:18} De hagyjátok életben a magatok számára azokat a leányokat, akik még nem háltak férfival.
+{31:19} Ti magatok pedig maradjatok a táboron kívül még 7 napig. Aki közületek megölt valakit, vagy halotthoz ért, tisztítsa meg magát a harmadik és a hetedik napon is, a foglyokkal együtt.
+{31:20} Tisztítsátok meg a tárgyakat is: ruháitokat, és minden bőrből, kecskeszőrből és fából készült holmit”.
+{31:21} Eleázár főpap ezt mondta a katonáknak, akik a harcból tértek vissza: „A Törvény rendelkezése szerint, amelyet az Örökkévaló mondott Mózesnek,
+{31:22} a zsákmányolt fémtárgyakat meg kell tisztítani. Mindazt, ami aranyból, ezüstből, bronzból, vasból, ónból vagy ólomból készült,
+{31:23} tehát ellenáll a tűznek, tartsátok bele a tűzbe. Utána még a tisztító vízzel is meg kell tisztítani, s azután tiszta lesz, és használható. Ami pedig éghető anyagból készült, azt vízbe kell mártani, s azután tiszta lesz.
+{31:24} Ti magatok pedig a hetedik napon mossátok ki ruháitokat, azután már rituálisan tiszták lesztek, és visszajöhettek a táborba”.
+{31:25} Majd ezt mondta az Örökkévaló Mózesnek:
+{31:26} „Eleázár főpappal és a közösség vezetőivel együtt vegyétek számba a foglyokat és a zsákmányolt háziállatokat!
+{31:27} Mindezeket oszd két egyenlő részre. Az egyik azoké legyen, akik harcoltak, a másik rész pedig a többieké.
+{31:28} Mindkét csoportból vegyél ki egy-egy részt az Örökkévaló számára. A harcosoknak jutott csoportból, a foglyok közül válasszatok ki egy-egy főt minden 500 közül, és ugyanígy a szarvasmarhák, juhok, kecskék és szamarak közül is.
+{31:29} A kiválasztottakat adjátok át Eleázár főpapnak, ajándékul az Örökkévalónak.
+{31:30} A másik csoportból, amely a táborban maradt nép része, válasszatok ki egy-egy főt minden 50 közül, és ugyanígy a szarvasmarhák, juhok, kecskék és szamarak közül is. A kiválasztottakat adjátok át a Lévitáknak, akik az Örökkévaló Szent Sátora körüli őrző szolgálatokat végzik”.
+{31:31} Mózes és Eleázár főpap mindent úgy tett, ahogy az Örökkévaló parancsolta Mózesnek.
+{31:32} Ezeket zsákmányolta Izráel serege: 675 000 juh és kecske,
+{31:33} 72 000 szarvasmarha,
+{31:34} 61 000 szamár,
+{31:35} 32 000 szűz leány.
+{31:36} Ebből az a rész, amely a hadseregnek jutott: 337 500 juh és kecske,
+{31:37} ebből az Örökkévaló része 675 darab,
+{31:38} 36 000 szarvasmarha, ebből az Örökkévaló része 72 darab,
+{31:39} 30 500 szamár, ebből az Örökkévaló része 61 darab.
+{31:40} 16 000 szűz leány, közülük az Örökkévaló része 32 leány,
+{31:41} Mózes átadta az Örökkévaló részét mindezekből Eleázár főpapnak, az Örökkévaló parancsa szerint.
+{31:42} Az a rész, amely
+{31:43} a táborban maradottaknak jutott:
+{31:44} 337 500 juh és
+{31:45} kecske, 36 000 szarvasmarha,
+{31:46} 30 500 szamár, 16 000 szűz leány.
+{31:47} Mózes kiválasztotta közülük az Örökkévaló részét mindezekből: minden 50 fogoly közül egyet, és minden 50 állat közül egyet. Az Örökkévaló részét pedig átadta a lévitáknak, akik az Örökkévaló Szent Sátora körüli gyakorlati szolgálatokat végzik. Mindent úgy tett, ahogy az Örökkévaló parancsolta.
+{31:48} A hadsereg tisztjei, a századosok és ezredesek
+{31:49} jelentették Mózesnek: „Mi, a te szolgáid, számba vettük a vezetésünk alatt álló egységek legénységét, és azt találtuk, hogy a midjániak elleni harcban senki sem esett el közülünk: egyetlen izráeli harcos sem hiányzik!
+{31:50} Ezért elhoztunk ajándékul az Örökkévalónak minden aranyból készült karperecet, pecsétgyűrűt, fülbevalót és nyakláncot, amelyet a harcosok zsákmányoltak. Ezt az ajándékot megváltási áldozatul hoztuk az Örökkévalónak”.
+{31:51} Mózes és Eleázár főpap átvette a hadsereg vezetőitől az arany ékszereket, amelyeket áldozatul hoztak
+{31:52} az Örökkévalónak, és elhelyezte azokat a Találkozás Sátorában, az Örökkévaló jelenlétében, hogy emlékeztetőül szolgáljon
+{31:53} Izráel népe számára az Örökkévaló előtt. Az ékszerek súlya összesen 16 750 sékel volt.
+{31:54} Ez azonban nem az összes zsákmány volt, mert abból minden harcos magának is megtartott valamennyit.
+{i32:1} A Jordántól keletre fekvő terület felosztása
+{32:1} Rúben és Gád törzsének igen-igen sok jószága volt, és látták, hogy Jazér és Gileád vidéke, amely a Jordán keleti oldalán terül, el különösen alkalmas a pásztorkodásra és jószágtartásra.
+{32:2} Ezért Mózeshez, Eleázár főpaphoz és Izráel többi vezetőihez ezzel a kéréssel fordultak:
+{32:3} „Tudjátok, hogy nekünk igen sok csordánk és nyájunk van. Az a vidék pedig, amelyet mostanában Izráel közössége számára az Örökkévaló megszerzett, nagyon alkalmas
+{32:4} a jószágtartásra. Arról a vidékről szólunk, amely a következő meghódított városok környékén terül el: Atárót, Díbón, Jazér, Nimra, Hesbón, Elálé, Szebám, Nebó és Beón.
+{32:5} Kérünk benneteket, legyetek hozzánk jóindulattal, és adjátok nekünk ezt a vidéket, hadd legyen a mi örökös birtokunk! Hadd telepedjünk le a Jordánnak ezen az oldalán, s ne kelljen átmennünk a másik oldalra!”
+{32:6} De Mózes ezt felelte: „Képesek lennétek nyugodtan letelepedni és hátra maradni ezen a vidéken, miközben a testvéreitek még tovább harcolnak?!
+{32:7} El akarjátok bátortalanítani Izráelt, hogy ne legyen a népnek kedve átkelni a Jordánon, és elfoglalni azt a földet, amelyet az Örökkévaló nekünk adott?
+{32:8} Szüleitek nemzedéke is ezt tette, amikor Kádés-Barneából elküldtem a felderítőket, hogy kémleljék ki a földet.
+{32:9} El is mentek egészen az Eskól-völgyig, megnézték a földet, de mikor visszatértek, elvették a nép bátorságát és kedvét attól, hogy birtokba vegyék azt a földet, amelyet pedig az Örökkévaló már nekik adott.
+{32:10} Emiatt azon a napon az Örökkévaló nagyon megharagudott rájuk, és megesküdött nekik:
+{32:11} »Azok közül, akik Egyiptomból kijöttek, és már legalább 20 évesek, senki sem fogja meglátni azt a földet, amelyet Ábrahámnak, Izsáknak és Jákóbnak ígértem! Így határoztam, mert ez a nép nem maradt hűséges hozzám.
+{32:12} Csak a kenizzi Kálebbel, Jefunne fiával és Józsuéval, Nún fiával teszek kivételt, mert ők ketten tökéletesen hűségesek maradtak hozzám.«
+{32:13} Az Örökkévaló tehát megharagudott Izráel népére, és addig vezette őket a pusztában, amíg a hosszú vándorlás alatt mindegyikük meghalt. Kipusztult az egész nemzedék, amely vétkezett az Örökkévaló ellen.
+{32:14} Most pedig ti, akik ennek a bűnös nemzedéknek a fiai vagytok, és apáitok helyére léptetek, még jobban megharagítjátok az Örökkévalót Izráel ellen, mint a szüleitek tették?
+{32:15} Vigyázzatok! Ha elfordultok az Örökkévalótól, akkor ő megint hagyja Izráelt a pusztában vándorolni, és ezzel az egész nép vesztét okozzátok!”
+{32:16} Rúben és Gád törzsének emberei ekkor közelebb léptek Mózeshez, és így válaszoltak: „Csak azt engedd meg nekünk, hogy nyájainknak aklokat, a családjainknak meg városokat építsünk ezen a vidéken, hogy biztonságban legyenek.
+{32:17} Mi magunk pedig fegyverrel a kezünkben Izráel seregének élén fogunk előrenyomulni, hogy azt a földet testvéreink számára elfoglaljuk. Nem térünk vissza otthonainkba, ameddig
+{32:18} Izráelből mindenki meg nem kapja a saját birtokát. Csak a családjaink legyenek biztonságban a városfalak mögött, amelyek megvédik őket e föld egyéb lakosaitól.
+{32:19} A Jordán túlsó partján nem fogunk a magunk számára területet foglalni, hiszen a birtokunk az innenső parton fekszik”.
+{32:20} Mózes ezt felelte nekik: „Rendben van, ha megteszitek, amit ígértetek, akkor kívánságotok szerint ez a vidék lesz a birtokotok. Tehát fegyverkezzetek föl, és vonuljatok az Örökkévaló előtt a sereg élén!
+{32:21} Keljetek át a Jordánon az Örökkévaló színe előtt, és mindaddig harcoljatok, amíg az Örökkévaló teljesen ki nem űzi ellenségeit arról a földről,
+{32:22} és az egész országot meg nem hódítjátok. Csak azután térjetek vissza otthonaitokba. Így ártatlanok lesztek mind az Örökkévaló, mind pedig Izráel népe előtt, és ezt a földet, amelyet kértetek, örök birtokul kapjátok.
+{32:23} De ha nem teszitek meg, amit ígértetek, akkor az Örökkévaló ellen vétkeztek, és nem kerülhetitek el a büntetést!
+{32:24} Tehát, most építsetek ezen a vidéken városokat családjaitoknak és aklokat nyájaitoknak, de azután tegyétek meg, amit ígértetek!”
+{32:25} Gád és Rúben törzsének emberei ezt felelték: „Szolgáid megteszik, amit parancsoltál, urunk!
+{32:26} Gyermekeink, feleségeink és állataink itt maradnak Gileád városaiban,
+{32:27} szolgáid pedig fegyveresen átkelnek a Jordánon az Örökkévaló előtt, és harcolni fognak — ahogy parancsoltad”.
+{32:28} Mózes így rendelkezett Gád és Rúben törzse felől Eleázár főpapnak, Józsuénak, Nún fiának és Izráel törzsei vezetőinek: „Ha Gád és Rúben törzsének harcosai az Örökkévaló jelenlétében
+{32:29} veletek együtt kelnek át a Jordánon, és veletek együtt indulnak harcba, akkor — miután azt a földet már meghódítottátok — adjátok nekik örökségül Gileád vidékét, ahogy kérték!
+{32:30} De ha nem kelnek át veletek együtt, akkor Kánaán földjéből kapják meg birtokukat veletek együtt!”
+{32:31} Gád és Rúben törzsének emberei ezt mondták erre: „Azt fogjuk tenni, amit az Örökkévaló parancsolt nekünk, szolgáidnak!
+{32:32} Mi magunk felfegyverkezve átkelünk az Örökkévaló előtt a Jordánon Kánaán földjére, de földbirtokaink az innenső parton lesznek”.
+{32:33} Mózes tehát Gád és Rúben törzsének, meg Manassé, József fia törzse felének a Jordántól keletre jelölte ki a birtokát. Nekik adta azt a földet, amely Szihónnak, az emóriak királyának országa volt, meg azt, amely Ógnak, Básán királyának országa volt, s amelyet Izráel tőlük foglalt el a városokkal és falvakkal együtt.
+{32:34} Ezen a vidéken Gád törzse újjáépítette a következő,
+{32:35} fallal körülvett városokat: Díbón, Atárót, Aróér, Atrót-Sófán, Jazér,
+{32:36} Jogboha, Bét-Nimra és Bét-Hárán. Építettek aklokat is az állataiknak.
+{32:37} Rúben törzse újjáépítette a következő városokat: Hesbón, Elálé, Kirjátaim, Szibma, Nebó és Baál-Meón,
+{32:38} és új neveket adtak ezeknek. (E két utóbbi várost az új nevükön kell nevezni.)
+{32:39} Manassé leszármazottjának, Mákírnak nemzetsége felvonult Gileád ellen, elfoglalták és birtokba vették, az ott lakó emóriakat pedig elűzték.
+{32:40} Ezért Mózes Mákír nemzetségének adta Gileádot, akik le is telepedtek ott.
+{32:41} Manassé másik leszármazottjának, Jáírnak nemzetsége is felvonult az emóriak falvai ellen, és elfoglalta azokat. Emiatt nevezték azután Jáír sátorfalvainak ezeket a településeket.
+{32:42} Nóbah nemzetsége is fölvonult Kenát városa ellen, és elfoglalta azt a körülötte lévő falvakkal együtt, majd a maga nevéről Nóbahnak nevezte el.
+{i33:1} Izráel táborhelyei a pusztában
+{33:1} Ezek Izráel népének táborhelyei, attól kezdve, hogy csapatokba rendezve, Mózes és Áron vezetésével kivonultak Egyiptomból.
+{33:2} Mózes az Örökkévaló utasítása szerint gondosan följegyezte ezeket a helyeket. Tehát ezek Izráel pusztai vándorlásának szakaszai és táborhelyei.
+{33:3} Izráel népe a Páska ünnepe után közvetlenül, az első hónap 15. napján indult útnak az egyiptomi Ramszeszből. Győzelmesen és bátran jöttek ki az egyiptomiak szeme láttára,
+{33:4} miközben egész Egyiptom temette összes elsőszülöttjeit, akiket az Örökkévaló megölt. Az Örökkévaló ítéletet tartott Egyiptom istenei fölött.
+{33:5} Ezután Izráel táborhelyei a következők voltak: Szukkót,
+{33:6} majd Étám, amely a sivatag szélén fekszik.
+{33:7} Étámot elhagyva Pí-Haírót felé fordultak, amely Baál-Cáfónnal szemben fekszik, majd Migdól előtt vertek tábort.
+{33:8} Pí-Haírótból elindulva átgyalogoltak a tenger közepén a túloldalra, a sivatagba. Három napig vonultak az Étám-pusztában, amíg Márába érkeztek.
+{33:9} Következő táborhelyük az Élim-oázisban volt, ahol 12 forrás fakadt, és 70 pálmafa nőtt.
+{33:10} Ezután a következő helyeken vertek tábort: a Vörös-tenger partján,
+{33:11} majd a Szin-pusztában, azután
+{33:12} Dofka,
+{33:13} majd Álús következett, és
+{33:14} Refídím, ahol nem volt ivóvíz.
+{33:15} Ezután a következő táborhelyeken állomásoztak: Sínai-puszta,
+{33:16} Kibrót-Hattaava,
+{33:17} Hacérót,
+{33:18} Ritma,
+{33:19} Rimmón-Perec,
+{33:20} Libna,
+{33:21} Rissza,
+{33:22} Kehéláta,
+{33:23} Sefer-hegy,
+{33:24} Harádá,
+{33:25} Makhélót,
+{33:26} Tahat,
+{33:27} Terah,
+{33:28} Mitka,
+{33:29} Hasmóna,
+{33:30} Mószérót,
+{33:31} Bené-Jaakán,
+{33:32} Hór-Haggidgád,
+{33:33} Jotbátá,
+{33:34} Abróna,
+{33:35} Ecjón-Geber és
+{33:36} Kádés (amely a Cin-pusztában fekszik),
+{33:37} majd a Hór-hegynél ütöttek tábort, Edom országának határán.
+{33:38} Mialatt ott táboroztak, az Egyiptomból való kivonulástól számított 40. esztendő 5. hónapjának első napján Áron főpap az Örökkévaló parancsa szerint fölment a Hór-hegyre. Ott is halt meg.
+{33:39} Áron ekkor 123 éves volt.
+{33:40} Ekkor történt az, hogy a Negev-pusztában lévő Arád városának kánaáni királya meghallotta, hogy Izráel népe közeledik.
+{33:41} A Hór-hegy után ezek a táborhelyek következtek: Calmóna,
+{33:42} Púnón,
+{33:43} Óbót,
+{33:44} Ijjé-Háabárim (amely Moáb országának határán fekszik),
+{33:45} Díbón-Gád,
+{33:46} Almón-Diblátaim.
+{33:47} Utána az Abárim-hegyeken táboroztak, Nebóval szemben,
+{33:48} majd Moáb síkságán, a Jordán partján,
+{33:49} Jerikóval átellenben, Bét-Hajesimót és Ábél-Hassittim között.
+{33:50} Ezen a helyen szólt az Örökkévaló Mózesnek:
+{33:51} „Mondd meg Izráel népének: »Amikor majd átkeltek a Jordánon Kánaán földjére,
+{33:52} űzzétek ki onnan azokat, akik ott laknak! Kőből faragott és fémből öntött bálványaikat törjétek össze, oltáraikat romboljátok le!
+{33:53} Vegyétek birtokba azt az országot, mert nektek adtam, és telepedjetek le ott!
+{33:54} Mindegyik törzs és nemzetség kapjon részt a földből: az legyen a saját birtoka. Azt pedig sorshúzással döntsétek el, hogy melyik törzs vagy nemzetség melyik területet kapja. Így osszátok el a földet magatok között. A nagyobb törzsnek tágasabb birtokot, a kisebbnek kisebbet adjatok. Mindenkinek el kell fogadnia azt a birtokot, amely a sorshúzással neki jutott. Minden nemzetség és család a maga törzsének területén belül kapjon részt.
+{33:55} Vigyázzatok! Ha nem űzitek ki onnan az összes jelenlegi lakost, akkor a megmaradók olyanok lesznek, mint szálka a szemetekben és tövis az oldalatokban! Állandóan bosszantani és gyötörni fognak benneteket azon a földön,
+{33:56} és akkor majd veletek fogok úgy bánni, ahogyan azokkal a népekkel akartam.«”
+{i34:1} Az Ígéret Földjének határai
+{34:1} Ezután az Örökkévaló szólt Mózesnek:
+{34:2} „Parancsold meg Izráel népének, és mondd meg nekik: »Hamarosan bementek Kánaán földjére, amelyet nektek adtam birtokul, a következő határok szerint:
+{34:3} Déli határotok a Holt-tenger déli csúcsától, vagyis a Cin-pusztától indul, és Edom országa mellett halad.
+{34:4} A határ dél felől megkerüli az Akrabbim-hágót, majd Cin felé halad, délről elkerüli Kádés-Barneát, azután érinti Hacar-Addárt, majd Acmón felé halad.
+{34:5} Ezután Egyiptom patakja mentén halad egészen a Nagy-tengerig.
+{34:6} Nyugati határotok a Nagy-tenger partja lesz.
+{34:7} Északon a határ a Nagy-tenger partján kezdődik, majd a Hor-hegy felé halad.
+{34:8} Ezután a Hamátba vezető út felé húzódik, majd érinti Cedádot,
+{34:9} Zifrónt, és Hacar-Énánnál végződik. Ez legyen az északi határotok.
+{34:10} Keleti határotok Hacar-Énántól Sefám és Ribla érintésével húzódik dél felé,
+{34:11} majd Ain városát keletről kerüli, és érinti a Kinneret-tó keleti partját.
+{34:12} Ezután a tó keleti partján halad a Jordánig, amelynek mentén eléri a Holt-tengert, annak keleti partján húzódik egészen a tenger déli csúcsáig. Ezek tehát országotok határai körös-körül.«”
+{34:13} Mózes tehát megparancsolta Izráel népének: „Ez az a föld, amelyet birtokul kaptok, és sorshúzással kell elosztanotok egymás között. Az Örökkévaló megparancsolta, hogy ebből kapjon birtokot kilenc és fél törzs.
+{34:14} Rúben és Gád törzsének nemzetségei, meg Manassé törzsének fele már megkapta a
+{34:15} maga birtokát a Jordán innenső, keleti partján, a Jerikóval szemben elterülő vidéken”.
+{34:16} Azután ezt mondta az Örökkévaló Mózesnek:
+{34:17} „A föld elosztását ezek a férfiak végezzék: Eleázár főpap és Józsué, Nún fia,
+{34:18} valamint a törzsek vezetői.
+{34:19} Ez utóbbiak a következők: Júda törzséből Káleb, Jefunne fia,
+{34:20} Simeon törzséből Semúél, Ammihúd fia,
+{34:21} Benjámin törzséből Elidád, Kiszlón fia,
+{34:22} Dán törzséből Bukki, Jogli fia,
+{34:23} József leszármazottjai közül, Manassé törzséből Hanniél, Efód fia,
+{34:24} Efraim törzséből Kemúél, Siftán fia,
+{34:25} Zebulon törzséből Elicáfán, Parnak fia,
+{34:26} Issakár törzséből Paltiél, Azzan fia,
+{34:27} Ásér törzséből Ahiúd, Selómi fia,
+{34:28} Naftáli törzséből Pedahél, Ammihúd fia”.
+{34:29} Ezeket a férfiakat választotta ki az Örökkévaló, hogy osszák fel Kánaán földjét Izráel népe között.
+{i35:1} A léviták városai és legelői
+{35:1} Az Örökkévaló szólt Mózeshez, amikor Izráel Moáb síkságán táborozott, a Jordán mellett, Jerikóval szemben.
+{35:2} Ezt mondta: „Rendeld el, hogy amikor majd Izráel népe birtokba veszi területét, akkor adjanak abból a lévitáknak
+{35:3} egyes városokat lakóhelyül. A városok körül fekvő legelőket is adják oda nekik, hogy állataikat legyen hol legeltetniük.
+{35:4} Ezek a legelők a város falától mind a négy égtáj irányában 1 000 könyök távolságig terjedjenek.
+{35:5} Mérjétek ki a léviták legelőinek területét: annak keleti oldala legalább 2 000 könyöknyi legyen! Ugyanígy legalább 2 000 könyök hosszú legyen a déli, a nyugati és az északi oldal is. A város maga ennek a területnek a közepén helyezkedjen el.
+{35:6} A lévitáknak átadott városok közül hatot jelöljetek ki menedékvárosnak, hogy aki véletlenül megöl valakit, ezekbe menekülhessen. Ezen a hat városon kívül még további 42 várost adjatok át a lévitáknak.
+{35:7} Összesen tehát 48 várost adjatok nekik, a városok körül elterülő legelőkkel együtt.
+{35:8} Minden törzs adjon a maga területén városokat a lévitáknak. Amelyik törzsnek nagyobb terület jutott, az több várost, amelyiknek kisebb területe van, az kevesebbet adjon”.
+{i35:9} A menedékvárosok
+{35:9} Ezután az Örökkévaló ismét szólt Mózeshez:
+{35:10} „Mondd meg Izráel népének: Amikor majd átkeltek a Jordánon, Kánaán földjére,
+{35:11} jelöljetek ki menedékvárosokat, hogy aki véletlenül megöl valakit, ezekbe menekülhessen.
+{35:12} Ezek szolgáljanak arra, hogy aki véletlenül ölt meg valakit, az a vérbosszúra törekvő rokon elől oda menekülhessen, és ne öljék meg, mielőtt ügyében a közösség ítéletet nem hoz.
+{35:13} Összesen hat ilyen várost jelöljetek ki Kánaán földjén:
+{35:14} hármat a Jordán egyik oldalán, és hármat a másikon.
+{35:15} Szolgáljanak ezek a városok menedékül Izráel népének és a közöttetek lakó idegeneknek, sőt, az átutazóknak is. Mindazok, akik nem szándékosan ölnek meg valakit, bemenekülhetnek ezekbe a városokba.
+{35:16} Aki megöl valakit, az a következő esetekben nem veheti igénybe a menedékváros védelmét: Ha vasból készült fegyverrel ölt meg egy embert, akkor gyilkosnak kell tekinteni, és halállal lakoljon.
+{35:17} Ha kővel ütött vagy dobott meg egy másik embert, úgy hogy az belehal, akkor gyilkosnak kell tekinteni, és halállal lakoljon.
+{35:18} Ha fából készült kézi szerszámmal vagy eszközzel üt meg egy másik embert, úgy hogy az belehal, akkor gyilkosnak kell tekinteni, és halállal lakoljon.
+{35:19} Ilyen esetekben a vérbosszuló rokon megölheti a gyilkost, ahol rátalál.
+{35:20} Ha valaki gyűlölettől indíttatva kézzel megüti, ellöki, vagy bármivel megdobja társát úgy, hogy az belehal, akkor az
+{35:21} illetőt gyilkosnak kell tekinteni, és halállal lakoljon. Ilyen esetekben a vérbosszuló rokon megölheti a gyilkost, ahol rátalál.
+{35:22} Azonban, ha valaki véletlenül löki meg társát, vagy véletlenül dobja meg valamivel,
+{35:23} vagy úgy ejt rá egy súlyos követ, hogy nem látta, hogy a másik ott van, de nem voltak ellenségek azelőtt, és nem előre megfontolt szándékkal tette,
+{35:24} akkor a közösség ítéljen a tettes és a vérbosszuló rokon között, a fenti rendelkezések szerint.
+{35:25} Ha ártatlan a tettes, akkor a közösség mentse ki a vérbosszuló kezéből, és küldje vissza abba a menedékvárosba, amelybe először futott. Lakjon ott, amíg a szent olajjal fölkent főpap meg nem hal, de ne mozduljon ki a városból.
+{35:26} Ha mégis kimegy onnan,
+{35:27} és a vérbosszuló rátalál, megölheti a tettest. Ilyen esetben a vérbosszuló rokont nem terheli a gyilkosság bűne,
+{35:28} hiszen a tettesnek a főpap haláláig a menedékvárosban kell laknia, és csak a főpap halála után térhet vissza a maga birtokára.
+{35:29} Ezek a szabályok legyenek a számotokra törvényül nemzedékről nemzedékre, akárhol is laktok.
+{35:30} Ha valaki szándékosan meggyilkol egy embert, akkor tanúk vallomása alapján lehet csak halálra ítélni. De ehhez legalább két tanú szükséges, egy tanú vallomása alapján senkit nem szabad halálra ítélni.
+{35:31} A halálra ítélt gyilkos életéért nem lehet váltságdíjat elfogadni, hanem ki kell végezni az illetőt.
+{35:32} Ha valaki véletlenül ölt meg egy embert, azután menedékvárosba futott, attól nem szabad váltságdíjat elfogadni azért, hogy még a főpap halála előtt visszatérhessen otthonába.
+{35:33} Ne tegyétek tisztátalanná a földet, amelyen laktok! A meggyilkolt ember vére ugyanis tisztátalanná teszi azt a földet, amelyre kiömlött. A kiontott vér miatt nem lehet más váltságdíjat adni, mint annak a vérét, aki a gyilkosságot elkövette.
+{35:34} Ne tegyétek tisztátalanná a földet, amelyen laktok, és amelyen én is lakom! Mert én, az Örökkévaló, Izráel népével együtt lakom”.
+{i36:1} A leányági örökösödés birtokrendezése
+{36:1} A Gileád-nemzetség családfői a következő kérdéssel fordultak Mózeshez és a törzsek fejedelmeihez (Gileád Manassé fiának, Mákírnak volt a fia, József törzséből):
+{36:2} Ezt mondták Mózesnek: „Az Örökkévaló azt parancsolta neked, uram, hogy sorshúzással oszd fel a földet Izráel népe között. Ugyanakkor azt is parancsolta, hogy a rokonunk, Célofhád részét oszd ki a leányai között.
+{36:3} Ha tehát Célofhád leányai egy másik törzsből való férfihoz mennek feleségül, akkor a birtokukat is magukkal viszik abba a másik törzsbe. Ez esetben azt a birtokot kihasítják a törzsünk területéből, és átcsatolják a másik törzs területéhez. Ezzel viszont a mi törzsünk területe, amelyet sorshúzással kaptunk, csökkenni fog!
+{36:4} Sőt, még ha elérkezik is az ötvenedik esztendő örömünnepe, a leányok birtoka akkor is annál a törzsnél marad, amelyikbe férjhez mentek. Így a mi törzsünk azt a területet örökre elveszti”.
+{36:5} Erre válaszul Mózes az Örökkévaló útmutatása szerint a következő rendelkezést hirdette ki Izráel népének: „József törzsének igaza van.
+{36:6} Így rendelkezik az Örökkévaló Célofhád leányainak ügyében: Ahhoz mehetnek feleségül, akihez akarnak, de egy feltétellel: csakis atyjuk törzsén belül házasodhatnak.
+{36:7} Tehát Izráel népén belül senkinek az atyai földbirtoka nem kerülhet át másik törzs tulajdonába. Mindenki ragaszkodjon ahhoz a birtokhoz, amelyet a saját törzsén belül kapott.
+{36:8} Ha pedig egy leány birtokot kap az apjától, akkor csak olyan férfihoz mehet feleségül, aki ugyanabba a törzsbe tartozik. Így Izráel népében mindenki megtarthatja a birtokát.
+{36:9} Földtulajdon nem kerülhet át egyik törzsből a másikba. Mindegyik törzs tartsa meg a saját földterületét”.
+{36:10} Célofhád leányai — Mahlá, Tircá, Hoglá, Milká és Nóá — engedelmeskedtek annak,
+{36:11} amit az Örökkévaló Mózesen keresztül parancsolt, és atyjuk testvéreinek fiaihoz mentek feleségül.
+{36:12} Valamennyien József fiának, Manassénak törzsén belül házasodtak, így a birtokuk is a saját törzsük területén belül maradt.
+{36:13} Ezeket a rendelkezéseket és törvényeket parancsolta az Örökkévaló Mózesen keresztül Izráel népének, amikor Moáb síkságán táboroztak, a Jordán mellett, Jerikóval átellenben.

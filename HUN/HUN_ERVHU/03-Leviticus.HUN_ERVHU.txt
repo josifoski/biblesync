@@ -1,0 +1,915 @@
+{i1:1} Az égőáldozatok
+{1:1} Az Örökkévaló szólította Mózest a Találkozás Sátorából, és így szólt hozzá:
+{1:2} „Ezt mondd Izráel népének: Amikor közületek valaki áldozatot hoz az Örökkévalónak, az áldozatra szánt állat a következők egyike lehet: szarvasmarha, juh, vagy kecske.
+{1:3} Ha szarvasmarhát hoz égőáldozatul, akkor az csakis ép és egészséges bika legyen. Vezesse a bikát a Találkozás Sátorának bejáratához, hogy az Örökkévaló elfogadja azt áldozatul.
+{1:4} Azután tegye a kezét az állat fejére, amelyet az Örökkévaló így elfogad égőáldozatul, hogy engesztelést szerezzen annak az embernek, aki hozta.
+{1:5} Ezután vágják le a bikát ott, az Örökkévaló előtt. Az Áron rendjéből való papok pedig mutassák be áldozatul a vért az oltáron, amely a Találkozás Sátora előtt van: hintsék a vért körös-körül az oltár négy oldalára.
+{1:6} Nyúzzák meg az állatot, és vágják részeire.
+{1:7} Ezalatt az Áron rendjéből való papok gyújtsanak tüzet az oltáron, majd helyezzék el
+{1:8} ezeket a részeket — a fejet és a hájat is — az égő fára.
+{1:9} A beleket és a lábszárakat azonban előbb vízben mossák meg. Azután a pap égesse el az oltáron az egész állatot. Égőáldozat ez, kedves illatú ajándék, amelyet az Örökkévaló szívesen fogad.
+{1:10} Ha valaki juhot, vagy kecskét hoz égőáldozatul az Örökkévalónak, akkor az csakis ép és egészséges kos, vagy bak legyen.
+{1:11} Az oltár északi oldalánál vágják le az áldozati állatot az Örökkévaló előtt. Az Áron rendjéből való papok hintsék a vért körös-körül az oltár négy oldalára.
+{1:12} Az állat testét vágják részeire, és tegyék külön a fejét és a hájat. Majd helyezzék el ezeket a részeket — a fejet és a hájat is — az égő fára.
+{1:13} A beleket és a lábszárakat azonban előbb vízben mossák meg. Azután a pap égesse el az oltáron az egész állatot. Égőáldozat ez, kedves illatú ajándék, amelyet az Örökkévaló szívesen fogad.
+{1:14} Ha valaki madarat hoz égőáldozatul az Örökkévalónak, akkor az gerle, vagy galambfióka legyen.
+{1:15} A pap vigye az oltárhoz, tekerje ki a nyakát, majd égesse el az oltár tüzén. Előbb azonban a vérét folyassa ki az oltár falára,
+{1:16} a begyét meg a farokrészét pedig mindenestül távolítsa el, és dobja az oltár keleti oldalán a hamu helyére.
+{1:17} A madarat a szárnyainál fogva hasítsa fel, de ne vágja szét két darabra. A pap égesse el a madarat egészen a tűzben, az oltáron égő fa lángjában. Égőáldozat ez, kedves illatú ajándék, amelyet az Örökkévaló szívesen fogad.
+{i2:1} Ételáldozatok
+{2:1} Amikor valaki lisztáldozatot hoz az Örökkévalónak, akkor a legfinomabb lisztből hozzon, öntsön rá olívaolajat és tegyen rá tömjént.
+{2:2} Azután vigye az Áron rendjéből való papokhoz. A pap vegyen ki a lisztből és az olajból egy maroknyit, de úgy, hogy az összes tömjén a kivett részben legyen. Ezt a maroknyi részt — amely az egész áldozatot jelképezi — égesse el az oltár tüzén. Kedves illatú ajándék ez, amelyet az Örökkévaló szívesen fogad.
+{2:3} Ami pedig megmarad belőle, az legyen Ároné és a papoké, mivel ez a legszentebb rész, hiszen az Örökkévalónak fölajánlott ajándékból való.
+{2:4} Amikor kemencében sült ételekből hozol áldozatot az Örökkévalónak, akkor a legfinomabb lisztből készíts olívaolajjal gyúrt kovász nélküli lepényeket, vagy olívaolajjal megkent lángosokat.
+{2:5} Ha sütőlapon készíted el áldozatul a lepényeket, akkor is a legfinomabb lisztből készítsd, olívaolajjal gyúrd meg, de ne legyen benne kovász.
+{2:6} Miután megsült, törd darabokra, és önts rá olívaolajat. Lisztáldozat ez.
+{2:7} Ha edényben készíted el, akkor is a legfinomabb lisztből készítsd, olívaolajjal gyúrd meg, de ne legyen benne kovász.
+{2:8} Az így elkészített áldozatot vidd az Örökkévaló elé, és add oda a papnak, ő pedig vigye az oltárhoz.
+{2:9} A pap vegyen ki belőle egy részt — amely az egész áldozatot jelképezi — , és égesse el az oltár tüzén. Kedves illatú ajándék ez, amelyet az Örökkévaló szívesen fogad.
+{2:10} Ami pedig megmarad belőle, az legyen Ároné és a papoké, mivel ez a legszentebb rész, hiszen az Örökkévalónak fölajánlott ajándékból való.
+{2:11} Minden lisztáldozat, amit az Örökkévalónak áldozol, kovász és élesztő nélkül készüljön, mivel ami kovászt, élesztőt, vagy mézet tartalmaz, az nem kerülhet az oltárra ajándékul.
+{2:12} Bár amikor az első termésből hozol az Örökkévalónak áldozatot, akkor hozhatsz olyan dolgokat is, amelyekben van kovász, élesztő, vagy méz, de ezek nem kerülhetnek föl az oltárra kedves illatú ajándékként.
+{2:13} Minden lisztáldozatodat sózd meg, mielőtt fölviszed az Örökkévalónak. Ne hiányozzon a só egyetlen lisztáldozatról sem, mert a só Istened szövetségét jelképezi, ezért minden áldozatodat sóval mutasd be.
+{i2:14} Az első termésből való áldozatok
+{2:14} Amikor az első termésből mutatsz be áldozatot az Örökkévalónak, az első kalászokból kipergetett gabonából készíts tűzön pörkölt gabonadarát.
+{2:15} Önts rá olívaolajat és tegyél rá tömjént. Gabonaáldozat ez.
+{2:16} A pap égesse el annak egy részét — egy maroknyi gabonadarát, olívaolajat és az összes tömjént. Ajándék ez az Örökkévalónak.
+{i3:1} Hálaáldozatok
+{3:1} Amikor valaki szarvasmarhát akar hálaáldozatként hozni az Örökkévalónak, akkor az áldozatra szánt állat lehet bika, vagy tehén, de feltétlenül ép és egészséges legyen.
+{3:2} Vezesse az állatot a Találkozás Sátorának bejáratához, azután tegye kezét az áldozat fejére, majd vágják le azt. Az Áron rendjéből való papok pedig hintsék az áldozat vérét körös-körül az oltár négy oldalára.
+{3:3} Az áldozati állat egy részét a papok vigyék az Örökkévalónak ajándékul: a belső szerveken lévő zsíros részeket,
+{3:4} a két vesét, a rajtuk lévő zsírral együtt, és a máj zsíros részét.
+{3:5} Ezeket az Áron rendjéből való papok égessék el az oltár tüzén az égőáldozattal együtt. Kedves illatú ajándék ez, amelyet az Örökkévaló szívesen fogad.
+{3:6} Ha valaki juhot, vagy kecskét akar hálaáldozatként hozni az Örökkévalónak, akkor az áldozatra szánt állat lehet hím, vagy nőstény, de feltétlenül ép és egészséges legyen.
+{3:7} Ha juhot áldoz, vezesse az állatot az Örökkévaló elé.
+{3:8} Tegye a kezét az áldozat fejére, majd vágja le azt a Találkozás Sátora előtt. Az Áron rendjéből való papok pedig hintsék az áldozat vérét körös-körül az oltár négy oldalára.
+{3:9} Az áldozati állat egy részét a papok vigyék az Örökkévalónak ajándékul: a belső zsíros részeit és az egész zsíros farkát, amelyet a farokcsigolyánál vágjanak le,
+{3:10} azután a két vesét, a rajtuk lévő zsírral együtt, és a máj zsíros részét.
+{3:11} Ezeket a pap égesse el az oltár tüzén. Ajándék ez az Örökkévalónak.
+{3:12} Ha kecskét áldoz, vezesse az állatot az Örökkévaló elé.
+{3:13} Tegye a kezét az áldozat fejére, majd vágja le azt a Találkozás Sátora előtt. Az Áron rendjéből való papok pedig öntsék az áldozat vérét körös-körül az oltár négy oldalára.
+{3:14} Az áldozati állat egy részét a papok vigyék az Örökkévalónak tűzáldozatul: a belső zsíros részeit,
+{3:15} a két vesét, a rajtuk lévő zsírral együtt, és a máj zsíros részét.
+{3:16} Ezeket a pap égesse el az oltár tüzén. Kedves illatú ajándék ez, amelyet az Örökkévaló szívesen fogad. Az áldozati állatok zsíros részei különleges áldozatként mind az Örökkévalót illetik meg, ezért
+{3:17} soha ne egyétek meg az állatok zsíros részét, se a vérét semmilyen formában! Nemzedékről nemzedékre örökké érvényes rendelkezés ez számotokra, minden lakóhelyeteken.”
+{i4:1} Áldozatok a nem szándékos vétkekért
+{4:1} Az Örökkévaló így szólt Mózesnek:
+{4:2} „Ezt mondd Izráel népének: Ha valaki nem szándékosan vétkezik az Örökkévalónak valamely parancsa ellen, és bármi olyat tesz, amit nem szabadna, akkor így kell eljárnia:
+{4:3} Ha egy fölkent pap vétkezik, és emiatt az egész nép vétkessé válik, akkor a pap hozzon az Örökkévalónak vétekáldozatul egy ép és egészséges bikát.
+{4:4} Vezesse az állatot az Örökkévaló elé, a Találkozás Sátorának bejáratához, azután tegye a kezét az áldozat fejére, majd vágják le a bikát az Örökkévaló előtt.
+{4:5} A fölkent pap vigyen be a vérből a Találkozás Sátorába,
+{4:6} majd mártsa ujját a vérbe, és hintse a vért hétszer az Örökkévaló előtt a Szentek Szentjének kárpitja felé.
+{4:7} Azután kenje meg a vérrel az illatáldozati oltár szarvait, amely az Örökkévaló előtt van, a Találkozás Sátorában. Ami pedig a vérből megmarad, azt öntse a Találkozás Sátora előtt lévő égőáldozati oltár tövére.
+{4:8} Majd a pap válassza külön az áldozati állatból az összes kövér részt: a belső szerveken lévő zsíros részeket,
+{4:9} a két vesét, a rajtuk lévő zsírral együtt, és a máj zsíros részét —
+{4:10} éppen úgy, mint a hálaáldozati bikánál. Ezeket a kövér részeket a pap égesse el az égőáldozati oltár tüzén.
+{4:11} A bika testének többi részét: bőrét, húsát, fejét, lábszárait, megmaradt belső részeit és ganéját — szóval mindazt, ami még megmaradt belőle, a pap vigye
+{4:12} ki a táborból egy rituálisan tiszta helyre. Arra a helyre vigye, ahová a hamut szokták kivinni, és égesse el azokat teljesen egy meggyújtott farakáson.
+{4:13} Előfordulhat, hogy Izráel népének egész közössége vétkezik, de nem szándékosan. Olyat tesznek, amivel áthágják az Örökkévaló parancsát, de a közösség nem veszi észre, hogy amit tett, az vétek.
+{4:14} Ha azonban később fölismerik, hogy vétkeztek, akkor a közösség hozzon az Örökkévalónak vétekáldozatul egy bikaborjút. Vezessék az állatot a Találkozás Sátora elé.
+{4:15} Azután a közösség vezetői tegyék a kezüket az áldozat fejére az Örökkévaló előtt, majd vágják le a bikaborjút az Örökkévaló előtt.
+{4:16} A fölkent pap vigyen be a vérből a Találkozás Sátorába,
+{4:17} majd mártsa ujját a vérbe, és hintse a vért hétszer az Örökkévaló előtt a Szentek Szentjének kárpitja felé.
+{4:18} Azután kenje meg a vérrel az illatáldozati oltár szarvait, amely az Örökkévaló előtt van, a Találkozás Sátorában. Ami pedig a vérből megmarad, azt öntse a Találkozás Sátora előtt lévő égőáldozati oltár tövére.
+{4:19} Majd a pap válassza külön az áldozati állatból az összes kövér részt, és égesse el azokat az oltár tüzén.
+{4:20} Éppen úgy tegyen mindent, mint a vétekáldozati bikánál. Így tisztítsa meg a pap a szent helyet, és az Örökkévaló megbocsát népének.
+{4:21} A bika testének többi részét a pap vigye ki a táborból és égesse el, ahogyan az előbbi esetben történt. Ez a közösség vétekáldozata.
+{4:22} Előfordulhat, hogy a fejedelem vétkezik, de nem szándékosan, és valami olyat tesz, amit Istene, az Örökkévaló megtiltott.
+{4:23} Amikor azonban tudtára adják, hogy vétkezett, hozzon az Örökkévalónak vétekáldozatul egy ép és egészséges kecskebakot.
+{4:24} Tegye a kezét a bak fejére, és vágják le azt az Örökkévaló előtt, azon a helyen, ahol az égőáldozatokat szokták levágni. Vétekáldozat ez.
+{4:25} A pap vegyen a vétekáldozat véréből, és az ujjával kenje meg az égőáldozati oltár szarvait, a vér maradékát pedig öntse az oltár tövéhez.
+{4:26} Az áldozati állat belső részeiből az összes kövéret égesse el a pap az oltár tüzén, ugyanúgy, mint a hálaáldozatnál. Így tisztítsa meg a szent helyet a pap a fejedelem vétkétől, és az Örökkévaló megbocsát a fejedelemnek.
+{4:27} Előfordulhat, hogy valaki a nép közül vétkezik, de nem szándékosan, és valami olyat tesz, amit Istene, az Örökkévaló megtiltott.
+{4:28} Amikor azonban tudtára adják, hogy vétkezett, hozzon az Örökkévalónak vétekáldozatul egy ép és egészséges nőstény kecskét.
+{4:29} Tegye a kezét a vétekáldozati kecske fejére, és vágja le azt az Örökkévaló előtt, azon a helyen, ahol az égőáldozatokat szokták levágni.
+{4:30} A pap vegyen a vétekáldozat véréből, és az ujjával kenje meg az égőáldozati oltár szarvait, a vér maradékát pedig öntse az oltár tövéhez.
+{4:31} Az áldozati állat belső részeiből — ugyanúgy, mint a hálaáldozatnál — az összes kövéret válassza külön, és égesse el a pap az oltár tüzén kedves illatú ajándékként, amelyet az Örökkévaló szívesen fogad. Így tisztítsa meg a szent helyet a pap az illető vétkétől, és az Örökkévaló megbocsát a vétkesnek.
+{4:32} Ha juhot hoz az Örökkévalónak vétekáldozatul, akkor ép és egészséges nőstény juh legyen az.
+{4:33} Tegye a kezét a vétekáldozati bárány fejére, és vágja le azt az Örökkévaló előtt, azon a helyen, ahol az égőáldozatokat szokták levágni.
+{4:34} A pap vegyen a vétekáldozat véréből, és az ujjával kenje meg az égőáldozati oltár szarvait, a vér maradékát pedig öntse az oltár tövéhez.
+{4:35} Az áldozati állat belső részeiből — ugyanúgy, mint a hálaáldozati báránynál — az összes kövéret válassza külön, és égesse el a pap az oltár tüzén az Örökkévalónak a többi ajándékkal együtt. Így tisztítsa meg a szent helyet a pap az illető vétkétől, és az Örökkévaló megbocsát a vétkesnek.
+{i5:1} Példák a vétekáldozati esetekre
+{5:1} Vétekáldozatra van szükség a következő esetekben: Ha valakit tanúskodásra szólítanak fel, és megesküszik, hogy az igazat fogja mondani, azonban mégsem tanúskodik arról, amit látott vagy hallott, akkor vétkessé lesz.
+{5:2} Ha valaki véletlenül hozzáér valamilyen rituálisan tisztátalan dologhoz, például egy elhullott állat teteméhez, akkor az illető vétkessé és tisztátalanná lesz, még ha nem is vette észre.
+{5:3} Ha valaki véletlenül hozzáér bármilyen emberi eredetű tisztátalan dologhoz, még ha nem is vette észre, akkor az illető tisztátalanná lesz. De vétkesnek számít, amikor fölismeri, hogy vétkezett.
+{5:4} Ha valaki meggondolatlanul esküt tesz — akármi is legyen az, amit elhamarkodottan esküvel ígér, jó vagy rossz — , de elfelejtkezik ígérete teljesítéséről, akkor vétkesnek számít, amint fölismeri, hogy vétkezett.
+{5:5} Ha tehát valaki vétkezik ezekben, nyilvánosan vallja meg bűnét, amelyet elkövetett.
+{5:6} Azután vigyen az Örökkévalónak vétekáldozatul bűnéért egy nőstény kecskét, vagy juhot, amelyet a pap áldozzon föl. Így tisztítsa meg a szent helyet a pap az illető vétkétől.
+{5:7} Ha a vétkes túl szegény ahhoz, hogy kecskét, vagy juhot áldozzon, akkor vétkéért vigyen az Örökkévalónak két gerlét vagy két galambfiókát: az egyiket jóvátételi áldozatul, a másikat égőáldozatul.
+{5:8} Vigye a madarakat a paphoz, aki áldozza föl az elsőt vétekáldozatul: tekerje ki a madár nyakát, de ne válassza le a fejet a testről,
+{5:9} majd a vérből hintsen az oltár oldalára, a vér maradékát pedig öntse az oltár tövéhez. Vétekáldozat ez.
+{5:10} A pap áldozza föl másik madarat égőáldozatként az előírás szerint. Így tisztítsa meg a szent helyet a pap az illető vétkétől, és az Örökkévaló megbocsát a vétkesnek.
+{5:11} Ha a vétkes nem tud két gerlét vagy galambfiókát áldozni, akkor vigyen az Örökkévalónak bűnéért egy tized éfá lisztet, a legjobb fajtából. De ne öntsön rá olajat, és tömjént se tegyen rá, mert vétekáldozat ez.
+{5:12} Vigye a lisztet a paphoz, aki vegyen ki abból egy marékkal — amely az egész áldozatot jelképezi — , és égesse el azt az oltár tüzén, az Örökkévalónak szánt egyéb ajándékokkal együtt. Vétekáldozat ez.
+{5:13} Így tisztítsa meg a szent helyet a pap az illető vétkétől, és az Örökkévaló megbocsát a vétkesnek, aki a felsorolt bűnök valamelyikét elkövette. A maradék liszt legyen a pap része, mint a lisztáldozatnál.”
+{i5:14} Jóvátételi áldozatok
+{5:14} Az Örökkévaló szólt Mózeshez:
+{5:15} „Ha valaki helytelenül bánik az Örökkévalónak szentelt dolgokkal, de nem szándékosan vétkezik, akkor vigyen az Örökkévalónak jóvátételi áldozatként egy ép és egészséges kost, vagy helyette a kos értékének megfelelő ezüstöt, a szent sékel szerint. Jóvátételi áldozat ez.
+{5:16} Amit pedig az illető vétkesen elvett a szent dolgokból, azt adja vissza, pótolja ki, vagy adjon helyette másikat. Azonban ezen felül tegye hozzá még annak az ötödrészét is, majd az egészet vigye a paphoz, és adja át. Ezután a pap szerezzen engesztelést a jóvátételi áldozatként hozott kossal, és az Örökkévaló megbocsát a vétkesnek.
+{5:17} Ha valaki nem szándékosan vétkezik az Örökkévalónak valamely parancsa ellen, és bármi olyat tesz, amit nem szabadna, akkor vétkessé válik, és viselnie kell vétke következményeit.
+{5:18} Ezért vigyen az Örökkévalónak jóvátételi áldozatként egy ép és egészséges kost, vagy helyette a kos értékének megfelelő ezüstöt. Vigye a paphoz, ő pedig áldozza föl a kost, és így szerezzen a vétkes számára engesztelést azért a tévedésért, amelyet az illető nem szándékosan követett el, és az Örökkévaló megbocsát a vétkesnek.
+{5:19} Jóvátételi áldozat ez azért a vétekért, amelyet az Örökkévaló ellen elkövetett.”
+{i6:1} Példák a jóvátételi áldozatot igényelő esetekre
+{6:1} Az Örökkévaló szólt Mózeshez:
+{6:2} „Előfordul, hogy valaki vétkezik és hűtlenséget követ el az Örökkévaló ellen a következő dolgokban: becsapja társát azzal kapcsolatban, amit társa rábízott, hogy őrizze meg, vagy amit zálogba adott neki, erőszakkal elvesz valamit mástól, megkárosítja, vagy becsapja társát,
+{6:3} letagadja, hogy megtalálta, amit valaki elvesztett, hamisan esküszik az előbbi esetekben, vagy más hasonlóan esetben, amellyel társa ellen vétkezik.
+{6:4} Ha tehát ezek közül valamelyik esetben vétkezett, és így vétkessé lett, a következőt kell tennie: vissza kell adnia, amit erőszakkal vagy csalással elvett a másiktól, vagy amit rábíztak, hogy őrizze meg, vagy amit megtalált.
+{6:5} Amire nézve hamisan esküdött, azt is vissza kell adja, vagy meg kell térítse annak értékét. De nemcsak azt kell visszaadja, amit elvett, hanem tegye hozzá még azon fölül az ötödrészét is. Így adja vissza annak, akit megillet, azon a napon, amikor a jóvátételi áldozatot bemutatja.
+{6:6} Ezen kívül vigyen az Örökkévalónak jóvátételi áldozatként egy ép és egészséges kost, vagy helyette a kos értékének megfelelő ezüstöt, és adja át a papnak.
+{6:7} Ezután a pap szerezzen a vétkes számára engesztelést az Örökkévaló előtt, és az Örökkévaló megbocsát a vétkesnek azok miatt, amelyekben az vétkezett.”
+{i6:8} Az égőáldozat bemutatása
+{6:8} Az Örökkévaló szólt Mózeshez:
+{6:9} „Parancsold meg Áronnak, a fiainak és az Áron rendjéből való papoknak a következőket. Ez az égőáldozat rendtartása: amikor az égőáldozatot az oltár tűzhelyére teszik, az maradjon ott másnap reggelig, és a tűz égjen az oltáron egész éjjel.
+{6:10} Másnap reggel a pap vegye magára lenvászonból készült papi ruháit — mind az alsó-, mind a felsőruhája ilyen legyen — azután gyűjtse össze az oltárról az elégett áldozat hamuját, és tegye az oltár mellé.
+{6:11} Ezután öltözzön át, vesse le a papi ruhákat, és vegyen fel más öltözetet, majd így vigye ki a hamut a táboron kívülre, arra a rituálisan tiszta helyre, ahová a hamut szokták vinni.
+{6:12} Az oltár tüze soha ne aludjon ki, állandóan táplálják a tüzet a papok. Tegyenek rá fát minden reggel, majd arra helyezzék el az égőáldozatokat és hálaáldozatok zsíros részeit, és égessék el azokat egészen.
+{6:13} Az oltár tüze soha ne aludjon ki, folytonosan táplálják a tüzet a papok.
+{i6:14} Az lisztáldozat bemutatása
+{6:14} Ez a lisztáldozat rendtartása. Az Áron rendjéből való papok járuljanak az Örökkévaló elé az lisztáldozattal: vigyék azt az oltárhoz.
+{6:15} Majd az egyik pap vegyen ki abból egy tele marékkal, de úgy, hogy liszt is, olaj is legyen benne, és az összes tömjén. Ezt a kivett részt — amely az egészet jelképezi — égesse el az oltár tüzén a pap. Kedves illatú áldozat ez az Örökkévalónak.
+{6:16} Ami pedig megmarad belőle, az legyen Ároné és a fiaié, az Áron rendjéből való papoké. Ők egyék meg azt szent helyen, vagyis a Találkozás Sátorának udvarában, de kovász nélkül készítsék belőle a kenyeret.
+{6:17} Ebből semmit nem szabad felhasználni kovásszal sütött kenyérhez vagy hasonló ételekhez. Én adtam ezt a papoknak a nekem szentelt ajándékból, hogy az ő részük legyen. Ez a legszentebb rész, hiszen az Örökkévalónak fölajánlott ajándékból való, akárcsak a vétekáldozat vagy a jóvátételi áldozat esetében.
+{6:18} Csak Áron férfi leszármazottjai ehetnek abból — ez az ő részük az Örökkévalónak szentelt ajándékokból nemzedékről nemzedékre. Aki érinti ezeket az ajándékokat, az is szentté lesz.”
+{i6:19} A főpap lisztáldozata
+{6:19} Az Örökkévaló szólt Mózeshez:
+{6:20} „Ezt az áldozatot kell Áronnak és a fiainak bemutatniuk azon a napon, amikor a főpapot fölszentelik a fölkenetés által. Vigyen az Örökkévalónak lisztáldozatul egy tized éfá lisztet, a legjobb fajtából. Ennek egyik felét reggel, másik felét este áldozza föl.
+{6:21} A lisztet olívaolajjal gyúrják meg, a tésztát sütőlapon süssék ki, majd tördeljék darabokra, úgy vigyék jó illatú lisztáldozatul az Örökkévalónak.
+{6:22} Ugyanígy készítsék el és áldozzák föl ezt az lisztáldozatot Áronnak mindazok a leszármazottjai, akik Áront követik majd a főpapi tisztségben, amikor fölszentelik őket a fölkenetés által. Örökké érvényes törvény ez. Ezt a lisztáldozatot pedig teljes egészében el kell égetni az oltár tüzén az Örökkévalónak.
+{6:23} A papok lisztáldozatait mindig teljes egészükben el kell égetni, semmit abból megenniük nem szabad.”
+{i6:24} A vétekáldozat bemutatása
+{6:24} Az Örökkévaló szólt Mózeshez:
+{6:25} „Ezt mondd Áronnak és a fiainak: ez a vétekáldozat rendtartása. A vétekáldozatul hozott állatot az Örökkévaló előtt, ugyanazon a helyen kell levágni, mint az égőáldozatra szánt állatokat. A vétekáldozat is igen szent,
+{6:26} ezért csak az a pap ehet belőle, aki bemutatta az áldozatot, de ő is csak szent helyen, vagyis a Találkozás Sátorának udvarában.
+{6:27} Ami hozzáér a vétekáldozathoz, az is szentté lesz. Ha az áldozati állat vére ráfröccsen valakinek a ruhájára, akkor azt a ruhát szent helyen ki kell mosni.
+{6:28} Ha az áldozati állat húsát cserépedényben főzik meg, akkor utána azt az edényt törjék össze. Ha pedig bronzedényben főzik meg, akkor utána azt az edényt súrolják ki, és öblítsék ki vízzel.
+{6:29} Mivel ez az áldozat igen szent, csak a papok családjainak férfitagjai ehetnek a húsából.
+{6:30} Annak a vétekáldozati állatnak a húsából, amelynek vérét beviszi a pap a Találkozás Sátorába, hogy általa megtisztítsa a szentélyt, senkinek nem szabad ennie, hanem azt teljes egészében el kell égetni.”
+{i7:1} A jóvátételi áldozat bemutatása
+{7:1} „Ez a jóvátételi áldozat rendtartása, amely nagyon szent:
+{7:2} Az áldozati állatot azon a helyen vágják le, ahol az égőáldozatot szokták. A pap hintse a vért körös-körül az oltár négy oldalára.
+{7:3} Az áldozati állat minden zsíros részét áldozzák föl az Örökkévalónak ajándékul: a zsíros farkat, belső szerveken lévő zsíros részeket,
+{7:4} a két vesét, a rajtuk lévő zsírral együtt, és a máj zsíros részét.
+{7:5} Ezeket a papok égessék el az oltár tüzén égőáldozatul az Örökkévalónak. Jóvátételi áldozat ez.
+{7:6} A papok családjában minden férfi és fiú ehet ebből az áldozatból, de csak szent helyen, mert nagyon szent ez.
+{7:7} Ugyanaz a törvény érvényes a vétekáldozatra és a jóvátételi áldozatra: azé a papé legyen, aki bemutatja az áldozatot.
+{7:8} Hasonlóképpen, az égőáldozati állat bőre is azt a papot illeti, aki az áldozatot bemutatja.
+{7:9} Minden lisztáldozat, amelyet kemencében, sütőlapon vagy edényben készítettek, legyen azé a papé, aki az áldozatot bemutatja.
+{7:10} Minden lisztáldozat — akár olívaolajjal, akár anélkül készült — , legyen az Áron rendjéből való papoké, és valamennyien részesedjenek belőle.”
+{i7:11} A hálaáldozat bemutatása
+{7:11} „Ez az Örökkévalónak bemutatott hálaáldozat rendtartása:
+{7:12} Amikor valaki az Örökkévaló iránti hálája kifejezésére mutat be hálaáldozatot, akkor az áldozati állaton kívül még lisztáldozatot is hozzon az Örökkévalónak: olívaolajjal gyúrt kovásztalan lepényeket, olívaolajjal megkent kovásztalan lángosokat és a legjobb lisztből és olívaolajjal készült lepényeket.
+{7:13} Ezeken felül még hozzon kovásszal készült kenyeret is.
+{7:14} Mindegyik fajta lisztáldozatból mutasson be és áldozzon föl egyet-egyet az Örökkévalónak, s az legyen a papé, aki a vért hinti az oltárra.
+{7:15} A hálaáldozati állat húsát még az áldozat bemutatása napján egyék meg, ne tegyenek belőle félre másnapra.
+{7:16} Ha az áldozat egy fogadalom teljesítése vagy önkéntes áldozat, akkor még az áldozat bemutatása napján egyék meg. Azonban, ha maradt a húsból másnapra, akkor is megehetik.
+{7:17} De ha a harmadik napra is marad belőle, azt már nem szabad elfogyasztani, hanem el kell égetni.
+{7:18} Ha valaki mégis enne abból a harmadik napon, akkor annak az áldozatát az Örökkévaló nem fogadja el, és az áldozat nem érvényes. A harmadik napon az a hús már tisztátalan, és aki abból eszik, annak viselnie kell bűne terhét és következményeit.
+{7:19} Azt a húst, amely hozzáér valamilyen tisztátalan dologhoz, el kell égetni — abból nem szabad enni. Aki nem lett tisztátalanná valami miatt, az ehet az áldozatok húsából készült ételekből.
+{7:20} De aki bármilyen ok miatt tisztátalanná vált, annak nem szabad ennie az Örökkévalónak szentelt hálaáldozatból. Aki mégis megteszi, azt ki fogják irtani népe közül.
+{7:21} Aki megérint valamilyen tisztátalan dolgot — legyen az emberi vagy állati eredetű dolog vagy tisztátalan állat — , és ennek ellenére mégis eszik az Örökkévalónak szentelt hálaáldozatból, azt ki fogják irtani népe közül.”
+{i7:22} Étkezési tilalmak
+{7:22} Az Örökkévaló szólt Mózeshez:
+{7:23} „Parancsold meg Izráel népének: Nem szabad megennetek a szarvasmarha, juh vagy kecske húsának zsíros részeit.
+{7:24} Az elhullott vagy ragadozók által széttépett állat zsíros részeit ugyan más célra fel lehet használni, de enni nem szabad belőle.
+{7:25} Az Örökkévalónak felajánlott áldozati állat zsíros részeiből sem szabad ennetek. Aki ezt a tilalmat megszegi, azt ki fogják irtani népe közül.
+{7:26} A vért nem szabad elfogyasztanotok — bárhol is fogtok lakni — , sem a madarak, sem a négylábú állatok vérét.
+{7:27} Aki ezt a tilalmat megszegi, azt ki fogják irtani népe közül.”
+{i7:28} A papok része az áldozatokból
+{7:28} Az Örökkévaló szólt Mózeshez:
+{7:29} „Parancsold meg Izráel népének: Amikor az Örökkévalónak hálaáldozatot mutatnak be, akkor személyesen vigyék az Örökkévaló elé az áldozatnak azt a részét, amely az Örökkévalóé, illetve a papé.
+{7:30} Ők maguk adják át a papnak az Örökkévalónak szánt ajándékrészt: az áldozati állat zsíros részeit és az állat szegyét. A szegye legyen az Örökkévaló előtt fölemelt áldozat.
+{7:31} A zsíros részeket a pap égesse el az oltár tüzén, a szegye pedig legyen a papok közös része.
+{7:32} Az áldozati állat jobb combja is legyen annak a papnak a szent része,
+{7:33} aki az áldozat vérét és zsíros részeit az oltárra vitte.
+{7:34} Tehát ennek az áldozatnak a szegyét és a jobb combját elfogadtam Izráel népétől, mint felmutatott áldozatot, és azokat együttesen a papoknak adtam: ez legyen örökre az ő szent részük a hálaáldozatból.
+{7:35} Ez legyen tehát Áronnak és a fiainak, a papoknak szent része az Örökkévalónak fölajánlott ajándékokból. Ezt a részt nekik adtam attól a naptól fogva,
+{7:36} amelyen pappá szentelték őket a felkenetés által. Megparancsolta az Örökkévaló Izráel népének, hogy ezt adják a papoknak, mert ez az ő örökös részük nemzedékről nemzedékre.”
+{7:37} Ezek tehát az Örökkévaló rendelkezései az égőáldozatok, lisztáldozatok, vétekáldozatok, jóvátételi áldozatok, hálaáldozatok és a papok felszentelési áldozatainak rendjéről.
+{7:38} Az Örökkévaló adta ezeket a törvényeket Mózesnek a Sínai-hegyen, a sivatagban, amikor elrendelte Izráel népének, hogyan hozzanak áldozatokat az Örökkévalónak.
+{i8:1} Áronnak és fiainak felszentelése
+{8:1} Így szólt az Örökkévaló Mózesnek:
+{8:2} „Hívd magadhoz Áront és a fiait. Vigyétek magatokkal ezeket: a papi ruhákat, a felkenetéshez való szent olajat, egy bikát a vétekáldozathoz, két kost és egy kosár kovásztalan kenyeret.
+{8:3} Mindezekkel együtt menjetek a Találkozás Sátorának bejáratához, és gyűjtsd oda a nép egész közösségét is.”
+{8:4} Mózes mindent úgy tett, ahogy az Örökkévaló meghagyta neki, és a nép közössége is odagyűlt a Találkozás Sátorának bejáratához.
+{8:5} Akkor Mózes kihirdette a közösségnek: „Figyeljetek! Az Örökkévaló parancsolta, hogy megtegyük ezeket.”
+{8:6} Mózes először a közösség elé állította Áront és a fiait, és vízzel lemosta őket.
+{8:7} Azután ráadta Áronra a köntöst, megkötötte az övét, majd a palástot, azután az efódot, és annak díszes övét is megkötötte.
+{8:8} Mindezek fölé ráadta a hósent, s abba beletette az Úrímot és a Tummímot.
+{8:9} A fejére föltette a papi süveget, arra pedig Áron homloka fölé a szent arany fejdíszt. Mózes mindent úgy tett, ahogy az Örökkévaló meghagyta neki.
+{8:10} Azután Mózes a felkenetésre való szent olajjal megkente a Találkozás Sátorát, és minden abban lévő tárgyat — így szentelte föl azokat.
+{8:11} Az olajból hintett az égőáldozati oltárra is hétszer, majd megkente az oltárt és annak minden fölszerelését, majd a medencét és annak állványát — így szentelte föl azokat.
+{8:12} Végül a szent olajból öntött Áron fejére is — így kente föl Áront főpappá: fölszentelte őt.
+{8:13} Majd előállította Áron fiait, őket is felöltöztette a papi ruhákba, megkötötte öveiket, fejükre papi süveget tett — mindent annak megfelelően, ahogy az Örökkévaló meghagyta neki.
+{8:14} Azután Mózes elővezette az vétekáldozatra való bikát, amelynek fejére Áron és fiai rátették a kezüket.
+{8:15} Majd Mózes levágta az áldozati állatot, és vérét fölfogta egy edényben. Azután az ujjával vett a vérből, és megkente vele az égőáldozati oltárnak mind a négy szarvát. Így tisztította meg az oltárt. A többi vért pedig az oltár tövéhez öntötte. Ezzel fölszentelte az oltárt, hogy a továbbiakban azon elvégezhessék az engesztelést.
+{8:16} Az állat belső szervein lévő zsírt, a máj zsíros részét és a veséket különválasztotta, majd elégette az oltár tüzén.
+{8:17} A többi részét: a bika húsát, bőrét, ganéját elégette a táboron kívül. Mindent úgy tett Mózes, ahogy az Örökkévaló meghagyta neki.
+{8:18} Azután Mózes elővezette az égőáldozati kost, amelynek fejére Áron és fiai rátették a kezüket.
+{8:19} Majd levágta az áldozati állatot, és vérét Mózes körös-körül az oltárra hintette.
+{8:20} Az állatot részeire vágta, annak lábait és belső részeit vízzel megmosta, majd az egészet teljesen elégette az oltár tüzén égőáldozatul. Minden részét elégette, a fejet,
+{8:21} a húst és a zsíros részeket is. Égőáldozat ez, kedves illatú ajándék, amelyet az Örökkévaló szívesen fogad. Mindent úgy tett Mózes, ahogy az Örökkévaló meghagyta neki.
+{8:22} Majd elővezette a másik kost, amely a papok felavatására szolgált. A kos fejére Áron és fiai rátették a kezüket.
+{8:23} Majd Mózes levágta az áldozati állatot, és a vérével megkente Áron jobb fülének cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját.
+{8:24} Azután ugyanezt tette Áron fiaival is: megkente a vérrel mindegyikük jobb fülének cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját. A vér többi részét körös-körül az oltárra hintette.
+{8:25} Ezután elválasztotta a kos zsíros részeit: a belső zsíros részeket, a zsíros farokrészt, a máj zsíros részét, a veséket, meg a jobb combot.
+{8:26} A kovásztalan kenyerek kosarából kivett egy kenyeret, amely az Örökkévaló előtt volt, azután egy olajjal megkent lepényt és egy lángost. Ezeket a zsíros részekkel együtt a combra helyezte,
+{8:27} és mindezeket együtt Áronnak és fiainak kezébe adta, hogy mutassák fel az Örökkévalónak. Így lett az felmutatott áldozat az Örökkévalónak.
+{8:28} Ezután Mózes visszavette tőlük a combot, a rajta lévő áldozatokkal együtt, és az egészet elégette az oltár tüzén az égőáldozattal együtt. A papok fölavatási áldozata ez, kedves illatú ajándék, amelyet az Örökkévaló szívesen fogad.
+{8:29} Majd Mózes vette a fölavatási kos mellerészét, és fölmutatta az Örökkévalónak — így lett az felmutatott áldozat az Örökkévalónak. Ez a darab Mózes része lett, ahogy az Örökkévaló azt megparancsolta Mózesnek.
+{8:30} Azután Mózes vett a fölkenetésre való olajból és az oltáron lévő vérből, és ráhintette azokat Áronra és a ruháira, a fiaira és azoknak ruháira. Így szentelte meg Áront és a fiait, meg Áron ruháit és a fiainak ruháit is.
+{8:31} Azt mondta Mózes Áronnak és a fiainak: „A felavatási kos húsát főzzétek meg a Találkozás Sátorának bejáratánál! Ott is egyétek azt meg a fölavatási áldozat kosarában lévő kenyerekkel együtt, ahogy parancsoltam nektek: Áron és a fiai egyék azt meg!
+{8:32} Ami pedig megmarad a húsból és a kenyerekből, azt égessétek el.
+{8:33} Hét napon keresztül, amíg be nem fejeződik a felavatásotok, nem szabad kimennetek a Találkozás Sátorának bejáratán.
+{8:34} Az Örökkévaló parancsolta mindezt, amit ma elvégeztünk, hogy engesztelést szerezzünk értetek.
+{8:35} Maradjatok a Találkozás Sátorának bejáratánál hét napig, éjjel-nappal! Vigyázzatok, hogy meg ne szegjétek az Örökkévaló parancsát, hogy meg ne haljatok! Ezt parancsolta nekem az Örökkévaló.”
+{8:36} Áron és a fiai mindent úgy tettek, ahogyan azt az Örökkévaló megparancsolta Mózes által.
+{i9:1} Áron és fiai első áldozata
+{9:1} A nyolcadik napon Mózes szólította Áront és fiait, meg Izráel vezetőit.
+{9:2} Ezt mondta Áronnak: „Válassz egy bikaborjút vétekáldozatnak, és egy kost égőáldozatnak. Mind a kettő ép és egészséges legyen. Ezeket áldozd föl az Örökkévalónak.
+{9:3} Szólj Izráel népének, hogy válasszanak ki egy kecskebakot a vétekáldozathoz, meg egy borjút és egy bárányt — mindegyik egy éves legyen — égőáldozatnak. Mindegyik áldozati állat ép és egészséges legyen.
+{9:4} Ezen kívül hozzanak egy bikát és egy kost hálaáldozatul az Örökkévalónak, meg lisztáldozatot, olívaolajjal keverve — , mert ma az Örökkévaló meg fog jelenni nektek.”
+{9:5} Ekkor az egész nép odagyűlt a Találkozás Sátora elé, hozták mindazt, amit Mózes parancsolt, és megálltak az Örökkévaló előtt.
+{9:6} Mózes azt mondta nekik: „Tegyétek meg, amit az Örökkévaló parancsolt, s akkor meg fogjátok látni az Örökkévaló dicsőségét!”
+{9:7} Áronnak pedig ezt mondta Mózes: „Menj oda az oltárhoz, és mutasd be a vétekáldozatot és az égőáldozatot — végezz engesztelést magadért és a népért. Azután mutasd be a nép áldozatát is, végezz engesztelést értük is. Mindent úgy tegyél, ahogy az Örökkévaló parancsolta.”
+{9:8} Akkor Áron odament az oltárhoz, és levágta a bikaborjút a saját vétekáldozatához.
+{9:9} Áron fiai felfogták a vért, és odanyújtották az edényt Áronnak, aki belemártotta ujját a vérbe, és megkente az oltár szarvait vele. A vér többi részét Áron az oltár tövéhez öntötte.
+{9:10} Majd a vétekáldozat zsíros részeit, a veséket és a máj zsíros részét elégette az oltár tüzén, ahogy az Örökkévaló parancsolta.
+{9:11} Az áldozati állat húsát és bőrét pedig elégette a táboron kívül.
+{9:12} Azután Áron levágta az égőáldozati kost, Áron fiai felfogták a vért, és odanyújtották az edényt Áronnak, aki a vért körös-körül az oltárra hintette.
+{9:13} Majd Áron fiai apjuk kezébe adogatták a részeire vágott áldozati állat fejét és többi részeit. Áron pedig
+{9:14} előbb megmosta a belső részeket és a lábakat, majd sorra az oltárra helyezte azokat, és elégette a tűzben.
+{9:15} Ezután következett a nép áldozata. Áron levágta a népért a vétekáldozati bakot, és ugyanúgy feláldozta azt, mint a saját magáért bemutatott vétekáldozatot.
+{9:16} Feláldozta a népért a borjút és a bárányt is égőáldozatul, az Örökkévaló parancsa szerint.
+{9:17} Azután bemutatta a nép lisztáldozatát is. Kivett abból egy maroknyit és elégette az oltár tüzén. Ez az áldozat a szokásos reggeli égőáldozaton felül történt.
+{9:18} Bemutatta a nép hálaáldozatát is. Levágta Áron a bikát és a kost. Áron fiai felfogták a vért, és odanyújtották az edényt Áronnak, aki a vért körös-körül az oltárra hintette.
+{9:19} Áron az áldozati állatok zsíros részeit, a veséket, a májat és a kos zsíros farkát
+{9:20} ráhelyezte az állatok mellrészére, és az oltárhoz vitte. A zsíros részeket elégette az oltár tüzén,
+{9:21} a mellrészt pedig a hátsó jobb combokkal együtt felmutatta az Örökkévalónak, ahogy azt Mózes meghagyta — így lett az felmutatott áldozat az Örökkévalónak.
+{9:22} Amikor Áron elvégezte a vétekáldozat, az égőáldozat és a hálaáldozat bemutatását, fölemelte két kezét a nép fölé, és megáldotta őket. Azután lejött az oltártól.
+{9:23} Mózes és Áron ezután bement a Találkozás Sátorába. Miután kijöttek onnan, együtt megáldották a népet. Ekkor megjelent az Örökkévaló dicsősége az egész nép szeme láttára.
+{9:24} Akkor az Örökkévalótól tűz jött ki, és megemésztette az oltáron lévő égőáldozatot és zsíros részeket. Amikor ezt a nép látta, hangos ujjongásban tört ki, és mindenki arccal a földre borult.
+{i10:1} Nádáb és Abíhú halála
+{10:1} Áron fiai közül ketten, Nádáb és Abíhú fogták a füstölőjüket, parazsat tettek bele, füstölőszert tettek a parázsra, és az Örökkévaló elé járultak vele. Azonban ez idegen áldozat volt, amely nem felelt meg az Örökkévaló rendelkezéseinek.
+{10:2} Emiatt tűz csapott ki az Örökkévalótól, és megégette őket. Így halt meg Nádáb és Abíhú az Örökkévaló előtt.
+{10:3} Mózes akkor ezt mondta Áronnak: „Látod, ez az, amit az Örökkévaló mondott: »Akik közel vannak hozzám, azokban kell megmutatkoznia, hogy szent vagyok — azért, hogy megmutassam dicsőségemet az egész nép szeme láttára!«” Áron azonban némán hallgatott.
+{10:4} Akkor Mózes szólította Mísáélt és Elcáfánt, Áron nagybátyjának, Uzzíélnek fiait, és ezt mondta nekik: „Gyertek ide, és vigyétek el a Találkozás Sátorának udvara elől rokonaitok holttestét a táboron kívülre!”
+{10:5} Ők tehát odajöttek, és kivitték a két holttestet — úgy, ahogy voltak, a ruhájukkal együtt a táboron kívülre — Mózes szava szerint.
+{10:6} Azután Mózes szólt Áronnak és megmaradt két fiának, Eleázárnak és Ítámárnak: „Izráel népe — rokonaitok ők valamennyien — gyászolja meg ezt a két halottat, akiket az Örökkévaló tüze ölt meg. De ti ne gyászoljatok, mert különben meghaltok, és az Örökkévaló megharagszik az egész közösségre! Ti ne tegyétek hajatokat gondozatlanná, és ne szaggassátok meg ruháitokat!
+{10:7} A gyász ideje alatt ki se menjetek a szentély bejáratán a nép közé, különben meghaltok, mert most rajtatok van az Örökkévaló felkenetésének olaja!” Ők pedig engedelmeskedtek Mózes szavának.
+{10:8} Azután az Örökkévaló szólt Áronnak:
+{10:9} „Amikor te vagy a fiaid bementek a Találkozás Sátorába, előtte soha ne igyatok bort, vagy egyéb szeszes italt, hogy meg ne haljatok! Örökké érvényes törvény ez a papok számára, nemzedékről nemzedékre!
+{10:10} Szükséges, hogy különbséget tudjatok tenni a szent és közönséges, valamint a tiszta és tisztátalan dolgok között.
+{10:11} Képesnek kell lennetek arra, hogy tanítsátok Izráel népét minden rendelkezésre, amelyet az Örökkévaló Mózes által mondott.”
+{10:12} Mózes szólt Áronnak és megmaradt két fiának, Eleázárnak és Ítámárnak: „Ami a lisztáldozatból megmarad, miután annak egy részét az Örökkévalónak áldoztátok ajándékul, abból készítsetek magatoknak kovásztalan kenyeret, és egyétek meg az oltár mellett, mert ez a legszentebb rész,
+{10:13} hiszen az Örökkévalónak fölajánlott ajándékból való. Csakis a szent hely udvarán szabad azt megennetek, mert az Örökkévaló ezt a részt nektek és a fiaitoknak adta. Így parancsolta nekem az Örökkévaló.
+{10:14} A felmutatott áldozati részt, az állat szegyét, és felajánlott combját akármilyen rituálisan tiszta helyen megehetitek egész családotokkal együtt: abból fiaid és leányaid is ehetnek. Az áldozatoknak ezeket a részeit az Örökkévaló nektek és gyermekeiteknek adta Izráel népének hálaáldozataiból.
+{10:15} Az ajándék bemutatásakor, amikor a zsíros részeket elégetitek az oltár tüzén, ezt a két részt — a szegyét és a combot — is oda kell vinnetek az oltárhoz, és fel kell azokat mutatnotok az Örökkévalónak. Azután a tiétek lesz ez a két rész, és a gyermekeiteké. Örökké érvényes rendelkezés, hogy ezek titeket illetnek, mert az Örökkévaló ezt parancsolta.”
+{10:16} Amikor Mózes érdeklődött, hogy mi történt a vétekáldozati bak húsával, kiderült, hogy azt már elégették. Emiatt Mózes nagyon megharagudott Eleázárra és Ítámárra, Áron életben maradt fiaira, és ezt mondta nekik:
+{10:17} „Meg kellett volna ennetek a vétekáldozati bak húsát a szent hely udvarán, hiszen az különösen szent! Az Örökkévaló adta azt nektek, mivel a ti feladatotok, hogy az Örökkévaló előtt megtisztítsátok a szent helyet a nép bűnétől.
+{10:18} Mivel az áldozati állat vérét nem vitték be a Találkozás Sátorába, azért az állat húsát nektek kellett volna megennetek a szent hely udvarán, ahogy parancsoltam nektek!”
+{10:19} Áron azonban így felelt Mózesnek: „Nézd, ők ma mutatták be először a vétek- és égőáldozatot az Örökkévaló előtt. Engem pedig ilyen szörnyű dolog ért! Vajon, ha ettünk volna abból a vétekáldozatból, azt az Örökkévaló jónak látta volna?”
+{10:20} Mózes elfogadta Áron válaszát, és megnyugodott.
+{i11:1} A tiszta és tisztátalan állatok
+{11:1} Így szólt az Örökkévaló Mózeshez és Áronhoz:
+{11:2} „Ezt mondjátok Izráel népének: Azokból a növényevő szárazföldi állatokból készíthettek ételt
+{11:3} magatoknak, amelyek kérődzők és ugyanakkor a körmük vagy patájuk egészen kettéhasított.
+{11:4} Vannak azonban olyan állatok, amelyek kérődzők ugyan, de nem
+{11:5} hasadt körműek. Ezeknek húsából nem szabad ennetek, mert tisztátalanok!
+{11:6} Ilyen például a teve, a szirti borz és a nyúl.
+{11:7} Mások pedig hasadt körműek ugyan, de nem kérődzők. Ezeknek a húsából sem szabad ennetek, mert tisztátalanok! Ilyen például a disznó.
+{11:8} Tehát ezeknek a tisztátalan állatoknak ne egyetek a húsából, sőt, még a teteméhez se érjetek hozzá!
+{i11:9} Vízben élő állatok
+{11:9} A vízben élő állatok közül azokat a halakat ehetitek meg, amelyeknek uszonya is, meg pikkelye is van — akár a tengerben, akár a folyókban, vagy a tavakban élnek.
+{11:10} A többi víziállatot, amely nem olyan, hogy uszonya is meg
+{11:11} pikkelye is van, nem szabad megennetek, bármilyenek is legyenek —
+{11:12} azok utálatosak és tisztátalanok legyenek számotokra! Még a tetemükhöz sem szabad hozzáérnetek!
+{i11:13} Madarak
+{11:13} A madarak közül a következő fajokat kerüljétek el,
+{11:14} mivel tisztátalanok. Ezeket ne egyétek, mert utálatosak: minden
+{11:15} ragadozó madár: sas, sólyom, kánya, héja, ölyv, és
+{11:16} ezek rokonai, minden dögevő madár: keselyű-félék, holló, minden
+{11:17} bagoly-féle, a halevő vízimadarak: gém, gólya, pelikán, sirály,
+{11:18} kormorán, íbisz, és ezek rokonai, ezeken kívül a
+{11:19} szarka, a búbos banka, valamint a denevér. Ezeket nem szabad megennetek.
+{i11:20} Egyéb állatok
+{11:20} A földön mászó szárnyas rovarokat tartsátok tisztátalannak és utálatosnak, s azokat ne egyétek meg.
+{11:21} Kivételt képeznek közülük azok, amelyeknek lábai ugró-lábak, és azzal szökdösnek a földön.
+{11:22} Ezek a kivételek a következők: vándorsáska, szoleám-sáska, hargól-sáska és hágáb-sáska — ezeket megehetitek.
+{11:23} Az összes többi szárnyas rovart tekintsétek utálatosnak.
+{11:24} Minden négylábú állat, amely nem egészen hasadt körmű, vagy nem kérődző,
+{11:25} valamint minden négylábú állat, amely a talpán jár tisztátalan. Ha valaki
+{11:26} megérinti ezeknek az állatoknak a tetemét, akkor aznap estig maga is
+{11:27} tisztátalanná válik. Ha valaki az ilyen állatok tetemét fel kell vegye,
+{11:28} hogy eltávolítsa, az is tisztátalanná válik estig, és ki kell mossa még a ruháit is.
+{11:29} A földön csúszó-mászó és nyüzsgő kisebb állatok tisztátalanok. Ilyenek például a
+{11:30} következők: vakond, egér, gekkó, kaméleon, csiga és a gyíkok minden fajtája.
+{11:31} Ezek tehát tisztátalanok, s aki megérinti a tetemüket, maga is tisztátalanná válik estig.
+{11:32} Ha ezek közül a tisztátalan állatok közül valamelyiknek a teteme ráesik valamire, az a tárgy is tisztátalanná válik. Ha ez a használati tárgy fából, szövetből, bőrből vagy zsákvászonból készült, akkor vízbe kell meríteni. Estig tisztátalannak kell tekinteni, s azután már tiszta lesz, és ismét használható.
+{11:33} Ha ezek közül a tisztátalan állatok közül valamelyiknek a teteme ráesik, vagy beleesik egy cserépedénybe, akkor mindaz, amit az edényben tároltak, tisztátalanná válik, és magát a cserepet is össze kell törni.
+{11:34} Az ilyen tisztátalanná vált cserépedényből kiöntött víz is tisztátalanná teszi azt az ételt, amire öntötték. Hasonlóan tisztátalanná válik minden ital is, amely ilyen tisztátalan cserépedényben van.
+{11:35} Ha ilyen tisztátalan állat teteme ráesik valamire, az is tisztátalanná válik. Ha kemencére vagy tűzhelyre esik, azokat le kell bontani.
+{11:36} Ha viszont forrás vizébe vagy vízgyűjtő ciszternába esik bele az állat teteme, annak vize nem válik emiatt tisztátalanná. Csak az válik tisztátalanná, ami a belehullott tetemhez hozzáér.
+{11:37} Ha ilyen tisztátalan állat teteme vetőmagra esik, amelyet elvetésre szántak, az nem válik emiatt tisztátalanná.
+{11:38} Azonban, ha vízbe áztatott magra esik a tetem, akkor az a mag tisztátalanná lesz.
+{11:39} Ha valamelyik megehető állat magától elpusztul, és valaki megérinti annak tetemét, az a személy tisztátalanná válik estig.
+{11:40} Aki eszik belőle vagy felveszi a tetemet, tisztátalanná válik estig, és a ruháit is ki kell mossa.
+{11:41} Nem szabad a földön csúszó-mászó vagy a porban nyüzsgő apró állatokból ennetek, mert utálatosak azok.
+{11:42} Semmi olyat ne egyetek meg, amely a hasán csúszik, vagy négy, esetleg több lábon csúszik-mászik a földön, mert ezek utálatosak!
+{11:43} Ne tegyétek magatokat utálatossá azzal, hogy megérintitek őket, vagy esztek belőlük! Ne váljatok tisztátalanná,
+{11:44} mert én vagyok az Örökkévaló, Istenetek! Szenteljétek hát meg magatokat, és szentek legyetek, mert én szent vagyok! Ne tegyétek magatokat tisztátalanná a csúszó-mászó állatok által!
+{11:45} Én vagyok az Örökkévaló, aki kihoztalak titeket Egyiptom földjéről, hogy Istenetekké legyek. Ezért ti is legyetek szentek, mert én szent vagyok!”
+{11:46} Ezek a törvények vonatkoznak a kis és nagy állatokra, madarakra, víziállatokra és a földön csúszó-mászó állatokra,
+{11:47} hogy gondosan különbséget tudjatok tenni a tiszta és tisztátalan állatok között, és el tudjátok dönteni, melyik állat ehető a számotokra, és melyik nem.
+{i12:1} A szülő asszony tisztulásának törvénye
+{12:1} Így szólt az Örökkévaló Mózeshez:
+{12:2} „Ezt mondd Izráel népének: Amikor egy asszony fiút szül, a szülés után 7 napig tisztátalannak számít — ugyanúgy, mint a havi tisztulása idején.
+{12:3} A nyolcadik napon az újszülött fiú előbőrét metéljék körül.
+{12:4} Az asszony ezután még 33 napig várjon, hogy megtisztuljon a vértől. Ne érintsen semmilyen szent dolgot, és ne menjen a szent helyre, amíg tisztulásának ideje le nem telik.
+{12:5} Amikor leánya születik, a szülés után 14 napig számít tisztátalannak — ugyanúgy, mint a havi tisztulása idején. Ezután még 66 napig várjon, hogy megtisztuljon a vértől.
+{12:6} Amikor a tisztulás ideje letelt, az asszony hozzon égőáldozatul egy esztendős bárányt, akár fia, akár leánya született. Ezen kívül hozzon egy galambfiókát vagy egy gerlét megtisztulási áldozatul. Ezeket hozza a Találkozás Sátorának bejáratához, és adja át a papnak.
+{12:7} Ha valakinek nincs módja rá, hogy egy bárányt áldozzon, akkor hozzon az Örökkévalónak két galambfiókát vagy két gerlét: az egyiket égőáldozatul, a másikat megtisztulási áldozatul. A pap
+{12:8} áldozza föl azokat az Örökkévalónak, és így tisztítsa meg az oltárt. Így lesz az asszony újból rituálisan tiszta a szülés után. Ez a gyermeket szülő asszony tisztulásának törvénye.”
+{i13:1} Különböző bőrbetegségekre vonatkozó törvények
+{13:1} Így szólt az Örökkévaló Mózeshez és Áronhoz:
+{13:2} „Ha valakinek a bőrén daganat, kiütés vagy gyulladás támad, akkor ebből valamilyen rosszindulatú bőrbetegség fejlődhet ki. Ilyen esetben a beteget oda kell vinni Áronhoz vagy valamelyik leszármazottjához.
+{13:3} A pap gondosan vizsgálja meg a beteg bőrét. Ha úgy találja, hogy a beteg bőrfelület az egészségeshez képest mélyebben van, és ott a szőr kifehéredett, akkor az valóban rosszindulatú bőrbetegséget jelent. A papnak ki kell jelentenie, hogy az a beteg tisztátalan.
+{13:4} Ha úgy találja, hogy a beteg bőrfelület nem mélyed be, és a benne lévő szőr sem fehéredik ki, akkor a pap különítse el a beteget 7 napig.
+{13:5} A hetedik napon ismét vizsgálja meg. Ha úgy találja, hogy a betegség nem terjedt tovább, és a beteg bőrfelület sem változott, különítse el a beteget további 7 napig.
+{13:6} Ennek leteltével újra vizsgálja meg, és ha úgy találja, hogy a kiütés elhalványult, és nem terjedt tovább, akkor jelentse ki a pap, hogy a betegség csak közönséges kiütés volt, nem pedig rosszindulatú bőrbetegség. Tehát nyilvánítsa az illetőt tisztának, ő pedig mossa ki a ruháit, és azután rituálisan teljesen tiszta lesz.
+{13:7} Azonban, ha a beteg bőrfelület mégis tovább terjed, miután a beteg megmutatta magát a papnak, aki tisztának nyilvánította, akkor a beteget vissza kell vinni a paphoz.
+{13:8} Ő gondosan vizsgálja meg, és ha úgy látja, hogy a betegség valóban terjeszkedik, akkor jelentse ki, hogy a beteg tisztátalan, mert valóban rosszindulatú bőrbetegségben szenved.
+{13:9} Ha valakin olyan bőrbetegség tünetei jelentkeznek, amely rosszindulatúnak látszik, akkor el kell vinni a beteget a paphoz.
+{13:10} Ő vizsgálja meg, és ha azt látja, hogy fehér daganat van a beteg bőrén, a rajta lévő szőr kifehéredett, és az egész seb fekélyesedik,
+{13:11} akkor ez rosszindulatú bőrbetegség előrehaladott állapotban. Ekkor nyilvánítsa a beteget tisztátalannak. Ilyen esetben nem szükséges 7 napra elkülöníteni a beteget, mert az eset nyilvánvaló.
+{13:12} Előfordul, hogy a bőrbetegség tetőtől talpig a teljes bőrfelületet elborítja, ahol csak látja a pap a beteg bőrét. Ebben az esetben a pap nyilvánítsa a beteget tisztátalannak.
+{13:13} De ha később a pap újra megvizsgálja a beteget, és azt találja, hogy a beteg testén a beteg bőr lehámlott, és mindenhol új és fehér bőr fejlődött, akkor nyilvánítsa azt a személyt tisztának.
+{13:14} Ellenben ha azt találja, hogy fekélyek jelentek meg a beteg bőrén, akkor nyilvánítsa
+{13:15} a beteget tisztátalannak. A fekélyek a rosszindulatú bőrbetegséget jelzik, és az ilyen beteg tisztátalan.
+{13:16} Előfordul, hogy a fekélyek begyógyulnak, és a beteg bőrfelület kifehéredik. Ebben az esetben a beteg újra menjen el a paphoz.
+{13:17} A pap vizsgálja meg, és ha úgy találja, hogy a beteg bőre valóban kifehéredett, akkor a pap nyilvánítsa azt a személyt ismét tisztának.
+{13:18} Ha valakinek a bőrén fekély keletkezik, amely később begyógyul,
+{13:19} és a helyén fehér daganat, vagy rózsaszínű folt marad, akkor az illető meg kell mutassa azt a papnak.
+{13:20} A pap vizsgálja meg, és ha úgy találja, hogy a beteg bőrfelület az egészségeshez képest mélyebben van, és ott a szőr kifehéredett, akkor állapítsa meg, hogy az rosszindulatú bőrbetegség, amely a fekélyből alakult ki. A pap jelentse ki, hogy a beteg tisztátalan.
+{13:21} Ha úgy találja, hogy a beteg bőrfelület nem mélyed be, és nincs benne fehér szőr, csak egy halványabb színű sebhely, akkor a pap különítse el a beteget 7 napig.
+{13:22} Ha azután azt tapasztalja, hogy a betegség a bőrön tovább terjedt, akkor a pap jelentse ki, hogy a beteg tisztátalan, mivel ez rosszindulatú bőrbetegség.
+{13:23} Ellenben ha azt tapasztalja, hogy a betegség ugyanott maradt, és nem terjedt tovább, akkor az csupán a begyógyult fekély sebhelye. Ekkor a pap nyilvánítsa azt a személyt tisztának.
+{13:24} Ha valaki megégeti magát, és ennek nyomán a bőre kisebesedik, és a seb rózsaszínű vagy fehér,
+{13:25} akkor ezt is meg kell mutatnia a papnak. Ha ő úgy találja, hogy a beteg bőrfelület az egészségeshez képest mélyebben van, és ott a szőr kifehéredett, akkor az rosszindulatú bőrbetegség, amely az égési sebből alakult ki. A pap jelentse ki, hogy a beteg tisztátalan.
+{13:26} Ha úgy találja, hogy a beteg bőrfelület nem mélyed be, és nincs benne fehér szőr, csak egy halványabb színű sebhely, akkor a pap különítse el a beteget 7 napig a közösségtől.
+{13:27} A hetedik napon a pap ismét nézze meg a beteget, s ha azt tapasztalja, hogy a betegség a bőrön tovább terjedt, akkor a pap jelentse ki, hogy a beteg tisztátalan, mert ez valóban rosszindulatú bőrbetegség.
+{13:28} Viszont ha azt tapasztalja, hogy a betegség nem terjedt tovább, sőt halványabb lett, akkor az csupán a begyógyult égési seb nyoma. Ekkor a pap nyilvánítsa azt a személyt tisztának.
+{13:29} Ha egy asszony vagy férfi fején vagy arcán bőrkiütés jelentkezik,
+{13:30} azt is meg kell vizsgálnia a papnak. Ha ő úgy találja, hogy a beteg bőrfelület az egészségeshez képest mélyebben van, és ott a haj vagy a szakáll szőre sárgás színű és vékony szálú, akkor a pap jelentse ki, hogy a beteg tisztátalan, mert ez rosszindulatú bőrbetegség.
+{13:31} Ha úgy találja, hogy a beteg bőrfelület nem mélyed be, de nincs benne egészséges fekete haj vagy szőr, akkor a pap különítse el a beteget 7 napig.
+{13:32} A hetedik napon ismét nézze meg, s ha a betegség a bőrön nem terjedt tovább, és nincs benne sárgás haj vagy szőr, és a seb felülete nem mélyed bele a bőrbe,
+{13:33} akkor a beteg — a seb felületének kivételével — teljesen borotválja le a haját, vagy szakállát, a pap pedig másodszor is különítse el azt a személyt 7 napig.
+{13:34} A hetedik napon ismét nézze meg, s ha azt tapasztalja, hogy a betegség a bőrön nem terjedt tovább, és a seb felülete nem mélyed bele a bőrbe, akkor a pap nyilvánítsa azt a személyt tisztának. A meggyógyult személy pedig mossa ki a ruháit, és azután a közösség is fogadja vissza őt, mert rituálisan teljesen tiszta.
+{13:35} Ha ezután a betegség mégis elkezd terjedni az illető bőrén,
+{13:36} akkor újból meg kell mutatni azt a papnak. Ha ő úgy találja, hogy valóban tovább terjedt a betegség, akkor nem kell megvizsgálnia a beteget, hogy van-e rajta sárgás színű szőr, hanem nyilvánítsa azt a személyt tisztátalannak.
+{13:37} Ha viszont a pap úgy ítéli meg, hogy a beteg bőrfelület nem terjedt tovább, és azon egészséges fekete haj vagy szőr fejlődik, a beteg meggyógyult, és már rituálisan tiszta. Ezt azonban a papnak kell nyilvánosan kijelentenie.
+{13:38} Ha egy asszony vagy férfi bőrén fényes fehér foltok vagy kiütések jelentkeznek,
+{13:39} akkor a pap vizsgálja meg az illetőt. Ha a pap úgy találja, hogy ezek a foltok halvány fehérek, akkor az csak ártalmatlan kiütés, és az illető rituálisan tiszta.
+{13:40} Előfordul, hogy egy férfinak elkezd hullani a haja, akár a tarkóján, akár
+{13:41} a homloka fölött. Ez csak egyszerű kopaszodás, ettől ő még rituálisan tiszta.
+{13:42} De ha ezzel együtt rózsaszínű foltok, vagy kiütések is támadnak a fejbőrén, akkor az bőrbetegség.
+{13:43} Ezt a pap gondosan vizsgálja meg, és ha úgy találja, hogy az illető fején ugyanolyan foltok jelentkeznek, mint a rosszindulatú bőrbetegségnél a test egyéb részein,
+{13:44} akkor ez az eset is rosszindulatú bőrbetegség. A pap nyilvánítsa az illetőt tisztátalannak a fején lévő kiütések miatt.
+{13:45} Annak a betegnek, akiről a pap kijelentette, hogy rosszindulatú bőrbetegségben szenved, már messziről kiáltania kell: »Vigyázz! Tisztátalan, tisztátalan!« Ugyanakkor a száját el kell takarnia. A viselete is fejezze ki az állapotát: legyen a ruhája tépett, a haja pedig gondozatlan.
+{13:46} Mindaddig tisztátalan, amíg a betegsége tart, s ez idő alatt egyedül kell élnie, a táboron kívül.
+{i13:47} Ruhákon lévő tisztátalanság
+{13:47} Ha valamilyen ruhán, takarón — akár szövet az, akár másféle módon készült —
+{13:48} zöldes, vagy vöröses színű penész jelenik meg, akkor azt meg kell mutatni a
+{13:49} papnak. Mindegy, hogy az a tárgy vászonból, gyapjúból vagy bőrből készült, és milyen célt szolgál.
+{13:50} A pap vizsgálja meg azt, és tegye félre egy elkülönített helyre 7 napig.
+{13:51} A hetedik napon ismét nézze meg, és ha úgy találja, hogy a
+{13:52} penész tovább terjedt, nyilvánítsa azt a tárgyat tisztátalannak, és egészen égesse el.
+{13:53} Ellenben ha úgy látja, hogy a penész nem terjedt tovább, rendelje el, hogy a
+{13:54} tárgyat mossák meg vízzel, akármilyen anyagból is készült, és újból tegye félre 7 napra.
+{13:55} Ezután a pap ismét nézze meg, és ha a penészes folt színe nem változott — akár az anyag színén, akár a fonákán van a folt — , akkor nyilvánítsa tisztátalannak, és égesse el azt a tárgyat még akkor is, ha a folt nem terjedt tovább.
+{13:56} Ha viszont úgy látja, hogy a penészes folt színe a mosás után elhalványult, akkor szakítsa ki a foltot az anyagból vagy bőrből.
+{13:57} Ezután a tulajdonosa másodszor is mossa meg a tárgyat, amely azután ismét rituálisan tiszta és újra használható. Azonban, ha
+{13:58} ezután ismét jelentkezik a penész a tárgyon, akkor az terjedő típusú penész, és ezért az anyagot el kell égetni.”
+{13:59} Ezek a törvények vonatkoznak a penészes ruhákra, akár bőrből, vászonból vagy gyapjúból készültek azok; szövéssel vagy fonással. Ezek szerint kell azokat tisztának vagy tisztátalannak nyilvánítani.
+{i14:1} A bőrbetegségből meggyógyultak törvényei
+{14:1} Így szólt az Örökkévaló Mózeshez:
+{14:2} „Ezek a törvények vonatkoznak arra, aki meggyógyult rosszindulatú bőrbetegségéből. Amikor elérkezik a megtisztulási szertartás ideje, így kell azt elvégeznetek: amikor a pap hírt kap arról,
+{14:3} hogy valaki ilyen betegségből meggyógyult, menjen ki ahhoz az emberhez a táboron kívülre, és vizsgálja meg az illetőt. Ha úgy találja, hogy a beteg valóban meggyógyult,
+{14:4} akkor a pap valakivel hozasson a meggyógyult számára két rituálisan tiszta, élő madarat, egy darab cédrusfát, egy darab skarlátvörös fonalat és egy csokor izsópot.
+{14:5} Majd a pap parancsára vágják le az egyik madarat, és annak vérét fogják fel cserépedényben, amelybe előzőleg forrásvizet töltöttek.
+{14:6} Azután a pap ebbe az edénybe mártsa bele az élő madarat, a cédrusfadarabot, a skarlátszínű fonalat és a csokor izsópot.
+{14:7} Az edényből hintsen hétszer arra a személyre, aki meggyógyult. Miután ezzel a szertartással megtisztította az illetőt, az élő madarat engedje szabadon a mezőn.
+{14:8} Ezután a meggyógyult személy mossa ki a ruháit, borotválja kopaszra a fejét, borotválja le a szakállát és bajuszát, szemöldökét, sőt egész testéről a szőrt, majd fürödjön meg, hogy tiszta legyen. Ezután bemehet
+{14:9} a táborba, de a saját sátorába még további 7 napig ne menjen be. A hetedik napon ismét borotválja le a haját, és egész testének szőrét, fürödjön meg, és ruháit mossa ki, hogy megtisztuljon.
+{14:10} A nyolcadik napon a megtisztítandó személy vigyen a paphoz két hím és egy nőstény bárányt. Ez utóbbi egy éves, és mindhárom ép és egészséges legyen. Vigyen még három tized mérték jó minőségű, olívaolajjal kevert lisztet és egy lóg olívaolajat.
+{14:11} A szertartást végző pap állítsa a megtisztítandó személyt és az áldozatra szánt dolgokat az Örökkévaló elé, vagyis a Találkozás Sátorának bejáratához. Az áldozatot ugyanaz a pap mutassa be, aki a meggyógyult személyt tisztának nyilvánította.
+{14:12} A pap az egyik hím bárányt és az olajat mutassa fel az Örökkévalónak különleges áldozatként. A másik hím bárány legyen a jóvátételi áldozat,
+{14:13} amelyet a pap vágjon le azon a szent helyen, ahol a bűnért való áldozatot és az égőáldozatot szokták levágni, mert a vétekáldozathoz hasonlóan ez az áldozat is a papot illeti, és ez nagyon szent.
+{14:14} Az állat vérével a pap kenje meg a megtisztítandó személy jobb füle cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját.
+{14:15} Majd a pap öntsön az áldozatra való olajból a bal tenyerébe,
+{14:16} és a jobb kezének ujjával vegyen ebből az olajból, és hintsen abból hétszer az Örökkévaló előtt.
+{14:17} Majd ezzel az olajjal kenje meg a megtisztítandó személy jobb füle cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját ugyanazokon a helyeken, ahol a vérrel már előzőleg megkente.
+{14:18} A tenyerében maradt olajat pedig a pap kenje a megtisztítandó személy fejére. Így szerezzen neki engesztelést az Örökkévaló előtt.
+{14:19} Ezután a pap mutassa be a bűnért való áldozatot az Örökkévalónak — így tisztítsa meg a szent helyet a megtisztítandó személy rituális tisztátalanságától. Ezután vágja le az égőáldozatra szánt állatot,
+{14:20} és áldozza fel azt az Örökkévalónak az oltáron a lisztáldozattal együtt. Így szerezzen engesztelést a meggyógyultnak, aki ezután rituálisan tiszta lesz.
+{14:21} Aki azonban olyan szegény, hogy nem tudja az áldozathoz szükséges dolgokat előteremteni, az hozzon egy hím bárányt vétekáldozatul, hogy azt mutassák fel az Örökkévalónak és engesztelést szerezzenek vele. Lisztáldozatul pedig hozzon egytized mérték lisztet, és egy lóg olívaolajat.
+{14:22} Hozzon két gerlét vagy két galambfiókát is, az egyiket bűnért való áldozatul, a másikat égőáldozatul.
+{14:23} Megtisztulásának nyolcadik napján hozza ezeket az Örökkévaló elé a Találkozás Sátorának bejáratához, és ott adja át a papnak.
+{14:24} A pap a bárányt és az olajat mutassa fel az Örökkévalónak különleges áldozatként. A bárány legyen a vétekáldozat,
+{14:25} amelyet a pap vágjon le. Annak vérével kenje meg a megtisztítandó személy jobb füle cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját.
+{14:26} Majd a pap öntsön az áldozatra való olajból a bal tenyerébe,
+{14:27} és a jobb kezének ujjával vegyen ebből az olajból, és hintsen abból hétszer az Örökkévaló előtt.
+{14:28} Majd ezzel az olajjal kenje meg a megtisztítandó személy jobb füle cimpáját, jobb keze hüvelykujját és a jobb lába nagyujját, ugyanazokon a helyeken, ahol a vérrel már előzőleg megkente.
+{14:29} A tenyerében maradt olajat pedig a pap kenje a megtisztítandó személy fejére. Így szerezzen neki engesztelést az Örökkévaló előtt.
+{14:30} Azután áldozza fel az egyik gerlét vagy galambfiókát — aszerint, hogy melyiket tudta megszerezni a megtisztítandó személy — bűnért való áldozatul, a
+{14:31} másikat pedig égőáldozatul, a lisztáldozattal együtt. Így szerezzen a pap engesztelést az Örökkévaló előtt a meggyógyultnak, aki ezután már rituálisan tiszta lesz.”
+{14:32} Ezek a törvények vonatkoznak arra, aki meggyógyult rosszindulatú bőrbetegségéből, de nincs rá módja, hogy a szokásos áldozatokat hozza az Örökkévaló elé megtisztulásáért.
+{i14:33} Penész-foltok lakóház falán
+{14:33} Így szólt az Örökkévaló Mózeshez és Áronhoz:
+{14:34} „Kánaán földjét népemnek adom örökségül, és majd be is mennek oda. Akkor majd előfordulhat, hogy bőrbetegséghez hasonló penészes »betegséggel« sújtom valakinek a házát.
+{14:35} Ilyen esetben a ház gazdája menjen a paphoz, és jelentse neki, hogy penészfoltok jelentkeztek a háza falán.
+{14:36} Akkor a pap parancsolja meg, hogy abból a házból mindent vigyenek ki, mielőtt ő odamenne, hogy megvizsgálja. Máskülönben a házban lévő dolgok mind tisztátalanná válnak, amikor a pap a házat tisztátalannak nyilvánítja. Ezután menjen oda a pap, és nézze meg a házat.
+{14:37} Vizsgálja meg a penészes foltokat a falon, és ha úgy találja, hogy abban zöldes vagy vöröses színű bemélyedések mutatkoznak,
+{14:38} akkor menjen ki onnan, és zárja be a házat 7 napra.
+{14:39} A hetedik napon ismét menjen oda, és nézze meg a penészes foltokat. Ha azt tapasztalja, hogy a foltok terjednek a ház falán,
+{14:40} akkor parancsolja meg, hogy a penészes köveket szedjék ki a falból, és dobják a városon kívül egy tisztátalan helyre.
+{14:41} A ház belsejében a tapasztást körös-körül kaparják le a falról, és a lekapart hulladékot is dobják a városon kívül egy tisztátalan helyre.
+{14:42} Azután más kövekkel tömjék be a réseket, és tapasszák ki a ház falát frissen készített tapasztással.
+{14:43} Azonban, ha a ház falán ezek után ismét kiütközik az előbbi penész,
+{14:44} akkor a pap megint nézze meg, és ha úgy látja, hogy a penész valóban terjed, nyilvánítsa a házat tisztátalannak, mert azt bőrbetegséghez hasonló penész támadta meg.
+{14:45} Ebben az esetben a házat le kell bontani, és minden törmelékét, maradékát, a köveket, gerendákat és a ház tapasztását is ki kell hordani a városon kívülre egy tisztátalan helyre.
+{14:46} Ha valaki bemegy egy ilyen házba, mialatt az 7 napig zárlat alatt van, akkor az a személy is tisztátalanná válik estig.
+{14:47} Aki pedig egy ilyen házban eszik valamit, vagy lefekszik, annak még a ruháit is ki kell mosnia.
+{14:48} Abban az esetben, ha a felújítás után a pap megvizsgálja a falat, és úgy találja, hogy a penész nem jelentkezik ismét, nyilvánítsa a házat tisztának, mert elmúlt róla a csapás.
+{14:49} Ekkor a pap végezze el a szertartást, amellyel rituálisan megtisztítja a házat. Vegyen két madarat, egy darab cédrusfát, egy darab skarlátszínű vásznat és egy csokor izsópot.
+{14:50} Majd a pap vágja le az egyik madarat, és annak vérét fogja fel cserépedényben, amelybe előzőleg forrásvizet töltöttek.
+{14:51} Azután ebbe az edénybe mártsa bele az élő madarat, a cédrusfadarabot, a skarlátszínű vásznat és a csokor izsópot. Az edényből hintsen hétszer a házra.
+{14:52} Így tisztítsa meg a pap a házat,
+{14:53} az élő madarat pedig engedje szabadon a mezőn. Így végezze el a megtisztítás szertartását a házért, amely ezután már rituálisan tiszta lesz.”
+{14:54} Ezek a törvények vonatkoznak a különféle kelésekre, fekélyekre, kiütésekre,
+{14:55} a rosszindulatú bőrbetegségekre, meg a ruhákon, tárgyakon és házak
+{14:56} falán mutatkozó penészre. Ezek adnak útmutatást, hogy egy személyt,
+{14:57} tárgyat vagy házat mikor kell tisztának vagy tisztátalannak tekinteni.
+{i15:1} Testi tisztátalanságra vonatkozó törvények
+{15:1} Így szólt az Örökkévaló Mózeshez és Áronhoz:
+{15:2} „Adjátok tudtára Izráel népének ezeket a törvényeket! Amikor egy férfi valamilyen betegség következtében azt tapasztalja, hogy testéből a természetestől eltérő
+{15:3} módon folyás keletkezik — attól függetlenül, hogy ez állandó vagy időnként abbamarad — , akkor az illető emiatt tisztátalanná válik.
+{15:4} Amire az ilyen személy ráül, illetve az ágy és ágynemű, amelyen fekszik, mind tisztátalanná válik.
+{15:5} Aki megérinti az ilyen tisztátalan férfit vagy annak ágyát, vagy ráül valamire,
+{15:6} amin előzőleg a tisztátalan férfi ült, az maga is tisztátalan lesz —
+{15:7} ezért mossa ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:8} Ha a tisztátalan ráköp valakire, akkor az is tisztátalan lesz — ezért mossa ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:9} Az a nyereg, amelyen a tisztátalan férfi ül, szintén tisztátalanná válik.
+{15:10} Aki megérint vagy fölemel valamit, amin a tisztátalan férfi ült vagy feküdt, az a személy is tisztátalan lesz — ezért mossa ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:11} Akit a tisztátalan férfi úgy érint meg, hogy előzőleg nem mosott kezet, az is tisztátalan lesz — ezért mossa ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:12} Ha a tisztátalan férfi megérint egy cserépedényt, azt össze kell törni. Azonban ha fából készült edényt érint meg, azt csak ki kell öblíteni vízzel.
+{15:13} Amikor az ilyen férfi meggyógyul, várjon még 7 napot gyógyulása után, s akkor mossa ki ruháit, fürödjön meg forrásvízben vagy folyóvízben, azután már rituálisan tiszta lesz.
+{15:14} A nyolcadik napon vigyen az Örökkévalónak áldozatul két gerlét vagy galambfiókát a Találkozás Sátorának bejáratához. A madarakat adja át a papnak,
+{15:15} aki áldozza föl azokat: az egyiket megtisztulási áldozatul, a másikat égőáldozatul — így tisztítsa meg a szent helyet az Örökkévaló előtt annak a férfinak a rituális tisztátalanságától, aki meggyógyult.
+{15:16} Ha egy férfi természetes módon magömlést tapasztal, mossa meg egész testét, de estig tisztátalan.
+{15:17} Minden ruhaneműt és bőrből készült tárgyat, amelyre a magömlés került, mossanak ki, de estig tisztátalan.
+{15:18} Miután egy férfi és asszony együtt hál, utána mindketten fürödjenek meg, de tisztátalanok lesznek estig.
+{15:19} Az asszony természetes havi vérzésének ideje alatt — annak kezdetétől számítva 7 napig — tisztátalan. Aki őt ekkor megérinti, az maga is tisztátalanná lesz estig.
+{15:20} Amit az ilyen asszony megérint, és amire ráül, illetve az ágy és ágynemű, amelyen fekszik, mind tisztátalanná válik.
+{15:21} Aki megérinti az asszony ágyát, vagy ráül valamire, amin előzőleg
+{15:22} ő ült, az maga is tisztátalan lesz — ezért mossa
+{15:23} ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:24} Aki az ilyen asszonnyal hál, az maga is tisztátalanná válik 7 napig, sőt még az ágya is, amelyen alszik.
+{15:25} Ha az asszony havi vérzése a megszokott természetes időszakon kívül jelentkezik, vagy a szokásosnál tovább tart, akkor is tisztátalan — ugyanúgy, mint a rendszeres havi vérzés idején.
+{15:26} Amit az ilyen asszony megérint, amire ráül, illetve az ágy és ágynemű, amelyen fekszik, az is tisztátalanná válik, ugyanúgy, mint a természetes havi vérzéskor.
+{15:27} Aki megérinti ezeket, az maga is tisztátalan lesz estig — ezért mossa ki a ruháit, és fürödjön meg, s azután a nap elmúltával megtisztul.
+{15:28} Amikor a rendellenes havi vérzés megszűnik, az asszony várjon még 7 napot, azután már rituálisan tiszta lesz.
+{15:29} A nyolcadik napon vigyen az Örökkévalónak áldozatul két gerlét vagy galambfiókát a Találkozás Sátorának bejáratához. A madarakat adja át a papnak,
+{15:30} aki áldozza föl azokat: az egyiket megtisztulási áldozatul, a másikat égőáldozatul — így tisztítsa meg a szent helyet az Örökkévaló előtt annak az asszonynak a rituális tisztátalanságától, aki előzőleg rendellenes vérzést tapasztalt.
+{15:31} Így tanítsátok Izráel népét, hogyan óvják meg magukat a tisztátalanságtól, és hogyan tisztítsák meg magukat a rituális tisztátalanságtól, ha mégis tisztátalanokká lettek. Nehogy beszennyezzék tisztátalanságukkal szent lakóhelyemet, amelyet közöttük elhelyeztem, és mindannyian meghaljanak emiatt.”
+{15:32} Ezek a törvények vonatkoznak azokra, akik valamilyen betegség következtében tisztátalan folyásban szenvednek, akiknek magömlésük van,
+{15:33} az asszonyokra a havi vérzés idején, és azokra a férfiakra, akik rituálisan tisztátalan asszonnyal hálnak.
+{i16:1} Az Engesztelő Áldozat
+{16:1} Áron fiai közül ketten meghaltak, amikor áldozatot mutattak be az Örökkévalónak.
+{16:2} Ezután az Örökkévaló szólt Mózesnek: „Mondd meg a testvérednek, Áronnak, hogy nem léphet be akármikor a Szentek Szentjébe, a függönyön túlra, ahol a Szövetségláda fedele fölött megjelenek a felhőben. Ha nem a megfelelő módon és időben lép be oda, meg fog halni.
+{16:3} Amikor Áronnak be kell jönnie a Szentek Szentjébe, akkor előbb fel kell áldoznia az Örökkévalónak egy fiatal bikát bűnért való áldozatul és egy kost égőáldozatul.
+{16:4} Áron először mossa meg egész testét, majd vegye föl a szent öltözetet: nadrágja, köntöse, öve és süvege is lenvászonból legyen.
+{16:5} Izráel egész közössége hozzon az Örökkévalónak két kecskebakot vétekáldozatnak és egy kost égőáldozatnak, s ezeket adják Áronnak.
+{16:6} Azután mutassa be Áron a bűnért való áldozatra szánt bikát saját magáért az Örökkévalónak. Így szerezzen engesztelést önmagáért és családjáért.
+{16:7} Azután pedig vigye a két bakot az Örökkévaló elé, a Találkozás Sátorának bejáratához,
+{16:8} és sorshúzással jelölje ki az egyiket az Örökkévalónak, a másikat Ázázélnek.
+{16:9} Amelyik bak az Örökkévalónak jutott, azt áldozza föl Áron az Örökkévalónak bűnért való áldozatul.
+{16:10} A másik bakot pedig, amely Ázázélnek jutott, Áron állítsa elevenen az Örökkévaló elé, majd űzze el a pusztába, Ázázél számára — így szerezzen engesztelést vele.
+{16:11} Áron tehát a következők szerint készítse el a bikát bűnért való áldozatul az Örökkévalónak saját magáért, hogy engesztelést szerezzen önmagáért és családjáért: először vágja le a bikát, és fogja fel a vért.
+{16:12} Azután töltse meg a szenes-serpenyőt izzó parázzsal az Örökkévaló előtti oltárról, és vegyen két tele maroknyi porrá tört illatos füstölőszert, majd vigye be a függönyön túl, a Szentek Szentjébe.
+{16:13} Ott, az Örökkévaló jelenlétében szórja rá a füstölőszert a parázsra, hogy annak füstje borítsa be a Szövetségláda fedelét. Ezt tegye Áron, hogy ott, helyben meg ne haljon.
+{16:14} Azután vegye a bika vérét, az ujját mártsa bele, és hintsen abból hétszer az ujjával a Szövetségláda fedelének elejére és a Szövetségláda előtt, a földre is.
+{16:15} Ezután Áron vágja le a nép bűnéért való áldozati bakot, amely a népért van, és annak vérét is vigye be a függönyön túl, a Szentek Szentjébe. Majd ebből is hintsen a Szövetségláda fedelére és a láda elé — ugyanúgy, mint a bika vérével tette.
+{16:16} Így tisztítsa meg Áron a Szentek Szentjét Izráel népének tisztátalanságaitól, szándékos törvényszegéseitől és összes egyéb vétkeitől. Hasonlóképpen tisztítsa meg a Találkozás Sátorának többi részét is, hiszen az egész sátor a tábor közepén áll, körülvéve a nép tisztátalanságaival.
+{16:17} Amikor Áron bemegy a Találkozás Sátorába, hogy elvégezze az engesztelés szertartását, rajta kívül senki más nem tartózkodhat ott. Nem is léphet be oda senki más, amíg Áron ki nem jön onnan — miután saját magáért, családjáért és Izráel egész közösségéért engesztelést szerzett.
+{16:18} Azután Áron menjen ki az oltárhoz, amely az Örökkévaló előtt van, és a bika meg a bak vérével kenje meg körös-körül az oltár szarvait — így tisztítsa meg azt.
+{16:19} Utána hintsen az oltárra hétszer a vérből az ujjával — így tisztítsa meg azt Izráel népe tisztátalanságától, és így szentelje meg azt.
+{16:20} Miután Áron befejezte a Szentek Szentjének, a Találkozás Sátorának és az oltárnak megtisztítását, vezesse elő a másik bakot, amely élve maradt.
+{16:21} Tegye mindkét kezét a bak fejére és vallja meg fölötte Izráel népének vétkeit, törvényszegéseit és egyéb bűnös tetteit — így helyezze azokat a bűnbakra. Azután egy arra
+{16:22} kijelölt ember vigye ki a bűnbakot a lakatlan sivatagba, és ott engedje el. Így a bűnbak fogja viselni ezeket a bűnöket, és magával viszi azokat a kietlen pusztaságba.
+{16:23} Áron menjen be a Találkozás Sátorába, vesse le a szent öltözetet, amelyet akkor vett magára, amikor a Szentek Szentjébe bement, és hagyja ott.
+{16:24} Mossa meg egész testét vízzel a szent helyen, majd vegye fel a saját ruháit, és úgy menjen ki onnan. Azután mutassa be az égőáldozatokat saját magáért, azután a népért. Így szerezzen engesztelést magáért és a népért.
+{16:25} Égesse el az oltár tüzén a bűnért való áldozat zsíros részeit is.
+{16:26} Az az ember, aki az Ázázélnek szánt bakot kivitte a pusztába, mossa ki ruháit, fürödjön meg, és csak azután térjen vissza a táborba.
+{16:27} A levágott bűnért való áldozati bika és bak testét vigyék ki a táboron kívülre, és ott bőrükkel, húsukkal és ganéjukkal együtt égessék el teljesen. Ezeknek az állatoknak a vérét vitte be a főpap a Szentek Szentjébe, hogy azzal engesztelést szerezzen.
+{16:28} Az a személy, aki ezeket elégette, szintén mossa ki ruháit, fürödjön meg, és csak azután térjen vissza a táborba.
+{16:29} Örökké érvényes rendelkezés ez a számotokra: a hetedik hónap tizedik napján böjtöljetek és tartóztassátok meg magatokat. Se ti ne végezzetek semmiféle munkát, se a közöttetek
+{16:30} lakó idegenek, mert ezen a napon szerez számotokra engesztelést a főpap, hogy megtisztítson benneteket. Így fogtok az Örökkévaló előtt megtisztulni összes bűneitektől ezen a napon.
+{16:31} Ez a nap legyen nagyon szent a számotokra! Böjtöljetek, tartóztassátok meg magatokat, és egyáltalán ne végezzetek semmiféle munkát ezen a napon! Örök törvény legyen ez a számotokra.
+{16:32} Ugyanígy végezze az Engesztelő Áldozat szertartását az a főpap is, aki majd az apja, Áron helyébe lép, amikor felszentelik és fölkenik a szent olajjal. Ő is ugyanazt a szent lenvászon öltözetet viselje,
+{16:33} és így végezze el az engesztelés szertartását, vagyis a Szentek Szentjének, a Találkozás Sátorának és az oltárnak megtisztítását. Így szerezzen engesztelést a papokért és Izráel egész közösségéért.
+{16:34} Örökké érvényes rendelkezés ez számotokra: minden évben egyszer így kell megtisztítanotok a szent helyet, és engesztelést szereznetek Izráel népe számára.” Mózes tehát elmondta ezeket Áronnak, aki mindent annak megfelelően úgy tett, ahogyan az Örökkévaló parancsolta.
+{i17:1} Az állatok levágásának törvénye
+{17:1} Az Örökkévaló megparancsolta Mózesnek, hogy a következő törvényeket hirdesse ki Áronnak és fiainak, meg Izráel egész népének:
+{17:2} „Ezt parancsolja az Örökkévaló:
+{17:3} Ha Izráel népéből valaki levág egy marhát, bárányt, vagy kecskét a táborban, vagy a táboron kívül, akkor oda kell vinnie az állatot a Találkozás Sátorának
+{17:4} bejáratához, és fel kell ajánlania azt az Örökkévalónak áldozatul. Ha ezt nem teszi meg, akkor a vérontás bűnében vétkes, és ki fogják irtani népe közül.
+{17:5} Tehát Izráel népe közül ettől fogva senki ne mutasson be véresáldozatot a táboron kívül, hanem minden áldozati állatot vigyenek az Örökkévaló elé, a Találkozás Sátorának bejáratához, és adják át a papnak. Ott vágják le az állatot, és készítse el hálaáldozatként az Örökkévalónak.
+{17:6} Majd a pap öntse a vért az Örökkévaló oltárára, amely a Sátor ajtaja előtt van, az állat zsíros részeit pedig égesse el az oltár tüzén, mert annak füstjét az Örökkévaló úgy fogadja, mint kedves illatot.
+{17:7} Izráel népe közül többé soha senki se áldozzon véresáldozattal a gonosz szellemeknek! Ne kövessenek el hűtlenséget azzal, hogy más isteneket imádnak. Örökké érvényes törvény legyen ez a számotokra.
+{17:8} Mondd meg nekik, hogy ha Izráel népéből vagy a közöttük élő jövevények közül valaki égő- vagy véresáldozatot akar bemutatni,
+{17:9} annak is oda kell vinnie az áldozati állatot az Örökkévaló elé, a Találkozás Sátorának bejáratához. Ha ezt nem teszi meg, akkor az illetőt ki fogják irtani népe közül.
+{i17:10} A vért tilos megenni
+{17:10} Ha Izráel népéből vagy a közöttetek élő jövevények közül valaki bármilyen vért eszik, akkor én magam fordulok az ellen, és kiirtom népe közül!
+{17:11} Mert az élőlények élete a vérükben van. A vért pedig arra a célra adtam nektek, hogy az oltárra tegyétek, és ezáltal szerezzetek engesztelést a lelketek számára. Mert a vér az, amely engesztelést szerez számotokra, a benne lévő élet feláldozása által.
+{17:12} Emiatt parancsoltam Izráel népének, hogy senki közülük, sem a közöttük élő jövevények közül soha ne egyen vért.
+{17:13} Ha valaki Izráel népe közül vagy a közöttük élő jövevények közül vadászni megy, és zsákmányt ejt — olyan vadat vagy madarat, amely rituálisan tiszta, tehát megehető — , akkor az állat vérét a földre folyassa ki, majd takarja be azt földdel.
+{17:14} Mivel az élőlények élete a vérükben van, azért parancsoltam Izráel népének, hogy ne egyék meg a vért, vagy annak az állatnak a húsát, amelyben a vér még benne van. Aki ezt a parancsot megszegi, azt ki fogják irtani népe közül.
+{17:15} Ha valaki Izráel népe közül vagy a közöttük élő jövevények közül eszik olyan állat húsából, amely magától elpusztult, vagy amelyet ragadozó ölt meg, akkor az a személy emiatt tisztátalanná válik. Ezért mossa ki ruháit, fürödjön meg, és a nap elmúltával ismét tiszta lesz.
+{17:16} Azonban, ha nem mossa ki a ruháit, vagy nem fürdik meg, akkor viselnie kell vétke büntetését.”
+{i18:1} A szexuális kapcsolatok törvényei
+{18:1} Így szólt az Örökkévaló Mózeshez:
+{18:2} „Ezt mondd Izráel népének: Én vagyok az Örökkévaló, Istenetek,
+{18:3} ezért ne úgy éljetek, ahogyan Egyiptomban szokás, ahol eddig laktatok, de úgy se, ahogyan Kánaán földjén élnek a népek, ahová be foglak vinni benneteket. Ne kövessétek szokásaikat!
+{18:4} Az én törvényeim és rendelkezéseim szerint éljetek, és azokat kövessétek! Én vagyok az Örökkévaló, Istenetek, ezért tartsátok
+{18:5} meg rendelkezéseimet, és engedelmeskedjetek törvényeimnek, mert aki ezeket követi, az élni fog általuk. Én vagyok az Örökkévaló!
+{18:6} Senki ne lépjen szexuális kapcsolatba közeli vérrokonával! Én vagyok az Örökkévaló!
+{18:7} Ne lépj szexuális kapcsolatba az édesapáddal! Ne lépj szexuális kapcsolatba az édesanyáddal se, hiszen ő a szülőanyád — tehát nem szabad vele ilyen kapcsolatba kerülnöd!
+{18:8} Apád feleségével még akkor is tilos a szexuális kapcsolat, ha csak a mostohaanyád, hiszen ő az édesapád felesége!
+{18:9} Hasonlóképpen tilos minden ilyen kapcsolat apád leányával vagy anyád leányával is. Függetlenül attól, hogy ő jelenleg ugyanahhoz a családhoz tartozik, amelyhez te, vagy egy másikhoz, nem szabad szexuális kapcsolatba lépned vele.
+{18:10} Tilos a szexuális kapcsolat a saját leányunokáddal — függetlenül attól, hogy a fiad, vagy a leányod leányáról van szó, hiszen a saját leszármazottad ő.
+{18:11} Ha apádnak és a feleségének leánya születik, ő a testvéred, ezért vele sem szabad szexuális kapcsolatba lépned.
+{18:12} Tilos az ilyen kapcsolat apád vagy anyád
+{18:13} leánytestvérével is, hiszen a szüleid testvéréről van szó.
+{18:14} Ne szégyenítsd meg édesapád testvérét azzal, hogy szexuális kapcsolatba lépsz a feleségével, hiszen ő a nagynénéd!
+{18:15} Tilos a szexuális kapcsolat a menyeddel — hiszen a fiad felesége
+{18:16} — , vagy a sógornőddel — hiszen ő a testvéred felesége!
+{18:17} Ha egy asszonyt feleségül veszel, és együtt élsz vele, akkor az ő leányát vagy unokáját már nem veheted mellé feleségül, és nem léphetsz velük szexuális kapcsolatba, hiszen ők a feleséged vérrokonai. Ha mégis megtennéd, igen szégyenletes bűnt követnél el.
+{18:18} Ha egy asszonyt feleségül veszel, akkor — amíg ő él — a leánytestvérét már nem veheted mellé feleségül, és nem élhetsz vele, mert versengés támadna közöttük.
+{18:19} Tilos együtt hálni egy asszonnyal a menstruációs tisztátalanság ideje alatt.
+{18:20} Nem szabad együtt hálnod más férfi feleségével! Ha mégis megteszed, tisztátalanná leszel.
+{18:21} Soha ne add oda gyermekedet Moloknak, hogy feláldozzák neki a tűzben — ezzel meggyaláznád Istened nevét! Én vagyok az Örökkévaló!
+{18:22} Férfi soha ne lépjen szexuális kapcsolatba másik férfival úgy, ahogyan asszonnyal szoktak — ez utálatos bűn!
+{18:23} Hasonlóképpen se férfi, se nő ne közösüljön semmilyen állattal — mert az perverzió lenne, amely miatt az illető tisztátalanná válna!
+{18:24} Ne tegyétek magatokat tisztátalanná ilyen bűnökkel, mert ezeket követték el azok a nemzetek, amelyeket éppen e tisztátalan életmód miatt űzök ki előletek!
+{18:25} Bizony, ők ezekkel a bűnökkel bemocskolták országuk földjét, én pedig megbüntetem azt. A föld ki fogja okádni gonosz lakosait.
+{18:26} Engedelmeskedjetek hát törvényeimnek, és tartsátok meg rendelkezéseimet! Ne kövessétek el ezeket az utálatos bűnöket! Ezek a törvények egyaránt vonatkoznak Izráel népére és a közöttetek lakó jövevényekre.
+{18:27} Akik előttetek laktak e földön, azok bizony elkövették mindezeket az utálatos bűnöket, bemocskolták és tisztátalanná tették földjüket.
+{18:28} Ti azonban ne tegyétek ezeket, különben titeket is kiokád a föld, ha beszennyezitek, és ti is úgy jártok, mint az előttetek itt élő nemzetek!
+{18:29} Aki bármelyiket elköveti ezek közül a bűnök közül, azt kiirtják népéből.
+{18:30} Tehát engedelmeskedjetek nekem: ne kövessétek el ezeket a bűnöket, amelyeket az előttetek itt lakók elkövettek, és ne tegyétek magatokat tisztátalanná ezek által! Én vagyok az Örökkévaló, Istenetek!”
+{i19:1} Különféle törvények és rendelkezések
+{19:1} Így szólt az Örökkévaló Mózeshez:
+{19:2} „Ezt mondd Izráel egész közösségének: Szentek legyetek, mert én, az Örökkévaló, Istenetek, szent vagyok!
+{19:3} Mindenki tisztelje édesanyját és édesapját! A nyugalom napján úgy tegyetek, ahogy azt megparancsoltam! Én vagyok az Örökkévaló, Istenetek!
+{19:4} Ne imádjatok bálványokat, ne készítsetek magatoknak fémből öntött bálványszobrokat! Én vagyok az Örökkévaló, Istenetek!
+{19:5} Amikor hálaáldozatot hoztok az Örökkévalónak, úgy járjatok el, hogy szívesen fogadjam tőletek!
+{19:6} Az áldozat napján és a következő napon egyétek azt meg, ami pedig a harmadik napra megmarad, azt égessétek el!
+{19:7} Ha mégis eszik valaki belőle a harmadik napon, az már tisztátalan húst eszik, és nem lehet kedves.
+{19:8} Aki ebben vétkes, viselje tette büntetését, mert a szent dolgokkal úgy bánt, mint közönségesekkel, emiatt az ilyen vétkest ki fogják irtani népe közül.
+{19:9} Amikor a termését learatod, a földed sarkán és a szélén mindig hagyj meg egy keveset belőle, és az elhullott kalászokat se szedd össze!
+{19:10} Szőlőskertedből se szüretelj le minden termést az utolsó szemig, és ami elhullik, ne gyűjtsd össze, hanem hagyd ott a szegényeknek és a jövevényeknek! Én vagyok az Örökkévaló, Istenetek!
+{19:11} Ne lopj, ne csapj be senkit, ne hazudjatok egymásnak!
+{19:12} Ne esküdj hamisan nevemre, mert ezzel gyalázatot hozol Istened nevére! Én vagyok az Örökkévaló!
+{19:13} Ne használd ki, se ne rabold ki a másikat! Napszámbéres munkásodat fizesd ki a nap végén, ne tartsd vissza a bérét másnapig!
+{19:14} A süketet ne szidalmazd, s a vakot ne gáncsold el, hanem tiszteld Istenedet! Én vagyok az Örökkévaló!
+{19:15} A bírósági perekben ne hozzatok igazságtalan ítéletet! Ne kedvezz se szegénynek, se gazdagnak, hanem igazságosan és méltányosan ítélj a honfitársad ügyében!
+{19:16} Ne terjessz rágalmakat néped között! Ne hallgass, amikor tanúskodásoddal megmentheted honfitársad életét! Én vagyok az Örökkévaló!
+{19:17} Ne hordozz szívedben gyűlöletet a másik ellen, hanem nyíltan mondd meg neki, amit helytelennek tartasz, hogy ne légy részes a bűneiben!
+{19:18} Ne állj bosszút a másikon, és ne légy haragtartó, hanem szeresd a másik embert, mint magadat! Én vagyok az Örökkévaló!
+{19:19} Tartsd meg rendelkezéseimet! Háziállataidat ne keresztezd más fajjal! Ne vess egyszerre két különböző növényfaj magjából ugyanarra a szántóföldre! Ne viselj olyan ruhát, amelyet két különféle fonálból szőttek!
+{19:20} Előfordulhat, hogy egy férfi együtt hál egy nővel, aki másnak a rabszolgája, s akit egy másik férfi eljegyzett magának, de még nem váltott ki, ezért a nő még nem szabadult föl. Ilyen esetben büntessék meg őket, de ne haljanak meg, mert a nő nem volt szabad.
+{19:21} A férfi vigyen egy kost jóvátételi áldozatul az Örökkévalónak, a Találkozás Sátorának bejáratához.
+{19:22} A pap áldozza föl a kost az Örökkévalónak a férfi bűnéért, és így szerezzen engesztelést neki. Ha a férfi így jár el, akkor bűnét az Örökkévaló megbocsátja.
+{19:23} Ha majd bementek arra a földre, mindenféle gyümölcsfát fogtok ültetni ott. De amikor a fák termőre fordulnak, még három évig ne egyetek a gyümölcseikből, hanem tekintsétek azokat tiltottnak!
+{19:24} A negyedik termő évben a fák minden gyümölcsét szenteljétek az Örökkévalónak ajándékul és dicséret-áldozatul.
+{19:25} Azután az ötödik termő évtől kezdve már ehetitek a gyümölcsöket. Ha így jártok el, akkor ettől kezdve bőséges termésre számíthattok. Én vagyok az Örökkévaló, Istenetek!
+{19:26} Nem szabad megennetek az olyan húst, amelyben a vér még benne van! Nem szabad semmiféle varázslással vagy jóslással foglalkoznotok!
+{19:27} Ne vágjátok rövidre a hajatokat a halántékotokon, és a szakállatok szélét se csúfítsátok el!
+{19:28} Ne ejtsetek vágást magatokon a halottak miatti gyász idején, se ne tetováljátok a bőrötöket! Én vagyok az Örökkévaló!
+{19:29} Ne tedd népem leányait prostituáltakká, nehogy az egész nép paráznaságba süllyedjen, és az egész országot elborítsa a gyalázatosság!
+{19:30} Tartsátok tiszteletben a szombati nyugalom napját! Tiszteljétek szent helyemet — Én vagyok az Örökkévaló!
+{19:31} Ne forduljatok tanácsért se halottidézőkhöz, se jósokhoz, mert ezzel tisztátalanná váltok! Én vagyok az Örökkévaló, Istenetek!
+{19:32} Tiszteld az időseket, becsüld meg az öregeket! Tiszteld és féld Istenedet! Én vagyok az Örökkévaló!
+{19:33} Ne használd ki azt, aki jövevényként lakik közöttetetek!
+{19:34} Úgy bánj vele, mintha népemhez tartozna — úgy szeresd, mint saját magadat! Emlékezzetek rá, hogy egykor ti is jövevények voltatok Egyiptomban! Én vagyok az Örökkévaló, Istenetek!
+{19:35} Soha ne térj el az igazságosságtól a súly- és hosszmértékek használatában! Pontos mérleget,
+{19:36} mérősúlyokat és űrmértékeket használjatok! Én vagyok az Örökkévaló, Istenetek, aki kihoztalak benneteket Egyiptomból.
+{19:37} Tartsátok tiszteletben törvényeimet, rendelkezéseimet, és engedelmeskedjetek nekem! Én vagyok az Örökkévaló!”
+{i20:1} A különböző törvényszegések büntetése
+{20:1} Így szólt az Örökkévaló Mózeshez:
+{20:2} „Ezt is mondd meg Izráel népének: Ha közületek, vagy a földeteken lakó jövevények közül bárki odaadja a gyermekét Moloknak, az halállal lakoljon emiatt! A közösség kövezze agyon az ilyen embert.
+{20:3} Aki odaadja a gyermekét Moloknak, az a személy ezzel tisztátalanná teszi szent helyemet, és gyalázatot hoz nevemre — emiatt ellene fordulok, és kiirtom népe közül.
+{20:4} Ha pedig Izráel népe mégis szemet huny e fölött a bűn fölött, és nem végzi ki a bűnöst,
+{20:5} akkor én magam fordulok a bűnös és családja ellen, és kiirtom őket népük közül, sőt mindazokat is, akik példájukat követve Molokkal házasságtörést követtek el.
+{20:6} Ha valaki halottidézőhöz vagy jóshoz fordul tanácsért, akkor szellemileg paráználkodik, ezért ellene fordulok annak, és kiirtom népe közül.
+{20:7} Éljetek úgy, mint akik nekem szentelik magukat, és szentek legyetek, mert én vagyok az Örökkévaló, Istenetek!
+{20:8} Tartsátok tiszteletben törvényeimet, és engedelmeskedjetek nekem! Én vagyok az Örökkévaló, aki a magam számára különválasztottalak titeket!
+{20:9} Aki apját vagy anyját szidalmazza vagy átkozza, halállal lakoljon! Haláláért maga a felelős, mert apját és anyját átkozta.
+{20:10} Ha egy férfi más férfi feleségével hál, akkor házasságtörést követ el. Ilyen esetben mind a férfi, mind az asszony halállal bűnhődjön!
+{20:11} Ha egy férfi a saját apjának feleségével hál, akkor mind a férfi, mind az asszony viselje bűne büntetését: mindketten halállal lakoljanak!
+{20:12} Ha egy férfi a menyével hál, akkor mind a férfi, mind az asszony viselje bűne büntetését: mindketten halállal lakoljanak, mert szégyenletes és utálatos bűnt követtek el.
+{20:13} Ha egy férfi egy másik férfival hál, ahogyan asszonnyal szoktak hálni, akkor mindketten viseljék bűnük büntetését, és halállal lakoljanak, mert utálatos bűnt követtek el.
+{20:14} Ha egy férfi szexuális kapcsolatba lép egy nővel és annak anyjával is, az szégyenletes dolog! Emiatt mind a három személyt égessék meg, hogy ilyen szégyenletes dolog többé ne forduljon elő közöttetek!
+{20:15} Akár férfi, akár asszony közösül valamilyen állattal, viselje
+{20:16} bűne büntetését, és végezzék ki őket az állattal együtt!
+{20:17} Ha egy férfi szexuális kapcsolatban él a nőtestvérével, még ha csak féltestvére is, az gyalázatos bűn. A közösség előtt nyilvánosan bűnhődjenek, és irtsák ki őket népük közül. Mivel a férfi a saját nőtestvérével létesített szexuális kapcsolatot, bűnhődnie kell.
+{20:18} Ha egy férfi együtt hál egy asszonnyal annak a menstruációs tisztátalansága idején, mindkettőjüket ki kell irtani népe közül, mert megszegték a tisztátalanságra vonatkozó törvényt.
+{20:19} Nem szabad együtt hálnod sem apád, sem anyád nőtestvérével, mert ők közeli vérrokonaid. Ha ez mégis előfordul, mindkét vétkes viselje bűne büntetését.
+{20:20} Ha egy férfi együtt hál nagynénjével, az a nagybátyjára hoz gyalázatot. Ilyen esetben mindkét vétkes viselje bűne büntetését: gyermektelenül fognak meghalni.
+{20:21} Ha egy férfi a sógornőjével hál, amíg annak férje él, az utálatos bűn, mert közeli vérrokonok. Ilyen esetben mindkét vétkes viselje bűne büntetését: gyermektelenül fognak meghalni.
+{20:22} Tartsátok tiszteletben törvényeimet, rendelkezéseimet, és teljesítsétek azokat! Máskülönben az a föld, ahová beviszlek titeket, hogy ott lakjatok, kiokád majd benneteket is.
+{20:23} Mert azok a nemzetek, amelyek előttetek laktak azon a földön, bizony elkövették mindezeket a bűnöket, s emiatt megutáltam őket. Ti azonban ne kövessétek szokásaikat!
+{20:24} Nektek megígértem, hogy örökségül kapjátok azoknak a nemzeteknek országait: én adom nektek, hogy vegyétek birtokba azt a tejjel-mézzel folyó földet. Én vagyok az Örökkévaló, Istenetek, aki különválasztottalak titeket a többi nemzettől.
+{20:25} Tegyetek hát különbséget ti is a tiszta és tisztátalan dolgok között, akár négylábú állatokról, vagy madarakról van szó! Ne tegyétek magatokat tisztátalanná és utálatossá semmiféle négylábú állattal, madárral vagy csúszómászóval, amelyet számotokra tisztátalanná nyilvánítottam!
+{20:26} Legyetek szentek, és csak hozzám tartozzatok, mert én, az Örökkévaló, szent vagyok! Én választottalak külön titeket a többi nemzettől, hogy csak az enyémek legyetek.
+{20:27} Ha egy férfi, vagy asszony halottidézést, varázslást vagy ilyesféle okkult tevékenységet folytat, viselje bűne büntetését, és feltétlenül halállal lakoljon: kövezzék meg.”
+{i21:1} A papokra vonatkozó törvények
+{21:1} Így szólt az Örökkévaló Mózeshez: „Add tudtára a papoknak, Áron fiainak a következő törvényeket. A pap a közelébe se ne menjen a halottnak, hogy tisztátalanná ne legyen!
+{21:2} Ez alól kivételt jelent, ha közeli hozzátartozója hunyt el: anyja, apja, fia, leánya, fiútestvére,
+{21:3} hajadon leánytestvére. Ez utóbbi is közeli hozzátartozónak számít, mert nem ment férjhez. Az ilyen közeli hozzátartozók esetében a pap részt vehet a temetéssel kapcsolatos családi eseményekben.
+{21:4} Viszont ha az elhunyt személy a papnak csak a házassága révén rokona, akkor a pap maradjon távol a gyásztól és temetéstől, hogy ne legyen tisztátalanná.
+{21:5} A pap ne nyírja kopaszra a fejét, még részlegesen se, ne nyírja le a szakállát, vagy annak a végét, se ne vágjon sebeket a testén a gyász kifejezéséül.
+{21:6} A papok maradjanak Istenük számára szentek, és ne hozzanak gyalázatot Istenük nevére, mert a papok mutatják be az áldozatokat és a kenyereket az Örökkévalónak — ezért szentek legyenek!
+{21:7} A pap az Örökkévalónak van szentelve, ezért nem vehet feleségül olyan nőt, aki előzőleg már szexuális kapcsolatban volt más férfival. Tehát elvált vagy parázna nőt, vagy olyat, akit megerőszakoltak, nem vehet feleségül.
+{21:8} A nép szentnek tekintse a papot, mert ő mutatja be Istennek a szent kenyereket. Én, az Örökkévaló, szent vagyok. Én vagyok, aki megszentel. Ezért a papot is tekintsétek szenteknek.
+{21:9} Ha egy pap leánya prostituálttá lesz, gyalázatot hoz magára és az apjára is, ezért az a leány halállal lakoljon: meg kell égetni.
+{21:10} A főpapra, akinek fejére a felszentelésekor a szent olajat öntötték, s aki a főpapi öltözetet viseli, a következő törvények vonatkoznak. A közelébe se menjen a halottnak, hogy tisztátalanná ne
+{21:11} legyen! Ne vegyen részt még a saját családja gyászában se: ne hagyja gondozatlanul a haját, ne szaggassa meg a ruháit, még akkor se, ha apja vagy anyja hunyt el.
+{21:12} Akkor se hagyja el a szent hely területét, ha közeli hozzátartozója hal meg, mert ezzel tisztátalanná válhat, és akkor a szent helyet is tisztátalanná tenné. Maradjon szent és rituálisan tiszta, hiszen amikor főpappá szentelték, Istenének szent olaját öntötték a fejére! Én vagyok az Örökkévaló!
+{21:13} A főpap csak hajadon és szűz leányt vehet feleségül.
+{21:14} Nem szabad feleségül vennie sem özvegyet, sem elváltat, sem olyat, aki parázna vagy akit megerőszakoltak. Csak saját népe közül való hajadon és szűz leányt vehet feleségül,
+{21:15} hogy a leszármazottjai is szentek legyenek a nép között. Én vagyok az Örökkévaló, aki a főpapot megszenteltem.”
+{21:16} Azután ezt mondta Mózesnek az Örökkévaló:
+{21:17} „Szólj Áronnak, hogy ha a leszármazottjai közül valaki testileg fogyatékos, az nem viheti az Örökkévaló elé a szent kenyereket. Ez nemzedékről nemzedékre érvényes törvény.
+{21:18} Testi fogyatékos személy nem végezhet papi szolgálatot az Örökkévaló oltáránál. Tehát ha valaki vak, sánta, az arca deformálódott,
+{21:19} keze vagy lába eltörött,
+{21:20} háta púpos, aki törpe növésű, akinek szeme vagy látása nem egészséges, akinek rosszindulatú bőrbetegsége van, vagy a bőrén fekély van, vagy a heréi nem épek, az nem végezhet papi szolgálatot.
+{21:21} Akinek Áron leszármazottjai közül akinek ilyen testi fogyatékossága van, az nem járulhat az oltárhoz, hogy áldozatot mutasson be az Örökkévalónak. Ha fogyatékos, akkor nem viheti az Örökkévaló elé a szent kenyereket.
+{21:22} Viszont az ilyen fogyatékos családtag is szabadon ehet a szent kenyerekből és a papoknak engedélyezett szent és az igen szent áldozatokból.
+{21:23} Azonban semmiképpen nem mehet be a függönyön túlra, a Szentek Szentjébe, vagy nem mehet az oltárhoz közel fogyatékossága miatt. Ne tegye szentségtelenné a szent helyet és a szent dolgokat, mert én vagyok az Örökkévaló, aki megszentelem ezeket.”
+{21:24} Mózes tehát tudtára adta Áronnak és fiainak, meg Izráel egész népének mindezeket.
+{22:1} Így szólt az Örökkévaló Mózeshez:
+{22:2} „Mondd meg Áronnak és a fiainak, hogy bánjanak tisztelettel és nagyon gondosan azokkal az áldozatokkal, amelyeket Izráel népének fiai nekem hoznak, mert azok szentek. Ne gyalázzák meg szent nevemet, mert én vagyok az Örökkévaló!
+{22:3} Ezt mondd nekik: mostantól fogva, ha valamelyik leszármazottjuk éppen tisztátalan állapotban van, de mégis hozzáér az Örökkévalónak fölajánlott szent áldozatokhoz, akkor soha többé nem járulhat az Örökkévaló jelenlétébe, s ezzel végleg elveszíti papi hivatását. Én vagyok az Örökkévaló.
+{22:4} Áron leszármazottjai közül aki rosszindulatú bőrbetegség vagy valamilyen folyásos betegség miatt tisztátalan, az nem ehet a szent áldozatokból, ameddig meg nem tisztul. Hasonlóképpen tisztátalanná válik a pap a következő esetekben: ha megérint valakit vagy valamit, aki, illetve ami egy halotthoz hozzáért, és ezáltal tisztátalanná vált, ha spontán magömlése van,
+{22:5} vagy ha megérint egy tisztátalan állatot, vagy embert.
+{22:6} Ilyen esetben a pap tisztátalanná válik estig, és emiatt nem ehet a szent áldozatokból. Fürödjön meg vízben, és miután
+{22:7} a nap lement, már ismét tisztának számít. Azután ismét ehet a szent áldozatokból, hiszen azok az ő táplálékát jelentik.
+{22:8} Nem ehet a pap olyan állat húsából, amely levágás nélkül, magától pusztult el, vagy amelyet ragadozó ölt meg. Ha mégis megteszi, tisztátalanná válik. Én vagyok az Örökkévaló.
+{22:9} Tartsák tehát tiszteletben a papok ezeket a tiltó rendelkezéseimet! Máskülönben viselniük kell bűneik terhét, és meghalnak, ha megszegik ezeket a tilalmakat. Én vagyok az Örökkévaló, aki megszentelem a papokat.
+{22:10} Kizárólag a pap családtagjai ehetnek a szent áldozatokból. A pap birtokán lakó és pénzért dolgozó napszámosa nem ehet azokból.
+{22:11} De ehet belőle a pap megvásárolt rabszolgája, és annak a pap házánál született gyermeke is.
+{22:12} A pap leánya feleségül mehet egy férfihez, aki nem papi családból származik. De attól kezdve már nem ehet a szent ételekből.
+{22:13} Azonban ha az ilyen asszonynak nem születik gyermeke, és megözvegyül, vagy a férje elválik tőle, s ezután visszatér a pap házába, akkor ismét ehet a szent ételekből. A családtagokon kívül más nem ehet az áldozati ételekből.
+{22:14} Ha valaki úgy eszik ezekből a szent áldozati ételekből, hogy nincs tudomása arról, hogy azok szent ételek, akkor tegye jóvá tévedését! Adjon helyette a papnak kárpótlást, de tegye hozzá annak ötödrészét azon fölül.
+{22:15} A papok tehát gondosan vigyázzanak arra, hogy ne gyalázzák meg azokat az áldozatokat, amelyeket Izráel népe az Örökkévalónak szentelt. Ne engedjék meg, hogy azokból illetéktelen személy egyen,
+{22:16} és ezzel vétkessé tegye magát. Ha ez mégis megtörténik, akkor annak, aki jogtalanul eszik ezekből, viselnie kell bűne terhét. Én vagyok az Örökkévaló, aki az áldozatokat szentté teszem!”
+{22:17} Azután az Örökkévaló szólt Mózesnek:
+{22:18} „Add tudtára Áronnak és fiainak, meg egész Izráel egész népének, hogy amikor valaki égőáldozatot hoz az Örökkévalónak, ép és egészséges állatot hozzon áldozatul: bikaborjút, kost vagy kecskebakot. Csak így fogadja az
+{22:19} Örökkévaló kedvesen az áldozatot. Ez érvényes az Izráel népéhez tartozókra és a közöttetek lakó jövevényekre is, és független attól, hogy milyen áldozatról van szó — fogadalmi áldozatról, önkéntes hálaáldozatról, vagy égőáldozatról.
+{22:20} Ne hozzatok az Örökkévalónak olyan állatot, amelyben valami fogyatékosság található, mert azt nem fogadja kedvesen.
+{22:21} Amikor valaki hálaáldozatot, fogadalom teljesítésére való áldozatot, vagy önkéntes áldozatot hoz az Örökkévalónak, ép és egészséges marhát, birkát vagy kecskét hozzon áldozatul, ne legyen abban semmi fogyatékosság. Csak így fogadja az Örökkévaló kedvesen az áldozatot.
+{22:22} Az olyan állat, amely vak, törött csontú, csonka, fekélyes, rühes vagy beteg — az nem alkalmas áldozatnak. Az ilyen állatot ne tedd az oltárra ajándékul az Örökkévalónak!
+{22:23} Szabad akaratból, önkéntes áldozatul hozhatsz az Örökkévalónak olyan bikát, vagy juhot, amelynek túl hosszú vagy túl rövid a lába. De fogadalmad teljesítésére az Örökkévaló nem fogadja el az ilyen állatot áldozatnak.
+{22:24} Ne hozz az Örökkévalónak olyan állatot áldozatul, amelynek heréje összezúzódott, vagy bármilyen módon megsérült, vagy amelyet kiheréltek. Ne áldozzatok az Örökkévalónak országotokban ilyen állatokat!
+{22:25} Az ilyen állatot idegentől se vásároljátok meg áldozati állatnak, mert fogyatékossága miatt nem alkalmas az áldozatra, és az Örökkévaló nem fogadja el tőletek.”
+{22:26} Így szólt az Örökkévaló Mózeshez:
+{22:27} „Az újszülött borjút, bárányt és kecskegidát 7 napig hagyjátok az anyja mellett. A nyolcadik naptól kezdve már alkalmas az áldozatra, és elfogadja azt az Örökkévaló tőletek ajándékul.
+{22:28} Ha mind a tehenet, mind a borját áldozatra szánjátok, akkor se vágjátok le mindkettőt ugyanazon a napon. Ugyanez érvényes anyajuh és báránya meg nőstény kecske és gidája esetén is.
+{22:29} Amikor valaki az Örökkévaló iránti hálája kifejezésére mutat be hálaáldozatot, ezt megteheti, de csak akkor fogadja el tőle az Örökkévaló, ha szabályszerűen teszi.
+{22:30} Az ilyen áldozat húsát csak az áldozat napján lehet elfogyasztani, ne maradjon belőle a következő napra. Én vagyok az Örökkévaló.
+{22:31} Tehát tartsátok meg parancsaimat, és engedelmeskedjetek azoknak! Én vagyok az Örökkévaló!
+{22:32} Ne hozzatok gyalázatot nevemre, hanem szenteljétek meg nevemet Izráel népe között! Én vagyok az Örökkévaló, aki megszentellek titeket.
+{22:33} Én hoztalak ki benneteket Egyiptomból, hogy Istenetekké legyek. Én vagyok az Örökkévaló!”
+{i23:1} Az ünnepek törvényei
+{23:1} Így szólt az Örökkévaló Mózeshez:
+{23:2} „Mondd Izráel népének: ezek az Örökkévaló ünnepei, amelyeket elrendelt, hogy azokat rendszeresen megtartsátok. Ezeket hirdessétek ki Izráel közösségében, hogy azokon gyűljetek össze az Örökkévalót tisztelni és imádni. Ezek az én ünnepeim:
+{i23:3} A szombati nyugalom napja
+{23:3} Hat napon át végezzétek munkátokat, de a hetedik nap a szombati nyugalom napja — akkor ne dolgozzatok, hanem egész nap pihenjetek, és gyűljetek össze az Örökkévalót tisztelni és imádni. Az Örökkévaló rendelte el ezt a szent napot, hogy a pihenés napja legyen számotokra, akárhol is laktok.
+{i23:4} A Páska ünnepe
+{23:4} A következők pedig azok az ünnepek, amelyeket az Örökkévaló bizonyos időpontokra rendelt. Hirdessétek ki ezeket, és gyűljetek össze az Örökkévalót tisztelni és imádni a megszabott időben.
+{23:5} A Páska ünnepét az első hónap 14. napjának estéjén tartsátok meg az Örökkévalónak.
+{i23:6} A Kovásztalan Kenyerek ünnepe
+{23:6} Tartsátok meg a Kovásztalan Kenyerek ünnepét az Örökkévalónak az első hónap 15. napjától kezdve hét napon keresztül. Ezalatt csak kovásztalan kenyeret egyetek.
+{23:7} A hét napos ünnep első napján gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon ne dolgozzatok.
+{23:8} Hét napon keresztül minden nap mutassatok be az Örökkévalónak áldozatot. A hetedik napon ismét gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon se dolgozzatok.”
+{i23:9} Az első kéve bemutatása
+{23:9} Így szólt az Örökkévaló Mózesnek:
+{23:10} „Add tudtára Izráel népének, hogy amikor majd bementek arra a földre, amelyet én adok nektek, akkor aratás idején, a legelső learatott kévét vigyétek el a paphoz.
+{23:11} Ő pedig mutassa be azt az Örökkévaló előtt, hogy az Örökkévaló kedvesen fogadja tőletek. A szombat után következő napon kell a papnak a kévét bemutatnia.
+{23:12} Ugyanekkor vigyetek egy egyéves hibátlan bárányt égőáldozatul az Örökkévalónak.
+{23:13} Ezen fölül liszt- és italáldozatot is hozzatok: két tized mérték jó minőségű lisztet, olívaolajjal keverve, és egy negyed hin bort. Jó illatú lisztáldozat ez az Örökkévalónak.
+{23:14} Az aratáskor betakarított új termésű gabonából se pörkölve, se kenyér formájában, se másképpen ne egyetek addig, amíg az Első Kéve áldozatát be nem mutattátok Isteneteknek. Örökké érvényes rendelkezés ez számotokra minden lakóhelyeteken.
+{i23:15} Az Aratás ünnepe
+{23:15} Attól a naptól kezdve, amelyen bemutattátok az Örökkévalónak az első kévét, számoljatok hét teljes hetet.
+{23:16} A hetedik szombat után következő, vagyis az ötvenedik napon hozzatok az Örökkévalónak lisztáldozatot az új gabonából.
+{23:17} Hozzatok két kenyeret minden helyről, ahol laktok felmutatási áldozatul az Örökkévalónak. Ezeket a kenyereket két tized mérték jó minőségű lisztből és kovásszal süssétek. Ez a ti áldozatotok az első termésből az Örökkévalónak.
+{23:18} Ezen kívül hozzatok egy bikát, két kost és 7 egyéves bárányt — mind hibátlanok legyenek — égőáldozatul, a hozzájuk tartozó liszt- és italáldozatokkal együtt. Jó illatú ajándék ez az Örökkévalónak.
+{23:19} Hozzatok még egy kecskebakot is bűnért való áldozatul, és két egyéves kost hálaáldozatul.
+{23:20} A kenyereket és a két kost a pap mutassa fel az Örökkévaló előtt, felmutatási áldozatul. Szent áldozatok ezek az Örökkévalónak. Azután legyenek a papé, az ő része.
+{23:21} Hirdessétek ki, hogy ugyanezen a napon gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon ne végezzetek semmiféle munkát. Örökké érvényes rendelkezés ez számotokra minden lakóhelyeteken.
+{23:22} Amikor földed termését learatod, a tábla szélén mindig hagyj meg belőle, és az elhullott kalászokat se szedd össze. Hagyd ott a szegényeknek és a jövevényeknek. Én vagyok az Örökkévaló, Istenetek!”
+{i23:23} A Kürtzengés ünnepe
+{23:23} Így szólt az Örökkévaló Mózesnek:
+{23:24} „Ezt mondd Izráel népének: a hetedik hónap első napján ne végezzetek semmiféle munkát, gyűljetek össze
+{23:25} az Örökkévalót tisztelni és imádni, és fújják meg a kürtöket emlékeztetésül, és vigyetek ajándékot az Örökkévalónak.”
+{i23:26} Az Engesztelő Áldozat napja
+{23:26} Így szólt az Örökkévaló Mózesnek:
+{23:27} „A hetedik hónap 10. napja az Engesztelő Áldozat napja. Ezen a napon ne végezzetek semmiféle munkát, gyűljetek össze az Örökkévalót tisztelni és
+{23:28} imádni, tartóztassátok meg magatokat, böjtöljetek, és vigyetek ajándékot az Örökkévalónak. Ezen a napon szerez a főpap engesztelést számotokra Istenetek, az Örökkévaló színe előtt.
+{23:29} Aki pedig nem hajlandó megtartóztatni magát, és nem böjtöl ezen a napon, azt ki fogják irtani népe közül.
+{23:30} Ha valaki ezen a napon valamilyen munkát végez, azt a személyt én fogom kigyomlálni népe közül.
+{23:31} Ezen a napon tartózkodjatok mindenféle munkától — örökké érvényes rendelkezés ez számotokra minden lakóhelyeteken.
+{23:32} Ez legyen a legszentebb szombati nyugalom napja számotokra, tartóztassátok meg magatokat, és böjtöljetek ezen a napon, vagyis a hónap kilencedik napján estétől a tizedik nap estig.”
+{i23:33} A Sátorok ünnepe
+{23:33} Így szólt az Örökkévaló Mózesnek:
+{23:34} „Add tudtára Izráel népének: a hetedik hónap 15. napján kezdődjön a Sátorok ünnepe. Az Örökkévalónak ez az ünnepe hét napig tart.
+{23:35} Az első napon gyűljetek össze az Örökkévalót tisztelni és imádni. Ezen a napon ne végezzetek semmiféle munkát.
+{23:36} Hét napon keresztül minden nap mutassatok be az Örökkévalónak tűzáldozatot. A nyolcadik napon ismét gyűljetek össze az Örökkévalót tisztelni és imádni, és mutassatok be tűzáldozatot az Örökkévalónak. Ezen a napon se dolgozzatok.
+{23:37} Tehát ezek az Örökkévaló ünnepei, amelyeket ki kell hirdetnetek, hogy azokon mindenki gyűljön össze az Örökkévalót tisztelni és imádni. Ezeken az ünnepeken áldozzatok az Örökkévalónak ajándékokat, égőáldozatokat, lisztáldozatokat, véresáldozatokat és italáldozatokat — az egyes napokra vonatkozó rendelkezések szerint.
+{23:38} Ezeket az ünnepeket tartsátok meg a heti szombati nyugalom napján kívül. A fenti áldozatokon kívül hozzátok az Örökkévalónak ajándékaitokat, fogadalmi áldozataitokat és önkéntes áldozataitokat.
+{23:39} Miután a termést learattátok, a hetedik hónap 15. napjától kezdve ünnepeljétek az Örökkévalónak a Sátorok ünnepét hét napon keresztül. Mind az ünnep első, mind az utolsó napja pihenőnap legyen.
+{23:40} Az ünnep első napján szedjetek szép gyümölcsfákról gyümölcsöket, vágjatok pálmaágakat, meg sűrű lombú fákról és fűzfákról leveles ágakat; és örvendezzetek Istenetek, az Örökkévaló előtt hét napon át.
+{23:41} Így tartsátok meg az Örökkévalónak ezt az ünnepét a hetedik hónapban, minden évben, hét napon át. Örökké érvényes rendelkezés ez számotokra.
+{23:42} Az ünnep idején, hét napig lombsátrakban lakjatok. Mindenki, aki Izráel népéhez tartozik, lombsátrakban lakjon ez idő alatt.
+{23:43} Minden nemzedék emlékezzen rá, hogy amikor Izráel népét kihoztam Egyiptomból, az egész nép sátrakban lakott. Én vagyok az Örökkévaló, Istenetek.”
+{23:44} Mózes tehát tudtára adta Izráel egész népének az Örökkévaló által elrendelt ünnepek törvényeit.
+{i24:1} Az arany mécstartó és a szent kenyerek
+{24:1} Így szólt az Örökkévaló Mózeshez:
+{24:2} „Parancsold meg Izráel népének, hogy préseljenek az olajfa bogyójából tiszta olívaolajat. Hozzanak abból a papoknak, hogy állandóan égjenek a mécsesek az arany mécstartón, amely a Találkozás Sátorában, a szentélyben,
+{24:3} a Szövetségládát eltakaró függöny előtt áll. Áron viseljen gondot a mécstartóra, hogy egész éjjel égjenek a mécsesek, ki ne aludjon a lángjuk. Örökké érvényes rendelkezés ez minden nemzedék számára.
+{24:4} Áron helyezze el a mécseseket a színarany mécstartóra, az Örökkévaló előtt, hogy a mécsesek örökké égjenek!”
+{24:5} „Készíts 12 kenyeret jó minőségű lisztből. Két tized mérték lisztet számíts egy kenyérre.
+{24:6} Helyezd el a kész kenyereket két sorban — hatot-hatot egy sorban — az arannyal borított asztalra, amely a szentélyben áll, az Örökkévaló előtt.
+{24:7} Mindkét sor kenyérre tegyél tömjént — ez helyettesíti az egész ajándékot, amelyet az Örökkévalónak fölajánlotok.
+{24:8} Minden szombaton új sütésű kenyereket kell az asztalra tennetek az Örökkévaló elé. Örökké érvényes szövetség ez Izráel népe számára.
+{24:9} Az asztalról levett kenyerek Áront és fiait illetik, ezért ők egyék meg azokat szent helyen. Ezek a kenyerek az Örökkévalónak fölajánlott legszentebb ajándékok közé tartoznak: örökre Áront és leszármazottjait illetik.”
+{i24:10} Az istenkáromlás büntetése
+{24:10} Történt egyszer, hogy a táborban két férfi összeveszett. Az egyik egy izráeli asszony és egy egyiptomi férfi fia, a másik egy izráeli férfi volt. Az
+{24:11} asszonyt Selómitnak hívták, Dibri leánya volt, Dán törzséből. A veszekedés hevében Selómit fia gyalázta az Örökkévaló nevét, és átkozódott. Ezért az emberek Mózes elé vitték őt,
+{24:12} majd őrizet alá helyezték, és várták, hogy az Örökkévaló kijelentse, mi történjék vele.
+{24:13} Az Örökkévaló pedig szólt Mózesnek:
+{24:14} „Vigyétek ki az átkozódót a táboron kívülre, és mindazok, akik hallották, amit mondott, tegyék a kezüket az átkozódó fejére. Azután Izráel egész közössége kövezze halálra azt, aki átkozódott.
+{24:15} Izráel népének pedig ezt mondd: Aki Istenét átkozza, azt Isten meg fogja büntetni ezért. De aki az Örökkévaló nevét hangosan
+{24:16} kimondja, amikor átkozódik, azt feltétlenül ki kell végeznetek. Izráel közössége kövezze halálra, akár közületek való, akár közöttetek lakó jövevény az illető.
+{24:17} Ha valaki meggyilkol egy másik személyt, azt ki kell végezni.
+{24:18} Aki elpusztítja valaki másnak a háziállatát, adjon helyette a tulajdonosnak egy ugyanolyan állatot.
+{24:19} Ha valaki sebesülést okoz a másiknak, büntetésül bánjanak vele is ugyanúgy:
+{24:20} ha például csontját törte a másiknak, neki is törjék el a csontját. Szemet szemért, fogat fogért — így bűnhődjön.
+{24:21} Aki elpusztítja valaki másnak a háziállatát, adjon helyette a tulajdonosnak egy ugyanolyan állatot, de aki embert gyilkol, annak halállal kell bűnhődnie.
+{24:22} Ugyanaz a törvény vonatkozik Izráel népére és a közöttetek lakó jövevényre. Én vagyok Istenetek, az Örökkévaló!”
+{24:23} Tehát elmondta mindezt Mózes Izráel népének, a közösség pedig kivitte az átkozódót a táboron kívülre, és ott megkövezték. Úgy tettek, ahogyan az Örökkévaló parancsolta nekik Mózes által.
+{i25:1} A szombatév törvénye
+{25:1} Az Örökkévaló szólt Mózeshez a Sínai-hegyen:
+{25:2} „Ezt mondd Izráel népének: Amikor bementek majd arra a földre, amelyet nektek adok, akkor minden hetedik évben a földnek is adjátok meg a szombati nyugalom éveit, hogy az Örökkévalót tiszteljétek ezzel.
+{25:3} Hat éven keresztül műveljétek a földet: vessetek, arassatok, gondozzátok szőlőtöket, és szüreteljétek a gyümölcsöket.
+{25:4} De a hetedik évben engedjétek a földet is pihenni! A hetedik esztendő a szombatév — az Örökkévaló tiszteletére! Abban az évben hagyjátok el a szántást-vetést, és ne metsszétek szőlőtöket se.
+{25:5} Még ami magától terem a szántóföldön, azt se arassátok le, gondozatlan szőlőtök termését se gyűjtsétek össze, mert ebben az esztendőben a föld is pihen.
+{25:6} Bár a föld szombatévet tart, mégis ad elegendő táplálékot nektek, s amit magától terem, megehetitek. Lesz elég kenyered, jut szolgáidnak is, napszámosaidnak is, sőt, még a földeden lakó jövevénynek is jut belőle.
+{25:7} Háziállataid számára is jut elegendő takarmány, és a mezei vadaknak is elég táplálék abból, amit a föld ekkor magától terem.
+{i25:8} Az ötvenedik esztendő törvénye
+{25:8} Számolj hét szombatévet egymás után — tehát hétszer hét, vagyis 49 évet.
+{25:9} Ekkor a hetedik hónap 10. napján, vagyis az Engesztelő Áldozat napján fújjátok meg a sófárt az egész országban.
+{25:10} Azt az esztendőt, amely ekkor kezdődik, szenteljétek meg! Ebben az ötvenedik esztendőben hirdessetek szabadságot az egész országban, minden lakos számára! Örömünnep legyen ez a számotokra: mindenki kapja vissza a saját örökségét, ősei földjét. Minden szolga térjen haza a saját nemzetségéhez és családjához.
+{25:11} Örömünnep legyen az egész ötvenedik esztendő. Ebben az évben is hagyjátok el a szántást-vetést. Még azt se arassátok le, ami magától terem, és amit metszetlen szőlőtök terem, azt se szüreteljétek le.
+{25:12} Örömünnep ez, tartsátok hát szentnek! Ami földeteken magától terem, azt azonban kinn a mezőn megehetitek.
+{25:13} Az ötvenedik esztendőben mindenki kapja vissza korábban eladott földjét, családi örökségét.
+{25:14} Ezért, ha valaki földjét eladja, vagy a másiktól megvásárolja, vegye tekintetbe ezt a törvényt, és ne csapjátok be egymást!
+{25:15} A föld vételárát ahhoz igazítsátok, hogy az adásvétel idején hány esztendő aratása van még hátra a következő ötvenedik évig.
+{25:16} Ha sok év van még addig, magasabb, ha kevés, alacsonyabb legyen a föld ára. Hiszen valójában nem magát a földet, hanem annak termését adjátok el, illetve veszitek meg.
+{25:17} Ne csapjátok hát be egymást, hanem tiszteljétek és féljétek az Örökkévalót, mert én vagyok Istenetek, az Örökkévaló!
+{25:18} Őrizzétek meg rendelkezéseimet, engedelmeskedjetek törvényeimnek, és teljesítsétek azokat, s akkor biztonságban élhettek földeteken.
+{25:19} Bőségesen fog teremni nektek az a föld, és megteltek annak javaival, és biztonságban lakhattok földeteken.
+{25:20} Nem kell aggódnotok amiatt, hogy mit egyetek a hetedik évben. Bár akkor nem vettek, nem arattok,
+{25:21} én mégis olyan bőségesen megáldalak benneteket a hatodik év termésével, hogy az három évre elegendő lesz a számotokra.
+{25:22} Amikor a hetedik év elteltével, a nyolcadik évben ismét szántani és vetni fogtok, még mindig lesz elegendő tartalékotok a hatodik év terméséből, egészen a kilencedik évig, amikor az új termést learatjátok.
+{i25:23} A földtulajdon és háztulajdon törvényei
+{25:23} Minden földbirtok az én tulajdonom, ezért Izráelben senki nem adhatja el véglegesen a földjét. Hiszen valamennyien jövevények és átutazó vendégek vagytok nálam.
+{25:24} Ezért minden tulajdonotokban lévő földet engedjetek megváltani, ha az eredeti tulajdonos család kívánja ezt!
+{25:25} Ha tehát valaki közületek elszegényedik, és kénytelen eladni a földjét, tegyétek lehetővé, hogy valamelyik megváltásra jogosult közeli rokona visszaválthassa azt.
+{25:26} Ha pedig ilyen közeli rokon nem jelentkezik, de az eredeti tulajdonos idővel összegyűjti a szükséges pénzt, és vissza akarja szerezni földjét,
+{25:27} akkor vegyétek tekintetbe, hogy hány év telt el az eladás óta, illetve hány év van még hátra a következő ötvenedik évig. Ennek megfelelően állapítsák meg a föld árát. Ezt az eredeti tulajdonos fizesse meg a jelenlegi tulajdonosnak. Azután a föld térjen vissza annak a tulajdonába, akié eredetileg volt.
+{25:28} Ha pedig nincs rá módja, hogy megváltsa a földet, akkor maradjon annak a tulajdonában, aki megvette, de csak az ötvenedik esztendőig. Akkor pedig adja vissza az eredeti tulajdonos családjának.
+{25:29} Ha fallal kerített városban lévő lakóházat ad el valaki, akkor a ház az eladástól számított egy éven belül még visszaváltható. Azonban ebben az esetben a megváltás ideje korlátozva van: egy éven túl már nem váltható vissza a ház.
+{25:30} Ha pedig egy évig senki sem váltja meg, véglegesen a vevő és családja birtokába kerül — s még az ötvenedik esztendőben sem kerül vissza az első tulajdonos birtokába.
+{25:31} A kőfallal nem kerített települések lakóházaira ugyanaz a törvény vonatkozik, mint a földtulajdonra — tehát ugyanúgy visszaválthatók, illetve az ötvenedik esztendőben visszatérnek annak a családnak a tulajdonába, akié eredetileg voltak.
+{25:32} A Lévi törzsébe tartozókra és a léviták városaiban lévő lakóházakra azonban más törvények vonatkoznak. Ők minden időben megválthatják korábban eladott házaikat.
+{25:33} Ha pedig nem váltják meg, akkor az ötvenedik esztendőben mindenképpen kerüljön vissza a ház annak a tulajdonába, aki előzőleg azt eladta. Hiszen a léviták városaiban a házak örökre a léviták tulajdonát képezik egész Izráelben.
+{25:34} A léviták városaihoz tartozó legelőket nem szabad eladni, mert azok örökre a lévitáké.
+{i25:35} A szolgákra vonatkozó törvények
+{25:35} Ha valaki Izráel népéből a közeledben lakók közül elszegényedik, és képtelen magát eltartani, akkor segítsd meg őt, ahogyan a közöttetek lakó jövevényt is megsegítenéd.
+{25:36} Ha kölcsönt kér tőled, ne számíts fel kamatot, és ne élj vissza szorult helyzetével. Féld és tiszteld Istenedet!
+{25:37} Hadd éljen ő is melletted! Ha pénzt vagy élelmet kér kölcsön tőled, ne kérj vissza többet, mint amit kölcsönadtál.
+{25:38} Én vagyok az Örökkévaló, Istenetek, aki kihoztalak titeket Egyiptomból, hogy nektek adjam Kánaán földjét örökségetekül, s hogy Istenetekké legyek.
+{25:39} Ha valaki Izráel népéből annyira elszegényedik, hogy eladja magát és a szolgád lesz, ne kényszerítsd arra, hogy rabszolgamunkát végezzen,
+{25:40} hanem bánj vele úgy, mint napszámosoddal, béreseddel vagy a közöttetek lakó jövevénnyel. De csak a következő ötvenedik évig szolgáljon,
+{25:41} akkor bocsásd el gyermekeivel együtt, hogy visszatérhessen rokonai közé és a saját örökségébe.
+{25:42} Gondold meg, hogy Izráel népéből minden egyes ember az én szolgám, hiszen én szabadítottam ki őket Egyiptom földjéről. Egyiküket se adják el soha többé rabszolgának!
+{25:43} Ne bánj a szolgáiddal keményen és kegyetlenül, hanem féld és tiszteld Istenedet!
+{25:44} Ha rabszolgákat akarsz venni, a körülötted élő nemzetektől vásárold őket, vagy a közöttetek lakó jövevényektől. Olyanokat is
+{25:45} vásárolhatsz, akik már a ti földeteken születtek — közülük valók legyenek férfi vagy nő rabszolgáitok, akiknek gazdái lesztek.
+{25:46} Ezeket a rabszolgáitokat örökségül hagyhatjátok gyerekeiteknek, hogy őket is szolgálják, amíg csak élnek. Tehát az idegenek közül vehettek rabszolgákat, de Izráel népéből soha egyik a másikon ne uralkodjon kegyetlenül.
+{25:47} Előfordulhat, hogy a közöttetek lakó jövevény meggazdagszik, és egy elszegényedett izráeli eladja magát szolgául az idegennek, vagy az idegen valamelyik családtagjának.
+{25:48} Ilyen esetben az izráeli szolga mindig megváltható marad, és valamelyik rokona megválthatja.
+{25:49} Nagybátyja vagy annak fia, vagy valamelyik erre jogosult közeli rokona kiválthatja őt a szolgaságból. Ha pedig a szolgának magának módja van rá, ő maga is megválthatja a szabadságát.
+{25:50} A megváltás árának meghatározásakor vegyétek tekintetbe, hogy a szolgaság kezdete óta hány év telt el, és ezeket az éveket úgy számítsátok, mintha a szolga bérese lett volna gazdájának. Azt is vegyétek figyelembe, hogy a következő ötvenedik évig mennyi van még hátra.
+{25:51} A megváltás ára a felszabadított szolga vételárának egy része. Ezt a gazdája vissza kell kapja, mikor a szolga felszabadul. Ahhoz képest állapítsátok meg,
+{25:52} hogy az ötvenedik évig hány év van még hátra. Ha sok év van még addig, legyen magasabb az ár, ha kevés, akkor alacsonyabb.
+{25:53} A gazda úgy bánjon izráeli szolgájával, mintha bérese lenne, ne uralkodjon rajta keményen és kegyetlenül.
+{25:54} Ha az izráeli szolgát senki sem váltja meg, akkor is szabaduljon föl az ötvenedik esztendőben, és gazdája bocsássa szabadon a gyermekeivel együtt.
+{25:55} Izráel népéből minden egyes ember az én szolgám, hiszen én szabadítottam ki őket Egyiptom földjéről. Én, az Örökkévaló, vagyok Istenetek.”
+{i26:1} Az engedelmesség áldásai
+{26:1} „Izráel népe, ne készítsetek magatoknak bálványokat! Semmiféle imádat céljára szolgáló bálványszobrot, emlékkövet, vagy faragott követ ne készítsetek, mert én vagyok az Örökkévaló, Istenetek!
+{26:2} Tartsátok tiszteletben a szombati nyugalom napját! Tiszteljétek szent helyemet — én vagyok az Örökkévaló!
+{26:3} Ha törvényeim szerint éltek, megtartjátok rendelkezéseimet, és megteszitek, amit parancsoltam,
+{26:4} akkor én is adok esőket földetekre a megfelelő időben, a föld is bő termést ad nektek, és a gyümölcsfák is bőven hozzák gyümölcseiket.
+{26:5} Búzátok annyit terem, hogy mire végeztek a csépléssel, máris a szüret ideje következik, s még le sem szüreteltek egészen, mikor már itt a szántás-vetés ideje. Jóllakásig ehetitek kenyereteket, és biztonságban lakhattok országotokban.
+{26:6} Bizony, békességet és bőséget adok nektek egész országotokban. Nyugodtan alhattok, senkitől nem kell félnetek, s még a veszélyes vadakat is távol tartom tőletek. Nem kell tartanotok ellenséges támadástól sem.
+{26:7} Amikor ellenséggel harcoltok, elfutnak előletek: üldözitek őket, és kardjaitok alatt elhullanak.
+{26:8} Öt közületek megfutamít százat, százan legyőztök tízezreket. Elhullanak ellenségeitek kardjaitok alatt.
+{26:9} Jókedvemmel fordulok hozzátok, megszaporítalak és megsokasítalak benneteket, szövetségem szerint, ahogy megígértem.
+{26:10} Földetek olyan bőségesen terem, hogy a tavalyi termés még el sem fogy, mikor már újat arattok. Sőt, ki kell hordanotok a régit a magtárból, hogy helyet készítsetek az újnak.
+{26:11} Sátoromat sátoraitok között állítom föl, és veletek táborozok. Nem fordulok el tőletek, és mindig veletek maradok.
+{26:12} Közöttetek járok-kelek, Istenetekké leszek, ti pedig népemmé lesztek.
+{26:13} Én, az Örökkévaló vagyok Istenetek, aki kihoztalak benneteket Egyiptomból, hogy ne legyetek többé az ő rabszolgáik. Igen, összetörtem bilincseiteket és felszabadítottalak titeket, hogy egyenesen járjatok.
+{i26:14} Az engedetlenség büntetése
+{26:14} De ha nem hallgattok rám, ha nem engedelmeskedtek parancsaimnak,
+{26:15} ha elutasítjátok rendelkezéseimet, ha lelketek megutálja utasításaimat, ha nem követitek parancsaimat és megtöritek szövetségemet,
+{26:16} akkor én is így bánok veletek: rémületes csapásokkal sújtalak titeket, testet-lelket sorvasztó magas lázzal és betegségekkel verlek meg benneteket. Hiába vetitek be a földet, mert ellenségetek eszi meg annak termését.
+{26:17} Sőt, én magam is ellenetek fordulok, hogy ellenségeitek megverjenek, és azok uralkodjanak rajtatok, akik gyűlölnek titeket. Még akkor is menekülni fogtok, ha már senki sem üldöz.
+{26:18} S ha még ezek után sem engedelmeskedtek, akkor hétszeresen megbüntetlek benneteket bűneitekért.
+{26:19} Összetöröm nagy büszkeségeteket. Vassá teszem az eget fejetek fölött, rézzé a földet lábatok alatt.
+{26:20} Hiába feszítitek meg erőtöket, mert földetek nem ad termést, sem gyümölcsfáitok nem teremnek.
+{26:21} S ha még ezek után is ellenkeztek velem, és nem akartok engedelmeskedni, akkor hétszeresen megbüntetlek benneteket bűneitek szerint.
+{26:22} Veszélyes vadállatokat küldök rátok, hogy megöljék gyermekeiteket, elpusztítsák csordáitokat és nyájaitokat, s oly kevesen maradtok meg, hogy még az utakat is fű növi be.
+{26:23} S ha még ezek után sem fordultok hozzám, hanem továbbra is ellenkeztek velem,
+{26:24} akkor én magam fordulok ellenetek, és hétszeresen megbüntetlek benneteket bűneitekért.
+{26:25} Ellenség fegyverét küldöm rátok, hogy szövetségem megtörése miatt megbüntessen benneteket. Ha pedig városaitokba menekültök, halálos járványt küldök reátok, és kiszolgáltatlak ellenségeiteknek.
+{26:26} Amikor éhínséget küldök rátok, tíz asszony süti kenyerét egy kemencében, és kimérik azt a tíz család között, hogy mindenkinek jusson valami kevés. Esztek ugyan, de jól nem lakhattok vele.
+{26:27} S ha még ezek után sem engedelmeskedtek, hanem továbbra is ellenkeztek velem,
+{26:28} akkor haragomban én is ellenetek fordulok, és hétszeresen megbüntetlek benneteket bűneitekért.
+{26:29} A szörnyű éhínség miatt végül saját gyermekeitek testét eszitek meg.
+{26:30} Elpusztítom bálványaitokat és azokat a helyeket, ahol azokat imádtátok, meg oltáraikat. Holttesteiteket pedig a bálványszobrok romjaira vetem, mert utálatossá lesztek a számomra.
+{26:31} Romhalmazzá rombolom városaitokat, elhagyottá teszem szent helyeiteket, áldozataitokat többé nem fogadom el.
+{26:32} Pusztulást rendelek földetekre is, hogy még ellenségeitek is elborzadnak tőle, mikor elfoglalják helyeteket.
+{26:33} Titeket meg szétszórlak a nemzetek közé, de még ott is kivont karddal üldöznek ellenségeitek. Országotok lakatlan pusztává, városaitok romhalmazokká lesznek.
+{26:34} Akkor földetek élvezi a szombatévek nyugalmának idejét, mert elhagyatottá lesz, ameddig ti foglyok lesztek ellenségeitek földjén. Akkor végre megnyugodhat a föld, és megkapja az elmaradt szombatéveket.
+{26:35} Ameddig pusztán hever, végre pihenhet — mert nem adtátok meg neki a szombati nyugalom idejét, amíg rajta laktatok.
+{26:36} Akik még életben maradnak ellenségeik földjén, azoknak szívébe gyávaságot öntök, hogy megfutamodjanak a hulló falevél zörrenésétől is. Bizony, elmenekülnek, mintha fegyver elől futnának, pedig senki sem kergeti őket. Elhullanak, pedig senki nem űzi őket.
+{26:37} Egymásra hullanak, mint akiket lekaszaboltak, pedig nem is üldözi őket senki. Ha meg ellenség tör rájuk, nem lesz erejük, hogy ellenálljanak.
+{26:38} Bizony, elpusztultok a nemzetek között, ellenségetek földje megemészt titeket.
+{26:39} Akik még kevesen megmaradnak ellenségeik országaiban, azok is elsorvadnak bűneik miatt és őseik vétkeiért.
+{i26:40} Akkor megemlékezem a szövetségemről
+{26:40} De ha majd beismerik, hogy ők is, meg őseik is vétkeztek ellenem; és ha belátják, hogy azért fordultam ellenük, és vittem el
+{26:41} őket ellenségeik földjére, mert hűtlenek lettek hozzám és ellenem fordultak; és ha majd körülmetéletlen szívük megalázkodik, és elfogadják a vétkeikért járó teljes büntetést;
+{26:42} akkor majd én is visszaemlékezem a szövetségre, amelyet Jákóbbal, Izsákkal és Ábrahámmal kötöttem, és annak megfelelően gondom lesz arra is, amit földjükkel kapcsolatban ígértem.
+{26:43} Országuk földjét azonban el kell hagyniuk, hogy a föld megkapja a szombatévek nyugalmának idejét az idő alatt, amíg pusztán marad lakói nélkül. Népemnek pedig el kell fogadnia büntetését — amiatt, hogy megutálták parancsaimat, és elutasították határozataimat.
+{26:44} De még akkor sem fordulok el tőlük véglegesen, amikor ellenségeik földjén raboskodnak. Nem utálom meg őket annyira, hogy véget vessek nekik, mert én nem töröm meg a velük kötött szövetségemet. Én vagyok Istenük, az Örökkévaló!
+{26:45} Megemlékezem az ő javukra szövetségemről, amelyet őseikkel kötöttem, akiket az összes nemzetek szeme láttára kihoztam Egyiptomból, hogy népemnek Istene legyek. Én vagyok az Örökkévaló!”
+{26:46} Ezeket a törvényeket, rendelkezéseket és parancsokat adta az Örökkévaló Izráel népének Mózes által. Ezek szerint kötött szövetséget az Örökkévaló Izráel népével a Sínai-hegyen.
+{i27:1} A fogadalmak megváltása
+{27:1} Így szólt az Örökkévaló Mózeshez:
+{27:2} „Add tudtára Izráel népének: Amikor valaki különleges fogadalmat tesz, és saját magát vagy valaki mást az Örökkévalónak szentel, akkor a következő árat kell fizesse, ha meg akarja váltani a fölajánlott személyt.
+{27:3} Ezt az árat ezüstben kell megfizetnie a papnak a szent mérték szerinti sékelben, a következők szerint: 20–60 éves férfi esetében: 50 sékel,
+{27:4} 20–60 éves asszony: 30 sékel,
+{27:5} 5–20 éves fiú: 20 sékel, 5–20 éves leány: 10 sékel,
+{27:6} 1 hónapostól 5 éves korig a fiú: 5 sékel, 1 hónapostól 5 éves korig a leány: 3 sékel,
+{27:7} 60 éves, vagy idősebb férfi: 15 sékel, 60 éves, vagy idősebb asszony esetében: 10 sékel.
+{27:8} Azonban ha valaki fogadalmat tesz, de a megfelelő árat szegénysége miatt nem tudja kifizetni, akkor állítsák a pap elé. A pap vegye figyelembe az illető anyagi teherbírását, és így állapítson meg számára alacsonyabb megváltási árat.
+{i27:9} Fogadalmi ajándékok az Örökkévalónak
+{27:9} Ha valaki fogadalmi ajándékul ajánl föl az Örökkévalónak valamilyen áldozatra alkalmas tiszta állatot, akkor az az állat szentnek tekintendő, és nem helyettesíthető mással.
+{27:10} Az ilyen állatot ne cseréljék ki, még jobbra vagy értékesebbre se. Ha mégis kicserélnék egy másik állatra, akkor mind a kettő szentnek számít.
+{27:11} Ha az Örökkévalónak fölajánlott fogadalmi állat nem alkalmas az áldozatra, vagyis tisztátalan, vigyék azt a paphoz,
+{27:12} aki becsülje meg az értékét. Akár sokra, akár kevésre becsülte, azon az értéken már nem lehet változtatni.
+{27:13} Ha az ilyen állatot akarják megváltani, a pap által becsült értékhez még adják hozzá az egyötödét — így kapják meg a megváltási árat.
+{27:14} Amikor valaki a saját házát ajánlja föl az Örökkévalónak fogadalmi ajándékul, a pap becsülje föl annak árát a ház minősége szerint, de akár sokra, akár kevésre becsülte, azon az értéken már nem lehet változtatni.
+{27:15} Ha az, aki fölajánlotta, meg akarja váltani, a pap által becsült értékhez még adja hozzá az egyötödét — ez lesz a megváltási ára. Ha ezt megfizeti, ismét az övé lesz a ház.
+{27:16} Ha valaki a saját örökségét képező földjéből szentel az Örökkévalónak egy részt, annak értékét annak megfelelően kell megállapítani, hogy mennyi vetőmag szükséges a bevetéséhez. Egy hómer árpa vetőmaggal bevethető föld értéke 50 sékel legyen.
+{27:17} Ha a fogadalom ideje az ötvenedik év, akkor ezt a teljes összeget kell számítani.
+{27:18} Ha viszont később történik a felajánlás, akkor a pap számítsa ki a teljes érték arányosan kisebb részét, annak megfelelően, hogy a következő ötvenedik évig hány év van még hátra.
+{27:19} Aki a fogadalmat tette, visszaválthatja földjét, de ebben az esetben az esedékes megváltási árhoz még tegye hozzá annak egyötöd részét is. Így a földje ismét az övé lehet.
+{27:20} Ha nem váltja vissza az Örökkévalótól, vagy előzőleg már eladta a földet valaki másnak, akkor elveszti a jogát, hogy valaha még visszaválthassa.
+{27:21} Ilyen esetben ez a föld a következő ötvenedik évben véglegesen az Örökkévaló tulajdonává válik — vagyis a papok használatába kerül.
+{27:22} Ha valaki olyan földet ajánl föl az Örökkévalónak fogadalmi ajándékul, amely eredetileg nem volt a családja birtokában, hanem csak megvette valakitől,
+{27:23} akkor a pap becsülje meg annak értékét — tekintettel a következő ötvenedik évig még hátra lévő időre — ez lesz annak megváltási ára. Aki a felajánlást tette, ezt kell megadja még azon a napon az Örökkévalónak.
+{27:24} A következő ötvenedik évben pedig térjen vissza az a föld az eredeti tulajdonosához.
+{27:25} Minden ilyen esetben a szent mértéket, a szent sékelt használjátok, amely 20 gérával egyenlő.
+{27:26} A szarvasmarhák első borját, a juhok első bárányát vagy a kecskék első gidáját nem lehet az Örökkévalónak szentelni, mert azok egyébként is az Örökkévaló tulajdonát képezik.
+{27:27} Ha valaki áldozatra alkalmatlan állatot szentel az Örökkévalónak, azt megválthatja, de a pap becslése szerinti árhoz még tegye hozzá az egyötödét. Ha pedig nem váltja meg, akkor a pap adja el azt a becsült áron.
+{27:28} Ha valaki különleges esküvel szentel valamit vagy valakit az Örökkévalónak, azt »kherem«-nek kell tekinteni, vagyis az Örökkévaló különleges és örökös tulajdonának. A »kherem« nem adható el, és nem váltható meg, akár személyről, akár állatról vagy örökölt földtulajdonról van szó.
+{27:29} Ha valakit »kherem«-nek nyilvánítanak, az a személy sem váltható meg: feltétlenül meg kell halnia.
+{27:30} A föld termésének tizedrésze az Örökkévaló tulajdona, akár gabonáról, akár gyümölcsről van szó. A tized az ő szent része.
+{27:31} Ha valaki meg akar váltani valamit a tizedből, amellyel az Örökkévalónak tartozik, adja meg annak értékét, de tegye még hozzá annak ötödrészét is.
+{27:32} A föld terméséhez hasonlóan a háziállatok tizedrésze is őt illeti. Amikor állataidat áthajtod a pásztorbot alatt, hogy megszámold őket, minden tizediket jelöld meg: az az állat az Örökkévalónak legyen szentelve.
+{27:33} De ne vizsgáld, hogy milyen az az állat, sovány-e vagy kövér. Minden tizedik legyen az Örökkévalóé. Ne váltsd meg ezeket. Ne cseréld ki ezeket az állatokat, ha pedig mégis megteszed, mindkét állat legyen az övé.”
+{27:34} Ezeket parancsolta az Örökkévaló Izráel népének Mózes által a Sínai-hegyen.

@@ -1,0 +1,934 @@
+{i1:1} Phần Mở Đầu
+{1:1} Châm Ngôn của Sa-lô-môn, Con Trai Đa-vít, Vua của Y-sơ-ra-ên;
+{1:2} Để biết sự khôn ngoan và lời giáo huấn; Để hiểu những lời sáng suốt;
+{1:3} Để nhận lấy lời giáo huấn cho đời sống khôn ngoan, Công chính, công bình và bình đẳng;
+{1:4} Để ban cho người dại dột sự khôn khéo; Cho người trẻ tuổi sự hiểu biết và suy xét.
+{1:5} Nguyện người khôn ngoan sẽ nghe và tăng thêm sự học vấn; Người sáng suốt sẽ nhận được sự hướng dẫn;
+{1:6} Để hiểu châm ngôn và ngụ ngôn; Những lời của người khôn ngoan và câu đố của họ.
+{1:7} Kính sợ CHÚA là khởi đầu sự hiểu biết; Kẻ ngu dại khinh bỉ sự khôn ngoan và lời giáo huấn.
+{1:8} Hỡi con ta, hãy nghe lời giáo huấn của cha con Và chớ bỏ lời dạy dỗ của mẹ con.
+{1:9} Vì ấy là vòng hoa xinh đẹp trên đầu con, Dây chuyền trang sức trên cổ con.
+{1:10} Hỡi con ta, nếu kẻ tội lỗi quyến rũ con, Chớ theo.
+{1:11} Nếu chúng nói: “Hãy đến cùng chúng ta, Hãy mai phục để làm đổ máu; Hãy rình rập để hại người vô tội cách vô cớ.
+{1:12} Như Âm Phủ, chúng ta hãy nuốt sống chúng nó, Nuốt nguyên vẹn như những kẻ xuống huyệt sâu.
+{1:13} Chúng ta sẽ lấy hết đồ quý giá, Và nhà chúng ta sẽ đầy của cướp.
+{1:14} Hãy rút thăm chia phần với chúng ta; Chúng ta sẽ có một bao tiền chung.”
+{1:15} Hỡi con ta, đừng đi theo con đường của họ; Chân con hãy tránh các lối chúng nó.
+{1:16} Vì chân chúng nó chạy theo điều ác; Chúng nó vội vàng làm đổ máu.
+{1:17} Vì giăng lưới trước mắt cả bầy chim Là điều vô ích thay;
+{1:18} Nhưng chúng nó mai phục để làm đổ máu chính chúng nó; Rình để hại chính mạng sống mình.
+{1:19} Đó là kết cuộc của tất cả những kẻ tham lợi phi nghĩa; Sự cướp bóc sẽ tước đoạt mạng sống của kẻ sở hữu nó.
+{i1:20} Lời Kêu Gọi Của Sự Khôn Ngoan
+{1:20} Sự khôn ngoan kêu lớn trên đường phố; Lên tiếng giữa quảng trường;
+{1:21} Sự khôn ngoan kêu gọi nơi phố chợ nhộn nhịp; Diễn thuyết tại cổng vào trong thành phố.
+{1:22} Hỡi những kẻ dại dột, các ngươi yêu mến sự dại dột cho đến bao giờ? Những kẻ nhạo báng vui thích trong việc nhạo báng Và những kẻ ngu dại ghét sự hiểu biết cho đến khi nào?
+{1:23} Hãy trở lại khi ta quở trách; Này ta sẽ đổ thần ta trên các ngươi; Sẽ cho các ngươi biết những lời ta.
+{1:24} Vì ta đã kêu gọi nhưng các ngươi từ chối; Ta đã đưa tay ra nhưng không ai chú ý;
+{1:25} Vì các ngươi đã bỏ mọi lời khuyên của ta; Không nhận sự quở trách của ta;
+{1:26} Nên ta sẽ chê cười khi các ngươi bị tai họa; Ta sẽ chế nhạo khi sự kinh hoàng ập đến.
+{1:27} Sự kinh hoàng sẽ kéo đến như bão Và tai họa như gió lốc; Đau đớn và thống khổ ập đến trên các ngươi.
+{1:28} Bấy giờ chúng nó sẽ cầu khẩn ta nhưng ta không đáp lời; Chúng nó sẽ cố gắng tìm kiếm ta nhưng không tìm được.
+{1:29} Vì chúng nó ghét sự hiểu biết; Không chọn sự kính sợ CHÚA;
+{1:30} Không theo lời ta khuyên; Khinh bỉ mọi điều quở trách của ta;
+{1:31} Cho nên chúng sẽ phải ăn nuốt hậu quả của đường lối chúng; Và no nê với những mưu chước mình.
+{1:32} Vì sự lầm lạc giết kẻ ngây ngô; Còn sự vô tâm của kẻ ngu dại hủy diệt chính chúng nó.
+{1:33} Nhưng ai nghe ta sẽ sống an toàn Và an tâm không sợ tai họa.
+{i2:1} Giá Trị Của Sự Khôn Ngoan
+{2:1} Hỡi con ta, nếu con tiếp nhận những lời ta Và trân trọng giữ gìn các điều răn ta trong lòng.
+{2:2} Nếu tai con lắng nghe sự khôn ngoan; Và lòng con hướng về sự hiểu biết;
+{2:3} Phải, nếu con kêu nài sự sáng suốt; Nếu con cất tiếng xin sự hiểu biết;
+{2:4} Nếu con tìm nó như tìm bạc, Và kiếm nó như kiếm châu báu ẩn giấu;
+{2:5} Bấy giờ con sẽ hiểu sự kính sợ CHÚA Và tìm thấy sự hiểu biết Đức Chúa Trời.
+{2:6} Vì CHÚA ban cho sự khôn ngoan; Sự hiểu biết và sáng suốt đến từ miệng Ngài.
+{2:7} Ngài tích lũy sự khôn ngoan cho người ngay thẳng; Ngài là thuẫn đỡ cho những kẻ sống chính trực.
+{2:8} Ngài giữ gìn lối đi của người công bình; Bảo vệ đường lối của kẻ kính sợ Ngài.
+{2:9} Bấy giờ con sẽ hiểu sự công chính, Công bình và bình đẳng cùng mọi đường lối tốt đẹp.
+{2:10} Vì sự khôn ngoan sẽ vào lòng con; Sự hiểu biết sẽ làm linh hồn con thích thú.
+{2:11} Sự khôn khéo sẽ giữ gìn con Và sự sáng suốt sẽ bảo vệ con;
+{2:12} Giải cứu con khỏi con đường tà, Khỏi kẻ nói lời tai ác;
+{2:13} Khỏi kẻ từ bỏ con đường ngay thẳng, Không đi theo đường lối tối tăm.
+{2:14} Là kẻ vui vẻ để làm việc dữ; Thích thú trong hành động tai ác gian tà;
+{2:15} Kẻ có lối đi quanh co, Có đường lối xảo quyệt;
+{2:16} Giải cứu con khỏi người đàn bà dâm loạn; Là người đàn bà xa lạ có lời nói ngọt ngào;
+{2:17} Nàng đã lìa bỏ bạn đời của tuổi thanh xuân; Quên giao ước của Đức Chúa Trời mình.
+{2:18} Vì nhà nàng chìm xuống cõi chết; Đường lối nàng dẫn tới Âm Ty.
+{2:19} Mọi kẻ đến với nàng đều không trở lại, Và cũng không đạt được con đường sự sống.
+{2:20} Vậy, con hãy đi theo con đường của người thiện Và giữ lấy đường lối của người công chính.
+{2:21} Vì những người ngay thẳng sẽ được ở trong đất hứa Và những người trọn vẹn vẫn còn ở tại đó luôn.
+{2:22} Nhưng những kẻ ác sẽ bị diệt trừ khỏi đất Và những người xảo trá sẽ bị bứng khỏi vùng đất ấy.
+{i3:1} Lời Khuyên Tin Cậy Và Tôn Trọng Chúa
+{3:1} Hỡi con ta, chớ quên lời dạy dỗ của ta, Nhưng hãy giữ các điều răn ta trong lòng.
+{3:2} Vì chúng sẽ thêm cho con tuổi thọ trong đời, Và an khang thịnh vượng.
+{3:3} Chớ quên tình yêu thương và lòng trung tín, Hãy đeo chúng trên cổ con, Hãy ghi chúng vào lòng con.
+{3:4} Nhờ đó con sẽ tìm được ơn lành và tiếng tốt Trước mắt Đức Chúa Trời lẫn người ta.
+{3:5} Hãy hết lòng tin cậy CHÚA, Chớ nương cậy nơi sự sáng suốt của con.
+{3:6} Hãy nhận biết Ngài trong mọi đường lối mình, Ngài sẽ làm cho đường lối của con bằng thẳng.
+{3:7} Chớ khôn ngoan theo mắt mình, Nhưng hãy kính sợ CHÚA và tránh điều ác.
+{3:8} Ấy sẽ là sự chữa bệnh cho thân thể con, Và bổ dưỡng cho xương cốt con.
+{3:9} Hãy lấy tài sản và hoa quả đầu mùa của con Mà tôn vinh CHÚA.
+{3:10} Bấy giờ kho vựa của con sẽ đầy thóc lúa, Và thùng chứa của con sẽ đầy tràn rượu mới.
+{3:11} Hỡi con ta, chớ khinh thường sự rèn luyện của CHÚA, Cũng đừng nản lòng vì lời quở trách của Ngài.
+{3:12} Vì CHÚA khiển trách người Ngài thương, Như cha đối với con thân yêu của mình.
+{3:13} Phước cho người nào tìm được sự khôn ngoan, Và nhận được sự sáng suốt.
+{3:14} Vì giá trị của nó quý hơn bạc; Lợi ích từ nó tốt hơn vàng.
+{3:15} Sự khôn ngoan quý hơn hồng ngọc; Tất cả mọi vật con ao ước đều không thể sánh được.
+{3:16} Tay phải nó nắm trường thọ; Tay trái cầm sự giàu sang và vinh hiển.
+{3:17} Những con đường của nó là đường dễ chịu; Mọi lối đi của nó đều bình an.
+{3:18} Sự khôn ngoan là cây sự sống cho ai nắm được nó; Người nào giữ chặt lấy nó được gọi là người có phước.
+{3:19} CHÚA dùng sự khôn ngoan đặt nền cho quả đất, Bởi sự sáng suốt thiết lập các tầng trời.
+{3:20} Do sự hiểu biết của Ngài các vực sâu tuôn nước, Các đám mây kết tụ thành sương;
+{3:21} Hỡi con ta, hãy giữ lấy sự khôn ngoan và suy xét; Mắt con chớ rời xa những điều ấy.
+{3:22} Chúng sẽ là sự sống cho linh hồn con, Và đồ trang sức cho cổ con.
+{3:23} Bấy giờ con sẽ đi an toàn trên đường, Và chân con không vấp ngã.
+{3:24} Khi nằm con sẽ không sợ, Lúc con nằm ngủ, con sẽ ngủ ngon.
+{3:25} Chớ sợ điều kinh khủng bất ngờ, Cũng đừng sợ khi bão táp ập xuống trên kẻ ác.
+{3:26} Vì CHÚA sẽ là sự tin cậy của con; Ngài sẽ gìn giữ chân con khỏi mắc bẫy.
+{3:27} Đừng từ chối điều tốt đẹp cho người xứng đáng Khi tay con có quyền làm điều ấy.
+{3:28} Đang khi có sẵn thì đừng nói với người láng giềng con rằng: “Hãy đi rồi trở lại, ngày mai tôi sẽ cho anh.”
+{3:29} Chớ âm mưu hại người láng giềng Khi người sống an toàn bên cạnh con.
+{3:30} Đừng tranh chấp vô cớ với ai Khi người ta không làm gì hại con.
+{3:31} Chớ ganh tị với người hung dữ, Cũng đừng chọn đường lối nào của nó.
+{3:32} Vì CHÚA ghê tởm kẻ gian tà, Nhưng Ngài thân cận với người ngay thẳng.
+{3:33} Sự rủa sả của CHÚA ở trong nhà kẻ ác, Nhưng Ngài ban phước cho chỗ ở của người công chính.
+{3:34} Đối với người nhạo báng, Ngài chế nhạo chúng; Nhưng Ngài ban ơn cho kẻ khiêm nhu.
+{3:35} Người khôn ngoan sẽ thừa hưởng vinh hiển, Nhưng kẻ ngu dại sẽ nhận điều xấu hổ.
+{i4:1} Hãy Vâng Lời Cha Mẹ
+{4:1} Hỡi các con, hãy nghe lời giáo huấn của người cha; Và hãy chú ý để các con biết được sự sáng suốt.
+{4:2} Vì ta ban cho các con một đạo lý tốt lành; Đừng từ bỏ lời dạy dỗ của ta.
+{4:3} Khi thơ ấu ta là con của cha ta, Và là con một của mẹ ta.
+{4:4} Người dạy bảo ta rằng: Hãy ghi nhớ các lời ta trong lòng; Hãy gìn giữ những điều răn ta và sống.
+{4:5} Hãy thu nhận sự khôn ngoan, hãy thu nhận sự sáng suốt; Chớ quên, cũng đừng từ bỏ lời phán của ta.
+{4:6} Đừng từ bỏ sự khôn ngoan thì nó sẽ gìn giữ con; Hãy yêu mến sự khôn ngoan thì nó sẽ bảo vệ con.
+{4:7} Sự khôn ngoan là điều tiên quyết, hãy thu nhận sự khôn ngoan; Hãy tận dụng mọi điều con có để nhận được sáng suốt.
+{4:8} Hãy đánh giá cao sự khôn ngoan thì nó sẽ tôn con lên cao; Hãy ôm ấp nó thì nó sẽ làm cho con vinh hiển.
+{4:9} Sự khôn ngoan sẽ ban cho đầu con một mão hoa ân huệ, Sẽ đội cho đầu con một mão miện vinh hiển.
+{4:10} Hỡi con ta, hãy nghe và nhận các lời của ta, Thì các năm của đời con sẽ được thêm nhiều.
+{4:11} Ta dẫn con trên con đường khôn ngoan, Dắt con trong các lối ngay thẳng.
+{4:12} Khi đi các bước chân con sẽ không bị ngăn trở Và nếu con chạy, con sẽ không bị vấp ngã.
+{4:13} Hãy nắm chặt lấy lời giáo huấn, chớ buông ra; Hãy gìn giữ nó vì nó là sự sống của con.
+{4:14} Đừng vào trong lối của những kẻ ác, Chớ đi trên đường của những người dữ.
+{4:15} Hãy tránh con đường ấy; đừng đi trên đó; Hãy rẽ qua lối khác và cứ đi thẳng luôn.
+{4:16} Vì chúng không ngủ được nếu không làm điều ác Và bị mất ngủ nếu không làm cho người ta ngã.
+{4:17} Vì chúng ăn bánh gian ác, Uống rượu hung dữ.
+{4:18} Nhưng con đường của người công chính như ánh sáng bình minh; Chiếu sáng rạng rỡ cho đến giữa trưa.
+{4:19} Còn con đường của kẻ ác giống như tăm tối; Chúng nó không biết vật gì làm mình vấp ngã.
+{4:20} Hỡi con ta, hãy chú ý đến các lời ta; Hãy lắng tai nghe những lời ta nói.
+{4:21} Mắt con chớ lìa xa các lời ấy; Hãy gìn giữ chúng trong lòng con.
+{4:22} Vì những lời ấy là sự sống cho ai tìm được chúng, Là sự chữa bệnh cho toàn thân thể họ.
+{4:23} Trên hết mọi sự, hãy gìn giữ tấm lòng của con, Vì các nguồn sự sống xuất phát từ đó.
+{4:24} Hãy từ bỏ miệng gian tà; Hãy lìa xa môi xảo quyệt.
+{4:25} Mắt con hãy nhìn thẳng trước mặt; Mí mắt con hãy hướng thẳng về phía trước.
+{4:26} Hãy làm cho bằng phẳng con đường con đi, Thì mọi đường lối của con sẽ được chắc chắn.
+{4:27} Chớ quay sang bên phải hay bên trái; Chân con hãy tránh điều ác.
+{i5:1} Lời Khuyên Về Sự Cám Dỗ Tình Dục
+{5:1} Hỡi con ta, hãy chú ý đến sự khôn ngoan ta, Hãy lắng tai nghe sự sáng suốt của ta;
+{5:2} Để con nắm giữ sự thận trọng, Và môi con gìn giữ sự hiểu biết.
+{5:3} Vì môi của người đàn bà dâm loạn tiết ra mật ngọt; Miệng nó dịu ngọt hơn dầu.
+{5:4} Nhưng rốt cuộc đắng như ngải cứu, Sắc như gươm hai lưỡi.
+{5:5} Chân nó đi đến sự chết, Bước nó dẫn xuống Âm Phủ.
+{5:6} Nó không cân nhắc con đường sự sống, Đường lối nó lầm lạc mà nó không biết.
+{5:7} Hỡi các con ta, giờ đây hãy nghe ta; Chớ từ bỏ những lời của miệng ta.
+{5:8} Hãy giữ đường lối con cách xa nó; Chớ đến gần cửa nhà nó.
+{5:9} E rằng con sẽ tiêu phí danh dự con cho những kẻ khác, Các năm tháng đời con cho kẻ bạo tàn;
+{5:10} E những người lạ sẽ hưởng trọn công sức của con, Và công lao con sẽ vào nhà người ngoại quốc.
+{5:11} Rốt cuộc con sẽ rên siết khi xác thịt Và thân thể tiêu mòn.
+{5:12} Bấy giờ con sẽ nói: “Sao tôi đã ghét sự giáo huấn; Lòng tôi đã khinh lời quở trách.
+{5:13} Tôi đã không vâng lời các thầy giáo; Tôi đã không lắng tai nghe những người dạy dỗ tôi.
+{5:14} Tôi gần như hoàn toàn bị hủy hoại Ở giữa buổi hội và dân chúng.”
+{5:15} Hãy uống nước từ hồ chứa của con; Và nước chảy từ giếng của con;
+{5:16} Lẽ nào các nguồn nước của con chảy ra ngoài đường, Các dòng suối của con chảy ở nơi phố chợ?
+{5:17} Chúng thuộc về riêng con; Không thể chung với những người khác.
+{5:18} Nguyện nguồn nước của con được phước; Hãy vui thích với người vợ từ thuở thanh xuân;
+{5:19} Như con hươu đáng yêu, như con nai duyên dáng; Nguyện ngực nàng làm con vui thỏa luôn luôn Và tình yêu nàng làm con say mê mãi mãi.
+{5:20} Hỡi con ta, tại sao con say mê người đàn bà dâm loạn? Tại sao con ôm ấp người đàn bà xa lạ?
+{5:21} Vì các đường lối của người ta đều ở trước mắt CHÚA Và Ngài xem xét mọi lối đi của nó.
+{5:22} Kẻ ác sẽ bị tội lỗi mình sập bẫy; Và bị các dây tội lỗi mình trói cột.
+{5:23} Nó sẽ chết vì thiếu sự giáo huấn Và lầm lạc vì quá ngu dại.
+{i6:1} Sự Bảo Lãnh
+{6:1} Hỡi con ta, nếu con bảo lãnh cho người láng giềng; Nếu con đưa tay hứa với một người lạ.
+{6:2} Nếu con bị sập bẫy vì môi miệng; Nếu con bị mắc bẫy vì lời nói mình.
+{6:3} Hỡi con ta, hãy làm thế này để giải cứu mình. Vì con đã lọt vào tay kẻ láng giềng con; Hãy đến, cúi đầu nài xin kẻ láng giềng con.
+{6:4} Đừng để cho mắt con ngủ; Chớ để cho mí mắt con khép lại.
+{6:5} Hãy thoát thân như nai tơ thoát khỏi tay thợ săn; Như chim thoát khỏi tay người đánh bẫy.
+{i6:6} Lười Biếng
+{6:6} Hỡi kẻ lười biếng, hãy đến xem con kiến; Hãy xem đường lối nó để trở nên khôn ngoan.
+{6:7} Nó không có người lãnh đạo, Giám đốc hay cai trị;
+{6:8} Nhưng nó tích trữ lương thực vào mùa hè Và thu nhặt thực phẩm trong mùa gặt.
+{6:9} Hỡi kẻ lười biếng, ngươi còn nằm cho đến chừng nào? Bao giờ ngươi mới ngủ thức dậy?
+{6:10} Ngủ một chút; chợp mắt một chút; Khoanh tay nằm nghỉ một chút;
+{6:11} Thế là sự nghèo khó của ngươi sẽ đến như kẻ cướp bóc, Và sự thiếu thốn của ngươi sẽ đến như người lính nơi chiến trận.
+{i6:12} Sự Gian Tà
+{6:12} Người nào sống với môi miệng gian dối Là kẻ vô loài, người gian ác.
+{6:13} Hắn nháy mắt làm ám hiệu; Khều chân, Chỉ ngón tay làm dấu;
+{6:14} Người có lòng gian tà, âm mưu điều ác; Lúc nào cũng gieo điều bất hòa.
+{6:15} Cho nên tai họa sẽ thình lình kéo đến, Trong chốc lát nó sẽ bị hủy diệt không phương cứu chữa.
+{i6:16} Những Điều CHÚA Ghét
+{6:16} Có sáu điều CHÚA ghét Và bảy điều Ngài ghê tởm:
+{6:17} Con mắt tự cao; Lưỡi dối trá; Bàn tay đổ máu vô tội;
+{6:18} Lòng toan tính những âm mưu gian ác; Chân vội vàng chạy đến điều dữ;
+{6:19} Nhân chứng gian thốt ra lời dối trá; Kẻ gieo điều bất hòa giữa vòng anh em.
+{6:20} Hỡi con ta, hãy giữ các điều răn của cha con Và chớ từ bỏ lời dạy dỗ của mẹ con.
+{6:21} Hãy luôn luôn ghi khắc nó trong lòng; Hãy đeo nó nơi cổ con.
+{6:22} Khi con đi, nó sẽ dẫn con; Khi con nằm nó sẽ bảo vệ con; Lúc con thức nó sẽ trò chuyện với con.
+{6:23} Vì điều răn là ngọn đèn; Sự dạy dỗ là ánh sáng Và lời quở trách để giáo huấn Là con đường sự sống;
+{6:24} Để giữ con tránh khỏi người đàn bà gian ác; Khỏi lưỡi ngọt ngào của người đàn bà dâm loạn.
+{6:25} Lòng con chớ thèm muốn sắc đẹp nó; Cũng đừng để mí mắt nó chiếm lấy con.
+{6:26} Vì gái điếm làm cho con chỉ còn một miếng bánh; Nhưng người đàn bà ngoại tình săn đuổi chính linh hồn quý giá của con.
+{6:27} Có thể nào một người mang lửa trên bụng Mà quần áo không cháy sao?
+{6:28} Hay một người bước đi trên than lửa đỏ Mà chân không bị phỏng sao?
+{6:29} Người nào ngủ với vợ người khác cũng như vậy; Ai đụng đến nàng sẽ không tránh khỏi hình phạt.
+{6:30} Một kẻ cắp sẽ không bị khinh Nếu nó đánh cắp để ăn khi đói khát.
+{6:31} Nhưng nếu nó bị bắt, nó phải đền gấp bảy lần; Nó phải trả bằng tất cả tài sản nhà nó.
+{6:32} Người ngoại tình là người mất hết tâm trí; Kẻ làm điều đó sẽ hủy diệt linh hồn mình.
+{6:33} Người sẽ bị thương tích và bị sỉ nhục; Sự sỉ nhục của người sẽ không thể nào tẩy xóa được.
+{6:34} Vì ghen tuông là cơn thịnh nộ của người chồng; Người sẽ không dung thứ khi báo thù.
+{6:35} Người sẽ không chấp nhận bất cứ một sự đền bù nào; Dù con đút lót nhiều quà cáp người cũng không chịu.
+{i7:1} Lời Khuyên Tránh Cám Dỗ Về Ngoại Tình
+{7:1} Hỡi con ta, hãy gìn giữ các lời ta, Hãy cất giữ các điều răn ta trong lòng con.
+{7:2} Hãy giữ các điều răn của ta thì con sẽ sống; Hãy giữ sự dạy dỗ của ta như con ngươi của mắt con.
+{7:3} Hãy cột chúng trên ngón tay con; Ghi khắc vào tấm lòng con.
+{7:4} Hãy nói với sự khôn ngoan: ngươi là chị em ta; Hãy gọi sự sáng suốt là họ hàng con;
+{7:5} Để chúng gìn giữ con tránh người đàn bà dâm loạn; Khỏi người đàn bà dâm loạn có lời nói ngọt ngào.
+{7:6} Vì tại cửa sổ nhà ta, Ta nhìn qua song cửa;
+{7:7} Ta thấy trong số những kẻ ngây ngô, Giữa vòng những người trẻ tuổi, Một thanh niên thiếu mất tâm trí.
+{7:8} Nó đi lại trên con đường gần góc nhà người đàn bà ấy; Nó bước vào con đường dẫn đến nhà nàng;
+{7:9} Khi chạng vạng buổi tối, Lúc đêm khuya tối tăm.
+{7:10} Kìa, người đàn bà ấy đón nó; Ăn mặc như con điếm, lòng dạ xảo quyệt;
+{7:11} Ăn nói ồn ào, tính tình bướng bỉnh; Chân chẳng chịu ở trong nhà.
+{7:12} Khi thì ở ngoài đường, lúc thì nơi công viên; Nàng rình rập tại mỗi góc đường.
+{7:13} Nàng ôm lấy nó và hôn nó; Mặt mày trân tráo, nàng nói:
+{7:14} Em có tế lễ cầu an sẵn tại nhà; Hôm nay em đã trả xong lời khấn nguyện;
+{7:15} Nên em đi ra đón anh; Em đã tìm kiếm anh và tìm được;
+{7:16} Em đã trải giường Bằng khăn vải hoa Ai Cập;
+{7:17} Em đã dùng một dược, lô hội và quế hương Xông giường mình.
+{7:18} Hãy đến, ái ân say đắm cho đến sáng; Hãy vui thú yêu đương.
+{7:19} Vì chồng em không có nhà, Hắn đã đi xa;
+{7:20} Đem theo túi bạc, Đến ngày trăng tròn mới trở về nhà.
+{7:21} Nàng dụ dỗ nó bằng nhiều lời quyến rũ; Nàng lôi cuốn nó bằng môi miệng ngọt ngào.
+{7:22} Lập tức nó theo nàng Như con bò bị dẫn đến lò sát sinh; Như kẻ ngu dại bị xiềng để chịu hình phạt;
+{7:23} Cho đến khi một mũi tên đâm vào gan nó; Như con chim bay sa vào lưới Mà không biết rằng nó phải trả bằng mạng sống mình.
+{7:24} Giờ đây, hỡi các con ta, Hãy nghe ta và chú ý đến lời ta phán;
+{7:25} Lòng con đừng hướng về đường lối của người đàn bà ấy; Chớ lầm lạc vào các ngõ của nó.
+{7:26} Vì nhiều nạn nhân đã bị người đàn bà ấy đánh ngã; Và một số lớn đã bị nó giết chết.
+{7:27} Nhà người đàn bà ấy là con đường đi đến hỏa ngục; Dẫn xuống Âm phủ.
+{i8:1} Những Lời Kêu Gọi Của Sự Khôn Ngoan
+{8:1} Sự khôn ngoan đã chẳng kêu gọi? Sự sáng suốt đã chẳng lên tiếng sao?
+{8:2} Sự khôn ngoan đứng trên các đỉnh cao, Bên cạnh đường; ở các ngã tư;
+{8:3} Ở gần cổng; trước cửa thành; Nơi lối vào; nó kêu to:
+{8:4} “Hỡi loài người, ta kêu gọi các người; Lời kêu gọi của ta cho nhân loại.
+{8:5} Hỡi người đơn sơ, hãy hiểu sự khôn khéo; Hỡi kẻ ngu dại, hãy hiểu biết sáng suốt.
+{8:6} Hãy nghe, vì ta sẽ nói điều cao quý; Mở môi miệng phán điều ngay thẳng.
+{8:7} Vì miệng ta nói lên chân lý, Môi ta ghê tởm điều gian ác.
+{8:8} Tất cả những lời từ miệng ta đều công chính; Không có gì xuyên tạc hay gian tà trong ấy.
+{8:9} Tất cả đều rõ ràng cho người hiểu biết, Và đúng đắn cho người tìm thấy tri thức.
+{8:10} Hãy nhận lấy lời giáo huấn của ta thay vì bạc, Và sự tri thức hơn là vàng ròng.
+{8:11} Vì sự khôn ngoan quý hơn hồng ngọc; Tất cả mọi vật con ao ước đều không thể sánh được.
+{8:12} Ta, sự khôn ngoan sống với sự khôn khéo; Ta sở hữu tri thức và sự suy xét.
+{8:13} Kính sợ CHÚA là ghét điều ác; Ta ghét kiêu ngạo, tự cao, Đường lối ác và miệng gian tà.
+{8:14} Sự cố vấn và khôn ngoan thuộc về ta; Ta có sự hiểu biết và sức mạnh.
+{8:15} Nhờ ta các vua trị vì, Và những người lãnh đạo ban hành các luật công bình.
+{8:16} Nhờ ta các hoàng tử cai trị, Và các nhà quý phái, tất cả đều xét xử công minh.
+{8:17} Ta yêu những người yêu mến ta Và những ai tìm kiếm ta sẽ tìm được.
+{8:18} Giàu có và vinh dự; Tài sản bền vững và thịnh vượng đều thuộc về ta.
+{8:19} Hoa quả của ta tốt hơn vàng, ngay cả vàng ròng; Hoa lợi từ ta quý hơn cả bạc nguyên chất.
+{8:20} Ta đi trên con đường công chính; Ở giữa các lối công bình;
+{8:21} Để ban cho những người yêu mến ta của cải Và đổ đầy kho tàng của họ.
+{8:22} CHÚA tạo nên ta đầu tiên trong đường lối Ngài; Trước hơn các công việc thái cổ của Ngài.
+{8:23} Ta đã được lập nên từ đời đời; Từ thuở ban đầu, trước khi bắt đầu quả đất.
+{8:24} Ta đã được sinh ra khi chưa có các vực sâu, Chưa có các nguồn nước dồi dào.
+{8:25} Trước khi các núi, trước khi các đồi ổn định ta đã được sinh ra.
+{8:26} Trước khi CHÚA tạo nên quả đất, cánh đồng Và bụi đất đầu tiên.
+{8:27} Khi Ngài lập các tầng trời, Lúc Ngài định các vòm trên mặt các vực sâu, ta đã ở đó;
+{8:28} Khi Ngài làm cho các bầu trời trên cao, Các nguồn vực sâu vững chắc;
+{8:29} Khi Ngài định giới hạn cho biển cả Để nước không vượt qua các mạng lệnh của Ngài; Khi Ngài lập các nền cho quả đất;
+{8:30} Ta đã ở bên cạnh Ngài như người thợ cả; Hằng ngày ta là niềm vui của Ngài; Luôn luôn vui mừng trước mặt Ngài;
+{8:31} Vui vẻ trong thế gian của Ngài Và thích thú với nhân loại.
+{8:32} Giờ đây, hỡi các con ta, hãy nghe ta; Phước cho người nào gìn giữ đường lối ta.
+{8:33} Hãy nghe lời giáo huấn và hãy khôn ngoan; Chớ xao lãng.
+{8:34} Phước cho người nào nghe ta; Hằng ngày canh chừng ở cổng ta; Chờ đợi bên cửa ta.
+{8:35} Vì ai tìm được ta, tìm được sự sống Và nhận ơn lành từ CHÚA.
+{8:36} Nhưng ai thiếu ta linh hồn mình sẽ bị thương tổn; Tất cả những kẻ ghét ta yêu sự chết.”
+{i9:1} Lời Kêu Gọi Của Khôn Ngoan Và Ngu Dại
+{9:1} Sự khôn ngoan xây dựng nhà mình; Chạm trổ bảy cột trụ;
+{9:2} Nàng làm thịt thú vật; Pha rượu nho và dọn tiệc mình.
+{9:3} Nàng sai những tớ gái mình đi; Từ nơi đỉnh cao nhất của thành nàng kêu gọi:
+{9:4} “Ai là người dại dột, hãy trở lại đây”; Nàng nói với người thiếu trí hiểu:
+{9:5} “Hãy đến ăn bánh của ta Và uống rượu ta pha;
+{9:6} Hãy từ bỏ sự dại dột và sẽ được sống; Hãy đi theo con đường sáng suốt.”
+{9:7} Ai sửa sai người nhạo báng chuốc lấy sỉ nhục cho mình; Ai quở trách người gian ác sẽ bị tổn thương.
+{9:8} Đừng quở trách người nhạo báng, nó sẽ ghét con; Trách người khôn ngoan, người sẽ thương con.
+{9:9} Hãy giáo huấn người khôn ngoan thì người sẽ khôn ngoan hơn; Hãy dạy dỗ người công chính thì kiến thức của người sẽ gia tăng.
+{9:10} Kính sợ CHÚA là khởi đầu sự khôn ngoan; Hiểu biết Đấng Thánh là sự sáng suốt.
+{9:11} Vì nhờ ta các ngày của con sẽ được nhiều thêm, Các năm của đời con sẽ được gia tăng.
+{9:12} Nếu con khôn ngoan, chính con sẽ được lợi ích; Nếu con nhạo báng, chính con phải chịu hậu quả.
+{9:13} Người đàn bà ngu dại hay to tiếng, Ngây ngô và không biết gì.
+{9:14} Nàng ngồi trước cửa nhà; Trên ghế nơi đỉnh cao của thành;
+{9:15} Để kêu gọi những người qua lại trên đường, Là những người đi thẳng đường mình;
+{9:16} “Ai là người dại dột, hãy trở lại đây”; Nàng cũng nói với người thiếu trí hiểu:
+{9:17} “Nước ăn cắp thì ngọt; Bánh ăn vụng thì ngon.”
+{9:18} Nhưng người không biết rằng đó là nơi chết chóc, Và các khách của nàng đều ở nơi vực sâu của Âm Phủ.
+{i10:1} Các Châm Ngôn Của Vua Sa-lô-môn
+{10:1} Đứa con trai khôn ngoan làm cho cha mình vui vẻ, Nhưng đứa con trai ngu dại gây cho mẹ mình buồn phiền.
+{10:2} Của phi nghĩa không sinh lời, Nhưng sự công chính giải cứu khỏi sự chết.
+{10:3} CHÚA không để người công chính đói khát, Nhưng Ngài từ khước lòng thèm muốn của kẻ ác.
+{10:4} Cánh tay lười biếng gây nên nghèo khổ Nhưng bàn tay siêng năng làm cho giàu có.
+{10:5} Người nào thâu trữ trong mùa hè là đứa con khôn ngoan; Kẻ ngủ trong mùa gặt là đứa con sỉ nhục.
+{10:6} Phước lành ở trên đầu người công chính, Nhưng miệng kẻ gian ác che giấu điều hung bạo.
+{10:7} Kỷ niệm của người công chính là một phúc lành, Nhưng tên của kẻ gian ác sẽ mục nát.
+{10:8} Lòng khôn ngoan chấp nhận mệnh lệnh; Nhưng môi miệng ngu dại sẽ đưa đến hủy hoại.
+{10:9} Người sống ngay thẳng sẽ sống an toàn, Nhưng đường lối gian tà sẽ bị phát giác.
+{10:10} Người nháy mắt làm hiệu gây nên sầu não, Và môi miệng ngu dại sẽ đưa đến hủy hoại.
+{10:11} Miệng người công chính là nguồn sự sống, Nhưng miệng kẻ gian ác che giấu điều hung bạo.
+{10:12} Thù ghét gây ra xung đột, Nhưng tình yêu thương che đậy mọi vi phạm.
+{10:13} Khôn ngoan được tìm thấy trên môi miệng người hiểu biết, Nhưng roi vọt dành cho lưng kẻ thiếu trí hiểu.
+{10:14} Người khôn ngoan tích trữ tri thức, Nhưng môi miệng kẻ ngu dại đem hủy hoại đến gần.
+{10:15} Tài sản người giàu có là thành trì kiên cố của người; Sự hủy hoại của kẻ nghèo là sự nghèo khó của họ.
+{10:16} Công lao của người công chính dẫn đến sự sống; Lợi lộc của kẻ gian ác dẫn đến tội lỗi.
+{10:17} Ai nghe lời giáo huấn ở trên đường dẫn đến sự sống, Nhưng kẻ khước từ sự quở trách sẽ bị lầm lạc.
+{10:18} Kẻ che giấu lòng thù ghét là kẻ có môi giả dối, Và người buông ra lời nói hành là người ngu dại.
+{10:19} Hễ nhiều lời thì sẽ không thiếu vấp phạm, Nhưng người khôn ngoan gìn giữ môi miệng mình.
+{10:20} Lưỡi người công chính là bạc nguyên chất; Lòng người gian ác không có giá trị gì.
+{10:21} Môi miệng người công chính nuôi dưỡng nhiều người, Nhưng những kẻ ngu dại chết vì thiếu trí hiểu.
+{10:22} Phước lành của CHÚA làm nên giàu có; Ngài cũng không thêm buồn phiền cặp theo.
+{10:23} Người ngu dại coi hành động ác là thích thú, Nhưng người sáng suốt vui thích trong sự khôn ngoan.
+{10:24} Điều kẻ ác lo sợ sẽ xảy ra cho nó, Nhưng điều người công chính ước ao sẽ được ban cho.
+{10:25} Khi giông tố thổi qua, kẻ ác sẽ không còn nữa, Nhưng nền móng của người công chính còn đời đời.
+{10:26} Như giấm làm ê răng, như khói làm cay mắt; Kẻ lười biếng đối với người sai phái nó cũng vậy.
+{10:27} Kính sợ CHÚA sẽ gia tăng ngày tháng, Nhưng năm thọ của kẻ ác sẽ bị cắt ngắn đi.
+{10:28} Hy vọng của người công chính là sự vui vẻ, Nhưng sự trông đợi của kẻ ác sẽ tiêu tan.
+{10:29} Đường lối của CHÚA là thành lũy cho người ngay thẳng, Nhưng là sự hủy hoại cho kẻ gian ác.
+{10:30} Người công chính sẽ không bao giờ bị rung chuyển, Nhưng kẻ ác sẽ không tồn tại trên đất.
+{10:31} Miệng của người công chính đem lại khôn ngoan, Nhưng lưỡi gian tà sẽ bị cắt đứt.
+{10:32} Môi người công chính biết điều thích hợp, Còn miệng kẻ gian ác biết sự gian tà.
+{11:1} CHÚA ghê tởm cái cân gian trá, Nhưng quả cân đúng làm Ngài hài lòng.
+{11:2} Khi kiêu ngạo đến, nhục nhã cũng đến, Nhưng sự khôn ngoan đến với người khiêm nhường.
+{11:3} Tính trung thực của người ngay thẳng hướng dẫn họ, Nhưng sự gian tà của kẻ xảo trá sẽ hủy diệt chúng.
+{11:4} Giàu có không lợi ích gì trong ngày thịnh nộ, Nhưng sự công chính giải cứu khỏi sự chết.
+{11:5} Sự công chính của người chính trực làm bằng phẳng đường lối người, Nhưng kẻ ác sẽ sa ngã bởi chính sự gian ác mình.
+{11:6} Sự công chính của người ngay thẳng giải cứu người, Nhưng kẻ xảo trá bị mắc bẫy bởi lòng tham của mình.
+{11:7} Khi chết điều mong đợi của kẻ ác tiêu tan, Và niềm hy vọng của kẻ cường bạo bị tiêu hủy.
+{11:8} Người công chính được cứu khỏi tai họa, Nhưng kẻ ác đi vào đó thế chỗ cho người.
+{11:9} Kẻ vô đạo dùng môi miệng hủy diệt người láng giềng mình, Nhưng người công chính nhờ sự hiểu biết được giải cứu.
+{11:10} Khi người công chính thịnh vượng, thành phố vui vẻ, Và khi kẻ ác bị hủy diệt, thành phố reo hò mừng rỡ.
+{11:11} Một thành được tôn cao nhờ phước lành của người ngay thẳng, Nhưng vì miệng của kẻ ác nó bị phá hủy.
+{11:12} Kẻ khinh miệt người láng giềng mình là người thiếu hiểu biết, Còn người sáng suốt giữ im lặng.
+{11:13} Kẻ ngồi lê đôi mách tiết lộ điều bí mật, Nhưng người có lòng đáng tin cậy giữ kín công việc.
+{11:14} Một dân tộc sẽ sụp đổ vì thiếu chiến lược, Nhưng nhờ nhiều cố vấn nó sẽ chiến thắng.
+{11:15} Kẻ nào bảo lãnh cho người xa lạ sẽ bị thiệt hại, Nhưng người ghét việc bảo lãnh sẽ được an toàn.
+{11:16} Một người đàn bà duyên dáng được vinh dự, Nhưng một người đàn ông hung bạo chỉ được của cải.
+{11:17} Người nhân từ làm lợi cho linh hồn mình; Kẻ độc ác làm hại cho thân thể nó.
+{11:18} Kẻ ác nhận tiền công lừa gạt, Nhưng người gieo sự công chính nhận phần thưởng thật.
+{11:19} Người nào kiên trì trong sự công chính dẫn đến sự sống; Còn kẻ theo đuổi điều ác sẽ đưa đến cái chết.
+{11:20} CHÚA ghê tởm kẻ có tấm lòng gian tà, Nhưng vui thích người theo đường lối chính trực.
+{11:21} Chắc chắn kẻ ác sẽ không tránh khỏi hình phạt, Nhưng dòng dõi người công chính sẽ thoát khỏi.
+{11:22} Một người đàn bà đẹp nhưng thiếu thận trọng, Cũng như vòng vàng đeo nơi mũi heo.
+{11:23} Điều mong ước của người công chính đều là phước lành; Còn hy vọng của kẻ ác là sự thịnh nộ.
+{11:24} Người ban cho rộng rãi lại càng giàu có, Nhưng kẻ quá keo kiệt thì vẫn thiếu thốn.
+{11:25} Người rộng rãi sẽ được no đủ; Kẻ cho người uống nước sẽ được nước uống.
+{11:26} Kẻ nào đầu cơ tích trữ lúa gạo sẽ bị dân chúng nguyền rủa, Nhưng người bán ra sẽ được chúc phước.
+{11:27} Người nào sốt sắng tìm kiếm điều thiện sẽ tìm thấy ân huệ, Nhưng kẻ theo đuổi điều ác, điều ác sẽ đến với nó.
+{11:28} Kẻ nào tin cậy nơi sự giàu có của mình sẽ ngã, Nhưng người công chính sẽ phát triển như cành lá xanh tươi.
+{11:29} Người nào gây rắc rối cho gia đình mình sẽ chẳng thừa hưởng được gì; Còn kẻ ngu dại sẽ làm đầy tớ cho người có lòng khôn ngoan.
+{11:30} Kết quả của người công chính là cây sự sống; Còn người chinh phục được linh hồn người ta là người khôn ngoan.
+{11:31} Nếu người công chính được báo đáp ngay trên trần thế, Huống gì kẻ gian ác và người tội lỗi.
+{12:1} Người nào yêu sự giáo huấn, yêu tri thức; Ai ghét sự quở trách là kẻ ngu dại.
+{12:2} Người lành nhận được ân huệ từ CHÚA; Nhưng Ngài lên án kẻ âm mưu quỷ quyệt.
+{12:3} Một người không thể nhờ gian ác mà được thiết lập vững chắc; Nhưng rễ của người công chính sẽ không lay chuyển.
+{12:4} Một người vợ đức hạnh là mão triều thiên cho chồng; Còn người vợ đem sỉ nhục khác nào sự mục nát trong xương người.
+{12:5} Tư tưởng của người công chính là công bình; Nhưng mưu kế của kẻ ác là xảo quyệt.
+{12:6} Lời nói của kẻ ác phục kích làm đổ máu; Nhưng môi miệng người ngay thẳng giải cứu người.
+{12:7} Kẻ ác bị lật đổ và nó không còn nữa, Nhưng nhà người công chính vẫn đứng vững.
+{12:8} Một người được khen ngợi nhờ khôn ngoan, Nhưng lòng gian tà sẽ bị khinh miệt.
+{12:9} Thà làm một người tầm thường mà có đầy tớ, Còn tốt hơn một kẻ tự tôn mà thiếu gạo ăn.
+{12:10} Người công chính biết chăm sóc sự sống của súc vật mình; Còn lòng thương xót của kẻ ác chỉ là tàn bạo.
+{12:11} Người nào cày bừa ruộng đất mình sẽ được nhiều thực phẩm; Còn kẻ theo đuổi chuyện viển vông là kẻ thiếu trí hiểu.
+{12:12} Kẻ ác tham muốn miếng mồi của người tà ác; Nhưng rễ cây người công chính sinh hoa quả.
+{12:13} Kẻ ác mắc bẫy vì môi miệng tội lỗi của nó, Nhưng người công chính thoát khỏi tai họa.
+{12:14} Nhờ kết quả của môi miệng, một người được đầy đủ điều tốt lành; Người ta sẽ được báo đáp tùy công việc tay mình làm.
+{12:15} Đường lối của kẻ ngu dại tự cho là đúng theo mắt nó, Nhưng người khôn ngoan lắng nghe lời cố vấn.
+{12:16} Kẻ ngu dại bộc lộ ngay sự tức giận, Còn người khôn khéo bỏ qua điều mình bị xúc phạm.
+{12:17} Nhân chứng chân thật, nói lên điều công chính; Nhưng kẻ làm chứng gian nói lên sự lừa dối.
+{12:18} Lời nói thiếu suy nghĩ như lưỡi gươm đâm thủng, Nhưng lưỡi người khôn ngoan chữa lành.
+{12:19} Môi chân thật bền vững đời đời, Còn lưỡi gian dối chỉ tồn tại trong chốc lát.
+{12:20} Lòng của kẻ âm mưu gian ác có sự dối trá, Nhưng lòng của người tạo nên hòa giải có sự vui mừng.
+{12:21} Người công chính sẽ không gặp tai hại, Nhưng kẻ ác thì đầy tai họa.
+{12:22} CHÚA ghê tởm môi gian dối, Nhưng người hành động chân thật làm hài lòng Ngài.
+{12:23} Người khôn khéo giấu điều mình hiểu biết, Còn lòng kẻ ngu dại công bố điều ngu xuẩn.
+{12:24} Bàn tay người siêng năng sẽ cai trị, Nhưng kẻ lười biếng sẽ phải lao dịch.
+{12:25} Lo lắng làm cho lòng người mệt mỏi, Nhưng lời lành khiến lòng dạ người ta vui mừng.
+{12:26} Người công chính là người hướng đạo cho bạn mình, Còn con đường của kẻ ác đưa đến lầm lạc.
+{12:27} Kẻ lười biếng không muốn nướng thịt thú mình đã săn được, Nhưng sự siêng năng là gia tài quý báu của một người.
+{12:28} Trong con đường công chính có sự sống, Trên lối ấy không có sự chết.
+{13:1} Con khôn ngoan nghe lời giáo huấn của cha; Nhưng kẻ nhạo báng không chịu nghe lời quở trách.
+{13:2} Nhờ kết quả của môi miệng mình một người hưởng những vật tốt lành; Nhưng tham vọng của người xảo trá là hung bạo.
+{13:3} Người nào gìn giữ môi miệng, giữ linh hồn mình; Còn hủy hoại sẽ đến với kẻ hay hở môi.
+{13:4} Linh hồn kẻ lười biếng mong muốn nhưng chẳng được gì; Linh hồn người siêng năng được đầy đủ.
+{13:5} Người công chính ghét lời gian dối; Còn kẻ ác làm điều đáng hổ thẹn và nhục nhã.
+{13:6} Sự công chính gìn giữ người theo đường ngay thẳng, Nhưng sự gian ác đánh đổ kẻ tội lỗi.
+{13:7} Có người làm ra vẻ giàu nhưng không có gì cả; Có kẻ làm ra vẻ nghèo nhưng lại có nhiều của cải.
+{13:8} Của cải của một người là tiền chuộc mạng cho người ấy; Nhưng người nghèo không lo sợ lời hăm dọa.
+{13:9} Ánh sáng của người công chính là niềm vui; Nhưng đèn của kẻ gian ác sẽ tắt.
+{13:10} Kiêu ngạo chỉ sinh điều cãi cọ; Còn khôn ngoan thuộc về người chịu nghe lời cố vấn.
+{13:11} Của cải phi nghĩa sẽ hao mòn; Nhưng người nào thu góp từng chút sẽ thêm nhiều.
+{13:12} Hy vọng bị trì hoãn làm lòng dạ đau đớn; Còn ước vọng thành đạt là cây sự sống.
+{13:13} Kẻ nào khinh lời giáo huấn sẽ bị hủy diệt, Nhưng ai kính sợ điều răn sẽ được thưởng.
+{13:14} Sự dạy dỗ của người khôn ngoan là nguồn sự sống, Để tránh cạm bẫy sự chết.
+{13:15} Sự hiểu biết đúng đem lại sự quý mến, Nhưng đường lối của kẻ vô tín sẽ bị khó khăn.
+{13:16} Người khôn ngoan làm theo mọi sự hiểu biết, Còn kẻ ngu dại phô trương sự ngu xuẩn.
+{13:17} Sứ giả gian ác sẽ gặp tai họa; Nhưng đại sứ chân chính đem lại sự chữa lành.
+{13:18} Kẻ bỏ qua lời giáo huấn sẽ bị nghèo khổ và nhục nhã; Nhưng người chịu nghe lời quở trách sẽ được tôn trọng.
+{13:19} Ước vọng được thành đạt là điều ngọt ngào cho linh hồn; Nhưng từ bỏ điều ác lấy làm gớm ghiếc đối với kẻ ngu dại.
+{13:20} Người nào đi với người khôn ngoan sẽ khôn ngoan, Nhưng làm bạn với kẻ ngu dại sẽ bị thiệt hại.
+{13:21} Bất hạnh theo đuổi kẻ tội lỗi, Nhưng người công chính được thưởng phúc lành.
+{13:22} Người lành để gia tài cho con cháu mình, Nhưng của cải của kẻ tội lỗi được tích trữ cho người công chính.
+{13:23} Ruộng mới của người nghèo sinh nhiều lương thực, Nhưng nó bị quét sạch vì bất công.
+{13:24} Người nào kiêng roi vọt, ghét con cái mình; Nhưng người yêu con cái mình chăm lo giáo huấn chúng.
+{13:25} Người công chính ăn uống thỏa thuê; Nhưng bụng kẻ ác sẽ đói.
+{14:1} Người đàn bà khôn ngoan xây dựng nhà mình, Nhưng phụ nữ ngu dại lấy tay phá hủy nó.
+{14:2} Người nào sống ngay thẳng kính sợ CHÚA, Người nào theo đường lối quỷ quyệt khinh bỉ Ngài.
+{14:3} Trong miệng kẻ ngu dại có cây roi dành cho kẻ kiêu ngạo, Nhưng môi người khôn ngoan gìn giữ người.
+{14:4} Nơi nào không có trâu bò thì máng cỏ cũng trống không; Nhưng sức bò đực đem hoa lợi đến.
+{14:5} Nhân chứng thành thật không gian dối, Nhưng nhân chứng giả thốt ra sự dối trá.
+{14:6} Kẻ nhạo báng tìm kiếm khôn ngoan nhưng không thấy; Còn sự hiểu biết đến dễ dàng với người sáng suốt.
+{14:7} Hãy tránh mặt người ngu dại, Vì con sẽ không học được lời tri thức.
+{14:8} Sự khôn ngoan của người khôn khéo là hiểu biết đường lối mình; Sự ngu xuẩn của kẻ ngu dại là sự lừa gạt.
+{14:9} Kẻ ngu dại chế nhạo tế lễ chuộc lỗi, Nhưng giữa vòng người ngay thẳng có ơn Đức Chúa Trời.
+{14:10} Chỉ có lòng mình hiểu được sự cay đắng của linh hồn mình, Và người ngoài không thể chia sẻ niềm vui của nó.
+{14:11} Nhà của kẻ ác sẽ bị phá hủy, Nhưng trại người ngay thẳng sẽ phát đạt.
+{14:12} Có một con đường dường như chính đáng cho loài người, Nhưng cuối cùng là con đường sự chết.
+{14:13} Dù trong lúc cười lòng vẫn có thể buồn, Và cuối cùng của cuộc vui là sự sầu khổ.
+{14:14} Lòng gian tà sẽ bị báo trả theo đường lối nó, Nhưng người thiện nhận phần thưởng theo công việc mình.
+{14:15} Người đơn sơ tin cậy mọi lời nói, Nhưng người khôn khéo xem xét bước đường mình.
+{14:16} Người khôn ngoan sợ và tránh điều ác, Nhưng kẻ ngu dại thì kiêu căng và thiếu thận trọng.
+{14:17} Người nóng tính hành động ngu dại; Và kẻ mưu mô sẽ bị ghét.
+{14:18} Kẻ ngu dại thừa hưởng sự ngu xuẩn Nhưng người khôn khéo được đội mão tri thức.
+{14:19} Kẻ ác sẽ phải quỳ lạy trước mặt người thiện, Và người gian ác cúi đầu ở trước cổng người công chính.
+{14:20} Một người nghèo, ngay cả người láng giềng cũng ghét; Nhưng người giàu thì có nhiều người yêu thương.
+{14:21} Người nào khinh kẻ láng giềng là người phạm tội, Nhưng phước thay cho người nhân từ với kẻ nghèo khó.
+{14:22} Không phải những kẻ mưu toan việc ác sẽ lầm lạc sao? Nhưng những người mưu tính điều thiện sẽ được tình yêu thương và trung tín.
+{14:23} Mọi lao động đều đem lại lợi ích, Nhưng lời nói suông chỉ dẫn đến nghèo khổ.
+{14:24} Mão của người khôn ngoan là sự giàu có của họ, Nhưng sự ngu xuẩn của kẻ ngu dại vẫn là ngu xuẩn.
+{14:25} Một nhân chứng thành thật cứu mạng sống, Nhưng ai nói dối là kẻ lừa gạt.
+{14:26} Trong sự kính sợ CHÚA có lòng tin tưởng chắc chắn, Và con cái người được nơi trú ẩn.
+{14:27} Sự kính sợ CHÚA là nguồn sự sống, Để tránh cạm bẫy sự chết.
+{14:28} Dân cư đông đúc là sự vinh quang của vua; Thiếu dân hoàng tử cũng sụp đổ.
+{14:29} Người chậm nóng giận có nhiều sáng suốt; Nhưng người hay nóng tính bày tỏ sự điên rồ.
+{14:30} Tấm lòng bình an là sự sống của thể xác; Nhưng ghen ghét làm xương cốt mục nát.
+{14:31} Người nào áp bức người nghèo làm nhục Đấng Tạo Hóa mình; Còn ai làm ơn cho người nghèo tôn trọng Ngài.
+{14:32} Kẻ ác sẽ sụp đổ vì hành vi ác của mình, Nhưng người công chính dù trong cái chết cũng có nơi trú ẩn.
+{14:33} Khôn ngoan ở trong lòng người sáng suốt; Còn điều ở bên trong kẻ ngu dại cũng bị tiết lộ.
+{14:34} Sự công chính tôn cao một quốc gia; Nhưng tội lỗi gây điều sỉ nhục cho bất cứ một dân tộc nào.
+{14:35} Tôi tớ khôn ngoan được ơn của vua, Nhưng cơn giận dữ của vua dành cho kẻ hành động xấu hổ.
+{15:1} Lời đáp dịu dàng làm nguôi cơn giận; Còn lời nói sỗ sàng gây ra tức giận.
+{15:2} Lưỡi người khôn ngoan truyền rao tri thức; Nhưng miệng kẻ ngu dại tuôn ra điều ngu xuẩn.
+{15:3} Con mắt của CHÚA ở khắp mọi nơi, Quan sát kẻ ác cũng như người thiện.
+{15:4} Lưỡi hiền lành là cây sự sống, Còn lưỡi gian tà làm tinh thần suy sụp.
+{15:5} Kẻ ngu dại khinh sự giáo huấn của cha mình; Nhưng người khôn khéo nghe lời quở trách.
+{15:6} Nhà của người công chính có kho báu lớn, Nhưng trong hoa lợi của kẻ ác có điều tai họa.
+{15:7} Môi miệng người khôn ngoan rao truyền tri thức, Nhưng tâm trí kẻ ngu dại thì không như thế.
+{15:8} Tế lễ hy sinh của người gian ác lấy làm ghê tởm cho CHÚA; Nhưng lời cầu nguyện của người ngay thẳng là niềm vui của Ngài.
+{15:9} CHÚA ghê tởm đường lối kẻ ác, Nhưng Ngài yêu mến người theo đuổi sự công chính.
+{15:10} Kẻ từ bỏ chính lộ sẽ bị phạt nặng; Người ghét sự quở trách sẽ chết.
+{15:11} Âm Phủ và sự hủy diệt còn mở toang trước mặt CHÚA Huống gì lòng dạ loài người.
+{15:12} Kẻ nhạo báng không thích bị quở trách; Nó không muốn đến cùng người khôn ngoan.
+{15:13} Lòng vui tươi làm mặt mày hớn hở; Lòng buồn rầu, tinh thần suy sụp.
+{15:14} Lòng dạ sáng suốt tìm kiếm tri thức, Nhưng miệng kẻ ngu dại ăn điều ngu xuẩn.
+{15:15} Người khốn khổ thấy mỗi ngày đều là hoạn nạn, Nhưng tấm lòng vui mừng dự tiệc luôn luôn.
+{15:16} Thà có ít của cải nhưng kính sợ CHÚA Hơn là nhiều châu báu mà bối rối kèm theo.
+{15:17} Thà một bữa cơm rau nhưng có tình yêu thương Hơn là một con bò mập mà thù ghét cặp theo.
+{15:18} Kẻ nóng tính gây sự xung đột, Nhưng người chậm nóng giận làm nguôi cuộc cãi vã.
+{15:19} Con đường của kẻ lười biếng như bờ rào gai, Nhưng đường lối của người ngay thẳng như đường cái quan.
+{15:20} Đứa con khôn ngoan làm cha nó vui lòng, Nhưng kẻ ngu dại khinh bỉ mẹ nó.
+{15:21} Sự ngu xuẩn là niềm vui của kẻ thiếu tâm trí; Nhưng người sáng suốt bước đi ngay thẳng.
+{15:22} Kế hoạch không thành vì thiếu sự hướng dẫn; Nhưng nhờ nhiều người cố vấn nó sẽ thành công.
+{15:23} Miệng đối đáp giỏi là niềm vui cho một người Và lời nói hợp lúc tốt đẹp biết bao.
+{15:24} Con đường sự sống dẫn người khôn ngoan đi lên Và tránh khỏi Âm phủ phía dưới.
+{15:25} CHÚA sẽ phá hủy nhà kẻ kiêu ngạo, Nhưng Ngài thiết lập một ranh giới cho người góa bụa.
+{15:26} Mưu kế ác là điều ghê tởm cho CHÚA Nhưng lời nói nhân hậu đẹp lòng Ngài.
+{15:27} Kẻ tham lợi phi nghĩa gây họa cho nhà mình; Nhưng người ghét của hối lộ sẽ sống.
+{15:28} Lòng người công chính cân nhắc lời đối đáp, Nhưng miệng kẻ ác tuôn ra lời độc địa.
+{15:29} CHÚA ở xa người gian ác, Nhưng Ngài nghe lời cầu nguyện của người công chính.
+{15:30} Con mắt sáng láng làm tấm lòng vui vẻ; Tin mừng làm xương cốt khỏe mạnh.
+{15:31} Người nào có tai lắng nghe lời quở trách của sự sống, Sẽ được ở giữa những người khôn ngoan.
+{15:32} Ai từ khước sự giáo huấn, khinh bỉ linh hồn mình, Nhưng người nghe lời quở trách được thêm sự hiểu biết.
+{15:33} Sự kính sợ CHÚA giáo huấn một người trở thành khôn ngoan, Và khiêm nhường đi trước sự vinh dự.
+{16:1} Kế hoạch đến từ lòng người, Nhưng sự đáp lời của lưỡi đến từ CHÚA.
+{16:2} Mọi đường lối của một người đều là trong sạch theo mắt mình, Nhưng CHÚA cân nhắc tấm lòng.
+{16:3} Hãy giao phó công việc mình cho CHÚA Thì kế hoạch con sẽ thành tựu.
+{16:4} CHÚA đã tạo dựng nên muôn vật vì mục đích của nó; Ngay cả những kẻ ác dành cho ngày tai họa.
+{16:5} Mọi tấm lòng tự cao đều ghê tởm đối với CHÚA; Chắc chắn chúng sẽ không tránh khỏi hình phạt.
+{16:6} Nhờ tình yêu thương và chân lý tội lỗi được chuộc; Vì sự kính sợ CHÚA người ta tránh điều ác.
+{16:7} Khi đường lối một người đẹp lòng CHÚA, Ngài làm cho kẻ thù của người ấy cũng hòa thuận với người.
+{16:8} Lợi ít trong công chính Tốt hơn là lời nhiều mà bất công.
+{16:9} Lòng người hoạch định đường lối mình, Nhưng CHÚA hướng dẫn các bước người.
+{16:10} Lời phán từ môi vua như sấm ngôn, Miệng vua không vi phạm khi đoán xét.
+{16:11} Cán cân và cân công bình thuộc về CHÚA; Mọi quả cân trong bao đều là công việc của Ngài.
+{16:12} Hành động gian ác là điều ghê tởm cho các vua, Vì ngôi vua được thiết lập nhờ sự công chính.
+{16:13} Môi miệng công chính làm vua vui lòng, Và lời nói ngay thẳng được người yêu chuộng.
+{16:14} Cơn giận của vua như sứ giả sự chết, Nhưng người khôn ngoan làm dịu cơn giận.
+{16:15} Khi mặt vua sáng ngời, ấy là sự sống; Còn ân sủng của người như đám mây đem lại mưa xuân.
+{16:16} Nhận được khôn ngoan là điều tốt hơn vàng, Và được sáng suốt là điều đáng chuộng hơn bạc.
+{16:17} Con đường ngay thẳng là tránh điều ác; Kẻ canh gác đường lối mình, gìn giữ linh hồn mình.
+{16:18} Kiêu ngạo đi trước sự hủy diệt; Tự cao đi trước sự sa ngã.
+{16:19} Thà có tinh thần khiêm nhường với người cùng khốn, Hơn là chia của cướp với kẻ kiêu ngạo.
+{16:20} Người chú tâm vào đạo lý sẽ được thịnh vượng; Phước cho người tin cậy nơi CHÚA.
+{16:21} Người có lòng khôn ngoan được gọi là người sáng suốt; Lời nói ngọt ngào làm tăng thêm sự thuyết phục.
+{16:22} Người nào có sự hiểu biết là có nguồn sự sống; Ngu xuẩn là hình phạt cho những kẻ ngu dại.
+{16:23} Lòng khôn ngoan dạy dỗ miệng mình, Và làm cho môi tăng sự thuyết phục.
+{16:24} Lời nói dịu dàng như tàng mật ong, Ngọt ngào cho tâm hồn và lành mạnh cho xương cốt.
+{16:25} Có một con đường dường như đúng cho loài người, Nhưng cuối cùng là con đường sự chết.
+{16:26} Miếng ăn ngon làm người ta lao động; Vì miệng đói thúc đẩy người làm việc.
+{16:27} Tên vô lại âm mưu điều ác; Môi miệng nó như lửa thiêu đốt.
+{16:28} Kẻ gian tà gieo điều tranh chấp; Người nói xấu phân rẽ bạn thân.
+{16:29} Người hung bạo lôi cuốn kẻ lân cận mình, Và dẫn nó vào con đường không tốt.
+{16:30} Kẻ hay nháy mắt làm dấu, âm mưu điều gian tà; Người mím môi là kẻ đã làm việc ác.
+{16:31} Tóc bạc là mão triều vinh hiển; Người ta nhờ đường lối công chính mà được.
+{16:32} Chậm nóng giận thắng hơn một dũng sĩ; Tự chủ tâm thần tốt hơn chiếm lấy một thành.
+{16:33} Thăm được rút từ trong vạt áo; Nhưng mọi quyết định đều đến từ CHÚA.
+{17:1} Thà một miếng bánh khô mà yên lành, Hơn là nhà đầy thịt tế lễ mà tranh chấp.
+{17:2} Người đầy tớ hành động khôn ngoan, Sẽ cai trị trên người con trai hành động ô nhục; Và sẽ hưởng gia tài cùng với các anh em.
+{17:3} Lò đúc để luyện bạc, lò luyện kim để luyện vàng, Nhưng CHÚA thử nghiệm tấm lòng.
+{17:4} Kẻ ác lắng nghe môi gian ác; Kẻ dối trá lắng nghe lưỡi hiểm độc.
+{17:5} Kẻ nhạo báng người nghèo khó làm nhục Đấng Tạo Hóa mình; Kẻ vui mừng vì tai họa sẽ không tránh khỏi hình phạt.
+{17:6} Cháu chắt là mão triều thiên của người già. Sự vinh hiển của các con là cha mẹ.
+{17:7} Môi miệng thanh cao không xứng với kẻ ngu xuẩn; Môi miệng dối trá lại càng không hợp với bậc vương giả.
+{17:8} Của hối lộ như cái bùa trước mắt người sử dụng nó; Người xoay về hướng nào cũng thành công.
+{17:9} Người nào bỏ qua lầm lỗi, tìm kiếm sự thương mến nhau; Còn cứ nhắc lại lỗi lầm phân rẽ bạn bè.
+{17:10} Một lời quở trách sẽ thấm sâu vào người hiểu biết, Hơn là trăm roi đánh kẻ ngu dại.
+{17:11} Kẻ gian ác chỉ tìm kiếm sự phản loạn; Nhưng một sứ giả độc ác sẽ được sai đi đánh nó.
+{17:12} Thà gặp phải gấu cái mất con Hơn là gặp một kẻ ngu dại trong cơn ngu xuẩn của nó.
+{17:13} Kẻ nào lấy ác trả thiện, Họa sẽ không rời khỏi nhà nó.
+{17:14} Khởi đầu cuộc tranh chấp như việc vỡ đê; Vậy hãy chấm dứt tranh cãi trước khi nó bùng nổ.
+{17:15} Tuyên xưng công chính cho kẻ ác cũng như lên án người công chính; Cả hai đều ghê tởm đối với CHÚA.
+{17:16} Ích lợi gì cho một kẻ ngu dại cầm bạc trong tay, Để mua khôn ngoan khi nó thiếu tâm trí?
+{17:17} Một người bạn yêu mến nhau luôn, Và anh em sinh ra để giúp đỡ nhau trong lúc hoạn nạn.
+{17:18} Người thiếu tâm trí là người bắt tay bảo lãnh, Người bảo lãnh cho người láng giềng.
+{17:19} Người nào thích vi phạm, thích tranh chấp; Kẻ nâng cổng nhà cho cao lên, tìm kiếm sự sụp đổ.
+{17:20} Kẻ có lòng gian tà không tìm được phúc lành, Và kẻ có lưỡi gian tà sẽ sa vào tai họa.
+{17:21} Người sinh con ngu dại sẽ buồn thảm; Cha của kẻ ngu dại cũng không có niềm vui.
+{17:22} Tấm lòng vui vẻ là liều thuốc hay; Tinh thần suy sụp làm xương cốt khô héo.
+{17:23} Kẻ ác thầm lén nhận hối lộ Để làm sai lệch đường lối công bình.
+{17:24} Khôn ngoan ở trước mặt người sáng suốt, Nhưng mắt của kẻ ngu dại ở nơi tận cùng quả đất.
+{17:25} Con trai ngu dại là sự buồn thảm cho cha, Là nỗi cay đắng cho mẹ sinh ra nó.
+{17:26} Phạt người vô tội là sai lầm, Cũng như đánh đòn bậc vương giả vì lòng ngay thẳng của họ.
+{17:27} Người gìn giữ lời nói là người hiểu biết; Người có tinh thần trầm tĩnh là người sáng suốt.
+{17:28} Khi im lặng dù người ngu cũng được kể là khôn; Người kiềm chế môi miệng được coi là sáng suốt.
+{18:1} Người nào sống cô độc tìm kiếm dục vọng riêng; Nó chống lại với mọi quyết định khôn ngoan.
+{18:2} Kẻ ngu dại không thích sự sáng suốt; Nó chỉ muốn bày tỏ ý kiến riêng.
+{18:3} Khi sự gian ác đến, khinh bỉ cũng đến; Và khi sự xấu hổ đến, nhục nhã cũng theo.
+{18:4} Lời nói từ miệng một người như vực nước sâu; Nguồn khôn ngoan như dòng suối tuôn chảy.
+{18:5} Thiên vị kẻ gian ác Hay tước đoạt sự công bình của kẻ vô tội là điều sai lầm.
+{18:6} Môi kẻ ngu dại đem lại tranh chấp; Miệng nó mời mọc một trận đòn.
+{18:7} Miệng kẻ ngu dại là sự hủy hoại cho nó; Môi nó là cái bẫy gài linh hồn mình.
+{18:8} Lời của kẻ mách lẻo như miếng ăn ngon, Nó thấm sâu vào ruột gan.
+{18:9} Kẻ chểnh mảng trong công việc mình Là anh em với kẻ phá hoại.
+{18:10} Danh CHÚA là ngọn tháp vĩ đại; Người công chính chạy vào đó và được an toàn.
+{18:11} Tài sản của một kẻ giàu là cái thành kiên cố của người; Trong trí tưởng tượng của người nó như bức tường cao.
+{18:12} Lòng tự cao đi trước sự hủy hoại; Lòng khiêm nhường đi trước sự vinh quang.
+{18:13} Trả lời trước khi nghe; Ấy là sự ngu xuẩn và hổ thẹn.
+{18:14} Tinh thần của một người có thể chịu đựng bệnh tật; Nhưng khi tinh thần sụp đổ thì ai có thể chịu đựng nổi?
+{18:15} Tâm trí người sáng suốt tiếp nhận sự tri thức; Tai người khôn ngoan tìm kiếm sự hiểu biết.
+{18:16} Tặng phẩm của một người mở đường cho họ, Và đem họ đến trước mặt kẻ quyền thế.
+{18:17} Người biện hộ trước có vẻ hợp lý, Cho đến khi người kia đến thẩm vấn người.
+{18:18} Rút thăm sẽ chấm dứt tranh chấp, Và phân cách hai đối thủ mạnh.
+{18:19} Lấy lòng một anh chị em bị xúc phạm khó hơn chiếm một thành trì kiên cố; Sự tranh chấp ấy giống như một lâu đài then cài cổng đóng.
+{18:20} Nhờ kết quả của miệng, một người được no bụng; Sản phẩm của môi giúp người no đủ.
+{18:21} Sống chết ở trong tay của lưỡi; Kẻ nào yêu mến nó sẽ ăn bông trái của nó.
+{18:22} Người nào tìm được một người vợ tìm được phúc lành, Và hưởng ân huệ từ CHÚA.
+{18:23} Người nghèo dùng lời cầu khẩn; Người giàu trả lời thô bạo.
+{18:24} Người có nhiều bạn bè có thể là tai hại; Nhưng một người bạn thân gần gũi hơn anh em ruột.
+{19:1} Thà nghèo mà sống chính trực Hơn là kẻ có môi miệng gian tà và ngu dại.
+{19:2} Lòng nhiệt thành mà thiếu hiểu biết cũng không tốt; Kẻ bước đi vội vã sẽ trượt ngã.
+{19:3} Sự ngu dại của một người làm đường lối người hư hại, Rồi lòng người lại oán trách CHÚA.
+{19:4} Giàu có thêm nhiều bạn hữu, Nhưng nghèo khó bạn lại bỏ rơi.
+{19:5} Người làm chứng gian sẽ bị trừng phạt, Và kẻ nói dối sẽ không tránh khỏi.
+{19:6} Người quyền quý được nhiều kẻ nịnh hót, Và mọi người đều là bạn của người hay ban tặng.
+{19:7} Ngay cả anh em của người nghèo khó cũng ghét người, Huống gì bè bạn lại không xa lánh người; Người chạy theo năn nỉ, Họ không còn ở đó nữa.
+{19:8} Ai nhận được lòng khôn ngoan, yêu mến linh hồn mình; Người nào giữ được sự sáng suốt, tìm được phúc lành.
+{19:9} Người làm chứng gian sẽ bị trừng phạt, Và kẻ nói dối sẽ bị hủy diệt.
+{19:10} Xa hoa không xứng với kẻ ngu dại; Huống hồ kẻ nô lệ cai trị hoàng tử.
+{19:11} Người hiểu biết chậm nóng giận, Và vì sự vinh hiển của mình, người bỏ qua sự xúc phạm.
+{19:12} Cơn giận của vua khác nào sư tử rống, Nhưng ân huệ của vua như sương móc trên cỏ.
+{19:13} Một đứa con ngu dại làm tai hại cho cha; Một người vợ hay cằn nhằn như nước mưa nhỏ giọt không dứt.
+{19:14} Nhà cửa và tài sản là cơ nghiệp thừa hưởng của cha ông; Nhưng một người vợ khôn ngoan đến từ CHÚA.
+{19:15} Lười biếng làm cho người ta ngủ mê, Và người ở không thì sẽ bị đói.
+{19:16} Người nào giữ điều răn, gìn giữ linh hồn mình; Còn kẻ khinh thường đường lối mình sẽ chết.
+{19:17} Người nào nhân từ đối với người nghèo là cho CHÚA vay mượn; Ngài sẽ đền đáp cho việc lành của người.
+{19:18} Hãy thi hành kỷ luật đối với con cái vì còn hy vọng, Nhưng đừng định tâm giết nó.
+{19:19} Kẻ hay giận dữ sẽ phải trả giá hình phạt; Nếu con giải cứu nó, con lại phải làm nữa.
+{19:20} Hãy nghe lời khuyên, nhận sự giáo huấn, Để cuối cùng con trở nên khôn ngoan.
+{19:21} Lòng người có nhiều kế hoạch, Nhưng ý định của CHÚA mới được thành tựu.
+{19:22} Điều người ta mong muốn nơi một người là lòng trung thành; Thà làm một người nghèo hơn là kẻ dối trá.
+{19:23} Kính sợ CHÚA dẫn đến sự sống; Được mãn nguyện và tai họa không đụng đến.
+{19:24} Kẻ lười biếng thò tay vào đĩa, Rồi cũng không đưa tay lên miệng.
+{19:25} Hãy đánh đòn kẻ nhạo báng thì kẻ đơn sơ sẽ học khôn; Hãy quở trách người hiểu biết thì người sẽ học được tri thức.
+{19:26} Kẻ bạc đãi cha, xô đuổi mẹ Là đứa con xấu hổ và nhục nhã.
+{19:27} Hỡi con, khi con thôi, không nghe lời giáo huấn nữa, Con sẽ lầm lạc xa lời tri thức.
+{19:28} Nhân chứng vô lại chế nhạo sự công bình; Miệng kẻ gian ác nuốt điều tội lỗi.
+{19:29} Án phạt đã dành sẵn cho kẻ nhạo báng, Và roi vọt dành cho lưng kẻ ngu dại.
+{20:1} Rượu nho là kẻ nhạo báng, rượu mạnh là kẻ cãi lộn; Người nào bị nó quyến rũ không phải người khôn.
+{20:2} Cơn thịnh nộ của vua như sư tử rống; Kẻ nào chọc giận vua ắt phạm đến mạng sống mình.
+{20:3} Tránh tranh cãi là vinh dự cho con người, Còn kẻ ngu dại hay cãi cọ.
+{20:4} Kẻ lười biếng không cày cấy lúc mùa đông, Nên vào mùa gặt người tìm kiếm nhưng chẳng thấy gì.
+{20:5} Ý định trong lòng người như nước sâu, Nhưng người sáng suốt sẽ múc lấy.
+{20:6} Nhiều người tuyên bố rằng mình trung thành, Nhưng ai tìm được một người trung tín?
+{20:7} Người công chính sống trong thành thực; Con cái đến sau họ sẽ được phước.
+{20:8} Vua ngồi trên ngai đoán xét, Người lấy mắt sàng sảy mọi điều ác.
+{20:9} Ai có thể nói ta đã luyện sạch lòng ta; Ta trong sạch khỏi tội lỗi?
+{20:10} Cân nhẹ, đo thiếu, Cả hai đều gớm ghiếc đối với CHÚA.
+{20:11} Ngay cả trẻ con cũng được bày tỏ qua hành động; Trong sự cư xử của chúng, trong sạch hay ngay thẳng.
+{20:12} Tai để nghe, mắt để thấy; CHÚA tạo nên cả hai.
+{20:13} Chớ yêu thích ngủ nghê e rằng con sẽ nghèo khổ; Hãy mở mắt ra thì con sẽ đầy đủ cơm gạo.
+{20:14} Khách mua hàng chê “xấu! xấu!” Nhưng khi đi khỏi đó thì lại khen.
+{20:15} Có vàng và nhiều ngọc quý, Nhưng môi miệng có tri thức là châu ngọc quý giá.
+{20:16} Hãy lấy áo nó vì nó bảo lãnh cho người xa lạ; Hãy giữ nó làm bảo đảm vì nó bảo lãnh cho người đàn bà xa lạ.
+{20:17} Bánh gian dối lấy làm ngọt ngào, Nhưng cuối cùng miệng nó sẽ đầy sạn.
+{20:18} Kế hoạch thành tựu nhờ cố vấn; Tham chiến phải được hướng dẫn khôn ngoan.
+{20:19} Kẻ ngồi lê đôi mách hay tiết lộ bí mật, Vậy chớ giao du với kẻ hở môi.
+{20:20} Kẻ nào rủa sả cha mẹ; Ngọn đèn nó sẽ tắt trong tối tăm mù mịt.
+{20:21} Sản nghiệp nhận được vội vàng lúc đầu, Về sau sẽ không được chúc phước.
+{20:22} Chớ nói rằng: Ta sẽ báo trả điều ác, Hãy chờ đợi CHÚA, Ngài sẽ giải cứu con.
+{20:23} Trái cân nhẹ là điều ghê tởm đối với CHÚA; Cây cân gian trá là điều không đẹp lòng Ngài.
+{20:24} Những bước đường của một người đến từ CHÚA; Vậy thì làm sao một người hiểu được đường lối của mình?
+{20:25} Ấy là một cái bẫy cho người nào cung hiến điều gì cách vội vã, Rồi sau khi thề nguyện mới suy nghĩ lại.
+{20:26} Một vua khôn ngoan sàng lọc kẻ gian ác, Và cho bánh xe đập lúa cán trên chúng.
+{20:27} Tâm linh trong con người là ngọn đèn của CHÚA, Nó xem xét mọi nơi sâu kín nhất trong lòng.
+{20:28} Tình yêu thương và trung tín gìn giữ một vị vua; Ngôi vua được bền vững nhờ tình yêu thương.
+{20:29} Sự vinh quang của tuổi trẻ là sức lực, Và vinh hiển của người già là tóc bạc.
+{20:30} Những lằn roi làm đau đớn sẽ tẩy sạch điều ác; Đòn vọt làm sạch nơi sâu kín nhất trong lòng.
+{21:1} Lòng của vua như dòng nước trong tay CHÚA; Ngài định hướng cho nó chảy về nơi nào tùy ý Ngài.
+{21:2} Mọi đường lối của một người đều ngay thẳng trước mắt mình, Nhưng CHÚA xem xét tấm lòng.
+{21:3} Hành động công chính và công bình Đẹp lòng CHÚA hơn là lễ vật sinh tế.
+{21:4} Mắt tự cao, lòng kiêu ngạo, Ngọn đèn của kẻ gian ác đều là tội lỗi.
+{21:5} Kế hoạch của người cần mẫn chắc chắn sẽ đưa đến dư dật, Nhưng mọi kẻ hấp tấp sẽ đưa đến thiếu thốn.
+{21:6} Của cải kiếm được nhờ lưỡi dối trá, Như hơi nước thoáng qua của kẻ tìm kiếm sự chết.
+{21:7} Bạo lực của kẻ ác sẽ lôi cuốn chúng nó đi, Vì chúng từ khước làm điều công bình.
+{21:8} Con đường của kẻ phạm tội là cong vẹo, Nhưng hành động của người trong sạch thì ngay thẳng.
+{21:9} Thà ở nơi góc mái nhà, Còn hơn là sống chung nhà với một người đàn bà hay cãi cọ.
+{21:10} Linh hồn kẻ ác mong ước điều ác; Người láng giềng nó không được ơn trước mắt nó.
+{21:11} Khi kẻ nhạo báng bị trừng phạt, người đơn sơ sẽ học khôn; Khi người khôn ngoan được giáo huấn, người sẽ nhận được tri thức.
+{21:12} Đấng Công Chính quan sát nhà kẻ ác; Ngài ném kẻ ác vào tai họa.
+{21:13} Người nào bịt tai không nghe tiếng kêu la của kẻ nghèo khổ, Khi người ấy kêu van cũng sẽ không được đáp lời.
+{21:14} Quà biếu kín đáo sẽ làm nguôi cơn giận; Của hối lộ bỏ vào lòng sẽ làm nguôi cơn giận.
+{21:15} Hành động công bình là niềm vui cho người công chính, Nhưng là sự kinh hoàng cho kẻ làm tội ác.
+{21:16} Người nào đi lạc khỏi con đường khôn ngoan Sẽ an nghỉ trong hội người chết.
+{21:17} Kẻ ham vui thú sẽ nghèo khổ; Người mê rượu và dầu thơm sẽ không thể giàu có.
+{21:18} Kẻ gian ác là tiền chuộc mạng cho người công chính; Kẻ xảo trá sẽ thế chỗ cho người ngay thẳng.
+{21:19} Thà sống trong sa mạc, Hơn là sống với người đàn bà hay cãi cọ và than phiền.
+{21:20} Châu báu và dầu ở trong nhà người khôn ngoan; Nhưng kẻ ngu dại ăn tiêu hết.
+{21:21} Người nào theo đuổi sự công chính và tình yêu thương, Sẽ tìm thấy sự sống, công chính và vinh quang.
+{21:22} Người khôn ngoan tấn công thành trì kẻ mạnh, Người đánh đổ đồn lũy mà họ tin cậy.
+{21:23} Người nào gìn giữ miệng lưỡi, Gìn giữ linh hồn khỏi hoạn nạn.
+{21:24} Tên của kẻ nhạo báng là kiêu ngạo và tự cao; Nó hành động láo xược và kiêu căng.
+{21:25} Dục vọng của kẻ lười biếng, Sẽ giết chết nó vì tay nó từ chối làm việc.
+{21:26} Suốt ngày kẻ tham lam chỉ ham muốn; Nhưng người công chính hay ban cho và không bủn xỉn.
+{21:27} Vật tế lễ của kẻ gian ác là vật gớm ghiếc; Huống gì khi chúng dâng với ác ý.
+{21:28} Kẻ làm chứng dối sẽ bị hủy diệt, Nhưng người biết nghe sẽ được nói mãi mãi.
+{21:29} Kẻ ác mặt dày mày dạn, Nhưng người ngay thẳng thiết lập đường lối mình.
+{21:30} Không có sự khôn ngoan, sáng suốt, Hay cố vấn nào thắng hơn CHÚA.
+{21:31} Ngựa được trang bị cho ngày chiến trận, Nhưng chiến thắng thuộc về CHÚA.
+{22:1} Tốt danh hơn giàu có; Ân phúc hơn vàng bạc.
+{22:2} Người giàu, kẻ nghèo đều có chung một điều: CHÚA tạo nên cả hai.
+{22:3} Người khôn ngoan thấy tai họa và tránh khỏi, Nhưng người ngu dại cứ đi lên và lâm nạn.
+{22:4} Phần thưởng của sự khiêm nhường và kính sợ CHÚA, Là giàu có, vinh dự và sự sống.
+{22:5} Gai góc và cạm bẫy ở trên đường kẻ gian tà; Người nào gìn giữ linh hồn mình tránh xa chúng.
+{22:6} Hãy huấn luyện trẻ thơ con đường chúng nên theo, Để khi về già chúng cũng không đi lạc.
+{22:7} Người giàu cai trị kẻ nghèo Và kẻ nào vay mượn là đầy tớ của kẻ cho mượn.
+{22:8} Kẻ nào gieo bất công sẽ gặt tai họa, Và cây gậy giận dữ của nó sẽ gãy.
+{22:9} Người nào có mắt nhân từ sẽ được phước, Vì người cho kẻ nghèo bánh của mình.
+{22:10} Hãy đuổi kẻ nhạo báng đi thì sự tranh cãi sẽ đi khỏi; Sự cãi cọ và sỉ nhục cũng chấm dứt.
+{22:11} Ai yêu mến tấm lòng trong sạch và môi miệng ân nghĩa Sẽ được kết bạn với vua,
+{22:12} Con mắt CHÚA gìn giữ người hiểu biết, Nhưng Ngài đánh đổ lời của kẻ phản bội.
+{22:13} Kẻ lười biếng nói: có con sư tử ở ngoài đó; Tôi sẽ bị giết ở ngoài đường.
+{22:14} Miệng của người đàn bà ngoại tình là cái hố sâu; Kẻ bị CHÚA giận sẽ rơi vào đó.
+{22:15} Sự ngu dại buộc vào lòng trẻ thơ, Nhưng con roi kỷ luật đuổi điều ấy xa khỏi nó.
+{22:16} Người nào áp bức người nghèo để làm giàu và hối lộ cho người giàu, Cả hai sẽ trở nên nghèo khổ.
+{i22:17} Những Lời Của Người Khôn Ngoan
+{22:17} Hãy nghiêng tai, hãy lắng tai nghe lời của người khôn ngoan; Hãy để tâm con vào tri thức của ta.
+{22:18} Vì con sẽ cảm thấy vui thích khi con giữ nó trong lòng, Và sẵn sàng giữ nó trên môi miệng con.
+{22:19} Ngày nay ta đã cho chính con biết điều đó; Để con sẽ đặt sự tin cậy nơi CHÚA.
+{22:20} Ta đã không viết cho con ba mươi điều hay, Tức là những lời cố vấn và tri thức sao?
+{22:21} Dạy con biết những lời đúng và chân thật, Để con có thể đáp lời Người sai phái con.
+{22:22} Chớ bóc lột người nghèo vì họ nghèo khó; Cũng đừng áp bức người cùng khốn nơi cổng thành;
+{22:23} Vì CHÚA sẽ binh vực họ, Và sẽ đoạt mạng sống những kẻ ức hiếp họ.
+{22:24} Chớ làm bạn với người nóng tính, Đừng kết giao với kẻ hay giận dữ;
+{22:25} E rằng con học theo đường lối nó, Và linh hồn mình bị mắc bẫy chăng.
+{22:26} Chớ như người bắt tay bảo đảm Hay bảo lãnh nợ.
+{22:27} E rằng giường con sẽ bị tịch thu Nếu con không có tiền trả nợ.
+{22:28} Chớ dời cột ranh giới xưa Mà tổ tiên con đã dựng;
+{22:29} Con có thấy người cần mẫn trong công việc mình không? Người ấy sẽ đứng trước mặt các vua, Chứ không đứng trước mặt những người tầm thường đâu.
+{23:1} Khi con ngồi ăn với một quan cai trị, Hãy để ý cẩn thận người trước mặt con;
+{23:2} Hãy để con dao nơi cổ con Nếu con ham ăn.
+{23:3} Chớ thèm các món cao lương mỹ vị của người; Đó là thức ăn lừa gạt.
+{23:4} Đừng lao khổ để làm giàu; Hãy sáng suốt đủ để dừng lại;
+{23:5} Vì khi con chớp mắt nhìn sự giàu sang, Thì nó đã bay mất rồi; Nó thình lình mọc cánh bay bỗng lên trời như chim ưng.
+{23:6} Chớ ăn bánh của người ích kỷ, Cũng đừng thèm các món cao lương mỹ vị của người;
+{23:7} Vì như hắn suy nghĩ trong lòng thể nào, Thì hắn quả như vậy; Hắn bảo con: hãy ăn uống đi, Nhưng lòng nó không hiệp cùng con.
+{23:8} Con sẽ mửa ra miếng bánh mà con đã ăn Và phí đi những lời khen ngợi.
+{23:9} Đừng nói vào tai kẻ ngu dại, Vì nó sẽ khinh bỉ lời khôn ngoan của con.
+{23:10} Chớ dời cột ranh giới xưa, Và đừng xâm chiếm của kẻ mồ côi;
+{23:11} Vì Đấng cứu chuộc chúng vốn quyền năng; Người sẽ binh vực chúng chống lại con.
+{23:12} Hãy để tâm vào lời giáo huấn, Và lắng tai nghe lời tri thức.
+{23:13} Chớ tránh thi hành kỷ luật đối với trẻ thơ; Nếu con phạt nó bằng roi, nó sẽ không chết;
+{23:14} Hãy phạt nó bằng roi, Con sẽ giải cứu linh hồn nó khỏi Âm Phủ.
+{23:15} Hỡi con, nếu lòng con khôn ngoan, Thì chính lòng ta cũng vui mừng.
+{23:16} Lòng dạ ta sẽ mừng rỡ Khi môi miệng con nói lời ngay thẳng.
+{23:17} Lòng con chớ ganh tị với những kẻ tội lỗi, Nhưng hãy luôn luôn kính sợ CHÚA.
+{23:18} Vì con chắc chắn sẽ có một tương lai, Và niềm hy vọng của con sẽ không bị cắt đứt.
+{23:19} Hỡi con, hãy nghe và trở nên khôn ngoan; Hãy hướng lòng con vào con đường đúng đắn.
+{23:20} Chớ kết bạn với kẻ nghiện rượu Hay người ham ăn.
+{23:21} Vì kẻ nghiện rượu và người ham ăn sẽ trở nên nghèo, Còn người hay ngủ sẽ ăn mặc rách rưới.
+{23:22} Hãy lắng nghe cha con là người sinh thành con; Chớ khinh bỉ mẹ con khi người già cả.
+{23:23} Hãy mua lấy chân lý và đừng bán nó; Hãy mua lấy khôn ngoan, lời giáo huấn và sáng suốt.
+{23:24} Làm cha của người công chính có niềm vui rất lớn; Người nào có đứa con khôn ngoan sẽ rất vui mừng về nó.
+{23:25} Nguyện cha và mẹ con vui mừng; Nguyện cho người sinh ra con vui vẻ.
+{23:26} Hỡi con, hãy dâng lòng con cho ta; Mắt con hãy vui trong đường lối ta.
+{23:27} Vì gái điếm là cái hố sâu, Và người dâm phụ là cái giếng hẹp.
+{23:28} Thật vậy, nàng như kẻ trộm rình rập, Đặng làm gia tăng số người bội tín giữa vòng loài người.
+{23:29} Ai đã gặp hoạn nạn? Ai đã bị buồn thảm? Ai có sự gây gỗ? Ai đã than thở? Ai đã bị thương tích vô cớ? Ai có mắt đỏ ngầu?
+{23:30} Là những người la cà lâu bên chén rượu; Những kẻ đi nếm thử các rượu pha.
+{23:31} Đừng nhìn rượu khi nó đỏ thắm; Lúc nó lóng lánh trong ly Và chảy ra ngọt lịm.
+{23:32} Cuối cùng nó cắn như rắn, Chích như rắn độc.
+{23:33} Mắt con sẽ thấy những cảnh lạ; Lòng con sẽ tưởng đến những điều gian tà;
+{23:34} Con sẽ như người nằm giữa lòng biển; Trên đỉnh cột buồm.
+{23:35} Con nói: người ta đánh tôi, nhưng tôi không thấy đau; Người ta đập tôi, nhưng tôi không hay biết; Khi nào tôi sẽ tỉnh dậy? Tôi sẽ tìm uống nữa.
+{24:1} Chớ ganh tị với kẻ ác, Cũng đừng mong ước ở cùng chúng nó.
+{24:2} Vì lòng chúng nó nghĩ điều hung dữ; Môi chúng nó nói điều tổn hại.
+{24:3} Nhờ khôn ngoan nhà được xây cất, Bởi sáng suốt nó được thiết lập.
+{24:4} Do tri thức mọi phòng ốc đều được Đầy dẫy vật quý báu và thanh nhã.
+{24:5} Người khôn ngoan có sức mạnh; Người có tri thức làm tăng thêm sức lực.
+{24:6} Đánh giặc, con nhờ mưu khôn ngoan, Chiến thắng, con nhờ nhiều cố vấn.
+{24:7} Sự khôn ngoan vốn quá cao cho kẻ ngu dại; Tại nơi cổng thành nó không hề mở miệng.
+{24:8} Kẻ âm mưu làm điều ác, Sẽ bị gọi là kẻ mưu mô.
+{24:9} Suy nghĩ điều ngu dại là tội lỗi; Kẻ nhạo báng bị người ta ghê tởm.
+{24:10} Nếu con nản lòng trong ngày hoạn nạn, Thì sức con thật kém cỏi thay!
+{24:11} Hãy giải cứu những người bị đem vào chỗ chết; Hãy giữ lại những kẻ lảo đảo đi đến nơi hành hình.
+{24:12} Nếu con nói: “Kìa, chúng tôi không biết điều này.” Thế thì Đấng cân nhắc lòng người không thấy sao? Đấng canh giữ linh hồn con không biết sao? Ngài sẽ báo trả cho loài người tùy theo việc họ làm.
+{24:13} Hỡi con, hãy ăn mật ong vì nó tốt; Giọt mật từ tàng ong sẽ ngọt trong cổ họng con.
+{24:14} Hãy biết rằng sự khôn ngoan cũng như vậy cho linh hồn con. Nếu con tìm được nó, con sẽ có tương lai Và hy vọng của con sẽ không bị cắt đứt.
+{24:15} Hỡi kẻ ác, chớ rình rập nhà người công chính, Đừng tàn phá chỗ nghỉ ngơi của người.
+{24:16} Vì người công chính dù bị ngã bảy lần, người cũng sẽ đứng dậy, Nhưng những kẻ ác sẽ bị tai họa lật đổ.
+{24:17} Chớ vui mừng khi kẻ thù con bị ngã; Đừng hớn hở trong lòng khi nó bị lật đổ;
+{24:18} E rằng CHÚA sẽ thấy và không đẹp lòng; Rồi Ngài sẽ cất khỏi nó cơn thịnh nộ của Ngài chăng.
+{24:19} Đừng bực mình vì kẻ dữ; Chớ ganh tị với kẻ gian ác.
+{24:20} Vì kẻ dữ không có tương lai; Ngọn đèn của người gian ác sẽ tắt.
+{24:21} Hỡi con ta, hãy kính sợ CHÚA và vua; Chớ giao kết với những kẻ phản loạn.
+{24:22} Vì ai biết được sự hủy hoại mà hai đấng kia có thể đem đến? Vì tai họa sẽ thình lình đến trên chúng.
+{24:23} Đây cũng là những lời của người khôn ngoan: Xét đoán thiên vị là điều không tốt.
+{24:24} Người nào nói với kẻ gian ác rằng: ngươi là công chính, Sẽ bị dân chúng rủa sả và các nước ghê tởm.
+{24:25} Nhưng người quở trách kẻ ác sẽ được dân chúng vui lòng, Và phúc lành sẽ đến trên người.
+{24:26} Lời đáp thành thật Như cái hôn nơi môi.
+{24:27} Hãy hoàn tất công việc ngoài vườn của con; Hãy làm xong công việc đồng ruộng của con; Sau đó con hãy xây nhà.
+{24:28} Đừng làm chứng vô cớ nghịch cùng người láng giềng con; Chớ dùng môi miệng để lường gạt.
+{24:29} Chớ nói rằng: tôi sẽ làm cho nó như nó đã làm cho tôi; Tôi sẽ báo trả cho mỗi người tùy theo điều nó làm.
+{24:30} Tôi đi ngang qua đồng ruộng của người biếng nhác, Qua vườn nho của kẻ vô tâm;
+{24:31} Kìa, cỏ gai mọc đầy, Cây gai che phủ khắp mặt đất; Và tường rào đá cũng hư hại.
+{24:32} Ta nhìn và để tâm suy nghĩ; Ta thấy và nhận được bài học.
+{24:33} Ngủ một chút, chợp mắt một chút, Khoanh tay nằm nghỉ một chút;
+{24:34} Thế là sự nghèo khó của ngươi sẽ đến như kẻ cướp bóc, Và sự thiếu thốn của ngươi sẽ ập đến như người lính nơi chiến trận.
+{i25:1} Một Số Châm Ngôn Khác Của Sa-lô-môn
+{25:1} Đây cũng là các châm ngôn của Sa-lô-môn Do người của vua Ê-xê-chia, vua nước Giu-đa, sao chép.
+{25:2} Giữ một điều gì huyền bí là vinh quang của Đức Chúa Trời, Nhưng vinh quang của một vua là tìm ra một điều gì.
+{25:3} Trời cao bao nhiêu và đất sâu thế nào Thì lòng các vua cũng không thể dò thể ấy.
+{25:4} Lấy cặn bã ra khỏi bạc Thì thợ bạc sẽ có vật liệu tốt;
+{25:5} Hãy loại những kẻ gian ác khỏi trước mặt vua Thì ngôi vua sẽ được thiết lập trong sự công chính.
+{25:6} Đừng tự tôn trước mặt vua; Chớ đứng trong địa vị của bậc tôn trọng.
+{25:7} Vì thà để cho người bảo con: mời lên đây; Tốt hơn là bị người hạ con xuống thấp trước mặt một người quyền quý.
+{25:8} Điều gì mắt con thấy, Đừng vội đi đến tranh tụng ngay, E rằng, khi kẻ láng giềng con làm con xấu hổ; Rốt cuộc con sẽ làm gì?
+{25:9} Hãy thuyết phục người láng giềng con, Nhưng đừng tiết lộ bí mật của người khác.
+{25:10} E rằng người nghe điều ấy sẽ trách con, Và danh tiếng con sẽ không lấy lại được.
+{25:11} Lời nói đúng lúc, Khác nào trái táo vàng để trên đĩa bạc.
+{25:12} Lời quở trách khôn ngoan cho lỗ tai biết nghe, Giống như nhẫn vàng hay đồ trang sức bằng vàng.
+{25:13} Một sứ giả trung thành với người sai phái, Khác nào tuyết mát mẻ trong mùa gặt, Vì người làm chủ mình hài lòng.
+{25:14} Một người khoe khoang về những món quà mình không tặng, Giống như có mây và gió nhưng không có mưa.
+{25:15} Nhờ nhẫn nhịn mới thuyết phục được người cai trị, Lưỡi mềm mại bẻ gẫy xương cốt.
+{25:16} Nếu con tìm được mật ong, chỉ ăn vừa đủ thôi; Kẻo ăn nhiều quá con sẽ mửa.
+{25:17} Chân con chớ thường xuyên đến nhà người láng giềng, E rằng người sẽ chán và ghét con.
+{25:18} Một người làm chứng dối nghịch kẻ láng giềng, Khác nào một cây côn, một lưỡi gươm hay mũi tên nhọn.
+{25:19} Tin cậy một kẻ bất trung trong ngày hoạn nạn, Giống như nhai với răng đau hay đi với chân bại.
+{25:20} Ca hát cho người có lòng buồn thảm, Khác nào cởi áo trong ngày băng giá, Đổ giấm vào nước xô-đa.
+{25:21} Nếu kẻ thù con đói, hãy cho nó bánh ăn; Nếu khát, hãy cho nó nước uống.
+{25:22} Vì như thế con sẽ chất than lửa đỏ trên đầu nó, Và CHÚA sẽ thưởng cho con.
+{25:23} Gió bắc đem lại mưa; Còn lưỡi nói hành làm cho mặt giận.
+{25:24} Thà ở nơi góc mái nhà, Còn hơn sống chung nhà với một người đàn bà hay cãi cọ.
+{25:25} Tin mừng đến từ phương xa, Giống như nước mát mẻ cho linh hồn đang khao khát.
+{25:26} Người công chính mà khuất phục theo kẻ gian tà, Giống như con suối bị khuấy đục, nguồn nước bị dơ bẩn.
+{25:27} Ăn nhiều mật ong quá không tốt; Tìm kiếm nhiều vinh hiển quá cũng vậy.
+{25:28} Một người thiếu tự chủ, Giống như một cái thành bị bỏ ngõ vì không có tường.
+{26:1} Sự vinh hiển không thích hợp cho kẻ ngu dại, Như tuyết giữa mùa hè, như mưa trong mùa gặt.
+{26:2} Như chim sẻ bay chuyền, như chim én bay liệng; Lời rủa vô cớ cũng vậy, nó sẽ không thành.
+{26:3} Roi dành cho ngựa, hàm thiếc dùng cho lừa Và roi vọt dành cho lưng kẻ ngu dại.
+{26:4} Đừng trả lời kẻ ngu dại theo như sự ngu dại của nó; E rằng con cũng như nó chăng.
+{26:5} Trả lời kẻ ngu dại tùy theo sự ngu dại của nó, Kẻo nó tưởng mình khôn ngoan theo mắt mình.
+{26:6} Ai nhờ kẻ ngu dại đem tin tức, Giống như tự chặt chân hay nuốt lấy điều hung dữ.
+{26:7} Châm ngôn trong miệng kẻ ngu dại, Cũng như chân bại vô dụng của người què.
+{26:8} Ban vinh dự cho kẻ ngu dại, Cũng như cột viên đá vào cái nỏ.
+{26:9} Châm ngôn trong miệng kẻ ngu dại, Như cái gai đâm vào tay kẻ say rượu.
+{26:10} Ai mướn một kẻ ngu dại và khách qua đường, Cũng như một người bắn cung gây thương tích mọi người.
+{26:11} Kẻ ngu dại lặp lại điều ngu xuẩn mình, Khác nào chó ăn lại đồ nó mửa ra.
+{26:12} Con có thấy một người tự cho mình khôn ngoan theo mắt mình không? Kẻ ngu còn có hy vọng hơn người đó.
+{26:13} Kẻ lười biếng nói có con sư tử ở ngoài đường, Sư tử ở giữa phố.
+{26:14} Cửa xoay quanh bản lề thế nào, Kẻ lười biếng trăn trở trên giường thể ấy.
+{26:15} Kẻ lười biếng chôn tay mình trong đĩa; Nó quá mệt mỏi để đưa tay mình lên miệng.
+{26:16} Kẻ lười biếng cho mình khôn ngoan, Hơn cả bảy người biết đối đáp thận trọng.
+{26:17} Người nào đi qua đường mà xen vào chuyện cãi cọ không liên hệ đến mình, Giống như nắm tai con chó.
+{26:18} Như người điên bắn than lửa, Mũi tên và sự chết,
+{26:19} Người nào lừa gạt kẻ láng giềng mình rồi lại nói: Tôi chỉ đùa thôi thì cũng như vậy.
+{26:20} Lửa tắt vì thiếu củi; Nơi nào không có nói hành, chuyện cãi cọ cũng ngưng.
+{26:21} Như chất than trên than hồng, chất củi vào lửa; Kẻ ưa cãi cọ cũng hay gây tranh cãi như thế.
+{26:22} Lời của kẻ mách lẻo như miếng bánh ngon, Thấm vào tận lòng dạ.
+{26:23} Môi miệng vồn vã nhưng tấm lòng gian ác, Khác nào cặn bạc tráng bình đất.
+{26:24} Kẻ ghen ghét giả vờ ngoài môi miệng, Nhưng trong lòng mưu sự lừa đảo.
+{26:25} Khi nó nói ngon ngọt, đừng tin, Vì lòng nó có bảy điều ghê tởm.
+{26:26} Dù ghen ghét thường được che giấu bằng lừa đảo, Sự gian ác nó sẽ bị tỏ bày nơi hội chúng.
+{26:27} Kẻ đào hố sẽ sụp xuống hố; Kẻ lăn đá, sẽ bị đá đè trở lại.
+{26:28} Lưỡi dối trá ghét những kẻ nó chà đạp; Miệng nịnh hót gây ra hủy hoại.
+{27:1} Chớ khoe khoang về ngày mai, Vì con không biết ngày mai có điều gì sẽ xảy ra.
+{27:2} Hãy để người khác khen con, chứ không phải miệng con; Hãy để người ngoài khen con chứ không phải môi con.
+{27:3} Đá thì nặng, cát cũng nặng, Nhưng sự khiêu khích của kẻ ngu dại còn nặng hơn cả hai.
+{27:4} Cơn thịnh nộ thì tàn ác, cơn giận như nước lụt, Nhưng ai đứng nổi trước cơn ghen?
+{27:5} Thà quở trách công khai Tốt hơn là yêu thương kín đáo.
+{27:6} Thương tổn do người thương mình gây ra, Còn đáng tin hơn vô số cái hôn của kẻ thù ghét mình.
+{27:7} Kẻ no nê chà đạp mật ong, Nhưng đối với kẻ đói khát thì vật đắng cũng thành ngọt ngào.
+{27:8} Kẻ lưu lạc xa quê hương Như chim lạc xa tổ.
+{27:9} Dầu và hương thơm làm lòng người vui vẻ; Lời khuyên ngọt ngào của tình bạn quý hơn lời tư vấn cho mình.
+{27:10} Đừng từ bỏ bạn con hay bạn của cha con; Đừng đến nhà bà con mình trong ngày hoạn nạn; Người láng giềng gần tốt hơn là anh em ở xa.
+{27:11} Hỡi con ta, hãy khôn ngoan và làm cho lòng ta vui vẻ, Để ta có thể trả lời kẻ chỉ trích ta.
+{27:12} Người khôn ngoan thấy tai họa nên ẩn trốn; Kẻ ngu dại cứ tiến tới và bị họa.
+{27:13} Hãy lấy áo kẻ bảo lãnh cho người lạ; Hãy giữ nó làm bảo đảm vì nó bảo lãnh cho người đàn bà lạ.
+{27:14} Nếu một người vào sáng sớm lớn tiếng chúc lành người hàng xóm, Lời chúc bị coi như lời rủa.
+{27:15} Một người đàn bà hay cãi cọ, Giống như những giọt nước chảy rả rích trong ngày mưa;
+{27:16} Ai muốn kiềm chế nàng như bắt giữ gió lại; Và như lấy tay phải chứa đựng dầu.
+{27:17} Một người rèn luyện nhân cách người lân cận Giống như sắt mài bén sắt.
+{27:18} Ai chăm sóc cây vả sẽ ăn trái vả; Người phục vụ chủ mình sẽ được trọng đãi.
+{27:19} Lòng người phản ánh con người, Giống như mặt một người phản chiếu trong nước;
+{27:20} Âm phủ và sự hủy diệt không bao giờ thỏa mãn; Con mắt loài người cũng vậy.
+{27:21} Lò luyện kim để thử bạc, lò lửa để thử vàng; Một người được thử bằng lời khen ngợi.
+{27:22} Dù con dùng chày giã kẻ ngu Trong cối chung với gạo, Thì sự ngu dại cũng không lìa khỏi nó.
+{27:23} Hãy biết rõ tình trạng bầy chiên của con; Hãy chú tâm vào đàn bò của con.
+{27:24} Vì giàu có không tồn tại mãi mãi Và mão triều không còn lại đời đời.
+{27:25} Khi cỏ khô biến mất, cỏ mới mọc lên; Rau cỏ trên núi được thu nhặt lại.
+{27:26} Chiên của con sẽ cung cấp quần áo cho con; Dê đực sẽ là giá đám ruộng.
+{27:27} Con sẽ có đủ sữa dê làm thực phẩm; Làm đồ ăn cho gia đình con; Và sự sống cho các tớ gái con.
+{28:1} Kẻ ác bỏ chạy dù không ai đuổi; Còn người công chính tự tin như con sư tử.
+{28:2} Một nước loạn lạc có nhiều người lãnh đạo; Nhưng nhờ một người sáng suốt và hiểu biết, nước được bền vững lâu dài.
+{28:3} Người cai trị độc ác áp bức người cùng khốn, Khác nào trận mưa lớn không đem lại mùa màng.
+{28:4} Người từ bỏ Kinh Luật khen ngợi kẻ ác; Còn người tuân giữ Kinh Luật chống lại chúng.
+{28:5} Người gian ác không hiểu sự công bình; Còn người tìm kiếm CHÚA hiểu biết tất cả.
+{28:6} Thà nghèo nhưng sống ngay thẳng Hơn là giàu có theo đường lối gian tà.
+{28:7} Ai tuân giữ Kinh Luật là đứa con sáng suốt; Còn kết bạn với kẻ tham ăn uống làm nhục cha mình.
+{28:8} Người nào làm giàu nhờ cho vay nặng lãi Tức là thu góp của cải cho người có lòng thương xót người nghèo.
+{28:9} Người nào ngoảnh tai không nghe theo Kinh Luật, Lời cầu nguyện của người ấy cũng là sự gớm ghiếc.
+{28:10} Ai dẫn kẻ ngay thẳng vào đường ác Sẽ rơi vào hố của chính mình; Nhưng người vô tội sẽ thừa hưởng phúc lành.
+{28:11} Người giàu tự cho mình khôn ngoan, Nhưng một người nghèo sáng suốt thấy rõ người.
+{28:12} Khi người công chính chiến thắng, có nhiều vinh hiển; Nhưng khi kẻ ác nổi lên, người ta đi ẩn trốn.
+{28:13} Ai che giấu sự vi phạm mình sẽ không được thịnh vượng, Nhưng người nào xưng ra và từ bỏ nó sẽ được thương xót.
+{28:14} Phước cho người nào luôn luôn kính sợ Chúa; Nhưng kẻ có lòng chai đá sẽ rơi vào tai họa.
+{28:15} Kẻ ác cai trị dân nghèo, Giống như sư tử gầm rống, như gấu rượt mồi.
+{28:16} Kẻ cai trị thiếu hiểu biết cũng lắm bạo tàn; Người ghét lợi bất chính sẽ sống lâu.
+{28:17} Nếu người nào mang nợ máu của một sinh mạng, Hãy để hắn làm kẻ trốn tránh cho đến chết, Đừng có ai giúp đỡ nó.
+{28:18} Người nào bước đi ngay thẳng sẽ được giải cứu; Kẻ theo đường lối gian tà sẽ sa ngã thình lình.
+{28:19} Người nào cày ruộng mình sẽ được đầy thực phẩm, Nhưng kẻ theo đuổi hư không sẽ bị nghèo khó.
+{28:20} Người trung tín được nhiều phước lành, Còn kẻ vội làm giàu ắt sẽ không tránh khỏi hình phạt.
+{28:21} Thiên vị là điều không tốt, Nhưng vì một miếng bánh người ta có thể làm điều trái.
+{28:22} Người có mắt gian chạy theo giàu có, Nhưng người không biết rằng sự mất mát sẽ đến.
+{28:23} Người nào quở trách một người, Về sau sẽ được biết ơn hơn là kẻ dùng lưỡi nịnh hót.
+{28:24} Kẻ nào ăn cắp của cha mẹ rồi nói rằng Ấy không phải là tội, Kẻ ấy là bạn của kẻ phá hoại.
+{28:25} Kẻ tham lam gây ra tranh cãi, Nhưng người nào tin cậy CHÚA sẽ được thịnh vượng.
+{28:26} Kẻ tin cậy nơi lòng mình là kẻ ngu dại, Nhưng ai bước đi theo sự khôn ngoan sẽ được an toàn.
+{28:27} Người nào ban cho người nghèo sẽ không thiếu thốn, Nhưng ai nhắm mắt làm ngơ sẽ gặp nhiều rủa sả.
+{28:28} Khi kẻ ác hưng thịnh người ta đi trốn, Nhưng khi chúng bị hủy diệt, người công chính sẽ gia tăng.
+{29:1} Một người thường bị quở trách nhưng vẫn cứng đầu, Sẽ bị hủy diệt thình lình không phương cứu chữa.
+{29:2} Khi người công chính gia tăng dân chúng vui mừng; Nhưng khi kẻ ác cai trị, dân chúng than thở.
+{29:3} Người nào yêu thích sự khôn ngoan làm cho cha mình vui mừng; Nhưng kẻ kết bạn với phường đĩ điếm phá hoại của cải.
+{29:4} Nhờ công bình, vua làm cho đất nước bền vững; Nhưng kẻ tham nhũng hủy hoại quốc gia.
+{29:5} Kẻ nào nịnh hót người láng giềng, Tức là giăng lưới dưới chân người.
+{29:6} Kẻ ác mắc bẫy trong chính tội lỗi của hắn; Nhưng người công chính ca hát và vui mừng.
+{29:7} Người công chính biết quyền lợi của kẻ nghèo; Kẻ ác không có sự hiểu biết ấy.
+{29:8} Kẻ nhạo báng khơi ngọn lửa náo loạn trong thành lên; Nhưng người khôn ngoan đẩy lui cơn giận dữ.
+{29:9} Nếu một người khôn ngoan tranh tụng với một kẻ ngu dại; Chỉ đưa đến giận dữ, cười cợt và không có hòa giải.
+{29:10} Kẻ khát máu ghét người vô tội; Nhưng người ngay thẳng bảo vệ mạng sống người vô tội.
+{29:11} Kẻ ngu dại bộc lộ tất cả sự giận dữ, Nhưng người khôn ngoan im lặng kiềm chế nó.
+{29:12} Nếu một người cai trị nghe lời dối trá, Tất cả những kẻ phục vụ người đều là gian ác.
+{29:13} Người nghèo khổ và kẻ áp bức đều gặp nhau ở một điểm chung, Mắt cả hai người đều nhận ánh sáng từ CHÚA.
+{29:14} Nếu vua xét xử công bình người nghèo, Ngôi vua sẽ được bền vững đời đời.
+{29:15} Roi vọt và quở trách đem lại khôn ngoan, Còn đứa con lêu lổng làm mẹ nó hổ thẹn.
+{29:16} Khi kẻ ác gia tăng, tội lỗi gia tăng; Nhưng người công chính sẽ thấy sự sụp đổ của chúng.
+{29:17} Hãy kỷ luật con cái, nó sẽ cho con an lành; Và làm cho linh hồn con vui vẻ.
+{29:18} Ở đâu không có khải tượng, dân chúng phóng túng; Nhưng phước cho người tuân giữ Kinh Luật.
+{29:19} Lời nói suông không sửa trị được nô lệ, Vì dù hiểu nó cũng không vâng lời.
+{29:20} Con có thấy một người ăn nói hấp tấp không? Kẻ ngu dại còn có hy vọng hơn người đó.
+{29:21} Người nào nuông chiều đầy tớ từ thuở nhỏ, Cuối cùng sẽ bị buồn thảm.
+{29:22} Người hay giận gây sự tranh cãi; Còn kẻ nóng tính vi phạm nhiều.
+{29:23} Người tự cao sẽ bị hạ thấp; Nhưng người có lòng khiêm nhường sẽ được tôn trọng.
+{29:24} Người nào tòng phạm với kẻ ăn trộm ghét linh hồn mình; Người nghe lời rủa sả nhưng không dám nói ra.
+{29:25} Sợ loài người là một cái bẫy cho mình; Nhưng ai tin cậy CHÚA được an toàn.
+{29:26} Nhiều người tìm kiếm ân huệ nơi vua chúa; Nhưng người ta được xử công bình từ CHÚA.
+{29:27} Kẻ bất công là điều ghê tởm cho người công chính; Nhưng người theo đường lối ngay thẳng là điều ghê tởm cho kẻ ác.
+{i30:1} Châm Ngôn Và Lời Cầu Nguyện Của A-gu-rơ
+{30:1} Các lời của A-gu-rơ, con trai Gia-kê; Châm ngôn người ấy nói cùng Y-thi-ên, Y-thi-ên và U-canh.
+{30:2} Thật, tôi ngu dại hơn người thường, Và tôi không có sự sáng suốt như người thường.
+{30:3} Tôi chưa học được sự khôn ngoan, Cũng không có sự hiểu biết của Đấng Thánh.
+{30:4} Ai đã lên trời rồi trở xuống? Ai đã góp gió trong lòng bàn tay mình? Ai đã bọc nước trong áo mình? Ai đã lập các đầu cùng của đất? Tên của người ấy là gì? Tên của con trai người ấy là chi? Nếu ngươi biết?
+{30:5} Mọi lời của Đức Chúa Trời đều tinh khiết; Ngài là cái khiên cho những người trú ẩn nơi Ngài.
+{30:6} Chớ thêm vào lời của Ngài; E rằng Ngài sẽ quở trách ngươi và ngươi bị coi là kẻ nói dối.
+{30:7} Hai điều con cầu xin Ngài; Xin Ngài chớ từ chối trước khi con chết:
+{30:8} Xin cho con cách xa gian xảo và dối trá; Xin đừng cho con nghèo khổ hay giàu có, Xin cho con đủ thực phẩm cần dùng.
+{30:9} Kẻo khi dư thừa con sẽ từ khước Ngài Mà bảo CHÚA là ai? Hoặc khi nghèo khổ con đi ăn cắp Và làm nhục danh Đức Chúa Trời con.
+{30:10} Chớ nói xấu đầy tớ với chủ nó; E rằng nó sẽ rủa sả con và con phải mắc tội.
+{30:11} Có loại người rủa cha mình, Và không chúc phước mẹ mình.
+{30:12} Có loại người cho rằng mình trong sạch; Nhưng chưa được thanh tẩy sự dơ bẩn của mình.
+{30:13} Có loại người mắt thật kiêu hãnh; Mí mắt thật tự cao.
+{30:14} Có loại người răng như lưỡi gươm, Răng hàm như dao; Chúng ăn nuốt người nghèo khổ trên đất Và người cùng khốn giữa loài người.
+{30:15} Con đỉa có hai con gái; Chúng kêu lên: Hãy cho, hãy cho. Có ba điều không bao giờ thỏa mãn; Bốn điều không bao giờ nói: Đủ.
+{30:16} Âm Phủ, dạ son sẻ, Đất không bao giờ đủ nước, Và lửa không bao giờ nói: Đủ rồi.
+{30:17} Con mắt chế nhạo cha, Khinh bỉ việc vâng lời mẹ, Sẽ bị quạ nơi thung lũng móc mắt đi, Và diều hâu ăn thịt.
+{30:18} Có ba điều quá kỳ diệu cho tôi, Bốn việc tôi không hiểu nỗi:
+{30:19} Con đường của chim ưng bay trên trời; Con đường của rắn bò trên đá; Con đường tàu chạy giữa biển; Và con đường một người nam phối hiệp với người nữ.
+{30:20} Đây là con đường của một phụ nữ ngoại tình: Nàng ăn rồi chùi miệng Và nói: tôi có làm gì tội lỗi đâu.
+{30:21} Có ba điều làm trái đất rung chuyển Và bốn điều nó không chịu nổi:
+{30:22} Một tên nô lệ lên làm vua; Kẻ ngu có đầy dẫy thực phẩm;
+{30:23} Một người đàn bà đáng ghét lấy chồng, Và một cô tớ gái thay thế bà chủ.
+{30:24} Có bốn vật nhỏ trên trái đất Nhưng chúng cực kỳ khôn ngoan:
+{30:25} Kiến là loài không có sức mạnh, Nhưng chúng dự trữ thực phẩm cho mình trong mùa hè.
+{30:26} Thỏ là loài sức yếu Nhưng chúng làm ổ trong đá.
+{30:27} Cào cào không có vua Nhưng tất cả đều tiến lên theo hàng lối.
+{30:28} Thằn lằn người ta có thể lấy tay bắt Nhưng nó lại ở trong đền vua.
+{30:29} Có ba con vật có dáng đi đẹp, Có bốn con vật có bước oai vệ:
+{30:30} Sư tử là loài dũng mãnh nhất giữa vòng các loài thú; Nó không lùi bước trước một loài nào.
+{30:31} Con gà trống vươn cao cổ, con dê đực; Và vị vua khi thống lĩnh quân đội mình.
+{30:32} Nếu con dại dột tự tôn; Nếu con âm mưu điều ác; Hãy lấy tay bịt miệng lại.
+{30:33} Vì ép sữa làm ra bơ; Bóp mũi ra máu; Chọc giận sinh ra cãi lộn.
+{i31:1} Lời Mẹ Vua Lê-mu-ên Khuyên Con Mình
+{31:1} Những lời của vua Lê-mu-ên; Châm ngôn mà mẹ người dạy người.
+{31:2} Đừng, hỡi con ta; đừng, hỡi con của lòng ta; Đừng, hỡi con của sự khấn nguyện ta;
+{31:3} Đừng trao sức lực mình cho đàn bà, Đừng trao đường lối con cho kẻ hủy diệt các vua.
+{31:4} Hỡi Lê-mu-ên, Ấy là điều không tốt cho các vua uống rượu; Không tốt cho những người cai trị nghiện rượu mạnh.
+{31:5} E rằng khi uống rượu họ sẽ quên các luật lệ đã được ban hành; Và xâm phạm quyền lợi của mọi kẻ khốn cùng.
+{31:6} Hãy ban rượu mạnh cho người đang bị hủy diệt, Hãy ban rượu cho kẻ có tâm hồn cay đắng.
+{31:7} Hãy để họ uống và quên đi sự nghèo khổ của họ; Và không còn nhớ đến sự đau khổ của họ nữa.
+{31:8} Con hãy nói lên thay cho những kẻ không quyền phát biểu; Hãy nói lên quyền lợi của mọi kẻ cùng cực.
+{31:9} Hãy nói lên, hãy phán đoán công chính; Hãy bênh vực quyền lợi của những người nghèo nàn, thiếu thốn.
+{i31:10} Người Phụ Nữ Tài Đức
+{31:10} Ai có thể tìm được một người vợ tài đức? Giá trị nàng quý hơn hồng ngọc
+{31:11} Chồng nàng tin cậy nơi nàng; Người sẽ không thiếu hoa lợi.
+{31:12} Trọn đời, nàng đem lại cho chồng phúc lợi, Không phải tai hại.
+{31:13} Nàng tìm kiếm vải len và sợi lanh; Đôi tay nàng vui vẻ làm việc.
+{31:14} Nàng như những con tàu buôn Mang thực phẩm về từ phương xa.
+{31:15} Nàng thức dậy khi trời còn tối; Phân phát phần ăn cho người nhà mình; Cắt đặt công việc cho các tớ gái mình.
+{31:16} Nàng xem xét một thửa ruộng rồi mua nó; Với lợi tức trong tay nàng trồng một vườn nho.
+{31:17} Nàng lấy hết năng lực chuẩn bị Và hết sức làm việc.
+{31:18} Nàng thấy nguồn lợi mình được tốt đẹp; Ban đêm đèn nhà nàng chẳng tắt.
+{31:19} Nàng tự tay quay tơ Tay nàng kéo sợi dệt vải.
+{31:20} Nàng mở rộng bàn tay giúp đỡ kẻ nghèo; Đưa tay ra tiếp người thiếu thốn.
+{31:21} Nàng không lo sợ cho gia đình lúc tuyết giá; Vì cả nhà đều mặc đồ ấm áp.
+{31:22} Nàng tự may lấy quần áo Nàng mặc đồ vải tốt, đỏ thắm.
+{31:23} Chồng nàng được biết tiếng nơi cửa thành; Được ngồi với các trưởng lão trong xứ.
+{31:24} Nàng làm áo vải và bán; Nàng cung cấp thắt lưng cho nhà buôn.
+{31:25} Nàng mặc lấy năng lực và sự cao quý; Nàng mỉm cười trước các ngày tháng tương lai.
+{31:26} Nàng mở miệng nói điều khôn ngoan; Lưỡi nàng dạy dỗ điều nhân ái.
+{31:27} Nàng coi sóc chu đáo công việc nhà nàng; Không hề ăn không ngồi rồi.
+{31:28} Con cái nàng đứng lên ca tụng nàng là hạnh phúc; Chồng nàng cũng khen ngợi nàng:
+{31:29} “Có nhiều người đàn bà làm những việc xuất sắc; Nhưng mình vượt hơn tất cả.”
+{31:30} Duyên là giả dối, sắc là hư không; Nhưng người đàn bà nào kính sợ CHÚA đáng được khen ngợi.
+{31:31} Hãy ban cho nàng hoa quả của tay nàng; Hãy để cho công việc nàng được ca ngợi nơi cửa thành.

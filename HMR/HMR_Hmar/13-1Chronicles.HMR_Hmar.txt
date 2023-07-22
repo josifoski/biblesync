@@ -1,0 +1,942 @@
+{1:1} Adamin Seth a thla a, Seth-inEnos, Enos-in Kenan,
+{1:2} Kenanin Mahalalel, Mahalalelin Jared,
+{1:3} Jared-in Enok, Enokin Methusela, Methusela-in Lamek, Lamekin Nova a thla a,
+{1:4} Nova naupahai chu Sema, Hama le Jafet an nih.
+{1:5} Jafet naupahai chu Gomer, Magog, Madai, Javan, Tubal, Mesek le Tiras hai an nih.
+{1:6} Gomer naupahai chu Askenaz, Difat (Rifat) le Togarma an nih.
+{1:7} Javan naupahai chu Elisa, Tarsis, Kitim le Rodanim an nih.
+{1:8} Hama naupahai chu Kusa, Mizraim, Puta le Kanan an nih.
+{1:9} Kusa naupahai chu Seba, Havila, Sabta, Raama le Sabteka an nih. Raama naupahai chu Seba le Dedan an nih.
+{1:10} Kusa chu khawvela indoa hrât khawkhêng Nimrod thlatu a nih.
+{1:11} Mizraim naupahai chu Luda, Anam, Lehab, Naftu,
+{1:12} Pathrus, Filistinhai thlatu Kaslu le Kaftor an nih.
+{1:13} Kanan naupahai chu, a nau lutîr Sidon le Hit,
+{1:14} Jebu, Amor, Gisgas,
+{1:15} Hiv, Arka, Sina,
+{1:16} Arvad, Zemar le Hamat hai an nih.
+{1:17} Sema naupahai chu Elam, Asur, Arpaksad, Luda le Aram an nih. Aram naupahai chu Uza, Hula, Gether le Mesek an nih.
+{1:18} Arpaksad chun Sela a hring a, Sela chun Eber a hring a.
+{1:19} Eber naupa pahnihai laia pakhat chu a dam laia mihriemhai an in the dar leiin a hmingah Peleg an sak a, a sang hming chu Joktan a nih.
+{1:20} Joktan naupahai chu Almodad, Selep, Hazarmavet, Jera,
+{1:21} Hadoram, Uzal, Dikla,
+{1:22} Obal, Abimael, Seba,
+{1:23} Ofir, Havila le Jobab an nih. Chuonghai po chu Joktan naupahai vong an nih.
+{1:24} Semaa inthoka Abram (Abraham) chena an inthla sawng dàn chu: Sema, Arpaksad, Sela,
+{1:25} Eber, Peleg, Reu,
+{1:26} Serug, Nahor, Tera le
+{1:27} Abram (Abraham) an nih.
+{1:28} Abraham naupahai chu Isak le Ismael an nih.
+{1:29} Ismael naupahai, hnam sawmpahni thlatuhai chu a nau lutîr Nabaiot le Kedar, Abdeel, Mibsam,
+{1:30} Mishma, Duma, Masa, Hadah, Tema,
+{1:31} Jetur, Nafis le Kedema an nih.
+{1:32} Abraham hmei Ketura naupahai chu Zimran, Joksan, Medan, Midian, Isbak le Sua an nih. Joksan nau pasalhai chu Seba le Dedan an nih.
+{1:33} Midian naupahai chu Efa, Efer, Hanok, Abida le Elda a nih. Chuonghai po chu Ketura thlahai chu an nih.
+{1:34} Abraham chu Isak pa a na, Isak naupahai chu Esau le Jakob an nih.
+{1:35} Esau naupahai chu Elifaz, Reuel, Jeush, Jalam le Kora an nih.
+{1:36} Elifaz naupahai chu Teman, Omar, Zefi, Gatam le Kenaz an na; a nuhmei Timnaa inthokin Amalek a nih.
+{1:37} Reuel naupahai chu Nahat, Zera, Sama le Miza an nih.
+{1:38} Seir naupahai chu Lotan, Sobal, Zibeon, Ana, Dison, Ezer le Disan an nih.
+{1:39} Lotan naupahai chu Hori le Homam an nih. Timna chu Lotan farnu a nih.
+{1:40} Sobal naupahai chu Alvan, Manahat, Ebal, Sefi le Onam an nih. Zibeon naupahai chu Aia le Ana an nih.
+{1:41} Ana naupa chu Dison a nih. Dison naupahai chu Hemdan, Esban, Ithran le Keran an nih.
+{1:42} Ezer naupahai chu Bilhan, Zavan le Akan an nih. Disan naupahai chu Uza le Aran an nih.
+{1:43} Israela thlahai an inlal hmaa Edom rama lalhai chu hienghai hi an nih: Beor naupa Bela a na, a khawpui hming chu Dinhaba a nih.
+{1:44} Bela a thi chun Bozraa inthoka hung Zera naupa Jobab chun a lalna chu a hung hluo a.
+{1:45} Jobab a thi chun Temanhai rama inthoka hung Husam chun a lalna chu a hung hluo a.
+{1:46} Husam a thi chun Bedad naupa Hadad, Moab rama Midianhai hnetu chun a hung thlàk a, a khawpui hming chu Avit a nih.
+{1:47} Hadad a thi chun Masreka mi Samla chun a hung thlàk a.
+{1:48} Samla a thi chun tuipui kama Rehobot khaw mi Saul chun a hung thlàk a.
+{1:49} Saul a thi chun Akbor naupa Baal-Hanan chun a lalna chu a hung hluo a.
+{1:50} Baal-Hanan a thi chun Hadad-in a hung thlàk a, a khawpui hming chu Pau (Pai) a na, a nuhmei hming chu Me-Zahab naunu Matred naunu Mehetabel a nih.
+{1:51} Chun, Hadad khom chu a thi a. Edom rama hnam lukhàituhai chu Timna, Alva, Jethet,
+{1:52} Oholibama, Ela, Pinon,
+{1:53} Kenaz, Teman, Mibzar,
+{1:54} Magdiel le Iram hai an nih.
+{2:1} Hienghai hi Israel naupahai chu an nih: Reuben, Simeon, Levi, Juda, Isakar, Zebulun,
+{2:2} Dan, Josefa, Benjamin, Naftalia, Gad le Aser.
+{2:3} Juda chun naupa panga a nei a. A nuhmei Batsua, Kanan mia inthokin pathum Er, Onan le Sela an nih. A upa tak Er chu LALPA mithmuah a suol êm leiin a sukhlum a.
+{2:4} A monu Tamar-in Juda lakah nau inphir, Perez le le Zera a neipèk a.
+{2:5} Perez naupahai chu Hezron le Hamul an nih.
+{2:6} Zera naupahai chu Zimri, Etan, Heman, Kalkol le Darda (Dara), an rêngin panga an nih.
+{2:7} Karmi naupa chu Akar (Akan), lâk thieng loa khap thil hluihlawn a lâk leia Israelhai sukbuoitu kha a nih.
+{2:8} Ethan naupa chu Azaria a nih.
+{2:9} Hezron naupahai chu Jerameel, Rama le Kaleb (Kelubai) an nih.
+{2:10} Rama inthoka Jesai chena an inthla sawng dàn chu: Rama'n Aminadab a hring a, Aminadab-in Juda thlahai laia thuoitu langsar Nason a hring a,
+{2:11} Nason-in Salmon (Salma), Salmon-in Boaza a hring a,
+{2:12} Boaza-in Obed, Obed-in Jesai a hring.
+{2:13} Jesai naupahai laia a nau lutîr chu Eliab a na, a pahnina Abinadab, a pathumna Simea,
+{2:14} a palina Nethanel, a pangana Radai,
+{2:15} a parukna Ozem le a pasarina Davida a nih.
+{2:16} A naunuhai chu Zeruia le Abigail an nih. Zeruia chun naupa pathum Abisai, Joab le Asahel a hring a.
+{2:17} Abigail chun Amasa a hring a, Amasa pa chu Ismael mi Jether a nih.
+{2:18} Hezron naupa Kaleb chun nuhmei pahnih, Azuba le Jeriot a nei a, Azuba naupahai chu Jeser, Sobab le Ardon an nih.
+{2:19} Azuba a thi chun Kaleb-in nuhmeiin Efratha a nei a, ama chun Hura a hringpèk a.
+{2:20} Hura chun Uri a hring a, Uri chu Bezalel pa a nih.
+{2:21} Chu hnunga chun Gilead pa Makir naunu chu Hezron-in kum sawmruk a ni hnungin a pawl a, nuhmeiah a nei a, Segub a hringpèk a.
+{2:22} Segub chu Gilead rama khuo sawmhni le khaw thum neitu Jair pa a nih.
+{2:23} (Nisienlakhom, Gesur le Aram haiin Jair-a khuo Havot Jair le Kenat le a se vel khuo sawmruk chu an lâkpêk a.) Chuonghai po po chu Gilead pa Makir thlahai chu an nih.
+{2:24} Kaleb-Efratha khuoa Hezron a thi hnungin a nuhmei Abija chun Asur a hringpèk a, ama chu Tekoa pa a nih.
+{2:25} Hezron nau lutir Jerameel naupahai chu: a nau lutîr Rama bâkah Buna, Oren, Ozem le Ahija an nih.
+{2:26} Jerameel chun nuhmei dang a hming Atara a nei a, ama chu Onam nu a nih.
+{2:27} Jerameel nau lutîr Rama naupahai chu Maaz, Jamin le Eker an nih.
+{2:28} Onam naupahai chu Samai le Jada an nih. Samai naupahai chu Nadab le Abisur an nih.
+{2:29} Abisur nuhmei hming chu Abihail a na, ama chun Aban le Molid a hringpèk a.
+{2:30} Nadab naupahai chu Seled le Apaim an na, Seled chu suonmongin a thi a.
+{2:31} Apaim naupa Isi chu Sesan pa a na, Sesan chu Ahlai pa a nih.
+{2:32} Samai unaupa Jada naupahai chu Jether le Jonathan an na, Jether chu suonmongin a thi a.
+{2:33} Jonathan naupahai chu Pelet le Zaza an nih. Chuonghai chu Jerameel thlahai chu an nih.
+{2:34} Sesan chun naunu chauh a nei a. Aigupta mi siehlaw, a hming Jarha a nei a.
+{2:35} Sesan chun a naunu chu Jarha a'n neitir a, naupa Atai a hringpèk a.
+{2:36} Atai chu Nathan pa a na, Nathan chu Zabad pa a na,
+{2:37} Zabad chu Eflal pa a na, Eflal chu Obed pa a nih.
+{2:38} Obed chu Jehu pa a na, Jehu chu Azaria pa a nih.
+{2:39} Azaria chu Helez pa a na, Helez chu Eleasa pa a nih.
+{2:40} Eleasa chu Sismai pa a na, Sismai chu Salum pa a nih.
+{2:41} Salum chu Jekamia pa a na, Jekamia chu Elisama pa a nih.
+{2:42} Jerameel unaupa Kaleb naupahai chu: A nau lutîr Mesa chun Zip a hring a, Zip chun Maresa a hring a, Maresa chun Hebron a hring a.
+{2:43} Hebron naupahai chu Kora, Tapua, Rekem le Sema an nih.
+{2:44} Sema chu Raham pa a na, Raham chu Jorkeam pa a nih. Rekem chu Samai pa a nih.
+{2:45} Samai naupa chu Moan a na, ama chu Beth Zur pa a nih.
+{2:46} Kaleb hmei Efa chun Haran, Moza le Gazez a hringpèk a. Haran naupa hming khom Gazez bok a nih.
+{2:47} Jadai naupahai chu Regem, Jotham, Gesan, Pelet, Efa leh Saaf an nih.
+{2:48} Kaleb hmei dang Maaka chun naupa Seber le Tirhana a hringpèk a.
+{2:49} Ama chun Saaf khom a hring bok a. A hnungah nau pahnih, Madmana khuo indintu Saaf le Makbena le Gilbea khuo indintu Seva hai chu a hringpèk bok a. Kaleb naunu chu Aksa a nih.
+{2:50} Chuonghai chu Kaleb thlahai chu an nih.Efratha nau lutîr Hura thlahai chu: Kiriat Jearim pa Sobal,
+{2:51} Bethlehem pa Salma le Beth Gader pa Haref an nih.
+{2:52} Kiriat Jearim-hai thlatu Sobal chun Haroe-hai, Manahat hnam zàtve a thla a.
+{2:53} Kirait Jearim hnamhai chu Ithri hai, Put hai, Sumat hai, Misra hai an nih. Hienghaia inthok hin Zorat-hai le Estaol-hai an hung suok a nih.
+{2:54} Salma thlahai chu Bethlehem hai, Netofat hai, Atrot Beth Joab hai, Manahat hai zàtve le Zor mi hai,
+{2:55} lekha ziektu Sofer hnam, Jabez-a um Tirat hai, Simeat hai, Sukat hai an nih. Chuonghai chu Rekab thlahai laia mi Hamat thla Ken mihai chu an nih.
+{3:1} Hienghai hi Davida naupahai,
+{3:2} pathumna chu Geshur lal Talmai naunu Maaka laka mi Absalom a na; palina chu Hagit laka mi Adonija a na;
+{3:3} pangana chu Abital laka mi Sefatia a na; parukna chu a nuhmei Egla laka mi Ithream a nih.
+{3:4} Hieng parukhai hi kum sari le thla ruk Hebron khuoa Davida inlal laia pienghai chu an nih.Kum sawmthum le kum thum Jerusalema Davida a'n lal sûnga a naupa pienghai chu Samua (Simea), Sobab, Nathan le Solomon an nih.
+{3:5} Hieng palihai hi Amiel naunu Bathsheba laka pienghai chu an nih.
+{3:6} Hienghai bâka hin naupa pakuo Ibar, Elisua, Elifelet,
+{3:7} Noga, Nefeg, Jafia,
+{3:8} Elisama, Eliada le Elifelet hai a nei bok.
+{3:9} Chuonghai chu a hmei nauhai tiem sa loa Davida naupahai chu an nih. An farnu chu Tamar a nih.
+{3:10} Solomon naupa chu Rehoboam a na, chu naupa chu Abija a na, chu naupa chu Asa a na, chu naupa chu Jehosafat a na,
+{3:11} chu naupa chu Jehoram (Joram) a na, chu naupa chu Ahazia a na, chu naupa chu Joash a na,
+{3:12} chu naupa chu Amazia a na, chu naupa chu Azaria a na, chu naupa chu Jotham a na,
+{3:13} chu naupa chu Ahaz a na, chu naupa chu Hezekia a na, chu naupa chu Manase a na,
+{3:14} chu naupa chu Amon a na, chu naupa chu Josia a nih.
+{3:15} Josia naupahai chu a upa tak Johanan, a dottu Jehoiakim, a pathumna Zedekia le a palina Salum an nih.
+{3:16} Jehoiakim naupahai chu Jehoiachin (Jekonia) le Zedekia an nih.
+{3:17} Babulon sala intâng Jehoiachin (Jekonia) naupahai pasari chu Seatiel,
+{3:18} Malkiram, Pedaia, Senazar, Jekamia, Hosama le Nedabia an nih.
+{3:19} Pedaia naupahai chu Zerubabel le Simei an nih. Zerubabel naupahai chu Mesulam le Hanania an na, an farnu chu Selomit a nih.
+{3:20} A naupa dang pangahai chu Hasuba, Ohel, Berekia, Hasadia le Jusab-Hesed an nih.
+{3:21} Hanania naupahai chu Pelatia le Jesaia an nih. Jesaia chu Refaia pa a na, ama chu Arnan pa a na, ama chu Obadia pa a na, ama chu Sekania pa a nih.
+{3:22} Sekania naupa Semaia naupahai chu Hatus, Igal, Baria, Nearia le Safat an nih.
+{3:23} Nearia naupahai chu Elioenai, Hizkia le Azrikam an nih.
+{3:24} Elioenei naupahai chu Hodavia, Eliasib, Pelaia, Akub, Johanan, Delaia le Anani an nih.
+{4:1} Juda naupahai chu Perez, Hezron, Karmi, Hura le Sobal hai an nih.
+{4:2} Sobal naupa Reaia chu Jahat pa a na, ama chu Ahumai le Lahad pa a nih. Anni hi Zorat hnam an nih.
+{4:3} Efrata nau hmasa chu Hura a na, ama chu Bethlehem indintu a nih. Hura chun naupa pathum Etam, Penuel le Ezer a nei a. Etam chun naupa pathum Jezreel, Isma le Idbas a nei a, an farnu hming chu Hazelelponi a nih.
+{4:4} Penuel chu Gedor khuo indintu a na, Ezer chu Husa khuo indintu a nih.
+{4:5} Tekoa pa Asur chun nuhmei pahnih, Hela le Nara a nei a.
+{4:6} Nara chun Ahuzam, Hefer, Temeni le Hahastari hai a hringpèk a.
+{4:7} Hela chun Zeret, Zohar, Etnan
+{4:8} le Koz a hringpèk. Koz chu Anub le Hazobeba pa le Harum naupa Aharhel hai thlatu a nih.
+{4:9} Jabez chu a unauhai laia inza phur tak a nih. A nu chun, "Rimsi taka ka hring a nih" a ta, a hmingah Jabez a sak a.
+{4:10} Jabez chun, "Aw, nangin mal mi sawmin ka ram mi zaupêk la ka va hang ti ngei! Mi sukna thei suol laka ka him theina dingin, ka chungah i kut innghatin mi vêng him rawh" tiin Israelhai Pathien chu a ko a. Pathienin a hnina chu a'n hlawtlingtir a.
+{4:11} Suha unaupa Kelub chu Mehir pa a na, ama chu Eston pa a nih.
+{4:12} Eston chu Beth Rafa, Pasea le Tehina pa a nih. Tehina chu Ir Nahas pa a nih. Anni hi Rekaa chêng an nih.
+{4:13} Kenaz naupahai chu Otniel le Seraia an nih. Otniel naupahai chu Hathat le Meonothai an na,
+{4:14} Meonothai chu Ofra pa a nih. Seraia chu Gerahasim-hai thlatu Joab pa a nih. Gerahasimhai chu kut themthiem mi an nih.
+{4:15} Jefune naupa Kaleb naupahai chu Iru, Ela le Naam an nih. Ela naupa chu Kenaz a nih.
+{4:16} Jehalelel naupahai chu Zip, Zifa, Tiria le Asarel an nih.
+{4:17} Ezra naupahai chu Jether, Mered, Efer le Jalon an nih. Mered nuhmeihai laia pakhat chun Miriam, Samai le Isba hai a hring a, Isba chu Estemoa thlatu a nih.
+{4:18} Mered nuhmei Juda mi chun Gedor pa Jered hai, Soko pa Heber hai le Zanoa pa Jekuthiel hai a hring a. Mered nuhmei, Aigupta mi a hming Bithia a na, Aigupta lal sûngkuoa mi a nih.
+{4:19} Chun, Hodia chun Naham farnu nuhmeiah a nei a, a naupahai chu Garm-hai thlatu Keila le Makathai thlatu Estemoa hai an nih.
+{4:20} Simon naupahai chu Amnon, Rina, Ben-Hanan le Tilon an nih. Isi thlahai chu Zohet le Ben Zohet an nih.
+{4:21} Juda naupa Sela naupahai chu Leka pa Er dâm, Maresa pa Lada dâm, Bet Asbea puon zâi inhmi khawngtu pawlhai dâm,
+{4:22} Kozeba khuoa chênghai thlatu Jokim dâm, Moab le Jasubi Lehem chunga rorêltu Joash le Saraf hai chu an nih. (Hieng chanchinhai hi tiena tlânga mi a nih).
+{4:23} Chuonghai chu bêl hemtu, lalin a sin thawtu dinga Nataim le Geder khuoa a'n umtir an nih.
+{4:24} Simeon naupahai chu Nemuel, Jamin, Jarib, Zera le Saul hai an nih.
+{4:25} Saul naupa chu Salum a na, Salum naupa chu Mibsam a na, Mibsam naupa chu Misma a nih.
+{4:26} Misma naupa chu Hamuel a na, Hamuel naupa chu Zakur a na, Zakur naupa chu Simei a nih.
+{4:27} Simei chun naupa sawm le paruk a nei a, naunu paruk a nei bok a, a unauhai ruok chun nau an hau ve naw a, Juda thlahai angin an thlahai khom an pung ve nawh.
+{4:28} Anni chu Beersheba, Molada, Hazar Sual,
+{4:29} Bilha, Ezem, Tolad,
+{4:30} Bethuel, Horma, Ziklag,
+{4:31} Bet Markabot, Hazar Susim, Bet Biri le Saraim khuoa hai an khawsa a, Davida inlal hun chenin chuong khuohai chu anni puola khuo an hluohai chu an nih.
+{4:32} An khaw se vela khuo panga Etam, Ain, Rimon, Token, Asan le
+{4:33} an kawl vela khawtehai chu Balat chenin an inzar a. Chuonghai chu an inbèngbelna hmun a na, an thlatuhai indota suina lekha khom an kol a.
+{4:34} Chuonghai chu Mesobad hai, Jamlek hai, Amazia naupa Josa hai,
+{4:35} Joel hai, Josibia naupa Jehu hai (Jehu pa chu Asiel naupa Seraia a nih),
+{4:36} Elioenai hai, Jakoba hai, Jesohaia hai, Asaia hai, Adiel hai, Jesimiel hai, Benaia hai,
+{4:37} le Sifi naupa Ziza hai an nih. Sifa pa chu Alon, chu pa chu Jedaia, chu pa chu Simri, chu pa chu Semaia a nih.
+{4:38} Hieng an hming inchuona umhai hi pahnam tina lukhàituhai an na, an sûngkuo chu nasa takin an hung pung a.
+{4:39} Chuongchun, Gedor (Gerar) kotsuo, ruom sak tieng pang chenin an ran ruolhai tlatna ding zongin an fe suok a.
+{4:40} Ran tlatna hmun tha, ram zau tak, muongum tak le re dup el chu an hmu a. Chu hmuna chun a hmain Hama thlahai an lo um hlak a.
+{4:41} Amiruokchu Juda lal Hezekia inlal laiin Simeon thlahaiin an hung rûn a, Hama thlahai le Meuna thlahai chu an bei a, an hlu suok vong a, an hmun chu an hluo songpèk a.
+{4:42} Chun, Isi naupahai Pelatia, Neraria, Refaia le Uziel hai inrawina hnuoiah Simeon thla mi zanga ruolin Seir tlângram an rûn a.
+{4:43} Amalek mi a tlân hmang naw po chu an that vong a, tu chen hin an hluo ta zing a nih.
+{5:1} Israel nau lutir Reuben chu nau lutîr ni sienkhom a pa nuhmei zalpuia a khum a surporchea inthokin a nau lutîr nina chu Josefa nauhai kuomah pêk a ni tak leiin thlatuhai chanchin upat dàn indota suinaah a piengvo anga sie a ni ta nawh.
+{5:2} Juda thlahai hin an unauhai khûm hai sienkhom nau lutîr nina chu Josefa chan a nih.
+{5:3} Israel nau lutîr Reuben naupahai chu Hanok, Palu, Hezron le Karmi hai an nih.
+{5:4} Joel thlahai chu, a naupa Semaia, chu naupa Gog, chu naupa Simei,
+{5:5} chu naupa Mika, chu naupa Reaia, chu naupa Baal,
+{5:6} chu naupa Beera, Asuria lal Tiglat Pileser-in sala a thuoi chu a nih. Bera chu Reuben hnama an thuoitu a nih.
+{5:7} An thlatuhai hnam sui dâna Reuben hnama sûngkuo tin lukhàituhai chu lal Zeiel, Zekaria,
+{5:8} Azaz naupa Bela, chu naupa Sema, chu naupa Joel hai an nih. Anni chu Aroera inthoka Nebo le Baal Meon hmun chen an inzar a.
+{5:9} Gilead-a chun an ranhai an hung pung nasat leiin sak tieng chu Eufretis vadunga inthoka thlalèr lûtna chen an hang inzar phei a.
+{5:10} Saula inlal laiin Hagar-hai leh an indo a, an hne a, Gilead sak tienga an chêngna biel po po chu an hluopêk tah a nih.
+{5:11} Gad hnamhai chu anni ep Basan ramah Saleka chenin an um a.
+{5:12} An thuoitu lu tak chu Joel a na, a dottu chu Safam a na, a danghai chu Basana mi Janai le Safat an nih.
+{5:13} An laibunghai chu an sûngkuo luhai peia tiemin Mikael, Mesulam, Seba, Jorai, Jakan, Zia le Eber, an rêngin pasari an nih.
+{5:14} Hienghai hi Huri naupa Abihail naupahai an nih: ama chu Jaroa naupa a na, ama chu Gilead naupa a na, ama chu Mikael naupa a na, ama chu Jesisahi naupa a na, ama chu Jahdo naupa a na, ama chu Buza naupa a nih.
+{5:15} Ahi chu Abdiel naupa a na, ama chu Guni naupa a na, an sûngkuoa lukhàitu tak a nih.
+{5:16} Gad hnamhai chu Gilead-a dâm, Basan le a se vel khuoa hai le Saron phaia ran tlatna hmun tha chenin an inzar a.
+{5:17} Hieng chanchinhai po po hi Juda lal Jotham le Israel lal Jeroboam inlal laia thlatuhai chanchin suinaah ziek a nih.
+{5:18} Reuben hnam, Gad hnam le Manase hnam zâtve laia mi huoisen thlang khawm, phaw le kawlhnàm hmang thiem le thal kâp thiem sipai an nei zât chu mi sîngli le sângli le zasari le sawmruk an nih.
+{5:19} Hagar mihai, Jetur mihai, Nefis mihai le Nodab mihai leh an indo a.
+{5:20} Indonaa chun thangpuiin an um a, indo lai chun thangpuitu dinga Pathien an ko leiin ama chun Hagar mihai le an inkoppuihai po po chu an kutah a pêk a. Ama an ring leiin an tongtaina chu a don a nih.
+{5:21} Hagar mihai ran an manpêk zât chu sânghawngsei sîngnga, beram nuoi hni le sîngnga, sabengtung sânghni a na, mihriem nuoi khat an man sa bok a.
+{5:22} Chu indonaa chun Pathienin a thangpui leiin an hmèlmahai chu tam tak an that a nih. Sala thuoi an ni chenin chu ram chu an hluo ta zing a.
+{5:23} Manase thla hnam zâtvehai chu tam tak an ni ta a, Basana inthoka Baal Hermon le Senir (Hermon tlâng) chenin an um dar pei a.
+{5:24} Hienghai hi an sûngkuo lukhàituhai chu an nih: Efer, Isi, Eliel, Azriel, Jeremia, Hodavia le Jahdiel. Chuonghai chu mi huoisen le hrât khawkhêng, mi hmingthang, pahnam tina thuoitu luhai chu an nih.
+{5:25} Amiruokchu an pi le puhai chu Pathien lakah an ringum naw a, an hmaa Pathienin a sukbohmang hnamhai umna rama an pathienhai chu bein an inzor a.
+{5:26} Chuongchun, Israelhai Pathien chun Asuria lal Pul (Tiglath-Pileser) lungril chu a chok tho a, Reuben thlahai, Gad thlahai le Manase thla hnam zâtve hai chu salah a man a, Hala, Habor, Hara le Gozan vadung ruoma chun a'n umtir a, tu chen hin an la um ta zing a nih.
+{6:1} Levi naupahai chu Gerson, Kohat le Merari an nih.
+{6:2} Kohat naupahai chu Amran, Izar, Hebron le Uziel an nih.
+{6:3} Amran nauhai chu Aron, Mosie le Miriam an nih. Aron naupahai chu Nadab, Abihu, Eleazar le Ithamar an nih.
+{6:4} Eleazar chu Finehas pa a na, Finehas chu Abisua pa a nih.
+{6:5} Abisua chu Buki pa a na, Buki chu Uzi pa a nih.
+{6:6} Uzi chu Zerahia pa a na, Zerahia chu Meraiot pa a nih.
+{6:7} Meraiot chu Amaria pa a na, Amaria chu Ahitub pa a nih.
+{6:8} Ahitub chu Zadok pa a na, Zadok chu Ahimaz pa a nih.
+{6:9} Ahimaz chu Azaria pa a na, Azaria chu Johanan pa a nih.
+{6:10} Johanan chu Jerusalema Solomon tempul bawla thiempu sinthaw Azaria pa a nih.
+{6:11} Azaria chu Amaria pa a na, Amaria chu Ahitub pa a nih.
+{6:12} Ahitub chu Zadok pa a na, Zadok chu Salum pa a nih.
+{6:13} Salum chu Hilkia pa a na , Hilkia chu Azaria pa a nih.
+{6:14} Azaria chu Seraia pa a na, Seraia chu Jehozadak pa a nih.
+{6:15} Jehozadak chu LALPAN Nebukadnezzar kutaa Judai ram le Jerusalem khuoa mihai a pêk lai khan salah an thuoi ve a.
+{6:16} Hienghai hi Levi naupahai chu Gerson, Kohat le Merari an nih.
+{6:17} Gerson naupahai chu Libni le Simei an nih.
+{6:18} Kohat naupahai chu Amram, Izar, Hebron le Uziel an nih.
+{6:19} Merari naupahai chu Mahli le Mushi an nih. Chuonghai chu an pahaia inthoka an sui dàn anga Levi hnamhai chu an nih.
+{6:20} Gerson thlahai chu: Gerson naupa chu Libni, chu naupa chu Jehat, chu naupa chu Zima,
+{6:21} chu naupa chu Joah, chu naupa chu Ido, chu naupa chu Zera, chu naupa chu Jeatheral a nih.
+{6:22} Kohat thlahai chu: Kohat naupa chu Aminnadab, chu naupa chu Kora, chu naupa chu Asir,
+{6:23} chu naupa chu Elkana, chu naupa chu Ebiasaf, chu naupa chu Asir,
+{6:24} chu naupa chu Tahat, chu naupa chu Uriel, chu naupa chu Uzia, chu naupa chu Saul a nih.
+{6:25} Elkana thlahai chu: Amasai le Ahimot an nih.
+{6:26} Ahimot naupa Elkana a na, chu naupa chu Zofai, chu naupa chu Nahat,
+{6:27} chu naupa chu Eliab, chu naupa chu Jeroham, chu naupa chu Elkana, chu naupa chu Samuel a nih.
+{6:28} Samuel naupahai chu a nau lutîr Joel le a dottu Abija an nih.
+{6:29} Merari naupa chu Mahli a na, chu naupa chu Libni, chu naupa chu Simei, chu naupa chu Uza,
+{6:30} chu naupa chu Simea, chu naupa chu Hagia, chu naupa chu Asaia a nih.
+{6:31} Hienghai hi LALPA ina Thuthlung Bawm an sie hnunga rimawi remtu dinga Davidan a ruothai chu an nih.
+{6:32} Solomonin Jerusalema LALPA tempul a bawl hma po chun anni hin biekbûka Intuokna Puon in hmaah rimawi an rem hlak. Anni rongbawl dàn dinga ruota um angin rong an bawl hlak.
+{6:33} Hienghai hi an nauhai le chu taka rongbawltuhai chu an nih: Zâipawl pakhat thuoitu lu tak chu Heman a nih. Ama chu Joel naupa a na, ama chu Samuel naupa,
+{6:34} ama chu Elkana naupa, ama chu Jeroham naupa, ama chu Eliel naupa, ama chu Toa naupa,
+{6:35} ama chu Zup naupa, ama chu Elkana naupa, ama chu Mahat naupa, ama chu Amasai naupa,
+{6:36} ama chu Elkana naupa, ama chu Joel naupa, ama chu Azaria naupa, ama chu Zefania naupa,
+{6:37} ama chu Tahat naupa, ama chu Asir naupa, ama chu Ebiasaf naupa, ama chu Kora naupa,
+{6:38} ama chu Izar naupa, ama chu Kohat naupa, ama chu Levi naupa, ama chu Israel naupa a nih.
+{6:39} Heman chang tienga thang zâipawl thuoitu dang chu Asaf a na, ama chu Berekia naupa a na, ama chu Simea naupa,
+{6:40} ama chu Mikael naupa, ama chu Baaseia (Maaseia) naupa a na, ama chu Makija naupa a na,
+{6:41} ama chu Etni naupa a na, ama chu Zera naupa a na, ama chu Adaia naupa a na,
+{6:42} ama chu Ethan naupa a na, ama chu Zima naupa a na, ama chu Simei naupa a na,
+{6:43} ama chu Jahat naupa a na, ama chu Gerson naupa a na, ama chu Levi naupa a nih.
+{6:44} Heman voi tienga thang zâipawl thuoitu chu Merari hnama mi Ethan a nih. Ethan chu Kishi naupa a na, ama chu Abdi naupa a na, ama chu Maluk naupa a na,
+{6:45} ama chu Hasabia naupa a na, ama chu Amazia naupa a na, ama chu Hilkia naupa a na,
+{6:46} ama chu Amzi naupa a na, ama chu Bani naupa a na, ama chu Semer naupa a na,
+{6:47} ama chu Mahli naupa a na, ama chu Musi naupa a na, ama chu Merari naupa a na, ama chu Levi naupa a nih.
+{6:48} An unau dang Levi hnama mihai chu Pathien biekna hmuna sin dang po po thaw dinga dànde an nih.
+{6:49} Aron le a thlahai ruok chun Pathien siehlaw Mosien thu a lo pêk tah angin, Hmun Thienghlim taka rongbawlna sin po po chu an chang a, maichâmah pumraw thilhlân le inthawina rimtui inhlànin Israelhai ta dingin inremna an siem hlak.
+{6:50} Hienghai hi Aron thlahai chu an nih: Aron naupa chu Eleazar a na, chu naupa chu Finehas a na, chu naupa chu Abisua a na,
+{6:51} chu naupa chu Buki a na, chu naupa chu Uzi a na, chu naupa chu Zerahia a na,
+{6:52} chu naupa chu Meraiot a na, chu naupa chu Amaria a na, chu naupa chu Ahitub a na,
+{6:53} chu naupa chu Zadok a na, chu naupa chu Ahimaz a nih.
+{6:54} Hienghai hi Levi chihaiin hmun an khuorna dinga a ram sûnga hmun an ruotpèk dàn chu a nih: Aron naupa Kohat hnama mihai chu thumvawra thlang hmasatu ding an ennaah a hmasa tak an ni angin,
+{6:55} Judai rama Hebron le a dai vela ran tlatna hmunhai chu an pêk a.
+{6:56} A khaw huop china lohai le khawper po po ruok chu Jefune naupa Kaleb an pêk a.
+{6:57} Chuongchun, Aron thlahai chana an pêkhai chu: Hebron (inhumhimna khuo), Libna, Jatir, Estemoa,
+{6:58} Hilen, Debir,
+{6:59} Asan, Juta le Bet Semes le an se vela ran tlatna hmunhai chu a nih.
+{6:60} Benjamin hnamhai chana inthokin Gibeon, Geba, Alemet le Anathot khuohai le a dâi vela ran tlatna hmunhai chu an pêk bok a. Kohat hnam kuoma an pêk po chu khaw sawm le khaw thum a nih.
+{6:61} Hieng bâka hin Kohat thlahai chu Manase hnam zâtve chanpuola inthokin khaw sawm an pêk bok.
+{6:62} Gerson thlahai chu a chi hnam hnamin Isakar hnam chanpuol, Aser hnam chanpuol, Naftalia hnam chanpuol le Basan rama Manase hnam zâtve chanpuola inthokin khuo sawm le pathum an pêk a.
+{6:63} Merari thlahai chu a chi hnam hnamin Reuben hnam chanpuol, Gad hnam chanpuol le Zebulun hnam chanpuola inthokin khuo sawm le pahnih an pêk a.
+{6:64} Chuong ang chun Israel thlahai chun Levi chia mihai chu chuong khuohai le ran tlatna hmunhai chu an pêk a nih.
+{6:65} Juda hnam, Simeon hnam le Benjamin hnamhai khomin an chanpuola inthokin a hmaa khawpui hming hril tahai kha an pêk a.
+{6:66} Efraim hnamhai chanpuola inthokin Kohat thlaa hnam thenkhatin khuo iemani zât an chang bok a.
+{6:67} Efraim tlâng rama inthokin inhumhimna khawpui Sekem le a dâi vêl le Gezer,
+{6:68} Jokmeam, Bet Horon,
+{6:69} Aijalon le Gat Rimon khuohai le an ran tlatna hmunhai chu an pêk bok.
+{6:70} Manase hnam zâtve chanpuola inthokin Israelhai chun Kohat thlaa mi hmun la chang ve lohai chu Aner le Bileam khuohai le an ran tlatna hmunhai chu an pêk bok a.
+{6:71} Gerson hnamhai an pêk po chu: Manase hnam zâtve chanpuola inthokin Basan rama Golan le Astarot khuohai le an ran tlatna hmunhai;
+{6:72} Isakar hnam chanpuola inthokin Kedes, Daberat,
+{6:73} Ramot le Anem khuohai le an ran tlatna hmunhai;
+{6:74} Aser hnam chanpuola inthokin Masal, Abdon,
+{6:75} Hukok le Rehob khuohai le an ran tlatna hmunhai;
+{6:76} le Naftalia hnam chanpuola inthokin Galili biela Kedesh, Hamon le Kiriathaim khuohai le an ran tlatna hmunhai a nih.
+{6:77} Levi chia mi hmun la chang lo Merari hnamhai an pêk po chu: Zebulun hnam chanpuola inthokin Jokneam, Karta, Rimono le Tabor khuohai le an ran tlatna hmunhai;
+{6:78} Jordan râl, Jeriko sak tienga Reuben hnamhai chanpuola inthokin thlaler rama Bezer, Jaza,
+{6:79} Kedemot le Mephat khuohai le an ran tlatna hmunhai;
+{6:80} Gad hnam chanpuola inthokin Gilead rama Ramot, Mahanaim,
+{6:81} Hesbon le Jazer khuohai le an ran tlatna hmunhai a nih.
+{7:1} Isakar naupahai chu Tola, Pua, Jasub le Simron, an rêngin pali an nih.
+{7:2} Tola naupahai chu Uzi, Refaia, Jeriel, Jamai, Ibsam le Samuel an na, chuonghai chu pahnam tin lukhàituhai an nih. Davida inlal laia Tola thlahai laia indo mi hming an inchik po chu mi sînghni le sânghni le zaruk an nih.
+{7:3} Chun, Uzi naupa chu Izrahia a na, Izrahia naupahai chu Mikael, Obadia, Joel le Isia an na, an rêngin pahnam lukhaitua thang vong an nih.
+{7:4} Nuhmei tam tak le nau tam tak an nei leiin an sûngkuo intiemnaa indoa thang thei chin po chu mi sîngthum le sângruk an nih.
+{7:5} Chun, Isakar hnam pumpui intiemnaa indoa ramtang thei chin an tiem po chu sîngriet le sângsari an nih.
+{7:6} Benjamin naupahai chu Bela, Beker le Jediael an nih.
+{7:7} Bela naupahai chu Ezbon, Uzi, Uziel, Jerimot le Iri, an rêngin panga an na, sûngkuo lukhaitu vong an nih. An thlahai tiemnaa indoa ramtang thei an tiem po chu sînghni le sânghni le sawmthum an nih.
+{7:8} Beker naupahai chu Zemira, Joash, Eliezer, Elioenai, Omri, Jeremot, Abija, Anathot le Alemet an nih. An rêngin Beker naupahai vong an nih.
+{7:9} An thlahai tiemnaa sûngkuo lukhàituhai an nih. An rênga râl doa ramtang thei mi an tiem po chu sînghni le zahnih an nih.
+{7:10} Jediael naupa chu Bilhan a na, Bilhan naupahai chu Leush, Benjamin, Ehud, Kenana, Zethan, Tarsis le Ahisahar an nih.
+{7:11} Hieng Jediael thlahai hi sûngkuoa lukhàitu vong an nih. An sûngkuoa râl doa ramtang thei zât chu sîngkhat le sângsari le zahni an nih.
+{7:12} Anni hnam laia Supim le Hupim hai chu Ira thlahai an na, Husimhai chu Aher thlahai an nih.
+{7:13} Naftalia naupahai chu Jaziel, Guni, Jezer le Sillum (Salum) an na, chuonghai chu Jakob hmei Bilha thlahai an nih.
+{7:14} Manase thlahai chu: Asriel chu a hmei Aram mi thlaa mi a nih. Hi hmei hin Gilead pa Makir a hring a,
+{7:15} Makir chun Hupim le Supim mi nuhmeiah a nei a. A farnu hming chu Maaka a nih. A thla dang chu Zelofehad a na, ama chun nau nuhmei chauh a nei.
+{7:16} Makir nuhmei Maaka chun nau pasal a hming Peres a nei a. A unaupa hming chu Seres a na, a naupahai chu Ulam le Rakem an nih.
+{7:17} Ulam naupa chu Bedan a nih. Chuonghai chu Manase thla Makir naupa Gilead naupahai chu an nih.
+{7:18} Chun, a farnu Hamoleket chun Ishod, Abiezer le Mala a hring a.
+{7:19} Semida naupahai chu Ahian, Sekem, Likhi le Aniam an nih.
+{7:20} Efraim naupa chu Suthela a na, ama naupa chu Bered a na, chu naupa chu Tahat a na, chu naupa chu Eleada a na, chu naupa chu Tahat a na,
+{7:21} chu naupa chu Zahad a na, chu naupa chu Suthela a nih. A nau danghai Ezer le Elead chu Gath khuoa mihai ran ruol inrûk an tumnaah a ram mihaiin an lo that a.
+{7:22} An pa Efraim chun ni tam tak a sûn a, a unauhai chun an hung ràl a.
+{7:23} Chun, a nuhmei chu a pawl a, nau a pai a, nau pasal a hring a, a insùng vangduoinan a tlâk buok lei chun a hmingah Beria a sak a.
+{7:24} A naunu hming chu Seera a na, ama chu Beth Horon khuo chuonchung le chuonhnuoi le Uzen Seera khuohai indintu a nih.
+{7:25} Efraim chun naupa dang a hming Refa a nei a, chu naupa chu Resef a na, chu naupa chu Tela a na, chu naupa chu Tahan a na,
+{7:26} chu naupa chu Ladan a na, chu naupa chu Amihud a na, chu naupa chu Elisama a na,
+{7:27} chu naupa chu Nuna a na, chu naupa chu Josua a nih.
+{7:28} An chanpuol ram le umhmun an khuornahai chu Bethel le a khawperhai, sak tieng Naaran, thlang tieng Gezer le a khawperhai, Sekem le a khawperhai le Ayya le a khawperhai chenin.
+{7:29} Manase-hai ramri bula khuohai chu Beth San, Tamanak, Megido le Dor le an khawperhai an nih. Israel naupa Josefa thlahai chu hieng khuoa hai hin an um a nih.
+{7:30} Aser naupahai chu Imna, Isva, Isvi le Beria an na, an farnu chu Sera a nih.
+{7:31} Beria naupasahi chu Heber le Malkiel an na, Malkiel naupa chu Birzait a nih.
+{7:32} Heber naupahai chu Jaflet, Somer le Hotham an na, an farnu chu Sua a nih.
+{7:33} Jaflet naupahai chu Pasak, Bimhal le Asvat an nih.
+{7:34} Somer naupahai chu Ahi, Roga, Huba le Aram an nih.
+{7:35} A unaupa Helem naupahai chu Zofa, Imna, Seles le Amal an nih.
+{7:36} Zofa naupahai chu Sua, Harnefer, Sual, Beri, Imra,
+{7:37} Bezer, Hoda, Sama, Silsa, Ithran (Jether) le Beera an nih.
+{7:38} Jether naupahai chu Jefune, Pispa le Ara an nih.
+{7:39} Ula naupahai chu Ara, Haniel le Rizia an nih.
+{7:40} Hieng Aser thlahai hi pahnam tina lukhàituhai, thlang fâl, mi huoisen le thuoitu challanghai chu an nih. An thlahai, râl doa ramtang thei an tiemhai po chu sînghni le sângruk an nih.
+{8:1} Benjamin nau lutîr chu Bela a na, a pahnina Asbel, a pathumna Ahara,
+{8:2} a palina Noha le a pangana Rafa a nih.
+{8:3} Bela naupahai chu Adar, Gera, Abihud,
+{8:4} Abisua, Naaman, Ahoa,
+{8:5} Gera, Sefufan le Huram an nih.
+{8:6} Ehud thlahai,
+{8:7} Gebaa umhai laia sûngkuo tin lukhaituhai le Mahanat-a sala an thuoihai chu Naaman, Ahija, le Gera an na, Gera chu sala thuoitu a na, naupa Uza le Ahihud hai a hring a.
+{8:8} Saharaim chun Moab-a a um laiin a nuhmei Husim le Baara hai a mâk a,
+{8:9} Hodes a nei a, ama le chun naupa Jobab, Zibia, Mesa, Malkam,
+{8:10} Jeuz, Sakia le Mirma, an rêngin pasari a nei a.
+{8:11} Husim lakah Abitub le Elpaal a nei bok a.
+{8:12} Elpaal naupahai chu Eber, Misam, Semed an na, Semed chu Ono khuo le Lod khuo le an khawperhai indintu a nih.
+{8:13} Beria le Sema chu Aijalona an sûngkuohai lukhàitu le Gath khuoa mihai hnot suoktu an nih.
+{8:14} Beria naupahai chu Ahio, Sasak, Jeremot,
+{8:15} Zebadia, Arad, Eder,
+{8:16} Mikael, Ispa le Joha an nih.
+{8:17} Elpaal naupahai chu Zebadia, Mesulam, Hizki, Heber,
+{8:18} Ismerai, Islia le Jobab an nih.
+{8:19} Simei naupahai chu Jakim, Jikri, Zabdi,
+{8:20} Elienai, Zilethai, Eliel,
+{8:21} Adaia, Beraia le Simrat an nih.
+{8:22} Sasak naupahai chu Ispan, Eber, Eliel,
+{8:23} Abdon, Zikri, Hanan,
+{8:24} Hanania, Elam, Anthothija,
+{8:25} Ifdeia le Penuel an nih.
+{8:26} Jeroham naupahai chu Samserai, Seharia, Athalia,
+{8:27} Jaaresia, Elija le Zikri an nih.
+{8:28} Hienghai hi an sûngkuo chanchin inziek dana an lukhàituhai an na, Jerusalema um an nih.
+{8:29} Gibeon khuoa chun Gibeon pa Jeiel a um a, a nuhmei hming chu Maaka a na,
+{8:30} an naupa upa tak chu Abdon a na, a danghai chu Zura, Kisa, Baal, Nera, Nadab,
+{8:31} Gedor, Ahio, Zeker,
+{8:32} le Miklot an na, Miklot chu Simea pa a nih. Anni khom Jerusalema an sûngkuohai laia um an nih.
+{8:33} Nera chu Kisa pa a na, ama chu Saula pa a na, ama chu Jonathan pa a na, ama chu Malki-Sua, Abinadab le Esh-Baal (Is-Boset) hai pa a nih.
+{8:34} Jonathan naupa chu Meri-Baal (Mefiboset) a na, ama chu Mika pa a nih.
+{8:35} Mika naupahai chu Pithon, Melek, Tarea le Ahaz an nih.
+{8:36} Ahaz naupa chu Jehoada a na, chu naupahai chu Alemet, Azmavet le Zimri an na, Zimri naupa chu Moza a na,
+{8:37} ama naupa chu Binea a na, ama naupa chu Rafa a na, ama naupa chu Eleasa a na, ama naupa chu Azel a nih.
+{8:38} Azel naupa parukhai chu Azrikam, Bokeru, Ismael, Searia, Obadia, le Hanan an nih. Chuonghai po po chu Azel naupahai an nih.
+{8:39} A unaupa Esek naupahai chu, a upa tak Ulam, a pahnina Jeush, a pathumna Elifelet a nih.
+{8:40} Ulam nauhai chu mi huoisen, thal kâp thiem an nih. Anni chun tu le te tam tak, an rêngin za le sawmnga, an nei.Chuonghai po chu Benjamin thlahai chu an nih.
+{9:1} Israel lalhai chanchin zieknaah
+{9:2} An chanpuol khuo hung hluo tan nawktuhai chu Israelhai laia a then le thiempuhai, Levi chihai le tempula sinthawhai an nih.
+{9:3} Jerusalema Juda thla, Benjamin thla, Efraim le Manase thla umhai chu:
+{9:4} Amihud naupa Uthai, chu naupa Omri, chu naupa Bani an na, anni chu Juda naupa Perez thlahai an nih.
+{9:5} Silon thlahai laia um chu a nau upa tak Asaia le a naupahai an nih.
+{9:6} Zera thlahai laia um chu Jeuel a nih. Juda thla Jerusalema um po chu an rêngin zaruk le sawmkuo an nih.
+{9:7} Benjamin hnam hrang hrang Jerusalema umhai chu Mesulam naupa Salu hai sùng: Mesulam pa chu Hodavia a na, ama pa chu Hasenua a nih;
+{9:8} Jeroham naupa Ibneia sûnghai; Uzi naupa, Mikri tupa Ela le a sûnghai; Sefatia naupa Mesulam sûnghai: Sefatia pa chu Reuel a na, Reuel pa chu Ibnija a nih.
+{9:9} An sûngkuo thlatuhai suina dungzuia Jerusalema Benjamin thla um po chu zakuo le sawmnga paruk an na, chuonghai chu sûngkuo tina lukhàitu vong an nih.
+{9:10} Jerusalema um thiempuhai chu: Jedaia hai; Jehoiarib hai; Jakin hai;
+{9:11} Pathien in enkoltu Hilkia naupa Azaria hai: Hilkia chu Mesulam naupa a na, ama chu Zadok naupa a na, ama chu Meraiot naupa a na, ama chu Ahitub naupa a nih;
+{9:12} Jeroham naupa Adaia hai: Jehoram chu Pasur naupa a na, ama chu Malkija naupa a nih; Adiel naupa Maasai hai: ama chu Jazera naupa a na, ama chu Mesulam naupa a na, ama chu Mesilemit naupa, a na, ama chu Imer naupa a nih.
+{9:13} Thiempu, sûngkuo tin lukhàitu zât chu sângkhat le zasari le sawmruk an nih. Anni rawi chu mi thei tak tak vong an ni a, Pathien ina rongbawl sin chu an mawphurna a nih.
+{9:14} Levihai laia Jerusalema umhai chu: Hasub naupa Semaia: Hasub chu Azrikam naupa a na, Azrikam chu Merari hnama Hasabia naupa a nih;
+{9:15} Bakbakar hai, Heresh hai, Galal hai le Mika naupa Matania hai: Mika chu Zikri naupa, Zikri chu Asaf naupa a nih;
+{9:16} Semaia naupa Obadia hai: Semaia chu Galal naupa, ama chu Jeduthun naupa a nih; Asa naupa Berekia hai: Asa chu Elkana naupa a na, Netofat-hai khuoa um hlak a nih.
+{9:17} Kotkhâr vêngtuhai chu Salum hai, Akub hai, Talmon hai, Ahiman le a unauhai an na, an hotupa chu Salum an nih.
+{9:18} Anni chu tu lai chena suo tieng lal kotsuo nghâktu an na, Levihai riebûk tienga um hlak an nih.
+{9:19} Salum chu Kore naupa a na, ama chu Ebiasaf naupa a na, ama chu Kora naupa a nih. Ama le a kotkhâr vêngpui Kora thlahai chun an pi le puhaiin LALPA biekbûk kot an vêng hlak ang bokin, Intuokna Puon in kot vêng chu an mawphurna a nih.
+{9:20} Tuta hma chun Eleazar naupa Finehas chu kotkhâr vêngtuhai hotu a ni hlak a, a kuomah LALPA a um a.
+{9:21} Meselemia naupa Zekaria chu Intuokna Puon in kota vêngtu a nih.
+{9:22} Chuong kotkhâr vêngtu dinga thlang po po chu mi zahni le sawmpahnih an nih. Davida le zawlnei Samuelin an thaw ding senga an lo ruothai chu an umna khuo senga an thlahai tiemna lekhabuah ziek a nih.
+{9:23} Anni le an nauhai chu LALPA biekbûk kotkhâr vêngtuhai an nih.
+{9:24} A kil li, sak le thlang le sim le hmara kotkhâra hai chun vêngtuhai chu an um hlak a.
+{9:25} Chun, khuoa um an unauhai chun tum khatah ni sari pei an sin chu an hung thangpui hlak.
+{9:26} Vêngtu hotu palihai chu Levi chia mi an na, mawphurna insâng tak an chel a, tempul sûnga thil po po le rosum siena pindanhai enkoltu an nih.
+{9:27} Enkoltu sin thaw an ni lei le tûk tina kot hong chu an sin a ni leiin Pathien in bula chun an riek hlak.
+{9:28} A thenin rongbawlna bûr le bèl an enkol a, an lâk suok le sie lût zâtin an tiem a.
+{9:29} A then chu in cheina hmangruo hai, hmun thienghlima bûr le bèl hai po po, beiphit hai, uoiin hai, hriek hai, beraw le rimtui hai enkoltu dinga ruot an nih.
+{9:30} Thiempu a thenin rimtui an siem hlak a.
+{9:31} Kora thla, Saluma naupa upa tak, Levi mi Mathithia mawphurna chu inhlàn ding bei siem a nih.
+{9:32} Chun, Kohat thlaa mi a then chu Sabat zàta hlânbei sie ding buotsaitu le sietu an nih.
+{9:33} Hla saktuhai le rimawi tumtu, Levi sûngkuoa lukhàituhai chu sun le zana thok zing an ni leiin tempulah an riek a, rongbawlna sin danga khom an inawl vong a.
+{9:34} Chuonghai chu Levi sûngkuoa lukhàituhai, an hnam chanchin inzieknaa lu nina cheltu, Jerusalema umhai chu an nih.
+{9:35} Gibeonhai thlatu Jeiel chu Gibeon-ah a um a, a nuhmei hming chu Maaki a nih.
+{9:36} A nau lutîr chu Abdon a na, a danghai chu Zura, Kisa, Baal, Nera, Nadab,
+{9:37} Gedor, Ahio, Zekaria le Miklot an nih.
+{9:38} Miklot chu Simeam pa a na, an laibunghai bulah Jerusalemah a um a.
+{9:39} Nera chu Kisa pa a na, Kisa chu Saula pa a na, Saula chu Jonathan, Malki-Sua, Abinadab le Esh-Baal (Ish-Boset) hai pa a nih.
+{9:40} Jonathan naupa Merib-Baal (Mefiboset) chu Mika pa a nih.
+{9:41} Mika naupahai chu Pithon, Melek, Tahrea le Ahaz an nih.
+{9:42} Ahaz chu Jada pa a na, Jada chu Alemet, Azmavet le Zimri pa a na, Zimri chu Moza pa a nih.
+{9:43} Moza chu Binea pa, Binea chu Refaia pa, Refaia chu Eleasa pa, Eleasa chu Azel pa a nih.
+{9:44} Azel nau parukhai chu Azrikam, Bokeru, Ismael, Searia, Obadia le Hanan an nih. Chuonghai chu Azel naupahai chu an nih.
+{10:1} Filistinhai chun Israelhai chu an bei a, an hmaah Israelhai an tlânsie a, Gilboa tlânga chun tam tak an that a.
+{10:2} Filistinhai chun Saula le a nauhai chu an hnot ngat ngat a, Jonathan le Abinadab le Malki-Sua hai chu an that a.
+{10:3} Saula thangna hmun lai chun an inbei nasa hle a, thal kâptuhai chun an hung hnot phâk a, an inhliem a.
+{10:4} Saula chun a râlthuom chawitu kuomah, "I kawlhnàm kha phawi la, mi hung sun tlang rawh, hieng sertan lohai hin mi uongkhum pal rawi an tih" a ta. Sienkhom, a râlthuom chawitu chun a sun ngam naw leiin Saula chun a kawlhnàm chu a lâk a, a baw ta a.
+{10:5} A râlthuom chawitu chun Saula a thi ti a hriet chun a kawlhnàm chu a baw ve a, a thi ve ta a.
+{10:6} Chuongchun, Saula le a nau pathumhai chu an thi a, an thi ruolin an lalna khom a mang ta nghal a nih.
+{10:7} Ruoma um Israelhai chun sipai an tlânsiet thu le Saula le a nauhai an thi thu an hriet charin an khuohai suoksanin an tlân dar chum chum a. Filistinhai chu an hung a, an va hluo ta a.
+{10:8} A zînga chun Filistinhai chu an râl thathai râlthuom va rok dingin an fe a, Gilboa tlânga Saula le a naupahai ruong chu an va hmu a.
+{10:9} Saula lu chu an lâk a, an râlthuom chu an hlîppek a, an lâk a, an chanchin chu an pathien lem biekhai le mipuihai kuoma puong dar dingin Filistin ram pumpuiah zuolko an intlântir a.
+{10:10} Saula râlthuom chu an pathien tempulah an sie a, a lu chu an Dagon tempula chun an tàr a.
+{10:11} Filistinhaiin Saula an soisak dàn po po Gilead biela Jabes khaw mihaiin an lo hriet chun,
+{10:12} an mi huoisen po po chu an inthok suok a, Saula ruong le a naupahai ruong chu an va lâk a, Jabes-ah an hung hawn a, an ruhai chu Jabes-a saisuo kung lien bulah an phûm a, ni sari sûnin bu an nghei a.
+{10:13} Saula chu LALPA lakah a ringum naw a, LALPA thu a zawm nuom naw a,
+{10:14} thuoitu dinga LALPA rawn nêkin ramhuoi zawl, rau ko thiem le aisan thiemhai chen a rawn lem leiin LALPAN a sukhlum a, a ram khom Jesai naupa Davida kuomah a pêk lem tah a nih.
+{11:1} Israel pahnam po po chu Hebron-ah Davida kuomah an hung a, a kuomah "Ngai ta, i taksa le thisen inzompui kan ni hi.
+{11:2} Kha hmaa kan chunga Saula inlal lai khom khan kan ràl beinaa Israelhai thuoitu tak chu nangma i ni hlak a. LALPA chun i kuomah, 'Ka mi Israelhai thuoi i ta, an lalah i um ding a nih' a ti che a ni kha" an ta.
+{11:3} Israel upahai po po chu Hebron-ah Davida kuomah an hung a, LALPA hmaah anni chu thu a lo thlungpui a, LALPAN Samuel hmanga a lo tiem tah angin Davida chu Israel lal dingin Hebrona chun hriek an nàl a.
+{11:4} Israelhai po po chu thuoiin Jebuhai khawpui Jerusalem bei dingin Davida chu a suok a.
+{11:5} Jebuhai chun, "Hi taka hin hung lût thei teu naw nih" an ti a. Amiruokchu, Davida chun Zion kul chu a lâk a, chu kul umna muol chu 'Davida Khawpui' ti a hung ni ta a.
+{11:6} Davida chun, "Jebuhai bei dinga hma thuoitu chu kawmandar lu takah ruot ka tih" a ta. Zeruia naupa Joab chu a hang fe hmasa tak a, kawmandar lu takah a sie ta a.
+{11:7} Davida chun kulah umhmun a khuor phot a, chu lei chun Davida Khawpui tiin an ko a nih.
+{11:8} Suo tieng muola kul thut ding hnuoi an sung zawla inthoka intanin kul vel tuok chu Davidan a siem tha a, Joab-in khawpui sûng chu a siem tha a.
+{11:9} Iengkim LALPA chun a umpui leiin Davida chu a hung ropui ta deu deu a.
+{11:10} Hienghai hi Davida sipai huoisen, Israelhai po po leh thang tlânga, LALPAN a lo tiem tah anga a ram pum huopa a lalna indinpuitu,
+{11:11} a kuoma um mi hrât khawkhênghai chu an nih: Hakmon mi Jasobeam chu sipai hotu lien pathumhai laia a lu tak, tum khata inbeinaa fei ringota mi zathum thattu a nih.
+{11:12} A dottu chu Aho mi, Dodai naupa Eleazar, hotu lien pathumhai laia pakhat chu a nih.
+{11:13} Indo dinga Pas Damim-a Filistinhai an inhawr khaw tumin Davida a zui a. Chu hmun chu barli bil a na, Israelhai chu an tlânse el ta a.
+{11:14} Ama le a rawihai chun lo lai thanghmun an khaw a, an vêng tlat a, Filistinhai chu an lo that pei a, LALPAN hnena ropui tak a pèk a.
+{11:15} Mi huoisen sawmthum thlang suok laia pathumhai chu Davida kuomah Adulam pûkah an fe a, Filistin mihai chu Refa-hai umna ruomah an lo inkul a.
+{11:16} Chuong lai chun Davida chu kulah a um a, Filistin sipai pawl khat chu Bethlehemah an inkul a.
+{11:17} Davida chun tui a châk êm êm a, "Bethlehema tuikul tui, kul kotkhâr bula um kha mi chawipèk thei um hlauh hai sien chu maw!" a ti vong vong a.
+{11:18} Mi huoisen pathumin Filistinhai chu an tawn tlang a, kul kotkhâr bula um Bethlehem tuikula tui chu an hang chawi a, Davida kuomah an fepui a. Sienkhom Davida chun dawn loin LALPA ta dingin a bun thlâk ta lem a.
+{11:19} "Aw LALPA, hi hi chu thaw naw top ka tih; thi huoma fehai thisen chu ka dawn ding am a ni?" a ta. An hringna meu thâpa an hung chawi a ni leiin Davida chun a dawn naw a nih. Chuong ang chu mi ropui pathumhai huoisen dàn chu a nih.
+{11:20} Joab unaupa Abisai chu 'Pasaltha Sawmthum'a an tihai laia hotu tak a nih. Ama chun feiin mi zathum a bei a, a sun hlum vong a, hming that a hlaw hle a.
+{11:21} Chuongchun, a lêt hnia kaisângna dongin 'Pasaltha Sawmthum' an ti laia hotu tak a hung ni ta a, sienkhom 'Pasaltha Pathum' an tihai lai ruok chu a thang sa ve nawh.
+{11:22} Kebzel khaw pasaltha Jehoiada naupa Benaia chu mi huoisen tak a na, thil nasa tak tak a thaw a. Moab mi huoisen pahni a that zoin a fe thlàk a, vûr tlâk hun lai hin khurah sakeibaknei a zu that nawk a.
+{11:23} Chun, Aigupta mi lien tak el, a dung meter hni le centimeter thuma insâng chu a that bok a. Aigupta pa chun fei, a ngul khom puon khawngna themtlâng tiet hi a chawi a, Benaia chun hmol chauh chawiin a zu pan a, a fei chu a lâkpèk a, ama fei ngei chun Aigupta mi lien chu a sun hlum a.
+{11:24} Chuong ang thil chu 'Pasaltha Sawmthum' laia mi Jehoiada naupa Benaia chun a thaw leiin a hming a tha hle a.
+{11:25} Sienkhom 'Pasaltha Pathumhai' lai ruok chu a thang phâk nawh. Davida chun ama vêngtuhai laia hotuah a sie a.
+{11:26} Mi huoisen hmingthang danghai chu Asahel, Joab unaupa; Dodo naupa, Bethlehema mi Elhanan;
+{11:27} Haror mi Samot; Pelon mi Helez;
+{11:28} Tekoa mi Ikes naupa Ira; Anathot mi Abiezer;
+{11:29} Husait mi Sibekai; Aho mi Ilai;
+{11:30} Netofat mi Maharai le Baana naupa Heled;
+{11:31} Benjamin hnama mi Gibea inthoka hung, Ribai naupa Ithai; Pirathon mi Benaia;
+{11:32} Gaash ruom khokroka mi Hurai; Arbat mi Abiel;
+{11:33} Baharum mi Azmavet; Salbon mi Eliaba;
+{11:34} Gizon mi Hasem naupahai le Harar mi Sagee naupa Jonathan;
+{11:35} Harar mi Sachar naupa Ahiam; Ur naupa Elifal;
+{11:36} Mekerat mi Hefer; Pelon mi Ahija;
+{11:37} Karmel mi Hezro; Ezbai naupa Naarai;
+{11:38} Nathan unaupa Joel; Hagri naupa Mibar;
+{11:39} Amon mi Zelek; Berot mi Naharai, Zeruia naupa Joab râlthuom chawitu;
+{11:40} Jatir mi Ira le Gareb;
+{11:41} Hit mi Uria; Ahlai naupa Zabad;
+{11:42} Siza naupa Adina, Reuben hnam laia hotu le rawi mi sawmthum nei;
+{11:43} Maaka naupa Hanan; Mithan naupa Jehosafat;
+{11:44} Astera mi Uzia; Aroer khaw mi Hotham nauhai Sama le Jeiel;
+{11:45} Tiz khaw mi Simri nauhai Jediael le Joha;
+{11:46} Mahava mi Eliel; Elnam nauhai Jeribai le Josavia; Moab mi Itma;
+{11:47} Zoba mi Eliel, Obed le Jasiel hai an nih.
+{12:1} Kisa naupa Saula leia Ziglag khuoa Davida a râltlân lai chun Saula chipuihai laia mi ringum le huoisen iemani zât Davida thangpui dingin an hung a.
+{12:2} Voi tieng le chang tieng inang charin thal an kâp thiem a, virvom an dêng thiem bok a.
+{12:3} An hotu takhai chu Ahiezer le Joash an na, Gibea inthoka hung, Sema nauhai an nih. An sipaihai chu Azmavet nau pahni Jeziel le Pelet hai; Anathot mi Beraka le Jehu hai;
+{12:4} Gibeon mi Ismaia, Pasaltha Sawmthum pawl laia an mi huoisen le thuoitu hai; Gedera mi Jeremia, Jahaziel, Johanan le Jozabad hai;
+{12:5} Harup mi Eluzai, Jerimot, Bealia, Semaria le Sefatia hai;
+{12:6} Kora pahnama mi Elkana, Isia, Azarel, Joezer le Jasobeam hai;
+{12:7} Gedor mi Jeroham naupa Joela le Zebadia hai an nih.
+{12:8} Gad mihai laia thenkhat chu thlalèr kula Davida a um laiin ama tieng an hung pakai a. Anni chu mi huoisen, indo thiem, phaw le fei hmang thiem le sakeibaknei hmèl ang put, tlânga sazuk tuoi anga zuonzâng an nih.
+{12:9} An hotu tak chu Ezer a na, a pahnina Obadia, a pathumna Eliab,
+{12:10} a palina Mismana, a pangana Jeremia,
+{12:11} a parukna Atai, a pasarina Eliel,
+{12:12} a parietna Johanan, a pakuona Elzabad,
+{12:13} a sawmna Jeremia le a sawmpakhatna Makbanai a nih.
+{12:14} Chuong Gad mihai chu sipai hotu an na, anni laia hrât naw tak khomin mi za a hen a, a hrât tak chun mi sângkhat a hen a nih.
+{12:15} Anni hi a nih thla khatnaa Jordan vadung kuong a liem zur zur lai khom pal kai a, ruom sak le thlanga chênghai hnot dartu chu.
+{12:16} Benjaminhai le Judahai laia thenkhat chu kulah Davida kuomah an fe a.
+{12:17} Davida chun anni chu a lo hmuok a, "A tha tienga mi thangpui dinga ka kuoma hung in ni chun lungril takin ka lawm lût cheu a, amiruokchu, in chungah ieng khom poi ka tawk naw sa khoma ka hmèlmahai mi'n mantir tuma hung in ni chun, ei pi le puhai Pathien chun inchikin hrem cheu raw se" a ta.
+{12:18} Chuongchun, 'Pasaltha Sawmthum' hai hotu Amisai chunga chun thlarau a hung tlung a, "I mihai kan nih, aw Davida!I tienga thang kan nih, aw Jesai naupa!Hlawtling la, hlawtling ngei rawh,A thangpuituhai che khom hlawtling sien,In Pathienin thangpui cheu raw se"a ta. Chuongchun, Davida chun anni chu a lawm lût a, sipai pawl hotuah a sie tawl a.
+{12:19} Saula do dinga Filistinhai an inthok laiin Davida khom anni tieng a thang ve a, Manase-hai laia mi thenkhat chu Davida tieng an hung pakai bok a. (Amiruokchu, Davida le a mihai chun Filistinhai chu an thangpui ta nawh. Filistin hotuhai an inrawn hnung chun, "A pu Saula tieng pakai a ta, ei lu chân hlau rawi ei tih" an ti a, an hnar kîr tah a nih.)
+{12:20} Ziklag-a Davida a fe laia a kuom tienga Manase mi hung pakaihai chu Adnan, Jozabad, Jediael, Mikael, Jozabad, Elihu le Zilethai hai an na, sipai sângkhat chung peia hotu vong an nih.
+{12:21} Rûkrâla che pawlin Davida an hung bei laia lo dopuitu mi huoisen an na, a sipai hotu vong an nih.
+{12:22} Pathien sipaihai ang tluka ropui sipai an din chenin ni tinin Davida tienga thang ding mi an hung inpe a, sipai tam tak a nei ta a.
+{12:23} LALPA thu anga Saula nêka Davida chu lala siem dinga Hebron khuoa inrâlthuom sa ngot Davida kuoma hung zât chu:
+{12:24} Juda thla, phaw le fei chawia indo dinga inrâlthuom mi sângruk le zariet;
+{12:25} Simeon thlaa mi huoisen, indo dinga inrâlthuom mi sângsari le zakhat;
+{12:26} Levi thlaa mi sângli le zaruk;
+{12:27} Aron thlahai thuoitu Jehoiada le a rawihai mi sângthum le zasari;
+{12:28} tlangvàl huoisen Zadok le a sûngkuo laia mi, sipai hotu sawmhni le pahnih;
+{12:29} Benjamin thla, Saula chipuihai mi sângthum (Benjamin hnama mi tam lem chu Saula tantu an la ni zing);
+{12:30} Efraim thlaa mi, mi hrât le huoisen, an sûngkuo laia mi hmingthang ngot sînghni le zariet;
+{12:31} Manase hnam zâtve laia mi, lala Davida siem dinga an tir suok sîngkhat le sângriet;
+{12:32} Isakar thlaa mi, thil chinchang hrie le Israelhaiin iem a na an thaw ding ti hre chieng, hotu zahni le an thu hnuoia um an sûngkuohai po po leh;
+{12:33} Zebulun thlahai, hriemhrei tinrêng hmanga indo thiem, Davida laka ringum taka um, thangpui dinga inrâlring zing mi sîngnga;
+{12:34} Naftalia thlaa mi ofisar sângkhat le phaw le fei chawi sipai sîngthum le sângsari;
+{12:35} Dan thlaa mi, indo dinga inpei sa sînghni sângriet le zaruk;
+{12:36} Aser thlaa mi, indo thiem le indo dinga inrâlring zing sîngli;
+{12:37} Jordan vadung sak tienga chêng Reuben hnam, Gad hnam le Manase hnam zâtvea inthokin inrâlthuom sa nuoikhat le sînghni an nih.
+{12:38} Chuonghai po po chu râldo dinga mani nuom thua inpe, Davida chu Israel ram pumpuia lala siem ngei dinga Hebrona hung an nih. Chun, Israel hnam dang po po khom Davida chu lala siem dingin an khuongruol vong a.
+{12:39} Davida kuoma chun ni thum faa dawnin an um a, chuonghai chu an unauhaiin an buotsaipèk vong a nih.
+{12:40} Chu bâkah, an unau hmun hlaa inthoka hung Isakar hai, Zebulun hai le Naftalia hai chun sabengtung dâm, sanghawngsei dâm, sakor dâm le bawngchal dâm hung thuoiin fâk ding tam tak bei dâm, theichang pèr dâm, grèp ra em tawl dâm, uoiin dâm, hriek dâm an hung phur a, that ding bawngchal le beram an hung kei teu bok a, Israel ram chu lawmnain a sip a.
+{13:1} Davida chun mi sângkhat chunga kawmandarhai le zakhat chunga kawmandar tinhai chu a'n rawnpui a.
+{13:2} Chu zoah Israel pungkhawmhai po po kuomah, "Tha in ti zawng a ni a, LALPA ei Pathien remti zawng a ni bok chun, Israel ram po poa ei unau la hung ve lohai le an kuoma um thiempuhai le Levi chihai, an khuo le ran tlatna hmuna chênghai po po chu hung ve dingin fiel ei tiu khai.
+{13:3} Ei Pathien Bawm hi la kîr nawk tâng ei tiu, Saula inlal sûng po khan ei ngaiven dêr si naw a" a ta.
+{13:4} Pungkhawmhai po po chun thil indik niin an hriet a, an remti a.
+{13:5} Chuongchun, Davida chun Aigupta vadung Sihora inthoka Hamat khaw lûtna chena Israel mi um po po chu Kiriat-Jearima inthoka Pathien Bawm chu Jerusalema la tung dingin a ko khawm vong a.
+{13:6} Davida le mi po po chu Judai rama Baala khuo, Kiriat Jearim an tia chun cherubim thla zâr kâra inthut LALPA hming chuongna Pathien Thuthlung Bawm chu la dingin an hang fe a.
+{13:7} Pathien Bawm chu Abinadab ina inthokin tawlailir tharin an fepui a, Uza le Ahio-in tawlailir chu an khal a.
+{13:8} Davida le Israel mi po po chun hla sakin, tingtang hai, perkhuong hai, khuong hai, dârbenthek hai, tawtawrawt hai tumin, Pathien hmaah an làm suou suou el a.
+{13:9} Chun, Kidon hrizawl an hang tlung chun bawnghai chu an inpal leiin Bawm chu chel nghet tumin Uza chun a zuk ban a.
+{13:10} Chu phing leh LALPA lung chu Uza chungah a sen thut a, Bawm a chel lei chun a sukhlum a, chu hmuna chun Pathien hmaah a thi ta a.
+{13:11} Uza chunga LALPAN kut a thlâk lei chun Davida lung chu a sen hle a, chu hmun chu tu chen hin Perez Uza ti a la ni zing.
+{13:12} Chu ni chun Davida chun Pathien a ti hle a, "Hieng hi a ni si chun, iengtin am Pathien Bawm chu ka hawn ngam ding a na?" a ta.
+{13:13} Chuleiin, Davida chun Thuthlung Bawm chu Davida khawpuiah hawn ta loin, Git mi Obed-Edom inah a sie ta lem a.
+{13:14} Obed-Edom ina chun Pathien Bawm chu thla thum a um a, a sûngkuo le a thil nei po po chu iengkimah LALPAN mal a sawm a.
+{14:1} Tura lal Hiram chun
+{14:2} LALPAN Israelhai chunga lala a suknghetzie le a mi Israelhai zâra a ram chu a chawisàng a nizie Davida chun a hriet a.
+{14:3} Jerusalema chun Davidan nuhmei a nei bel a, naupa le naunuhai a nei sa bok a.
+{14:4} Jerusalema inthoka a nau pienghai chu Samua, Sobab, Nathan, Solomon,
+{14:5} Ibar, Elisua, Elpelet,
+{14:6} Noga, Nefeg, Jafia,
+{14:7} Elisama, Beliada (Eliada) le Elifelet hai an nih.
+{14:8} Filistin mihaiin Davida chu Israel mi po po lalah hriek an nàl tah ti an hriet chun zong dingin an sipai po po leh an inthok suok a, sienkhom Davidan a lo hriet lawk leiin anni chu lo bei dingin a'n thok suok ve a.
+{14:9} Filistinhai chu an hung a, Refaim Ruom an hung rûn a.
+{14:10} Davida chun "Fe suokin Filistinhai chu ka do ding am a ni? Anni chu ka kutah i mi pêk ding am a nih?" tiin Pathien a rawn a. LALPA chun, "Hang fe rawh, anni chu i kutah pêng ka ti che" a ta.
+{14:11} Chuongchun, Davida chu a mihai leh Baal-Perazim-ah a hang fe a, chu taka chun Filistinhai chu a hne a. Ama chun, "LALPAN ka kut hmangin, ka hmèlmahai chu tuiting inthe angin a vuok dar vong tah" a ta, chu hmun hminga chun Baal Perazim tiin a'n bûk a.
+{14:12} Filistinhai chun an pathien lemhai chu an tlânsan a, Davida chun raw hmang vong dingin thu a pêk a.
+{14:13} Sawt naw te hnungah Filistinhai chun Refaim ruom bok chu an hung rûn nawk a.
+{14:14} Davida chun Pathien a rawn nawk a, Pathien chun, "Hmason chot el loin inhuol tawl la, balsam thing kung zawna son bei tawl rawh.
+{14:15} Balsam lêra ke pên ri tlut tlut i hriet charin anni chu bei rawh. Filistin sipaihai bei dingin i hmaah Pathien a fe tina a nih" a ta.
+{14:16} Davida chun Pathienin a hril ang tak chun a thaw a, Filistin sipaihai chu Gibeon-a inthoka Gezer chen a hnot a, a that teu a.
+{14:17} Davida hming chu a hung inthang ta hle a, LALPA leiin ama chu hnam tinin an ti a.
+{15:1} Davida khawpuia Davidan ama in ding a bawl zo chun Pathien Bawm umna ding hmun a buotsai a, chu taka chun puon in a kei a.
+{15:2} Chun, David chun, "Pathien Bawm hi Levihai chauh naw chun tu khomin an zawn ding a ni nawh; Pathien Bawm hi kumkhuoa zawntu le a rongbawltu dinga LALPA thlang an ni si a" a ta.
+{15:3} Chuongchun, LALPA Bawm siena ding hmun a buotsaia Bawm chu zawn tung dingin Davida chun Israel mihai po po chu Jerusalemah a ko khawm a.
+{15:4} Aron thlahai le Levi thlaa mi a ko khawmhai chu:
+{15:5} Kohat thlaa inthokin an thuoitu Uriel le a sûngkuo mi za le sawmhni;
+{15:6} Merari thlaa inthokin an thuoitu Asaia le a sûngkuo mi zahni le sawmhnih;
+{15:7} Gerson thlaa inthokin an thuoitu Joel le a sûngkuo mi za le sawmthum;
+{15:8} Elizafan thlaa inthokin an thuoitu Semaia le a sûngkuo mi zahni;
+{15:9} Hebron thlaa inthokin an thuoitu Eliel le a sûngkuo mi sawmriet;
+{15:10} Uziel thlaa inthokin an thuoitu Aminadab le a sûngkuo mi za le sawmpahni an nih.
+{15:11} Chun, Davida chun thiempu Zadok le Abiathar hai le Levi chia mi Uriel, Asaia, Joel, Semaia, Eliel le Aminadab hai chu a ko a.
+{15:12} An kuoma chun, "Nangni hi Levi hnama lukhàituhai in na, Israelhai Pathien, LALPA Bawm chu a hmun ka buotsaia chun in zawn tung theina dingin, nangni le in unauhai leh insukthienghlim ro.
+{15:13} A tîr khom khan nangnin in zawn naw leiin eini chungah LALPA lung a sen a ni kha, amain thaw dàn ding a ti ang tak chu ei lo indon bok si naw a" a ta.
+{15:14} Chuongchun, Israelhai Pathien, LALPA Bawm chu zawn tung dingin thiempuhai le Levihai chu an inser thienghlim a.
+{15:15} LALPA thu anga Mosien thu a pêk dàn ang takin, thiempuhai chun Pathien Bawm chu liengkoah a zawnfung chu putin an zawn a.
+{15:16} Chun, hla sak mi, rimawi tum thiem mi, perkhuong hai, tingtang hai, dârbenthek hai leh hlim taka hla remtu ding an unauhai laia mi ruot dingin Levi hotuhai chu Davidan a hril a.
+{15:17} Chuongchun, Levihai chun Joel naupa Heman hai, a unauhai laia mi Berekia naupa Asaf hai, an unau Merari naupahai laia mi Kusai naupa Ethan hai chu an ruot a.
+{15:18} Anni le saktu dingin Zekaria, Jaaziel, Semiramot, Jehiel, Uni, Eliab, Benaia, Maaseia, Matithia, Elifelehu, Mikneia, kotkhâr vêngtu Obed-Edom le Jeiel hai chu an ruot bok a.
+{15:19} Rimawi tumtu Heman, Asaf le Ethan hai chu dârbenthek tumtu dingin an ruot;
+{15:20} Zekaria, Aziel, Semiramot, Jehiel, Uni, Eliab, Maaseia le Benaia hai chu perkhuong ki insâng chi tumtu dingin an ruot a,
+{15:21} Matithia, Elifelehu, Miknei, Obed-Edom, Jeiel le Azazia hai chu tingtang ri inhnuoi chi tumtu ding le hma thuoitu ding an nih.
+{15:22} Levihai lukhàitu tak Kenania chu hla sak thiem le hla saktuhai inrawitu a nih.
+{15:23} Berekia le Elkana hai chu Bawm siena kotkhâr vêngtua ruot an nih.
+{15:24} Thiempu Sebania, Josafat, Nethanel, Amasai, Zekaria, Benaia le Eliezar hai chu Pathien Bawm hmaa tawtawrawt mûttu ding an nih. Obed-Edom le Jehia hai chu Bawm siena kotkhâr vêngtu dinga ruot sa an nih.
+{15:25} Chuongchun, Davida le Israel upahai le sipai sângkhat pei kawmandar hai chu Obed-Edom ina um LALPA Bawm chu zuk la tung dingin hlim takin an fe a.
+{15:26} LALPA Thuthlung Bawm zawntu Levihai chu Pathienin a thangpui leiin, bawngchal pasari le beramchal pasariin an inthawi a.
+{15:27} Davida le Bawm zawntu Levihai le hla saktuhai le zàipawl thuoitu Kenania hai chu puon zâi inhmiin an inthuom a. Davida chun thiempu zakuo efod chu a hàk sa bok a.
+{15:28} Chuongchun, beram ki le tawtawrawt bi nei mût ruoi ruoiin, dârbenthek ben a, perkhuong le tingtang tumin, Israel mi po po chu hlim takin an khêk a, LALPA Thuthlung Bawm chu an zawn tung ta a.
+{15:29} Chun, hieng hi a na, LALPA Thuthlung Bawmin Davida khawpui a lût lai chun Saula naunu Mikal chun tukvera inthokin a lo thlîr a, lawma lal Davida lâm le inchawm a hei hmu chun a lungrilin a lo inzàpui hle a.
+{16:1} Pathien Bawm chu an hung làk a, a siena ding puon in Davidan a zar sûnga chun an sie a, pumraw thilhlân le inremna thilhlânhai chu Pathien kuomah an inhlàn a.
+{16:2} Davidan pumraw thilhlân le inremna thilhlânhai a'n hlàn zo chun LALPA hmingin mipuihai chu mal a sawm a.
+{16:3} Chu zoah Israelhai chu a nuhmei a pasalin bei tlang khat, sa tlang khat le grèp em tawl bawr khat pei a pêk seng a.
+{16:4} LALPA Bawm hmaah rong bawl a, LALPA Israel Pathien be a, a kuomah lawmthu hril a, inpâktu dingin Levihai laia thenkhat chu a ruot a.
+{16:5} An hotu tak chu Asaf a na, a dottu chu Zekaria a na, a danghai chu perkhuong le tingtang tumtu Jeiel, Semiramot, Jehiel, Matithia, Eliab, Benaia, Obed-Edom le Jeiel hai an nih. Asaf chu dârbenthek bentu a na,
+{16:6} thiempu Benaia le Jahaziel hai chu Pathien Thuthlung Bawm hmaa a'n khat tawka tawtawrawt mût hlaktu dinga ruot an nih.
+{16:7} Chuongchun, chu ni chun Asaf le a rawihai chu LALPA kuoma lawmthu hrilna hla sak dingin Davida chun a hmang tan tawl ta a:
+{16:8} LALPA kuomah lawmthu hrilin,A hming chu lam hlak unla,A thilthaw tinrênghai chu,Hnam tinrêng lai hril dar ro.
+{16:9} Zài hla saka inpâkin,A thilthaw ropuihai hril ro.
+{16:10} A hming thienghlim suong unla,LALPA zongtu lungril chu,Nasa takin hlim raw se.
+{16:11} LALPA chu zong rop unla,A hrâtna chu hni unla,Ama chu pan rop hlak ro.
+{16:12} Thil ropui a thawhai chu,Theinghil loin hre zing ro,Thilmak a thawhai po po,A rorêlhai po po khom.
+{16:13} A bawi Abraham suonhai,A thlang bìk Jakob thlahai,
+{16:14} Ama chu LALPA Pathien,Leihnuoi hmun kil tinrênga,Rorêltu a ni si a.
+{16:15} A thuthlunghai hrim hrim chu,Kumkhuoin a hriet zing a,Suon sâng tam tak ta dinga,A thupêkhai a hriet zing,
+{16:16} Abraham kuoma a thlung,Isak kuoma a tiem chu.
+{16:17} Chuong chu Jakob thlahai din,Dân hmangin a namnghet a,Israelhai ta dingin,Chatuon thuthlunga siemin,
+{16:18} "In chan le rochung dingin,Kanan ram pêng ka ti cheu"Tiin a lo tiem nghet a.
+{16:19} Mi tlawm te, ieng tham ni lo,Mikhuol el an ni lai khan,
+{16:20} Hnam tin laia vâkvaiin,Ram tinah an indar a.
+{16:21} Sienkhom hnam dang tu khomin,An neksawr a phal naw a,Anni leiin lalhai chu,Halin a zil tawl lem hlak:
+{16:22} "Ka hriek nâlhai tawk naw ro,Ka zawlneihai poi rêng rêng,In tawk ding an nawh" tiin.
+{16:23} Hnuoia chêng mi tinrênghai,LALPA kuomah hla sakin,A sandamna thu hrilin,Sunni tinin puong dar ro.
+{16:24} A ropuizie thu hrilin,Hnam tin lai puong dar unla,A thilmak thawhai khom chuMi tinrêng lai hril dar ro.
+{16:25} LALPA chu a ropui a,Inpâk tlâk takzet a na,Pathien dang po po nêkin,Ama ti tak ding a nih.
+{16:26} Hnam dang pathienhai ruok chu,Milem mei mei vong an na,LALPA chu vân siemtu a nih.
+{16:27} Ropuina le chawimawinan,Ama chu a'n huol vel a,Thilthawtheina le lawmnan,A Hmun Thienghlim chu a sip.
+{16:28} Hnam tin chi tina mihai,Ropuina le hrâtna hi,LALPA zàr a nih hrein,Chawimawina ama pe ro.
+{16:29} A hming ropuizie phuin,Chawimawina LALPA pein,A thienghlimna zàm velah,In thilpêkhai hung chawiin,LALPA chu hung chawibiek ro.
+{16:30} Leihnuoia chêng po pohai,A hmaa chun inthin ro!Hnuoi hi inhning lo dingin,Aman a rem nghet a nih.
+{16:31} Vânhai, hlim zài vawr unla,Hnuoiin lawm hla rem raw se;"LALPA chun ro a rêl ie"Ti raw hai se, hnam tin lai.
+{16:32} Tuifinriet le a sûnga Umhai khêk dur dur raw se.Ram le a sûnga umhai,Hlimin lawm seng raw hai se.
+{16:33} Ramngaw thinghai chen khomin,Lawm hla sakin khêk raw se.Hnuoi chungah ro rêl dingin,LALPA a hung mêk a nih.
+{16:34} LALPA chu a tha êm a,A kuomah lawmthu hril ro,Ngil a nei kumkhawtluongin.
+{16:35} "Aw LALPA kan Sandamtu,Hnam danghai lak a'nthokin,Nangman mi hung san suokin,Mi hung thuoi khawm tawl nawk rawh,I hming thienghlim inpâk a,Kan chawimawi theina ding che'n"Tiin nangni khêk suok ro.
+{16:36} LALPA, Israel Pathien chu,Chatuona inthok chatuon chenin,Inpâkin um pei raw se"tiin. Chuongchun, mi po chun "Amen, LALPA chu inpâkin um raw se" an lo ti a.
+{16:37} Chuongchun, Davida chun Asaf le a rawihai chu ni tina a tul le mamaw ang peia LALPA Thuthlung Bawm hmaa rongbawl zing dingin a sie a.
+{16:38} An rongbawlpui dingin Jeduthan naupa Obed-Edom le a rawihai mi sawmruk le pariet chu a sie bok a. Jeduthan le Hosa chu kotkhâr vêngtu an nih.
+{16:39} Thiempu Zadok le a thiempu chanpuihai chu Gibeon hmun sànga LALPA biekbûka rongbawl dingin Davida chun a sie a.
+{16:40} Anni chu LALPAN Israelhai kuoma Dàn a pêk ang thlapa zîng tieng le zân tienga LALPA biekbûka pumraw inthawina maichâma pumraw thilhlân inhlàn rop dinga ruot an nih.
+{16:41} Kumkhawtluonga LALPA hmangaina inpâktu dinga anni ruola an siehai chu Heman le Jeduthan le hming meu lama an thlang suokhai chu an nih.
+{16:42} Heman le Jeduthan hai chu tawtawrawt mûttu le dârbenthek bentu anni bâkah inpâkna hla thienghlim an sak changa rimawi tumtu an nih. Jeduthan naupahai chu kotkhâr vêngtu an nih.
+{16:43} Chuongchun, mi tin mani in tieng seng an kîr nawk a; Davida khom a sûnghai malsawm dingin a'n lawi ve ta a.
+{17:1} A lal ina Davida a um hnung chun zawlnei Nathan kuomah, "Hi taka hin kei sidar thing inah ka um a, LALPA Thuthlung Bawm hlak chu puon in elah a um si a" a ta.
+{17:2} Nathan chun Davida kuomah, "I ngaituo dàn ang tak chun thaw raw khai, LALPA chu i kuomah a um si a" a ta.
+{17:3} Chu zân chun Nathan kuomah LALPA thu a hung tlung a.
+{17:4} "Fe la, ka siehlaw Davida kuomah hieng ang hin hril rawh: 'LALPA chun hieng hin a hril: Nang chu ka umna ding in bawltu ding i ni nawh.
+{17:5} Aigupta rama inthoka Israelhai ka thuoi suoka inthok tu chen hin inah ka la um ngai naw a, puon in le biekbûkah ka um pei lem hlak a.
+{17:6} Israel mihai thuoia ka fepui lai khom khan thuoitua ka ruot tu khom sidar thinga Tempul mi bawlpêk dingin ka phût ngai nawh.
+{17:7} " 'Chuleiin, ka siehlaw Davida kuomah, 'Iengkim LALPAN hieng hin a tih: Beram tlatna hmuna beram i vêng lai chu ka mi Israelhai chunga lal dingin ka lâk suok che a.
+{17:8} I fena taphotah ka umpui che a, i hmèlmahai po po khom i hmaah ka tukdol vong ta a, tu hin khawvela lal hmingthang takin ka siem ding che a nih.
+{17:9} Ka mi Israelhai ta dingin hmun pêng ka ta, chu taka chun anni chu phun ka ta, anni puolin in nei tâng an ta, sukbuoi ni ta naw ni hai. A tîra inthoka mi rilohaiin an sawr de hlak ang khan sawr de ni ta naw ni hai.
+{17:10} Ka mi Israelhai chunga rorêltu ka ruothai chun a tîr phata inthokin an sawr de char char hlak a ni kha. Chun, i hmèlmahai po po suktlawm bok ka tih. Chu bâkah, LALPAN sûngkuo indinpêk a ti che ti ka hril che.
+{17:11} I nihai a kin phaa i thlatuhai kuoma i chawl pha khomin i thlahai ngei, i nauhai laia mi chu nangma thlâktu ding indinpêk ka ti che a, a lalram chu suknghet ka tih.
+{17:12} Ama chun in mi bawlpêk a ta, a lalthungpha chu kumkhuoin suknghet ka tih.
+{17:13} A pa nîng ka ta, ama chu ka naupa nîng a ta, ka hmangaina i hmaa inlal ka lâkpêk ang khan ama lakah ka hmangaina chu la hmang ngai hrim hrim naw ning.
+{17:14} Ka mihai le ka lalram enkoltu dingin kumkhuoin sieng ka ta, a lalthungpha chu kumkhuoin suknghet ka tih' a tih" tiin.
+{17:15} Chuong chun thu inhriettira a umhai chu Nathan chun Davida kuomah a hril vong a.
+{17:16} Chuongchun, lal Davida chu a lût a, LALPA hmaah a thung a, "Aw, LALPA Pathien, kei hi tu am ka ni a, ka sûnghai khom ieng am an ni hrim a, hieng chen chen i mi thuoi el hi?
+{17:17} Aw Pathien, hi khom hi i mithmua chu huntawk i la ti naw ang elin, i siehlaw sûngkuo la hung um dàn pei ding chen khom i hril a. Aw LALPA Pathien, mihriem laia chawimawi hlaw tak angin i mi cheibawl el chu a na maw!
+{17:18} "I siehlaw i chawimawina bâk hi ieng am Davida hin ngên ding dang ka la nei rop a? I siehlaw hi i hriet tlang vong si a.
+{17:19} Aw LALPA, i siehlaw thatna dingin i dit dàn ang takin hieng thil ropui tak hi thawin, i thutiem ropui tak chu i hung inhriettir ta a.
+{17:20} Kan hriet phàka chu aw LALPA, nangma ang hi tu khom an um naw a, nangma naw chu Pathien hrim hrim an um nawh.
+{17:21} Aigupta rama inthoka hming ser khopa i'n tlân suok, thil ropui tak tak le râpum tak tak thawa an hmaa hnamhai i hnot suokpêk i mi Israelhai anga an Pathien ngei inthok suoka a ta dinga a'n tlân suok hnam dang khawvela hin tu khom an um nawh.
+{17:22} I mi Israelhai chu i mihai ni kumkhuo dingin i siem ta a, aw LALPA an Pathien i hung ni tah ngei el.
+{17:23} "Chuongchun, tu hin aw LALPA, i siehlaw chungchâng thu le a sûnghai chungchâng thu i hril chu kumkhuoa dingin suknghet la, i tiem tah ang khan hlen ngei rawh.
+{17:24} I suknghet chun kumkhuoin i hming chawimawiin um a ta, mihaiin 'Iengkim LALPA, Israel chunga Pathien hi Israelhai Pathien a lo ni takzet el' ting an tih. Chuongchun, i siehlaw Davida sûngkuo chu i hmaah suknghetin um tâng an tih.
+{17:25} "Aw nang ka Pathien, i siehlaw kuomah sûngkuo i hung inngîrpèk ding thu i lo puong ta leiin i siehlaw hin i kuomah hieng thu hi ka hung hril ngam a nih.
+{17:26} Aw LALPA, nang chu Pathien i ni leiin hieng thil thahai hi thawpêk dingin i siehlaw hi thu i tiem a nih.
+{17:27} I mithmu ngeia i siehlaw sûnghai chu i hmaa kumkhuoa an um zing theina dingin lawm takin mal i lo sawm ta a; Aw LALPA, nangin mal i sawm tah chu kumkhuoin malsawmin um ngei a tih" tiin.
+{18:1} Chuong lai chun Davidan Filistinhai a bei a, a hne a, Gath le a se vel khuohai chu Filistinhai kuta inthokin a lâkpêk a.
+{18:2} Davida chun Moab-hai khom a hne a, a thu hnuoiah a sie a, sie an hung chawi hlak a.
+{18:3} Chu bâkah, Zoba lal Hadadezer chun Hamat-a inthoka Eufretis vadung hrûl hmar tieng chen nei tuma a bei leiin Davida chun a rûn a.
+{18:4} A tawlailir sângkhat, tawlailir khaltu mi sângsari le sipai sînghni a manpèk a. Sakor zakhat ti chauh naw chu an zaper tha a satpêk vong a.
+{18:5} Zoba lal Hadadezer san dinga Damaskaa inthoka hung Aram sipaihai chu Davidan sînghni le sânghni a lo that a.
+{18:6} Aramhai khawpui Damaskaa chun optu sipai a sie a, Aramhai chu a lalna hnuoiah an lût a, sie an hung chawi a. Davida chu a fena taphotah LALPAN hnèna a'n changtir pei a.
+{18:7} Davida chun Hadadezer ofisarhai rangkachak phaw po po chu a lâk khawm a, Jerusalemah a hung chawi a.
+{18:8} Chun, Hadadezer khuo Teba le Kun-a inthokin Davida chun dâr tam tak a hung hawn bok a, chuonga inthok chun a nih a hnungin Solomonin dâr tuizèng dâm, dâr ban pahni dâm le bûr le bèl tam tak a siem chu.
+{18:9} Hamat lal Tou-in Davidan Zoba lal Hadadezer sipai po po a hne tah ti a lo hriet a.
+{18:10} Ama le khoma lo indo tah hlak Hadadezer a hne lei chun chibai bûk le lawmpui dingin Tou chun a naupa Hadoram chu tangkaruo bêl dâm, rangkachak bêl dâm le dâr bêl dâm inchawitir teuin Davida kuomah a tir a.
+{18:11} Chuong thilpêkhai chu hnam dang lal a hne tah Edom hai, Moab hai, Amon hai, Filistin hai le Amalek haia inthoka a râllâkhai a'n hlàn hlak ang bokin LALPA kuomah a'n hlàn a.
+{18:12} Zeruia naupa Abisai chun Chi Ruomah Edom mi sîngkhat le sângriet a that a.
+{18:13} Edom rama chun optu sipai a sie a, Edom mi po po chu Davida thu hnuoiah an hung um ta a. Davida chu a fena taphotah LALPAN hnèna a'n changtir pei a.
+{18:14} Davida chu Israel ram po poa lal a hung ni ta a, mipuihai chungah ro indik tak le fel takin a rèl a.
+{18:15} Zeruia naupa Joab chu sipai lu tak a na; Alihud naupa Jehosafat chu chanchin ziektu a na;
+{18:16} Ahitub naupa Zadok le Abiathar naupa Ahimelek hai chu thiempu an na; Savsa (Seraia) chu ziektu a na;
+{18:17} Jehoiada naupa Benaia chu Keret mihai le Pelet mihai hotu a na; Davida naupahai chu lal kuoma thurawn petu an nih.
+{19:1} Chuong thil hnunga chun Amonhai lal Nahas chu a thi a, a naupa Hanun chun a lalna chu a hung hluo ta a.
+{19:2} Davida chun, "A pain a mi lunginsiet ang bokin Nahas naupa Hanun chu lunginsiet vêng ka tih" a ta, a pa a sunpuina thu hril dingin a aiaw mi a tir a.
+{19:3} Amon thlahai ram an va tlung chun Amon milunhai chun Hanun kuomah, "Davida hin i pa a'n za leia sunpuina thu hril dinga mi a hung tir ni i ring am a ni? A pei thlak theina ding chea i khuo thlithlai ding le enthla dinga a mihai a hung tir a ni naw maw?" an ta.
+{19:4} Chuongchun, Davida mi hung tirhai chu Hanun chun a man a, an khâkhmul a vaw kolpêk a, an silfênhai chu an mongtam chena insìngin a tanpêk a, a'n fetir ta a.
+{19:5} Chuonga muolphona an tuok thu Davida an hril chun a tuok dingin mi a tir a, anni chu an inzak hle a. Lal chun, "In khâkhmul inthang sei hma khat chu Jeriko-ah um zing unla, chu zoah hung chau ro" tiin thu a'n cha a.
+{19:6} Amon mihai chun Davida hnàrah thil rimsie an lo inchang tah ti an hung hriet chun Hanun le Amon mihai chun Aram Naharaim (Mesopotamia hmar thlang) le Aram Maaka le Zobaa inthoka tawlailir le tawlailir khaltuhai ruoina dingin tangkaruo kilogram sîngthum le sângli an thon a.
+{19:7} Tawlailir le a khaltu sîngthum le sânghni an ruoihai le Maaka lal le a sipaihai chu an hung a, Medeba bulah an inkul a, Amonhai khomin an khawpuihaia inthokin an mihai an khawm a, indo dingin an inthok suok a
+{19:8} Davidan chu chu a hrietin Joab le a mihai, râl do thiemhai po po chu a tir a.
+{19:9} Amon mihai chu an hung suok a, kul kotkhâr bula chun thanghmun an khaw a, lal dang hunghai ruok chu a hranin phûlah an um a.
+{19:10} Joab chun a hma tieng le a hnung tieng an hung bei ding ti a hriet leiin Israel sipaihai laia a huoisen fâl thal mi iemani zât Aram mihai bei dingin a thlang suok a.
+{19:11} A dang po chu a unaupa Abisai inrawina hnuoiah Amon thlahai bei dingin a sie a.
+{19:12} Joab chun, "Aram mihai kan ngam naw chun mi hung san unla, Amon thlahai in ngam naw leh hung san kan ti cheu.
+{19:13} Hrât takin um unla, ei mihai le ei Pathien khuohai sanin huoisen takin bei ei tiu. LALPAN tha a ti ang peiin thawng a tih" a ta.
+{19:14} Chuongchun, Joab le a rawihai chun Aram mihai chu an bei a, an hmaa chun an tlânse dur dur a.
+{19:15} Amon thlahaiin Aram mihai an tlânsie ti an hriet chun anni khom Abisai hmaa chun an tlânse ve ta a, khuoa chun an lût a. Joab chun Jerusalem tieng a kîrsan ta a.
+{19:16} Chun, Aram mihaiin Israelhai an ngam nawh ti an hmu chun mi an tir a, Eufretis vadung khela mi Aram mihai chu an inpung khawm nawk a, chuonghai chu Hadadezer sipai kawmandar Sobak chun a hung inrawi a.
+{19:17} Chu thu Davida an hril chun Israel mihai po po a khawm a, Jordan an kàn a, indo dingin thanghmun an lo khaw a, an lo bei a.
+{19:18} Israelhai hmaa chun an tlânse a, Davida chun an tawlailir khaltu mi sângsarib bâkah kea lawn pawl sipai sîngli a that a, an kawmandar Sobak khom a that bok a.
+{19:19} Hadadezer hnuoia lalhaiin Israelhai an ngam nawh ti an hmu chun Israelhai chu inremna an siempui a, an kut hnuoiah an um ta a. Chuongchun, Aramhai chun Amon thlahai chu an thangpui ngam nawk ta ngai nawh.
+{20:1} Thâl lai, lalhai indo dinga an suok lai chun Joab-in a sipaihai a thuoi a, Amonhai ram chu a suksiet a, Raba-ah a fe a, a'n huol a, Davida ruok chu Jerusalemah a um a. Joab chun Rabat chu a bei a, a suksiet vong a.
+{20:2} Davida chun an rangkachak lallukhum kilogram sawmthum le palia rik, lunghlua chei chu a lâk a, chu chu Davida an inkhumtir a, khawpuia inthok chun râllâk sum tam tak a lâk bok a.
+{20:3} A khaw mihai chu a man a, thing attua dâm, lei inlettua dâm le thing phûrtua dâm a sor a. Chuong ang chun Amon thlahai khuo po poah Davida chun a thaw a. Chu zoah Davida le a sipaihai chu Jerusalem tieng an kîr nawk ta a.
+{20:4} Chuong hun lai chun Filistinhai leh Gezer-ah an indo nawk a. Chu tum chun Husat mi Sibekai chun mi lien Rafahai thla laia mi Sipai (Safa) chu a that a, Filistinhai chu an tukdol ta a.
+{20:5} Chuong laia an indonaa bok chun Jair naupa Elhanan chun Git mi Goliat unaupa Lami, a fei ngul khom puonkhawngna themtleng tiet zet chu a that bok a.
+{20:6} Chun, Gath hmuna an indonaa chun Rafahai thlaa mi bok, pa lien tak el, kut khing hni ve vea kutpâr paruk ve ve le ke khing hnia kepâr paruk ve ve, arêngin sawmhni le pali nei, a um a.
+{20:7} Ama chun Israelhai a deusaw a, Simea naupa Jonathan, Davida unaupa chun a that a.
+{20:8} Chuonghai chu Gath-a Rafa thlahai an na, Davida le a mihai kutah an thi ta vong a nih.
+{21:1} Setanin Israelhai chu a bei a, Israelhai chu tiem dingin Davida lungril a chok tho a.
+{21:2} Chuongchun, Davida chun Joab kuomah, "Fe unla, Dan-a inthoka Beersheba chen inkâra Israel mi, râl do thei chin ieng zât am an um ti ka hriet theina dingin va tiem vong la, hung ripawt nawk rawh" a ta.
+{21:3} Joab chun lal kuomah, "LALPA i Pathien chun i mipuihai a lêt zain sukpung raw se. Ka pu le ka lal, chuonghai po po chu i khuo le tui an ni vong naw am a ni? Ieng leia ka pu, lal hin hieng thil hi a thaw châk am a na? Ieng leiin am Israelhai chungah thiemnaw changna chu a hung intlungtir ding a na?" a ta.
+{21:4} Joab le sipai kawmandarhai thu nêkin lal thu chu a hrât lem si leiin Israelhai tiem dingin lal chu a suoksan a, Israel ram po po a fang a, Jerusalemah a hung kîr nawk a.
+{21:5} Joab chun Israel mi râl do thei, kawlhnàm chawi chin zât a ripawt chu maktaduoi khat le nuoi khat le Judai rama mi, kawlhnàm chawi chin mi nuoili le sîngsari an nih.
+{21:6} Levihai le Benjaminhai ruok chu a tiem sa ve nawh, lal thupêk chu Joab theida zawng tak a ni si a.
+{21:7} A thilthaw chu Pathien mithmuah thil suol a ni leiin Israel mihai a hrem a.
+{21:8} Davida chun Pathien kuomah, "Thil suol nasa tak ka lo thaw a nih. Sienkhom i siehlaw thiemnaw changna hi ngaidam hram rawh. Thil invêtthlâk tak ka lo thaw si a" a ta.
+{21:9} LALPA chun Davida zawlnei Gad kuomah,
+{21:10} "Fe la, hieng ang hin Davida hril rawh: 'Hi hi LALPA thu chu a nih: thil kong thum thlang ding ka pêk che laia mi hi i chunga tlung dinga i nuom tak pakhat thlang rawh' a tih" tiin.
+{21:11} Chuongchun, Gad chu Davida kuomah a fe a, "LALPAN hieng hin a hril:
+{21:12} 'I rama hin kum saric tàm intlâktir am, thla thum sûng i hmèlmahaiin chem tum le an hnot lênga um am, an naw leh i rama ni thum sûng LALPA kawlhnàm, hripui inlêngtir a, vântirkoin Israel ram hmun tin a suosam, a ieng am i thlang a? Tu hin inngaituo la, a mi tirtu kuoma ka hril ding thu tlûkna siem la, chu chu mi hril rawh" a ta.
+{21:13} Davida chun Gad kuomah, "Ka bei a va hang dong ngei de! LALPA kutah tlu lût phot el ka tih, zangaina a hau hle si a. Mihriem kuta chu mi pe lût naw hram rawh" a ta.
+{21:14} Chuongchun, Israel mihai chungah LALPAN hripui a'n lèngtir a, Israel mi sîngsari an thi a.
+{21:15} Chun, vântirkoin sukse dinga Jerusalem tieng bân a phar lai chun, an siet tuok ding laka chun LALPA lung a na leiin kut a'n hnûkkîrtir a, mipuihai hremtu vântirko kuoma chun, "A hun tah! I kut kei kîr ta rawh" a ta. Chu lai chun LALPA vântirko chu Jebu mi Arauna hrizawla ngîr a nih.
+{21:16} Davida chu a hang ngha a, hnuoi le vân inkâra vântirko ngîr, a kuta kawlhnàm chawi a, Jerusalem chunga inlet zing chu a hmu a. Chu phing leh saiip sila ngîr Davida le a upahai chu hnuoi sikin an bokkhup a.
+{21:17} Davida chun LALPA kuomah, "Râl do thei chin mi tiem dinga thupetu chu keima hi ka ni naw am a ni? Kei hi thilsuol thawa poi tawktu chu ka ni a, mi danghai hi chu beram ang mei mei an nih. Ieng am anni hin suol thaw an nei hrim a? Aw LALPA ka Pathien, i kut chu kei le ka sûnghai chunga hin thlâk lem la, hripui hi i mihai chungah inlêngtir zing ta naw raw khai" a ta.
+{21:18} Chuongchun, LALPA vântirko chun zawlnei Gad chu Davida kuomah a tir a, "Fe tung la, Jebu mi Arauna hrizawlah LALPA ta dingin maichâm hang siem rawh" tiin a hang hril a.
+{21:19} LALPA hminga Gad-in thu a pêk chu zawmin, Davida chu a fe tung a.
+{21:20} Chun, Arauna-in bu a chil lai chun a hang ngha a, LALPA vântirko a hmu a, a bula um a nauhai pali chu an inbi a.
+{21:21} Davida chun a va pan a, Arauna chun a hei hmu phing leh hrizawla inthok chun a hung suok a, a hmaah hnuoi sika bokkhupin lal chu chibai a bûk a.
+{21:22} Davida chun a kuomah, "Mipui chunga hripui inlêng hi a re theina dingin i hrizawla hin LALPA ta dingin maichâm siem ka tih, a man tlingin min chawktir raw khai" a ta.
+{21:23} Arauna chun Davida kuomah, "Ka pu, ka lal chun awm a ti ang ang chu la raw se. En ta, pumraw thilhlâna ding bawngchal le thing hmang ding hrizawl hmangruohai le bu le bâl thilhlâna hmang ding huit khom pêng ka ti che. Hieng po po hi keimàn tum vong ka tih" a ta.
+{21:24} Sienkhom lal chun Arauna kuomah, "Ni lo e, a man indik tak pêng ka ti che. LALPA ta dinga thilhlân dingin i ta a thlawnin la nawng ka tih; a man pe loin pumraw thilhlân khom inhlàn bok naw ning" a ta.
+{21:25} Chuongchun, hrizawl hmun inchawkna dingin Davida chun Arauna chu rangkachak tangkaruo shekel zarukd a pêk a.
+{21:26} Davida chun maichâm a siem a, pumraw thilhlân le inremna thilhlân hai chu inhlânin LALPA chu a ko a, LALPA chun vâna inthokin a hung don a, mei a zuk tir a, maichâma pumraw thilhlân chu a kang hmang ta a.
+{21:27} LALPA chun vântirko chu thu a pêk a, a kawlhnàm chu a paiah a thun nawk ta a.
+{21:28} Jebu mi Arauna hrizawla chun LALPAN a hung don ngei a nih ti Davida'n a hmu chun inthawinahai a'n hlàn a.
+{21:29} Chuong lai chun thlalèra Mosien LALPA biekbûk le pumraw inhlànna maichâm a siem chu Gibeon khuo hmun sànga la um a nih.
+{21:30} Sienkhom LALPA vântirko kawlhnàm tuor a'n lau leiin Pathien rawn dingin chu hmuna chun Davida a fe ngam naw a nih.
+{22:1} Davida chun, "LALPA in le Israelhai ta dinga pumraw inthawina maichâm chu hi hmuna ngei hin a um ding a nih" a ta.
+{22:2} Chuongchun, Davidan Israel rama hnam dang umhai chu a ko khawm a, LALPA in bawlna ding lung sertuah a sor tawl a.
+{22:3} A tuol inhuonna kotkhâra hmang ding thîrkil dâm, a man nghetna ding kopza dâm le hmangruo dang dang siemna dingin thîr tam tak le dâr tam tak, bûk seng lo hiel chu a pêk a.
+{22:4} Sidon le Tura mihaiin sidar thing tam tak an hung thon a, sidar thing a pêk suok zât khom inchik seng lo a nih.
+{22:5} Davida chun, "Ka naupa Solomon hi a la naupang a, chinchâng a la hriet tlawm a, LALPA in ding a bawl ding hlak chu hnam tin mithmua mawi ropui le hmingthang tak ding a ni si leiin châk ka lo buotsaipui lawk ding a nih" a ta, a thi hmain nasa takin a lo sêk khawm hman a nih.
+{22:6} A naupa Solomon chu a ko a, LALPA Israelhai Pathien ta ding Tempul bawlpêk dingin thu a pêk a.
+{22:7} Davida chun Solomon kuomah, "Ka naupa, LALPA ka Pathien hminga ding in bawl ka lo lungril hlak a.
+{22:8} Nisienlakhom, LALPA thu ka kuomah a hung tlung a, 'Indonaah i thang rawn a, thisen tam tak i lo insuo ta a. Hi hnuoia hin ka mithmuah thisen i'n suo rawn ta leiin ka hminga ding in bawl thei naw ti nih.
+{22:9} Ngai ta, inremna dit mi naupa a hming Solomon pêng ka ti che a, a hming hi 'muongna' ti a ni ang hrimin, a vêl rama a hmèlmahai po po lakah râlmuongna pêng ka ta, ama inlal sûngin inremna le muongna inlêng a tih.
+{22:10} Ama chun ka hminga ding in chu bawl a tih. Ka naupa nîng a ta, kei chu a pa nîng ka tih. Israelhai chunga a ram lalthungpha chu kumkhuoa dingin suknghet ka tih' tiin
+{22:11} "Tuhin ka naupa, LALPA chu i kuomah um sien la, hmuingil pei la, LALPA i Pathienin a in bawl dinga a ti che hi hung bawl hlawtling ngei rawh.
+{22:12} Israelhai chunga rorêltuah LALPAN a sie pha che leh varna le hriet thiemna pe sien la che, chuongchun LALPA i Pathien dàn chu zawm thei i tih.
+{22:13} Israelhai ta dinga thuruothai le Dânhai LALPAN Mosie a pêk kha i zawm phot chun hmuingil pei i tih. Hrât tak le huoi takin um rawh; ti naw la, zâm bok naw rawh.
+{22:14} "Inrim takin LALPA in bawlna dingin rangkachak kilogram maktaduoi thum le nuoi li le tangkaruo kilogram maktaduoi thum le nuoi li, dâr le thîr khom bûk seng lo le thing le lung châkhai ka lo lâk khawm ta a, sienkhom i la lâk sa ngai a tih.
+{22:15} Sinthawtu tam tak, thing âttu hai, lung sertu hai le mi themthiem, iengkima hmang thei i nei teu ta a,
+{22:16} rangkachak le tangkaruo, dâr le thîr ser thiem tak tak i nei teuh ta bok leiin bawl tan nghal el ta rawh, LALPA chu i kuomah um raw se" a ta.
+{22:17} Chuongchun, Davida chun Israel hnama lukhàituhai po po chu a naupa Solomon thangpui dingin thu a pêk a.
+{22:18} "LALPA in Pathien chu in kuomah a um a ni naw am a ni? Sîr tinah râlmuongna a pêk cheu a ni naw am a ni? Hi rama mihai hi ka kutah a hung inhlàn ta a, ram hi LALPA le a mipuihai thu hnuoia um a ni tah.
+{22:19} Chuongchun, LALPA in Pathien tieng nghain, lungril le thlarauin a rong bawl unla, LALPA Thuthlung Bawm le Pathien ta dinga hmangruo thienghlimhai chu LALPA hminga ding Tempul in bawla chun in lâk lût vak theina dingin Tempul bawl chu tan ta ro" a ta.
+{23:1} Davida chu sawt tak a dam a, a hung upat hle hnung chun a naupa Solomon chu Israelhai lalah a siem a.
+{23:2} Israel thlahai lukhàitu po po le thiempuhai le Levi thlahai chu a ko khawm a.
+{23:3} Kum sawmthum le a chung tieng Levi thlaa mi pasal an tiem po po chu sîngthum le sângriet an nih.
+{23:4} Chuong laia mi sînghni le sângli chu LALPA in bawltuhai inrawitu ding an na, sângrukhai chu hotu le rorêltu ding an nih.
+{23:5} Mi sângli chu kotkhâr vêngtu ding an na, sângli dang chu LALPA inpâkna dinga lalin rimawi hmangruo a pêkhai tumtu ding an nih.
+{23:6} Davida chun Levihai chu Gerson pawl, Kohat pawl le Merari pawlin a the tawl a.
+{23:7} Gerson naupahai chu Ladan le Simei an nih.
+{23:8} Ladan naupahai chu Jehiel, Zetham le Joel an nih.
+{23:9} Simei naupahai chu Selemot, Haziel le Haran an nih. Chuonghai chu Ladan sûngkuoa lukhàituhai an nih.
+{23:10} Chun, Simei naupahai chu Jahat, Ziza (Zina), Jeus le Beria an nih. Chuong mi palihai chu Simei naupahai an nih.
+{23:11} Jahat chu a upa tak a na, Ziza chu a pahnina a na, Jeus le Beria hai chun nau an hau naw leiin sin insem pha leh sûng khat angin an tiem hlak.
+{23:12} Kohat naupahai chu Amram, Izar, Hebron le Uziel, an rêngin pali an nih.
+{23:13} Amram naupahai chu Aron le Mosie an nih. Aron le a thlahai chu LALPA bieknaa rimtui rawtu, in thawina thilhlânhai inhlàna hmangruo thienghlim enkoltu le LALPA hminga mipuihai ta dinga malsawm hriltu dinga ser hrang an nih.
+{23:14} Pathien mi Mosie thlahai chu Levi chihai laia zêl sa an nih.
+{23:15} Mosie chun naupa Gersom le Eliezar a nei a.
+{23:16} Gersom naupahai laia upa tak chu Subael a nih.
+{23:17} Eliezar thlahai laia upa tak chu Rehabia a nih. Eliezer chun naupa dang a nei naw a, sienkhom Rehabia chun naupa tam tak a nei.
+{23:18} Izar naupahai laia upa tak chu Selomot a nih.
+{23:19} Hebron naupahai laia upa tak chu Jeria, a dottu Amaria, a pathumna Jahaziel le a palina Jekameam an nih.
+{23:20} Uziel naupahai chu a upa lem Mika a na, a naupang lem Isia a nih.
+{23:21} Merari naupahai chu Mahli le Musi an nih. Mahli naupahai chu Eleazar le Kisa an nih.
+{23:22} Eleazar chun naupa nei loin naunu chauh a nei a, an laichin Kisa naupain nuhmeiah a nei a.
+{23:23} Musi naupahai chu Mahli, Eder le Jerimot, an rêngin pathum an nih.
+{23:24} Chuonghai po chu Levi thla, an sûngkuo hming inziek dàn anga sûngkuo lukhàitu, LALPA ina rongbawla thang, kum sawmhni chin chung tieng an tiem pohai chu an nih.
+{23:25} Davida ngeiin, "LALPA Israel Pathien chun a mihai muongna pe a, ama chu kumkhuoa Jerusalema cheng dinga a hung tah leiin,
+{23:26} Levihai khomin biekbûk zawna, bûr le bêlhai an som pei ngai ta naw nih" a lo ti hrim a.
+{23:27} Davida thupêk nuhnung tak ang dungzuiin Levi chia mihai chu kum sawmhni an tlingin rongbawla ko thei dingin an hming ziek vong a nih.
+{23:28} Levihai sinthaw chu Pathien Tempula rongbawl, Aron nauhai thangpui dâm, Tempul tuolzawl le pindan sûnga thil serhai po po vong thienghlim le LALPA ina rongbawlna dang hrim hrima inhmang a nih.
+{23:29} Bei sie ding dâm, bu le bâl inhlàna hmang ding beiphit indip tak buotsai dâm, chol thang lo bei pèr amanih, bêla ur amanih zeu amanih dâm, indik thlapa thil bûk le inkhi dâm a nih.
+{23:30} Chun, tûk tin le zân tieng zâta LALPA kuoma lawmthu hril le ama inpâk dâm,
+{23:31} chawlnia dâm, thla thara dâm, hunbi nei kût hrang hranga an thaw dinga ruot ang peia LALPA kuoma pumraw thilhlan inhlàn rop dâm,
+{23:32} Intuokna Puon in enkol dâm, Hmun Thienghlima biekbûk enkol dâm, LALPA ina rongbawl, an unau Aron naupahaiin thaw ding an ruot ang pei thaw dâm chu an sin a nih.
+{24:1} Aron thlahai pawl hrang hranga an insiem dàn chu hieng ang hi a nih: Aron naupahai chu Nadab, Abihu, Eleazar le Ithamar an nih.
+{24:2} Nadab le Abihu chu thla nei loin an pa nêkin an thi hmasa lem a, Eleazar le Ithamar hai chun thiempu sin an thaw a.
+{24:3} Eleazar thlaa mi Zadok le Ithamar thlaa mi Ahimelek hai thangpuiin Davida chun an rongbawl dàn ding ang peiin a pawl pawlin a the dar a.
+{24:4} Ithamar thlahai nêk chun Eleazar thlaa mi chu sûngkuo lukhàitu an tam lem dai leiin, chuong ang dungzui chun an the a, Eleazar thlahai chu sûngkuo sawm le parukin an the a, Ithamar thlahai chu sûngkuo parietin an the bok a.
+{24:5} Eleazar le Ithamar thlahai lai chun tempula hotu le Pathien rongbawlna tienga hotu an um ve ve si leiin hlei nei bik um loa rong an bawl theina dingin an rongbawl dàn ding indotin thumvawrin an sem a.
+{24:6} Lal le thoktuhai le thiempu Zadok le Abiathar naupa Ahimelek hai hmaa chun thum chu Eleazar sûngkuo le Ithamar sûngkuo inkâra chun inkàrthlâkin an vawr a, Levi mi, lekha ziektu, Nethanel naupa Semai chun a lo ziek thlàk pei a.
+{24:7} An vawr hmasa tak chu Jehoiarib chungah a tlu a, a voi hnina chu Jedaia chungah,
+{24:8} a voi thumna Harim chungah, a voi lina Seorim chungah,
+{24:9} a voi ngana Malkija chungah, a voi rukna Mijamin chungah,
+{24:10} a voi sarina Hakoz chungah, a voi rietna Abija chungah,
+{24:11} a voi kuona Jesua chungah, a voi sawmna Sekania chungah,
+{24:12} a voi sawm le voi khatna Eliashib chungah, a voi sawm le voi hnina Jakim chungah,
+{24:13} a voi sawm le voi thumna Hupa chungah, a voi sawm le voi lina Jesebeab chungah,
+{24:14} a voi sawm le voi ngana Bilga chungah, a voi sawm le voi rukna Imer chungah,
+{24:15} a voi sawm le voi sarina Hezir chungah, a voi sawm le voi rietna Hapizez chungah,
+{24:16} a voi sawm le voi kuona Pethahia chungah, a voi sawmhnina Jehezkel chungah,
+{24:17} a voi sawmhni le voi khatna Jakin chungah, a voi sawmhni le voi hnina Gamul chungah,
+{24:18} a voi sawmhni le voi thumna Delaia chungah, a voi sawmhni le voi lina Maazia chungah a tlu a.
+{24:19} Chu chu LALPA, Israelhai Pathienin an pu Aron kuoma thu a lo pêk anga amain LALPA tempula rong an bawl dàn ding a lo ruot chu a nih.
+{24:20} Hienghai khom hi Levi chihai laia sûngkuo lukhàitu an nih: Amram nauhai lai Subael; Subael nauhai lai Jedeiah;
+{24:21} Rahabia nauhai lai Isia;
+{24:22} Izar-hai lai Selemot; Selemot nauhai lai Jahat;
+{24:23} Hebron naupahai lai a hmasa takah Jeria, a dotah Amaria, a pathumnaah Jahaziel, a palinaah Jekameam;
+{24:24} Uziel nauhai lai Mika; Mika nauhai lai Samir;
+{24:25} Mika unauhai lai Isia; Isia nauhai lai Zekaria;
+{24:26} Merari nauhai lai Mahli, Musi le Jazia;
+{24:27} Jazia nauhai lai Beno, Soham, Zakur le Ibri;
+{24:28} Mahli naupa Eleazar, nau pasal nei loa um;
+{24:29} Kisa nauhai lai Jerameel;
+{24:30} Musi nauhai lai Mahli, Eder le Jerimot.Chuonghai po chu Levi thlahai laia sûngkuo lukhàituhai chu an nih.
+{24:31} An unau, Aron thlahai thaw dàn angin an sûngkuo lukhàitu tak le a naupang tak chen khom rong an bawl dàn ding hrietna dingin thum an vawr hlak a, chu chu lal Davida hai, Zadok hai, Ahimelek hai, thiempuhai le Levi sûngkuoa lukhàituhai mithmuah an thaw hlak.
+{25:1} Tingtang hai, perkhuong hai dârbenthek hai tuma chawibiek rongbawlnaa inhmang bìk dingin Davida le a sipai kawmandarhai chun Asaf hai, Heman hai le Jeduthun hai naupahai chu an thlang suok a, chuonghai chu:
+{25:2} Asaf nauhaia inthokin Zakur, Josefa, Nethania le Asarela an nih. Lal inrawina hnuoia chawibiek rongbawlna nei hlak Asaf chu anni inrawitu a nih.
+{25:3} Jeduthun nauhai chu Gadalia, Zei, Jesaia, Simei, Hasabia le Matithia, an rêngin paruk an nih. LALPA kuomah lawmthu hrila, tingtang leh an inpâk huna chawibiek rongbawlna thuoitu an na, an pa Jeduthun chu anni inrawitu a nih.
+{25:4} Heman nauhai chu Bukia, Matania, Uziel, Subael le Jerimot; Hanania, Hanani, Eliatha, Gidalti le Romamti-Ezer; Josbekasa, Malothi, Hothir le Mahaziot an nih.
+{25:5} Hienghai po po hi lal zawlnei Heman naupahai an nih. Ama chu Pathienin chawisâng dinga a tiem a ni leiin naupa sawmpali le naunu pathum a pêk.
+{25:6} An rêng chun an pa rawiin dârbenthek le perkhuong le tingtang tuma hla le rimawi remin Pathien inah rong an bawl a. Asaf hai, Jeduthun hai le Heman hai ruok chu lalin a ruot an nih.
+{25:7} An tam tieng chu, an unauhai leh hla sak le rimawi tum inchûk lai mêk le a thiem ta sa po chu, zahni le sawmriet le pariet an nih.
+{25:8} A chin a lien, inchûk lai le zirtirtu khom ni hai sien, an sinthaw ding seng enna dingin thum an vawr a.
+{25:9} Thumvawr hmasa tak chu Asaf naupa Josefa chungah a tlu a, ama le a naupahai le a sûnghai chu sawm le pahnih an nih. A voi hnina chu Gedalia le a unauhai le naupahai sawm le pahnihai chungah;
+{25:10} a voi thumna chu Zakur le a unauhai le naupahai sawm le pahnihai chungah;
+{25:11} a voi lina chu Izri (Zeri) le a unauhai le naupahai sawm le pahnihai chungah;
+{25:12} a voi ngana chu Nethania le a unauhai le a naupahai sawm le pahnihai chungah;
+{25:13} a voi rukna chu Bukia le a unauhai le naupahai sawm le pahnihai chungah;
+{25:14} a voi sarina chu Jesarela le a unauhai le a naupahai sawm le pahnihai chungah;
+{25:15} a voi rietna chu Jesaia le a unauhai le naupahai sawm le pahnihai chungah;
+{25:16} a voi kuona chu Matania le a unauhai le a naupahai sawm le pahnihai chungah;
+{25:17} a voi sawmna chu Simei le a unauhai le naupahai sawm le pahnihai chungah;
+{25:18} a voi sawm le pakhatnaa chun Azarel le a unauhai le nauhai sawm le pahnihai chungah;
+{25:19} a voi sawm le voi hninaa chun Hashabia le a unauhai le nauhai sawm le pahnihai chungah;
+{25:20} a voi sawm le voi thumnaa chun Subael le a unauhai le naupahai sawm le pahnihai chungah;
+{25:21} a voi sawm le voi linaa chun Mathithia le a unauhai le naupahai sawm le pahnihai chungah;
+{25:22} a voi sawm le voi nganaa chun Jerimot le a unauhai le naupahai sawm le pahnihai chungah;
+{25:23} a voi sawm le voi ruknaa chun Hanania le a unauhai le naupahai sawm le pahnihai chungah;
+{25:24} a voi sawm le voi sarinaa chun Josbekasa le a unauhai le naupahai sawm le pahnihai chungah;
+{25:25} a voi sawm le voi rietnaa chun Hanani le a unauhai le naupahai sawm le pahnihai chungah;
+{25:26} a voi sawm le voi kuonaa chun Malothi le a unauhai le naupahai sawm le pahnihai chungah;
+{25:27} a voi sawmhninaa chun Eliatha le a unauhai le naupahai sawm le pahnihai chungah;
+{25:28} a voi sawmhni le voi khatnaa chun Hothir le a unauhai le naupahai sawm le pahnihai chungah;
+{25:29} a voi sawmhni le voi hninaa chun Gidalti le a unauhai le naupahai sawm le pahnihai chungah;
+{25:30} a voi sawmhni le voi thumnaa chun Mahaziot le a unhai le naupahai sawm le pahnihai chungah;
+{25:31} a voi sawmhni le voi linaa chun Romamti-Ezer le a unauhai le naupahai sawm le pahnihai chungah a tlu a.
+{26:1} Kotkhâr vêngtu pawlhai chu: Kora thlahaia inthoka mi chu Asaf naupahai laia pakhat Kore naupa Meselemia a nih.
+{26:2} Meselemia naupahai chu a upa tak Zekaria, a dottu Jediael, a pathumna Zebadia, a palina Jatniel,
+{26:3} a pangana Elam, a parukna Jehohanan le a pasarina Eliehoenai an nih.
+{26:4} Obed-Edom naupahai chu a upa tak Semaia, a dottu Jehozabad, a pathumna Joah, a palina Sakar, a pangana Nethanel,
+{26:5} a parukna Amiel, a pasarina Isakar le a parietna Peulethai an nih. Ama chu Pathienin mal a sawm a nih.
+{26:6} A naupa Semaia naupahai khom mi thei tak vong le anni sûngkuoa lukhàitu an nih.
+{26:7} Semaia naupahai chu Otni, Refael, Obed le Elzabad an na; a unauhai Elihu le Semakia khom mi thei tak an nih.
+{26:8} Chuonghai chu Obed-Edom thla, a naupahai le unauhai, rongbawlna konga mi hrât le thei tak tak, an rêngin mi sawmruk le pahni an nih.
+{26:9} Meselemia khomin naupa le unau sawm le pariet, mi thei tak tak vong a nei a.
+{26:10} Merari thlaa mi Hosa naupahai chu Simri (a upa tak a ni nawa chu a pain naulutîr nina a pêk a nih),
+{26:11} a dottu Hilkia, a pathumna Tabalia, a palina Zekaria hai an na, a naupahai le unauhai chu an rêngin sawmpathum an nih.
+{26:12} Chuong ang chu an lukhàituhai hmanga an unau danghaiin an thaw hlak ang boka LALPA tempula kotkhâr vêng sin chu thaw dinga vêngtu pawl an siemhai chu an nih.
+{26:13} A chin a lien, an sûngkuo zir ang peiin kotkhâr tina diuti ding chu thum an vawr a.
+{26:14} Thum an vawr chun suo tieng kotkhâr chu Meselemia chanah a tlu a. A naupa, rorêltu var tak Zekaria dingin thum an vawr nawk a, hmar tieng kotkhâr chu a chang a.
+{26:15} Sim tieng kotkhâr chu Obed-Edom chanah a tlu a, thil sie khawmna in kot chu a nauhai chanah a tlu bok a.
+{26:16} Thlang tieng kot le a chung tienga Saleket kotkhâr vêng chu Supim le Hosa chanah a tlu bok a. Vêngtuhai vèng sûng ding le an inthlâk hun ding chu an ruot vong a.
+{26:17} Suo tieng kotah ni tin Levihai paruk, hmar tieng pali, sim tieng pali, thil sie khawmna kudamah pahni ve ve, an diuti a.
+{26:18} Thlang tieng in inhuon sûnga dingin a lûtnaah mi pali, a huon sûngah mi pahni an diuti bok a.
+{26:19} Chuong ang chu a nih kotkhâr vêngtu pawla Kora thlahai le Merari thlahai an inthè dàn chu.
+{26:20} Chun, Pathien ina rosum siekhawmna le Pathien kuoma thil inhlânhai siekhawmna in chu an unau Levihai bokin an vêng a.
+{26:21} Chuonghai chu Ladan thlahai, Ladan sûngkuoa lukhàituhai, Gerson mi tia hriet Jehieli le a naupahai Zetham le Joel hai an nih.
+{26:22} LALPA tempula sum sie khawmna in vongtu an nih.
+{26:23} Aram mihai, Izar mihai, Hebron mihai le Uziel mi haia inthokin:
+{26:24} Mosie naupa Gersom naupa Subael chu sum tieng enkoltu lu tak a nih.
+{26:25} Chun, Gersom unaupa Eliezar naupa chu Rehabia a na, chu naupa chu Jesaia a na, chu naupa chu Joram a na, chu naupa chu Zikri a na, Zikri naupa chu Selomit a nih.
+{26:26} Selomit le a unauhai chu lal Davida le an sûngkuoa lukhàitu sipai sângkhat chunga le zakhat chunga kawmandar hai le kawmandar hrang hrang haiin râllâk sum hmun thienghlima an hung inhlân po po siekhawmna in enkoltu le vongtu an nih.
+{26:27} Râllâk sum thenkhat chu LALPA in siemna dinga an inhlàn a nih.
+{26:28} Zawlnei Samuel hai, Kisa naupa Saula hai, Nera naupa Abner hai, Zeruia naupa Joab hai le mi dang dangin an inhlàn ta po po enkoltu le vongtu chu Selomit le a unauhai an nih.
+{26:29} Izar mi Kenania le a naupahai chu tempul puo tieng sina inhmang, Israel ram sûnga hotu le rorêltuhai an nih.
+{26:30} Hebron mi Hasabia le a unauhai, mi huoisen sângkhat le zasarihai chu Jordan vadung thlang tieng ram optuah an sie a, sakhuo tieng thu le vântlâng thil ngaituo hlaktu dinga ruot an nih.
+{26:31} An sûngkuo chanchina a'n ziek dânin, Hebron mihai thuoitu tak chu Jeria a nih. Davida inlala inthoka kum sawmlinaah Hebron thlahai chanchin an sui suok a, Gilead biel Jazera khuoah mi hrât le huoisen an lo um teu el a.
+{26:32} Jeria chun unau, sûngkuo tina lukhàitu mi sînghni le sângsari zet a lo nei a, chuonghai chu Jordan vadung sak tieng Reuben hai, Gad hai le sak tienga Manase hnam zâtve hai ram sûnga sakhuo tieng thil le tuolsûng tieng thu rêltu dingin Davida'n a ruot a.
+{27:1} Hi hi Israel mi, sûngkuo tina lukhàitu, sipai sângkhat pei le zakhat peia kawmandar hai le an ofisar hai, lal Davida sipai divizona thang, kum tluona thla khat peia inthlâkhai zât inchikna chu a nih. Sipai divizon khata um chu mi sînghni le sângli an nih.
+{27:2} Divizon pakhatna, a thla khatnaa hotu chu Zabdiel naupa Jashobeam a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:3} Ama chu Perez thlaa mi a na, thla khatnaa sipai hotu po po chunga hotu lien tak a nih.
+{27:4} Thla hninaa divizon hotu chu Aho mi Dodai a na, a hnuoia hotu chu Miklot a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:5} Sipai divizon pathumna, a thla thumnaa kawmandar chu thiempu Jehoiada naupa Benaia a nih. Ama chu sipai lu tak a na, a divizona um zât chu mi sînghni le sângli an nih.
+{27:6} Hi Benaia hi a nih 'Pasaltha Sawmthum' laia mi huoisen, sawmthum chunga hotu nina cheltu kha. A divizon inrawitu chu a naupa Amizabad a nih.
+{27:7} Divizon palina, a thla linaa hotu tak chu Joab unaupa Asahel a na, ama thlâktu chu a naupa Zebadia a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:8} Divizon pangana, a thla nganaa an kawmandar chu Izra mi Samhut a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:9} Divizon parukna, a thla ruknaa hotu chu Teko mi Ikes naupa Ira a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:10} Divizon pasarina, a thla sarinaa hotu chu Efraim thla Pelon mi Helez a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:11} Divizon parietna, a thla rietnaa hotu chu Zera thla, Husat mi Sibekai a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:12} Divizon pakuona, a thla kuonaa hotu chu Benjamin thla Anathot mi Abiezer a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:13} Divizon sawmna, a thla sawmnaa hotu chu Zera thla Netofat mi Maharai a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:14} Divizon sawmpakhatna, a thla sawm le thla khatnaa hotu chu Efraim thla Pirathon mi Benaia a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:15} Divizon sawmpahnina, a thla sawm le thla hninaa hotu chu Netofat mi, Otniel sûngkuoa mi Heldai a nih. A divizona um zât chu mi sînghni le sângli an nih.
+{27:16} Israel hnam tin chunga an hotuhai chu: Reuben hnam hotu Zikri naupa Eliezar; Simeon hnam hotu Maaka naupa Sefatia;
+{27:17} Levi hnam hotu Kemuel naupa Hasabia le Aron thlahai hotu Zadok;
+{27:18} Juda hnam hotu Davida unaupa Elihu; Isakar hnam hotu Mikael naupa Omri;
+{27:19} Zebulun hnam hotu Obadia naupa Ismaia; Naftalia hnam hotu Azriel naupa Jerimot;
+{27:20} Efraim hnam hotu Azazia naupa Hosea; Manase hnam zâtve hotu Pedaia naupa Joel;
+{27:21} Gilead rama Manase hnam zâtve hotu Zekaria naupa Ido; Benjamin hnam hotu Abner naupa Jasiel;
+{27:22} Dan hnam hotu Jeroham naupa Azarel. Hienghai po hi Israel hnamhai chunga lukhàituhai chu an nih.
+{27:23} Israel thlahai chu vâna arasi anga tam an la ni dingzie LALPAN thu a tiem leiin, Davida chun kum sawmhni hnuoi tieng chu a tiem sa ve nawh.
+{27:24} Zeruia naupa Joab chun a hang tiem tan a, sienkhom intiem lei chun Pathien lungsenna Israel chungah a hung tla a, a tiem zo hman ta naw a, lal Davida inlal lai chanchin zieknaa khom a zât ziek a ni bok nawh.
+{27:25} Lal ina rosum le thil sie khawmna po po enkoltu chu Adiel naupa Azmavet a nih. Khawpui puo tieng biel hrang hrang le khawpui, khawte le ralvêngbûka an sie khawmhai po po enkoltu chu Uzia naupa Jonathan a nih.
+{27:26} Loa sinthawtuhai po po enkoltu chu Kelub naupa Ezri a nih.
+{27:27} Grèp huon po po enkoltu chu Ramat mi Simei a nih. Uoiin le a siena hmun po po enkoltu Sifmot mi Zabdi a nih.
+{27:28} Thlang tieng tlâng thuta oliv le theichang bilhai po po enkoltu chu Geder mi Baal-Hanan a nih. Oliv hriek siena po po enkoltu chu Joash a nih.
+{27:29} Saron phaia ran tlatna hmun po po enkaitu chu Saron mi Sitrai a nih. Ruoma ranhai enkaitu chu Adlai naupa Safat a nih.
+{27:30} Sanghawngsei po po enkoltu chu Ismael mi Obil a nih. Sabengtung po po enkoltu chu Meronot mi Jehdeia a nih.
+{27:31} Beram ruol enkaitu chu Hagar mi Jaziz a nih. Chuonghai po po chu lal Davida in le lo enkoltuhai chu an nih.
+{27:32} Davida pate, mi inril tak le lekha thiem tak Jonathan chu remruotpuitu a na, Hakmoni naupa Jehiel chu lal naupahai zirtirtu a nih.
+{27:33} Ahitofel chu lal mi rawn a na, Ark mi Husai chu lal ruol tha a nih.
+{27:34} Ahitofel chu Benaia naupa Jehoiada le Abiatharin an hung thlâk a. Joab chu lal sipaihai kawmandar a nih.
+{28:1} Davida chun Israel hotu po po-hnam tina upa hai, lal rongbawltu sipai divizon tina kawmandar hai, sipai sângkhat pei le zakhat pei chunga kawmandar hai, lal le a sûngkuohai in le lo le ran ruolhai enkoltu hai, lal ina thoktu po po hai, mi lien le indonaa mi huoisen le hrât khawkhênghai po po chu Jerusalemah a ko khawm a.
+{28:2} Lal Davida chu a ngîr a, "Ka unauhai le ka mihai, ka thu hi lo ngàithla ro. Kei chun LALPA Thuthlungna Bawm siena le ei Pathien ke innghatna ding in bawl ka lo lungril hlak a, in bawlna ding châk khom ka lâk ta a.
+{28:3} Nisienlakhom, Pathienin ka kuomah, 'Nang chu indo mi, thisen insuo mi i ni leiin ka hminga ding in chu bawl naw ti nih' a ti a.
+{28:4} "Amiruokchu, LALPA, Israel Pathienin ka pa sûngkuo po po laia inthokin Israel lala kumkhuoa um dingin a mi lo thlang ta a. Juda hnam chu lukhàitu dingin a thlang a. Chun, Juda hnam lai khom ka pa sûngkuo, ka pa naupahai laia inthokin Israelhai po po lalah a mi lo thlang suok ta bîk a.
+{28:5} LALPAN naupa tam tak a mi pêka chu ka naupahai po po laia inthokin Israel lala LALPA ram lalthungphaa inthung dingin ka naupa Solomon hi a lo thlang bok a.
+{28:6} Chuongchun, ka kuomah, "I naupa Solomonin ka in le ka tuolzawlhai chu indin a tih. Ka naupa dingin ka thlang ta a, chuongchun a pa nîng ka tih.
+{28:7} Tuta in zawm zing anga ka thupêkhai le ka rorêlhai a zawm zing phot chun, a ram chu kumkhuoa dingin suknghet ka tih' a ti a.
+{28:8} "Chuongchun, LALPA mihai, Israelhai po po mithmuah le ei Pathien hrieta hin LALPA in Pathien thupêk po po chu zawm ding le ngaiven dingin ka'n fui cheu a nih. Chuonga in thaw chun hi ram tha tak hi hluo zing in ta, in hnunga in thlahai pei kuomah kumkhuoin in rochung sawngtir pei in tih.
+{28:9} "Chun, nang ka naupa Solomon, i pa Pathien hi hre la, lungril tha famkim putin phûr takin a rong bawl hlak rawh. LALPA chun lungril a en hlak a, lungrila suongtuona po po khom a hriet vong a. Ama i zong chun hmung i ta, i nghatsan ruok chun kumkhuoin pei thlang a ti che.
+{28:10} Inngaituo raw khai; hmun thienghlim ding in bawl dingin LALPAN a ruot ta che a ni hi. Hrât takin um la, bawl ta raw leh" a ta.
+{28:11} Chuongchun Davida chun a naupa Solomon chu biek in hulhliep lem hai, a in lem hai, sum sie khawmna in lem hai, pindan chunghnung lem hai, a sûng pindan lem hai, zangaina thungpha lem hai,
+{28:12} a lungrila a suongtuona ang po po, LALPA in inhuonna tuolzawl lem hai, a vela pindan lem po po hai, Pathien ina sum sie khawmna ding in lem hai, thil ser thieng tah hai sie khawmna ding in lem hai chu a pêk a.
+{28:13} Chun, thiempuhai le Levihai a pawl pawla an umna ding lem hai, LALPA ina rong an bawlna hmun ding lem hai, LALPA ina rongbawlnaa hmang ding bûr le bêl lem hai,
+{28:14} rongbawlna kong hrang hranga hmang ding bûr le bêl chi tin, rangkachak le tangkaruo bûr le bêl le a siemnaa rangkachak le tangkaruo hmang zât ding hai,
+{28:15} a hmangna ding dungzui ang peia rangkachak le tangkaruo khawnvar siena ding lem le a khawnvarhai siemnaa rangkachak le tangkaruo hmang zât ding hai,
+{28:16} hlânbei siena ding dawkan lem hai, pakhat pei siemna dinga rangkachak le tangkaruo hmang zât ding hai,
+{28:17} sa thurna ding rangkachak hlîra siem thirkut hai, thil thèna thlêngkûm hai, notung hai, rangkachak hlîra siem thlêng hai, tangkaruo hlîra siem thlêng le berbu hai siemnaa hmang zât ding hai;
+{28:18} rangkachak hlîra siem, rimtui rawna maichâm ding dâm, rangkachak cherubhaiin LALPA Thuthlungna Bawm chunga thla zâra an vêng lai lem le a chuongna ding tawlailir siem dàn ding lem hai khom a pêk bok a.
+{28:19} Davida chun, "Hieng thil po po, ka chunga LALPA kut innghatin a ziekhai chu ka kol vong a, a ruohmanghai a kip a kawia hriet thiemna khom a mi pêk bok a nih" a ta.
+{28:20} Chun, Davidan a naupa Solomon kuomah, "Hrât tak le huoisen takin um la, in chu bawl ta rawh. Ti naw la, zâm bok naw rawh. LALPA Pathien, ka Pathien chun umpui a ti che. LALPA chun Tempul i bawl zo hma khat inthla naw ni che a, nghatsan ngai bok naw ni che.
+{28:21} Tempula thiempuhai le Levihai sinthaw ding seng khom ruot fel vong a ni ta a, ieng sina khom kong tinrênga kut themthiem thangpuitu ding che um zing an ta, hotuhai le mipui po po khomin i thupêk taphot chu zawm pei an tih" a ta.
+{29:1} Chun, lal Davidan mipui po po kuomah, "Pathien thlang suok ka naupa Solomon hi a la naupangin a tonhriet a la tlawm a. A thaw ding hi mihriem chêngna in ding ni loin Pathien ta dinga in a ni leiin a ropui si a.
+{29:2} Ka theitawpin ka Pathien tempul bawlna dingin châk ka lo lâk khawm a, rangkachak hmangna dingah rangkachak, tangkaruo hmangna dingah tangkaruo, dâr hmangna dingah dâr, thîr hmangna dingah thîr, thing hmangna dingah thing hmang dinghai khom ka lo buotsai ta a. Chun, a cheinaa zep ding onik lung hai, lunghlu dumpawl chi dâm, lungmawi rong chi hrang hrang dâm, lunghlu chi hrang hrang le sailungvar hai tam tak ka lâk khawm ta bok a.
+{29:3} Chu chau khom chu ni loin, ka Pathien Tempul hi ka'n voipui êm leiin, tuta ka buotsai ta sahai hi tiem loin, keima sum, rangkachak le tangkaruohai khom ka Pathien Tempula dingin ka pêk a.
+{29:4} Chuonghai chu a bang inluonnaa hmang ding dâm,
+{29:5} a hmangna kong hrang hranga kut themthiemhai hmang dingin Ofiraa inthoka rangkachak hlîr ka phur suok kilogram nuoi khat le tangkaruo hlîr kilogram nuoi hni le sîngli vel a nih. Tu hin, LALPA ta dinga phal taka pe ve nuom mi dang ei um am?" a ta.
+{29:6} Chuongchun, sûngkuoa lukhàitu hai, Israel hnam tina hotu hai, sipai sângkhat pei le zakhat pei chunga kawmandar hai le lal hnuoia thoktuhai chun phal takin an hung pêk a.
+{29:7} Pathien Tempul bawlna dinga an pêk po chu rangkachak kilogram nuoi khat le sîng sari nêka tam, tangkaruo kilogram nuoi thum le sîng li nêka tam, dâr kilogram nuoi ruk le sîng hni neka tam, thîr kilogram maktaduoi thum le nuoi li nêka tam a nih.
+{29:8} Lunghlu neihai chun LALPA tempula thilhlu sie khawmna enkoltu Gerson mi Jehiel kutah an pêk a.
+{29:9} Lungril hmun khat puta lawm taka LALPA an pêk leiin mipuihai chu an hlim êm êm a; lal Davida khom nasa takin a hlim a.
+{29:10} Mipui hung inkhawm po po hmaa chun Davida'n LALPA a'n pàk a:"Aw LALPA, kan pu Israel Pathien,Chatuona inthok chatuon chenin,Chawimawina chang kumkhuo rawh.
+{29:11} Ropuina le thilthawtheina hai,Chawimawina, lalna le mawina hai,Hnuoi le vâna thil iengkim hai,Nangma ta vong a nih, LALPA.Ram chu LALPA i ta a na,Iengkim chunga lêng i ni si a.
+{29:12} Hausakna le chawimawinahai,Nangmaa inthoka hung vong a na,Iengkim chunga roreltu i nih.Hrâtna le thilthawtheinahai,Chawisâng le sukhrât theina po po,Nangma kuta um vong a nih.
+{29:13} Chuleiin tu hin kan Pathien,I kuomah lawmthu hung hrilin,I hming ropui kan inpâk.
+{29:14} "Nisienlakhom, kei le ka mihai telulin hieng khopa tam i kuoma thilhlân phal taka kan hung pêk thei hi kan theina leia kan hung pêk ni loin, iengkim hi nangmaa inthoka kan dong vong a na, i kuta inthoka kan donghai chu kan hung pêk nawk el lem che a nih.
+{29:15} I mithmuah ram dang mi le mikhuol el kan ni a, kan pi le puhai khom an ni tho kha. Hnuoia kan ni tin nun hi hlim ang chauh a na, beisei ding hrim a um nawh.
+{29:16} Aw LALPA kan Pathien, i hming thienghlim ta dinga Tempul bawlna dinga kan hung pêkhai po po hi nangma kuta inthoka hung vong a na, i ta vong a nih.
+{29:17} Aw ka Pathien, nang chun lungril i fie hlak a, indikna i lawm ti ka hriet. Hieng thilhai po po hi phal takin ka hung pêk a, ka pêkna san khom a'n dik a nih. Hi taka um i mipuihaiin phal taka an pêk ka hmu hin ka lawm takzet a nih.
+{29:18} Aw LALPA, kan thlatu Abraham le Isak le Israel Pathien, phal taka pêk nuomna hi kumkhuoin i mihai lungrilah inneitir la, nangma tan zing dingin an lungrilhai vongpêk rawh.
+{29:19} Ka naupa Solomon hin i thupêk hai, i thu inhriettir hai le i dân hai po po zawm a, ka lo buotsai lawk tah i in ropui bawl dingin inpêkzona lungril inneitir rawh" a ta.
+{29:20} Chu zoah Davida chun pungkhawm po po kuomah, "LALPA in Pathien chu inpâk ro" a ta. Chuongchun, mipui po po chun LALPA, an pi le puhai Pathien chu an inpàk a, an kûn a, LALPA le lal hmaa chun an bokkhup a.
+{29:21} A zînga chun LALPA kuoma inthawina le pumraw thilhlâna dingin bawngchal sângkhat le beramchal sângkhat le beramte sângkhat le dawn ding thilhlânhai leh Israelhai po po ta dingin inthawina tam tak an inhlàn a.
+{29:22} Chu ni chun LALPA hmaah hlim taka fain an dawn tlâng a. Davida naupa Solomon chu lalah an namnghet nawk a, rorêltu dingin LALPA hmaah hriek an nàl a, Zadok chu thiempu dingin hriek an nàl bok a.
+{29:23} Chuongchun, Solomon chu LALPA lalthungphaa chun a pa Davida hmunah lalin a thung a, hmuingil takin a um a, Israelhai po poin a thu an zawm a.
+{29:24} Hotu po po le mi huoisen le hrât khawkhênghai le Davida naupahai po po chun lal Solomon hnuoia kûn dingin thu an intiemkam a.
+{29:25} Israel mihai po po hmuah LALPAN Solomon chu a chawisâng a, Israel rama a hmaa lalhai laia tu khom la chang phâk ngai lo lal nina ropui tak chu a'n changtir a.
+{29:26} Jesai naupa Davida chu Israelhai po po chunga lal a nih.
+{29:27} Israelhai chungah kum sawmli lalin a um a, Hebron khuoah kum sarih, Jerusalemah kum sawmthum le kum thum a'n lal a nih.
+{29:28} Upa tak, tar kûna nun hmangin, hausaknaa vur le chawimawi hlawin a thi a, a naupa Solomon chun a lalna chu a hung hluo ta a.
+{29:29} Davida inlal lai chanchin, a bula inthoka a tawp chenin, zawlnei Samuel lekhabua hai, zawlnei Nathan lekhabua hai, zawlnei Gad lekhabua hai a chuong a;
+{29:30} chu bâkah a'n lal laia chanchin le a thilthawtheizie po po le ama le Israelhai le a ram chunga thil tlunghai chu kimchang takin an ziek bok a nih.

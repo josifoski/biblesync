@@ -1,0 +1,1339 @@
+{i1:1} Censimento degli Israeliti nel deserto del Sinai
+{1:1} Il Signore parlò a Mosè, nel deserto del Sinai, nella tenda di convegno, il primo giorno del secondo mese, il secondo anno dopo l’uscita dei figli d’Israele dal paese d’Egitto, e disse:
+{1:2} «Fate la somma di tutta la comunità dei figli d’Israele secondo le loro famiglie, secondo la discendenza paterna, contando i nomi di tutti i maschi, uno per uno,
+{1:3} dall’età di vent’anni in su, tutti quelli che in Israele possono andare in guerra; tu e Aaronne ne farete il censimento, secondo le loro schiere.
+{1:4} Con voi ci sarà un uomo per tribù, che sia capo del casato dei suoi padri.
+{1:5} Questi sono i nomi degli uomini che vi assisteranno. Di Ruben: Elisur, figlio di Sedeur;
+{1:6} di Simeone: Selumiel, figlio di Surisaddai;
+{1:7} di Giuda: Nason, figlio di Amminadab;
+{1:8} di Issacar: Netaneel, figlio di Suar;
+{1:9} di Zabulon: Eliab, figlio di Chelon;
+{1:10} dei figli di Giuseppe, di Efraim: Elisama, figlio di Ammiud; di Manasse: Gamaliel, figlio di Pedasur;
+{1:11} di Beniamino: Abidan, figlio di Ghideoni;
+{1:12} di Dan: Aiezer, figlio di Ammisaddai;
+{1:13} di Ascer: Paghiel, figlio di Ocran;
+{1:14} di Gad: Eliasaf, figlio di Deuel;
+{1:15} di Neftali: Aira, figlio di Enan».
+{1:16} Questi sono i membri della comunità che furono convocati, i capi delle tribù dei loro padri, i capi delle migliaia d’Israele.
+{1:17} Mosè e Aaronne presero dunque questi uomini che erano stati designati per nome,
+{1:18} e convocarono tutta la comunità, il primo giorno del secondo mese; e il popolo fu censito secondo le loro famiglie, secondo la discendenza paterna, contando il numero delle persone dai vent’anni in su, uno per uno.
+{1:19} Come il Signore gli aveva ordinato, Mosè ne fece il censimento nel deserto del Sinai.
+{1:20} Figli di Ruben, primogenito d’Israele, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi di tutti i maschi, uno per uno, dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:21} il censimento della tribù di Ruben diede la cifra di quarantaseimilacinquecento.
+{1:22} Figli di Simeone, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi di tutti i maschi, uno per uno dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:23} il censimento della tribù di Simeone diede la cifra di cinquantanovemilatrecento.
+{1:24} Figli di Gad, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:25} il censimento della tribù di Gad diede la cifra di quarantacinquemilaseicentocinquanta.
+{1:26} Figli di Giuda, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:27} il censimento della tribù di Giuda diede la cifra di settantaquattromilaseicento.
+{1:28} Figli di Issacar, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:29} il censimento della tribù di Issacar diede la cifra di cinquantaquattromilaquattrocento.
+{1:30} Figli di Zabulon, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:31} il censimento della tribù di Zabulon diede la cifra di cinquantasettemilaquattrocento.
+{1:32} Figli di Giuseppe: figli di Efraim, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:33} il censimento della tribù di Efraim diede la cifra di quarantamilacinquecento.
+{1:34} Figli di Manasse, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:35} il censimento della tribù di Manasse diede la cifra di trentaduemiladuecento.
+{1:36} Figli di Beniamino, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:37} il censimento della tribù di Beniamino diede la cifra di trentacinquemilaquattrocento.
+{1:38} Figli di Dan, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:39} il censimento della tribù di Dan diede la cifra di sessantaduemilasettecento.
+{1:40} Figli di Ascer, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:41} il censimento della tribù di Ascer diede la cifra di quarantunmilacinquecento.
+{1:42} Figli di Neftali, loro discendenti secondo le loro famiglie, secondo la discendenza paterna, contando i nomi dall’età di vent’anni in su, tutti quelli che potevano andare in guerra:
+{1:43} il censimento della tribù di Neftali diede la cifra di cinquantatremilaquattrocento.
+{1:44} Questi sono gli uomini di cui Mosè e Aaronne fecero il censimento, assistiti dai dodici capi d’Israele: ce n’era uno per ognuna delle case dei loro padri.
+{1:45} Così tutti i figli d’Israele dei quali fu fatto il censimento, secondo le famiglie dei padri, dall’età di vent’anni in su, cioè tutti gli uomini che in Israele potevano andare in guerra,
+{1:46} tutti quelli dei quali fu fatto il censimento furono seicentotremilacinquecentocinquanta.
+{i1:47} I Leviti
+{1:47} Ma quelli che erano Leviti, secondo la tribù paterna, non furono compresi nel censimento con gli altri;
+{1:48} poiché il Signore aveva detto a Mosè:
+{1:49} «Soltanto della tribù di Levi non farai il censimento, e non ne unirai l’ammontare a quello dei figli d’Israele;
+{1:50} ma affida ai Leviti la cura del tabernacolo della testimonianza, di tutti i suoi utensili e di tutto ciò che gli appartiene. Essi porteranno il tabernacolo e tutti i suoi utensili, ne faranno il servizio e staranno accampati attorno al tabernacolo.
+{1:51} Quando il tabernacolo dovrà partire, i Leviti lo smonteranno; quando il tabernacolo dovrà accamparsi in qualche luogo, i Leviti lo rimonteranno; l’estraneo che gli si avvicinerà sarà messo a morte.
+{1:52} I figli d’Israele pianteranno le loro tende ognuno nel suo campo, ognuno vicino alla sua bandiera, secondo le loro schiere.
+{1:53} Ma i Leviti pianteranno le loro tende attorno al tabernacolo della testimonianza, affinché la mia ira non si accenda contro la comunità dei figli d’Israele; i Leviti avranno la cura del tabernacolo della testimonianza».
+{1:54} I figli d’Israele fecero così, conformandosi in tutto agli ordini che il Signore aveva dato a Mosè.
+{i2:1} Ordine degli accampamenti e delle marce
+{2:1} Il Signore parlò ancora a Mosè e ad Aaronne, e disse:
+{2:2} «I figli d’Israele si accamperanno ciascuno vicino alla sua bandiera sotto le insegne delle loro famiglie paterne; si accamperanno di fronte e tutto intorno alla tenda di convegno.
+{2:3} Sul davanti, verso oriente, si accamperà la bandiera del campo di Giuda con le sue schiere;
+{2:4} il capo dei figli di Giuda è Nason, figlio di Amminadab, e il suo contingente, secondo il censimento, è di settantaquattromilaseicento uomini.
+{2:5} Accanto a lui si accamperà la tribù di Issacar; il capo dei figli di Issacar è Netaneel, figlio di Suar,
+{2:6} e il suo contingente, secondo il censimento, è di cinquantaquattromilaquattrocento uomini.
+{2:7} Poi la tribù di Zabulon; il capo dei figli di Zabulon è Eliab, figlio di Chelon,
+{2:8} e il suo contingente, secondo il censimento, è di cinquantasettemilaquattrocento uomini.
+{2:9} Il totale del censimento del campo di Giuda, sommando le loro schiere, è dunque centottantaseimilaquattrocento uomini. Questi si metteranno in marcia per primi.
+{2:10} A sud starà la bandiera del campo di Ruben con le sue schiere; il capo dei figli di Ruben è Elisur, figlio di Sedeur.
+{2:11} Il suo contingente, secondo il censimento, è di quarantaseimilacinquecento uomini.
+{2:12} Accanto a lui si accamperà la tribù di Simeone; il capo dei figli di Simeone è Selumiel, figlio di Surisaddai.
+{2:13} Il suo contingente, secondo il censimento, è di cinquantanovemilatrecento uomini.
+{2:14} Poi la tribù di Gad; il capo dei figli di Gad è Eliasaf, figlio di Reuel.
+{2:15} Il suo contingente, secondo il censimento, è di quarantacinquemilaseicentocinquanta uomini.
+{2:16} Il totale del censimento del campo di Ruben, sommando le loro schiere, è dunque centocinquantunmilaquattrocentocinquanta uomini. Si metteranno in marcia in seconda linea.
+{2:17} Poi si metterà in marcia la tenda di convegno con il campo dei Leviti in mezzo agli altri campi. Nella marcia seguiranno l’ordine nel quale erano accampati, ciascuno al suo posto, con la sua bandiera.
+{2:18} A occidente starà la bandiera del campo di Efraim con il suo contingente; il capo dei figli di Efraim è Elisama, figlio di Ammiud.
+{2:19} Il suo contingente, secondo il censimento, è di quarantamilacinquecento uomini.
+{2:20} Accanto a lui si accamperà la tribù di Manasse; il capo dei figli di Manasse è Gamaliel, figlio di Pedasur.
+{2:21} Il suo contingente, secondo il censimento, è di trentaduemiladuecento uomini.
+{2:22} Poi la tribù di Beniamino; il capo dei figli di Beniamino è Abidan, figlio di Ghideoni.
+{2:23} Il suo contingente, secondo il censimento, è di trentacinquemilaquattrocento uomini.
+{2:24} Il totale del censimento del campo di Efraim, sommando le loro schiere, è dunque centottomilacento uomini. Si metteranno in marcia in terza linea.
+{2:25} A settentrione starà il campo di Dan con le sue schiere; il capo dei figli di Dan è Aiezer, figlio di Ammisaddai.
+{2:26} Il suo contingente, secondo il censimento, è di sessantaduemilasettecento uomini.
+{2:27} Accanto a lui si accamperà la tribù di Ascer; il capo dei figli di Ascer è Paghiel, figlio di Ocran,
+{2:28} e il suo contingente, secondo il censimento, è di quarantunmilacinquecento uomini.
+{2:29} Poi la tribù di Neftali; il capo dei figli di Neftali è Aira, figlio di Enan,
+{2:30} e il suo contingente, secondo il censimento, è di cinquantatremilaquattrocento uomini.
+{2:31} Il totale del censimento del campo di Dan è dunque centocinquantasettemilaseicento. Si metteranno in marcia per ultimi, secondo le loro bandiere».
+{2:32} Questi furono i figli d’Israele dei quali si fece il censimento secondo la discendenza paterna. Tutti gli uomini dei quali si fece il censimento e che formarono i campi, ciascuno nel suo contingente, furono seicentotremilacinquecentocinquanta.
+{2:33} Ma i Leviti, secondo l’ordine che il Signore aveva dato a Mosè, non furono compresi nel censimento con i figli d’Israele.
+{2:34} I figli d’Israele si conformarono in tutto agli ordini che il Signore aveva dato a Mosè: così si accampavano secondo le loro bandiere, e così si mettevano in marcia, ciascuno secondo la sua famiglia, secondo la discendenza paterna.
+{i3:1} Censimento dei Leviti e il loro servizio
+{3:1} Questi sono i discendenti di Aaronne e di Mosè al tempo in cui il Signore parlò a Mosè sul monte Sinai.
+{3:2} Questi sono i nomi dei figli di Aaronne: Nadab, il primogenito, Abiu, Eleazar e Itamar.
+{3:3} Questi sono i nomi dei figli di Aaronne, che ricevettero l’unzione come sacerdoti e furono consacrati per esercitare il sacerdozio.
+{3:4} Nadab e Abiu morirono davanti al Signore quando gli offrirono fuoco estraneo, nel deserto del Sinai. Essi non avevano figli, ed Eleazar e Itamar esercitarono il sacerdozio in presenza di Aaronne, loro padre.
+{3:5} Il Signore disse a Mosè:
+{3:6} «Fa’ avvicinare la tribù di Levi e mettila a disposizione del sacerdote Aaronne, affinché sia al suo servizio.
+{3:7} Essi avranno la cura di tutto ciò che è affidato a lui e a tutta la comunità davanti alla tenda di convegno e faranno così il servizio del tabernacolo.
+{3:8} Avranno cura di tutti gli utensili della tenda di convegno e di quanto è affidato ai figli d’Israele, e faranno così il servizio del tabernacolo.
+{3:9} Tu darai i Leviti ad Aaronne e ai suoi figli; tra i figli d’Israele sono essi quelli che si dedicheranno completamente al suo servizio.
+{3:10} Tu stabilirai Aaronne e i suoi figli, perché esercitino le funzioni del loro sacerdozio; l’estraneo che si accosterà all’altare sarà messo a morte».
+{3:11} Il Signore disse a Mosè:
+{3:12} «Ecco, tra i figli d’Israele io ho preso i Leviti al posto di ogni primogenito che nasce da donna israelita; i Leviti saranno miei;
+{3:13} poiché ogni primogenito è mio; il giorno in cui colpii tutti i primogeniti nel paese d’Egitto, io mi consacrai tutti i primi parti in Israele, tanto degli uomini quanto degli animali; saranno miei: io sono il Signore ».
+{3:14} Il Signore parlò a Mosè nel deserto del Sinai e disse:
+{3:15} «Fa’ il censimento dei figli di Levi secondo la discendenza paterna, secondo le loro famiglie; farai il censimento di tutti i maschi dall’età di un mese in su».
+{3:16} E Mosè ne fece il censimento secondo l’ordine del Signore, come gli era stato comandato di fare.
+{3:17} Questi sono i nomi dei figli di Levi: Gherson, Cheat e Merari.
+{3:18} Questi sono i nomi dei figli di Gherson, secondo le loro famiglie: Libni e Simei.
+{3:19} I figli di Cheat, secondo le loro famiglie, sono: Amram, Isear, Ebron e Uzziel.
+{3:20} I figli di Merari, secondo le loro famiglie, sono: Mali e Musi. Queste sono le famiglie dei Leviti, secondo la discendenza paterna.
+{3:21} Da Gherson discendono la famiglia dei Libniti e la famiglia dei Simeiti, che formano le famiglie dei Ghersoniti.
+{3:22} Quelli dei quali fu fatto il censimento, contando tutti i maschi dall’età di un mese in su, furono settemilacinquecento.
+{3:23} Le famiglie dei Ghersoniti avevano il campo dietro il tabernacolo, a occidente.
+{3:24} Il capo della famiglia dei Ghersoniti era Eliasaf, figlio di Lael.
+{3:25} Per quel che concerne la tenda di convegno, i figli di Gherson dovevano aver cura del tabernacolo e della tenda, della sua coperta, della portiera all’ingresso della tenda di convegno,
+{3:26} delle tele del cortile e della portiera dell’ingresso del cortile, tutto intorno al tabernacolo e all’altare, e dei suoi cordami per tutto il servizio del tabernacolo.
+{3:27} Da Cheat discendono la famiglia degli Amramiti, la famiglia degli Iseariti, la famiglia degli Ebroniti e la famiglia degli Uzzieliti, che formano le famiglie dei Cheatiti.
+{3:28} Contando tutti i maschi dall’età di un mese in su, furono ottomilaseicento, incaricati della cura del santuario.
+{3:29} Le famiglie dei figli di Cheat avevano il campo al lato meridionale del tabernacolo.
+{3:30} Il capo della famiglia dei Cheatiti era Elisafan, figlio di Uzziel.
+{3:31} Alle loro cure erano affidati l’arca, la tavola, il candelabro, gli altari e gli utensili del santuario con i quali si fa il servizio, il velo e tutto ciò che si riferisce al servizio del santuario.
+{3:32} Il primo dei capi dei Leviti era Eleazar, figlio del sacerdote Aaronne; egli aveva la sorveglianza di quelli che erano incaricati della cura del santuario.
+{3:33} Da Merari discendono la famiglia dei Maliti e la famiglia dei Musiti, che formano le famiglie di Merari.
+{3:34} Quelli di cui si fece il censimento, contando tutti i maschi dall’età di un mese in su, furono seimiladuecento.
+{3:35} Il capo delle famiglie discendenti da Merari era Suriel, figlio di Abiail. Essi avevano il campo al lato settentrionale del tabernacolo.
+{3:36} Alle cure dei figli di Merari furono affidati le assi del tabernacolo, le sue traverse, le sue colonne e le loro basi, tutti i suoi utensili e tutto ciò che si riferisce al servizio del tabernacolo,
+{3:37} le colonne del cortile tutto intorno, le loro basi, i loro picchetti e il loro cordame.
+{3:38} Sul davanti del tabernacolo, a oriente, di fronte alla tenda di convegno, verso il sol levante, avevano l’accampamento Mosè, Aaronne e i suoi figli; essi avevano la cura del santuario per i figli d’Israele; l’estraneo che vi si fosse accostato sarebbe stato messo a morte.
+{3:39} Tutti i Leviti di cui Mosè e Aaronne fecero il censimento secondo le loro famiglie per ordine del Signore, tutti i maschi dall’età di un mese in su, furono ventiduemila.
+{i3:40} Riscatto dei primogeniti
+{3:40} Il Signore disse a Mosè: «Fa’ il censimento di tutti i primogeniti maschi tra i figli d’Israele dall’età di un mese in su e fa’ il conto dei loro nomi.
+{3:41} Prenderai i Leviti per me, io sono il Signore, invece di tutti i primogeniti dei figli d’Israele, e il bestiame dei Leviti al posto dei primi parti del bestiame degli Israeliti».
+{3:42} Mosè fece il censimento di tutti i primogeniti tra i figli d’Israele, secondo l’ordine che il Signore gli aveva dato.
+{3:43} Tutti i primogeniti maschi di cui si fece il censimento, contando i nomi dall’età di un mese in su, furono ventiduemiladuecentosettantatré.
+{3:44} Il Signore disse a Mosè:
+{3:45} «Prendi i Leviti al posto di tutti i primogeniti dei figli d’Israele e il bestiame dei Leviti al posto del loro bestiame; i Leviti saranno miei. Io sono il Signore.
+{3:46} Per il riscatto dei duecentosettantatré primogeniti dei figli d’Israele che superano il numero dei Leviti,
+{3:47} prenderai cinque sicli a testa; li prenderai secondo il siclo del santuario, che è di venti ghere.
+{3:48} Darai il denaro ad Aaronne e ai suoi figli per il riscatto di quelli che superano il numero dei Leviti».
+{3:49} Mosè prese il denaro per il riscatto di quelli che superavano il numero dei primogeniti riscattati dai Leviti;
+{3:50} prese il denaro dai primogeniti dei figli d’Israele: milletrecentosessantacinque sicli, secondo il siclo del santuario.
+{3:51} Mosè diede il denaro del riscatto ad Aaronne e ai suoi figli, secondo l’ordine del Signore, come il Signore aveva ordinato a Mosè.
+{i4:1} Funzioni delle varie famiglie levitiche
+{4:1} Il Signore disse ancora a Mosè e ad Aaronne:
+{4:2} «Fate il conto dei figli di Cheat, tra i figli di Levi, secondo le loro famiglie, secondo la discendenza paterna,
+{4:3} dall’età di trent’anni in su fino all’età di cinquant’anni, di tutti quelli che possono assumere un incarico per servire nella tenda di convegno.
+{4:4} Questo è il servizio che i figli di Cheat dovranno fare nella tenda di convegno e che concerne le cose santissime.
+{4:5} Quando il campo si muoverà, Aaronne e i suoi figli verranno a smontare la cortina di separazione e copriranno con essa l’arca della testimonianza;
+{4:6} poi porranno sull’arca una coperta di pelli di delfino, vi stenderanno sopra un panno di stoffa violacea e metteranno a posto le stanghe.
+{4:7} Poi stenderanno un panno violaceo sulla tavola della presentazione e sopra vi metteranno i piatti, le coppe, le bacinelle, i calici per le libazioni; il pane starà sempre sulla tavola;
+{4:8} su queste cose stenderanno un panno scarlatto e sopra questo una coperta di pelli di delfino, e metteranno le stanghe alla tavola.
+{4:9} Poi prenderanno un panno violaceo, con il quale copriranno il candelabro, le sue lampade, le sue forbici, i suoi smoccolatoi e tutti i suoi vasi dell’olio destinati al servizio del candelabro;
+{4:10} metteranno il candelabro con tutti i suoi utensili in una coperta di pelli di delfino e lo porranno sopra un paio di stanghe.
+{4:11} Poi stenderanno sull’altare d’oro un panno violaceo e sopra questo una coperta di pelli di delfino, e metteranno le stanghe all’altare.
+{4:12} Prenderanno tutti gli utensili di cui si fa uso per il servizio nel santuario, li metteranno in un panno violaceo, li avvolgeranno in una coperta di pelli di delfino e li porranno sopra un paio di stanghe.
+{4:13} Poi toglieranno le ceneri dall’altare e stenderanno sull’altare un panno scarlatto;
+{4:14} vi metteranno sopra tutti gli utensili destinati al suo servizio, i bracieri, i forchettoni, le palette, le bacinelle, tutti gli utensili dell’altare e vi stenderanno sopra una coperta di pelli di delfino; poi porranno le stanghe all’altare.
+{4:15} Dopo che Aaronne e i suoi figli avranno finito di coprire le cose sacre e tutti gli arredi del santuario, quando il campo si muoverà, i figli di Cheat verranno per portare quelle cose; ma non toccheranno le cose sante, per non rischiare di morire. Queste sono le incombenze dei figli di Cheat nella tenda di convegno.
+{4:16} Ed Eleazar, figlio del sacerdote Aaronne, avrà l’incarico dell’olio per il candelabro, dell’incenso aromatico, dell’oblazione quotidiana e dell’olio dell’unzione, e l’incarico di tutto il tabernacolo, di tutto ciò che contiene, del santuario e dei suoi arredi».
+{4:17} Poi il Signore parlò a Mosè e ad Aaronne, e disse:
+{4:18} «Badate che la tribù delle famiglie dei Cheatiti non venga sterminata fra i Leviti;
+{4:19} ma fate questo per loro, affinché vivano e non muoiano quando si accosteranno al luogo santissimo: Aaronne e i suoi figli vengano e assegnino a ciascuno di loro il suo servizio e il suo incarico.
+{4:20} E i Cheatiti non entrino a guardare nemmeno per un istante le cose sacre, affinché non muoiano».
+{4:21} Il Signore disse ancora a Mosè:
+{4:22} «Fa’ il conto anche dei figli di Gherson, secondo le loro famiglie, secondo la discendenza paterna.
+{4:23} Farai il censimento, dall’età di trent’anni in su fino all’età di cinquant’anni, di tutti quelli che possono assumere un incarico per servire nella tenda di convegno.
+{4:24} Questo è il servizio delle famiglie dei Ghersoniti, quello che devono fare e quello che devono portare:
+{4:25} porteranno i teli del tabernacolo e la tenda di convegno, la sua coperta, la coperta di pelli di delfino che vi è sopra e la portiera all’ingresso della tenda di convegno;
+{4:26} le tende del cortile con la portiera dell’ingresso del cortile, tende che stanno tutto intorno al tabernacolo e all’altare, i loro cordami e tutti gli utensili destinati al loro servizio; faranno tutto il servizio che si riferisce a queste cose.
+{4:27} Tutto il servizio dei figli dei Ghersoniti sarà sotto gli ordini di Aaronne e dei suoi figli per tutto quello che dovranno portare e per tutto quello che dovranno fare; voi affiderete alla loro cura tutto quello che devono portare.
+{4:28} Questo è il servizio delle famiglie dei figli dei Ghersoniti nella tenda di convegno; e l’incarico loro sarà eseguito sotto la direzione di Itamar, figlio del sacerdote Aaronne.
+{4:29} Farai il censimento dei figli di Merari secondo le loro famiglie, secondo la discendenza paterna;
+{4:30} farai il censimento, dall’età di trent’anni in su fino all’età di cinquant’anni, di tutti quelli che possono assumere un incarico per servire nella tenda di convegno.
+{4:31} Questo è quanto è affidato alle loro cure e quello che devono portare, in conformità a tutto il loro servizio nella tenda di convegno: le assi, le traverse, le colonne e le basi del tabernacolo;
+{4:32} le colonne che sono intorno al cortile, le loro basi, i loro picchetti, i loro cordami, tutti i loro utensili e tutto quello che è destinato al loro servizio. Farete l’inventario nominativo degli oggetti affidati alle loro cure e che essi dovranno portare.
+{4:33} Tale è il servizio delle famiglie dei figli di Merari, tutto il loro servizio nella tenda di convegno, sotto gli ordini di Itamar, figlio del sacerdote Aaronne».
+{4:34} Mosè, Aaronne e i capi della comunità fecero dunque il censimento dei figli dei Cheatiti secondo le loro famiglie, secondo la discendenza paterna,
+{4:35} di tutti quelli che dall’età di trent’anni in su fino all’età di cinquant’anni potevano assumere un incarico per servire nella tenda di convegno.
+{4:36} Quelli di cui si fece il censimento, secondo le loro famiglie, furono duemilasettecentocinquanta.
+{4:37} Questi sono gli uomini delle famiglie dei Cheatiti dei quali si fece il censimento: tutti quelli che esercitavano un qualche servizio nella tenda di convegno; Mosè e Aaronne ne fecero il censimento secondo l’ordine che il Signore aveva dato per mezzo di Mosè.
+{4:38} I figli di Gherson, di cui si fece il censimento secondo le loro famiglie, secondo la discendenza paterna,
+{4:39} dall’età di trent’anni in su fino all’età di cinquant’anni, tutti quelli che potevano assumere un incarico per servire nella tenda di convegno,
+{4:40} quelli di cui si fece il censimento secondo le loro famiglie, secondo la discendenza paterna, furono duemilaseicentotrenta.
+{4:41} Questi sono gli uomini delle famiglie dei figli di Gherson, di cui si fece il censimento: tutti quelli che esercitavano un qualche servizio nella tenda di convegno; Mosè e Aaronne ne fecero il censimento secondo l’ordine del Signore.
+{4:42} Quelli delle famiglie dei figli di Merari dei quali si fece il censimento secondo le loro famiglie, secondo la discendenza paterna,
+{4:43} dall’età di trent’anni in su fino all’età di cinquant’anni, tutti quelli che potevano assumere un incarico per servire nella tenda di convegno,
+{4:44} quelli di cui si fece il censimento secondo le loro famiglie, furono tremiladuecento.
+{4:45} Questi sono gli uomini delle famiglie dei figli di Merari di cui si fece il censimento. Mosè e Aaronne ne fecero il censimento secondo l’ordine che il Signore aveva dato per mezzo di Mosè.
+{4:46} Tutti i Leviti dei quali Mosè, Aaronne e i capi d’Israele fecero il censimento secondo le loro famiglie e secondo la discendenza paterna,
+{4:47} dall’età di trent’anni in su fino all’età di cinquant’anni, tutti quelli che potevano assumere un incarico per servire e un incarico di portatori nella tenda di convegno,
+{4:48} tutti quelli di cui si fece il censimento, furono ottomilacinquecentottanta.
+{4:49} Ne fu fatto il censimento secondo l’ordine che il Signore aveva dato per mezzo di Mosè, assegnando a ciascuno il servizio che doveva fare e quello che doveva portare. Così ne fu fatto il censimento come il Signore aveva ordinato a Mosè.
+{i5:1} Legge relativa agli impuri, al furto e alla gelosia
+{5:1} Poi il Signore disse a Mosè:
+{5:2} «Ordina ai figli d’Israele che mandino fuori dall’accampamento ogni lebbroso e chiunque ha la gonorrea o è impuro per il contatto con un morto.
+{5:3} Maschi o femmine che siano, li manderete fuori; li manderete fuori dall’accampamento perché non contaminino l’accampamento in mezzo al quale io abito».
+{5:4} I figli d’Israele fecero così e li mandarono fuori dall’accampamento. Come il Signore aveva detto a Mosè, così fecero i figli d’Israele.
+{5:5} Il Signore disse ancora a Mosè:
+{5:6} «Di’ ai figli d’Israele: “Quando un uomo o una donna avrà fatto un torto a qualcuno, commettendo un’infedeltà rispetto al Signore, questa persona si sarà così resa colpevole.
+{5:7} Dovrà confessare il peccato commesso, restituirà per intero il maltolto, aggiungendovi un quinto, e lo darà a colui verso il quale si è reso colpevole.
+{5:8} Ma se questi non ha parente prossimo a cui si possa restituire il maltolto, ciò che viene restituito spetterà al Signore, cioè al sacerdote, oltre al montone espiatorio, mediante il quale si farà l’espiazione per il colpevole.
+{5:9} Ogni offerta elevata di tutte le cose consacrate che i figli d’Israele presenteranno al sacerdote, sarà del sacerdote;
+{5:10} le cose che uno consacrerà saranno del sacerdote; ciò che uno darà al sacerdote apparterrà a lui”».
+{5:11} Il Signore disse ancora a Mosè:
+{5:12} «Parla ai figli d’Israele e di’ loro: “Se una donna si svia dal marito e commette un’infedeltà contro di lui;
+{5:13} se uno ha relazioni carnali con lei e la cosa è nascosta agli occhi del marito; se ella si è contaminata in segreto senza che vi siano testimoni contro di lei o che sia stata colta sul fatto,
+{5:14} qualora lo spirito di gelosia s’impossessi del marito e questi diventi geloso della moglie che si è contaminata, oppure lo spirito di gelosia s’impossessi di lui e questi diventi geloso della moglie che di fatto non si è contaminata,
+{5:15} quell’uomo condurrà la moglie dal sacerdote e porterà un’offerta per lei: un decimo di efa di farina d’orzo; non vi spanderà sopra olio né vi metterà sopra incenso, perché è un’oblazione di gelosia, un’oblazione commemorativa, destinata a ricordare un’iniquità.
+{5:16} Il sacerdote farà avvicinare la donna e la farà stare in piedi davanti al Signore.
+{5:17} Poi il sacerdote prenderà dell’acqua santa in un vaso di terra; prenderà pure della polvere che è sul suolo del tabernacolo e la metterà nell’acqua.
+{5:18} Il sacerdote farà quindi stare la donna in piedi davanti al Signore, le scoprirà il capo e le metterà in mano l’oblazione commemorativa, che è l’oblazione di gelosia; e il sacerdote avrà in mano l’acqua amara che porta maledizione.
+{5:19} Il sacerdote farà giurare quella donna e le dirà: ‘Se nessun uomo si è unito a te, e se non ti sei sviata contaminandoti con un uomo, invece di tuo marito, quest’acqua amara che porta maledizione non ti farà danno!
+{5:20} Ma se ti sei sviata ricevendo un altro invece di tuo marito e ti sei contaminata, se un altro che non è tuo marito ti ha fecondata’,
+{5:21} allora il sacerdote farà giurare la donna con un giuramento di maledizione e le dirà: ‘Il Signore faccia di te un oggetto di maledizione e di esecrazione in mezzo al tuo popolo, facendoti dimagrire i fianchi e gonfiare il ventre;
+{5:22} quest’acqua che porta maledizione ti entri nelle viscere per farti gonfiare il ventre e dimagrire i fianchi!’ E la donna dirà: ‘Amen! Amen!’
+{5:23} Poi il sacerdote scriverà queste maledizioni in un rotolo e le farà sciogliere nell’acqua amara.
+{5:24} Farà bere alla donna quell’acqua amara che porta maledizione, e l’acqua che porta maledizione entrerà in lei per produrle amarezza.
+{5:25} Il sacerdote prenderà dalle mani della donna l’oblazione di gelosia, agiterà l’oblazione davanti al Signore e l’offrirà sull’altare.
+{5:26} Il sacerdote prenderà una manciata di quell’oblazione commemorativa e la farà fumare sull’altare; poi farà bere l’acqua alla donna.
+{5:27} Quando le avrà fatto bere l’acqua, se è contaminata e ha commesso un’infedeltà contro il marito, l’acqua che porta maledizione entrerà in lei per produrre amarezza; il ventre le si gonfierà, i suoi fianchi dimagriranno, e quella donna diventerà un oggetto di maledizione in mezzo al suo popolo.
+{5:28} Ma se la donna non si è contaminata ed è pura, sarà riconosciuta innocente e avrà dei figli.
+{5:29} Questa è la legge relativa alla gelosia, per il caso in cui la moglie di uno si svii ricevendo un altro invece di suo marito e si contamini,
+{5:30} per il caso in cui lo spirito di gelosia s’impossessi del marito e questi diventi geloso della moglie; egli farà comparire sua moglie davanti al Signore e il sacerdote applicherà questa legge integralmente.
+{5:31} Il marito sarà immune da colpa, ma la donna porterà la pena della sua iniquità”».
+{i6:1} Legge relativa al nazireato
+{6:1} Il Signore disse ancora a Mosè:
+{6:2} «Parla ai figli d’Israele e di’ loro: “Quando un uomo o una donna avrà fatto un voto speciale, il voto di nazireato,
+{6:3} per consacrarsi al Signore, si asterrà dal vino e dalle bevande alcoliche; non berrà aceto fatto di vino, né aceto fatto di bevanda alcolica; non berrà liquori d’uva e non mangerà uva, né fresca né secca.
+{6:4} Per tutto il tempo del suo nazireato non mangerà alcun prodotto della vigna, dagli acini alla buccia.
+{6:5} Per tutto il tempo del suo voto di nazireato il rasoio non passerà sul suo capo; fino a che siano compiuti i giorni per i quali egli si è consacrato al Signore, sarà santo; si lascerà crescere liberamente i capelli sul capo.
+{6:6} Per tutto il tempo che egli si è consacrato al Signore, non si avvicinerà a un corpo morto;
+{6:7} si trattasse anche di suo padre, di sua madre, di suo fratello e di sua sorella, non si contaminerà con loro alla loro morte, perché porta sul capo il segno della sua consacrazione a Dio.
+{6:8} Per tutto il tempo del suo nazireato egli è consacrato al Signore.
+{6:9} Se uno gli muore accanto improvvisamente e il suo capo consacrato rimane così contaminato, si raderà il capo il giorno della sua purificazione; se lo raderà il settimo giorno;
+{6:10} l’ottavo giorno porterà due tortore o due giovani piccioni al sacerdote, all’ingresso della tenda di convegno.
+{6:11} Il sacerdote ne offrirà uno come sacrificio per il peccato e l’altro come olocausto, farà per lui l’espiazione del peccato che ha commesso a motivo di quel morto; in quel giorno stesso il nazireo consacrerà così il suo capo.
+{6:12} Consacrerà di nuovo al Signore i giorni del suo nazireato e offrirà un agnello dell’anno come sacrificio di riparazione; i giorni precedenti non saranno contati, perché il suo nazireato è stato contaminato.
+{6:13} Questa è la legge del nazireato: quando i giorni del suo nazireato saranno compiuti, lo si farà venire all’ingresso della tenda di convegno.
+{6:14} Egli presenterà la sua offerta al Signore: un agnello dell’anno, senza difetto, per l’olocausto; una pecora dell’anno, senza difetto, per il sacrificio per il peccato, e un montone, senza difetto, per il sacrificio di riconoscenza;
+{6:15} un paniere di pani azzimi fatti con fior di farina, di focacce intrise d’olio, di gallette azzime unte d’olio, insieme con l’oblazione e le libazioni relative.
+{6:16} Il sacerdote presenterà quelle cose davanti al Signore, offrirà il suo sacrificio per il peccato e il suo olocausto;
+{6:17} offrirà il montone come sacrificio di riconoscenza al Signore, con il paniere dei pani azzimi; il sacerdote offrirà pure l’oblazione e la libazione.
+{6:18} Il nazireo si raderà il capo consacrato all’ingresso della tenda di convegno, prenderà i capelli del suo capo consacrato e li metterà sul fuoco che è sotto il sacrificio di riconoscenza.
+{6:19} Il sacerdote prenderà la spalla del montone, quando sarà cotta, una focaccia azzima dal paniere, una galletta azzima, e le metterà nelle mani del nazireo, dopo che questi avrà raso il suo capo consacrato.
+{6:20} Il sacerdote le agiterà, come offerta agitata, davanti al Signore; è cosa santa che appartiene al sacerdote, insieme al petto dell’offerta agitata e alla spalla dell’offerta elevata. Dopo questo, il nazireo potrà bere vino.
+{6:21} Tale è la legge relativa a colui che ha fatto voto di nazireato, tale è la sua offerta al Signore per il suo nazireato, oltre a quello che i suoi mezzi gli permetteranno di fare. Egli agirà secondo il voto che avrà fatto, conformemente alla legge del suo nazireato”».
+{i6:22} Formula della benedizione sacerdotale
+{6:22} Il Signore disse ancora a Mosè:
+{6:23} «Parla ad Aaronne e ai suoi figli e di’ loro: “Voi benedirete così i figli d’Israele; direte loro:
+{6:24} ‘Il Signore ti benedica e ti protegga!
+{6:25} Il Signore faccia risplendere il suo volto su di te e ti sia propizio!
+{6:26} Il Signore rivolga verso di te il suo volto e ti dia la pace!’”.
+{6:27} Così metteranno il mio nome sui figli d’Israele e io li benedirò».
+{i7:1} Offerte dei capi delle tribù per la dedicazione del tabernacolo
+{7:1} Il giorno in cui Mosè ebbe finito di erigere il tabernacolo, lo unse e lo consacrò con tutti i suoi arredi; poi, eretto l’altare, lo unse e lo consacrò con tutti i suoi utensili.
+{7:2} Allora i capi d’Israele, i primi delle case dei loro padri, che erano i capi delle tribù e che avevano presieduto al censimento, presentarono un’offerta
+{7:3} e la portarono davanti al Signore: sei carri coperti e dodici buoi; vale a dire un carro ogni due capi e un bue per ogni capo; e li offrirono davanti al tabernacolo.
+{7:4} Il Signore disse a Mosè:
+{7:5} «Prendi da loro queste offerte per impiegarle al servizio della tenda di convegno e dalle ai Leviti; a ciascuno secondo il suo incarico».
+{7:6} Mosè prese dunque i carri e i buoi e li diede ai Leviti.
+{7:7} Diede due carri e quattro buoi ai figli di Gherson, secondo i loro incarichi;
+{7:8} diede quattro carri e otto buoi ai figli di Merari, secondo i loro incarichi, sotto la sorveglianza d’Itamar, figlio del sacerdote Aaronne;
+{7:9} ma ai figli di Cheat non diede nulla, perché avevano l’incarico degli oggetti sacri e dovevano portarli sulle spalle.
+{7:10} I capi presentarono la loro offerta per la dedicazione dell’altare, il giorno in cui esso fu unto; la presentarono davanti all’altare.
+{7:11} Il Signore disse a Mosè: «I capi presenteranno la loro offerta uno per giorno, per la dedicazione dell’altare».
+{7:12} Colui che presentò la sua offerta il primo giorno fu Nason, figlio di Amminadab, della tribù di Giuda;
+{7:13} e la sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:14} una coppa d’oro di dieci sicli piena di incenso,
+{7:15} un toro, un montone,
+{7:16} un agnello dell’anno per l’olocausto, un capro per il sacrificio per il peccato,
+{7:17} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Nason, figlio di Amminadab.
+{7:18} Il secondo giorno, Netaneel, figlio di Suar, capo d’Issacar, presentò la sua offerta.
+{7:19} Offrì un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:20} una coppa d’oro di dieci sicli piena d’incenso,
+{7:21} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:22} un capro per il sacrificio per il peccato,
+{7:23} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Netaneel, figlio di Suar.
+{7:24} Il terzo giorno fu Eliab, figlio di Chelon, capo dei figli di Zabulon.
+{7:25} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:26} una coppa d’oro di dieci sicli piena d’incenso,
+{7:27} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:28} un capro per il sacrificio per il peccato,
+{7:29} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Eliab, figlio di Chelon.
+{7:30} Il quarto giorno fu Elisur, figlio di Sedeur, capo dei figli di Ruben.
+{7:31} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:32} una coppa d’oro di dieci sicli piena d’incenso,
+{7:33} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:34} un capro per il sacrificio per il peccato,
+{7:35} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Elisur, figlio di Sedeur.
+{7:36} Il quinto giorno fu Selumiel, figlio di Surisaddai, capo dei figli di Simeone.
+{7:37} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:38} una coppa d’oro di dieci sicli piena d’incenso,
+{7:39} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:40} un capro per il sacrificio per il peccato,
+{7:41} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Selumiel figlio di Surisaddai.
+{7:42} Il sesto giorno fu Eliasaf, figlio di Deuel, capo dei figli di Gad.
+{7:43} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:44} una coppa d’oro di dieci sicli piena d’incenso,
+{7:45} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:46} un capro per il sacrificio per il peccato,
+{7:47} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Eliasaf, figlio di Deuel.
+{7:48} Il settimo giorno fu Elisama, figlio di Ammiud, capo dei figli di Efraim.
+{7:49} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:50} una coppa d’oro di dieci sicli piena d’incenso,
+{7:51} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:52} un capro per il sacrificio per il peccato,
+{7:53} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Elisama, figlio di Ammiud.
+{7:54} L’ottavo giorno fu Gamaliel, figlio di Pedasur, capo dei figli di Manasse.
+{7:55} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:56} una coppa d’oro di dieci sicli piena d’incenso,
+{7:57} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:58} un capro per il sacrificio per il peccato,
+{7:59} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Gamaliel, figlio di Pedasur.
+{7:60} Il nono giorno fu Abidan, figlio di Ghideoni, capo dei figli di Beniamino.
+{7:61} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:62} una coppa d’oro di dieci sicli piena d’incenso,
+{7:63} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:64} un capro per il sacrificio per il peccato,
+{7:65} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Abidan, figlio di Ghideoni.
+{7:66} Il decimo giorno fu Aiezer, figlio di Ammisaddai, capo dei figli di Dan.
+{7:67} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:68} una coppa d’oro di dieci sicli piena d’incenso,
+{7:69} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:70} un capro per il sacrificio per il peccato,
+{7:71} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Aiezer, figlio di Ammisaddai.
+{7:72} L’undicesimo giorno fu Paghiel, figlio di Ocran, capo dei figli di Ascer.
+{7:73} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:74} una coppa d’oro di dieci sicli piena d’incenso,
+{7:75} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:76} un capro per il sacrificio per il peccato,
+{7:77} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Paghiel, figlio di Ocran.
+{7:78} Il dodicesimo giorno fu Aira, figlio di Enan, capo dei figli di Neftali.
+{7:79} La sua offerta fu un piatto d’argento del peso di centotrenta sicli, una bacinella d’argento di settanta sicli, secondo il siclo del santuario, tutti e due pieni di fior di farina intrisa d’olio, per l’oblazione;
+{7:80} una coppa d’oro di dieci sicli piena d’incenso,
+{7:81} un toro, un montone, un agnello dell’anno per l’olocausto,
+{7:82} un capro per il sacrificio per il peccato
+{7:83} e, per il sacrificio di riconoscenza, due bovini, cinque montoni, cinque capri, cinque agnelli dell’anno. Tale fu l’offerta di Aira, figlio di Enan.
+{7:84} Questi furono i doni per la dedicazione dell’altare, da parte dei capi d’Israele, il giorno in cui esso fu unto: dodici piatti d’argento, dodici bacinelle d’argento, dodici coppe d’oro;
+{7:85} ogni piatto d’argento pesava centotrenta sicli e ogni bacinella d’argento, settanta; il totale dell’argento dei vasi fu duemilaquattrocento sicli, secondo il siclo del santuario;
+{7:86} dodici coppe d’oro piene d’incenso, le quali, a dieci sicli per coppa, secondo il siclo del santuario, diedero, per l’oro delle coppe, un totale di centoventi sicli.
+{7:87} Totale del bestiame per l’olocausto: dodici tori, dodici montoni, dodici agnelli dell’anno con le oblazioni ordinarie, e dodici capri per il sacrificio per il peccato.
+{7:88} Totale del bestiame per il sacrificio di riconoscenza: ventiquattro tori, sessanta montoni, sessanta capri, sessanta agnelli dell’anno. Tali furono i doni per la dedicazione dell’altare, dopo che esso fu unto.
+{7:89} E quando Mosè entrava nella tenda di convegno per parlare con il Signore, udiva la voce che gli parlava dall’alto del propiziatorio che è sull’arca della testimonianza fra i due cherubini; e il Signore gli parlava.
+{i8:1} Disposizione delle lampade e del candelabro
+{8:1} Il Signore disse ancora a Mosè:
+{8:2} «Parla ad Aaronne, e digli: “Quando disporrai le lampade, le sette lampade dovranno proiettare la luce sul davanti del candelabro”».
+{8:3} E Aaronne fece così; dispose le lampade in modo che facessero luce sul davanti del candelabro, come il Signore aveva ordinato a Mosè.
+{8:4} Il candelabro era fatto così: era d’oro battuto; tanto la sua base quanto i suoi fiori erano lavorati a martello. Mosè aveva fatto il candelabro secondo il modello che il Signore gli aveva mostrato.
+{i8:5} Consacrazione dei Leviti
+{8:5} Il Signore disse a Mosè:
+{8:6} «Prendi i Leviti tra i figli d’Israele e purificali.
+{8:7} Per purificarli, farai così: tu li aspergerai con l’acqua per il peccato, essi faranno passare il rasoio su tutto il loro corpo, si laveranno le vesti e si purificheranno.
+{8:8} Poi prenderanno un toro con l’oblazione ordinaria di fior di farina intrisa d’olio, e tu prenderai un altro toro per il sacrificio per il peccato.
+{8:9} Farai avvicinare i Leviti davanti alla tenda di convegno e convocherai tutta la comunità dei figli d’Israele.
+{8:10} Farai avvicinare i Leviti davanti al Signore e i figli d’Israele imporranno le mani sui Leviti;
+{8:11} Aaronne presenterà i Leviti come offerta agitata davanti al Signore da parte dei figli d’Israele ed essi faranno il servizio del Signore.
+{8:12} Poi i Leviti poseranno le mani sulla testa dei tori e tu ne offrirai uno come sacrificio per il peccato e l’altro come olocausto al Signore, per fare l’espiazione per i Leviti.
+{8:13} Farai stare i Leviti in piedi davanti ad Aaronne e davanti ai suoi figli, e li presenterai come un’offerta agitata al Signore.
+{8:14} Così separerai i Leviti in mezzo ai figli d’Israele, e i Leviti saranno miei.
+{8:15} Dopo questo, i Leviti verranno a fare il servizio nella tenda di convegno; e tu li purificherai e li presenterai come un’offerta agitata;
+{8:16} poiché mi sono interamente dati tra i figli d’Israele; io li ho presi per me, invece di tutti i primi nati, dei primogeniti di tutti i figli d’Israele.
+{8:17} Poiché tutti i primogeniti dei figli d’Israele, tanto degli uomini quanto del bestiame, sono miei; io me li consacrai il giorno che percossi tutti i primogeniti nel paese d’Egitto.
+{8:18} Ho preso i Leviti invece di tutti i primogeniti dei figli d’Israele.
+{8:19} Ho dato in dono ad Aaronne e ai suoi figli i Leviti tra i figli d’Israele, perché facciano il servizio dei figli d’Israele nella tenda di convegno e perché facciano l’espiazione per i figli d’Israele, affinché nessuna calamità scoppi tra i figli d’Israele quando si avvicinano al santuario».
+{8:20} Così fecero Mosè, Aaronne e tutta la comunità dei figli d’Israele rispetto ai Leviti; i figli d’Israele fecero a loro riguardo tutto quello che il Signore aveva ordinato a Mosè relativamente a loro.
+{8:21} I Leviti si purificarono e si lavarono le vesti; Aaronne li presentò come un’offerta agitata davanti al Signore e fece l’espiazione per essi, per purificarli.
+{8:22} Dopo questo, i Leviti vennero a fare il servizio nella tenda di convegno in presenza di Aaronne e dei suoi figli. Si fece ai Leviti secondo l’ordine che il Signore aveva dato a Mosè a loro riguardo.
+{8:23} Il Signore disse a Mosè:
+{8:24} «Questo è ciò che concerne i Leviti: dai venticinque anni in su il Levita entrerà per assumere un incarico nel servizio della tenda di convegno;
+{8:25} all’età di cinquant’anni si ritirerà dal suo incarico e non farà più il servizio.
+{8:26} Potrà assistere i suoi fratelli nella tenda di convegno, sorvegliando ciò che è affidato alle loro cure, ma non farà più servizio. Così farai, rispetto ai Leviti, per quello che concerne i loro incarichi».
+{i9:1} La Pasqua celebrata nel deserto del Sinai
+{9:1} Il Signore disse ancora a Mosè, nel deserto del Sinai, il primo mese del secondo anno da quando furono usciti dal paese d’Egitto:
+{9:2} «I figli d’Israele celebreranno la Pasqua alla data stabilita.
+{9:3} La celebrerete nel tempo stabilito, il quattordicesimo giorno di questo mese, all’imbrunire; la celebrerete secondo tutte le leggi e le prescrizioni che vi si riferiscono».
+{9:4} Allora Mosè parlò ai figli d’Israele perché celebrassero la Pasqua.
+{9:5} Ed essi celebrarono la Pasqua il quattordicesimo giorno del primo mese, all’imbrunire, nel deserto del Sinai; i figli d’Israele si conformarono a tutti gli ordini che il Signore aveva dato a Mosè.
+{9:6} Or vi erano degli uomini che, essendo impuri per aver toccato un morto, non potevano celebrare la Pasqua in quel giorno. Essi si presentarono in quello stesso giorno davanti a Mosè e davanti ad Aaronne,
+{9:7} e dissero a Mosè: «Noi siamo impuri perché abbiamo toccato un morto; perché ci sarebbe impedito di presentare l’offerta del Signore, al tempo stabilito, insieme con i figli d’Israele?»
+{9:8} Mosè rispose loro: «Aspettate, e sentirò quello che il Signore ordinerà a vostro riguardo».
+{9:9} Il Signore disse a Mosè:
+{9:10} «Parla ai figli d’Israele e di’ loro: “Se uno di voi o dei vostri discendenti sarà impuro per il contatto con un morto o sarà in viaggio, celebrerà lo stesso la Pasqua in onore del Signore.
+{9:11} La celebreranno il quattordicesimo giorno del secondo mese, all’imbrunire; mangeranno la vittima con pane azzimo e con erbe amare;
+{9:12} non ne lasceranno nulla di avanzo fino al mattino e non ne spezzeranno nessun osso. La celebreranno secondo tutte le leggi della Pasqua.
+{9:13} Ma colui che è puro e che non è in viaggio, se si astiene dal celebrare la Pasqua, quel tale sarà tolto via dalla sua gente; siccome non ha presentato l’offerta al Signore nel tempo stabilito, quel tale porterà la pena del suo peccato.
+{9:14} Se uno straniero che soggiorna tra di voi celebrerà la Pasqua del Signore, si conformerà alle leggi e alle prescrizioni della Pasqua. Avrete un’unica legge, per lo straniero e per il nativo del paese”».
+{i9:15} La nuvola
+{9:15} Il giorno in cui il tabernacolo fu eretto, la nuvola coprì il tabernacolo, cioè la tenda della testimonianza; e, dalla sera fino alla mattina, appariva sul tabernacolo come un fuoco.
+{9:16} Avveniva sempre così: la nuvola copriva il tabernacolo e, di notte, appariva come un fuoco.
+{9:17} E tutte le volte che la nuvola si alzava dalla tenda, i figli d’Israele si mettevano in cammino e si accampavano dove si fermava la nuvola.
+{9:18} I figli d’Israele si mettevano in cammino all’ordine del Signore e si accampavano all’ordine del Signore. Rimanevano accampati tutto il tempo che la nuvola restava ferma sul tabernacolo.
+{9:19} Quando la nuvola rimaneva per molti giorni sul tabernacolo, i figli d’Israele osservavano la prescrizione del Signore e non si muovevano.
+{9:20} Se avveniva che la nuvola rimanesse pochi giorni sul tabernacolo, all’ordine del Signore rimanevano accampati e all’ordine del Signore si mettevano in cammino.
+{9:21} Se la nuvola si fermava dalla sera alla mattina e si alzava la mattina, si mettevano in cammino; o se dopo un giorno e una notte la nuvola si alzava, si mettevano in cammino.
+{9:22} Se la nuvola rimaneva ferma sul tabernacolo due giorni o un mese o un anno, i figli d’Israele rimanevano accampati e non si muovevano; ma, quando si alzava, si mettevano in cammino.
+{9:23} All’ordine del Signore si accampavano e all’ordine del Signore si mettevano in cammino; osservavano la prescrizione del Signore, secondo l’ordine trasmesso dal Signore per mezzo di Mosè.
+{i10:1} Le due trombe d’argento
+{10:1} Il Signore disse ancora a Mosè:
+{10:2} «Fatti due trombe d’argento; le farai d’argento battuto; ti serviranno per convocare la comunità e per far muovere l’accampamento.
+{10:3} Al suono delle due trombe la comunità si raccoglierà presso di te, all’ingresso della tenda di convegno.
+{10:4} Al suono di una tromba sola, i capi, i primi delle migliaia d’Israele, si riuniranno presso di te.
+{10:5} Quando suonerete con squilli acuti e prolungati, gli accampamenti che sono a levante si metteranno in cammino.
+{10:6} Quando suonerete una seconda volta con squilli acuti e prolungati, gli accampamenti che si trovano a mezzogiorno si metteranno in cammino; si suonerà con squilli acuti e prolungati quando dovranno mettersi in cammino.
+{10:7} Quando dev’essere convocata la comunità, suonerete, ma non con squilli acuti e prolungati.
+{10:8} Saranno i sacerdoti figli di Aaronne a suonare le trombe; sarà una legge perenne per voi e per i vostri discendenti.
+{10:9} Quando nel vostro paese andrete alla guerra contro il nemico che vi attaccherà, suonerete a squilli acuti e prolungati con le trombe, e sarete ricordati davanti al Signore, al vostro Dio, e sarete liberati dai vostri nemici.
+{10:10} Così pure nei vostri giorni di gioia, nelle vostre solennità e al principio dei vostri mesi, suonerete le trombe quando offrirete i vostri olocausti e i vostri sacrifici di riconoscenza. Ciò vi servirà di ricordanza davanti al vostro Dio. Io sono il Signore, il vostro Dio».
+{i10:11} Partenza degli Israeliti dal Sinai
+{10:11} Il secondo anno, il secondo mese, il ventesimo giorno del mese, la nuvola si alzò sopra il tabernacolo della testimonianza.
+{10:12} I figli d’Israele partirono dal deserto del Sinai, secondo l’ordine fissato per il loro cammino; la nuvola si fermò nel deserto di Paran.
+{10:13} Così si misero in cammino la prima volta, secondo l’ordine del Signore trasmesso per mezzo di Mosè.
+{10:14} La bandiera dell’accampamento dei figli di Giuda, diviso secondo le loro formazioni, si mosse per prima. Nason, figlio di Amminadab, comandava la schiera di Giuda.
+{10:15} Netaneel, figlio di Suar, comandava la schiera della tribù dei figli d’Issacar,
+{10:16} ed Eliab, figlio di Chelon, comandava la schiera della tribù dei figli di Zabulon.
+{10:17} Il tabernacolo fu smontato e i figli di Gherson e i figli di Merari si misero in cammino, portando il tabernacolo.
+{10:18} Poi si mosse la bandiera dell’accampamento di Ruben, diviso secondo le sue formazioni. Elisur, figlio di Sedeur, comandava la schiera di Ruben.
+{10:19} Selumiel, figlio di Surisaddai, comandava la schiera della tribù dei figli di Simeone,
+{10:20} ed Eliasaf, figlio di Deuel, comandava la schiera della tribù dei figli di Gad.
+{10:21} Poi si mossero i Cheatiti, portando gli oggetti sacri; e gli altri rimontavano il tabernacolo, prima che quelli arrivassero.
+{10:22} Poi si mosse la bandiera dell’accampamento dei figli di Efraim, diviso secondo le sue formazioni. Elisama, figlio di Ammiud, comandava la schiera di Efraim.
+{10:23} Gamaliel, figlio di Pedasur, comandava la schiera della tribù dei figli di Manasse,
+{10:24} e Abidan, figlio di Ghideoni, comandava la schiera della tribù dei figli di Beniamino.
+{10:25} Poi si mosse la bandiera dell’accampamento dei figli di Dan, diviso secondo le sue formazioni, formando la retroguardia di tutti gli accampamenti. Aiezer, figlio di Ammisaddai, comandava la schiera di Dan.
+{10:26} Paghiel, figlio di Ocran, comandava la schiera della tribù dei figli di Ascer,
+{10:27} e Aira, figlio di Enan, comandava la schiera della tribù dei figli di Neftali.
+{10:28} Tale era l’ordine con cui i figli d’Israele si misero in cammino secondo le loro formazioni. E così partirono.
+{10:29} Mosè disse a Obab, figlio di Reuel, madianita, suocero di Mosè: «Noi c’incamminiamo verso il luogo del quale il Signore ha detto: “Io ve lo darò”. Vieni con noi e ti faremo del bene, perché il Signore ha promesso di fare del bene a Israele».
+{10:30} Obab gli rispose: «Io non verrò, ma andrò al mio paese e dai miei parenti».
+{10:31} E Mosè disse: «Ti prego, non ci lasciare; poiché tu conosci i luoghi dove dovremo accamparci nel deserto, e sarai la nostra guida.
+{10:32} E, se vieni con noi, qualunque bene il Signore farà a noi, noi lo faremo a te».
+{10:33} Così partirono dal monte del Signore e fecero tre giornate di cammino; l’arca del patto del Signore andava davanti a loro durante le tre giornate di cammino, per cercare loro un luogo di riposo.
+{10:34} E la nuvola del Signore era su di loro, durante il giorno, quando spostavano l’accampamento.
+{10:35} Quando l’arca partiva, Mosè diceva: «Sorgi, o Signore, e siano dispersi i tuoi nemici, e fuggano davanti alla tua presenza quelli che ti odiano!»
+{10:36} E quando si posava, diceva: «Torna, o Signore, alle miriadi di migliaia d’Israele!»
+{i11:1} Mormorii del popolo a Tabera. Il fuoco del Signore
+{11:1} Or il popolo cominciò a mormorare in modo irriverente alle orecchie del Signore. Come il Signore li udì, la sua ira si accese, il fuoco del Signore divampò in mezzo a loro e divorò l’estremità dell’accampamento.
+{11:2} Allora il popolo gridò a Mosè; Mosè pregò il Signore, e il fuoco si spense.
+{11:3} Quel luogo fu chiamato Tabera, perché il fuoco del Signore era divampato in mezzo a loro.
+{i11:4} Mormorii a Chibrot-Attaava. Israele reclama della carne
+{11:4} L’accozzaglia di gente raccogliticcia che era tra il popolo fu presa da concupiscenza; e anche i figli d’Israele ricominciarono a piagnucolare e a dire: «Chi ci darà da mangiare della carne?
+{11:5} Ci ricordiamo dei pesci che mangiavamo in Egitto a volontà, dei cocomeri, dei meloni, dei porri, delle cipolle e dell’aglio.
+{11:6} E ora siamo inariditi; non c’è più nulla! I nostri occhi non vedono altro che questa manna».
+{11:7} La manna era simile al seme di coriandolo e aveva l’aspetto di resina gommosa.
+{11:8} Il popolo andava attorno a raccoglierla; poi la riduceva in farina con le macine o la pestava nel mortaio, la faceva cuocere in pentole o ne faceva delle focacce, e aveva il sapore di una focaccia all’olio.
+{11:9} Quando la rugiada cadeva sul campo, la notte, vi cadeva anche la manna.
+{11:10} Mosè udì il popolo che piagnucolava in tutte le famiglie, ognuno all’ingresso della propria tenda; l’ira del Signore si accese gravemente e la cosa dispiacque anche a Mosè.
+{11:11} Mosè disse al Signore: «Perché hai trattato così male il tuo servo? Perché non ho trovato grazia agli occhi tuoi, e mi hai messo addosso il carico di tutto questo popolo?
+{11:12} L’ho forse concepito io tutto questo popolo? L’ho forse dato alla luce io, che tu mi dica: “Portalo sul tuo seno”, come la balia porta il bimbo lattante, fino al paese che tu hai promesso con giuramento ai suoi padri?
+{11:13} Dove prenderei della carne da dare a tutto questo popolo? Poiché piagnucola dietro a me, e dice: “Dacci da mangiare della carne!”
+{11:14} Io non posso, da solo, portare tutto questo popolo; è un peso troppo grave per me.
+{11:15} Se mi vuoi trattare così, uccidimi, ti prego; uccidimi, se ho trovato grazia agli occhi tuoi; che io non veda la mia sventura!»
+{i11:16} I settanta anziani
+{11:16} Il Signore disse a Mosè: «Radunami settanta fra gli anziani d’Israele, conosciuti da te come anziani del popolo e come persone autorevoli; conducili alla tenda di convegno e vi si presentino con te.
+{11:17} Io scenderò e lì parlerò con te; prenderò lo Spirito che è su te e lo metterò su di loro, perché portino con te il carico del popolo e tu non lo porti più da solo.
+{11:18} Dirai al popolo: “Santificatevi per domani e mangerete della carne, poiché avete pianto alle orecchie del Signore, dicendo: ‘Chi ci farà mangiare della carne? Stavamo bene in Egitto!’ Ebbene, il Signore vi darà della carne e voi ne mangerete.
+{11:19} Ne mangerete non per un giorno, non per due giorni, non per cinque giorni, non per dieci giorni, non per venti giorni,
+{11:20} ma per un mese intero, finché vi esca dalle narici e ne proviate nausea, poiché avete respinto il Signore che è in mezzo a voi e avete pianto davanti a lui, dicendo: ‘Perché mai siamo usciti dall’Egitto?’”».
+{11:21} Mosè disse: «Questo popolo, in mezzo al quale mi trovo, conta seicentomila adulti e tu hai detto: “Io darò loro della carne e ne mangeranno per un mese intero!”
+{11:22} Scanneranno per loro greggi e armenti in modo che ne abbiano abbastanza? Raduneranno per loro tutto il pesce del mare in modo che ne abbiano abbastanza?»
+{11:23} Il Signore rispose a Mosè: «La mano del Signore è forse accorciata? Ora vedrai se la parola che ti ho detto si adempirà o no».
+{11:24} Mosè dunque uscì e riferì al popolo le parole del Signore; radunò settanta fra gli anziani del popolo e li dispose intorno alla tenda.
+{11:25} Il Signore scese nella nuvola e parlò a Mosè; prese dello Spirito che era su di lui e lo mise sui settanta anziani; e appena lo Spirito si fu posato su di loro, profetizzarono, ma poi smisero.
+{11:26} Intanto due uomini, l’uno chiamato Eldad e l’altro Medad, erano rimasti nell’accampamento, e lo Spirito si posò su di loro; erano fra i settanta, ma non erano usciti per andare alla tenda; e profetizzarono nel campo.
+{11:27} Un giovane corse a riferire la cosa a Mosè, e disse: «Eldad e Medad profetizzano nel campo».
+{11:28} Allora Giosuè, figlio di Nun, servo di Mosè fin dalla sua giovinezza, prese a dire: «Mosè, signor mio, non glielo permettere!»
+{11:29} Ma Mosè gli rispose: «Sei geloso per me? Oh, fossero pure tutti profeti nel popolo del Signore, e volesse il Signore mettere su di loro il suo Spirito!»
+{11:30} E Mosè si ritirò nell’accampamento, insieme con gli anziani d’Israele.
+{i11:31} Le quaglie e il flagello
+{11:31} Un vento si levò, per ordine del Signore, e portò delle quaglie dalla parte del mare e le fece cadere presso l’accampamento sulla distesa di circa una giornata di cammino da un lato e una giornata di cammino dall’altro intorno all’accampamento, e a un’altezza di circa due cubiti sulla superficie del suolo.
+{11:32} Il popolo si alzò e tutto quel giorno e tutta la notte e tutto il giorno seguente raccolse le quaglie. Chi ne raccolse meno ne ebbe dieci comer; le distesero tutto intorno all’accampamento.
+{11:33} Avevano ancora la carne tra i denti e non l’avevano neppure masticata, quando l’ira del Signore si accese contro il popolo e il Signore colpì il popolo con un gravissimo flagello.
+{11:34} A quel luogo fu dato il nome di Chibrot-Attaava, perché vi seppellirono la gente che si era lasciata prendere dalla concupiscenza.
+{11:35} Da Chibrot-Attaava il popolo partì per Aserot, e ad Aserot si fermò.
+{i12:1} Mormorii di Miriam e di Aaronne. Miriam colpita da lebbra
+{12:1} Miriam e Aaronne parlarono contro Mosè a causa della moglie cusita che aveva presa; poiché aveva sposato una Cusita.
+{12:2} E dissero: «Il Signore ha parlato soltanto per mezzo di Mosè? Non ha parlato anche per mezzo nostro?» E il Signore lo udì.
+{12:3} Or Mosè era un uomo molto umile, più di ogni altro uomo sulla faccia della terra.
+{12:4} Il Signore disse a un tratto a Mosè, ad Aaronne e a Miriam: «Uscite voi tre, e andate alla tenda di convegno». Uscirono tutti e tre.
+{12:5} Il Signore scese in una colonna di nuvola, si fermò all’ingresso della tenda, chiamò Aaronne e Miriam; tutti e due si fecero avanti.
+{12:6} Il Signore disse: «Ascoltate ora le mie parole; se vi è tra di voi qualche profeta, io, il Signore, mi faccio conoscere a lui in visione, parlo con lui in sogno.
+{12:7} Non così con il mio servo Mosè, che è fedele in tutta la mia casa.
+{12:8} Con lui io parlo a tu per tu, con chiarezza, e non per via di enigmi; egli vede la sembianza del Signore. Perché dunque non avete temuto di parlare contro il mio servo, contro Mosè?»
+{12:9} L’ira del Signore si accese contro di loro, ed egli se ne andò,
+{12:10} e la nuvola si ritirò di sopra alla tenda; ed ecco Miriam era lebbrosa, bianca come neve; Aaronne guardò Miriam e vide che era lebbrosa.
+{12:11} Aaronne disse a Mosè: «Ti prego, mio signore, non farci portare la pena di un peccato che abbiamo stoltamente commesso e di cui siamo colpevoli.
+{12:12} Ti prego, che lei non sia come il bimbo nato morto, la cui carne è già mezzo consumata quando esce dal seno materno!»
+{12:13} Mosè gridò al Signore, dicendo: «Guariscila, o Dio, te ne prego!»
+{12:14} Il Signore rispose a Mosè: «Se suo padre le avesse sputato in viso, non ne porterebbe la vergogna per sette giorni? Stia dunque isolata fuori dell’accampamento sette giorni; poi vi sarà di nuovo ammessa».
+{12:15} Miriam dunque fu isolata fuori dell’accampamento sette giorni; e il popolo non si mise in cammino finché Miriam non fu riammessa nell’accampamento.
+{12:16} Poi il popolo partì da Aserot e si accampò nel deserto di Paran.
+{i13:1} I dodici esploratori mandati in Canaan
+{13:1} Il Signore disse a Mosè:
+{13:2} «Manda degli uomini a esplorare il paese di Canaan che io do ai figli d’Israele. Mandate un uomo per ogni tribù dei loro padri; siano tutti loro capi».
+{13:3} E Mosè li mandò dal deserto di Paran, secondo l’ordine del Signore; quegli uomini erano tutti capi dei figli d’Israele.
+{13:4} Questi erano i loro nomi. Per la tribù di Ruben: Sammua, figlio di Zaccur;
+{13:5} per la tribù di Simeone: Safat, figlio di Cori;
+{13:6} per la tribù di Giuda: Caleb, figlio di Gefunne;
+{13:7} per la tribù d’Issacar: Igal, figlio di Giuseppe;
+{13:8} per la tribù di Efraim: Osea, figlio di Nun;
+{13:9} per la tribù di Beniamino: Palti, figlio di Rafu;
+{13:10} per la tribù di Zabulon: Gaddiel, figlio di Sodi;
+{13:11} per la tribù di Giuseppe, cioè per la tribù di Manasse: Gaddi, figlio di Susi;
+{13:12} per la tribù di Dan: Ammiel, figlio di Ghemalli;
+{13:13} per la tribù di Ascer: Setur, figlio di Micael;
+{13:14} per la tribù di Neftali: Nabi, figlio di Vofsi;
+{13:15} per la tribù di Gad: Gheual, figlio di Machi.
+{13:16} Questi sono i nomi degli uomini che Mosè mandò a esplorare il paese. E Mosè diede a Osea, figlio di Nun, il nome di Giosuè.
+{13:17} Mosè dunque li mandò a esplorare il paese di Canaan, e disse loro: «Andate su di qua per il mezzogiorno; poi salirete sui monti
+{13:18} e vedrete che paese è, che popolo lo abita, se è forte o debole, se è poco o molto numeroso;
+{13:19} come è il paese che abita, se è buono o cattivo, e come sono le città dove abita, se sono degli accampamenti o dei luoghi fortificati;
+{13:20} e come è il terreno, se è grasso o magro, se vi sono alberi o no. Abbiate coraggio e portate dei frutti del paese». Era il tempo in cui cominciava a maturare l’uva.
+{13:21} Quelli dunque salirono a esplorare il paese dal deserto di Sin fino a Reob, sulla via di Camat.
+{13:22} Salirono per il mezzogiorno e andarono fino a Ebron, dove erano Aiman, Sesai e Talmai, figli di Anac. Ebron era stata costruita sette anni prima di Soan in Egitto.
+{13:23} Giunsero fino alla valle di Escol, dove tagliarono un tralcio con un grappolo d’uva, che portarono in due con una stanga, e presero anche delle melagrane e dei fichi.
+{13:24} Quel luogo fu chiamato valle di Escol a causa del grappolo d’uva che i figli d’Israele vi tagliarono.
+{13:25} Dopo quaranta giorni tornarono dall’esplorazione del paese
+{13:26} e andarono a trovare Mosè e Aaronne e tutta la comunità dei figli d’Israele nel deserto di Paran, a Cades: riferirono ogni cosa a loro e a tutta la comunità e mostrarono loro i frutti del paese.
+{13:27} Fecero il loro racconto, e dissero: «Noi arrivammo nel paese dove tu ci mandasti, ed è davvero un paese dove scorrono il latte e il miele, ed ecco alcuni suoi frutti.
+{13:28} Però il popolo che abita il paese è potente, le città sono fortificate e grandissime, e vi abbiamo anche visto dei figli di Anac.
+{13:29} Gli Amalechiti abitano la parte meridionale del paese; gli Ittiti, i Gebusei e gli Amorei, la regione montuosa; e i Cananei abitano presso il mare e lungo il Giordano».
+{13:30} Caleb calmò il popolo che mormorava contro Mosè, e disse: «Saliamo pure e conquistiamo il paese, perché possiamo riuscirci benissimo».
+{13:31} Ma gli uomini che vi erano andati con lui dissero: «Noi non siamo capaci di salire contro questo popolo, perché è più forte di noi».
+{13:32} E screditarono presso i figli d’Israele il paese che avevano esplorato, dicendo: «Il paese che abbiamo attraversato per esplorarlo è un paese che divora i suoi abitanti; tutta la gente che vi abbiamo vista è gente di alta statura;
+{13:33} e vi abbiamo visto i giganti, figli di Anac, della razza dei giganti. Di fronte a loro ci pareva di essere cavallette; e tali sembravamo a loro».
+{i14:1} Incredulità e rivolta d’Israele. I quarant’anni nel deserto
+{14:1} Allora tutta la comunità gridò di sgomento e alzò la voce; e il popolo pianse tutta quella notte.
+{14:2} Tutti i figli d’Israele mormorarono contro Mosè e contro Aaronne, e tutta la comunità disse loro: «Fossimo pur morti nel paese d’Egitto! O fossimo pur morti in questo deserto!
+{14:3} Perché il Signore ci conduce in quel paese dove cadremo per la spada? Là le nostre mogli e i nostri bambini diventeranno preda del nemico. Non sarebbe meglio per noi tornare in Egitto?»
+{14:4} E si dissero l’un l’altro: «Nominiamoci un capo, torniamo in Egitto!»
+{14:5} Allora Mosè e Aaronne si prostrarono a terra davanti a tutta la comunità riunita dei figli d’Israele.
+{14:6} E Giosuè, figlio di Nun, e Caleb, figlio di Gefunne, che erano tra quelli che avevano esplorato il paese, si stracciarono le vesti
+{14:7} e parlarono così a tutta la comunità dei figli d’Israele: «Il paese che abbiamo attraversato per esplorarlo è un paese buono, molto buono.
+{14:8} Se il Signore ci è favorevole, ci farà entrare in quel paese e ce lo darà: è un paese dove scorrono il latte e il miele.
+{14:9} Soltanto, non vi ribellate al Signore e non abbiate paura del popolo di quel paese, poiché ne faremo nostro pascolo; l’ombra che li proteggeva si è ritirata e il Signore è con noi; non li temete».
+{14:10} Allora tutta la comunità parlò di lapidarli; ma la gloria del Signore apparve sulla tenda di convegno a tutti i figli d’Israele,
+{14:11} e il Signore disse a Mosè: «Fino a quando mi disprezzerà questo popolo? Fino a quando non avranno fede in me dopo tutti i miracoli che ho fatti in mezzo a loro?
+{14:12} Io lo colpirò con la peste e lo distruggerò, ma farò di te una nazione più grande e più potente di esso».
+{14:13} E Mosè disse al Signore: «Ma lo verranno a sapere gli abitanti dell’Egitto, da cui tu hai fatto uscire questo popolo per la tua potenza,
+{14:14} e la cosa sarà risaputa dagli abitanti di questo paese. Essi hanno udito che tu, o Signore, sei in mezzo a questo popolo e gli appari faccia a faccia, che la tua nuvola si ferma sopra di loro e che cammini davanti a loro di giorno in una colonna di nuvola, e di notte in una colonna di fuoco.
+{14:15} Ora, se fai perire questo popolo come un sol uomo, le nazioni che hanno udito la tua fama diranno:
+{14:16} “Il Signore non è stato capace di far entrare questo popolo nel paese che aveva giurato di dargli, perciò li ha scannati nel deserto”.
+{14:17} Ora si mostri, ti prego, la potenza del Signore nella sua grandezza, come tu hai promesso dicendo:
+{14:18} “Il Signore è lento all’ira e grande in bontà; egli perdona l’iniquità e il peccato, ma non lascia impunito il colpevole e punisce l’iniquità dei padri sui figli, fino alla terza e alla quarta generazione”.
+{14:19} Perdona, ti prego, l’iniquità di questo popolo, secondo la grandezza della tua bontà, come hai perdonato a questo popolo dall’Egitto fin qui».
+{14:20} Il Signore disse: «Io perdono, come tu hai chiesto.
+{14:21} Però, com’è vero che io vivo, tutta la terra sarà piena della gloria del Signore.
+{14:22} Tutti gli uomini che hanno visto la mia gloria e i miracoli che ho fatto in Egitto e nel deserto, quelli che mi hanno tentato già dieci volte e non hanno ubbidito alla mia voce,
+{14:23} certo non vedranno il paese che promisi con giuramento ai loro padri. Nessuno di quelli che mi hanno disprezzato lo vedrà;
+{14:24} ma il mio servo Caleb è stato animato da un altro spirito e mi ha seguito pienamente; perciò io lo farò entrare nel paese nel quale è andato; e la sua discendenza lo possederà.
+{14:25} Gli Amalechiti e i Cananei abitano nella valle; voi domani tornate indietro, incamminatevi verso il deserto, in direzione del mar Rosso».
+{14:26} Il Signore parlò ancora a Mosè e ad Aaronne, e disse:
+{14:27} «Fino a quando sopporterò questa malvagia comunità che mormora contro di me? Io ho udito i mormorii che i figli d’Israele fanno contro di me.
+{14:28} Di’ loro: “Com’è vero che io vivo, dice il Signore, io vi farò quello che ho sentito dire da voi.
+{14:29} I vostri cadaveri cadranno in questo deserto; e voi tutti, quanti siete, di cui si è fatto il censimento, dall’età di vent’anni in su, e che avete mormorato contro di me,
+{14:30} non entrerete di certo nel paese nel quale giurai di farvi abitare; salvo Caleb, figlio di Gefunne, e Giosuè, figlio di Nun.
+{14:31} I vostri bambini, di cui avete detto che sarebbero preda dei nemici, quelli farò entrare; ed essi conosceranno il paese che voi avete disprezzato.
+{14:32} Ma quanto a voi, i vostri cadaveri cadranno in questo deserto.
+{14:33} I vostri figli andranno pascendo le greggi nel deserto per quarant’anni e porteranno la pena delle vostre infedeltà, finché i vostri cadaveri non siano consumati nel deserto.
+{14:34} Come avete messo quaranta giorni a esplorare il paese, porterete la pena delle vostre iniquità per quarant’anni, un anno per ogni giorno, e saprete che cosa sia cadere in disgrazia presso di me”.
+{14:35} Io, il Signore, ho parlato: certo, così farò a tutta questa comunità malvagia, la quale si è riunita contro di me; in questo deserto saranno consumati e vi moriranno».
+{14:36} Gli uomini che Mosè aveva mandato a esplorare il paese e che, tornati screditando il paese, avevano fatto mormorare tutta la comunità contro di lui,
+{14:37} quegli uomini, dico, che avevano screditato il paese, morirono colpiti da una piaga, davanti al Signore.
+{14:38} Ma Giosuè, figlio di Nun, e Caleb, figlio di Gefunne, rimasero vivi tra quelli che erano andati a esplorare il paese.
+{14:39} Mosè riferì quelle parole a tutti i figli d’Israele; e il popolo ne fece grande cordoglio.
+{14:40} La mattina si alzarono di buon’ora e salirono sulla cima del monte, e dissero: «Eccoci qua; noi saliremo al luogo di cui ha parlato il Signore, poiché abbiamo peccato».
+{14:41} Ma Mosè disse: «Perché trasgredite l’ordine del Signore? La cosa non vi riuscirà bene.
+{14:42} Non salite, perché il Signore non è in mezzo a voi. Non fatevi sconfiggere dai vostri nemici!
+{14:43} Poiché là, di fronte a voi, stanno gli Amalechiti e i Cananei, e voi cadrete per la spada; poiché vi siete sviati dal Signore, il Signore non sarà con voi».
+{14:44} Nondimeno, si ostinarono a salire sulla cima del monte; ma l’arca del patto del Signore e Mosè non si mossero dall’accampamento.
+{14:45} Allora gli Amalechiti e i Cananei che abitavano su quel monte scesero giù, li sconfissero, e li fecero a pezzi fino a Corma.
+{i15:1} Norme relative ai sacrifici
+{15:1} Poi il Signore disse a Mosè:
+{15:2} «Parla ai figli d’Israele e di’ loro: “Quando sarete entrati nel paese che dovrete abitare e che io vi do,
+{15:3} e offrirete al Signore un sacrificio consumato dal fuoco, olocausto o sacrificio, per adempimento d’un voto o come offerta volontaria o nelle vostre feste solenni, per fare un profumo soave al Signore con il vostro bestiame grosso o minuto,
+{15:4} colui che presenterà la sua offerta al Signore offrirà come oblazione un decimo di efa di fior di farina intrisa con un quarto di hin d’olio.
+{15:5} Farai una libazione di un quarto di hin di vino con l’olocausto o il sacrificio, per ogni agnello.
+{15:6} Se è per un montone, offrirai come oblazione due decimi di efa di fior di farina intrisa con un terzo di hin d’olio,
+{15:7} e farai una libazione di un terzo di hin di vino come offerta di profumo soave al Signore.
+{15:8} Se offri un toro come olocausto o come sacrificio, per adempimento di un voto o come sacrificio di riconoscenza al Signore,
+{15:9} si offriranno con il toro, come oblazione, tre decimi di efa di fior di farina intrisa con mezzo hin d’olio,
+{15:10} e farai una libazione di mezzo hin di vino: è un sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{15:11} Così si farà per ogni bue, per ogni montone, per ogni agnello o capretto.
+{15:12} Qualunque sia il numero degli animali che sacrificherete, farete così per ciascuna vittima.
+{15:13} Tutti quelli che sono nativi del paese faranno le cose così, quando offriranno un sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{15:14} E se uno straniero che soggiorna da voi, o chiunque abiti in mezzo a voi nel futuro, offre un sacrificio consumato dal fuoco, di profumo soave per il Signore, farà come fate voi.
+{15:15} Vi sarà una sola legge per tutta la comunità, per voi e per lo straniero che soggiorna in mezzo a voi; sarà una legge perenne, di generazione in generazione; come siete voi, così sarà lo straniero davanti al Signore.
+{15:16} Ci sarà una stessa legge e uno stesso diritto per voi e per lo straniero che soggiorna da voi”».
+{15:17} Il Signore disse ancora a Mosè:
+{15:18} «Parla ai figli d’Israele e di’ loro: “Quando sarete arrivati nel paese dove io vi conduco
+{15:19} e mangerete del pane di quel paese, ne preleverete un’offerta da presentare al Signore.
+{15:20} Delle primizie della vostra pasta metterete da parte una focaccia come offerta; la metterete da parte, come si mette da parte l’offerta dell’aia.
+{15:21} Delle primizie della vostra pasta darete al Signore una parte come offerta. Lo farete di generazione in generazione.
+{15:22} Quando avrete peccato per errore e non avrete osservato tutti questi comandamenti che il Signore ha dati a Mosè –
+{15:23} tutto quello che il Signore vi ha comandato per mezzo di Mosè, dal giorno che il Signore vi ha dato dei comandamenti e in seguito, nelle vostre successive generazioni –,
+{15:24} se il peccato è stato commesso per errore, senza che la comunità se ne accorgesse, tutta la comunità offrirà un toro come olocausto di profumo soave per il Signore, con la sua oblazione e la sua libazione secondo le norme stabilite, e un capro come sacrificio per il peccato.
+{15:25} Il sacerdote farà l’espiazione per tutta la comunità dei figli d’Israele, e sarà loro perdonato, perché è stato un peccato commesso per errore, ed essi hanno portato la loro offerta, un sacrificio consumato dal fuoco per il Signore, e il loro sacrificio per il peccato davanti al Signore, a causa del loro errore.
+{15:26} Sarà perdonato a tutta la comunità dei figli d’Israele e allo straniero che soggiorna in mezzo a loro, perché tutto il popolo ha peccato per errore.
+{15:27} Se è una persona sola che pecca per errore, offra una capra di un anno come sacrificio per il peccato.
+{15:28} Il sacerdote farà l’espiazione davanti al Signore per la persona che avrà mancato commettendo un peccato per errore; quando avrà fatto l’espiazione per essa, le sarà perdonato.
+{15:29} Avrete un’unica legge per colui che pecca per errore, sia che si tratti di un nativo del paese tra i figli d’Israele o di uno straniero che soggiorna in mezzo a voi.
+{15:30} Ma la persona che agisce con proposito deliberato, sia nativo del paese o straniero, oltraggia il Signore; quella persona sarà eliminata dal mezzo del suo popolo.
+{15:31} Siccome ha disprezzato la parola del Signore e ha violato il suo comandamento, quella persona dovrà essere eliminata; porterà il peso della sua iniquità”».
+{i15:32} Il violatore del sabato punito di morte
+{15:32} Mentre i figli d’Israele erano nel deserto, trovarono un uomo che raccoglieva legna in giorno di sabato.
+{15:33} Quelli che lo avevano trovato a raccoglier legna lo portarono da Mosè, da Aaronne e davanti a tutta la comunità.
+{15:34} Lo misero in prigione, perché non era ancora stato stabilito che cosa gli si dovesse fare.
+{15:35} Il Signore disse a Mosè: «Quell’uomo deve essere messo a morte; tutta la comunità lo lapiderà fuori del campo».
+{15:36} Tutta la comunità lo condusse fuori dal campo e lo lapidò; e quello morì, secondo l’ordine che il Signore aveva dato a Mosè.
+{i15:37} Legge relativa alle nappe
+{15:37} Il Signore disse ancora a Mosè:
+{15:38} «Parla ai figli d’Israele e di’ loro che si facciano, di generazione in generazione, delle nappe agli angoli delle loro vesti, e che mettano alla nappa di ogni angolo un cordone violetto.
+{15:39} Questa nappa vi ornerà la veste, e quando la guarderete, vi ricorderete di tutti i comandamenti del Signore per metterli in pratica; non andrete vagando dietro ai desideri del vostro cuore e dei vostri occhi che vi trascinano all’infedeltà.
+{15:40} Così vi ricorderete di tutti i miei comandamenti, li metterete in pratica e sarete santi per il vostro Dio.
+{15:41} Io sono il Signore, il vostro Dio; vi ho fatti uscire dal paese d’Egitto per essere vostro Dio. Io sono il Signore, il vostro Dio».
+{i16:1} Ribellione di Core, Datan, Abiram
+{16:1} Or Core, figlio di Isar, figlio di Cheat, figlio di Levi, insieme con Datan e Abiram, figli di Eliab, e On, figlio di Pelet, tutti e tre della tribù di Ruben,
+{16:2} insorsero contro Mosè con duecentocinquanta Israeliti autorevoli nella comunità, membri del consiglio, uomini rinomati;
+{16:3} e, radunatisi contro Mosè e contro Aaronne, dissero loro: «Basta! Tutta la comunità, tutti, dal primo all’ultimo, sono santi, e il Signore è in mezzo a loro; perché dunque vi mettete al di sopra dell’assemblea del Signore?»
+{16:4} Quando Mosè ebbe udito questo, si prostrò con la faccia a terra;
+{16:5} poi parlò a Core e a tutta la gente che era con lui, e disse: «Domani mattina il Signore farà conoscere chi è suo e chi è santo, e se lo farà avvicinare; farà avvicinare a sé colui che egli avrà scelto.
+{16:6} Fate questo: prendete dei turiboli, tu, Core, e tutta la gente che è con te;
+{16:7} domani li riempirete di fuoco e li coprirete d’incenso davanti al Signore: colui che il Signore sceglierà, sarà santo. Basta, figli di Levi!»
+{16:8} Mosè disse inoltre a Core: «Ora ascoltate, o figli di Levi!
+{16:9} Vi sembra poco che il Dio d’Israele vi abbia scelti in mezzo alla comunità d’Israele e vi abbia fatto avvicinare a sé per fare il servizio del tabernacolo del Signore e per tenervi davanti alla comunità per esercitare il vostro ministero per lei?
+{16:10} Egli vi fa avvicinare a sé, te e tutti i tuoi fratelli figli di Levi con te, e pretendete anche il sacerdozio?
+{16:11} Per questo tu e tutta la gente che è con te avete fatto lega contro il Signore! Poiché chi è Aaronne che vi mettete a mormorare contro di lui?»
+{16:12} E Mosè mandò a chiamare Datan e Abiram, figli di Eliab; ma essi dissero: «Noi non saliremo.
+{16:13} Ti sembra poco l’averci fatto uscire da un paese dove scorrono il latte e il miele, per farci morire nel deserto? Vuoi elevarti su di noi come un capo?
+{16:14} E poi, non ci hai davvero condotti in un paese dove scorrono il latte e il miele e non ci hai dato possesso di campi né di vigne! Credi forse di poter bendare gli occhi a questa gente? Noi non saliremo».
+{16:15} Allora Mosè si adirò molto e disse al Signore: «Non gradire la loro oblazione; io non ho preso da costoro neppure un asino, e non ho fatto torto ad alcuno di loro».
+{16:16} Poi Mosè disse a Core: «Tu e tutta la tua gente trovatevi domani davanti al Signore: tu e loro con Aaronne;
+{16:17} e ciascuno di voi prenda il suo turibolo, vi metta dell’incenso, e porti ciascuno il suo turibolo davanti al Signore: saranno duecentocinquanta turiboli. Anche tu e Aaronne prenderete ciascuno il vostro turibolo».
+{16:18} Essi dunque presero ciascuno il proprio turibolo, vi misero del fuoco, vi posero sopra dell’incenso e si fermarono all’ingresso della tenda di convegno; lo stesso fecero Mosè e Aaronne.
+{16:19} E Core convocò tutta la comunità contro Mosè e Aaronne all’ingresso della tenda di convegno; e la gloria del Signore apparve a tutta la comunità.
+{16:20} Il Signore parlò a Mosè e ad Aaronne e disse:
+{16:21} «Separatevi da questa gente e io li consumerò in un attimo».
+{16:22} Ma essi si prostrarono con la faccia a terra e dissero: «O Dio, Dio che dai la vita a ogni creatura! Un uomo solo ha peccato, e vorresti adirarti contro tutta la comunità?»
+{16:23} E il Signore disse a Mosè:
+{16:24} «Parla alla comunità e dille: “Allontanatevi dalla dimora di Core, di Datan e di Abiram”».
+{16:25} Mosè si alzò e andò da Datan e da Abiram; e gli anziani d’Israele lo seguirono.
+{16:26} Egli disse alla comunità: «Allontanatevi dalle tende di questi uomini malvagi e non toccate nulla di ciò che appartiene a loro, affinché non periate a causa di tutti i loro peccati».
+{16:27} Così quelli si allontanarono dalla dimora di Core, di Datan e di Abiram. Datan e Abiram uscirono e si fermarono all’ingresso delle loro tende con le loro mogli, i loro figli e i loro bambini.
+{16:28} Mosè disse: «Da questo conoscerete che il Signore mi ha mandato per fare tutte queste cose, e che non le ho fatte di testa mia.
+{16:29} Se questa gente muore come muoiono tutti gli uomini, se la loro sorte è la sorte comune a tutti gli uomini, il Signore non mi ha mandato;
+{16:30} ma se il Signore fa una cosa nuova, se la terra apre la sua bocca e li ingoia con tutto quello che appartiene a loro e se essi scendono vivi nel soggiorno dei morti, allora riconoscerete che questi uomini hanno disprezzato il Signore ».
+{16:31} Appena egli ebbe finito di pronunciare tutte queste parole, il suolo si spaccò sotto i piedi di quelli,
+{16:32} la terra spalancò la sua bocca e li ingoiò: essi e le loro famiglie, con tutta la gente che apparteneva a Core e tutta la loro roba.
+{16:33} Scesero vivi nel soggiorno dei morti; la terra si richiuse su di loro, ed essi scomparvero dal mezzo dell’assemblea.
+{16:34} Tutto Israele che era intorno a loro fuggì alle loro grida; perché dicevano: «Che la terra non ingoi anche noi!»
+{16:35} Un fuoco uscì dalla presenza del Signore e divorò i duecentocinquanta uomini che offrivano l’incenso.
+{16:36} Poi il Signore disse a Mosè:
+{16:37} «Di’ a Eleazar, figlio del sacerdote Aaronne, di tirar fuori i turiboli dall’incendio e di disperdere qua e là il fuoco, perché quelli sono sacri;
+{16:38} e dei turiboli di quegli uomini che hanno peccato al prezzo della loro vita si facciano tante lamine battute per rivestirne l’altare, poiché sono stati presentati davanti al Signore e quindi sono sacri; serviranno di segno ai figli d’Israele».
+{16:39} Il sacerdote Eleazar prese i turiboli di bronzo presentati dagli uomini che erano stati bruciati, ne fece delle lamine per rivestirne l’altare
+{16:40} e ricordare ai figli d’Israele che nessun estraneo ai discendenti di Aaronne deve accostarsi per ardere incenso davanti al Signore, affinché non gli capiti la sorte di Core e di quelli che erano con lui. Eleazar fece come il Signore gli aveva detto per mezzo di Mosè.
+{16:41} Il giorno seguente tutta la comunità dei figli d’Israele mormorò contro Mosè e Aaronne e disse: «Voi avete fatto morire il popolo del Signore ».
+{16:42} E avvenne che, mentre la comunità si radunava contro Mosè e Aaronne, i figli d’Israele si volsero verso la tenda di convegno; ed ecco che la nuvola la ricoprì e apparve la gloria del Signore.
+{16:43} Mosè e Aaronne vennero davanti alla tenda di convegno.
+{16:44} Il Signore disse a Mosè:
+{16:45} «Allontanatevi da questa comunità e io li consumerò in un attimo». Ed essi si prostrarono con la faccia a terra.
+{16:46} Mosè disse ad Aaronne: «Prendi il turibolo, riempilo di fuoco preso dall’altare, mettici sopra dell’incenso e portalo presto in mezzo alla comunità e fa’ l’espiazione per loro; poiché l’ira del Signore è scoppiata, il flagello è già cominciato».
+{16:47} Aaronne prese il turibolo, come Mosè aveva detto, corse in mezzo all’assemblea, ed ecco che il flagello era già cominciato fra il popolo. Aaronne mise l’incenso nel turibolo e fece l’espiazione per il popolo.
+{16:48} Si fermò tra i morti e i vivi e il flagello cessò.
+{16:49} I morti a causa del flagello furono quattordicimilasettecento, oltre a quelli che morirono per il fatto di Core.
+{16:50} Aaronne tornò da Mosè all’ingresso della tenda di convegno e il flagello era cessato.
+{i17:1} La verga di Aaronne
+{17:1} Poi il Signore disse a Mosè:
+{17:2} «Parla ai figli d’Israele e fatti dare delle verghe, una per ogni casa patriarcale; una verga per ogni capo di casa patriarcale, cioè dodici verghe. Scriverai il nome di ognuno sulla sua verga;
+{17:3} e scriverai il nome di Aaronne sulla verga di Levi, poiché ci sarà una verga per il capo di ogni casa patriarcale.
+{17:4} Metterai quelle verghe nella tenda di convegno, davanti alla testimonianza, dove io mi ritrovo con voi.
+{17:5} E avverrà che l’uomo che io avrò scelto sarà quello la cui verga fiorirà; così farò cessare davanti a me i mormorii che i figli d’Israele fanno contro di voi».
+{17:6} Mosè parlò ai figli d’Israele e tutti i loro capi gli diedero una verga, una per ogni capo, secondo le loro case patriarcali: cioè, dodici verghe; e la verga di Aaronne era in mezzo alle loro verghe.
+{17:7} Mosè mise quelle verghe davanti al Signore nella tenda della testimonianza.
+{17:8} L’indomani, quando Mosè entrò nella tenda della testimonianza, ecco che la verga di Aaronne, per la casa di Levi, era fiorita, aveva prodotto delle gemme, fatto sbocciare dei fiori e maturato delle mandorle.
+{17:9} Allora Mosè tolse tutte le verghe dalla presenza del Signore e le portò a tutti i figli d’Israele; ed essi le videro e presero ciascuno la sua verga.
+{17:10} Il Signore disse a Mosè: «Riporta la verga di Aaronne davanti alla testimonianza, perché sia conservata come un segno ai ribelli, e tu ponga fine ai loro mormorii contro di me, ed essi non muoiano».
+{17:11} Mosè fece così; fece come il Signore gli aveva comandato.
+{17:12} I figli d’Israele dissero a Mosè: «Ecco, periamo! Siamo perduti! Siamo tutti perduti!
+{17:13} Chiunque si accosta al tabernacolo del Signore muore; dovremo morire tutti quanti?»
+{i18:1} Funzioni ed entrate dei sacerdoti e dei Leviti
+{18:1} Il Signore disse ad Aaronne: «Tu, i tuoi figli e la casa di tuo padre con te porterete il peso delle iniquità commesse nel santuario; e tu e i tuoi figli porterete il peso delle iniquità commesse nell’esercizio del vostro sacerdozio.
+{18:2} Farai avvicinare a te anche i tuoi fratelli, la tribù di Levi, la tribù di tuo padre, affinché ti siano aggiunti e ti servano quando tu e i tuoi figli con te sarete davanti alla tenda della testimonianza.
+{18:3} Essi saranno ai tuoi ordini in tutto quello che concerne il servizio della tenda; però non si accosteranno agli utensili del santuario né all’altare affinché non moriate voi e loro.
+{18:4} Essi dipenderanno da te e faranno il servizio della tenda di convegno in tutto ciò che la concerne, e nessun estraneo si avvicinerà a voi.
+{18:5} Voi farete il servizio del santuario e dell’altare, affinché non vi sia più ira contro i figli d’Israele.
+{18:6} Quanto a me, ecco, io ho preso i vostri fratelli, i Leviti, tra i figli d’Israele; dati al Signore, essi sono dati in dono a voi per fare il servizio della tenda di convegno.
+{18:7} Tu e i tuoi figli con te eserciterete il vostro sacerdozio in tutto ciò che concerne l’altare e in ciò che è di là dalla cortina; e farete il vostro servizio. Io vi do l’esercizio del sacerdozio come un dono; l’estraneo che si avvicinerà sarà messo a morte».
+{18:8} Il Signore disse ancora ad Aaronne: «Ecco, di tutte le cose consacrate dai figli d’Israele io ti do quelle cose che mi sono offerte per elevazione: io le do a te e ai tuoi figli come diritto di unzione, per legge perenne.
+{18:9} Questo ti apparterrà fra le cose santissime non consumate dal fuoco: tutte le loro offerte, vale a dire ogni oblazione, ogni loro sacrificio per il peccato e ogni loro sacrificio per la colpa che mi presenteranno; sono tutte cose santissime che apparterranno a te e ai tuoi figli.
+{18:10} Le mangerai in luogo santissimo: ne mangerà ogni maschio; per te saranno cose sante.
+{18:11} Anche questo ti apparterrà: i doni che i figli d’Israele presenteranno per elevazione e tutte le loro offerte agitate; io le do a te, ai tuoi figli e alle tue figlie con te, per legge perenne. Chiunque sarà puro in casa tua ne potrà mangiare.
+{18:12} Ti do pure tutte le primizie che essi offriranno al Signore: il meglio dell’olio e il meglio del mosto e del grano.
+{18:13} Le primizie di tutto ciò che produrrà la loro terra e che essi presenteranno al Signore saranno tue. Chiunque sarà puro in casa tua ne potrà mangiare.
+{18:14} Tutto ciò che in Israele sarà votato all’interdetto sarà tuo.
+{18:15} Ogni primogenito di ogni carne che essi offriranno al Signore, così degli uomini come degli animali, sarà tuo; però farai riscattare il primogenito dell’uomo e farai riscattare il primogenito di un animale impuro.
+{18:16} Quanto al riscatto, li farai riscattare dall’età di un mese, secondo la tua stima, per cinque sicli d’argento, a siclo di santuario, che è di venti ghere.
+{18:17} Ma non farai riscattare il primogenito della vacca né il primogenito della pecora né il primogenito della capra; sono cosa sacra; spargerai il loro sangue sull’altare e brucerai il loro grasso come sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{18:18} La loro carne sarà tua; sarà tua come il petto dell’offerta agitata e come la coscia destra.
+{18:19} Io do a te, ai tuoi figli e alle tue figlie con te, per legge perenne, tutte le offerte delle cose sante che i figli d’Israele presenteranno al Signore per elevazione. È un patto inalterabile, perenne, davanti al Signore, per te e per la tua discendenza con te».
+{18:20} Il Signore disse ancora ad Aaronne: «Tu non avrai nessuna proprietà nel paese dei figli d’Israele e non ci sarà parte per te in mezzo a loro; io sono la tua parte e la tua eredità in mezzo a loro.
+{18:21} Ai figli di Levi io do come proprietà tutte le decime in Israele in cambio del servizio che fanno nella tenda di convegno.
+{18:22} I figli d’Israele non si avvicineranno più alla tenda di convegno, per non caricarsi di un peccato che li farebbe morire.
+{18:23} Ma il servizio della tenda di convegno lo faranno soltanto i Leviti; ed essi porteranno il peso delle proprie iniquità; sarà una legge perenne, di generazione in generazione; e non possederanno nulla tra i figli d’Israele;
+{18:24} Poiché io do come proprietà ai Leviti le decime che i figli d’Israele presenteranno al Signore come offerta elevata; per questo dico di loro: “Non possederanno nulla tra i figli d’Israele”».
+{18:25} Il Signore disse a Mosè:
+{18:26} «Parlerai inoltre ai Leviti e dirai loro: “Quando riceverete dai figli d’Israele le decime che io vi do per conto loro come vostre proprietà, metterete da parte un’offerta da fare al Signore: una decima della decima;
+{18:27} e l’offerta che avrete prelevata vi sarà contata come il grano che viene dall’aia e come il mosto che esce dal torchio.
+{18:28} Così anche voi metterete da parte un’offerta per il Signore da tutte le decime che riceverete dai figli d’Israele e darete al sacerdote Aaronne l’offerta che avrete messa da parte per il Signore.
+{18:29} Da tutte le cose che vi saranno date metterete da parte tutte le offerte per il Signore; di tutto ciò che vi sarà di meglio metterete da parte quel tanto che è da consacrare”.
+{18:30} E dirai loro: “Quando ne avrete messo da parte il meglio, quello che rimane sarà contato ai Leviti come il prodotto dell’aia e come il prodotto del torchio.
+{18:31} Lo potrete mangiare in qualunque luogo, voi e le vostre famiglie, perché è il compenso che riceverete in cambio del vostro servizio nella tenda di convegno.
+{18:32} Così non vi sarà attribuito nessun peccato, poiché ne avrete messo da parte il meglio; e non profanerete le cose sante dei figli d’Israele, e non morirete”».
+{i19:1} La giovenca rossa; l’acqua di purificazione
+{19:1} Il Signore disse ancora a Mosè e ad Aaronne:
+{19:2} «Ecco quanto prescrive la legge ordinata dal Signore, che disse: “Di’ ai figli d’Israele che portino una giovenca rossa, senza macchia, senza difetti, e che non abbia mai portato il giogo.
+{19:3} La darete al sacerdote Eleazar, che la condurrà fuori dal campo e la farà scannare in sua presenza.
+{19:4} Il sacerdote Eleazar prenderà con il dito un po’ di sangue della giovenca e farà sette aspersioni dal lato dell’ingresso della tenda di convegno;
+{19:5} poi si brucerà la giovenca sotto i suoi occhi; se ne brucerà la pelle, la carne e il sangue con i suoi escrementi.
+{19:6} Il sacerdote prenderà quindi del legno di cedro, dell’issopo, della stoffa scarlatta, e getterà tutto in mezzo al fuoco che consuma la giovenca.
+{19:7} Poi il sacerdote si laverà le vesti e il corpo nell’acqua; dopo di che rientrerà nel campo e sarà impuro fino alla sera.
+{19:8} Colui che avrà bruciato la giovenca si laverà le vesti e il corpo nell’acqua e sarà impuro fino alla sera.
+{19:9} Un uomo puro raccoglierà le ceneri della giovenca e le depositerà fuori del campo in un luogo puro, dove saranno conservate per la comunità dei figli d’Israele come acqua di purificazione: è un sacrificio per il peccato.
+{19:10} Colui che avrà raccolto le ceneri della giovenca si laverà le vesti e sarà impuro fino alla sera. Questa sarà una legge perenne per i figli d’Israele e per lo straniero che soggiornerà da loro:
+{19:11} chi avrà toccato il cadavere di una persona umana sarà impuro sette giorni.
+{19:12} Quando uno si sarà purificato con quell’acqua il terzo e il settimo giorno, sarà puro; ma se non si purifica il terzo e il settimo giorno, non sarà puro.
+{19:13} Chiunque tocchi un morto, cioè il corpo di una persona umana che sia morta, e non si purifica, contamina la dimora del Signore; e quel tale sarà tolto via da Israele. Siccome l’acqua di purificazione non è stata spruzzata su di lui, egli è impuro; ha ancora addosso la sua impurità.
+{19:14} Questa è la legge: quando un uomo sarà morto in una tenda, chiunque entrerà nella tenda e chiunque sarà nella tenda sarà impuro per sette giorni.
+{19:15} Ogni vaso scoperto sul quale non sia un coperchio ben fermo sarà impuro.
+{19:16} Chiunque, nei campi, avrà toccato un uomo ucciso da un’arma o morto per cause naturali, o delle ossa umane, o un sepolcro, sarà impuro per sette giorni.
+{19:17} Per colui che sarà divenuto impuro si prenderà della cenere della vittima arsa per il peccato, e vi si verserà su dell’acqua di fonte, in un vaso;
+{19:18} poi un uomo puro prenderà dell’issopo, lo intingerà nell’acqua e spruzzerà la tenda, tutti gli utensili, tutte le persone presenti e colui che ha toccato l’osso o l’ucciso o il morto o il sepolcro.
+{19:19} L’uomo puro spruzzerà l’impuro il terzo giorno e il settimo giorno, e lo purificherà il settimo giorno; poi l’impuro si laverà le vesti, laverà se stesso nell’acqua e sarà puro la sera.
+{19:20} Ma colui che, divenuto impuro, non si purificherà, sarà tolto via dal mezzo dell’assemblea, perché ha contaminato il santuario del Signore; l’acqua della purificazione non è stata spruzzata su di lui; è impuro.
+{19:21} Sarà per loro una legge perenne: colui che avrà spruzzato l’acqua di purificazione si laverà le vesti; e chi avrà toccato l’acqua di purificazione sarà impuro fino alla sera.
+{19:22} E tutto quello che l’impuro avrà toccato sarà impuro; e la persona che avrà toccato lui sarà impura fino alla sera”».
+{i20:1} Morte di Miriam. Le acque di Meriba
+{20:1} Or tutta la comunità dei figli d’Israele arrivò al deserto di Sin il primo mese, e il popolo si fermò a Cades. Là morì e fu sepolta Miriam.
+{20:2} Non c’era acqua per la comunità; perciò ci fu un assembramento contro Mosè e contro Aaronne.
+{20:3} Il popolo si mise a contestare Mosè, e disse: «Fossimo pur morti quando morirono i nostri fratelli davanti al Signore!
+{20:4} Perché avete condotto l’assemblea del Signore in questo deserto per morire qui noi e il nostro bestiame?
+{20:5} Perché ci avete fatti salire dall’Egitto per condurci in questo luogo detestabile? Non è un luogo dove si possa seminare; non ci sono fichi, né vigne, né melograni e non c’è acqua da bere».
+{20:6} Allora Mosè e Aaronne si allontanarono dall’assemblea per recarsi all’ingresso della tenda di convegno; si prostrarono con la faccia a terra, e la gloria del Signore apparve loro.
+{20:7} Il Signore disse a Mosè:
+{20:8} «Prendi il bastone; tu e tuo fratello Aaronne convocate la comunità e parlate a quella roccia, in loro presenza, ed essa darà la sua acqua; tu farai sgorgare per loro acqua dalla roccia e darai da bere alla comunità e al suo bestiame».
+{20:9} Mosè dunque prese il bastone che era davanti al Signore, come il Signore gli aveva comandato.
+{20:10} Mosè e Aaronne convocarono l’assemblea di fronte alla roccia e Mosè disse loro: «Ora ascoltate, o ribelli; faremo uscire per voi acqua da questa roccia?»
+{20:11} E Mosè alzò la mano, percosse la roccia con il suo bastone due volte e ne uscì acqua in abbondanza; e la comunità e il suo bestiame bevvero.
+{20:12} Poi il Signore disse a Mosè e ad Aaronne: «Siccome non avete avuto fiducia in me per dare gloria al mio santo nome agli occhi dei figli d’Israele, voi non condurrete quest’assemblea nel paese che io le do».
+{20:13} Queste sono le acque di Meriba dove i figli d’Israele contestarono il Signore, che si fece riconoscere come il Santo in mezzo a loro.
+{i20:14} Il re di Edom rifiuta il transito a Israele
+{20:14} Poi Mosè mandò da Cades degli ambasciatori al re di Edom per dirgli: «Così dice Israele tuo fratello: “Tu conosci tutte le tribolazioni che abbiamo avute,
+{20:15} come i nostri padri scesero in Egitto e noi in Egitto abitammo per lungo tempo, e gli Egiziani maltrattarono noi e i nostri padri.
+{20:16} Noi gridammo al Signore ed egli udì la nostra voce e mandò un angelo e ci fece uscire dall’Egitto; ed eccoci ora a Cades, città situata all’estremo limite del tuo territorio.
+{20:17} Ti prego, lasciaci passare per il tuo paese, noi non passeremo né per campi né per vigneti e non berremo l’acqua dei pozzi; seguiremo la strada principale senza deviare né a destra né a sinistra finché abbiamo oltrepassato i tuoi confini”».
+{20:18} Ma Edom gli rispose: «Tu non passerai sul mio territorio; altrimenti, marcerò contro di te con la spada».
+{20:19} I figli d’Israele dissero: «Noi saliremo per la strada maestra; e se noi e il nostro bestiame berremo dell’acqua tua, te la pagheremo; lasciaci semplicemente transitare a piedi».
+{20:20} Ma quello rispose: «Non passerai!» E Edom mosse contro Israele con molta gente e con mano potente.
+{20:21} Così Edom rifiutò a Israele il transito sul suo territorio; perciò Israele si allontanò da lui.
+{20:22} Tutta la comunità dei figli d’Israele partì da Cades e arrivò al monte Or.
+{i20:23} Morte di Aaronne
+{20:23} Il Signore parlò a Mosè e ad Aaronne, al monte Or, ai confini del paese di Edom, e disse:
+{20:24} «Aaronne sta per ricongiungersi ai suoi padri e non entrerà nel paese che ho dato ai figli d’Israele, perché siete stati ribelli al mio comandamento alle acque di Meriba.
+{20:25} Prendi Aaronne ed Eleazar suo figlio e falli salire sul monte Or.
+{20:26} Spoglia Aaronne dei suoi paramenti e rivestine Eleazar suo figlio; qui Aaronne morrà e si ricongiungerà ai suoi padri».
+{20:27} Mosè fece come il Signore aveva ordinato; ed essi salirono sul monte Or, sotto gli occhi di tutta la comunità.
+{20:28} Mosè spogliò Aaronne dei suoi paramenti e ne rivestì il figlio Eleazar; là morì Aaronne, sulla cima del monte. Poi Mosè ed Eleazar scesero dal monte.
+{20:29} Quando tutta la comunità vide che Aaronne era morto, tutta la casa d’Israele lo pianse per trenta giorni.
+{i21:1} Il serpente di bronzo
+{21:1} Il re cananeo di Arad, che abitava nella regione meridionale, avendo udito che Israele veniva per la via di Atarim, combattè contro Israele e fece alcuni prigionieri.
+{21:2} Allora Israele fece un voto al Signore e disse: «Se tu dai nelle mie mani questo popolo, le loro città saranno da me votate allo sterminio».
+{21:3} Il Signore ascoltò la voce d’Israele e gli diede nelle mani i Cananei; Israele votò allo sterminio i Cananei e le loro città e a quel luogo fu messo il nome di Corma.
+{21:4} Poi gli Israeliti partirono dal monte Or, andarono verso il mar Rosso per fare il giro del paese di Edom; durante il viaggio il popolo si perse d’animo.
+{21:5} Il popolo parlò contro Dio e contro Mosè, e disse: «Perché ci avete fatti salire fuori d’Egitto per farci morire in questo deserto? Poiché qui non c’è né pane né acqua, e siamo nauseati di questo cibo tanto leggero».
+{21:6} Allora il Signore mandò tra il popolo dei serpenti velenosi i quali mordevano la gente, e un gran numero d’Israeliti morì.
+{21:7} Il popolo venne da Mosè e disse: «Abbiamo peccato, perché abbiamo parlato contro il Signore e contro di te; prega il Signore che allontani da noi questi serpenti». E Mosè pregò per il popolo.
+{21:8} Il Signore disse a Mosè: «Fòrgiati un serpente velenoso e mettilo sopra un’asta: chiunque sarà morso, se lo guarderà, resterà in vita».
+{21:9} Mosè allora fece un serpente di bronzo e lo mise sopra un’asta; e avveniva che, quando un serpente mordeva qualcuno, se questi guardava il serpente di bronzo, restava in vita.
+{21:10} Poi i figli d’Israele partirono e si accamparono a Obot;
+{21:11} e, dopo essere partiti da Obot, si accamparono a Iie-Abarim nel deserto che è di fronte a Moab dal lato dove sorge il sole.
+{21:12} Di là partirono e si accamparono nella valle di Zered.
+{21:13} Poi partirono di là e si accamparono dall’altro lato dell’Arnon, che scorrono nel deserto e nasce sul territorio degli Amorei; poiché l’Arnon è il confine di Moab, tra Moab e gli Amorei.
+{21:14} Per questo è detto nel libro delle guerre del Signore: «Vaeb in Sufa e gli affluenti dell’Arnon
+{21:15} e i letti dei torrenti che scendono verso le dimore di Ar e si appoggiano alla frontiera di Moab».
+{21:16} Di là andarono a Beer, che è il pozzo a proposito del quale il Signore disse a Mosè: «Raduna il popolo e io gli darò l’acqua».
+{21:17} Fu in quell’occasione che Israele cantò questo cantico: «Scaturisci, o pozzo! Salutatelo con canti!
+{21:18} Pozzo che i capi hanno scavato, che i nobili del popolo hanno aperto con lo scettro, con i loro bastoni!»
+{21:19} Poi dal deserto andarono a Mattana; da Mattana a Naaliel; da Naaliel a Bamot,
+{21:20} e da Bamot nella valle che è nella campagna di Moab, verso l’altura del Pisga che domina il deserto.
+{i21:21} Conquista dei due regni amorei
+{21:21} Israele mandò ambasciatori a Sicon, re degli Amorei, per dirgli:
+{21:22} «Lasciami passare per il tuo paese; noi non ci svieremo per i campi né per le vigne, non berremo l’acqua dei pozzi; seguiremo la strada pubblica finché abbiamo oltrepassato i tuoi confini».
+{21:23} Ma Sicon non permise a Israele di passare per il suo territorio; anzi radunò tutta la sua gente e uscì fuori contro Israele nel deserto; giunse a Iaas e affrontò Israele.
+{21:24} Israele lo sconfisse passandolo a fil di spada, e conquistò il suo paese dall’Arnon fino al Iabboc, fino ai confini degli Ammoniti, poiché la frontiera degli Ammoniti era forte.
+{21:25} Israele prese tutte queste città e abitò in tutte le città degli Amorei: a Chesbon e in tutte le città del suo territorio;
+{21:26} poiché Chesbon era la città di Sicon, re degli Amorei, il quale aveva mosso guerra al precedente re di Moab e gli aveva tolto tutto il suo paese fino all’Arnon.
+{21:27} Per questo dicono i poeti: «Venite a Chesbon! La città di Sicon sia ricostruita e fortificata!
+{21:28} Poiché un fuoco è uscito da Chesbon, una fiamma dalla città di Sicon; essa ha divorato Ar di Moab,
+{21:29} i dominatori delle alture dell’Arnon. Guai a te, Moab! Sei perduto, o popolo di Chemos! Chemos ha fatto dei suoi figli tanti fuggiaschi e ha dato le sue figlie come schiave a Sicon, re degli Amorei.
+{21:30} Noi abbiamo scagliato su di loro le nostre frecce; Chesbon è distrutta fino a Dibon. Abbiamo tutto devastato fino a Nofa, il fuoco è giunto fino a Medeba».
+{21:31} Così Israele si stabilì nel paese degli Amorei.
+{21:32} Poi Mosè mandò a esplorare Iaezer, e gli Israeliti presero le città del suo territorio e ne scacciarono gli Amorei che vi si trovavano.
+{21:33} Mutata direzione, risalirono il paese in direzione di Basan; e Og, re di Basan, uscì contro di loro con tutta la sua gente per dar loro battaglia a Edrei.
+{21:34} Ma il Signore disse a Mosè: «Non lo temere, poiché io lo do nelle tue mani: lui, tutta la gente e il suo paese; trattalo come hai trattato Sicon, re degli Amorei che abitava a Chesbon».
+{21:35} E gli Israeliti sconfissero lui, con i suoi figli e con tutto il suo popolo, finché non ne rimase in vita neppure uno; e si impadronirono del suo paese.
+{i22:1} Balac e Balaam
+{22:1} Poi i figli d’Israele partirono e si accamparono nelle pianure di Moab, oltre il Giordano di Gerico.
+{22:2} Balac, figlio di Sippor, vide tutto quello che Israele aveva fatto agli Amorei,
+{22:3} e Moab ebbe grande paura di questo popolo, che era così numeroso; Moab fu preso dall’angoscia a causa dei figli d’Israele.
+{22:4} Perciò Moab disse agli anziani di Madian: «Ora questa moltitudine divorerà tutto ciò che è intorno a noi, come il bue divora l’erba dei campi». In quel tempo Balac, figlio di Sippor, era re di Moab.
+{22:5} Egli mandò ambasciatori da Balaam, figlio di Beor, a Petor, che sta sul fiume, suo paese d’origine, per chiamarlo e dirgli: «Ecco, un popolo è uscito dall’Egitto; esso ricopre la faccia della terra e si è stabilito di fronte a me;
+{22:6} vieni dunque, te ne prego, e maledicimi questo popolo, poiché è troppo potente per me; forse così riusciremo a sconfiggerlo e potrò cacciarlo via dal paese; poiché so che chi tu benedici è benedetto, e chi tu maledici è maledetto».
+{22:7} Gli anziani di Moab e gli anziani di Madian partirono portando in mano la ricompensa per l’indovino; arrivati da Balaam, gli riferirono le parole di Balac.
+{22:8} Balaam disse loro: «Alloggiate qui stanotte; e vi darò la risposta secondo quello che mi dirà il Signore ». E i prìncipi di Moab stettero da Balaam.
+{22:9} Dio si avvicinò a Balaam e gli disse: «Chi sono questi uomini che stanno da te?»
+{22:10} Balaam rispose a Dio: «Balac, figlio di Sippor, re di Moab, mi ha mandato a dire:
+{22:11} “Ecco, il popolo che è uscito dall’Egitto ricopre la faccia della terra; ora vieni a maledirmelo; forse riuscirò così a combatterlo e potrò cacciarlo via”».
+{22:12} Dio disse a Balaam: «Tu non andrai con loro; non maledirai quel popolo perché è benedetto».
+{22:13} Balaam si alzò, la mattina, e disse ai prìncipi di Balac: «Andatevene al vostro paese, perché il Signore non mi ha dato il permesso di andare con voi».
+{22:14} I prìncipi di Moab si alzarono, tornarono da Balac e dissero: «Balaam ha rifiutato di venire con noi».
+{22:15} Allora Balac mandò di nuovo dei prìncipi, in maggior numero e più importanti di quelli di prima.
+{22:16} Questi arrivarono da Balaam e gli dissero: «Così dice Balac, figlio di Sippor: “Che nulla t’impedisca di venire da me,
+{22:17} poiché io ti colmerò di onori e farò tutto ciò che mi dirai; vieni dunque, te ne prego, e maledici questo popolo”».
+{22:18} Ma Balaam rispose e disse ai servi di Balac: «Anche se Balac mi desse la sua casa piena d’argento e d’oro, non potrei trasgredire l’ordine del Signore, del mio Dio, per fare cosa piccola o grande che sia.
+{22:19} Nondimeno, trattenetevi qui, anche voi, stanotte, affinché io sappia ciò che il Signore mi dirà ancora».
+{22:20} Durante la notte Dio venne da Balaam e gli disse: «Se quegli uomini sono venuti a chiamarti, àlzati e va’ con loro; soltanto, farai ciò che io ti dirò».
+{22:21} Balaam quindi si alzò la mattina, sellò la sua asina e andò con i prìncipi di Moab.
+{22:22} Ma l’ira di Dio si accese perché egli era andato; e l’angelo del Signore si mise sulla strada per ostacolarlo. Balaam cavalcava la sua asina e aveva con sé due servi.
+{22:23} L’asina vide l’angelo del Signore che stava sulla strada con la spada sguainata in mano, svoltò e prese la via dei campi. Balaam percosse l’asina per rimetterla sulla strada.
+{22:24} Allora l’angelo del Signore si fermò in un sentiero incavato che passava tra le vigne e aveva un muro di qua e un muro di là.
+{22:25} L’asina vide l’angelo del Signore; si strinse al muro e schiacciò il piede di Balaam contro il muro; e Balaam la percosse di nuovo.
+{22:26} L’angelo del Signore passò di nuovo oltre e si fermò in un luogo stretto, dove non c’era modo di voltarsi né a destra né a sinistra.
+{22:27} L’asina vide l’angelo del Signore e si sdraiò sotto Balaam; l’ira di Balaam si accese ed egli percosse l’asina con un bastone.
+{22:28} Allora il Signore aprì la bocca dell’asina, che disse a Balaam: «Che cosa ti ho fatto perché tu mi percuota già per la terza volta?»
+{22:29} Balaam rispose all’asina: «Perché ti sei fatta beffe di me. Ah, se avessi una spada in mano ti ammazzerei all’istante!»
+{22:30} L’asina disse a Balaam: «Non sono forse la tua asina che hai sempre cavalcato fino ad oggi? Sono forse solita farti così?» Ed egli rispose: «No».
+{22:31} Allora il Signore aprì gli occhi a Balaam ed egli vide l’angelo del Signore che stava sulla strada, con la sua spada sguainata. Balaam s’inchinò e si prostrò con la faccia a terra.
+{22:32} L’angelo del Signore gli disse: «Perché hai percosso già tre volte la tua asina? Ecco, io sono uscito per fermarti, perché la via che percorri è contraria al mio volere.
+{22:33} L’asina mi ha visto e per tre volte ha deviato davanti a me. Se non avesse deviato davanti a me, io ti avrei ucciso all’istante, ma lei l’avrei lasciata in vita!»
+{22:34} Allora Balaam disse all’angelo del Signore: «Io ho peccato perché non sapevo che tu ti fossi messo contro di me sulla strada; e ora, se questo ti dispiace, io me ne ritornerò».
+{22:35} L’angelo del Signore disse a Balaam: «Va’ pure con quegli uomini; ma dirai soltanto quello che io ti dirò». E Balaam andò con i prìncipi di Balac.
+{22:36} Quando Balac udì che Balaam arrivava, gli andò incontro fino alla città di Moab che è sul confine segnato dall’Arnon, nel punto più lontano.
+{22:37} Balac disse a Balaam: «Non ti ho forse fatto chiamare con insistenza? Perché non sei venuto da me? Non sono proprio in grado di farti onore?»
+{22:38} Balaam rispose a Balac: «Ecco, sono venuto da te; ma potrei forse dire qualsiasi cosa? La parola che Dio mi metterà in bocca, quella dirò».
+{22:39} Balaam andò con Balac e giunsero a Chiriat-Usot.
+{22:40} Balac sacrificò buoi e pecore e mandò parte della carne a Balaam e ai prìncipi che erano con lui.
+{22:41} La mattina Balac prese Balaam e lo fece salire a Bamot-Baal, da dove Balaam vide l’estremità del campo d’Israele.
+{i23:1} Benedizioni pronunciate da Balaam
+{23:1} Balaam disse a Balac: «Costruiscimi qui sette altari e preparami qui sette tori e sette montoni».
+{23:2} Balac fece come Balaam aveva detto, e Balac e Balaam offrirono un toro e un montone su ciascun altare.
+{23:3} E Balaam disse a Balac: «Sta’ vicino al tuo olocausto e io mi allontanerò; forse il Signore mi verrà incontro; e io riferirò quello che mi avrà fatto vedere»; e andò sopra una nuda altura.
+{23:4} Dio venne incontro a Balaam, e Balaam gli disse: «Io ho preparato i sette altari e ho offerto un toro e un montone su ciascun altare».
+{23:5} Allora il Signore mise delle parole in bocca a Balaam e gli disse: «Torna da Balac e parla così».
+{23:6} Balaam tornò da Balac, ed ecco che questi stava vicino al suo olocausto con tutti i prìncipi di Moab.
+{23:7} Allora Balaam pronunciò il suo oracolo: «Balac mi ha fatto venire da Aram, il re di Moab mi ha chiamato dalle montagne d’Oriente. Vieni, disse, maledici Giacobbe per me! Vieni, impreca contro Israele!
+{23:8} Come farò a maledirlo se Dio non l’ha maledetto? Come farò a imprecare se il Signore non ha imprecato?
+{23:9} Io lo guardo dalla sommità delle rupi e lo contemplo dall’alto dei colli; ecco, è un popolo che dimora solo e non è contato nel numero delle nazioni.
+{23:10} Chi può contare la polvere di Giacobbe o calcolare il quarto d’Israele? Possa io morire della morte dei giusti e possa la mia fine essere simile alla loro!»
+{23:11} Allora Balac disse a Balaam: «Che mi hai fatto? Ti ho preso per maledire i miei nemici ed ecco, non hai fatto che benedirli».
+{23:12} L’altro gli rispose e disse: «Non devo forse stare attento a dire soltanto ciò che il Signore mi mette in bocca?»
+{23:13} E Balac gli disse: «Ti prego, vieni con me in un altro luogo, da dove tu lo potrai vedere; tu di qui non ne puoi vedere che una parte; non lo puoi vedere tutto quanto; di là me lo maledirai».
+{23:14} E lo condusse al campo di Sofim, sulla cima del Pisga; costruì sette altari e offrì un toro e un montone su ciascun altare.
+{23:15} E Balaam disse a Balac: «Stattene qui vicino al tuo olocausto, e io andrò a incontrare il Signore ».
+{23:16} E il Signore venne incontro a Balaam, gli mise delle parole in bocca e gli disse: «Torna da Balac e parla così».
+{23:17} Balaam tornò da Balac, ed ecco che questi stava presso il suo olocausto, con i prìncipi di Moab. E Balac gli disse: «Che ha detto il Signore?»
+{23:18} Allora Balaam pronunciò il suo oracolo e disse: «Àlzati, Balac, e ascolta! Porgimi orecchio, figlio di Sippor!
+{23:19} Dio non è un uomo, da poter mentire, né un figlio d’uomo, da doversi pentire. Quando ha detto una cosa non la farà? O quando ha parlato non manterrà la parola?
+{23:20} Ecco, ho ricevuto l’ordine di benedire; egli ha benedetto; io non posso contraddire.
+{23:21} Egli non scorge iniquità in Giacobbe, non vede perversità in Israele. Il Signore, il suo Dio, è con lui e Israele lo acclama come suo re.
+{23:22} Dio lo ha fatto uscire dall’Egitto e gli dà il vigore del bufalo.
+{23:23} In Giacobbe non c’è magia, in Israele non c’è divinazione; a suo tempo viene detto a Giacobbe e a Israele qual è l’opera che Dio compie.
+{23:24} Ecco un popolo che si leva come una leonessa e si alza come un leone; egli non si sdraia prima di aver divorato la preda e bevuto il sangue delle sue vittime».
+{23:25} Allora Balac disse a Balaam: «Non lo maledire, ma almeno non benedire».
+{23:26} Ma Balaam rispose e disse a Balac: «Non ti ho forse detto: “Io farò tutto quello che il Signore dirà”?»
+{23:27} Balac disse a Balaam: «Ti prego, vieni, io ti condurrò in un altro luogo; forse piacerà a Dio che tu me lo maledica di là».
+{23:28} Balac dunque condusse Balaam in cima al Peor, che domina il deserto.
+{23:29} E Balaam disse a Balac: «Costruiscimi qui sette altari e preparami qui sette tori e sette montoni».
+{23:30} Balac fece come Balaam aveva detto, e offrì un toro e un montone su ciascun altare.
+{24:1} Balaam, vedendo che piaceva al Signore benedire Israele, non ricorse come le altre volte alla magia, ma voltò la faccia verso il deserto.
+{24:2} E, alzati gli occhi, Balaam vide Israele accampato tribù per tribù; e lo Spirito di Dio fu sopra di lui.
+{24:3} E Balaam pronunciò il suo oracolo e disse: «Così dice Balaam, figlio di Beor, così dice l’uomo che ha l’occhio aperto,
+{24:4} così dice colui che ode le parole di Dio, colui che contempla la visione dell’Onnipotente, colui che si prostra e a cui si aprono gli occhi:
+{24:5} “Come sono belle le tue tende, o Giacobbe, le tue dimore, o Israele!
+{24:6} Esse si estendono come valli, come giardini in riva a un fiume, come aloe piantati dal Signore, come cedri vicini alle acque.
+{24:7} L’acqua trabocca dalle sue secchie, la sua semenza è ben irrigata, il suo re sarà più in alto di Agag e il suo regno sarà esaltato.
+{24:8} Dio, che lo ha fatto uscire dall’Egitto, gli dà il vigore del bufalo. Egli divorerà i popoli che gli sono avversari, frantumerà loro le ossa, li trafiggerà con le sue frecce.
+{24:9} Egli si china, si accovaccia come un leone, come una leonessa: chi lo farà alzare? Benedetto chiunque ti benedice, maledetto chiunque ti maledice!”»
+{24:10} Allora l’ira di Balac si accese contro Balaam; e Balac, agitando le mani, disse a Balaam: «Io ti ho chiamato per maledire i miei nemici, ed ecco che li hai benedetti già per la terza volta.
+{24:11} Ora fuggi a casa tua! Io avevo detto che ti avrei colmato di onori. Ma ecco, il Signore ti ha impedito di averli».
+{24:12} E Balaam rispose a Balac: «E non dissi io, fin da principio, agli ambasciatori che mi mandasti:
+{24:13} “Anche se Balac mi desse la sua casa piena d’argento e d’oro, non potrei trasgredire l’ordine del Signore per fare di mia iniziativa alcun che di bene o di male; ciò che il Signore dirà, quello dirò”?
+{24:14} E ora, ecco, io me ne vado al mio popolo; vieni, io ti annuncerò ciò che questo popolo farà al tuo popolo nei giorni a venire».
+{24:15} Allora Balaam pronunciò il suo oracolo e disse: «Così dice Balaam, figlio di Beor; così dice l’uomo che ha l’occhio aperto,
+{24:16} così dice colui che ode le parole di Dio, che conosce la scienza dell’Altissimo, che contempla la visione dell’Onnipotente, colui che si prostra e a cui si aprono gli occhi:
+{24:17} “Lo vedo, ma non ora; lo contemplo, ma non vicino: un astro sorge da Giacobbe, e uno scettro si eleva da Israele; colpirà Moab da un capo all’altro e abbatterà tutta quella razza turbolenta.
+{24:18} S’impadronirà di Edom, s’impadronirà di Seir, suo nemico; Israele farà prodezze.
+{24:19} Da Giacobbe verrà un dominatore che sterminerà i superstiti delle città”».
+{24:20} Poi Balaam vide Amalec e pronunciò il suo oracolo, e disse: «Amalec è la prima delle nazioni, ma il suo avvenire va in rovina».
+{24:21} Poi vide i Chenei e pronunciò il suo oracolo, e disse: «La tua abitazione è solida e il tuo nido è posto nella roccia;
+{24:22} nondimeno, il Cheneo dovrà essere devastato, finché l’Assiro ti conduca in prigionia».
+{24:23} Poi pronunciò di nuovo il suo oracolo, e disse: «Ahimè! Chi resisterà quando Dio lo avrà stabilito?
+{24:24} Ma delle navi verranno dalle parti di Chittim e umilieranno Assur, umilieranno Eber, ed egli pure finirà per essere distrutto».
+{24:25} Poi Balaam si alzò, partì e se ne tornò a casa sua; e Balac pure se ne andò per la sua strada.
+{i25:1} Idolatria d’Israele nelle pianure di Moab
+{25:1} Or Israele era stanziato a Sittim e il popolo cominciò a fornicare con le figlie di Moab.
+{25:2} Esse invitarono il popolo ai sacrifici offerti ai loro dèi; e il popolo mangiò e si prostrò davanti ai loro dèi.
+{25:3} Israele si unì a Baal-Peor e l’ira del Signore si accese contro Israele.
+{25:4} Il Signore disse a Mosè: «Prendi tutti i capi del popolo e falli impiccare davanti al Signore, alla luce del sole, affinché l’ardente ira del Signore sia allontanata da Israele».
+{25:5} Mosè disse ai giudici d’Israele: «Ciascuno di voi uccida quelli dei suoi uomini che si sono uniti a Baal-Peor».
+{25:6} Ecco che uno dei figli d’Israele venne e condusse ai suoi fratelli una donna madianita, sotto gli occhi di Mosè e di tutta la comunità dei figli d’Israele, mentre essi stavano piangendo all’ingresso della tenda di convegno.
+{25:7} E Fineas, figlio di Eleazar, figlio del sacerdote Aaronne, lo vide, si alzò in mezzo alla comunità e afferrò una lancia;
+{25:8} poi andò dietro a quell’Israelita nella sua tenda e li trafisse tutti e due, l’uomo d’Israele e la donna, nel basso ventre. E il flagello cessò tra i figli d’Israele.
+{25:9} Di quel flagello morirono ventiquattromila persone.
+{25:10} Il Signore parlò a Mosè e disse:
+{25:11} «Fineas, figlio di Eleazar, figlio del sacerdote Aaronne, ha allontanato la mia ira dai figli d’Israele, perché egli è stato animato del mio zelo in mezzo a loro; e io, nella mia indignazione, non ho sterminato i figli d’Israele.
+{25:12} Perciò digli che io stabilisco con lui un patto di pace,
+{25:13} che sarà per lui e per la sua discendenza dopo di lui: l’alleanza di un sacerdozio perenne, perché egli ha avuto zelo per il suo Dio e ha fatto l’espiazione per i figli d’Israele».
+{25:14} Ora l’uomo d’Israele che fu ucciso con la donna madianita si chiamava Zimri, figlio di Salu, capo di una casa patriarcale dei Simeoniti.
+{25:15} E la donna che fu uccisa, la Madianita, si chiamava Cozbi, figlia di Sur, capo della gente di una casa patriarcale in Madian.
+{25:16} Poi il Signore disse a Mosè:
+{25:17} «Trattate i Madianiti come nemici e uccideteli,
+{25:18} poiché essi vi hanno trattati da nemici con gli inganni mediante i quali vi hanno sedotti nell’affare di Peor e in quello di Cozbi, figlia di un principe di Madian, loro sorella, che fu uccisa il giorno del flagello causato dall’affare di Peor».
+{i26:1} Nuovo censimento all’uscita dal deserto
+{26:1} Or avvenne che, dopo quel flagello, il Signore disse a Mosè e a Eleazar, figlio del sacerdote Aaronne:
+{26:2} «Fate il censimento di tutta la comunità dei figli d’Israele, dall’età di vent’anni in su, secondo le loro famiglie, di tutti quelli che in Israele possono andare alla guerra».
+{26:3} Mosè e il sacerdote Eleazar parlarono loro nelle pianure di Moab presso il Giordano di fronte a Gerico e dissero:
+{26:4} «Si faccia il censimento di quelli che uscirono dal paese d’Egitto, dall’età di vent’anni in su, come il Signore ha ordinato a Mosè e ai figli d’Israele».
+{26:5} Ruben, primogenito d’Israele. Figli di Ruben: Enoc, da cui discende la famiglia degli Enochiti; Pallu, da cui discende la famiglia dei Palluiti;
+{26:6} Chesron, da cui discende la famiglia dei Chesroniti; Carmi, da cui discende la famiglia dei Carmiti.
+{26:7} Tali sono le famiglie dei Rubeniti: e quelli dei quali si fece il censimento furono quarantatremilasettecentotrenta.
+{26:8} Figli di Pallu: Eliab.
+{26:9} Figli di Eliab: Nemuel, Datan e Abiram. Questi sono quel Datan e quell’Abiram, membri del consiglio, che si sollevarono contro Mosè e contro Aaronne con la gente di Core, quando si sollevarono contro il Signore;
+{26:10} e la terra aprì la sua bocca e li ingoiò insieme con Core, quando quella gente perì e il fuoco divorò duecentocinquanta uomini, che servirono di esempio.
+{26:11} Ma i figli di Core non perirono.
+{26:12} Figli di Simeone secondo le loro famiglie. Da Nemuel discende la famiglia dei Nemueliti; da Iamin, la famiglia degli Iaminiti; da Iachin, la famiglia degli Iachiniti; da Zerac, la famiglia degli Zerachiti;
+{26:13} da Saul, la famiglia dei Sauliti.
+{26:14} Tali sono le famiglie dei Simeoniti: ventiduemiladuecento.
+{26:15} Figli di Gad secondo le loro famiglie. Da Sefon discende la famiglia dei Sefoniti; da Agghi, la famiglia degli Agghiti; da Suni, la famiglia dei Suniti;
+{26:16} da Ozni, la famiglia degli Ozniti; da Eri, la famiglia degli Eriti;
+{26:17} da Arod, la famiglia degli Aroditi; da Areli, la famiglia degli Areliti.
+{26:18} Tali sono le famiglie dei figli di Gad secondo il loro censimento: quarantamilacinquecento.
+{26:19} Figli di Giuda: Er e Onan; ma Er e Onan morirono nel paese di Canaan.
+{26:20} Ecco i figli di Giuda secondo le loro famiglie: da Sela discende la famiglia dei Selaniti; da Perez, la famiglia dei Pereziti; da Zerac, la famiglia degli Zerachiti.
+{26:21} I figli di Perez furono: Chesron, da cui discende la famiglia dei Chesroniti; Camul, da cui discende la famiglia dei Camuliti.
+{26:22} Tali sono le famiglie di Giuda secondo il loro censimento: settantaseimilacinquecento.
+{26:23} Figli d’Issacar secondo le loro famiglie: da Tola discende la famiglia dei Tolaiti; da Puva, la famiglia dei Puviti;
+{26:24} da Iasub, la famiglia degli Iasubiti; da Simron, la famiglia dei Simroniti.
+{26:25} Tali sono le famiglie d’Issacar secondo il loro censimento: sessantaquattromilatrecento.
+{26:26} Figli di Zabulon secondo le loro famiglie: da Sered discende la famiglia dei Sarditi; da Elon, la famiglia degli Eloniti; da Ialeel, la famiglia degli Ialeeliti.
+{26:27} Tali sono le famiglie degli Zabuloniti secondo il loro censimento: sessantamilacinquecento.
+{26:28} Figli di Giuseppe secondo le loro famiglie: Manasse ed Efraim.
+{26:29} Figli di Manasse: da Machir discende la famiglia dei Machiriti. Machir generò Galaad. Da Galaad discende la famiglia dei Galaaditi.
+{26:30} Questi sono i figli di Galaad: Iezer, da cui discende la famiglia degli Iezeriti; Chelec, da cui discende la famiglia dei Chelechiti;
+{26:31} Asriel, da cui discende la famiglia degli Asrieliti; Sichem, da cui discende la famiglia dei Sichemiti;
+{26:32} Semida, da cui discende la famiglia dei Semidaiti; Chefer, da cui discende la famiglia dei Cheferiti.
+{26:33} Selofead, figlio di Chefer, non ebbe maschi ma soltanto delle figlie; e i nomi delle figlie di Selofead erano: Mala, Noa, Cogla, Milca e Tirsa.
+{26:34} Tali sono le famiglie di Manasse; le persone censite furono cinquantaduemilasettecento.
+{26:35} Ecco i figli di Efraim secondo le loro famiglie: da Sutela discende la famiglia dei Sutelaiti; da Becher, la famiglia dei Bacriti; da Taan, la famiglia dei Taaniti.
+{26:36} Ed ecco i figli di Sutela: da Eran è discesa la famiglia degli Eraniti.
+{26:37} Tali sono le famiglie dei figli di Efraim secondo il loro censimento: trentaduemilacinquecento. Questi sono i figli di Giuseppe secondo le loro famiglie.
+{26:38} Figli di Beniamino secondo le loro famiglie: da Bela discende la famiglia dei Belaiti; da Asbel, la famiglia degli Asbeliti; da Airam, la famiglia degli Airamiti;
+{26:39} da Sufam, la famiglia dei Sufamiti;
+{26:40} da Cufam, la famiglia dei Cufamiti. I figli di Bela furono: Ard e Naaman; da Ard discende la famiglia degli Arditi; da Naaman, la famiglia dei Naamiti.
+{26:41} Tali sono i figli di Beniamino secondo le loro famiglie. Le persone censite furono quarantacinquemilaseicento.
+{26:42} Ecco i figli di Dan secondo le loro famiglie: da Suam discende la famiglia dei Suamiti. Sono questi i figli di Dan secondo le loro famiglie.
+{26:43} Totale per le famiglie dei Suamiti secondo il loro censimento: sessantaquattromilaquattrocento.
+{26:44} Figli di Ascer secondo le loro famiglie: da Imna discende la famiglia degli Imniti: da Isvi, la famiglia degli Isviti; da Beria, la famiglia dei Beriiti.
+{26:45} Dai figli di Beria discendono: da Eber, la famiglia degli Ebriti; da Malchiel, la famiglia dei Malchieliti.
+{26:46} Il nome della figlia di Ascer era Sera.
+{26:47} Tali sono le famiglie dei figli di Ascer secondo il loro censimento: cinquantatremilaquattrocento.
+{26:48} Figli di Neftali secondo le loro famiglie: da Iaseel discende la famiglia degli Iaseeliti; da Guni, la famiglia dei Guniti;
+{26:49} da Ieser, la famiglia degli Ieseriti; da Sillem, la famiglia dei Sillemiti.
+{26:50} Tali sono i discendenti di Neftali secondo le loro famiglie. Le persone censite furono quarantacinquemilaquattrocento.
+{26:51} I figli d’Israele di cui si fece il censimento erano dunque seicentunmilasettecentotrenta.
+{26:52} Il Signore disse a Mosè:
+{26:53} «Il paese sarà diviso tra di loro, per essere loro proprietà, secondo il numero delle persone.
+{26:54} A quelli che sono in maggior numero darai in possesso una porzione maggiore; a quelli che sono in minor numero darai una porzione minore; si darà a ciascuno la sua porzione secondo il censimento.
+{26:55} Ma la spartizione del paese sarà fatta a sorte; essi riceveranno la rispettiva proprietà secondo i nomi delle tribù paterne.
+{26:56} La spartizione delle proprietà sarà fatta a sorte fra quelli che sono in maggior numero e quelli che sono in numero minore».
+{26:57} Ecco i Leviti dei quali si fece il censimento secondo le loro famiglie: da Gherson discende la famiglia dei Ghersoniti; da Cheat, la famiglia dei Cheatiti; da Merari, la famiglia dei Merariti.
+{26:58} Ecco le famiglie di Levi: la famiglia dei Libniti, la famiglia degli Ebroniti, la famiglia dei Maliti, la famiglia dei Musiti, la famiglia dei Coraiti. E Cheat generò Amram.
+{26:59} Il nome della moglie di Amram era Iochebed, figlia di Levi, che nacque a Levi in Egitto; ed essa partorì ad Amram Aaronne, Mosè e Miriam loro sorella.
+{26:60} Ad Aaronne nacquero Nadab e Abiu, Eleazar e Itamar.
+{26:61} Or Nadab e Abiu morirono quando presentarono al Signore fuoco estraneo.
+{26:62} Quelli dei quali si fece il censimento furono ventitremila: tutti maschi, dall’età di un mese in su. Non furono compresi nel censimento dei figli d’Israele, perché non fu loro data alcuna proprietà tra i figli d’Israele.
+{26:63} Questi sono i figli d’Israele dei quali Mosè e il sacerdote Eleazar fecero il censimento nelle pianure di Moab presso il Giordano di fronte a Gerico.
+{26:64} Fra questi non vi era alcuno di quei figli d’Israele dei quali Mosè e il sacerdote Aaronne avevano fatto il censimento nel deserto del Sinai.
+{26:65} Poiché il Signore aveva detto di loro: «Certo moriranno nel deserto!» E non ne rimase neppure uno, salvo Caleb, figlio di Gefunne, e Giosuè, figlio di Nun.
+{i27:1} Legge relativa alle eredità
+{27:1} Allora si fecero avanti le figlie di Selofead, figlio di Chefer, figlio di Galaad, figlio di Machir, figlio di Manasse, delle famiglie di Manasse, figlio di Giuseppe, che si chiamavano Mala, Noa, Cogla, Milca e Tirsa;
+{27:2} esse si presentarono davanti a Mosè, davanti al sacerdote Eleazar, davanti ai capi e a tutta la comunità all’ingresso della tenda di convegno, e dissero:
+{27:3} «Nostro padre morì nel deserto, e non stava in mezzo a coloro che si adunarono contro il Signore, non era della gente di Core, ma morì a causa del suo peccato, e non ebbe figli maschi.
+{27:4} Perché il nome di nostro padre dovrebbe scomparire dalla sua famiglia? Infatti non ha avuto figli maschi. Dacci una proprietà in mezzo ai fratelli di nostro padre».
+{27:5} Mosè portò la loro causa davanti al Signore.
+{27:6} E il Signore disse a Mosè:
+{27:7} «Le figlie di Selofead dicono bene. Sì, tu darai loro in eredità una proprietà in mezzo ai fratelli del loro padre, e farai passare ad esse l’eredità del loro padre.
+{27:8} Parlerai pure ai figli d’Israele, e dirai: “Quando uno morirà senza lasciare figli maschi, farete passare la sua eredità a sua figlia.
+{27:9} Se non ha una figlia, darete la sua eredità ai suoi fratelli.
+{27:10} Se non ha fratelli, darete la sua eredità ai fratelli di suo padre.
+{27:11} E se non ci sono fratelli del padre, darete la sua eredità al parente più stretto nella sua famiglia; apparterrà a lui. Questo sarà per i figli d’Israele una norma di diritto, come il Signore ha ordinato a Mosè”».
+{i27:12} Giosuè designato come successore di Mosè
+{27:12} Poi il Signore disse a Mosè: «Sali su questo monte di Abarim e contempla il paese che io do ai figli d’Israele.
+{27:13} Quando l’avrai visto, anche tu sarai riunito ai tuoi padri, come fu riunito Aaronne tuo fratello,
+{27:14} perché vi ribellaste all’ordine che vi diedi nel deserto di Sin quando la comunità si mise a contestare, e voi non le deste testimonianza della mia santità, a proposito di quelle acque. Sono le acque della contestazione di Cades, nel deserto di Sin».
+{27:15} Mosè disse al Signore:
+{27:16} «Il Signore, il Dio che dà lo spirito a ogni creatura, costituisca su questa comunità un uomo
+{27:17} che esca davanti a loro ed entri davanti a loro e li faccia uscire e li faccia entrare, affinché la comunità del Signore non sia come un gregge senza pastore».
+{27:18} Il Signore disse a Mosè: «Prendi Giosuè, figlio di Nun, uomo in cui è lo Spirito; imporrai la tua mano su di lui;
+{27:19} lo farai comparire davanti al sacerdote Eleazar e davanti a tutta la comunità, gli darai i tuoi ordini in loro presenza
+{27:20} e lo farai partecipe della tua autorità, affinché tutta la comunità dei figli d’Israele gli obbedisca.
+{27:21} Egli si presenterà davanti al sacerdote Eleazar, che consulterà per lui il giudizio dell’urim davanti al Signore; egli e tutti i figli d’Israele con lui e tutta la comunità usciranno all’ordine di Eleazar ed entreranno all’ordine suo».
+{27:22} Mosè fece come il Signore gli aveva ordinato; prese Giosuè e lo fece comparire davanti al sacerdote Eleazar e davanti a tutta la comunità;
+{27:23} impose su di lui le sue mani e gli diede i suoi ordini, come il Signore aveva comandato per mezzo di Mosè.
+{i28:1} Tempi stabiliti per i sacrifici
+{28:1} Il Signore disse a Mosè:
+{28:2} «Da’ quest’ordine ai figli d’Israele, e di’ loro: “Avrete cura di offrirmi al tempo stabilito la mia offerta, il cibo dei miei sacrifici consumati dal fuoco, che sono per me un profumo soave”.
+{28:3} Dirai loro: “Questo è il sacrificio fatto con il fuoco, che offrirete al Signore: degli agnelli dell’anno, senza difetti, due al giorno, come olocausto quotidiano.
+{28:4} Uno degli agnelli l’offrirai la mattina e l’altro agnello l’offrirai sull’imbrunire;
+{28:5} e, come oblazione, un decimo di efa di fior di farina, intrisa con un quarto di hin d’olio vergine.
+{28:6} Tale è l’olocausto quotidiano offerto sul monte Sinai: sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{28:7} La libazione sarà di un quarto di hin per ogni agnello; la libazione di vino puro al Signore la farai nel luogo santo.
+{28:8} L’altro agnello lo offrirai sull’imbrunire, con un’oblazione e una libazione simili a quelle della mattina: è un sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{28:9} Nel giorno di sabato offrirete due agnelli dell’anno, senza difetti; e, come oblazione, due decimi di fior di farina intrisa d’olio, con la sua libazione.
+{28:10} Questo è l’olocausto del sabato, per ogni sabato, oltre all’olocausto quotidiano e alla sua libazione.
+{28:11} Il primo giorno di ogni mese offrirete come olocausto al Signore due tori, un montone, sette agnelli dell’anno, senza difetti,
+{28:12} e tre decimi di fior di farina intrisa d’olio, come oblazione per ciascun toro; due decimi di fior di farina intrisa d’olio, come oblazione per il montone,
+{28:13} e un decimo di fior di farina intrisa d’olio, come oblazione per ogni agnello. È un olocausto di profumo soave, un sacrificio consumato dal fuoco per il Signore.
+{28:14} Le libazioni saranno di mezzo hin di vino per un toro, di un terzo di hin per un montone e di un quarto di hin per un agnello. Tale è l’olocausto del mese, per tutti i mesi dell’anno.
+{28:15} E si offrirà al Signore un capro come sacrificio per il peccato, oltre all’olocausto quotidiano e alla sua libazione.
+{28:16} Il primo mese, il quattordicesimo giorno del mese, sarà la Pasqua in onore del Signore.
+{28:17} Il quindicesimo giorno di quel mese sarà giorno di festa. Per sette giorni si mangerà pane azzimo.
+{28:18} Il primo giorno vi sarà una santa convocazione; non farete nessun lavoro ordinario,
+{28:19} ma offrirete, come sacrificio consumato dal fuoco, un olocausto al Signore: due tori, un montone e sette agnelli dell’anno che siano senza difetti;
+{28:20} e, come oblazione, del fior di farina intrisa d’olio; ne offrirete tre decimi per un toro e due per un montone;
+{28:21} ne offrirai un decimo per ciascuno dei sette agnelli,
+{28:22} e offrirai un capro come sacrificio per il peccato, per fare l’espiazione per voi.
+{28:23} Offrirete questi sacrifici oltre all’olocausto della mattina, che è un olocausto quotidiano.
+{28:24} Li offrirete ogni giorno per sette giorni; è un cibo di sacrificio consumato dal fuoco, di profumo soave per il Signore. Li si offrirà oltre all’olocausto quotidiano con la sua libazione.
+{28:25} Il settimo giorno avrete una santa convocazione; non farete nessun lavoro ordinario.
+{28:26} Il giorno delle primizie, quando presenterete al Signore un’oblazione nuova alla vostra festa delle Settimane, avrete una santa convocazione; non farete nessun lavoro ordinario.
+{28:27} Offrirete, come olocausto di profumo soave al Signore, due tori, un montone e sette agnelli dell’anno;
+{28:28} e, come oblazione, del fior di farina intrisa d’olio; tre decimi per ciascun toro, due decimi per ogni montone
+{28:29} e un decimo per ciascuno dei sette agnelli;
+{28:30} e offrirete un capro per fare l’espiazione per voi.
+{28:31} Offrirete questi sacrifici, oltre all’olocausto quotidiano e alla sua oblazione. Sceglierete degli animali senza difetti e vi aggiungerete le relative libazioni.
+{29:1} «“Il settimo mese, il primo giorno del mese, avrete una santa convocazione; non farete nessun lavoro ordinario; sarà per voi il giorno dell’acclamazione.
+{29:2} Offrirete, come olocausto di profumo soave per il Signore, un toro, un montone, sette agnelli dell’anno senza difetti
+{29:3} e, come oblazione, del fior di farina intrisa d’olio: tre decimi per il toro, due decimi per il montone,
+{29:4} un decimo per ciascuno dei sette agnelli,
+{29:5} e un capro come sacrificio per il peccato, per fare l’espiazione per voi,
+{29:6} oltre all’olocausto del mese con la sua oblazione e all’olocausto quotidiano con la sua oblazione, e le loro libazioni, secondo le regole stabilite. Sarà un sacrificio consumato dal fuoco, di profumo soave per il Signore.
+{29:7} Il decimo giorno di questo settimo mese avrete una santa convocazione e vi umilierete; non farete nessun lavoro,
+{29:8} e offrirete, come olocausto di profumo soave al Signore, un toro, un montone, sette agnelli dell’anno che siano senza difetti
+{29:9} e, come oblazione, del fior di farina intrisa d’olio: tre decimi per il toro, due decimi per il montone,
+{29:10} un decimo per ciascuno dei sette agnelli,
+{29:11} e un capro come sacrificio per il peccato, oltre al sacrificio espiatorio, l’olocausto quotidiano con la sua oblazione e la sua libazione.
+{29:12} Il quindicesimo giorno del settimo mese avrete una santa convocazione; non farete nessun lavoro ordinario e celebrerete una festa in onore del Signore per sette giorni.
+{29:13} E offrirete come olocausto, come sacrificio consumato dal fuoco, di profumo soave per il Signore, tredici tori, due montoni, quattordici agnelli dell’anno, che siano senza difetti,
+{29:14} e, come oblazione, del fior di farina intrisa d’olio: tre decimi per ciascuno dei tredici tori, due decimi per ciascuno dei due montoni,
+{29:15} un decimo per ciascuno dei quattordici agnelli,
+{29:16} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:17} Il secondo giorno offrirete dodici tori, due montoni, quattordici agnelli dell’anno, senza difetti,
+{29:18} con le loro oblazioni e le loro libazioni per i tori, i montoni e gli agnelli secondo il loro numero, seguendo le regole stabilite,
+{29:19} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:20} Il terzo giorno offrirete undici tori, due montoni, quattordici agnelli dell’anno, senza difetti,
+{29:21} con le loro oblazioni e le loro libazioni per i tori, i montoni e gli agnelli, secondo il loro numero, seguendo le regole stabilite,
+{29:22} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:23} Il quarto giorno offrirete dieci tori, due montoni e quattordici agnelli dell’anno senza difetti,
+{29:24} con le loro offerte e le loro libazioni per i tori, i montoni e gli agnelli, secondo il loro numero e seguendo le regole stabilite,
+{29:25} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:26} Il quinto giorno offrirete nove tori, due montoni, quattordici agnelli dell’anno, senza difetti,
+{29:27} con le loro oblazioni e le loro libazioni per i tori, i montoni e gli agnelli, secondo il loro numero e seguendo le regole stabilite,
+{29:28} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:29} Il sesto giorno offrirete otto tori, due montoni, quattordici agnelli dell’anno, senza difetti,
+{29:30} con le loro oblazioni e le loro libazioni per i tori, i montoni e gli agnelli, secondo il loro numero e seguendo le regole stabilite,
+{29:31} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:32} Il settimo giorno offrirete sette tori, due montoni, quattordici agnelli dell’anno, senza difetti,
+{29:33} con le loro oblazioni e le loro libazioni per i tori, i montoni e gli agnelli, secondo il loro numero e seguendo le regole stabilite,
+{29:34} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:35} L’ottavo giorno avrete una solenne assemblea; non farete nessun lavoro ordinario,
+{29:36} e offrirete, come olocausto, come sacrificio consumato dal fuoco, di profumo soave per il Signore, un toro, un montone, sette agnelli dell’anno senza difetti,
+{29:37} con le loro oblazioni e le loro libazioni per il toro, il montone e gli agnelli, secondo il loro numero, seguendo le regole stabilite,
+{29:38} e un capro come sacrificio per il peccato, oltre all’olocausto quotidiano, con la sua oblazione e la sua libazione.
+{29:39} Tali sono i sacrifici che offrirete al Signore nelle vostre solennità, oltre ai vostri voti e alle vostre offerte volontarie, sia che si tratti dei vostri olocausti o delle vostre oblazioni o delle vostre libazioni o dei vostri sacrifici di riconoscenza”».
+{29:40} E Mosè riferì ai figli d’Israele tutto quello che il Signore gli aveva ordinato.
+{i30:1} Legge relativa ai voti
+{30:1} Mosè parlò ai capi delle tribù dei figli d’Israele e disse:
+{30:2} «Questo è l’ordine dato dal Signore: quando uno avrà fatto un voto al Signore o avrà con giuramento assunto un solenne impegno, non verrà meno alla sua parola, ma metterà in pratica tutto quello che ha promesso.
+{30:3} Così pure quando una donna, ancora giovane e nella casa di suo padre, avrà fatto un voto al Signore e avrà assunto un solenne impegno,
+{30:4} se il padre, avendo conoscenza del voto di lei e dell’impegno che ha assunto, non dice nulla a questo proposito, tutti i voti di lei saranno validi e saranno validi tutti gli impegni che ha assunto.
+{30:5} Ma se il padre, il giorno che ne viene a conoscenza, le fa opposizione, tutti i voti di lei e tutti gli impegni che avrà assunto non saranno validi; il Signore glieli condonerà, perché il padre le ha fatto opposizione.
+{30:6} Se si sposa mentre è legata da voti o impegnata da una promessa fatta alla leggera solo con le labbra,
+{30:7} se il marito viene a saperlo e il giorno che ne è informato non dice nulla, i voti di lei saranno validi e saranno validi gli impegni che lei ha assunto.
+{30:8} Ma se il marito, il giorno che ne viene a conoscenza, le fa opposizione, egli annullerà il voto che lei ha fatto, e la promessa che ha proferito alla leggera per la quale si è impegnata; e il Signore gliela condonerà.
+{30:9} Ma il voto di una vedova o di una donna ripudiata, qualunque sia l’impegno che ha assunto, rimarrà valido.
+{30:10} Quando una donna, nella casa di suo marito, farà dei voti o si legherà con un giuramento
+{30:11} e il marito ne avrà conoscenza, se il marito non dice nulla e non le fa opposizione, tutti i voti di lei saranno validi, e saranno validi tutti gli impegni che avrà assunto.
+{30:12} Ma se il marito, il giorno che viene a saperlo, li annulla, tutto ciò che le sarà uscito dalle labbra, siano voti o impegni che ha assunto, non sarà valido; il marito lo ha annullato; e il Signore glielo condonerà.
+{30:13} Il marito può convalidare o annullare qualunque voto e qualunque giuramento per il quale la moglie si è impegnata a mortificare la sua persona.
+{30:14} Ma se il marito, giorno dopo giorno, non dice nulla in proposito, egli convalida così tutti i voti di lei e tutti gli impegni che la moglie ha assunto; li convalida, perché non ha detto nulla a questo proposito il giorno che ne ha avuto conoscenza.
+{30:15} Ma se li annulla qualche tempo dopo averne avuto conoscenza, sarà responsabile del peccato della moglie».
+{30:16} Tali sono le leggi che il Signore prescrisse a Mosè riguardo al marito e alla moglie, al padre e alla figlia, quando questa non è ancora sposata, in casa di suo padre.
+{i31:1} Vittoria d’Israele sui Madianiti
+{31:1} Poi il Signore disse a Mosè: «Vendica il male che i Madianiti hanno fatto ai figli d’Israele;
+{31:2} poi sarai riunito ai tuoi padri».
+{31:3} Allora Mosè disse al popolo: «Mobilitate fra voi degli uomini per la guerra, e marcino contro Madian per eseguire la vendetta del Signore su Madian.
+{31:4} Manderete alla guerra mille uomini per ciascuna delle tribù d’Israele».
+{31:5} Così furono forniti, dalle schiere d’Israele, mille uomini per tribù: cioè dodicimila uomini, armati per la guerra.
+{31:6} Mosè mandò alla guerra quei mille uomini per tribù, e con loro Fineas, figlio del sacerdote Eleazar, il quale portava gli oggetti sacri e aveva in mano le trombe squillanti.
+{31:7} Essi marciarono dunque contro Madian, come il Signore aveva ordinato a Mosè, e uccisero tutti i maschi.
+{31:8} Uccisero pure, con tutti gli altri, i re di Madian: Evi, Rechem, Sur, Cur e Reba, cinque re di Madian. Uccisero pure con la spada Balaam, figlio di Beor.
+{31:9} I figli d’Israele presero prigioniere le donne di Madian e i loro bambini, predarono tutto il loro bestiame, tutte le loro greggi e ogni loro bene;
+{31:10} appiccarono il fuoco a tutte le città che quelli abitavano e a tutti i loro accampamenti,
+{31:11} e presero tutte le spoglie e tutta la preda: gente e bestiame.
+{31:12} Poi condussero i prigionieri, la preda e le spoglie a Mosè, al sacerdote Eleazar e alla comunità dei figli d’Israele, accampati nelle pianure di Moab, presso il Giordano di fronte a Gerico.
+{31:13} Mosè, il sacerdote Eleazar e tutti i capi della comunità uscirono per incontrarli fuori dal campo.
+{31:14} Mosè si adirò contro i comandanti dell’esercito, capi di migliaia e capi di centinaia, che tornavano da quella spedizione di guerra.
+{31:15} Mosè disse loro: «Avete lasciato la vita a tutte le donne?
+{31:16} Ecco, sono esse che, per suggerimento di Balaam, trascinarono i figli d’Israele all’infedeltà verso il Signore, nel fatto di Peor, per cui il flagello scoppiò nella comunità del Signore.
+{31:17} Ora dunque uccidete ogni maschio tra i bambini, e uccidete ogni donna che ha avuto rapporti sessuali con un uomo;
+{31:18} ma tutte le fanciulle che non hanno avuto rapporti sessuali con uomini lasciatele in vita per voi.
+{31:19} E voi accampatevi per sette giorni fuori del campo; chiunque ha ucciso qualcuno e chiunque ha toccato una persona uccisa si purifichi il terzo e il settimo giorno: questo tanto per voi quanto per i vostri prigionieri.
+{31:20} Purificherete anche ogni veste, ogni oggetto di pelle, ogni tessuto di pelo di capra e ogni utensile di legno».
+{31:21} Il sacerdote Eleazar disse ai soldati che erano andati alla guerra: «Queste sono le disposizioni della legge che il Signore ha prescritto a Mosè:
+{31:22} l’oro, l’argento, il bronzo, il ferro, lo stagno e il piombo,
+{31:23} tutte le cose che resistono al fuoco, le farete passare per il fuoco e saranno rese pure; ma saranno purificate anche con l’acqua di purificazione; e tutte le cose che non resistono al fuoco, le farete passare nell’acqua.
+{31:24} Vi laverete le vesti il settimo giorno e sarete puri; poi potrete entrare nel campo».
+{31:25} Il Signore disse ancora a Mosè:
+{31:26} «Tu, con il sacerdote Eleazar e con i capi famiglia della comunità, fa’ il conto di tutta la preda che è stata fatta: della gente e del bestiame;
+{31:27} e dividi la preda fra i combattenti, che sono andati in guerra, e tutta la comunità.
+{31:28} Dalla parte spettante ai soldati, che sono andati in guerra, preleverai un tributo per il Signore: cioè uno su cinquecento, tanto delle persone quanto dei buoi, degli asini e delle pecore.
+{31:29} Lo prenderete sulla loro metà e lo darai al sacerdote Eleazar come offerta al Signore.
+{31:30} Dalla metà che spetta ai figli d’Israele prenderai uno su cinquanta, tanto delle persone quanto dei buoi, degli asini, delle pecore, di tutto il bestiame e lo darai ai Leviti, che hanno l’incarico del tabernacolo del Signore ».
+{31:31} Mosè e il sacerdote Eleazar fecero come il Signore aveva ordinato a Mosè.
+{31:32} Or la preda, cioè quello che rimaneva del bottino fatto dagli uomini che erano stati alla guerra, consisteva in seicentosettantacinquemila pecore,
+{31:33} settantaduemila buoi, sessantunmila asini
+{31:34} e trentaduemila persone, ossia donne
+{31:35} che non avevano avuto rapporti sessuali con uomini.
+{31:36} La metà, cioè la parte di quelli che erano andati alla guerra, fu di trecentotrentasettemilacinquecento pecore,
+{31:37} delle quali seicentosettantacinque per il tributo al Signore;
+{31:38} trentaseimila bovini, dei quali settantadue per il tributo al Signore;
+{31:39} trentamilacinquecento asini, dei quali sessantuno per il tributo al Signore,
+{31:40} e sedicimila persone, delle quali trentadue per il tributo al Signore.
+{31:41} Mosè diede al sacerdote Eleazar il tributo prelevato per l’offerta al Signore, come il Signore gli aveva ordinato.
+{31:42} La metà che spettava ai figli d’Israele, dopo che Mosè ebbe fatta la spartizione con gli uomini andati alla guerra, la metà spettante alla comunità
+{31:43} fu di trecentotrentasettemilacinquecento pecore,
+{31:44} trentaseimila buoi,
+{31:45} trentamilacinquecento asini e sedicimila persone.
+{31:46} Da questa metà,
+{31:47} che spettava ai figli d’Israele, Mosè prese uno su cinquanta, tanto degli uomini quanto degli animali, e li diede ai Leviti che hanno l’incarico del tabernacolo del Signore, come il Signore aveva ordinato a Mosè.
+{31:48} I comandanti dei reparti dell’esercito, capi di migliaia e capi di centinaia, si avvicinarono a Mosè e gli dissero:
+{31:49} «I tuoi servi hanno fatto il conto dei soldati che erano ai nostri ordini e non ne manca neppure uno.
+{31:50} Noi portiamo, come offerta al Signore, ciascuno gli oggetti d’oro che ha trovato: catenelle, braccialetti, anelli, pendenti, collane, per fare l’espiazione per le nostre persone davanti al Signore ».
+{31:51} Mosè e il sacerdote Eleazar presero dalle loro mani tutto quell’oro in gioielli lavorati.
+{31:52} Tutto l’oro dell’offerta che essi presentarono al Signore, da parte dei capi di migliaia e dei capi di centinaia, pesava sedicimilasettecentocinquanta sicli.
+{31:53} Ma gli uomini dell’esercito si tennero il bottino che ognuno aveva fatto per conto suo.
+{31:54} Mosè e il sacerdote Eleazar presero l’oro dei capi di migliaia e di centinaia e lo portarono nella tenda di convegno per ricordare al Signore i figli d’Israele.
+{i32:1} Il paese di Galaad concesso alle tribù di Gad e di Ruben
+{32:1} I figli di Ruben e i figli di Gad avevano del bestiame in grandissimo numero; e quando videro che il paese di Iazer e il paese di Galaad erano luoghi da bestiame,
+{32:2} i figli di Gad e i figli di Ruben vennero a parlare a Mosè, al sacerdote Eleazar e ai prìncipi della comunità, e dissero:
+{32:3} «Atarot, Dibon, Iazer, Nimra, Chesbon, Eleale, Sebam, Nebo e Beon,
+{32:4} terre che il Signore ha colpito davanti alla comunità d’Israele, sono terre da bestiame, e i tuoi servi hanno del bestiame».
+{32:5} Dissero ancora: «Se abbiamo trovato grazia agli occhi tuoi, sia concesso ai tuoi servi di possedere questo paese. Non ci far passare il Giordano».
+{32:6} Ma Mosè rispose ai figli di Gad e ai figli di Ruben: «I vostri fratelli andranno dunque a combattere e voi ve ne starete qui?
+{32:7} Perché volete scoraggiare i figli d’Israele dal passare nel paese che il Signore ha loro dato?
+{32:8} Così fecero i vostri padri quando li mandai da Cades-Barnea per esplorare il paese.
+{32:9} Salirono fino alla valle di Escol; e, dopo aver esplorato il paese, scoraggiarono i figli d’Israele dall’entrare nel paese che il Signore aveva dato loro.
+{32:10} L’ira del Signore si accese in quel giorno, ed egli giurò:
+{32:11} “Gli uomini che sono saliti dall’Egitto, dall’età di vent’anni in su, non vedranno mai il paese che promisi con giuramento ad Abraamo, a Isacco e a Giacobbe, perché non mi hanno seguito fedelmente,
+{32:12} salvo Caleb, figlio di Gefunne, il Chenizeo, e Giosuè, figlio di Nun, che hanno seguito il Signore fedelmente”.
+{32:13} L’ira del Signore si accese contro Israele; ed egli lo fece andare vagando per il deserto durante quarant’anni, finché tutta la generazione che aveva fatto ciò che è male agli occhi del Signore fu consumata.
+{32:14} Ed ecco che voi prendete il posto dei vostri padri, razza di uomini peccatori, per rendere l’ira del Signore ancora più ardente contro Israele.
+{32:15} Perché se voi vi sviate da lui, egli continuerà a lasciare Israele nel deserto e voi farete perire tutto questo popolo».
+{32:16} Ma quelli si avvicinarono a Mosè e gli dissero: «Noi costruiremo qui dei recinti per il nostro bestiame e delle città per i nostri figli;
+{32:17} ma, quanto a noi, ci terremo pronti, in armi, per marciare alla testa dei figli d’Israele, finché li abbiamo condotti al luogo loro destinato; intanto i nostri figli abiteranno nelle città fortificate a causa degli abitanti del paese.
+{32:18} Non torneremo alle nostre case finché ciascuno dei figli d’Israele non abbia preso possesso della sua eredità;
+{32:19} e non possederemo nulla con loro di là dal Giordano e più oltre, poiché la nostra eredità ci è toccata da questa parte del Giordano, a oriente».
+{32:20} E Mosè disse loro: «Se fate questo, se vi armate per andare a combattere davanti al Signore,
+{32:21} se le vostre truppe passeranno il Giordano davanti al Signore finché egli abbia cacciato i suoi nemici dalla sua presenza,
+{32:22} e se tornate solo quando il paese vi sarà sottomesso davanti al Signore, voi non sarete colpevoli di fronte al Signore e di fronte a Israele, e questo paese sarà vostra proprietà davanti al Signore.
+{32:23} Ma se non fate così, voi avrete peccato contro il Signore; e sappiate che il vostro peccato vi ritroverà.
+{32:24} Costruite dunque delle città per i vostri figli e dei recinti per le vostre greggi, ma fate quello che avete promesso».
+{32:25} E i figli di Gad e i figli di Ruben dissero a Mosè: «I tuoi servi faranno quello che il mio signore comanda.
+{32:26} I nostri bambini, le nostre mogli, le nostre greggi e tutto il nostro bestiame rimarranno qui nella città di Galaad;
+{32:27} ma i tuoi servi, tutti quanti armati per la guerra, andranno a combattere davanti al Signore, come dice il mio signore».
+{32:28} Allora Mosè diede per loro degli ordini al sacerdote Eleazar, a Giosuè figlio di Nun e ai capi famiglia delle tribù dei figli d’Israele.
+{32:29} Mosè disse loro: «Se i figli di Gad e i figli di Ruben passano con voi il Giordano tutti armati per combattere davanti al Signore e se il paese sarà sottomesso davanti a voi, darete loro come proprietà il paese di Galaad.
+{32:30} Ma se non passano armati con voi, avranno la loro proprietà tra di voi nel paese di Canaan».
+{32:31} I figli di Gad e i figli di Ruben risposero dicendo: «Faremo come il Signore ha detto ai tuoi servi.
+{32:32} Passeremo in armi, davanti al Signore, nel paese di Canaan; ma il possesso della nostra eredità resti, per noi, di qua dal Giordano».
+{32:33} Mosè dunque diede ai figli di Gad, ai figli di Ruben e alla metà della tribù di Manasse, figlio di Giuseppe, il regno di Sicon, re degli Amorei, e il regno di Og, re di Basan: il paese, le sue città e i territori delle città del paese all’intorno.
+{32:34} I figli di Gad costruirono Dibon, Atarot, Aroer,
+{32:35} Atrot-Sofan, Iazer, Iogbea,
+{32:36} Bet-Nimra e Bet-Aran, città fortificate, e fecero dei recinti per le greggi.
+{32:37} I figli di Ruben costruirono Chesbon, Eleale, Chiriataim,
+{32:38} Nebo e Baal-Meon, i cui nomi furono mutati, e Sibma. Essi diedero il nome alle città che costruirono.
+{32:39} I figli di Machir, figlio di Manasse, andarono nel paese di Galaad, lo presero e ne cacciarono gli Amorei che vi stavano.
+{32:40} Mosè dunque diede Galaad a Machir, figlio di Manasse, che vi si stabilì.
+{32:41} Iair, figlio di Manasse, andò anche lui e prese i borghi, che chiamò Borghi di Iair.
+{32:42} Noba andò e prese Chenat con i suoi villaggi, e la chiamò Noba, secondo il proprio nome.
+{i33:1} Tappe degli Israeliti durante il loro esodo
+{33:1} Queste sono le tappe fatte dai figli d’Israele che uscirono dal paese d’Egitto, divisi in schiere, sotto la guida di Mosè e di Aaronne.
+{33:2} Mosè mise per iscritto le loro marce, tappa per tappa, per ordine del Signore; e queste sono le tappe che fecero nel loro cammino.
+{33:3} Partirono da Ramses il primo mese, il quindicesimo giorno di quel mese. Il giorno dopo la Pasqua i figli d’Israele partirono a testa alta, sotto gli occhi di tutti gli Egiziani,
+{33:4} mentre gli Egiziani seppellivano quelli che il Signore aveva colpiti in mezzo a loro, cioè tutti i primogeniti, quando anche i loro dèi erano stati colpiti dal giudizio del Signore.
+{33:5} I figli d’Israele partirono dunque da Ramses e si accamparono a Succot.
+{33:6} Partirono da Succot e si accamparono a Etam, che è all’estremità del deserto.
+{33:7} Partirono da Etam e piegarono verso Pi-Achirot, che è di fronte a Baal-Sefon, e si accamparono davanti a Migdol.
+{33:8} Partirono da davanti ad Achirot, attraversarono il mare in direzione del deserto, fecero tre giornate di marcia nel deserto di Etam e si accamparono a Mara.
+{33:9} Partirono da Mara e andarono a Elim, dove c’erano dodici sorgenti d’acqua e settanta palme. Là si accamparono.
+{33:10} Partirono da Elim e si accamparono presso il mar Rosso.
+{33:11} Partirono dal mar Rosso e si accamparono nel deserto di Sin.
+{33:12} Partirono dal deserto di Sin e si accamparono a Dofca.
+{33:13} Partirono da Dofca e si accamparono ad Alus.
+{33:14} Partirono da Alus e si accamparono a Refidim, dove non c’era acqua da bere per il popolo.
+{33:15} Partirono da Refidim e si accamparono nel deserto del Sinai.
+{33:16} Partirono dal deserto del Sinai e si accamparono a Chibrot-Attaava.
+{33:17} Partirono da Chibrot-Attaava e si accamparono ad Aserot.
+{33:18} Partirono da Aserot e si accamparono a Ritma.
+{33:19} Partirono da Ritma e si accamparono a Rimmon-Perez.
+{33:20} Partirono da Rimmon-Perez e si accamparono a Libna.
+{33:21} Partirono da Libna e si accamparono a Rissa.
+{33:22} Partirono da Rissa e si accamparono a Cheelata.
+{33:23} Partirono da Cheelata e si accamparono al monte di Sefer.
+{33:24} Partirono dal monte di Sefer e si accamparono a Carada.
+{33:25} Partirono da Carada e si accamparono a Machelot.
+{33:26} Partirono da Machelot e si accamparono a Taat.
+{33:27} Partirono da Taat e si accamparono a Tarac.
+{33:28} Partirono da Tarac e si accamparono a Mitca.
+{33:29} Partirono da Mitca e si accamparono a Casmona.
+{33:30} Partirono da Casmona e si accamparono a Moserot.
+{33:31} Partirono da Moserot e si accamparono a Bene-Iaacan.
+{33:32} Partirono da Bene-Iaacan e si accamparono a Or-Ghidgad.
+{33:33} Partirono da Or-Ghidgad e si accamparono a Iotbata.
+{33:34} Partirono da Iotbata e si accamparono ad Abrona.
+{33:35} Partirono da Abrona e si accamparono a Esion-Gheber.
+{33:36} Partirono da Esion-Gheber e si accamparono nel deserto di Sin, cioè a Cades.
+{33:37} Poi partirono da Cades e si accamparono al monte Or, all’estremità del paese di Edom.
+{33:38} E il sacerdote Aaronne salì sul monte Or per ordine del Signore e lì morì, quarant’anni dopo l’uscita dei figli d’Israele dal paese d’Egitto, il quinto mese, il primo giorno del mese.
+{33:39} Aaronne era in età di centoventitré anni quando morì sul monte Or.
+{33:40} Il re di Arad, cananeo, che abitava il mezzogiorno del paese di Canaan, udì che i figli d’Israele arrivavano.
+{33:41} Quelli partirono dal monte Or e si accamparono a Salmona.
+{33:42} Partirono da Salmona e si accamparono a Punon.
+{33:43} Partirono da Punon e si accamparono a Obot.
+{33:44} Partirono da Obot e si accamparono a Iie-Abarim, sui confini di Moab.
+{33:45} Partirono da Iim e si accamparono a Dibon-Gad.
+{33:46} Partirono da Dibon-Gad e si accamparono ad Almon-Diblataim.
+{33:47} Partirono da Almon-Diblataim e si accamparono sui monti di Abarim di fronte a Nebo.
+{33:48} Partirono dai monti di Abarim e si accamparono nelle pianure di Moab, presso il Giordano di fronte a Gerico.
+{33:49} Si accamparono presso il Giordano, da Bet-Iesimot fino ad Abel-Sittim, nelle pianure di Moab.
+{i33:50} La proscrizione dei Cananei
+{33:50} Il Signore parlò a Mosè nelle pianure di Moab, presso il Giordano di fronte a Gerico, e disse:
+{33:51} «Parla ai figli d’Israele e di’ loro: “Quando avrete passato il Giordano e sarete entrati nel paese di Canaan,
+{33:52} scaccerete d’innanzi a voi tutti gli abitanti del paese, distruggerete tutte le loro immagini, distruggerete tutte le loro statue di metallo fuso e demolirete tutti i loro luoghi sacri.
+{33:53} Prenderete possesso del paese e in esso vi stabilirete, perché io ve l’ho dato affinché lo possediate.
+{33:54} Dividerete il paese a sorte, secondo le vostre famiglie. A quelle che sono più numerose darete una porzione maggiore e a quelle che sono meno numerose darete una porzione minore. Ognuno possederà quello che gli sarà toccato in sorte; vi spartirete la proprietà secondo le tribù dei vostri padri.
+{33:55} Ma se non scacciate d’innanzi a voi gli abitanti del paese, quelli di loro che vi avrete lasciato saranno per voi come spine negli occhi e pungoli nei fianchi e vi faranno tribolare nel paese che abiterete.
+{33:56} E avverrà che io tratterò voi come mi ero proposto di trattare loro”».
+{i34:1} Frontiere del paese di Canaan; ordine per la divisione del paese
+{34:1} Il Signore disse ancora a Mosè:
+{34:2} «Da’ quest’ordine ai figli d’Israele e di’ loro: “Quando entrerete nel paese di Canaan, questo sarà il paese che vi toccherà come eredità, il paese di Canaan, di cui ecco i confini:
+{34:3} la vostra regione meridionale comincerà al deserto di Sin, vicino a Edom; così la vostra frontiera meridionale partirà dall’estremità del mar Salato, verso oriente;
+{34:4} e questa frontiera volgerà al sud della salita di Acrabbim, passerà per Sin e si estenderà a mezzogiorno di Cades-Barnea; poi continuerà verso Casar-Addar e passerà per Asmon.
+{34:5} Da Asmon la frontiera girerà fino al torrente d’Egitto e finirà al mare.
+{34:6} La vostra frontiera a occidente sarà il mar Grande: quella sarà la vostra frontiera occidentale.
+{34:7} Questa sarà la vostra frontiera settentrionale: partendo dal mar Grande, la traccerete fino al monte Or;
+{34:8} dal monte Or la traccerete fino all’entrata di Camat, e l’estremità della frontiera sarà a Sedad;
+{34:9} la frontiera continuerà fino a Zifron, per finire a Casar-Enan: questa sarà la vostra frontiera settentrionale.
+{34:10} Traccerete la vostra frontiera orientale da Casar-Enan a Sefam;
+{34:11} la frontiera scenderà da Sefam verso Ribla, a oriente di Ain; poi la frontiera scenderà e si estenderà lungo il mare di Chinneret, a oriente;
+{34:12} poi la frontiera scenderà verso il Giordano e finirà al mar Salato. Tale sarà il vostro paese con le sue frontiere tutto intorno”».
+{34:13} Mosè trasmise quest’ordine ai figli d’Israele e disse loro: «Questo è il paese che vi distribuirete a sorte, il paese che il Signore ha ordinato si dia a nove tribù e mezzo;
+{34:14} poiché la tribù dei figli di Ruben, secondo le loro famiglie, e la tribù dei figli di Gad, secondo le loro famiglie, e la mezza tribù di Manasse hanno ricevuto la loro porzione.
+{34:15} Queste due tribù e mezzo hanno ricevuto la loro porzione a est, oltre il Giordano, all’altezza di Gerico, verso il levante».
+{34:16} Il Signore disse a Mosè:
+{34:17} «Questi sono i nomi degli uomini che spartiranno il paese tra di voi: il sacerdote Eleazar e Giosuè, figlio di Nun.
+{34:18} Prenderete anche un capo di ogni tribù per spartire il paese.
+{34:19} Ecco i nomi di questi uomini. Per la tribù di Giuda: Caleb, figlio di Gefunne.
+{34:20} Per la tribù dei figli di Simeone: Samuele, figlio di Ammiud.
+{34:21} Per la tribù di Beniamino: Elidad, figlio di Chislon.
+{34:22} Per la tribù dei figli di Dan: il capo Buchi, figlio di Iogli.
+{34:23} Per i figli di Giuseppe – per la tribù dei figli di Manasse: il capo Canniel, figlio di Efod –
+{34:24} e per la tribù dei figli di Efraim: il capo Chemuel, figlio di Siftan.
+{34:25} Per la tribù dei figli di Zabulon: il capo Elisafan, figlio di Parnac.
+{34:26} Per la tribù dei figli di Issacar: il capo Paltiel, figlio di Azzan.
+{34:27} Per la tribù dei figli di Ascer: il capo Aiud, figlio di Selomi.
+{34:28} E per la tribù dei figli di Neftali: il capo Pedael, figlio di Ammiud.
+{34:29} Queste sono le persone alle quali il Signore ordinò di spartire la proprietà del paese di Canaan tra figli d’Israele.
+{i35:1} Le quarantotto città levitiche
+{35:1} Il Signore parlò ancora a Mosè nelle pianure di Moab presso il Giordano, di fronte a Gerico, e disse:
+{35:2} «Ordina ai figli d’Israele di dare ai Leviti delle città da abitare, prendendole dall’eredità che sarà loro; darete pure ai Leviti la campagna che è intorno a quelle città.
+{35:3} Essi avranno le città per abitarvi; e la campagna servirà per il loro bestiame, per i loro beni e per tutti i loro animali.
+{35:4} La campagna circostante alle città che darete ai Leviti si estenderà tutto intorno per lo spazio di mille cubiti fuori dalle mura della città.
+{35:5} Misurerete dunque, fuori della città, duemila cubiti dal lato orientale, duemila cubiti dal lato meridionale, duemila cubiti dal lato occidentale e duemila cubiti dal lato settentrionale; la città sarà in mezzo. Tale sarà la campagna di ciascuna delle loro città.
+{35:6} Fra le città che darete ai Leviti ci saranno le sei città di rifugio, che voi designerete perché vi si rifugi l’omicida; e a queste aggiungerete altre quarantadue città.
+{35:7} Tutte le città che darete ai Leviti saranno dunque quarantotto, con la relativa campagna.
+{35:8} Di queste città che darete ai Leviti, prendendole dalla proprietà dei figli d’Israele, ne prenderete di più da quelli che ne hanno di più e di meno da quelli che ne hanno di meno; delle sue città, ognuno darà ai Leviti in proporzione all’eredità che gli sarà toccata».
+{i35:9} Le sei città di rifugio
+{35:9} Poi il Signore disse a Mosè:
+{35:10} «Parla ai figli d’Israele e di’ loro: “Quando avrete passato il Giordano e sarete entrati nel paese di Canaan,
+{35:11} designerete delle città che siano per voi delle città di rifugio, dove possa mettersi in salvo l’omicida che avrà ucciso qualcuno involontariamente.
+{35:12} Queste città vi serviranno di rifugio contro chi vuole vendicare il sangue versato, affinché l’omicida non sia messo a morte prima di essere comparso in giudizio davanti alla comunità.
+{35:13} Delle città che darete, sei saranno dunque per voi città di rifugio.
+{35:14} Darete tre città di qua dal Giordano e ne darete tre nel paese di Canaan; saranno città di rifugio.
+{35:15} Queste sei città serviranno di rifugio ai figli d’Israele, allo straniero e a colui che soggiornerà tra di voi, affinché vi scampi chiunque abbia ucciso qualcuno involontariamente.
+{35:16} Ma se uno colpisce un altro con uno strumento di ferro e ne causa la morte, quel tale è un omicida; l’omicida dovrà essere punito con la morte.
+{35:17} Se lo colpisce con una pietra che aveva in mano, atta a causare la morte, e il colpito muore, quel tale è un omicida; l’omicida dovrà essere punito con la morte.
+{35:18} Se lo colpisce con uno strumento di legno che aveva in mano, atto a causare la morte, e il colpito muore, quel tale è un omicida; l’omicida dovrà essere punito con la morte.
+{35:19} Sarà il vendicatore del sangue colui che metterà a morte l’omicida; quando lo incontrerà, lo ucciderà.
+{35:20} Se uno dà una spinta a un altro per odio, o gli getta contro qualcosa con premeditazione, in modo che quello muoia,
+{35:21} o lo colpisce per inimicizia con la mano, in modo che quello muoia, colui che ha colpito dovrà essere punito con la morte: è un omicida; il vendicatore del sangue ucciderà l’omicida quando lo incontrerà.
+{35:22} Ma se gli dà una spinta per caso e non per inimicizia, o gli getta contro qualcosa senza premeditazione,
+{35:23} o se, senza vederlo, gli fa cadere addosso una pietra che possa causare la morte, e quello muore, senza che l’altro gli fosse nemico o gli volesse fare del male,
+{35:24} allora ecco le norme secondo le quali la comunità giudicherà tra colui che ha colpito e il vendicatore del sangue.
+{35:25} La comunità libererà l’omicida dalle mani del vendicatore del sangue e lo farà tornare alla città di rifugio dove si era messo in salvo. Qui abiterà fino alla morte del sommo sacerdote consacrato con l’olio santo.
+{35:26} Ma se l’omicida esce dai confini della città di rifugio dove aveva trovato asilo,
+{35:27} e se il vendicatore del sangue trova l’omicida fuori dei confini della sua città di rifugio e lo uccide, il vendicatore del sangue non sarà responsabile del sangue versato.
+{35:28} Poiché l’omicida deve stare nella sua città di rifugio fino alla morte del sommo sacerdote; ma dopo la morte del sommo sacerdote l’omicida potrà tornare nella terra di sua proprietà.
+{35:29} Queste vi servano come norme di diritto, di generazione in generazione, dovunque abiterete.
+{35:30} Se uno uccide un altro, l’omicida sarà messo a morte in seguito a deposizione di testimoni; ma un unico testimone non basterà per far condannare a morte una persona.
+{35:31} Non accetterete prezzo di riscatto per la vita di un omicida colpevole e degno di morte, perché dovrà essere punito con la morte.
+{35:32} Non accetterete prezzo di riscatto che permetta a un omicida di mettersi in salvo nella sua città di rifugio e di ritornare ad abitare nel paese prima della morte del sacerdote.
+{35:33} Non contaminerete il paese dove sarete, perché il sangue contamina il paese; non si potrà fare per il paese alcuna espiazione del sangue che vi sarà stato sparso, se non mediante il sangue di colui che l’avrà sparso.
+{35:34} Non contaminerete dunque il paese che andate ad abitare, e in mezzo al quale io dimorerò; poiché io sono il Signore che dimoro in mezzo ai figli d’Israele”».
+{i36:1} Divieto alle fanciulle eredi di sposarsi fuori delle loro tribù
+{36:1} I capi famiglia dei figli di Galaad, figlio di Machir, figlio di Manasse, della famiglia di Giuseppe, si fecero avanti a parlare in presenza di Mosè e dei capi, i primi delle famiglie degli Israeliti,
+{36:2} e dissero: «Il Signore ha ordinato al mio signore di dare il paese in eredità ai figli d’Israele, a sorte; il mio signore ha pure ricevuto l’ordine dal Signore di dare l’eredità di Selofead, nostro fratello, alle sue figlie.
+{36:3} Se queste si sposano con qualcuno dei figli delle altre tribù israelite la loro eredità sarà detratta dall’eredità dei nostri padri, e aggiunta all’eredità della tribù nella quale esse saranno entrate; così sarà detratta dall’eredità che ci è toccata in sorte.
+{36:4} E quando verrà il giubileo per i figli d’Israele, la loro eredità sarà aggiunta a quella della tribù nella quale saranno entrate e l’eredità loro sarà detratta dall’eredità della tribù dei nostri padri».
+{36:5} Mosè trasmise ai figli d’Israele questi ordini del Signore, e disse: «La tribù dei figli di Giuseppe dice bene.
+{36:6} Questo è quanto il Signore ha ordinato riguardo alle figlie di Selofead: si sposeranno con chi vorranno, purché si sposino in una famiglia della tribù dei loro padri.
+{36:7} Cosicché nessuna eredità, tra i figli d’Israele, passerà da una tribù all’altra, poiché ciascuno dei figli d’Israele si terrà stretto all’eredità della tribù dei suoi padri.
+{36:8} Ogni giovane donna che possiede un’eredità in una delle tribù dei figli d’Israele si sposerà con qualcuno di una famiglia della tribù di suo padre, affinché ognuno dei figli d’Israele possieda l’eredità dei suoi padri.
+{36:9} Così nessuna eredità passerà da una tribù all’altra, ma ognuna delle tribù dei figli d’Israele si terrà stretta alla propria eredità».
+{36:10} Le figlie di Selofead si conformarono all’ordine che il Signore aveva dato a Mosè.
+{36:11} Maala, Tirsa, Cogla, Milca e Noa, figlie di Selofead, si sposarono con i figli dei loro zii;
+{36:12} si sposarono nelle famiglie dei figli di Manasse, figlio di Giuseppe, e la loro eredità rimase nella tribù della famiglia del loro padre.
+{36:13} Tali sono i comandamenti e le leggi che il Signore diede ai figli d’Israele per mezzo di Mosè, nelle pianure di Moab, presso il Giordano, di fronte a Gerico.

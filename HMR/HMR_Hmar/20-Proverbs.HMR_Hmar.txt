@@ -1,0 +1,915 @@
+{1:1} Israel lal Davida naupa Solomon thuvarhai chu:
+{1:2} Varna le inchûktirna tha dong theina ding le thu inril hriet thiem theina ding dâm,
+{1:3} Var taka khawsak dàn dâm, indik tak le thlei bîk nei loa ro rêl thiem theina ding dâm,
+{1:4} Mi mawlhai sukvar a, hrietna le fîmkhur taka remruot thiemna thalaihai pe ding dâm,
+{1:5} Mi varhan ngàithla a, hrietna an sukpungna ding dâm, hrietthiemna nei mihaiin thuoitua an hmang theina ding dâm,
+{1:6} Thuvar hai, tekhinthu hai, mi varhai thu le hla khirh hai an hriet thiem theina ding dâmin.
+{1:7} LALPA ti hi hrietna tobul a nih,Mi invêthai ruok chun varna le inchûktirna chu an hmusit hlak.
+{1:8} Ka naupa, i pa zirtirnahai che hi ngàithla la,I nu inchûktirna khom nghatsan naw rawh.
+{1:9} I lu cheimawitu tonlairang nîng a ta,I rîng mawitu thî ni bok a tih.
+{1:10} Ka naupa, mi suolhai zawr thlûkin um naw rawh.
+{1:11} "Hung rawh, thisen insuo dingin,Anni chu inchân ei ta,Poi tawk lohai chu lambun ei ta,
+{1:12} Thlàn ang elin anni rawi chu,A hring pumin dol vong ei tih,Khuorkhurûma tlahai ang elin;
+{1:13} Ro hlu tam tak hmûng ei ta,Ei thil rokhaiin ei inhai sungsip ei tiu;
+{1:14} Keini tieng hin hung thang la,Poisa bawm intâwm ei tiu"Tia an zâwr chê khomin,
+{1:15} Ka naupa, anni lai thang ve naw la,An lampui hraw ve naw rawh.
+{1:16} Thil suol hnotin ke an pên a,Thisen insuo dingin an kut a tuonrang.
+{1:17} Vatêhai hmù lai zing a,Lèn châng kam chu a hlawk nawh.
+{1:18} Chuong mihaiin an inchân chu,Anni thisen bok a na,Mani inlambun an nih.
+{1:19} Hlawkna indik lo hnottuhai chu,Chuong ang chu an tawpna a nih,A neituhai hringna ngêi a làkpèk hlak.
+{1:20} Kotthlêr le tuolzawla hai,Varna chun tlâng a'n sam a;
+{1:21} Kotthlêr lûn lai a khêk a,Khawpui kotsuoah thu a hril:
+{1:22} "Mi mawlhai, ieng chen top am,In la mawl zing ding a na?angni varna deusawtuhai,Ieng chen am in deusaw ding?
+{1:23} Ka zilna cheu ngàithla unla chu,Ka lungril nangni tieng hongin,Ka thu ka hril ding cheu a ni bah!
+{1:24} Kuta hûiin ka ko cheu a,In mi ûksak nuom si nawh.
+{1:25} Ka thurawn la nuom lo a,Ka zilna in pom naw leiin,
+{1:26} Siet in tuok pha leh innui ka ta,Vàngduoinan a tlâkbuok pha cheu,Ka nuisaw ve ding cheu a nih;
+{1:27} A nih, thlipui anga a nuoi pha cheu,Thawngaleivir anga a làk pha cheu,Lungngai buoinan a chìm pha cheu,
+{1:28} Mi ko in ta, don naw ning cheu;Mi zong in ta, mi hmu naw ti niu.
+{1:29} Hrietna chu in theida a,LALPA in ti nuom naw a,
+{1:30} Ka thurawnhai pom nuom lo a,Ka zilnahai in hmusit leiin,
+{1:31} In nun rà chu fa tâng in ta,In remruot chun insukkhop in tih.
+{1:32} Mi mawlhan an mawl invaina,An la thipui ding a na,Invêthan an ngai sukngamna,An la sietpui bok ding a nih.
+{1:33} Ka thu ngàitu chu him a ta,Sietna hrim hrim ti ve loin,Lungmuong takin khawsâng a tih.
+{2:1} Ka naupa, ka thuhai hi pom la,
+{2:2} Varna tieng i na daw la,Hre thiem dingin i lungril pe rawh.
+{2:3} Thu ril hriet theina chu zong la,Hriet thiem theina hni hlak rawh.
+{2:4} Tangkaruo anga zonga,Ro phùm rûk anga i dap chun,
+{2:5} LALPA ti nachang hung hre-in,Pathien hrietna man suok i tih.
+{2:6} Varna petu chu LALPA a na,Hrietna le hmu fûk theina chu,Amaa inthoka suok a nih.
+{2:7} Mi ngîlhai ta dingin hlawtlingna,A lo sêk khawmpêk hlak a,Indik taka kalchawituhai ta din,Ama chu an phaw a ni bok.
+{2:8} Mi indikhai kalchawi a vèngpêk a,Ama ringtuhai lampui a hum hlak.
+{2:9} Chuongchun, thil fel, indik le inlai,Lampui tha tinrêng hung hrieng i tih.
+{2:10} Varna chu i lungrilah hung lût a ta,Hrietna chun i nun sukinhoi a tih.
+{2:11} Fimkhur thiemnan enkai a ti che a,Hrietthiemna chun vêng a ti che.
+{2:12} Mi rilohai lampuia inthok le Thu teplo hril hmanghaia inthokin,Varna chun san suok a ti che.
+{2:13} Anni chun lam ngìl pètsanin,Lampui inthimah an lùt a;
+{2:14} Thil tha naw thaw an hlimpui a,Suol hèm kawia um an lawm bok.
+{2:15} An lampuihai a kikawi a,Suol tieng awn tlat mi an nih.
+{2:16} Kam thluma lawithlèmtu che,Nuhmei suol lakah vêng a ti che;
+{2:17} Pathien hmaa a thu tiem ngainêp a,A vàng lai koppui lêrsantu a nih.
+{2:18} A in tieng pan chu thìna a na,A lampui chun mithi khuo a sun.
+{2:19} A in pantuhai chu tu khom,An hung kîr nawk tah ngai naw a,Hringna lam an paw ta ngai nawh.
+{2:20} Mi thahai lampui chu hraw la,Mi felhai lampuiah kal chawi rawh.
+{2:21} Mi ngîlhai chun ram hluong an ta,Dem kai lohai chu chêng zing an tih.
+{2:22} Mi rilohai chu sàt thlâk nîng an ta,Phatsantuhai chu phawi hmang nîng an tih.
+{3:1} Ka naupa, ka zirtirna hi theinghil naw la,Ka thupêkhai i lungrilin vong tlat rawh.
+{3:2} Chuongchun sawt tak dam i ta,Vàngneina vûrin um i tih.
+{3:3} Hmangaina le ringumnahai,Inthlà ngai hrim hrim naw la,I rîngah hlì zing hlak la,I lungril phêkah ziek rawh.
+{3:4} ​Pathien le mihriemhai lakah,Ditsakna le hming tha hlawng i tih.
+{3:5} I lungril po poin LALPA ring la,I hrietnaah innghat naw rawh.
+{3:6} I thilthaw taphotah ama hre la,I lampui suktluongpêk a ti che.
+{3:7} Mani var inti ngai naw la,LALPA tì la, suol màksan rawh.
+{3:8} I taksa'n hrisel phang a ta,I rùhai khom sukhràt a tih.
+{3:9} I thil neiin LALPA chawimawi la,I tharsuok hmasahai po po khomin;
+{3:10} Chuongchun, i bu in sung vûm a ta,I dawnbèl uoiin tharin sung sip a tih.
+{3:11} LALPA thununna chè chu,Ka naupa, ngainêp naw la,A zilna chè khom theidà naw rawh.
+{3:12} Pain a nau dit a thunun angin,LALPAN a hmangaihai a zil hlak.
+{3:13} Varna hmu phâktu chu a hamtha,Hrietthiemna nei phâktu khom.
+{3:14} Tangkaruo nei nêkin a hlawk a,Rangkachak nêk daiin a hlu lem.
+{3:15} Lunghlu rubi nèkin a hlu lem a,Duthusàm ieng khomin a tluk nawh.
+{3:16} A chang tieng dam sawtna a um,A voi tieng hausakna le ropuina.
+{3:17} A lampuihai chu a hlimum a,Thlamuongna lampui vong a nih.
+{3:18} A cheltu din hringna thing a na,A pomtu taphot hamthâng an tih.
+{3:19} LALPA chun varna hmangin,Leihnuoi bulthut a phûm a,Hrietna hmangin vànvèl a'n din.
+{3:20} A hrietnan li inthûkhai a sukthe a,Sûm hmangin daidaw a'n tlâktir.
+{3:21} Bûk thiemna le fimkhur thiemna,Ka naupa, vong tlat hlak la,I hmu phâk loah inthlà naw rawh.
+{3:22} I nun sukhringtu nîng a ta,I rîng cheimawitu ni bok a tih.
+{3:23} Nghet takin kal chawi i ta,I sir inphet ngai naw nih.
+{3:24} Ti loin zâl hmun rem i ta,Imu inhnik takin in i tih.
+{3:25} Mi suolhan sietna an tuok ang,Tuok ve thut inlau naw rawh.
+{3:26} LALPAN vêng tlat a ti che a,I ke chânga awk phal naw nih.
+{3:27} I thaw thei thil a ni phot chun,Mamawhai pêk di'n i thil tha nei, Inro ngai hrim hrim naw rawh.
+{3:28} Nuoma i pèk thei zing si,"Zîngah hung la, pêng ka ti che"I tuolbawm kuomah ti naw rawh.
+{3:29} Ngàingam taka i bula um,I tuolbawm phier rûk naw rawh.
+{3:30} I poi ieng khom tawk lohai chu,A san boin hêk ngai naw rawh.
+{3:31} Mi nunrawng inhnar naw la,A lampui hraw ngai naw rawh.
+{3:32} LALPAN mi lûtinle a theida a,Mi ngîlhai ruok chu a ringzo.
+{3:33} Mi rilo sûngkuo chungah, LALPA tongsie a fu a,Mi fel sûngkuo chunga ruok chu,Malsawmna a vur lem hlak.
+{3:34} Chapohai chu a hmusit a,Inngàitlawmhai zàngàina a pêk.
+{3:35} Mi varin chawimawina rochung a ta,Mi invêtin muolphona chang a tih.
+{4:1} Ka nauhai, in pa zirtirna hi ngàithla unla,Hre thiem dingin ngaiven tha ro.
+{4:2} Inchûktirna tha ka pêk cheu hi,Ka zirtirna nghatsan naw ro.
+{4:3} Ka pa inah tlanglakte ka ni lai,Ka nu nau mal duot ka nih.
+{4:4} Hieng hin ka pa'n a mi zirtir a:"Lungrilin ka thuhai hi vong zing la,Ka thupêkhai zawm la, hringpui i tih.
+{4:5} Varna nei la, hrietthiemna nei rawh;Ka thuhai hi theinghil naw la,Pètsan ngai hrim hrim naw rawh.
+{4:6} Varna nghatsan ngai naw la,Humhim a ti che a;Ngàina rop hlak la,Vêng zing a ti che.
+{4:7} Varna nei hi a poimaw tak a,Chuleiin, varna nei rawh;Thil dang ieng po nêk khomin,Hrietthiemna lungvar chu thlang rawh.
+{4:8} Ngàihlu la, chawisâng a ti che,Pom la, chawimawi a ti chê.
+{4:9} Tonlairang intontir a ti che a,Lallukhum ropui inkhumtir a ti chê.
+{4:10} Ka naupa, ka thu ngàithla la,Ka thu hril che hi pom tlat la,Chuongchun dam sawt phàng i tih.
+{4:11} Varna lampui ka kawkhmu che a,Lam ngîlah ka thuoi che hi.
+{4:12} I pheikhài sukzâng a ta,Tlân rak la khom tlu naw ti nih.
+{4:13} Ka zirtirna hi chel tlat la,Inthlàdà ngai dèr naw rawh;Vong tlat rawh, i hringna a nih.
+{4:14} Mi rilohai lampui sir naw la,Mi suolhai lampui hraw naw rawh.
+{4:15} Pumpel la, hraw naw rawh,Nghatsan la, i lam hrawa chun fe rawh.
+{4:16} Suol thaw lo chun an in thei naw a,Mi an sukthlûk hmâ khat chu,An imu hrim a suok thei nawh.
+{4:17} Rîtlona hi an bu ring a na,Nunrawngna hi an uoiin a nih.
+{4:18} Mi felhai lampui ruok chu,Zîng ni zung ang hi a na,A hung êng zuol deu deu a,Nisa a hung suok ang hi a nih.
+{4:19} Mi suolhai lampui ruok chu,Thim sà tak ang hi a na,An insuina khom an hriet nawh.
+{4:20} Ka naupa, ka hril hi ngàiven la,Ka thuhai hi ngàithla ngun rawh.
+{4:21} Hmû phâk loah inthlà naw la,I lungrilah vong tlat hlak rawh.
+{4:22} A hmutu ta di'n hringna a na,A taksa ta di'n hriselna a nih.
+{4:23} Thil dang po po nêk khomin,I lungril vêng fimkhur rawh,Hringna hnâr a ni si a.
+{4:24} Tong chaltlài hmang ngai naw la,Thu porchè hril bànsan rawh.
+{4:25} Hma tieng tlûn takin en la,I hma zawn bi ngar ngar rawh.
+{4:26} I lampui ding en ngun la,I kalchawi khom tluong a tih.
+{4:27} Voi tieng chang tieng pêt naw la,Suol lakah i kè vêng tha rawh.
+{5:1} Ka naupa, ka varna thu hi ngàiven la,Thu ril ka hril hi ngàithla rawh,
+{5:2} Fîmkhur thiem theina nei a,I hmûrin hrietna a vong theina dingin.
+{5:3} Uire nu hmûrah khuoizu a far a,Sahriek nêkin a dang a'n nàl lem.
+{5:4} Sienkhom, a tawp tieng ruok chu,Sairam khâkin a tong a kha a,Kawlhnâm ngeituo angin a ngei.
+{5:5} Thìna tieng panin ke a pên a,A lampui chun thlàn khur a sun.
+{5:6} Hringna lam hraw a tum naw a,Lam kikawi indik lo a hraw a,Ama hlak chun a hriet si nawh.
+{5:7} Chuong chun tu hin ka naupahai,Ka hril cheu hi ngàithla unla,Ka hril cheu hi pêtsan naw ro.
+{5:8} A kawl hnaiah fe naw unla,A tuol kot khom va hnai naw ro.
+{5:9} In hrâtna tak chu mi dang pein,Nunrawng kutah thi pal rawi in tih;
+{5:10} Mi dangin in hausakna tlân an ta,Mi insûng ta dinga inrim ni rawi in tih.
+{5:11} In taksa le thá zûr hnungah,In thi tawm ruoiin inrûm in ta,
+{5:12} " Thununna ngài thei lo a,Zilna ka lo hnawl el kha aw!
+{5:13} Mi zirtirtuhai thu zawm lo a,An zirtirna ka ngàithlàk naw leiin,
+{5:14} Vàntlâng pungkhawmhai hmaah,Ka se let dèr an ta hih" la tîng in tih.
+{5:15} I tuibêla tui ngei chu tlàn rawh,I tuikula tui tharlâm ngei chu.
+{5:16} I tuikhur chu kotthlêrah luong suokin,Tuol zawlah a luong dar ding maw?
+{5:17} I tuikhur chu nangma tlân ding chauh ni sien,Mi dang leh intawm naw ro.
+{5:18} I tuikhur chu malsawmin um sien,I vânglai nu-thâia chun hlim rawh.
+{5:19} Zukpui sen anga ditum,Zuk latuoi anga nal chun,A tângah inbei tlaitir rop sien che,A hmangainan hîp tâng zing che raw se.
+{5:20} Ieng leiin am nang ka naupa,Uirenu zùnah intângin,Lawithlèmnu tàngah i'n bei ding a na?
+{5:21} Mihriem khawsak dàn po po hi,LALPA chun a hmu fai vong a,A lampuihai a enthlithlai hlak.
+{5:22} Mi rilohai chu an suolnan a awk a,An suolna hruolin a vêt tàng hlak.
+{5:23} In thununna tlasamin thîng a ta,An invèt bilingna chun fen hmang a tih.Fîmkhur ngàina dang
+{6:1} Thu intiemkamI tuolbawm aia tuor intiem a,Hmêlhriet lo leiba rulpêk dinga,Dakhama i lo insiem a ni chun,
+{6:2} I bau ngeiin i lo inhril awk a,I thu suoka i lo inkhit a ni chun,
+{6:3} I tuolbawm kutah i awk hrein,I hung intàl suok theina dingin,Ka naupa, hieng hin thaw rawh:Fe la, a kuomah inphàhnuoi la,I thû i sùt phalpèk hràm dingin,I tuolbawm chu thlût ngat ngat rawh.
+{6:4} I mit insîm hrim hrim naw la,I mit vun insîntir naw rawh.
+{6:5} Sapêltu hmaa sakhi a tlân suok ang le,Vate vètu laka vate a vuong suok angin,Nang khom intâl suok ngei ngei rawh.
+{6:6} Nang thabo, phaivàng kuomah fe la,An um dànhai ngàituo la, var rawh.
+{6:7} Lal le hotu an nei naw a,Rorêltu khom an nei bok nawh.
+{6:8} Nipuiah fâk ding an zong khawm a,Busîk hunah bu an sèk khawm hlak.
+{6:9} Mi thabo, ieng chen am i zâl ding?I zâl chu ieng tik a'm i tho ding?
+{6:10} 'La hang zâl met ka tih, La hang inhnâr met ka tih,Kut hmasuiin, hadam takin,La'n zam met ka tih' i ti sûng khan,
+{6:11} Pasietna chun rûkru angin,Hung nang thut a ti che a,Tlâksamna khomin râl angin,Hung nangchîng thut a ti che.
+{6:12} Mi hmangna bo le khawlo chun,Thu vuongva a'n virpui a,
+{6:13} A mitin mi a siei khum a,A kèin mi a zàizir a. A kut chalin a khîk kuol a.
+{6:14} A lungril a lûtinle a,Suol thaw ding ringot a phan a,Innghirnghona a chok suok hlak.
+{6:15} Sietnain hung nang thut a ta,Siem that ruol lo sietnain,Thawk le khatah nang rup a tih.
+{6:16} Thil paruk LALPAN a theida a,Thil pasari a ten èm êm bok:
+{6:17} Mit chapohai, khêl hril hmang hai,Poi tawk lo mi that chîng hai,
+{6:18} Suol thaw ding phierrûk chîng hai,Suol thaw dinga ngal hrât hai,
+{6:19} Hrepuitu der, khel hril hè hai,Unau kâra innghirnghona tutu hai.
+{6:20} Ka naupa, i pa thupêkhai zawm la,I nu zirtirna che nghatsan naw rawh.
+{6:21} I lungrilah vong kumkhuo la,I rîngah zem tlat hlak rawh.
+{6:22} I kalchawinaah thuoi a ti che a,I in chàngin vêng a ti che a,I har pha leh inbiekpui a ti che.
+{6:23} Hieng thupêkhai hi khawnvar a na,Hi zirtirna hi var a nih.Inthunun dinga inzilna hi,Hringna lampui a nih.
+{6:24} Nuhmei khawlohai lakah leNu suol kam thlum lakah vèng a ti che.
+{6:25} A pangti mawina inhnar naw la,A mitin kuoi thlu naw raw se che.
+{6:26} Beiin nawchizor a'n chawk thei a,Uirenu ruok chun i hringna a pêl a nih.
+{6:27} Zakuo kàng loin meiling,Tuin am a pom thei a?
+{6:28} Kè kàng loin meiling chungah,Mi a lawn thei hlak am a ni?
+{6:29} Mi nuhmeihai suolpuitu chu,Chuong ang char chu a ni a,Hrem loin suok ngai naw nih.
+{6:30} Tâm leia thil inrutu chun,Endong a hlaw ngai naw a,
+{6:31} Man suok a ni phâ ruok chu,A lêt sariin rul a tih,A nei po hù khom lo ni sien.
+{6:32} Mi nuhmei uirepuitu chu,Hrietna tlasam mi a na,A nun a suksiet a nih.
+{6:33} Hliem le hming siet tuor a ta,Dam sûngin muolpho a ta;
+{6:34} Thîknan a pasal lung sukling a ta,Phuba a làk pha leh zà ngai naw nih.
+{6:35} Suma intlâk nuom naw ni a,Ieng zât pêk khomin lungawi naw nih.
+{7:1} Ka naupa, ka thuhai hi vong tlat la, Ka thupêkhai hi khawl khawm rawh.
+{7:2} Ka thupêkhai zawm la, hring i tih.I mit naulêng ang topin,Ka zirtirna hi hum tlat rawh.
+{7:3} I kutpâra hai zem tlat la,I lungril phêkah ziek rawh.
+{7:4} Varna chu, "Ka farnu i nih" ti la,Hrietthiemna chu laibungah nei rawh.
+{7:5} Uirenu lakah hum a ti che a,Lawithlêmnu lakah vêng a ti che.
+{7:6} Ka tukver zawngdaikal awngahTuol tieng saw ka hei thlìr a,
+{7:7} Mi mawl ruol lai tlangvâl pakhat,Lungvar tlasam hi ka hmu a.
+{7:8} Chu nu chèngna kotthlêr chu hrawin,A in tieng chu a pan a;
+{7:9} Unau hmêl hai lai hi a na,Thimin a hung nang mêk a.
+{7:10} Nawchizor thuoma inchei,Lungril vervêk tak put mi,Nuhmeiin a'n tuokpui a.
+{7:11} Nu zakmaw huoisâr a na,Inah a'n khum ngai naw a,
+{7:12} Kotthlêr le tuolzawla dâm,Kil tinah mi a'n chàn hlak.
+{7:13} Tlangvâl chu kuoin a fawp a,Hmai intìmna hrim nei loin,Tlangnêl takin a kuomah,
+{7:14} "Voisun inthawina ka'n hlân a,Ka thu tiem khom ka hlen tah.
+{7:15} Chuleiin, nang hmu dingin,Ka hung a, ka zong che a,Ka hmu ta che a ni hi!
+{7:16} Aigupta patzâia khawng,Khumpha mawi tak ka pha a,
+{7:17} Beraw, aloi, thingzungthak,Rimtuiin khum ka chûl a;
+{7:18} Hung rawh, zîng khaw var chenin,Hmangaina tuitling dawnin,Hmangaina nun chèn ei tih.
+{7:19} Ka pasal inah a um naw a,Ram hla taka inzin a nih.
+{7:20} Tangka ip sip a chawi a,Thla lir hma chu hung naw nih" a ta.
+{7:21} A kam thlumin a lêm hne a,A kam nâlin a zawl thlûk a.
+{7:22} Chuongchun a zui ta nghal a:That dinga bawngchal an kei angin,Sakhiin châng a sir chim a,
+{7:23} Thalin a lung a dawt tlang a,Vaten a thipui ding hre dêr loaChâng a baw ang el hi a nih.
+{7:24} Tu hin ngai ro, ka nauhai,Ka thu suok hi bengkhon ro.
+{7:25} Nuhmei tieng chun ngha naw unla,A lampui tieng invâk lût naw ro.
+{7:26} Mi tam tak a suksiet tah a,Sukhlum khom a hau ta hle.
+{7:27} A in chu Seol panna lam a na,Chu chun thìna pindan a sun.
+{8:1} Varnan tlâng a'n sam naw maw? Hrietna a khêk suok naw maw?
+{8:2} Lam sîr kho tlânga hai le Lam thuoma hai a ngîr a,
+{8:3} Khawpui kotsuo bula hai,A lûtna kotpuia hai chun,Inring takin a khêk suok a:
+{8:4} "Aw nangni mihriemhai hi,Ka ko khêk cheu a ni hi;In hriet dinga ka hril a nih.
+{8:5} Mi mawlhai, fîmkhur inchûk unla,Mi invêthaiin, hrietthiemna nei ro.
+{8:6} Ngai ro, thil tha hril ding cheu ka nei,Thu dik hril dingin bau ka phong.
+{8:7} Ka bauin thu dik a hril a,Ka hmùrin rîtlona a tirdak.
+{8:8} Ka bau suok thu a'n dik a,Thu kawi letling hrim a um nawh.
+{8:9} A hre thiemtu ta dingin,Thu indik a ni vong a,Hrietna neitu ta dingin,Soisel boa fie a nih.
+{8:10} Tangka nêkin ka zirtirna thlang la,Rangkachak ditum tak nêk khomin,Hrietna chu thlang lem hlak rawh.
+{8:11} Lunghlu nêkin varna a hlu lem a,Duthusam ieng khomin a tluk nawh.
+{8:12} "Kei, varna hin rem ka hriet a,Hrietna le fîmkhur thiemna ka kol.
+{8:13} LALPA ti dàn chu suol theida a nih.Uongthuong, chapo, nun suol,Tong chaltlaihai ka theidâ vong.
+{8:14} Remruot le rorêl ka thiem a,Hrietna le thilthawtheina ka nei.
+{8:15} Keima leiin lalhan ro an rêl a,Rorêltuhan dàn indik an siem.
+{8:16} Keima leiin rênghaiin ro an rêl a,Hnuoia rorêltu milûn po po khomin.
+{8:17} Mi ngàinatu chu ka ngàina a,Mi zongtu chun an mi hmu hlak.
+{8:18} Hausakna le inzaumna neitu ka na,Hlawtlingna le hmûingîlna tlo chu;
+{8:19} Ka rà suok in dong ding chu,Rangkachak hlîr nêkin a tha lem a,Tangkaruo tha tak nêkin a hlu lem.
+{8:20} Felna lampui chu ka hraw a,Rorêlna indik lamtluong ngei chu.
+{8:21} Mi ngàinatu chu hausaknan ka vûr a,A robawm ka sung sip hnûr hlak.
+{8:22} "LALPAN a mi siem hmasa tak a,A thilsiemhai hmaa siem ka nih.
+{8:23} Chatuona inthoka indin ka nih,Leilung insieng hmaa inthok ta khan.
+{8:24} Tuifinriet um hmain ka pieng a,Tui hnàrhai an pût hma daiin,
+{8:25} Tlânghai an ngîr suok hma dai le,Muolhai indin an ni hma dai tah khan;
+{8:26} Leilung pieng hma, ramhai pieng hma,Pilvuthai pieng hma dai khan;
+{8:27} Vàn a rem khawm lai ka um ta a,Tui inthûk tak huoltu ramri dingaKawlkil a khangpêk lai khom khan;
+{8:28} Vàn sângah sûm a zâr lai leLi mong thut a rem nghet lai khan;
+{8:29} A ruot chin bàk chîm lo ding a,Tuipui ramri ding a khangpêk lai leHnuoi innghatna a siem lai khan.
+{8:30} Chuong lai chun themthiem angin,A bulah ka um zing hlak a,A bulah ka chêng hlak leiin,Ni tinin hlimin ka sip hlak;
+{8:31} A khawvel siem ka hlimpui a,Hringmihai hi a nih ka lawm.
+{8:32} "Ka nauhai, tuhin ka thu ngai ro,Ka thu zawmtu chu an hamtha.
+{8:33} Ka zirtirna hi ngàithla un la,Var pha unla, ngàithà naw ro.
+{8:34} Ka tuol kotah mi nghâk zing a,Ka kotkhâr bulah chêng zing a, Ka thu ngàithlatu chu an hamtha.
+{8:35} Mi hmutu chun hringna an nei a,LALPA ditsak an hlaw ngei bok.
+{8:36} Mi hmu theltuhai ruok chun,Anni le anni an insuksiet a na,Keima mi theidatu phot chun,Thìna an ngàizawng a nih."
+{9:1} Varna chun in a bawl a, Lung ser ban pasari a phun a,
+{9:2} A lawmnan ran a that a,Dawn ding uoiin a buotsai a,Ruoi chu a pei fel diem tah.
+{9:3} A rongbawltu nunghâkhai chu,Khaw sûnga chun infetirin,Tuolpârah tlâng a'n samtir a:
+{9:4} "Mi mawlhai, hi tieng hung ro,
+{9:5} Ka ruoi buotsai hung kîl unla,Ka uoiin siem hi hung dawn ro.
+{9:6} In mawlnahai hnungson unla,Hring le damin um inla,Hrietthiemna lam chu hraw ro.
+{9:7} "Tu khom hmusittu ziltu chun,Khîksawna a tuok lêt hlak a,Tu khom mi rilo kawktu chun,Kawk lêt hrep a tuok ngei hlak.
+{9:8} Hmusittu chu kawk naw rawh,Theidà phàna'n hmang a ti che;Mi var i zilhau ruok chun,Ngàinat phànan hmang a ti che.
+{9:9} Mi var i zirtir a ni chun,Var zuol phànan hmang a ta,Mi indik i zirtir khomin,Hriet tam phànan hmang a tih.
+{9:10} "LALPA ti chu varna tobul a na,Mi Thienghlim hriet chu hrietthiemna a nih.
+{9:11} Chu chun sukdamsawt a ti che a,I dam sûng kum suksei a tih.
+{9:12} Chu varna chu i nei chun,I varna chu hlawkpui i ta,Hmusittu i ni ruok chun,I hmusit man tuor ngei i tih.
+{9:13} Nuhmei Invêt rìhàu a na,A mawlin hriet muol a nei nawh.
+{9:14} A kota inthung biel a chîng,Tuol pâra inthung a chîng bok.
+{9:15} Lama invâk taphothai chu,Ko khêkin a lo zawr hlak.
+{9:16} Ningkhong hre lohai kuomah," Mi mawlhai, hi hin hung ro.
+{9:17} A rûka tui dawn a thlum bîk a,A rûka bei fâk a'n hnik bîk bok"Tiin a lo hûi tawl hlak a.
+{9:18} Sienkhom a pantuhai chu,Seol khurpuia tla ta sa,Mithi ruol um khawm an nih,Ti an hriet tawl dèr si nawh.
+{10:1} Nau varin a pâ a suklawm a,Nau invêtin a nû a sukbeidong.
+{10:2} Indik loa hmu hausakna chun,Hlutna ieng khom a nei nawh;Indik taka thilthaw ruok chun,Thi ding khom a san suok hlak.
+{10:3} Mi felhai phingtâm ding chu,LALPAN a phal ngai naw a,Mi rilohai duthusam khom,A hlawtling a phal bok nawh.
+{10:4} Mi thabo chu rethei a ta,Mi taima chu hausàng a tih.
+{10:5} Nau var chun nipui hunah,Fâk ding a sêk khawm hlak a,Busîk huna zàl hlak ruok chu,Nau inzapuium a nih.
+{10:6} Mi indik lu chunga chun,Malsawmna vûrin a um hlak a,Mi rilo bau suok ruok chu,Nunrawngna thuin a sip.
+{10:7} Mi indik hriet zui zing chu,Malsawmna a ni hlak a,Mi rilo hming ve ruok chu,A thu hmon vong hlak a nih.
+{10:8} Lungrila varna neitu chun,Thupêkhai a zawm hlak a,Mi invêt bau tam ruok chu,Sietna leh an intuok hlak.
+{10:9} Mi fel kalchawi a nghet a,Lam suol hrawtuhai ruok chu,Man suokin an um ngei hlak.
+{10:10} Mi mit rak hin lung a khei,Tlang taka kawktu ruok chun,Inremna a siem lem hlak.
+{10:11} Mi indik bau suok hai chu,Hringna tuikhur an inchang a,Mi rilo bau suok ruok chu,Nunrawngna thuin a sip.
+{10:12} Intheidàna hrim hrim chun,Innghirnghona a hring a,Hmangaina chun tlàk nawna,Iengkim a hmu khûm lem hlak.
+{10:13} Lungril mit varna neihai chun,Thu var an sâk suok hlak a;Hrietthiemna nei lo ruongzâng chu,Vuokna hmol le inmat a nih.
+{10:14} Mi varin hrietna an khawl khawm a,Invêt chun sietna ding an hril hlak.
+{10:15} Mi neinunghai kulpui chu,An hausakna a ni hlak a;Mi retheihai sietpui ruok chu,An pasietna a ni hlak.
+{10:16} Mi fel hlaw suok chu hringna a na,Mi suol hlaw suok chu hremna a nih.
+{10:17} Inthununna poisatu chun,Hringna lampui a hraw a,A ngài thei nawtu ruok chun,A pêt hmangsan lem a nih.
+{10:18} Theidàna iptu chun hmûr khêlhlip a nei a,Hrilsietna thè dartu chu mi invêt a nih.
+{10:19} Ei tong rawn taluo pha chun,Khêl khom a thang sa tèi hlak;Mi var chun tong a'n sûm hlak.
+{10:20} Mi indikhai bau suok chu,Tangkaruo tha inhlîr ang a na,Mi rilohai lungril ruok chun,Hlutna ieng khom a nei nawh.
+{10:21} Mi indik bau suok thu chun,Mi tam tak a chawm tlai hlak a,Mi invêt chu varna tlasamin a thi.
+{10:22} LALPA malsawmnan mi a sukhausa a,Harsatna a thang sâ ve ngai nawh.
+{10:23} Mi invêt chun suol thaw inhoi a ta,Mi var ruok chun varna a hlimpui.
+{10:24} Mi rilo chun a ti tak intuokpui a ta,Mi fel chun a duthusam hmûng a tih.
+{10:25} Thlipui a hung hràng pha chun,Mi rilohai an nuoi bo hlak a,Mi indikhai chu an nghet tlat hlak.
+{10:26} Thilthaw dinga mi thabo tir chu, Uoiin thûrin hâ a suktim ang le, Meikhu'n mit a sukthîp ang a nih.
+{10:27} LALPA ti chu dam sawtna a na,Mi suol damsûng ruok chu a tawi hlak.
+{10:28} Mi fel tuok ding chu hlimna a na,Mi rilohai hmabàk chu boralna a nih.
+{10:29} LALPA lampuia kalchawi hi,Mi fel ta di'n himna kulpui a na,Thil tha naw thawtuhai ruok chun,Sietna chauh an hmasuon hlak.
+{10:30} Mi fel chu ngîr nghet tlat an ta,Mi suol chun ram hi hluo zing naw nih.
+{10:31} Mi fel bau chun varna a phù suok a,Lei khêlhlip ruok chu ât tan nîng a tih.
+{10:32} Mi fel bauin pom tlâk thu a hril a,Mi suol bàu chun thu letling a hril hlak.
+{11:1} Bùkna indik lo hi LALPA theida zawng a na,Bùk lung indik hmang hi a lawmzawng a nih.
+{11:2} Chapona chu muolphonan a zui a,Inngàitlawmna chu varnan a zui hlak.
+{11:3} Mi indikhai chu an ringumna'n a thuoi a,Mi depdehai chu an vervêknan a awk hlak.
+{11:4} Lungsenna nia dingin,Hausak ieng khomin thû a phur nawh,Sienkhom indikna ruok chun,Thìnaa inthokin a san suok hlak.
+{11:5} Mi indikhai chu an indiknain,An lampui a suktluong hlak a,Sienkhom mi rilohai ruok chu,An rîtlonain a bûk thlûk hlak.
+{11:6} Mi ngîlhai chu an indikna'n a san him a,Mi depdehai chu châkna suolah an inawk hlak.
+{11:7} Mi rilo chu a thi ruolin,A beiseina khom a boral nghal a,Thaw thei dinga a hisaphai khom,Iengmà lo an hung inchang hlak.
+{11:8} Mi fel chu buoina laka humin a um a,Mi rilo chungah buoina chu a tla hlak.
+{11:9} Pathien ngàisak lo mi chun a bauin,A tuolbawmhai a suksiet hlak a;Mi fel ruok chun hrietna hmangin,Sietna chu a pumpel hlak.
+{11:10} Mi felhai an hmûingìl pha,A khaw nawtin an hlim hlak a;Mi rilohai an thi pha leh,Lawmna ri a so vêl hlak.
+{11:11} Mi indik malsawmna dong chun,A khaw pumpui a chawimawi a,Mi rilo bâu suok ruok chun,A khaw nawtin a dêng siet hlak.
+{11:12} Tuolbawmhai deusawtu chun,Varna a tlasam a nih,Hrietthiemna neitu ruok chun,A bâu a vèng tha lem hlak.
+{11:13} Bau tamin thurûk a ip thei naw a,Mi ringum ruok chun a vong tlat hlak.
+{11:14} Inthuoina tha um nawnaah,Ram le hnam a tlu se hlak a,Remruot thiem an tamnaa chu,Hnèna an chang ngei ngei hlak.
+{11:15} Mi dakhama insietu chun tuor a ta,Inthier fihlîmtu ruok chu him a tih.
+{11:16} Nuhmei felin inzà a phur a,Nu lepchie chu inzapui a um.Mi zomthaw chu a hung pasie a,Mi hrât chu a hung hausa hlak.a
+{11:17} Mi ngilneiin a ngilneina a sor a,Mi tawrotin ama buoina a siem hlak.
+{11:18} Mi rilo chun hlaw indik lo a lak a,Felna tùtu chun lukhawng a dong hlak.
+{11:19} Felna chel tlattu chu hring a ta,Suolna hnot tlattu chu thing a tih.
+{11:20} LALPAN lungril kawi a theida a,Soisel boa khawsahai ruok chu a lawm.
+{11:21} Mi rilo chun hrem pumpel naw top a ta,Mi fel ruok chu san suokin um a tih.
+{11:22} Fîmkhur nachang hre lo nu hmel tha chu,Vok hnâra rangkachak kuol inbuntir ang a nih.
+{11:23} Mi fel ditzawng chu thil thain a tawp a,Mi rilo beisei chu lungsennain a tawp.
+{11:24} Phal taka pèk chu a tam lem hmùna a na,Mamaw bâk kompui chu tlâkranna a nih.
+{11:25} Mi tiktlài chu hmuingil a ta,Tuia chawmtu chu tuia chawm ve nîng a tih.
+{11:26} Hlawkna hnot leia bu inrotu chu,Mihaiin tongsie inphur an ta,A pe suok nuomtu ruok chu,Malsawmna vùrin um a tih.
+{11:27} Thil tha zongtu chun ditsakna a dong a,Thil suol zongtu chun thil suol a tong hlak.
+{11:28} Hausaknaa innghattu chu tlùng a ta,Mi fel chu hna hring angin inthang no a tih.
+{11:29} Sûngkuo chokbuoitu chun thli chauh sîk a ta,Mi invêt chu mi var siehlawah thang a tih.
+{11:30} Felna ra chu hringna a na,Nunrawng chu thina a nih.b
+{11:31} Mi felin hnuoiah lawmman a dong chun,Pathien hre lo le mi rilo lem chun,Hremna a va hang tuor chieng awm de!
+{12:1} Thununna ngàinatu chun hrietna a ngàina a,Zilhauna theidatu ruok chu mi intlaw a nih.
+{12:2} Mi tha chun LALPA ditsak a hlaw a,Suol phiertu chu thiem naw a'n changtir hlak.
+{12:3} Rîtlonain mi a siem nghet ngai naw a,Mi fel ruok chu sukhning ruol a ni nawh.
+{12:4} Nu tha chu a pasal lallukhum a na,Nu inzapuium chu a rù ngè ang a nih.
+{12:5} Mi felhai thil rèl chu a'n dik hlak a,Mi rilohai thurawn pêk chu a khêlhlip.
+{12:6} Mi suol bauin that ding mi a'n chân a,Mi indik kam suok chun a san suok hlak.
+{12:7} Mi rilohai chu pei hmangin an um dai a,Mi fel sûngkuo ruok chu an ngîr nghet hlak.
+{12:8} Mi var chun inpâk a hlaw a,Lungril kawi chun endong a hlaw.
+{12:9} Insukliena fâk ding nei si lo nèk chun,Hriet hlaw loa siehlaw nei si ni a tha lem.
+{12:10} Mi fel chun a ranhai chen a lunginsiet a,Mi rilo zangàina ruok chu a nunrawng hlak.
+{12:11} Mani lo enkoltu chun bu le bâl hau a ta,Suongtuona hnottu chun varna a tlasam a nih.
+{12:12} Mi rilo chun mi suol thil rok a'n hnar a,Mi fel ruok chun zung a kei nghet hlak.
+{12:13} Mi suol chu a kam tlêuah a tlu a,Mi fel chun buoina a pumpel hlak.
+{12:14} Bau thiemin a bau suok ra tha a sîk a,A kut sawl man khom a hmu ngei hlak.
+{12:15} Mi invêt chun indikin a'n ngai tlat a,Mi var chun thurawn a ngàichang hlak.
+{12:16} Mi invêtin lungsen a suklang nghal a,Mi var chun theida naw sak sak a thaw hlak.
+{12:17} Mi ringum chun thudik a hril hlak a,Hrepuitu der chun thukhêl a hril hlak.
+{12:18} Tong tlahol chun kawlhnâm angin a sun a,Mi var bau suok ruok chun lung a thawi dam.
+{12:19} Thu tak hrilna bau chun kumtluong a dai a,Lei khêlhlip chun mit khap kâr chauh a daih.
+{12:20} Suol phantu lungrilah hlêmna thu a um a,Remna zongtuhai lungrilah hlimna a um.
+{12:21} Sietnan mi felhai a tlâk buok ngai naw a,Mi suolhai chun buoina an tuok rop hlak.
+{12:22} Hmùr khêlhlip chu LALPAN a theida a,Mi indikhai ruok chu a ngàina hlak.
+{12:23} Mi fîmkhur chun a hrietzie a thup a,Mi invêt chun a'n vètzie a puong suok hlak.
+{12:24} Mi taima chun rorêlna chel a ta,Mi thabo chu suoka sorin um a tih.
+{12:25} Lungkham nei hin a mi sukngui a,Thu tha ruok chun a mi sukhlim.
+{12:26} Mi fel chu a ruolhai keidingtu a na,Mi rilo chun a thuoi suol lem hlak.
+{12:27} Mi thaboin sa raw ding a kâp ngai naw a,Mi taima ruok chun thil hlû a khawm teu hlak.
+{12:28} Felna lampuia chun hringna a um a,Chu lampuia chun thìna a um nawh.
+{13:1} Nau var chun a pa thununna a poisa a,Hmusittu chun zilhauna a ngai thei nawh.
+{13:2} Mi thahan bau that man thil tha an tlàn a,Mi suol ruok chun rawng taka chêt a châk.
+{13:3} Bâu vêng thatu chun a nun a vêng tha a,Mi hmùr tam chun sietna a tuok hlak.
+{13:4} Mi thabo chu a vir em em a,Sienkhom fâk ding a nei si nawh;Mi taima ruok chu a tlai zing.
+{13:5} Mi indik chun thu khêl a theida a,Mi suol chun muolphona le inzakna a'n tlun.
+{13:6} Felna chun mi ringumhai lampui a vèng a,Rîtlona chun mi suol a suot thlâk hlak.
+{13:7} Hausaa inngai, ieng khom nei lo an um a,Retheia inngai, hausa hlê si an um bok.
+{13:8} Mi hausa chu a sumin a'n tlan suok thei a,Mi rethei chun inlâupui ding a nei ve nawh.
+{13:9} Mi fel chu mei angin a êng a,Mi rilo chu khawnvar sukmit ang a nih.
+{13:10} Chapona chun inhalna a chok suok a,Thurawn lâk hi thil varthlàk a nih.
+{13:11} Hmùna indik loa hausa thut chu,A riral nawk tiel tiel hlak a,Harsa taka thaw suoktu ruok chu,Damten a pung tiel tiel hlak.
+{13:12} Beisei tlung inhnûk hin lung a sukna a,Duthusàm tlung ruok chu hringna thing a nih.
+{13:13} Zirtirna hnawltu chun tuor a ta,Thupêk zawmtu chun lawmman hmung a tih.
+{13:14} Mi var zirtirna chu hringna tuikhur a na,Thìna châng pumpelna a nih.
+{13:15} Hrietthiemna tha nei chu ditsak hlawna a na,Mi depdê lampui ruok chu a kholkham.
+{13:16} Mi fimkhur chun hrietna hmangin thil a thaw a,Mi invêt ruok chun a'n vêtzie a phor lang hlak.
+{13:17} Thangko rilo chun buoina a chok suok a,Palai ringum chun damna thu a'n tlun hlak.
+{13:18} Thununna ngaithàtu chu retheiin muolpho a ta,A poisatu chu chawimawiin um a tih.
+{13:19} Duthusàm hmu hin lungril a sukhlim a,Sienkhom, invêtin suol nghatsan an theida.
+{13:20} Mi var pawltu chu a hung var ve a,Mi invêt le inpawl chu sietna a nih.
+{13:21} Vângduoinan mi suol a hnot zui a,Mi fel lawmman ruok chu hnienghnàrna a nih.
+{13:22} Mi tha chun a tûhai ro ding chen a mâksan a,Mi suol hausakna chu mi fel ta dinga khawl a lo nih.
+{13:23} Mi rethei loah bu a suok teu a ni thei,Sienkhom rorêlna indik naw leiin a chân vong thei.
+{13:24} Hmol hmang nawtu chun a nau a theida a na,Nau hmangaitu ruok chun a thunun ngei hlak.
+{13:25} Mi felhai chun dutawka fâk ding an nei a,Mi rilo phîng ruok chu a tâm hlak.
+{14:1} Nuhmei var chun sûngkuo a tungding a,Nu invêt chun a kut ngeiin a thiek hlak.
+{14:2} Indik taka kalchawitu chun LALPA a ti a, Rîtlona lampui hrawtu ruok chun a hmusit hlak.
+{14:3} Mi invêt chun vuok tuorna ding a hril suok a,Mi var ruok chun a himna ding a hril lem hlak.
+{14:4} Bawngchal um nawnaa chun bu in a ruok a,Bawngchal thain bu sîk ding a thaw suok teu hlak.
+{14:5} Hrepuitu ringum chun khêl a hril ngai naw a,Hrepuitu der ruok chun khêl a phuokfawm hlak.
+{14:6} Hmusittu chun varna a zong a, a hmu naw a,Lungril mit varna neitu ta din hmu a olsam hle si.
+{14:7} Mi invêt lakah inthier fihlim rawh,A hmûra inthokin varna thu dong naw ti nih.
+{14:8} Mi varhai chun an fèna ding lam an hriet a,Mi invêthai invêt chil ruok chu mani inhlèm a nih.
+{14:9} Mi invêthan suol nghatsantuhai an hmusit a,Mi varhai ruok chun an lawmpui lem hlak.
+{14:10} Mani chauhin ei lungngaina ei hriet a,Ei lawmna khom mi dangin an mi'n tawmpui thei nawh.
+{14:11} Mi rilo sûngkuo chu suksietin um a ta,Mi indik sûngkuo ruok chu hmuingil a tih.
+{14:12} Mihriemin lam indik nia a ngai a um a,Sienkhom thìna lampui a lo ni zing thei.
+{14:13} Innui lai khomin lung a na thei a,Hlimna khom lungngainan a tawp thei.
+{14:14} Mi suol chun a suol man intêl a ta,Mi tha chun a thaw that man hmung a tih.
+{14:15} Mi mawl chun mi hril taphot a awi hlak a,Mi var chun a kal pên tin a bì chieng hlak.
+{14:16} Mi var chu a fîmkhur a, suol a hnawl a,Mi invêt chu a'n sukhuoi a, a che rok rok hlak.
+{14:17} Lung inrom chun thil invêtthlâk a thaw hlak a,Dawhaa thil phantu chun theidà a hlaw hlak.
+{14:18} Mi mawlhai chu invêtnan an inthuom a,Mi var chun hrietna tonlairang an ton hlak.
+{14:19} Mi suolhai chu mi tha hmaah kûn an ta,Mi rilohai chu mi fel kot bulah kûn an tih.
+{14:20} Pasiehai chu tuolbawmhai khomin an hnawl a,Mi hausahai ruok chun ruol an hau êm êm.
+{14:21} Tuolbawmhai hmusittu chu mi suol a na,Retheihai somdawltu chu mi hamtha a nih.
+{14:22} Thil suol rottu chun thil suol a thaw a,Thil tha zongtu chun mi ring le lainat a hlaw.
+{14:23} Thokrimna chun hlawkna an tlun a,Hril ringota tlâk tum chu tlâkranna a nih.
+{14:24} Mi var chu hausaknaa vurin a um a,Mi invêt chun invêtna chauh a hli hlak.
+{14:25} Hrepuitu indik chun mi a san suok a,Hrepuitu der ruok chun mi a hlêm hlak.
+{14:26} LALPA titu chun kulpui nghet a nei a,A nauhaiin inhumhimnan an hmang hlak.
+{14:27} LALPA ti chu hringna tuikhur a na,Thìna chânga inthoka himna a nih.
+{14:28} Mipui hau hi lal ropuina a na,Khuo le tui nei lo lal chu a se dêr hlak.
+{14:29} Lung infuol chun hrietthiemna ril a nei a,Lung inrom chun a'n vètzie a phor lang hlak.
+{14:30} Lungril hadam chu taksa sukhriseltu a na,Thîkthu siet chu ru sukhmontu a nih.
+{14:31} Retheihai neksawrtu chun anni Siemtu a hmusit a,An chunga ngilneitu chun anni Siemtu a chawimawi.
+{14:32} Mi rilo chu a suolna'n a bûk thlûk a,Mi fel chu thi chenin a ringumnan a hum hlak.
+{14:33} Hrietthiemna nei mi chun lungvar a nei a,Mi invêt ruok chun thuvar a hriet thei nawh.
+{14:34} Indiknain hnam a chawi sâng a,Suol chu hnam tin sukmuolphotu a nih.
+{14:35} Siehlaw var chungah lal a lawm a,A sukmuolphotu chungah a lungsen hlak.
+{15:1} Donna innèm chun lungsen a thawi dam a,Invìn ruok chun lungsen a chok tho.
+{15:2} Mi var bâu chun varna thu a hril hlak a,Mi invêt lei chun thu invêt a per suok hlak.
+{15:3} LALPA mit chu hmun tinah a fu a,Mi rilo le mi tha khom a enthlàk zing.
+{15:4} Bâu innem chu hringna thing a na,Lei lûtinlè chun lungril a sukngui.
+{15:5} Mi invêt chun nu le pa keithuoina a ngàinêp a,Mi var ruok chun an zirtirna chu a poisa hlak.
+{15:6} Mi fel inah rosum tam tak a um a,Mi rilo sum lam chun buoina a'n tlun hlak.
+{15:7} Mi var hmûr chun hrietna a thè dar hlak a,Mi invêt chun thaw vèna lungril a nei nawh.
+{15:8} Mi rilo inthawina chu LALPAN a tirdak a,Mi tha tongtaina chu a lawmzawng a nih.
+{15:9} Mi rilo lampui chu LALPAN a tirdak a,Felna lampui hrawtu chu a ngàina hlak.
+{15:10} Lam indik pêtsantu chu na taka thunun a ni hlak a,Zilhauna theidatu chu a bohmang hlak.
+{15:11} Seol le Abadon hre tlangtu LALPA chun,Mihriem lungril lem chu a hriet chieng awm de aw!
+{15:12} Hmusittu chun zilhauna a ngai thei naw a,Mi varhai khom a biekrawn ngai nawh.
+{15:13} Lungril hlimin hmêl hlim a siem a,Lungril nain thlarau a sukngùi.
+{15:14} Sungril mit varna neitu chun hrietna a zong a,Mi invêt ruok chun khêl ringot buin a ring hlak.
+{15:15} Rethei nun chu a rimsikthlâk a,Lungril hlim ruok chun ruoi a thê zing a nih.
+{15:16} Hausa hnûra buoina nei nêk chun,Tlawmte neia LALPA ti a tha lem.
+{15:17} Intheida puma bawng tuoi thau sâ fâk nêkin,Inhmangai taka thlài hna ring a tha lem.
+{15:18} Mi lungromin inhalna a chok suok a,Mi lunguoiin inhalna a sukrè hlak.
+{15:19} Mi thabo lampui chu hlingin a bawm a,Mi indik lampui ruok chu a tluong zâl.
+{15:20} Nau var chun a pâ a suklawm a,Nau invêt ruok chun a nû a hmusit hlak.
+{15:21} Hrietna tlasam chun a'n vêtna a hlimpui a,Hrietna neitu ruok chun lam ngîl a hraw hlak.
+{15:22} Remruot lawk loa thil thaw chu a tlol nuom a,Rem hrie an tam ruok chun a hlawtling hlak.
+{15:23} Donna indik pêk hi tu khomin an lawm a,A hun taka dong hi a va hang lawmum de!
+{15:24} Mi var chun Seol a zuk fin nawna dingin,Chung tieng a pan tung ngat ngat hlak.
+{15:25} LALPAN mi chapo in chu a nam thlûk a,Hmeithai chêngna ramri ruok chu a humpêk.
+{15:26} Mi rilo ngàituona chu LALPAN a tirdak a,Mi thienghlimhai ngàituona chun a suklawm.
+{15:27} Hlêpnaa hnukrawl chu sûngkuo buoina a na,Thamna theida ruok chu sûngkuo hringna a nih.
+{15:28} Mi fel chun thu don dàn ding a bûktuo a,Mi invêt ruok chun thu tha lo a sâk suok hlak.
+{15:29} LALPA chu mi rilo hnaiah a um ngai naw a,Mi fel tongtaina ruok chu a ngàithlâk hlak.
+{15:30} Hmêl hlimin mi a suklawm a,Thu lawmumin rù le châng a sukhrisel.
+{15:31} Nun siem tha thei zilna ngàithlatu chu,Mi varhai lai chêng vêng a tih.
+{15:32} Inthununna ngàithâtu chun ama a'n ngàinêp a,Zilna poisatu chun hrietthiemna a chang hlak.
+{15:33} LALPA ti chu var inchûkna a na,Inngaitlawm chu chawimawi hlawna a nih.
+{16:1} Mihriem lungrilin thil a riruong a,Sukpuitlingtu ruok chu LALPA a nih.
+{16:2} Mihriem chun a lampui indikin a hriet hlak a,Sienkhom, lungril inkhìtu chu LALPA a nih.
+{16:3} I thilthaw iengkim chu LALPA inkoltir la,I thil tumhai chu hung hlawtling a tih.
+{16:4} LALPAN iengkim hi san neia a siem a na,Mi rilohai khom hi sietna nia ding an nih.
+{16:5} Lungril chapohai chu LALPAN a tirdak a,Hremna pumpel naw top an tih ti hre chieng rawh.
+{16:6} Hmangaina le ringumnain bawsietna a tlêng fai a,LALPA tina leiin miin suol a pumpel hlak.
+{16:7} A um dâna LALPA suklawmtu chun,A hmêlmahai khom inrem takin a umpui thei.
+{16:8} Fel lo taka sum tam tak nei nêk chun,Fel taka tlawmte nei a tha lem.
+{16:9} Mihriemin a lampui ding a duong hlak a,A kalchawi thuoitu ruok chu LALPA a nih.
+{16:10} Chung tieng thu anga ro rêl hlaktu lal chun,A kam suokin ro rêl suol ngai naw nih.
+{16:11} Bùkna le inkhìna indik chu LALPA ta a na,Ip rikna po po khom ama siem vong a nih.
+{16:12} Thil suol thaw hi lalhan an tirdak a,Indikna lei chauhin an lalna a nghet a nih.
+{16:13} Lalhan thu indik hril hi an lawm a,Thu dik hril mi chu an hlutsak hlak.
+{16:14} Lal lungsen chu thìna zuolko a na,Mi var chun a lo thlêm lungawi thei.
+{16:15} Lal hmêl a hlim chu nun a sukhoi a,A ditsakna chu thâl sûm tui pai ang a nih.
+{16:16} Varna hi rangkachak nêkin a tha lem a,Hrietna hi tangkaruo nêkin a hlu lem.
+{16:17} Mi indik lampui chu suol leh an inpaw naw a,Fimkhur taka kalchawitu chun a nun a hum hlak.
+{16:18} Chapona chu sietnain a zui a,Lungril indùna chu tlûknain a zui.
+{16:19} Mi chapo le râl lâk sum insem nêk chun,Inngaitlawm taka pasiehai laia khawsak a tha lem.
+{16:20} Zirtirna thu poisatu chu a hmûingìl hlak a,LALPA-a innghattu chu a hamtha hlak.
+{16:21} Lungvar nei chu sûngril mit varna nei mi an na,Tongkam thlum chun mi hnè theina a sukpung.
+{16:22} Varna nei hi hringna tui hnâr a na,Invêtna hi mi invêthai hremna a nih.
+{16:23} Mi var lungril chun a bâu chàng a thuoi a,A thu hril khom a awium bîk hlak.
+{16:24} Tongkam thlum chu a thlâra khuoizu ang a na,Lungril a sukhlim a, rù le châng a sukhrisel.
+{16:25} Mihriem ngaia lampui indik nia inlang,A tawpah thìna intlun lem hlak si a um.
+{16:26} Sinthawtu chu a phing khopna dingin a'n rim a,A phingtâmna chun sin a'n thawtir a nih.
+{16:27} Mi rilo chun suol thaw ding a phier hlak a,A kam suok chu meichok inhlap ang a nih.
+{16:28} Mi kawi chun innghirnghona a chok suok a,A kawi zawnga thu kher mi chun ruol bul khom a sukthè hlak.
+{16:29} Tharum thaw mi chun tuolbawmhai a sukhmu a,Lampui tha loah a thuoi tawl hlak.
+{16:30} Mi mitsîr chîng chun thil suol a phan hlak a,Hner pet chîng chun suol tieng a awn hlak.
+{16:31} Lu tuok hi ropuina lallukhum ang a na,Fel taka kalchawihai dong hlak chu a nih.
+{16:32} Mi râlhrâng nêkin mi zaidawthei ni a tha lem a,Khawpui latu nêkin lungsen kei dei thei mi ni a tha lem.
+{16:33} Mal chungah thum ei vawr hlak a,Thu tawpna ruok chu LALPA a'n thok vong a nih.
+{17:1} Sûngkuo inhal puma ruoipui thè nêkinInngei taka bu thing ring a tha lem.
+{17:2} Muolpho taka khawsatu nau chungah,Siehlaw var chun ro rêl a ta,Unau laia mi angin pâ ro chang vèng a tih.
+{17:3} Tangkaruo le rangkachak chu thukah,Meia an raw thienghlim hlak angin,LALPAN mihriem lungril a fie hlak.
+{17:4} Mi rilo chun hmûr khêlhlip a ngàithlak a,Mi khêlhlip chun hrilsietna thu a bengkhon hlak.
+{17:5} Pasiehai hmusittu chun anni Siemtu a hmusit a,Mi sietna diriemtu chun hremna pumpel top naw nih.
+{17:6} Tû le tèhai hi upahai lallukhum an na,Nauhai ropuina chu an nu le pahai an nih.
+{17:7} Thu hril thiem le mi invêt an inhmè naw a,Rorêltu bâu le khêl an inhmè naw nawkzuol.
+{17:8} Thamna hi a petu chun dawi angin a ngai a,A lekna tieng tieng hlawtlingin a ngai hlak.
+{17:9} Mi khingtu ngaidam hi ngainat hlawna a na,Bàu suktam ruok chu ruol sukthèna a nih.
+{17:10} Mi invêt voi za vuok nêkin,Lungvar nei voi khat zil a hlawk lem.
+{17:11} Mi suol chun hel dàn ngot a zong a,A kuomah thuneitu nunrawng tir an tih.
+{17:12} Invêtin thil invèt a thaw lai tong nèkin,A te lâkpêk savom le intuok a tha lem.
+{17:13} Suola thatna thungrultu insûng chu, Thil tha loin chèng chil a tih.
+{17:14} Inhal hi tuiting inthè ang a na,A buoi zuol hmain inhal ma rawh.
+{17:15} Mi suol thiem inchangtir a,Mi tha thiem naw inchangtir hi,LALPAN a tirdak ve ve a nih.
+{17:16} Mi invêt kuta sum um chu iem a tangkaina?Lungril boin varna a'n chawk thei ding maw?
+{17:17} Ruol chun ieng lai khom a mi hmangai zing a,Laibunghai chu mangang huna dinga pieng an nih.
+{17:18} Mi leibat mawphurtua insiem a,Tuolbawm ta dinga dakhama thang chu,Thil invètthlâk tak a nih.
+{17:19} Inhal chîng mi chun suol a ngàina a,Kotkhâr insâng bawltu chun sietna a fiel a nih.c
+{17:20} Lungril kawi chu a hmuingil ngai naw a,Lei khêlhlip chu buoinaah a tlu lût hlak.
+{17:21} Nau invêt chu lungngàina intluntu a na,A chungah a pâin lawmna hrim a nei nawh.
+{17:22} Lungril hlim hi damdawi tha tak a na,Lungril ngui chun rù le châng a suktawl.
+{17:23} Mi rilo chun arûkin thamna a lâk a,Indik takin ro a rèl thei nawh.
+{17:24} Lungvar nei chun varna a hnot zing a,Mi invêt chun kil le kapah mit a'n lên hlak.
+{17:25} Nau invêt chun a pâ a sukbeidong a,A hringtu a nû lung a sukrim hlak.
+{17:26} Poi tawk lo mi lei inchawitir a'n dik naw a,An ringum leia milien hrem a'n dik bok nawh.
+{17:27} Hrietna nei mi chu a tong fîmkhur a,Hrietthiemna nei mi chu a dei dap hlak.
+{17:28} Mi invêt khom a to chun var a hlaw a,A lei a vêng lem chun mi vara ngài a ni hlak.
+{18:1} Mal tla mi chun mani hma chauh a siel a,Thurawn tha khom a tai vong hlak.
+{18:2} Mi invêt chun hrietna a ngaina naw a,A ngaidân khûkpui chauh a hlimpui hlak.
+{18:3} Rîtlona chu muolphonan a zui hlak a,Muolphona khom inzaknain a zui hlak.
+{18:4} Mihriem bâu suok chu li inthûk ang a na,Varna tuikhur chu tui luong hok hok ang a nih.
+{18:5} Mi rilo chunga hlei nei a tha naw ang bokin,Poi tawk lo thiem naw inchangtir a tha nawh.
+{18:6} Mi invêt hmûr chun inhalna a chok dok a,A bâu suok chun vuok a'n tuortir hlak.
+{18:7} Mi invêt chun a bâu a sietpui a,A hmûr chu a ta dinga châng a nih.
+{18:8} Inrêl hi bu inhnik tak ang a na,A dolin ei dol thlàk zot zot hlak.
+{18:9} Sinthawa inthlàdà mi chu,Suksetu leh unau bul an nih.
+{18:10} LALPA hming chu kulbing nghet a na,Mi fel chu a tlân lût a, a him hlak.
+{18:11} Mi neinunghai kulpui chu an hausakna a na,Lung bang insâng tak angin an inngai hlak
+{18:12} Lungril chapo chu sietna leh an intlon a,Inngaitlawm chu chawimawinan a som hlak.
+{18:13} Ngàithlâk hmaa mi don chu,Thil invêtthlàk le muolphona a nih.
+{18:14} Nat khom mi'n tuortir theitu chu lungril a na,Lungril hliem chu tuin am tuor thei tâng a ta?
+{18:15} Lungvar nei chun hrietna a khawl khawm a,Mi var nâ chun hrietna a zong hlak.
+{18:16} Thilpêk chun a petu hma a sukkawpèk a,Milien khom olsam taka paw theina a nih.
+{18:17} Mi dang hunga an hung khing lêt hma chun,Thiem thu hril hmasatu chu indikin a'n lang hlak.
+{18:18} Thum vawrin inkhingna a rem a,Inkhing bur bur khom a kei thè hlak.
+{18:19} Unau suknuor chu kul nghet nêkin hnè an tak lem a,Inhal chu thîr tluona kul kotkhâr kalh ang a nih.
+{18:20} I bau suok dungzuiin khop i ta,I hmûr suok rà zirin tlai i tih.
+{18:21} Lei hin damna le thì theina a pâi a,I hmang dàn angin a ra sîk i tih.
+{18:22} Nuhmeia nei ding zong hmutu chu thil tha hmu a na,LALPA ditsakna a dong hlak.
+{18:23} Mi rethei chun rienginko takin thu a hril a,Mi hausa ruok chun chaltlai takin a lo vîn hlak.
+{18:24} Ruol tha dai sawt lo um hai sien khom,Unau nêka inhnaipui lem ruol an um hlak.
+{19:1} Mi invêt le mi khêlhlip ni nêkin,Mi rethei, dem kai loa kal chawitu ni a tha lem.
+{19:2} Hrietna nei si loa phûr hlut a tha nawh,Pawng inhmawa kalchawi chu a'n suithlûk hlak.
+{19:3} Mihriemin a'n vêtna a sietpui pha,Pathien chungah a lungsen hlak.
+{19:4} Hausakna hi ruol hauna a na,Retheina chun ruol a sukthè.
+{19:5} Hrepuitu der chun hrem tuor ngei a ta,Khêl hril chîng khomin pumpel bok naw nih.
+{19:6} Mi tiktlâihaiin tlontu an hau a,Mi thilphalhan ruol an hau hlak.
+{19:7} Mi rethei chu a sûnghai hmana an nghok chun,A ruolhai lem chun an va hnawl nasa awm de!Anni chu ko lom lom hlak sien khom,A bul hnaia hrim an um nuom nawh.
+{19:8} Varna nei chu mani inditsakna a na,Hrietthiemna nei chu hmuingilna a nih.
+{19:9} Hrepuitu der chun hrem pumpel top naw nih,Khêl hril hmang chu bohmang a tih.
+{19:10} Khawsak insàng le mi invêt an inhmè naw a,Milien chunga siehlaw inlal an inhmè naw zuol.
+{19:11} Mi var chu a lungsen mei mei nuom naw a,A poi an tawk a haider thei chu a ropuina a nih.
+{19:12} Lal lungsen chu keipui inrûm ang a na,A ditsakna chu hlobet chunga daidaw tla ang a nih.
+{19:13} Nau invêt chu a pa tlâkranna a na,Nuhmei hrangsie chu ruo nichîng do ang a nih.
+{19:14} In le lo hi nu le paa inthoka ei rochung a na,Nuhmei var ruok chu LALPA mi pêk a nih.
+{19:15} Mi thabo chu a in chur chur a,Mi zomthaw chun phingtâm tuor a tih.
+{19:16} Thupêk zawmtu chun nun a vong tha a,A ngaithâtu ruok chu bohmang a tih.
+{19:17} Tu khom retheihai lunginsiettu chu,LALPA kuoma thil inpûktirtu ang a na,A thil thaw thathai chu la rul vong a tih.
+{19:18} Beiseium a la ni laiin i nau chu thunun rawh,Chuong naw chun a thì i remti tina a nih.
+{19:19} Lung inrom chun a nunsiet man hmung a ta,San la khom i san nawk pei ngai a tih.
+{19:20} Thurawn ngàithla la, thupêk zawm la,A tawpah mi var la hung nîng i tih.
+{19:21} Mihriem lungrilin thaw tum hau sien khom,LALPA remruot chauh a dingchang hlak.
+{19:22} Mihriema thlâkhlàum chu a ringumna a na,Mi khêlhlip nêkin mi rethei ni a tha lem.
+{19:23} LALPA ti chu hringna a ni takzet a,A tîtu chu lungawi takin an um a,Thil tha loin tlâkbuok naw nih.
+{19:24} Mi thabo chun buthlêng a pur a,Bu beng dingin kut a hlàng pei si nawh.
+{19:25} Mi hmusit chîng hlak i vuok chun,Chu mimawl chun fîmkhur inchûk a ta;Hrietthiemna nei mi i zil ruok chun,A hrietna hung pung a tih.
+{19:26} Pâhai rok a, nûhai hnot suoktu nau chun,Inzakna le muolphona a'n tlun hlak.
+{19:27} Ka naupa, zirtirna i dong pei theina dingin,Hrietna lampui pèt hmangsan naw rawh.
+{19:28} Hrepuitu porchè chun rorêlna a palzût a,Mi rilo chun suolna a dol thlâk zung zung.
+{19:29} Nuisawtuhai chu thiem naw chang sà an na,Mi invêthai chu ruongzàngah vuong an tih.
+{20:1} Uoiin hi nuizatbûra mi siemtu a na,Zu hrât chu insuol khêkna siemtu a na,Zu dawi vèta um chu a varthlâk nawh.
+{20:2} Lal lungsen chu keipui inhûk ang a na,A suklungsentu chun hringna a chân hlak.
+{20:3} Innghirnghona laka fihlim hi inzaum nina a na,Mi invêthai ruok chu an inrol phêt hlak.
+{20:4} Mi thabo chun a hunah hnuoi a'n let pei naw a,Busîk hunah sîk ding a hmu ngai bok nawh.
+{20:5} Lungrila mihriem tumhai chu li angin a'n thûk a,Sienkhom mi var chun a man suok vong thei.
+{20:6} Mi tam tak ringumin an insâl hlak a,Mi ring tlâk tak tak chu tuin am hmu zo a ta?
+{20:7} Indiknaa kalchawi hlak mi fel chu,A hnung zuitu a thlàhai an hamtha.
+{20:8} Ro rêl dinga lal a'n thung pha chun,A mitin thil tha naw po po a sêp fai hlak.
+{20:9} "Ka lungril ka vong thienghlim a,Suol lakah ka fâi" tu am ti thei?
+{20:10} Bùkna indik lo le inkhìna indik lo chu,Pathienin a theida ve ve a nih.
+{20:11} Naupang khom a changchavoiah,Mi thâ le indik a nizie a'n lang vong.
+{20:12} Hriet theina nâ le hmu theina mit hai hi,LALPA siem vong a nih.
+{20:13} Imu i thlâkhla chun rethei i ta,I har zing chun fâk seng lo nei i tih.
+{20:14} Inchawtuin, "A tha nawh, a tha nawh" a ta,A fe pha a thil inchawk chu a suong vieu si hlak.
+{20:15} Rangkachak dâm, lunghlu rubi dâm a tam,Hrietna thu hrilna hmûr ruok chu lunghlu vàng a nih.
+{20:16} Hnam dang ta dinga dakhama insietu silfên chu la la,Nuhmei tha lo ta ding a ni lem chun a silfen chu dakhamah sie rawh.
+{20:17} Thil fâk rûk chu inhnik hle khom ni sien,A tawpah bâua lung thîl hnaw sip ang a nih.
+{20:18} Mi berawnin thil ruohmang hlak la,Var taka râl rêl hmasa zetin bei hlak rawh.
+{20:19} Mi bâu tam chun thurûk a ip thei naw a,Chuleiin, mi bâu tam chu pawl naw rawh.
+{20:20} Tu khom nû le pâ tongsie inphurtu chu,Thim sa lai tak a khawnvar sukmitin um a tih.
+{20:21} Olsam taka rosum hau thut mihai chu,A tawp tieng hmûingìl naw ni hai.
+{20:22} "Ka poi i tawk, thungrul ka ti che"Ti ngai hrim hrim naw ro,LALPA nghâk unla, hung san suok a ti cheu.
+{20:23} Bùkna indik lo hi LALPAN a theida a,Inkhìna indik lo chu a tha bok nawh.
+{20:24} Ei kalchawi tin hi LALPA ruot a na,Tuin am a lampui ding hre thei a ta?
+{20:25} Thu intiem thuta a hnunga ngaituo chauh hi,Mani le mani insukkolawkna a ni hlak.
+{20:26} Lal var chun mi rilohai a zâp lêng a,Tawlailirin a chîl tawl hlak.
+{20:27} Mihriem lungril elvartu chu LALPA a na,A sûngril inthûk tak chenin a èn suok hlak.
+{20:28} Hmangaina le ringumnain lal a vong him a,A lalthungpha chu hmangainaa suknghet a nih.
+{20:29} Tlangvàlhai ropuina chu an hrâtna hi a na,Upahai mawina chu an lu intuok hi a nih.
+{20:30} Hliem khopa invuokin thil tha lo a sukfai a,Vuokna chun sûngril chen khom a tlêng fai hlak.
+{21:1} Lal lungril chu LALPA kuta tui hnàr ang a na,A nuomna tieng tieng an luongtir hlak.
+{21:2} Miin a lampui tin indikin a hriet hlak a,LALPA ruok chun lungril a bûk hlak.
+{21:3} Thil fel tak le indik taka thaw hi,Inthawina nêkin LALPAN a pom lem.
+{21:4} Mit meng insâng le lungril chapo hi,Mi riloin hmathead a hmang a na,Chu chu thil suol a nih.
+{21:5} Mi taima thiltum a hlawtling hlè hlak a,Hmawsaruma thawtu chu a tlaran hlak.
+{21:6} Khêla hausak chu tui hu inzâm ang a na,A zongtu chun thìna a zong a nih.
+{21:7} Mi suolhan thil dik thaw an nuom naw leiin,An nunrawngna chun phît hmang tawl a tih.
+{21:8} Thiem naw changtu lampui chu a kikawi a,Poi tawk lo lampui ruok chu a tha ngîl hlak.
+{21:9} Nuhmei inhal hmang le in lien hluo nêkin,In chung sîp kila um a tha lem.
+{21:10} Mi rilo chun suol thaw a châk dop dop a,A tuolbawmhai lakah zàngaina a'n langtir ngai nawh.
+{21:11} Hmusittu ei hrem chun mi mawlhai an var pha a,Mi var ei zirtir chun a hriet sap phâ teuh hlak.
+{21:12} Mi Dik chun mi suol sûngkuo a'n chik a,An chungah sietna a'n tlungtir hlak.
+{21:13} Mi retheihai khêk ri ngaithàtu chu,A khêk ve pha leh ngaithà ni vêng a tih.
+{21:14} A rûka thilpêkin lungsen a thawi dam thei a,Nasa taka lungsen khom tham lungawi thei a nih.
+{21:15} Ro a fel pha mi indikhai an lawm a,Thil suol thawtuhai ruok chu an chi-ai hlak.
+{21:16} Hrietthiemna lampui pêtsantu chu,Mithi ruol lai khawsa vêng a tih.
+{21:17} Nuomtawl ngot thlâkthlatu chu rethei a ta,Zu le sa ngainatu chu hausa ngai bok naw nih.
+{21:18} Mi suol chu mi fel intlanna'n hmang an ta,Mi ringum lohai chu mi indikhai intlanna'n.
+{21:19} Nuhmei hrângsie le inhal hmang le chèng nêkin,Thlalêra um a tha lem.
+{21:20} Mi var chêngnaah rosum le hriek a um zing a,Mi invêt ruok chun a chèn ral vong pei hlak.
+{21:21} Felna le hmangaina hnottuhai chun,Hringna, felna le chawimawina an dong hlak.
+{21:22} Mi var chun mi hrâthai khawpui a rùn a,An ringsan tak kulpui chu a sukchim hlak.
+{21:23} Tu khom a bâu le lei vêng thatu chun,Siet theina lakah a nun a vèng him a nih.
+{21:24} Mi chapo hming chu 'Hmusittu' a na,Chin lêm nei loa uongin thil a thaw hlak.
+{21:25} Mi thabo chun ieng khom a thaw pei naw leiin,Ruol inhnar rêng rèngin a thi hmang hlak.
+{21:26} Mi rilo inhnarna chu a pung ni tin hlak a,Mi fel ruok chun inro nei loin a sem hlak.
+{21:27} Mi rilo inthawina chu LALPAN a tirdak a,Suol thaw tumna lungril puta a hung chawi lem chu,A va hang tirdak nasa zuol awm ngei de!
+{21:28} Hrepuitu der chu bohmang a ta,A thu awituhai khom kumkhuon bohmang an tih.
+{21:29} Mi rilo chu a meng inrum a,Mi indik ruok chun a lam hraw a ngaituo hlak.
+{21:30} Varna, hrietthiemna le remruot iengkim,LALPA kalzawng chu a hlawtling ngai nawh.
+{21:31} Sakor chu indo nia dinga buotsai a na,Hnèna ruok chu LALPA ta a nih.
+{22:1} Hming tha hi sum tam tak nèkin a ditum lem,Mi ngaihlut ni khom tangka le rangkachak nèkin.
+{22:2} Rethei le hausain nina an intawm chu,LALPA kutsuok vong an nina hi a nih.
+{22:3} Remhre mi chun titna a hmu pha a'n bi a,Mi mawl chun a tawn a, a tuor pha hlak.
+{22:4} Inngaitlawm le Pathien ti man chuHausakna, chawimawina le hringna a nih.
+{22:5} Mi rilo lampui chu hling le chângin a sip a,Nun vong him nuomtu chun a hnai ngai nawh.
+{22:6} Naupang chu lampui indik inchûktir la,A upat hnung khomin pêtsan ngai naw nih.
+{22:7} Mi hausahan pasiehai chungah thu an nei a,Thil pûktu chu inpûktirtu siehlaw a nih.
+{22:8} Hleineina tùtû chun buoina a sîk hlak a,Mi chunga lungsenna hmol a lek chu suktliekin um a tih.
+{22:9} Mi tiktlai chu malsawmin um a tih,Mi retheihai chu bu a pêk hlak leiin.
+{22:10} Hmusittu hnot suok la, innghirnghona bo a ta, Inhal le inbiek sisawhai khom rèng a tih.
+{22:11} Lungril thienghlim ngainatu leHawihawm taka mi biengbiek thiem chu,Lalin ruolah nei a tih.
+{22:12} Hrietna nei mi chu LALPAN a hum tlat a,Mi khêlhliphai thu ruok chu a pei thlâk hlak.
+{22:13} Mi thabo chun, "Tuolah sakeibaknei a um!Ka suok chun mi sè hlum a tih" dâm a ti hlak.
+{22:14} Nu leplêr bâu chu tlâkpûm inthûk tak ang a na,LALPA lungsenna phurtuhai chu tla lùt an tih.
+{22:15} Naupang lungrila invêtna bu khuor chu,Thununna hmola hnot hmang thei a nih.
+{22:16} Hausak nuom leia pasiehai nêksawr leThilpêka mi hausa tlon chu tlâkranna a nih.
+{22:17} I nâ dawin, ka thuhai hi ngaithla la,I lungrilin ka hrilhai chu vong rawh;
+{22:18} I lungrilah vong a, i hmùrah i sie zing chun,Thil lawmum tak nîng a tih.
+{22:19} LALPA ringa amaah i'n nghat theina dingin,Voisun hin i kuoma ngei ka hril a nih.
+{22:20} Thurawn le hrietna thuvar sawmthum,Ka ziek suokpêk diem che a nih,Chu chun remruot thiem dàn a chuong.
+{22:21} Chu taka chun thu dik ring tlâk hrieng i ta,Thu dik hmu suok dinga an tir phâ che,A donna indik tak hre thei i tih.
+{22:22} Mi pasiehai rok naw rawh, an rethei si a,Rorêlnaah hrilpuitu nei lohai pal zût naw rawh.
+{22:23} LALPAN an thu hung hrilpui a ta,Anni roktuhai chu rok vèng a tih.
+{22:24} Mi nunsie ruolah siem naw la,Lungsen hmang inkoppui naw rawh,
+{22:25} A nungchang la pal i ta,Intâng song hlauh rawi i tih.
+{22:26} Mi leibat rul dingin intiemkam naw la,Dàkhamah insie ngai bok naw rawh;
+{22:27} A thungna ding i nei si naw chun,I zàlkhum chen làkpêk an ti che.
+{22:28} Tiena tlânga in pi le puhai lo phun,Ramri lung chu son ngai naw rawh.
+{22:29} Mani sin thiem mi i hmu am?Ama chu lal kuomah sin thawng a ta,Mi naranin sor phâk naw ni hai.
+{23:1} Rorêltu leh thlaithlèng i kîl chângin,I hmaa um kha en fîmkhur la,
+{23:2} Tâm taluoa i beng tuom tuom chun, I hnuk le chemte i chuktuo ang nîng a tih.
+{23:3} Indawhâna ruoi el a ni thei ti hre zingin,A'n hnikna ngot chu hnot naw rawh.
+{23:4} Hausak tum leiin insuk-kulcho naw la,Insùm dan chintawk hre dingin var rawh.
+{23:5} Hausakna chu i hmu vuoi a, a bo nawk dai a,Mupui thla put ve ang elin vàn tiengA vuong hmang nawk thut hlak a nih.
+{23:6} Mi tiksie inah bu fa ngai naw la,Thil inhnik a neihai chu inhnar naw rawh;
+{23:7} A sêng zàt ding ngot sût mi a na,e "Fain dawn teuh rawh" ti sien khom,A lungrilin a ngài poimaw naw che.
+{23:8} I fàk tah tlawmte khom inluok suokin,Inpâk thlawn pal hlauh rawi i tih.
+{23:9} Mi invêt chu ieng khom hril naw rawh,I thu varhai chu iengah ngai naw nih.
+{23:10} Pipu ramri lungphun son naw la,Fahràhai ram nêk ngai bok naw rawh,
+{23:11} Anni Humtu chu a hrât a,Anni chu tan a ta, khing a ti che.
+{23:12} A zirtirnaah i lungril innghat la, Hrietna thu tieng i nâ daw rawh.
+{23:13} Naupang thununah intîm naw rawh,Hmola i vuok leiin thi naw nih.
+{23:14} Hmol hmangin hrem la,Seola inthokin a thlarau san suok i tih.
+{23:15} Ka naupa, i lungril a var chun,Ka lungril lawm takzet a tih.
+{23:16} I bâuin thu indik a hril chun,Ka thlarau lawm takzet a tih.
+{23:17} I lungrilin mi suolhai inhnar naw la,LALPA tîna tieng thahnem ngai pei lem rawh.
+{23:18} Chuongchun, hma tieng beisei ding nei i ta,I beiseina chu thlawn ngai hrim hrim naw nih.
+{23:19} Ka naupa, ngaithla la, var rawh,Lampui indikah i lungril sie tlat rawh.
+{23:20} Uoiin hè mi chu inkoppui naw la,Sa hè mihai lai inzêl bok naw rawh;
+{23:21} Inrui hmang le hnukrawlhai chu rethei an ta,Inrui muchukhai chun zakaw tiek hâk an tih.
+{23:22} A hringtu che i pâ thu zawm hlak la,I nû a hung tar pha hmusit naw rawh.
+{23:23} Thu dik inchaw la, zor ta naw rawh;Varna, inkeithuoina le hrietthiemna hai inchaw rawh.
+{23:24} Nau fel neitu chu nasa takin a hlim a,Nau var neitu chu a nau chungah a lawm hlak.
+{23:25} I chungah i nû le pâ lawm hai sien,A hringtu che chu hlim raw se.
+{23:26} Ka naupa, i lungril mi pe la,Ka lampui chauh bi ngar ngar rawh.
+{23:27} Nawchizor chu tlâkkhur inthûk tak ang a na,Nuhmei suol chu tuikul inchêp tak ang a nih;
+{23:28} Suomhmang angin mi an inchàn a,Pasal ruol lai bawsietna an sukpung.
+{23:29} Tu am chungpik, tu am lungngai,Tu am buoina nei, tu am thubuoi nei,Tu am tûl loa hliem tuor hlak,Tu am mit meng sen rûm hlak chu?
+{23:30} Sawt tak tak uoiin inthung chila,Uoiin chokpol dawn hlakhai chu an nih.
+{23:31} Noa uoiin sen phul sar sar el,An lem khiet khiet lai dâm chu,A en khom en ngai naw rawh.
+{23:32} A tawpah rûl angin mi a chuk a,Rûlngân tûr angin mi a fang hlak.
+{23:33} I mitin thil mak tak tak hmung i ta,Thil inzom lo tak tak ngaituong i ta,
+{23:34} Tuipui insok chunga zâl ang leLong ngul lêra inthên inthên,Long inrui ang el nîng i tih.
+{23:35} "An mi loka chu a na nawh,An mi vuoka chu ka hriet si nawh!Ieng tik am kei hi tho harin,Dawn ding ka hmu thei ding chu aw?" ting i tih.
+{24:1} Mi rilohai inhnar naw la,Anni lai thang ve châk bok naw rawh;
+{24:2} Inpawngnêkna ding ngot an dap a,Poi tawk dàn ding ngot an hril hlak.
+{24:3} Varna hmanga sûngkuo chu indin a na,Inhrietthiem tonnaa suknghet a nih.
+{24:4} In sûng chu ro hlu le mawi tinrênga,Hrietna hmanga sung sip a nih.
+{24:5} Pasaltha var chun mi hrât khawkhêng nêkin,Nasa takin thil a thaw thei lem a,Hrietna hi awmkhau nêkin a tha lem.
+{24:6} Râl do dingin râl rêl thiem a ngai a,Remhre hauhai chun hmèlma an hnè hlak.
+{24:7} Kul kota mipui pungkhawmnaaThupui vai phâk lo mi invêthai ta dingin,Varna hi ban phâk ruol a ni nawh.
+{24:8} Thil tha lo thaw ding phier hlaktu chu,Mihaiin mi khel siet hmangah an ngai.
+{24:9} Thil tha lo phier hi suol a na,Hmusittu chun mi hnâm a kai.
+{24:10} Buoi mangang huna i châu tlep el chun,Hràtna i nei tlawm hlê a nih.
+{24:11} Indik lo taka thi dinga an thuoihai chu san lo a,That dinga an fen dawr dawrhai chu ensan a,
+{24:12} "Kan lo hriet ve rêng rêng lem ie!"Tia inhril tlip in tum tâl dâm a ni chun,Lungril bûktu'n a hmu naw ding cheu maw?In thlarau vêngtu chun a hriet kim vong a,Mi tin an thil thaw angin a rul ding a nih.
+{24:13} Ka naupa, khuoizu dawn rawh, a tha si a,A thlâra inthoka far ngei chu inhnik i ti kha.
+{24:14} Varna hi i hringnun khuoizu a nih ti hre la,I man fûk chun hma tieng beisei ding nei i ta,I beiseina chu thlawn ngai hrim hrim naw nih.
+{24:15} Suomhmang angin mi fel in inchân naw la,A chêngna in chu rok ngai naw rawh,
+{24:16} Mi fel chu voi sari tlu sienkhom,A hung tho nawk pei hlak a,Mi rilohai ruok chu sietnain a chim nel hlak.
+{24:17} I hmêlma a tlùkin diriem naw la,A'n sui chângin i lungril lawm naw raw se.
+{24:18} LALPAN hmuin dit nawng a ta,A chunga a lungsenna rè hlau rawi a tih.
+{24:19} Thil suol thawtuhai leiin insukhnûr nuom naw la,Mi rilohai chu inhnar ngai bok naw rawh
+{24:20} Mi suol chun beisei ding hrim a nei naw a,Mi rilo khawnvar chu sukmit vak nîng a tih.
+{24:21} Ka naupa, LALPA le lal chu ti la,Anni laka helhai chu inkoppui naw rawh;
+{24:22} An chungah sietna intlungtir thut an tih,Sietna intlun theitu an ni ve ve si a.
+{24:23} Mi var chun hienghai khom hi a hril:Rorêlnaa thlei bik nei hi a tha nawh.
+{24:24} Mi rilo kuomah, "Poi i tawk nawh" titu chu,Miin tongsie inphur an ta,Hnam tinin tirdak an tih.
+{24:25} Thiem naw inchangtirtu ruok chu lawm an ta,Malsawmna tam tak vûrin um bok a tih.
+{24:26} Donna indik tak pêk chu,Hmûra infawp ang a nih.
+{24:27} Puo tienga i sin chu thaw zo la,I lohma iengkim rêl fel diem la,Chu zoah i in ding indin rawh.
+{24:28} A san boin i tuolbawmhai thubuoiah, A kal zawngin hrepuituah thang ngai naw la,Khêl hrilnan i hmûr hmang naw rawh.
+{24:29} "Amân ka chunga a thaw ang charin,Hang thungrul vèng ka tih" ti ngai naw rawh.
+{24:30} Mi thabo lo ka hraw tlang a,Rem hre lo grèp huon ka sir bok a,
+{24:31} Hmun tin hlingin a bawm sip a,A hnuoi thûlin a tuom phui vong a,A dâi lung bang a chim thla vong.
+{24:32} Ka thil hmu ka ngaituo neu neu chun,Inchûk ding thil ka hmu suok a:
+{24:33} 'La hang zâl met ka tih, La hang inhnâr met ka tih,Kut hmasuiin, hadam takin,La'n zam met ka tih' i ti sûng khan,
+{24:34} Pasietna chun rûkru angin,Hung nang thut a ti che a,Tlâksamna khomin râl angin,Hung nangching thut a ti che.
+{25:1} Hienghai khom hi Solomon thuvar dang,Judai ram lal Hezekia mihaiin,An ziek thlâk sawng chu a nih:
+{25:2} Pathien ropuina chu a thil thup a na,Lalhai ropuina chu a thil thup zong suok a nih.
+{25:3} Vàn insângzie le hnuoi inthûkzie ang bokin,Lalhai lungril khom sui suok ruol a ni nawh.
+{25:4} Tangkaruo êk po i pei hmang chun,A sertuin thil tha hung ser suok a tih;
+{25:5} Lal bula inthokin mi rilo po son hmang la,A lalna chu felnaa suknghetin um a tih.
+{25:6} Lal hmaah invor làr tum naw la,Milienhai lai thung inchu bok naw rawh;
+{25:7} Milienhai hmaa insukhmaimawk nêkin,Thungna tha lema thung dinga fiel ni a tha lem.
+{25:8} I mit ngeia i thil hmuhai khom,Rorêltu kuomah intlun inhmaw naw rawh;A tawpah i tuolbawmin sukmuolpho sien che,Ieng am i law hrim ding a na?
+{25:9} I tuolbawm leh thubuoi in nei a ni khomin,Hmai intonin in thu chu hrilpui la,Mi dang thurûk hril suok ngai naw rawh;
+{25:10} A lo hretuin sukmuolpho hlau a ti che a,I hming siet rè ta ngai naw nih.
+{25:11} Thû a ni dàn ding ang taka hril suok hi,Tangkaruoa rangkachak mûm phùm ang a nih.
+{25:12} Mi var zilhauna chu a ngàithlatu ta dingin,Rangkachak nabe le kutsebi nêkin a hlu lem.
+{25:13} Palai ringum chu a tirtu ta dingin,Bu sîk huna vûr dei ang a na,A puhai lungril a sukhar song song hlak.
+{25:14} Thilpêk pe dinga intiem sia pe lo chu,Sûm tui pai lo thliin a lên ang chauh a nih.
+{25:15} Dawtheinain rorêltu lungril a hnè thei a,Tong innemin rù khom a dèng tliek thei.
+{25:16} Khuoizu i hmu chun a huntawk char fa rawh,I fâk rawn taluo chun inluok rawi i tih.
+{25:17} An khât tawk chauin i tuolbawmhai sir rawh,I leng inzing taluo chun nghok an ti che.
+{25:18} Mani tuolbawmhai indik lo taka hèk chu,Hmol le kawlhnàm le thal inzum tak ang a nih.
+{25:19} Buoi nikhuoa mi ringum lo ringsana hmang chu,Ha nâ le ke rù inpelsol nei ang a nih.
+{25:20} Mi lungngai laia hla sakkhum chu, Dei laia silfên lakpêk ang le,Hliemna bea changal bur ang a nih.
+{25:21} I hmêlma a phing a tâm chun bu pe la,A dang a châr chun dawn ding pe rawh.
+{25:22} I pêk chun a luah meiling i sie khawl nîng a ta,LALPAN lawmman pêng a ti che.
+{25:23} Hmar thliin ruo a hung thuoi hlak angin,Mi dem hmang leili chun lungsen hmêl a kei pung.
+{25:24} Nuhmei hrângsie le in lien tak hluo nêkin,In chung sîp kila um a tha lem.
+{25:25} Ram hla taka inthoka chanchin lawmum hriet chu,Châu dangchârin tui dei a'n khiet ang hi a nih.
+{25:26} Mi rilo hmaa mi fel tlawm chu,Tuikhur suksiet le tuihnar sukporchè ang a nih.
+{25:27} Khuoizu dawn rawn taluo a tha naw ang bokinChawimawi hlaw tum taluo hi a tha nawh.
+{25:28} Mani inthunun thei lo mi chuKhaw kul bang chim ang a nih.
+{26:1} Nipui laia vûr tlâk le busik huna raw sûr chu,Thil inhmè lo a ni ang bokin,Mi invêt le chawimawina hi thil inhmè lo a nih.
+{26:2} Chongzong vuong kuol le peleu inlêng angin,A san boa tongsie inphur chu a'n leng kuol hlak.
+{26:3} Vuokna hruol chu sakor ta ding a na,Thîrbar chu sabengtung ta ding a na,Hmoltum chu mi invêt ruongzànga ding a nih.
+{26:4} Zawna invêt tak tak i don pei chun,A zawna indontu anga invêt ni vêng i tih
+{26:5} Invêt chu a'n vêt dàn ang chauhin don rawh,Chuong naw chun varah inngai hlauh rawi a tih.
+{26:6} Mi invêt zuolkoa tirtu chu,Mani ke tan bong a,Nunrawngna tui dawntu ang a nih.
+{26:7} Thuvar hi mi invêt baua ding chun, Ke zeng thên ang mei mei a nih.
+{26:8} Chawimawina mi invêt inkhumtir chu,Saihlia saihlûm khit de ang a nih.
+{26:9} Thuvar hi mi invêt bâua ding chun,Zurui kuta hling lût ang a nih.
+{26:10} Mi invêt le mi lênglak sor hlaktu chu,A hmû hmù kâp hliem hlak thal kâptu ang a nih.
+{26:11} A luoka bok kîr nawk hlak ui angin,Invêt chun thil invêt a thaw non rop hlak.
+{26:12} Var si loa vara inngai nêkin,Mi invêt chun beisei ding a la nei lem.
+{26:13} Thabo chun, "Lampuiah keipui a um,Kotthlêrah keipui a'n vâk" a ti hlak.
+{26:14} Kotkhâr chu kopzaa inthlung a ni angin,Mi thabo khom a khum leh an inmat hlak.
+{26:15} Mi thabo chun buthlêng a pur a,Bu beng dingin kut a hlàng pei si nawh.
+{26:16} Fîmkhur taka thu hril hlak mi pasari nêkin,Mi invêt chun var lem daiah a'n ngai.
+{26:17} Lam laka mi buoinaa inroltu chu,Ui tuol leng lai naa lo mantu ang a nih.
+{26:18} Mi invêt, thingthu hringa mi nor a,Thi theina thala mi kâptu chu,
+{26:19} Mani tuolbawmhai hlêm a,"Ka fiemthu a nih" titu ang char a nih.
+{26:20} Thingthu bo chun mei a rêm ang hin,Inlawt tuo a um nawnaah inhal a rè hlak.
+{26:21} Meihol a tam leh mei a'n ling tha a,Thing a tam leh mei a chok tha ang bokin,Inhal hmang tamnaah buoina a pung hlak.
+{26:22} Inlawt indem hi bu inhnik tak ang a na,Mihriemin ei dol lût zung zung el hlak.
+{26:23} Hmûr thiem, lungril suol put si chu,Dâr tuia pil bêl zût tlêt ang a nih.
+{26:24} Mi vervêkin theidàna a pài ruk chu,Tongkam thain a thup thiem hlak.
+{26:25} Thu hril thiem hlè sien khom awi naw rawh,A lungrilah tirdakum pasari a pâi si a.
+{26:26} A theidàna chu hlêmna thuin thup sien khom,A rîtlona chu tlâng hrieta phor lang ni tho a tih.
+{26:27} Tlâkkhur chotu chu ama khur choa chun tlâng a ta,Lung inhlumtu chu a chungah hung inhlum lêt a tih.
+{26:28} Lei khêlhlip chun a'n hliemhai chu a theida a,Inpâk derna hmûr chun sietna a'n tlun hlak.
+{27:1} Zînga ding thil uongpui naw rawh,Zîngin iem a her suok ding i hriet si nawh.
+{27:2} Mani bâua mani inpâk loin,Mi dangin inpâk lem raw hai se che,Nangma hmûra inthok ni loin,Hmêl hriet lo hmûra inthok ngeiin.
+{27:3} Lung hi a rik a, phaiphin hi a khìn a,Mi invêt chona chu an pahni nêkin a rik lem.
+{27:4} Lungsenna hi a rawng a, Lungsen intûr lem chu a phul buon buon a,Sienkhom thîkna chu tuin am tuor zo a ta?
+{27:5} A rûka inhmangai nêk chun,Tlang taka inzil hi a hlu lem.
+{27:6} Ruol mi ben chu thatna ding a na,Hmêlma fawp luom chu a der a nih.
+{27:7} Khop lai chun khuoizu khom ei hnâm a,Tâm chun thil khá khom a'n hnik vong.
+{27:8} In le lo ngaisak loa dauràp chu,A bu op lum hman lo vate ang a nih.
+{27:9} Hriek le rimtuiin lungril a suklawm angin,Lungril taka suok ruol tha thurawn pêk chun,Lungril a sukhlim hlak.f
+{27:10} I ruol le i pâ ruolhai nghatsan naw la,Sietna i tuokin i unau kher pan naw rawh.Ràla unauhai nêkin tuolbawmhai an tangkai lem.
+{27:11} Ka naupa, var la, ka lungril suklawm rawh,Mi hrilsetuhai chu ka don lêt theina dingin.
+{27:12} Remhre mi chun titna a hmu pha a'n bi a,Mi mawl chun a tawn a, a tuor pha hlak.
+{27:13} Hriet lo mi ta dinga dakhama insietu silfên chu la la,Nu tha lo lakah a ni lem chun a silfên chu dakhamah sie rawh.
+{27:14} Zîng inhma taka mi kei tho a,Inring vuola mi chibai chìng chu,Tongsie inphur ang charin ngai an tih.
+{27:15} Nuhmei inhal hmang chu ruo nichîng ang a nih;
+{27:16} Khap dei tum chu thli dang tum ang leKuta sahriek fùn dè tum ang a nih.
+{27:17} Thîrin thîr bok a sukngei thei angin,Mihriemin mi dang a tât ngei hlak.
+{27:18} Theichang kung enkoltu chun a rà fâng a ta,A pu enkoltu chun chawimawi hlawng a tih.
+{27:19} Tuiah hmêl thla a'n lang angin,Mihriem lungrilah a nìna a'n lang.
+{27:20} Thina le Sietnan khop tik an nei naw angin,Mihriem mit khomin khop tik a nei nawh.
+{27:21} Suongtuina bêl chu tangkaruoa ding a na,Rawtuina pûm chu rangkachaka ding a na,Mihriem fiena chu inpâk a hlawnaah a nih.
+{27:22} Mi invêt chu bu rawtna lunga rawtin,Sumah fahrelin suk hrep khom ni la,An vètna chu sukkhè thei chuong naw ti nih.
+{27:23} I beramhai ngîrhmun hre chieng la,I ran ruol fîmkhur takin enkol rawh.
+{27:24} Hausaknain kumkhuo a dai naw a,Lalna khomin thang tam a dai nawh.
+{27:25} Hlo an àt a, der thar a hung insuo a,Tlânga inthokin ran bu an làk khawm hlak.
+{27:26} I beram hmulhai chu sil i ta,Kêl manin ram inchawng i ta,
+{27:27} I sûngkuo chawmna dinginKêl nenetui tam tak sawr i ta,I siehlaw nunghâkhaiin tlàn bok an tih.
+{28:1} Mi suol chu tu hnot loin a tlânsie a,Mi fel chu sakeibaknei angin a huoi.
+{28:2} Ram sûngah helna a suok pha, Rorêltu an inthlàk zûr zut hlak a;Lal var le hrietna hau mi ruok chun,Buoina um loin ram a enkol hlak.
+{28:3} Pasiehai nêksawr mi rorêltu chu,Bù phà setu ruopui vânawn ang a nih.
+{28:4} Dàn bawsetuhan mi rilohai an inpàk a,Dàn zawmtuhai ruok chun an dodàl hlak.
+{28:5} Mi suolhan rorêlna dik an hriet thiem naw a,LALPA zongtuhai chun iengkim an hriet thiem.
+{28:6} Nun khawkher hrawtu mi hausa ni nêkin,Soisel boa kalchawitu mi rethei ni a tha lem.
+{28:7} Dàn zawmtu nau chu lungvar nei mi a na,Mi hnukrawlhai pawltu chu a pâ sukzaktu a nih.
+{28:8} Sum pung la teua insukhausatu chun,Mi rethei lâinatuhai ta dingin a khawl khawm a nih.
+{28:9} Tu khom dàn bengkhon nawtu chu,An tongtainahai chen khom a tirdakum.
+{28:10} Lampui tha loa mi indikhai thuoitu chu,Ama tlâkkhur choa ngei chun tlâng a ta,Soisel boa khawsatu ruok chunThil tha dongin rochung a tih.
+{28:11} Mi hausa chun var a'n ti hle khom a ni thei a,Lungvar nei mi rethei chun a hmu tlang vong si.
+{28:12} Mi fel a hlawtling chun hlimna nasa tak a um a,Mi rilo a dingchang pha mi an inbi hmang hlak.
+{28:13} Mani suolna iptu chu hmuingil naw ni a,Inpuonga simtu chun zàngàina hmung a tih.
+{28:14} LALPA ti roptu chu a hamtha,Mi lulul ruok chu a vangduoi hlak.
+{28:15} Rorêltu suol chu mi retheihai ta dingin,Keipui inrum le savom mi hnot ang a nih.
+{28:16} Hrietthiemna tlasam lal chun,Rawng takin mi a nêksawr hlak;Hlêprûkna theidatu lal ruok chu,A dam sung nihai sukseiin um a tih.
+{28:17} Tuolthattu chu tuoltlân sien khom,Tu khomin hum naw hai sien la,A thi chenin tlân se zing raw se.
+{28:18} Soisel boa kalchawitu chu him a ta,Nun khawkher hrawtu ruok chu tlu thut a tih.
+{28:19} Mani lo inlettu chun bu hau a ta,Duthusam ringot hnottu chu pasieng a tih.
+{28:20} Mi ringum chun malsawmna dong rawn a ta,Hausak thut tumtu chu hrem loin suok naw nih.
+{28:21} Thlei bîk nei hi a tha nawh-Bei hlek chunga khom thaw suol thei a nih.
+{28:22} Mi tiksie chun hausak vat a châk a,Pasietnan a nghâk zing ti a hriet si nawh.
+{28:23} Mi ziltu chun mi inpâk dertu nêkinA tawpah mi ngàinat hlaw lem a tih.
+{28:24} Mani nû le pâhai rok a,"Ieng khom a suolna a um nawh" titu chu,Suomhmang ruol tha a nih.
+{28:25} Mi duâm chun innghirnghona a chok suok a,LALPA-a innghattu ruok chu hmûingìl a tih.
+{28:26} Mani lungrila innghattu chu mi invêt a na,Varnaa kalchawitu ruok chu a him hlak.
+{28:27} Pasiehai somdawltu chu tlasam ngai naw ni a,Mit insîmsantu ruok chun tongsie phur teu a tih.
+{28:28} Mi rilo an dingchang pha mihai an inbi a,Mi rilo an ram pha leh mi fel an pung hlak.
+{29:1} Zil rop khoma rîng la sukkhong tlattu chu,Sukdam ruol loa suktliekpêk thut la nîng a tih
+{29:2} Mi felin lalna an chang phâ mipui an lawm a,Mi riloin ro an rèl phâ mipui an inrûm.
+{29:3} Varna dittu nau chun a pâ a sukhlim a,Nawchizor inkoppuitu chun a suktlaran hlak.
+{29:4} Rorêltu indik lal chun ram a suknghet a,Thamna ngàinatu ruok chun a suksiet hlak.
+{29:5} Tuolbawm inpâk der ching mi chun,A'n awkna ding lên châng a kam a nih.
+{29:6} Mi tha lo chu a suolnan a awk a,Mi fel ruok chun hlim takin hla a sak.
+{29:7} Mi fel chun retheihai chan a hriet thiempui a,Mi rilo ruok chun a hriet thiempui ve nawh.
+{29:8} Hmusittuhai chun khuo an chokbuoi a,Mi felhai ruok chun an thawi dam hlak.
+{29:9} Mi varin mi invêt a khing chun,Mi invêt êltam hràng ri chun,Tawp zâi rêng a rèl ngai nawh.
+{29:10} Thisen insuo mihan mi indik an theida a,Mi ngîlhai sukhlum dàn an zong hlak.
+{29:11} Mi invêt lungsen chu a'n hrawt hrep a,Mi var ruok chu a'n khap dei hlak.
+{29:12} Rorêltuin thukhêl a dondai chun,A thoktu po po mi rilo an inchang hlak.
+{29:13} Pasie le a nêksawrtu inthuhmunna chu,LALPAN hmu theina mit a pêk ve ve hi a nih.
+{29:14} Pasiehai chunga indik taka rorêltu chu,A lalna suknghet ni zing a tih.
+{29:15} Thununna hmol chun varna a'n tlun a,Thunun lo nau chun a nû a sukmuolpho hlak.
+{29:16} Mi rilo an inlal pha bawsietna khom a pung a,Mi felhai ruok chun an tlûksiet hun la hmung an tih.
+{29:17} I nau i thunun tha chun hadam i ta,I lungril suklawmtu nîng a tih.
+{29:18} Hmulawkna a um nawna hmuna chun,Mipui an inthlàdà hlak a,Dàn zawmtuhai ruok chu an hamtha hlak.
+{29:19} Siehlaw chu hril chaua thunun thei a ni nawh,Hre thiem khom ni sien, ûksak naw nih.
+{29:20} Nuompawnga tong puot puot mi nêkin,Mi invêtin beisei ding a la nei lem.
+{29:21} A chîn laia inthoka siehlaw duot suol chun,A tawpah ro chen hung inchù pei a tih.
+{29:22} Thinsie chun innghirnghona a chok suok a,Lunginrom chun suol a thaw rem rum hlak.
+{29:23} Mi chapo chu a chaponain a hnûk hnuoi a,Lungrila inngàitlawm chun chawimawi a hlaw hlak.
+{29:24} Rûkru inkoppuitu hmêlma chu ama a nih,Thudik hril dinga intiemkam siin a hril ngam nawh.
+{29:25} Mihriem tina chun châng angin mî a awk a,LALPA-a innghattu ruok chu a him hlak.
+{29:26} Mi tam takin lal ditsakna an zong a,Indik taka rorêltu chu LALPA a ni lem si.
+{29:27} Mi felin mi ringum lo a ten a,Mi riloin mi indik a ten bok.
+{30:1} Jakeh naupa Agur thu,Ithiel le Ukal kuoma thuvar a hrilhai chu:g
+{30:2} "Mi laia a mawl tak ka na,Mi hriet ang ka hriet phàk ve naw a,
+{30:3} Varna ka'n chûk naw a,Mi Thienghlim ka hriet bok nawh.
+{30:4} Tu am vànah lawna hung tum nawk?Tuin am kutpàrin thlî a fûn khawm thei?Tuin am puonin tui a fûn thei?Tuin am kawlkil tin a siem nghet?Tu am a hming le a naupa hming?A hrie in um chun mi hril ro.
+{30:5} "Pathien thu tin hi soisel boa indik a na,Ama bêltuhai ta dingin phaw a nih.
+{30:6} A thuhai chu belsa naw ro,Chuong naw chun zil a ti cheu a,Khêlhlip ni pal rawi i tih.
+{30:7} "Aw LALPA, thil pahni chauh ka ngên che,Ka thì hmain mi remtipek lul rawh.
+{30:8} Indik nawna le khêl po po lakah,Nangman mi vêng him la,Mi sukhausa naw la,Mi sukpase bok naw la,Ka ni khat tlâk char bu mi pe rawh;
+{30:9} Ka hausa taluo pal hlauh chun,'LALPA chu tu am a na?' tiin,Inphatsan hlauh rawi ka ti che.Ka rethei chun rûk dâm inrûng ka ta,Ka Pathien hming sukhmêlhem rawi ka tih.
+{30:10} "A pû bulah siehlaw dem naw rawh,Tongsie inphur hlauh a ti che a,Thiem naw chang palh rawi i tih
+{30:11} "Thenkhat chu pâhai tongsie inphur,Nûhai malsawm lo dâm an um.
+{30:12} Mani tirdakumna sawp fai si loa,Thienghlim êm êma inngai an um bok.
+{30:13} Ieng lai khomin an meng chapo a,Mi tham naw êm êmin an meng inlir.
+{30:14} Hnuoia mi retheihai fâkna dingin,An hà kawlhnâm angin a ngei a,Mi pasiehai soi nawina dingin,An hapui chu chemte lu zum ang a nih.
+{30:15} 'Mi pe rawh, mi pe rawh' tia khêk hlak,Invot chun nau nuhmei pahni a nei. 'Thil pathum, khop tik nei lo an um a,'A hun tah' ti ngai lo thil pali an um bok:
+{30:16} Thlàn, sul ching,Tui khopkham dong lo hnuoi châr, 'A hun tah' ti ngai dèr lo mei.
+{30:17} "Nau, pâhai mit phielkhumtu,Nau, nû thu awi loa nuisantu chu,Phaia vaâkhaiin a mit la chuk dok an ta,Mulukolhan a ruong la tlàn an tih.
+{30:18} "Thil pathum mak ka ti tawp lo an um a,Thil pali ka hriet thei lo an um bok:
+{30:19} Boruoka muvânlai fêna hnûhma,Lungpuia rûl fêna hnûhma,Tuipuia long fêna hnûhma,Pasalin nuhmei a pawlna hnûhma.
+{30:20} "Hi hi a nih nuhmei uire um dàn chu:Mi a uirepui a, a'n sawp fai a,'Suol ieng khom ka thaw nawh' a ti hlak.
+{30:21} "Thil pathum leiin hnuoi hi an hnìng a,Thil pali khawvel tuorhla a um:
+{30:22} Siehlaw lala inthung, Mi invêt bu le sa hauh,
+{30:23} Nu theidaum pasal nei,Siehlaw nunghâk, a pî hlàntu.
+{30:24} "Hnuoia hin thil pali chiktê tè,Sienkhom var deu el an um:
+{30:25} Phâivâng hi hrât naw tak an nia chu,Thâlah fâk ding an sêkkhawl hlak;
+{30:26} Sangawi hi hrat naw tak a nia chu,Lungpui kak kâr inin an hmang;
+{30:27} Khau hin lal an nei nawa chu,A honin an intlon hlak;
+{30:28} Cholru hi man el thei a nia chu,Lal inah a chêng tlat hlak si.
+{30:29} "Thil pathum, an nawh thil pali lem,An hang chêt vela inzà phur tak an um:
+{30:30} Sakeibaknei, ramsahai lal,Tû hmaa khom zâm ngai lo;
+{30:31} Arkhong lawn theu theu; A ruol laia kèlchal;Lal, a sipaihan an ngîr huol khup lai.
+{30:32} "Invêt taka nangma inchawisâng a,Thil suol thaw ding i lo phan a ni chun,I kutin i bàu hup hmak rawh.
+{30:33} Bawngnene inluma chok zing chun,A khal a hung suok hlak ang le,Hnâr her chun thisen a suok hlak angin,Lungsenna i cho phawk ngei chun,Insuolna chok dok a tih."Lal Lemuel thuvarhai
+{31:1} Lal Lemuel thuvarhai, a nuin a zirtirhai chu:
+{31:2} "Aw ka naupa, aw ka rîla rà,Ka thu intiemkamna rà suok,
+{31:3} Lalhai suksetu nuhmei lakah,I hrâtna hmangthâi naw rawh.
+{31:4} Aw Lemuel, uoiin dawn hi,Lalhai thaw ding a ni naw a,Rorêltuhai khom zu hrât ngaiin,An dang a châr ding a ni nawh;
+{31:5} An dawn chun dàn theinghilin,Nêksawrhai piengvo lapêk rawi an tih.
+{31:6} Boral mèkhai chu zu hrât pe la,Mi lungngaihai chu uoiin pe rawh.
+{31:7} Dawn hai sien, an pasietna le,An rinum tuor theinghil raw hai se.
+{31:8} "Mani thu hril thei lohai chu hrilpêk la,Mi baivaihai chu san rawh.
+{31:9} Hrilpui la, thu inlai takin rêl la,Mi retheihai chanvo humpêk rawh.
+{31:10} Nuhmei tha le inzaum hi,Thil hmu harsa tak a na,Lunghlu sen nêk daiin a hlu lem.
+{31:11} A pasalin a ringzo a,Hlutna iengkim koltu a nih.
+{31:12} Ama chun a dam sûng po poin,Sietna nêkin thil tha a hung intlun a,
+{31:13} Beram hmul le pat a zong a,A kutin inhawk takin a khawng a.
+{31:14} Ram hla taka inthoka hung,Bu tol sumdawng long angin,Fâk ding a lâk khawm hlak a.
+{31:15} Khaw var hmain a tho a,A sûnghai zîng bû a pèk a,A siehlawnuhai thaw ding a rèl fel a.
+{31:16} Huon ding ngàituoin a'n chawk a,A thaw suokin grèp huon a siem a.
+{31:17} Thatho takin sinah a pu a,A bân thàhai a sukhràt a.
+{31:18} Hlawk ngei dingin sum a dawng a,Zànah a khawnvar a mit ngai nawh.
+{31:19} A kutin hmûi thlùr a chel a,A kut khingin pat a kher a.
+{31:20} Mi retheihai ta din a thilphal a,Mi baivaihai a somdawl hlak.
+{31:21} Vûr tlâk hunah a sûngkuohai,An lungkham ve ngai dêr nawh,An rêngin thuom lum an nei si.
+{31:22} Khumpha puon mawi a khawng a,Silfên to le puon sendukin a'n thuom a.
+{31:23} Kul kot bula pungkhawmhai lai,A pasal chu upahai lai a thung ve a,Mihai inzà a hlaw a.
+{31:24} Silfên man to siemin a zor a,A hrènpuon tà chu sumdawnghai a thon a.
+{31:25} Hràtna le inzaumna'n an thuom a,A hmâ tieng chu a ta din innuina a nih.
+{31:26} Var takin thu a hril a,A bâu suok chu ringumna thuchà a nih.
+{31:27} Insûng khawsak tha takin a enkai a,Thabona bu a fâk vè ngai nawh.
+{31:28} A nauhai chun a hmaah thoin, "Hamthanu" tiin an ko a,A pasal khomin chuong anga inpâkin,
+{31:29} "Thil hlû thaw nuhmei an tam vei leh, Nang ruok chun i khûm zo vong" tiin.
+{31:30} Ngainobeina hi thil hlun lo a na,Hmêlthatna khomin sawt a dai nawh;LALPA tìtu nuhmei chu inpâk tlâk a nih.
+{31:31} A thaw rà lukhawng dong sien la,Kul kotkhârah chawimawi hlaw raw se.

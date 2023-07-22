@@ -1,0 +1,52 @@
+{i1:1} Saludo
+{1:1} Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento pleno de la verdad que es según la piedad,
+{1:2} a base de la esperanza en la vida eterna, la cual Dios, que no miente, prometió desde antes de los tiempos eternos,
+{1:3} y a su debido tiempo manifestó su palabra por la predicación que me fue encomendada conforme al mandato de Dios nuestro Salvador,
+{1:4} a Tito, verdadero hijo según la fe común: Gracia, misericordia y paz, de parte de Dios Padre y del Señor Jesucristo nuestro Salvador.
+{i1:5} Requisitos de ancianos y obispos
+{1:5} Por esta causa te dejé en Creta, para que acabases de poner en orden lo que faltaba, y constituyeses ancianos en cada ciudad, como yo te ordené;
+{1:6} el que sea irreprensible, marido de una sola mujer, y tenga hijos creyentes, que no estén acusados de disolución ni de rebeldía.
+{1:7} Porque el obispo debe ser irreprensible, como administrador de Dios; no arrogante, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas,
+{1:8} sino hospedador, amante de lo bueno, sensato, justo, santo, dueño de sí mismo,
+{1:9} retenedor de la palabra fiel tal como ha sido enseñada, para que también pueda exhortar con sana doctrina y redargüir a los que contradicen.
+{1:10} Porque hay aún muchos rebeldes, habladores de vanidades y engañadores, especialmente los de la circuncisión,
+{1:11} a los cuales es preciso tapar la boca; que trastornan casas enteras, enseñando por ganancia deshonesta lo que no deben.
+{1:12} Uno de ellos, su propio profeta, dijo: Los cretenses son siempre mentirosos, malas bestias, glotones, ociosos.
+{1:13} Este testimonio es verdadero; por lo cual, repréndelos duramente, para que sean sanos en la fe,
+{1:14} no atendiendo a fábulas judaicas, ni a mandamientos de hombres que se apartan de la verdad.
+{1:15} Todas las cosas son puras para los puros, mas para los contaminados e incrédulos nada es puro; pues hasta su mente y su conciencia están contaminadas.
+{1:16} Profesan conocer a Dios, pero con los hechos lo niegan, siendo abominables y desobedientes, descalificados en cuanto a toda buena obra.
+{i2:1} Enseñanza de la sana doctrina
+{2:1} Pero tú habla lo que está de acuerdo con la sana doctrina.
+{2:2} Que los ancianos sean sobrios, serios, sensatos, sanos en la fe, en el amor, en la paciencia.
+{2:3} Las ancianas asimismo sean reverentes en su porte; no calumniadoras, no esclavas del mucho vino, maestras del bien;
+{2:4} para que enseñen a las mujeres jóvenes a ser amantes de sus maridos y de sus hijos,
+{2:5} a ser sensatas, castas, cuidadosas de su casa, buenas, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada.
+{2:6} Exhorta asimismo a los jóvenes a que sean sensatos;
+{2:7} presentándote tú en todo como modelo de buenas obras; en la enseñanza mostrando integridad, seriedad,
+{2:8} palabra sana e irreprochable, de modo que el adversario se avergüence, al no tener nada malo que decir de vosotros.
+{2:9} Exhorta a los siervos a que se sometan a sus amos en todo, a que les complazcan sin contradecir,
+{2:10} no sustrayéndoles, sino mostrándose fieles en todo, para que en todo adornen la doctrina de Dios nuestro Salvador.
+{2:11} Porque la gracia de Dios se ha manifestado para ofrecer salvación a todos los hombres,
+{2:12} enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente,
+{2:13} aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo,
+{2:14} quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo de su propiedad, celoso de buenas obras.
+{2:15} Esto habla, y exhorta y reprende con toda autoridad. Nadie te menosprecie.
+{i3:1} La conducta cristiana
+{3:1} Recuérdales que se sometan a los gobernantes y a las autoridades, que obedezcan, que estén preparados para toda buena obra.
+{3:2} Que a nadie difamen, que no sean pendencieros, sino amables, mostrando toda mansedumbre para con todos los hombres.
+{3:3} Porque nosotros también éramos en otro tiempo insensatos, desobedientes, extraviados, esclavos de concupiscencias y deleites diversos, viviendo en malicia y envidia, aborrecibles, y aborreciéndonos unos a otros.
+{3:4} Pero cuando se manifestó la benignidad de Dios nuestro Salvador, y su amor para con los hombres,
+{3:5} nos salvó, no en virtud de obras de justicia que nosotros hubiéramos hecho, sino conforme a su misericordia, mediante el lavamiento de la regeneración y la renovación por el Espíritu Santo,
+{3:6} a quien derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador,
+{3:7} para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna.
+{3:8} Palabra fiel es ésta, y en estas cosas quiero que insistas con firmeza, para que los que han creído a Dios, procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres.
+{3:9} Pero evita las controversias necias, y genealogías, contiendas y disputas acerca de la ley; porque son sin provecho y vanas.
+{3:10} Al hombre que cause divisiones, después de una y otra amonestación deséchalo,
+{3:11} sabiendo que el tal se ha pervertido, y peca, habiéndose condenado a sí mismo.
+{i3:12} Encargos personales
+{3:12} Cuando envíe a ti a Artemas o a Tíquico, apresúrate a venir a mí en Nicópolis, porque he determinado pasar el invierno allí.
+{3:13} A Zenas, el experto en la ley, y a Apolos, provéelos de todo lo necesario para el viaje, de modo que nada les falte.
+{3:14} Y aprendan también los nuestros a ocuparse en buenas obras, atendiendo las necesidades urgentes, para que no sean sin fruto.
+{i3:15} Saludos y bendición final
+{3:15} Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos vosotros. Amén.

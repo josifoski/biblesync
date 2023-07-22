@@ -1,0 +1,180 @@
+{i1:1} Vásti királyné nem engedelmeskedik a királynak
+{1:1} Ezek az események akkor történtek, amikor a Perzsa Birodalom királya Ahasvérós volt, aki Indiától Etiópiáig 127 tartomány fölött uralkodott.
+{1:2} A király Súsán várában tartózkodott udvarával együtt, s onnan irányította birodalmát.
+{1:3} Uralkodásának harmadik esztendejében Ahasvérós király nagy ünnepségsorozatot rendezett a birodalom összes magas rangú vezetőjének. Meghívta a perzsa és méd katonai vezetőket, a tartományok kormányzóit és előkelő nemeseit.
+{1:4} Az ünnepségek 180 napig tartottak: ez alatt a király bemutatta a vendégeinek hatalmas birodalma gazdagságát, palotája kincseit és királyi dicsőségének nagyságát.
+{1:5} Amikor ezek a napok leteltek, hét napig tartó nagy lakomát rendezett a palota kertjében, amelyre Súsán városának minden lakóját meghívta, a legkisebbtől a legnagyobbig.
+{1:6} A kertben fehér és kék lenvászon szőttesek voltak felfüggesztve, amelyeket fehér és bíborszínű kötelek tartottak, ezeket pedig ezüstkarikák erősítették a márványoszlopokhoz. A márvánnyal, alabástrommal, és egyéb értékes színes kövekkel kirakott mozaikpadlón arannyal és ezüsttel díszített heverők voltak elhelyezve a vendégek számára.
+{1:7} A bort aranyserlegekben szolgálták fel — és minden egyes serleg másmilyen volt! A király nagylelkűsége folytán bőségesen kínálták a király borát.
+{1:8} A király megparancsolta szolgáinak, hogy mindenki annyit ihat, amennyit csak akar, de senkit se erőltessenek az ivásra.
+{1:9} A király felesége, Vásti királyné is nagy ünnepséget rendezett az asszonyok számára a palotában.
+{1:10} A hétnapos lakoma utolsó napján, amikor a király szíve felvidult a bortól, megparancsolta hét szolgájának, hogy vezessék színe elé Vásti királynét — királyi koronával a fején. Meg akarta mutatni
+{1:11} magas rangú vendégeinek és az egész népnek Vásti szépségét — mert valóban gyönyörűség volt csak ránézni is. A hét szolgát így hívták: Mehúmán, Bizzeta, Harbóna, Bigtána, Abagta, Zétar és Karkasz.
+{1:12} Mikor azonban a szolgák átadták a király parancsát Vásti királynénak, ő nem engedelmeskedett, és nem akart a királyhoz menni. Ekkor a király haragra lobbant, és forrt benne az indulat.
+{1:13} Mivel az volt a szokása, hogy minden dologban tanácskozott a bölcsekkel, akik tudták, mit kell tenni, ismerték a törvényeket, és gyakorlottak voltak az ítélkezésben — most is hozzájuk fordult, és tanácsot tartott velük.
+{1:14} Ez a hét bölcs volt a király legközelebbi tanácsadója: Karsená, Sétár, Admátá, Társis, Meresz, Marszená, Memúkán. Ők voltak a Méd-Perzsa Birodalom legmagasabb rangú fejedelmei, akik általában a király jelenlétében tartózkodtak.
+{1:15} A király tehát megkérdezte őket: „A törvény szerint mit kellene tenni Vásti királynéval, aki nem engedelmeskedett a király — udvari szolgái által küldött — parancsának?”
+{1:16} Memúkán így válaszolt a király és a többi fejedelem előtt: „Vásti királyné nemcsak a király ellen vétkezett, hanem minden fejedelem és Ahasvérós király egész birodalmának minden népe ellen is.
+{1:17} Mert amit a királyné tett, azt az egész birodalomban minden asszony meg fogja tudni, és akkor ők is megvetik és lenézik a férjüket. Azt fogják mondani a férjüknek: »Hiszen Vásti királyné sem fogadott szót, amikor Ahasvérós király megparancsolta neki, hogy menjen hozzá!«
+{1:18} A mai napon az előkelő méd és perzsa asszonyok mind látták és hallották, amit Vásti tett. S majd ők is ugyanezt fogják mondani a férjüknek, a birodalom vezetőinek. Ebből pedig véget nem érő megvetés, felháborodás, meg viszály keletkezik a férjek és feleségek között.
+{1:19} Ezért, ha a király is úgy látja jónak, adjon ki rendeletet, és jegyezzék fel a médek és perzsák visszavonhatatlan törvényei közé, hogy Vásti soha többé nem léphet Ahasvérós király színe elé. A királynői méltóságot pedig adja a király olyannak, aki Vástinál méltóbb rá.
+{1:20} Amikor pedig ezt a királyi rendeletet az egész hatalmas birodalomban kihirdetik, akkor minden asszony — a legnagyobbtól a legkisebbig — tisztelni fogja férjét.”
+{1:21} Tetszett ez a javaslat a királynak és a többi fejedelemnek is. Ezért a király elfogadta Memúkán tanácsát,
+{1:22} és királyi rendeletet adott ki arról, hogy minden férfi legyen úr a maga házában és családjában. Ahasvérós király rendeletét lefordították minden egyes tartomány népének a saját nyelvére, és azzal az írással jegyezték le, amelyet ott használtak, majd szétküldték a Birodalom minden tartományába.
+{i2:1} A király feleségül veszi Esztert
+{2:1} Bizonyos idő elteltével a király haragja lecsillapodott, és ekkor eszébe jutott Vásti, meg amit ő tett. Visszaemlékezett a király arra is, hogy mit határozott felőle.
+{2:2} Akkor szolgái ezt mondták: „Ha a király is úgy látja jónak, nevezzen ki megbízottakat a birodalom minden tartományában, hogy keressenek szép fiatal szűz leányokat a király
+{2:3} számára. Gyűjtsék össze a legszebbeket Súsán várába, a királyi palota háremébe. Hégaj, a király szolgája, az asszonyok őrizője viseljen gondot rájuk, és adjon nekik szépítő szereket.
+{2:4} Azután amelyik leány a legjobban tetszik a királynak, az legyen a királyné Vásti helyett!” Tetszett ez a tanács a királynak, elfogadta, és így is történt.
+{2:5} Élt egy Márdokeus nevű zsidó Súsán városában, aki Jáír fia volt. Jáír apját Simeinek, annak apját pedig Kísnek hívták — Benjámin törzsébe tartoztak.
+{2:6} Kíst — a többi júdeai fogollyal és Jekonjával, Júda királyával együtt — sok évvel korábban Nebukadneccar, Babilon királya hurcolta száműzetésbe Jeruzsálemből Babilóniába.
+{2:7} Márdokeusnak volt egy unokahúga, Hadassza — más néven Eszter — akinek a szülei meghaltak, s ezért Márdokeus leányává fogadta, és felnevelte. Eszter mind arcára, mind termetére nézve gyönyörű szép volt.
+{2:8} Amikor a király rendeletét kihirdették, és a szép leányokat összegyűjtötték Súsán várába, Hégaj felügyelete alá, Esztert is a király palotájába, a hárembe vitték. Őt is Hégaj gondjaira bízták, aki az asszonyok őrizője volt.
+{2:9} Hégaj nagyon szépnek találta Esztert, jóindulattal volt iránta, és igyekezett kedvezni neki. Azonnal a legjobb ételeket és szépítőszereket rendelte a számára, kiválasztott hét szolgálót a király palotájából, hogy azontúl Esztert szolgálják, és a hárem legjobb részében jelölte ki lakosztályukat.
+{2:10} Márdokeus korábban megparancsolta Eszternek, hogy senkinek se árulja el zsidó származását, és hogy a rokonairól se beszéljen. Ezért Eszter nem is szólt ezekről senkinek.
+{2:11} Márdokeus minden nap elment a hárem udvarába, és érdeklődött Eszter hogyléte felől, és hogy mi történik vele.
+{2:12} Az előírások szerint minden leányt tizenkét hónapig készítettek fel arra, hogy Ahasvérós királyhoz bemenjen. Hat hónapig mirha-olajjal, azután további fél évig különböző illatos szépítőszerekkel ápolták a leányokat.
+{2:13} Amikor végül rájuk került a sor, kérhettek, amit csak akartak, megkapták — bármiféle ruhát, ékszert, vagy illatszert — , hogy ilyen módon felékesítve menjenek a királyhoz.
+{2:14} Este mentek be, másnap reggel pedig átmentek a második hárembe, a király asszonyai közé, s ettől kezdve ott éltek, Saasgaznak, a király szolgájának a felügyelete alatt. Általában nem is tértek vissza a királyhoz többé, csak akkor, ha a király megkedvelte, és név szerint hívatta őket.
+{2:15} Elérkezett a napja, hogy Eszter is bemenjen a királyhoz. Ő azon kívül nem kért semmi mást, mint amit Hégaj tanácsolt neki, és úgy indult a királyhoz, mégis mindenkinek nagyon tetszett. (Eszter Abihail leánya volt, akit Márdokeus — Abihail unokaöccse — örökbe fogadott.)
+{2:16} Így hát Ahasvérós király uralkodásának hetedik évében, a tizedik (vagyis Tébét) hónapban bevezették Esztert a királyhoz a palotába.
+{2:17} A király pedig minden más asszonynál inkább megszerette Esztert. Jobban szerette és tetszett neki, mint bármelyik szűz, akit addig megismert. Ezért a királyi koronát Eszter fejére tette — így tette őt királynévá Vásti helyett.
+{2:18} Azután nagy ünnepséget rendezett Eszter tiszteletére, amelyre meghívta az előkelő udvari embereket és vezetőket. Ugyanakkor birodalma minden tartományában ünnepet hirdetett, és királyi bőkezűséggel ajándékokat osztogatott.
+{i2:19} Márdokeus megmenti a király életét
+{2:19} Abban az időben, amikor a király számára másodszor gyűjtötték össze a leányokat, Márdokeus a királyi palotában teljesített szolgálatot.
+{2:20} Eszter még mindig titokban tartotta, hogy melyik családból és népből származik — mivel továbbra is úgy engedelmeskedett Márdokeusnak, mint amikor Márdokeus volt a nevelőapja.
+{2:21} Történt egyszer, hogy amikor Márdokeus éppen a királyi udvarban szolgált, tudomására jutott, hogy merénylet készül a király ellen. Bigtán és Teres, a király két testőre, akik a kapuban
+{2:22} álltak, megharagudtak a királyra, és azt tervezték, hogy megölik. Márdokeus szólt erről Eszternek, ő pedig jelentette a királynak — s azt is hozzátette, hogy Márdokeustól származik a hír.
+{2:23} A király kivizsgáltatta a dolgot, és az igaznak bizonyult, ezért a két testőrt felakasztották. Mindezt pedig a király jelenlétében feljegyezték a krónikák könyvébe.
+{i3:1} Hámán a zsidók teljes kiirtását tervezi
+{3:1} Történt ezek után, hogy Ahasvérós király magas tisztségre emelte az agági Hámánt, Hammedátá fiát. Magasabb rangot és nagyobb felhatalmazást adott neki, mint az összes többi előkelő vezetőnek.
+{3:2} Azt is megparancsolta, hogy Hámán előtt hajoljon meg a király minden szolgája. A királyi udvarban minden tisztségviselő valóban letérdelt és meghajolt Hámán előtt — egyetlen kivétellel. Márdokeus nem akart sem meghajolni sem leborulni Hámán előtt.
+{3:3} A királyi tisztviselők kérdőre vonták emiatt: „Te miért nem engedelmeskedsz a király parancsának?” — kérdezték tőle.
+{3:4} Ez naponta megismétlődött, de Márdokeus továbbra sem hallgatott rájuk. Végül az udvari emberek jelentették ezt Hámánnak. Szerették volna látni, hogy Márdokeus — aki elmondta nekik, hogy zsidó származású — tudja-e igazolni a viselkedését Hámán előtt.
+{3:5} Hámán szörnyű haragra lobbant, amikor látta, hogy Márdokeus valóban nem térdel le, és nem borul le előtte.
+{3:6} Meg akarta öletni Márdokeust, de mikor megtudta róla, hogy zsidó származású, még továbbment. Elhatározta, hogy Márdokeussal együtt annak egész népét is kiirtja a király birodalmának teljes területéről.
+{3:7} Sorsvetéssel akarta megállapítani, hogy terve végrehajtására melyik a legkedvezőbb nap és hónap. Így hát Hámán jelenlétében elvégezték a sorsvetést, vagyis a „pur”-t, és az a tizenkettedik (Adár) hónap egyik napját jelölte ki. Mindez Ahasvérós király uralkodásának tizenkettedik évében, az első (Niszán) hónapban történt.
+{3:8} Azután Hámán ezt mondta a királynak: „Van egy nép, amely elszórtan és elkülönülten él birodalmad minden tartományában. Különleges törvényeik és szokásaik eltérnek minden más népétől. A király törvényeinek sem engedelmeskednek, ezért hasznosabb lenne megszabadulni tőlük.
+{3:9} Ha a király is úgy látja jónak, adjon ki rendeletet, hogy ezt a népet pusztítsák el, én pedig átadok tízezer talentum ezüstöt a kincstári tisztviselőknek, hogy helyezzék el a kincstárban.”
+{3:10} A király ekkor lehúzta ujjáról a birodalmi pecsétgyűrűt, és átadta az agági Hámánnak, Hammedátá fiának, a zsidók ellenségének.
+{3:11} „Csak tartsd meg az ezüstöt, azzal a néppel pedig tégy, amit akarsz!” — mondta neki.
+{3:12} Az első hónap 13. napján összehívták a király írnokait. Hámán parancsa szerint megírták a leveleket a király kormányzóinak, a tartományok helytartóinak, a népek vezetőinek, a birodalom minden egyes tartományának megfelelő nyelveken. A rendeletet Ahasvérós király nevében írták, és az ő gyűrűjével pecsételték le.
+{3:13} Azután futárok vitték szét a király parancsát a birodalom minden tartományába. E szerint a tizenkettedik (Adár) hónap 13. napján meg kell ölni, el kell pusztítani, és meg kell semmisíteni a tartományban kivétel nélkül minden zsidót: öregeket és fiatalokat, gyermekeket és asszonyokat egyaránt. A megöltek összes vagyona pedig szabad prédának számít, amelyet bárki elvehet.
+{3:14} Ezt a királyi parancsot törvényként hirdették ki minden tartományban, és tudatták minden néppel, hogy készüljenek fel arra a napra.
+{3:15} A futárok sietve útnak indultak, és a törvényt Súsán városában is kihirdették. A király és Hámán leültek inni, de a város lakossága felháborodott, zavar és félelem támadt.
+{i4:1} Márdokeus ráveszi Esztert a közbenjárásra
+{4:1} Amikor Márdokeus megtudta, mi történt, megszaggatta ruháit, zsákruhát vett magára, és a fejére hamut szórt. Kiment a város utcáira és tereire, keservesen jajveszékelt és kiáltozott.
+{4:2} Így ment a királyi palotáig, de ott megállt a kapu előtt, mert a király kapuján senki sem léphetett be zsákban és hamuban.
+{4:3} A tartományokban, ahová csak eljutott a király rendelete, a zsidók mindenütt gyászolni kezdtek, jajgattak és sírtak, böjtöltek, sokan zsákruhába öltöztek és hamut szórtak a fejükre.
+{4:4} Amikor a szolgálói és a háremőrök jelentették Eszternek, hogy Márdokeus zsákban és hamuban gyászol, a királyné nagyon elszomorodott. Azonnal ruhákat küldött Márdokeusnak, hogy azokba öltöztessék fel, a zsákruhát pedig vesse le, de Márdokeus nem akarta elfogadni.
+{4:5} Akkor Eszter hívatta Hatákot — azt a háremőrt, aki az ő személyes szolgálatára volt rendelve — és kiküldte Márdokeushoz, hogy tudja meg tőle, mi történt vele, és miért gyászol.
+{4:6} Haták ki is ment a palota előtti térre,
+{4:7} ahol Márdokeus mindent elmondott neki — még azt is, hogy Hámán mekkora összeget ígért a királynak a zsidók elpusztításáért cserébe.
+{4:8} Átadta Hatáknak a zsidók elpusztításáról szóló királyi rendelet másolatát is, amelyet Súsán városában már kihirdettek, hogy mutassa meg Eszternek. Megüzente, hogy Eszter sürgősen menjen a királyhoz, könyörögjön a zsidókért, és kérjen kegyelmet népe számára.
+{4:9} Haták visszatért Eszterhez, és átadta Márdokeus üzenetét.
+{4:10} Eszter pedig meghagyta Hatáknak, hogy ezt a választ vigye Márdokeusnak:
+{4:11} „A király minden szolgája és a tartományok összes népe tudja, hogy aki hívatlanul merészel a királyhoz bemenni a belső udvarba, azt kivégzik! Ez a törvény mindenkire vonatkozik, kivéve azt, akire a király kinyújtja aranypálcáját — az élve marad. Engem pedig a király már harminc napja nem hívatott.”
+{4:12} Amikor Haták ezt elmondta Márdokeusnak,
+{4:13} ő ezt üzente vissza Eszternek: „Ne gondold, hogy csak azért, mert a palotában élsz, megmenekülhetsz a haláltól, amikor az összes zsidót megölik!
+{4:14} Ha most hallgatsz, a zsidók számára majd máshonnan támad szabadulás és menekülés — te azonban el fogsz pusztulni, apád családjával együtt. De gondold csak meg, talán éppen azért lett belőled királyné, hogy ebben a veszedelmes időben helytállj!”
+{4:15} Erre Eszter a következő választ küldte:
+{4:16} „Ám legyen! Menj, gyűjts össze minden zsidót, akit Súsán városában találsz! Böjtöljetek értem: három nap, három éjjel ne egyetek, ne igyatok semmit! Én magam, és a szolgálóim is ugyanígy fogunk böjtölni. Azután — bár ez ellenkezik a törvénnyel — mégis bemegyek a királyhoz, és ha meg kell halnom, hát meghalok.”
+{4:17} Akkor Márdokeus elment, és megtette, amit Eszter mondott.
+{i5:1} Eszter a király előtt
+{5:1} A harmadik napon Eszter királynéhoz méltóan felöltözött, bement a királyi palota belső udvarába, és megállt a trónterem ajtajában. A király a bejárattal szemben lévő trónon ült.
+{5:2} Amikor meglátta Eszter királynét, örömmel fogadta, és kegyelme jeléül kinyújtotta rá aranypálcáját. Akkor Eszter belépett a terembe, a király elé járult, és megérintette a pálca végét.
+{5:3} A király pedig megkérdezte: „Mi járatban vagy, Eszter királyné? Mit kívánsz? Bármi legyen is az, megkapod — akár a királyságom felét is.”
+{5:4} „Ha a király is jónak látja, jöjjön el hozzám ma este a lakomára, amelyet számára készítettem, és hozza magával Hámánt is” — felelte Eszter.
+{5:5} „Kerítsétek elő hamar Hámánt — parancsolta szolgáinak a király — , hogy teljesítsük a királyné kívánságát!” Így hát a király és Hámán azon az estén Eszternél vendégeskedett.
+{5:6} Vacsora közben, amikor bort ittak, a király Eszterhez fordult: „Mit kívánsz, mondd el bátran! Teljesítem. Mi a kérésed? Bármi legyen is az, megkapod — akár a királyságom felét is.”
+{5:7} Eszter így válaszolt: „Valóban szeretnék valamit kérni. De ha a király igazán kedvel engem, és ha jónak látja, hogy
+{5:8} kérésemet teljesítse, akkor Hámánnal együtt jöjjön el holnap is a lakomára, amelyet számára készítek. Akkor majd elmondom, mit kérek.”
+{i5:9} Hámán ki akarja végeztetni Márdokeust
+{5:9} A vacsora után Hámán jókedvűen és elégedetten hazaindult. Útközben azonban meglátta a király kapujában Márdokeust, aki nem állt fel előtte, és nem félt tőle. Emiatt Hámánt harag és gyűlölet töltötte el Márdokeus iránt,
+{5:10} de uralkodott magán, és nem szólt semmit, csak hazament. Azután hívatta tanácsadóit és a feleségét, Zerest.
+{5:11} Dicsekedett nekik óriási gazdagságával, sok fiával, s mindazzal, amivel a király kitüntette és megtisztelte őt. Elmondta nekik, hogy a király őt minden más birodalmi vezetőnél és királyi tisztviselőnél nagyobb méltóságra emelte.
+{5:12} Majd hozzátette: „De ez még nem minden! Én vagyok az egyetlen, akit Eszter királyné meghívott a királlyal együtt a lakomára, amelyet rendezett. Sőt, holnapra is ugyanilyen meghívást kaptam tőle a következő vacsorára.
+{5:13} De mit ér mindez, ha közben nap mint nap látnom kell azt a zsidót, Márdokeust, a király kapujában ülni!”
+{5:14} Erre felesége és barátai azt mondták: „Készíttess egy 50 könyök magas akasztófát, és holnap reggel kérd meg a királyt, hogy akasztassa fel arra Márdokeust! Azután már vidáman mehetsz a királlyal együtt a lakomára.” Ez tetszett Hámánnak, és kiadta a parancsot szolgáinak, hogy állítsák fel az akasztófát.
+{i6:1} Márdokeus felmagasztalása
+{6:1} A vacsora utáni éjszakán nem jött álom a király szemére, ezért előhozatta a krónikák könyvét, amelybe uralkodása eseményeit jegyezték fel, és felolvastatott belőle.
+{6:2} Történetesen éppen azt a részt olvasták fel, amely arról szólt, hogyan leplezte le Márdokeus a király két ajtónálló testőrének, Bigtánának és Teresnek a tervét, akik meg akarták ölni Ahasvérós királyt.
+{6:3} „Milyen jutalmat, vagy kitüntetést kapott ezért Márdokeus?” — kérdezte a király. „Semmit” — felelték a szolgák.
+{6:4} „Ki van most az udvarban a főembereim közül?” — kérdezte a király. „Hámán áll az ajtó előtt” — válaszolták a szolgák. Hámán ugyanis éppen ekkor érkezett meg a
+{6:5} palota külső udvarába. El akarta érni a királynál, hogy Márdokeust akasszák föl arra az akasztófára, amelyet Hámán erre a célra állíttatott fel. „Jöjjön be!” — mondta a király.
+{6:6} Amikor Hámán belépett, a király megkérdezte tőle: „Mi kell tenni azzal a férfival, akit a király nagy megtiszteltetésben akar részesíteni?” Ezt hallva Hámán rögtön magára gondolt: „Ugyan ki mást akarna a király kitüntetni, mint engem?!”
+{6:7} Így hát ezt válaszolta: „Azt a férfit, akit a király meg akar tisztelni,
+{6:8} öltöztessék fel a király ruhájába, ültessék a király lovára, és tegyék fejére a király koronáját.
+{6:9} Adják a ruhát és a lovat a király egyik főemberének. Ő öltöztesse fel azt a férfit, és ültesse fel a király lovára, majd kantáron vezesse a lovat végig a város utcáin és terein. Közben hangosan kiáltva hirdesse ki: »Nézzétek, ez az a férfi, akit a király meg akar tisztelni!«”
+{6:10} „Helyes! Akkor sietve menj, és hozd elő azt a ruhát és lovat — parancsolta a király Hámánnak. — Mindent úgy tegyél, ahogy mondtad: öltöztesd fel a zsidó Márdokeust, aki a király kapujában szolgál, és ültesd a lóra! Semmit el ne hagyj abból, amit mondtál!”
+{6:11} Akkor Hámán megkereste azt a ruhát, és felöltöztette Márdokeust. Elővezették a király lovát is, Hámán felültette rá Márdokeust, és végigvezette a lovat a város utcáin és terein. Közben pedig hangosan ezt kiáltotta: „Nézzétek, ez az a férfi, akit a király ki akar tüntetni!”
+{6:12} Ezek után Márdokeus visszatért a helyére, a király kapujába. Hámán pedig nagy búsan sietett haza, és még az arcát is betakarta szégyenében és elkeseredésében.
+{6:13} Amikor a feleségének, Zeresnek és a tanácsadóinak elmondta, mi történt vele — azok így válaszoltak: „Mivelhogy Márdokeus a zsidó nemzetből származik, nem leszel képes megállni vele szemben, hanem egészen biztosan te fogsz elesni előtte. Valójában már meg is kezdődött a hanyatlásod.”
+{6:14} Még be sem fejezték a beszélgetést, amikor a király szolgái betoppantak, hogy Hámánt sietve Eszter lakomájára kísérjék.
+{i7:1} Hámán bukása
+{7:1} A király és Hámán másodszor is Eszter királynénál vendégeskedtek. A lakoma közben, amikor a bort felszolgálták, a király ismét Eszterhez fordult:
+{7:2} „Mit kívánsz, mondd el bátran, teljesítem! Mi a kérésed? Bármi legyen is az, megkapod — akár a királyságom felét is.”
+{7:3} Ekkor Eszter végre előadta kérését: „Felséges Királyom! Ha kedvelsz engem, ha jóindulattal vagy irántam, és ha úgy látod jónak, kegyelmezz nekem, hogy ne kelljen meghalnom! És kegyelmezz népemnek is, hadd éljünk! Ez a kérésem és kívánságom.
+{7:4} Mert eladtak bennünket — engem és egész népemet együttesen — hogy megöljenek, elpusztítsanak, és megsemmisítsenek mindannyiunkat. Ha csupán rabszolgának adtak volna el, akkor hallgatnék, és nem zavarnám nyomorúságunkkal a királyt.”
+{7:5} Akkor Ahasvérós király ezt kérdezte Eszter királynétól: „Ki az és hol van, aki ilyet merészelt tervezni?!”
+{7:6} Eszter Hámánra mutatott: „Ő az! Ez a gonosz Hámán a mi ellenségünk, aki a vesztünket akarja!” Hámán megrémülve nézett a királyra és a királynéra.
+{7:7} A király pedig haragra lobbant, hirtelen felkelt a vacsora mellől, és kisietett a palota kertjébe. Hámán azonban ott maradt, hogy Eszter királynénál kegyelemért könyörögjön. Megértette, hogy a király már elhatározta, hogy kivégezteti.
+{7:8} A király éppen abban a pillanatban jött vissza a kertből, amikor Hámán — könyörgés közben — arra a díványra borult, amelyen Eszter feküdt. Ezt látva a király így kiáltott fel: „Hogy merészel ez az ember az én jelenlétemben és a palotámban erőszakoskodni a királynéval?!” Ahogy ezt mondta, a szolgák azonnal betakarták Hámán arcát.
+{7:9} Az egyik szolga — Harbóná — megszólalt: „Hámán házánál már áll egy 50 könyök magas akasztófa, amelyet ő annak a Márdokeusnak szánt, aki megmentette a király életét.”. „Helyes! Akkor Hámánt akasszátok fel arra a fára!” — parancsolta a király.
+{7:10} Így hát Hámán maga került arra az akasztófára, amelyet Márdokeusnak szánt. Azután megszűnt a király haragja.
+{i8:1} A király rendelete a zsidók érdekében
+{8:1} Ezen a napon Ahasvérós király átadta Eszter királynénak Hámánnak, a zsidók ellenségének a házát, minden birtokát és vagyonát. Eszter megmondta a királynak, hogy Márdokeus a rokona és nevelőapja, azután bevezette őt a királyhoz.
+{8:2} A király lehúzta ujjáról a pecsétgyűrűt — amelyet Hámántól már visszavett — és átadta Márdokeusnak. Eszter pedig rábízta Márdokeusra Hámán házának és összes birtokának az igazgatását.
+{8:3} Azután Eszter ismét könyörgött a királynak. Sírva borult a lába elé, és kegyelmet kért tőle, hogy hiúsítsa meg az agági Hámán gonosz tervét, amelyet a zsidók kiirtására készített.
+{8:4} A király Eszterre nyújtotta aranypálcáját. Eszter felkelt, megállt a király előtt,
+{8:5} és ezt kérte tőle: „Ha a király is úgy látja jónak, és kedvel engem, ha helyesnek tartja, és jóindulattal van irántam, adjon ki írott rendeletet, amely érvényteleníti az agági Hámán korábbi rendeletét. Hiszen az a rendelet, amelyet ő írt, és hirdetett ki, még érvényben van: és e szerint a zsidókat a birodalom összes tartományában ki kell irtani.
+{8:6} Hogyan is nézhetném tétlenül azt a veszedelmet, amely népemet fenyegeti?! Hogyan is hagyhatnám, hogy egész rokonságomat elpusztítsák?!”
+{8:7} Ahasvérós király erre így felelt Eszter királynénak és a zsidó Márdokeusnak: „Mivel Hámán a zsidók ellen támadt, kivégeztettem, és felakasztották a fára — összes birtokát és vagyonát pedig Eszternek adtam.
+{8:8} Most rajtatok a sor: írjatok egy másik rendeletet a zsidók érdekében — amint jónak látjátok! A király nevében írjátok meg, és pecsételjétek le a gyűrűjével! Az a rendelet ugyanis, amelyet a király nevében írtak, és gyűrűjével pecsételtek le, nem vonható vissza.”
+{8:9} Így hát sietve hívatták a király írnokait, akik a harmadik (Sziván) hónap 23-ik napján, Márdokeus szavai szerint leírták az új rendeletet. Megírták a zsidóknak, a tartományok kormányzóinak, a vezetőknek és a hivatalnokoknak a birodalom mind a 127 tartományába, Indiától Etiópiáig, minden népnek a saját nyelvén és minden tartományba annak írásával.
+{8:10} Márdokeus a király nevében írta ezt a rendeletet, és a király gyűrűjével pecsételte le. Azután szétküldte a királyi futárokkal, akik gyors lovakon vágtattak (e lovakat külön a királyi futárszolgálat számára tenyésztették).
+{8:11} A rendeletben az állt, hogy a király biztosítja a jogot birodalma minden városában a zsidóknak, hogy összegyűljenek és megvédjék magukat. Megengedi, hogy megöljék, elpusztítsák és megsemmisítsék mindazokat a fegyvereseket, feleségükkel és gyermekeikkel együtt — bármely népből, vagy tartományból is jöjjenek ellenük — akik megtámadják őket. Azt is megengedi, hogy ellenségeik minden vagyonát zsákmányul vegyék maguknak.
+{8:12} Mindezt pedig Ahasvérós király birodalma összes tartományában ugyanazon a kijelölt napon tehetik meg a zsidók: a tizenkettedik (Adár) hónap 13. napján.
+{8:13} Ezt a királyi parancsot törvényként hirdették ki minden tartományban, és tudatták minden néppel, hogy a zsidók fel fognak készülni rá, hogy megvédjék magukat, és bosszút álljanak ellenségeiken.
+{8:14} A királyi futárok sietve lóra ültek, és útnak indultak. A törvényt Súsán városában is azonnal kihirdették.
+{8:15} Azután Márdokeus kijött a királytól. Különleges kék-fehér királyi öltözetet, és bíborszínű finom lenvászon palástot viselt, a fején pedig nagy aranykorona volt. Súsán városában mindenki hangosan kiáltozva ujjongott és örvendezett.
+{8:16} A zsidók között különösen nagy volt a vigadozás, mert felvirradt számukra az öröm és a dicsőség napja!
+{8:17} Ugyanez történt minden városban és tartományban is, ahol a király rendeletét kihirdették: a zsidók örvendeztek, vigadoztak, örültek és lakomát tartottak. A birodalom egyéb népei közül pedig sokan csatlakoztak a zsidókhoz és vallásukhoz, mert tisztelték őket, és féltek tőlük.
+{i9:1} A zsidók legyőzik ellenségeiket
+{9:1} Elérkezett a tizenkettedik (Adár) hónap 13. napja, amelyen a király rendeletét végre kellett hajtani. Ellenségeik azt tervezték, hogy ezen a napon majd legyőzik a zsidókat. Azonban a tervük a visszájára fordult: a zsidók győzték le azokat, akik gyűlölték őket.
+{9:2} A zsidók ugyanis Ahasvérós király birodalmának összes tartományában, minden városban összegyűltek, összefogtak, és rátámadtak azokra, akik az elpusztításukat tervezték. Senki sem tudott ellenállni a zsidóknak, mert a többi nép mind félt tőlük.
+{9:3} A tartományok kormányzói, a helytartók és más vezetők, és a király hivatalnokai is mind segítették a zsidókat, mert féltek Márdokeustól.
+{9:4} Ugyanis Márdokeus igen magas tisztséget töltött be a király udvarában, híre elterjedt a birodalom összes tartományában, és hatalma egyre növekedett.
+{9:5} A zsidók tehát legyőzték minden ellenségüket: fegyverrel pusztították el őket, és gyűlölőikkel azt tettek, amit csak akartak.
+{9:6} Súsán várában is így tettek: ott 500 férfit öltek meg.
+{9:7} Közöttük volt Hámánnak, a zsidók ellenségének mind a
+{9:8} tíz fia is: Parsandáta, Dalfón, Aszpáta, Póráta, Adajla,
+{9:9} Aridáta, Parmasta, Ariszaj, Aridaj és Vajzáta. Bár a
+{9:10} zsidók megölték ellenségeiket, azoknak a vagyonához egy ujjal sem nyúltak.
+{9:11} Még aznap jelentették a királynak, hogy a zsidók hány ellenségüket ölték meg Súsán várában.
+{9:12} Ezt hallva a király Eszter királynéhoz fordult: „A zsidók csak Súsán várában 500 férfit öltek meg, közöttük Hámán tíz fiát is! Vajon hányat pusztítottak el akkor a király többi tartományában? Most hát mit kívánsz? Megadom. Mi a kérésed? Teljesítem!”
+{9:13} Eszter így felelt: „Ha a király is úgy látja jónak, engedje meg a zsidóknak, hogy Súsán városában holnap is a mai napra érvényes rendelet szerint harcoljanak. Hámán tíz fiának testét pedig akasszák fel, hogy mindenki lássa!”
+{9:14} A király kiadta a parancsot Eszter szavai szerint. Súsánban kihirdették a rendeletet, és Hámán tíz fiának a holttestét felakasztották.
+{9:15} Súsán városában a zsidók Adár hónap 14. napján is összegyűltek, és ott lévő ellenségeik közül 300 férfit megöltek, de azoknak vagyonához nem nyúltak.
+{9:16} Mialatt Súsánban ez történt, Adár hónap 13. napján a zsidók mindenhol összegyűltek a birodalom tartományaiban, hogy egyesült erővel védekezzenek. Gyűlölőik közül megöltek 75 000
+{9:17} férfit — így szabadultak meg ellenségeiktől — de azoknak vagyonához egy ujjal sem nyúltak. A következő napon, Adár 14. napján megpihentek, és örömünnepet tartottak.
+{i9:18} Purim ünnepe
+{9:18} A súsáni zsidók a 13. és 14. napon gyűltek össze és harcoltak, csak a 15. napon pihentek meg. Így ők a 15. napot tették az ünnep és az öröm napjává.
+{9:19} A vidéken és a falvakban lakó zsidók azonban a 14. napon ünnepeltek nagy lakomával és vidámsággal. Ilyenkor az ünnepi ételekből kóstolót is küldtek egymásnak.
+{9:20} Márdokeus feljegyezte ezeket az eseményeket, majd leveleket küldött a zsidóknak, akik közel vagy távol Ahasvérós király birodalmának tartományaiban éltek.
+{9:21} Meghagyta nekik, hogy Adár hónap 14. és 15. napját ezentúl minden évben ünnepeljék meg.
+{9:22} Hiszen ezeken a napokon szabadultak meg ellenségeiktől, és ebben a hónapban történt az, hogy szomorúságuk örömre fordult, és gyászukból ünnep született. Meghagyta, hogy ezen a két napon lakomázzanak és örvendezzenek, küldjenek egymásnak kóstolót az ünnepi ételekből; és küldjenek belőle a szegényeknek is, akik ezt nem tudják viszonozni.
+{9:23} A zsidók megfogadták, hogy ennek az ünnepnek a megtartását folytatni fogják évről-évre, aszerint, amint Márdokeus megírta nekik.
+{9:24} Mert az agági Hámán, Hammedátá fia, a zsidók ellensége azt tervezte, hogy minden zsidót elpusztít, és sorsot, azaz „purt” húzott, hogy kijelölje a zsidók elvesztésének és kiirtásának napját.
+{9:25} Eszter azonban bement a királyhoz, aki írott rendeletben megparancsolta, hogy Hámán gonosz terve szálljon vissza a saját fejére, és őrajta hajtsák végre, amit a zsidókkal akart tenni. Ezért hát Hámánt tíz fiával együtt felakasztották a fára.
+{9:26} Azért kapta ez az ünnep a „purim” nevet, mert a sorsvetést „pur”-nak nevezték. Márdokeus levele szerint, és annak emlékére, amit átéltek,
+{9:27} a zsidók valamennyien elhatározták, hogy ezt a kétnapos ünnepet azontúl minden évben megtartják a megszabott napokon. De nemcsak ők maguk tartják meg, hanem minden utánuk következő nemzedék is — , meg azok is, akik hozzájuk csatlakoznak.
+{9:28} Elhatározták, hogy a Purim megünneplésével mindig emlékezni fognak arra, ami velük történt — minden családban, nemzedékben, városban és tartományban — és ezt az ünnepet soha el nem hagyják, és utódaik sem fognak elfelejtkezni róla.
+{9:29} Így hát Eszter királyné, Abihail leánya és a zsidó Márdokeus együtt írtak egy hivatalos rendeletet a Purim ünneppel kapcsolatban. Ezt a rendeletet is a király teljes felhatalmazásával írták — akárcsak az elsőt.
+{9:30} Majd Márdokeus kiküldte a hivatalos iratokat a zsidóknak Ahasvérós király birodalmának mind a 127 tartományába. A békesség és igazság üzenetével biztatták őket,
+{9:31} hogy tartsák meg a Purim ünnepét a kijelölt napokon, annak megfelelően, ahogyan a zsidó Márdokeus és Eszter királyné meghagyta nekik. Ezt az új ünnepet is ugyanúgy tartsák meg, ahogyan utódaikra nézve is kötelezően megfogadták, hogy a többi ünnepet — a böjt és a jajgatás napjait is — megtartják.
+{9:32} Eszter királyné parancsa ilyen módon a Purim ünnepét hivatalossá és kötelezővé tette a zsidók számára — és egyúttal fel is jegyezték azt egy könyvbe.
+{i10:1} Márdokeus felmagasztalása
+{10:1} Ahasvérós király adót vetett ki egész birodalmában, a szárazföldön és a messzi tengeri szigeteken is minden lakosra.
+{10:2} A Méd-Perzsa Birodalom királyainak évkönyveiben feljegyezték Ahasvérós király minden nevezetes tettét, és ugyancsak feljegyezték, hogy Márdokeust a király milyen magas tisztségre emelte.
+{10:3} Ugyanis a zsidó Márdokeus a király után rangban a második volt az egész birodalomban, nagy tiszteletnek és szeretetnek örvendett a zsidók között, mert népének javát kereste, és békességet hozott egész nemzetének.

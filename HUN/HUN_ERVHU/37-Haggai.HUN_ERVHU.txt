@@ -1,0 +1,44 @@
+{i1:1} Építsétek fel a Templomot!
+{1:1} Dárius király uralkodásának 2. évében, a 6. hónap 1. napján szólt az Örökkévaló Haggeus próféta által Zerubbábelhez, Sealtiél fiához, Júda tartományának kormányzójához, és Jósua főpaphoz, Jócádák fiához.
+{1:2} Ezt mondja az Örökkévaló, a Seregek Ura: „Ez a nép azt mondja: »Még jött el az ideje, hogy az Örökkévaló házát egészen helyreállítsuk.«”
+{1:3} De az Örökkévaló így válaszolt Haggeus prófétán keresztül:
+{1:4} „Hát annak itt van az ideje, hogy ti kényelmes faburkolatú házaitokban lakjatok, miközben az én házam romokban hever?
+{1:5} Gondoljátok csak meg, mire jutottatok! — mondja az Örökkévaló, a Seregek Ura. —
+{1:6} Sok magot vetettetek, de aratáskor mégis keveset vittetek haza! Van ugyan mit ennetek, de sohasem laktok jól! Bort is isztok, de ahhoz már nem elég, hogy megittasodjatok! Van mibe öltözködnötök, de a ruhátok a hideg ellen már nem véd meg. Megkapjátok ugyan a munkátok bérét, de az kifolyik a kezetek közül.
+{1:7} Gondoljátok csak meg, mire jutottatok! — mondja az Örökkévaló, a Seregek Ura. —
+{1:8} Menjetek hát fel a hegyek erdőségeibe, hozzatok gerendákat, és építsétek fel házamat egészen, hogy gyönyörködjem benne, és hogy dicsőségemre szolgáljon! — mondja az Örökkévaló. —
+{1:9} Hiszen gazdag termést vártatok, de kevés lett. Mikor pedig hazavittétek, én ráfújtam és eltűnt! Mit gondoltok, miért? Mert az én házam romos és befejezetlen, ti pedig mindannyian csak a saját házatokkal törődtök! — mondja az Örökkévaló, a Seregek Ura. —
+{1:10} Ezért zárult be fölöttetek az ég, s nem adott harmatot, a föld pedig nem hozott termést.
+{1:11} Ezért parancsoltam szárazságot a szántóföldre és a dombokra, a gabonára és szőlőre, az olajfákra és minden egyéb terményre. Sőt, az embereket és az állatokat is sújtotta a szárazság, és minden munkájukat tönkretette.”
+{i1:12} A Templom újjáépítését folytatják
+{1:12} A vezetők — Zerubbábel, Sealtiél fia és Jósua, Jócádák fia, a főpap — és a száműzetésből hazatért maradék nép engedelmeskedett Istenük az Örökkévaló szavának, amelyet Haggeus próféta által mondott. Hiszen Haggeust Istenük, az Örökkévaló küldte hozzájuk, akit mindannyian tiszteltek és féltek.
+{1:13} Akkor Haggeus, az Örökkévaló küldötte, így szólt az egész néphez: „Ezt üzeni nektek az Örökkévaló: »Én vagyok veletek!«”
+{1:14} Az Örökkévaló felbátorította Zerubbábelt, Sealtiél fiát, Júda kormányzóját és Jósuát, Jócádák fiát, a főpapot, és mind az egész népet. Ezért valamennyien eljöttek,
+{1:15} és Dárius király uralkodásának második évében, a 6. hónap 24. napján munkához láttak, hogy Istenük, az Örökkévaló, a Seregek Ura házát egészen felépítsék.
+{i2:1} Legyetek bátrak és erősek!
+{2:1} A 7. hónap 21. napján az Örökkévaló üzenete érkezett Haggeus prófétához:
+{2:2} „Ezt mondd Zerubbábelnek, Sealtiél fiának, Júda helytartójának és Jósua főpapnak, Jócádák fiának, meg a maradék népnek:
+{2:3} Ki az közületek, aki még eredeti dicsőségében látta ezt a Templomot? Milyennek látjátok most? Ugye, azt gondoljátok, hogy ez semmi ahhoz a Templomhoz képest?
+{2:4} Mégis, légy erős és bátor, Zerubbábel — az Örökkévaló mondja ezt neked! Légy erős és bátor te is, Jósua főpap, Jócádák fia! Legyetek bátrak és erősek ti is mindannyian, akik Izráel földjén éltek — az Örökkévaló mondja ezt nektek! Építsétek fel egészen a Templomot, mert én vagyok veletek,
+{2:5} a szövetségem szerint, amelyet kötöttem veletek, amikor kijöttetek Egyiptomból — az Örökkévaló, a Seregek Ura mondja ezt nektek. Szellemem közöttetek lakik, ne féljetek!”
+{i2:6} Megrázom a Mennyet és a Földet
+{2:6} Mert ezt mondja az Örökkévaló, a Seregek Ura: „Egy kis idő múlva még egyszer megrázom a Mennyet és a Földet, a tengert és a szárazföldet.
+{2:7} Felrázom az összes nemzetet, és ide hozzák kincseiket: megtöltöm ezt a házat dicsőséggel — ezt mondja az Örökkévaló, a Seregek Ura.
+{2:8} Enyém az ezüst és az arany — ezt mondja az Örökkévaló, a Seregek Ura.
+{2:9} Nagyobb lesz ennek a második háznak a dicsősége, mint az elsőé volt — mondja az Örökkévaló, a Seregek Ura — , és ezen a helyen adok nektek békességet és bőséget” — mondja az Örökkévaló, a Seregek Ura.
+{i2:10} Ettől a naptól fogva megáldalak!
+{2:10} Dárius király uralkodásának 2. évében, a 9. hónap 24. napján az Örökkévaló üzenete érkezett Haggeus prófétához.
+{2:11} „Ezt mondja az Örökkévaló, a Seregek Ura: Kérdezd meg a papoktól, hogyan rendelkezik a Törvény abban az esetben,
+{2:12} mikor valaki az Örökkévalónak szentelt, áldozatra szánt húst visz a ruhája szélébe göngyölve. Ha ilyenkor a ruhája szegélye megérint valamilyen más ételt, például kenyeret, zöldséget, bort, vagy olajat, akkor vajon az a másik étel is szentté lesz-e?” A papok ezt válaszolták: „Nem, az a másik étel nem válik ettől szentté.”
+{2:13} Majd Haggeus tovább kérdezte a papokat: „Amikor valaki megérint egy holttestet, tisztátalanná válik, igaz? Ha egy ilyen tisztátalan ember ér hozzá ezekhez az ételekhez, akkor azok is tisztátalanná lesznek?” A papok ezt válaszolták: „Igen, amihez hozzáér, az is tisztátalanná válik.”.
+{2:14} Akkor Haggeus ezt mondta: „Ugyanígy tisztátalan ez a nép, az egész nemzet az én szememben — azt mondja az Örökkévaló — , és tisztátalan kezüknek minden munkája is. Sőt, amit az oltáron feláldoznak, az is mind tisztátalan!
+{2:15} De jól figyeljétek meg, mi történik a mai naptól kezdve! Emlékezzetek rá, hogy ment a sorotok eddig, mielőtt az Örökkévaló Templomát elkezdtétek építeni!
+{2:16} Mikor azt reméltétek, hogy a búzavetés húszkosárnyit terem, csak tízet arattatok. Azt vártátok, hogy szőlőtök ötven hordó bort terem, de csak húszat adott.
+{2:17} Megvertelek titeket és kezetek munkáját mindenféle csapással: jégesővel, kártevőkkel és betegségekkel, de mégsem fordultatok vissza hozzám! — azt mondja az Örökkévaló. —
+{2:18} De jól figyeljétek meg, mi fog történni a mai naptól, a 9. hónap 24. napjától kezdve, amikor befejeztétek az Örökkévaló Templomának alapozását! Figyeljétek csak meg!
+{2:19} Bár az elmúlt években nem hozott jó termést sem a gabona, sem a szőlő, sem a gránátalma, sem az olajfa — de ettől a naptól kezdve bőségesen megáldalak benneteket.”
+{i2:20} Pecsétgyűrűm leszel, Zerubbábel!
+{2:20} A 9. hónap 24. napján az Örökkévaló másodszor is szólt Haggeus prófétához:
+{2:21} „Mondd meg Zerubbábelnek, Júda kormányzójának: Megrázom a Mennyet és a Földet,
+{2:22} felfordítom a királyságok trónjait, a nemzetek királyságainak erejét elveszem, felfordítom a harci szekereket, s lehullanak róluk a harcosok, ló és lovasa holtan zuhan a földre. Társaik fegyverétől mind elpusztulnak!
+{2:23} Azon a napon — ezt mondja neked az Örökkévaló, a Seregek Ura — felveszlek téged szolgám, Zerubbábel, Sealtiél fia — mondja az Örökkévaló — , és pecsétgyűrűm leszel, mivel téged választottalak!” Ezt üzeni neked az Örökkévaló, a Seregek Ura.

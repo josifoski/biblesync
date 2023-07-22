@@ -1,0 +1,1377 @@
+{i1:1} Numărătoarea israeliţilor
+{1:1} Domnul a vorbit lui Moise în pustia Sinai, în cortul întâlnirii, în cea dintâi zi a lunii a doua, în al doilea an după ieşirea lor din ţara Egiptului. El a zis:
+{1:2} „Faceţi numărătoarea întregii adunări a copiilor lui Israel, după familiile lor, după casele părinţilor lor, numărând pe cap numele tuturor bărbaţilor,
+{1:3} de la vârsta de douăzeci de ani în sus, pe toţi cei din Israel care sunt în stare să poarte armele; să le faceţi numărătoarea după cetele lor, tu şi Aaron.
+{1:4} Să fie cu voi câte un bărbat de fiecare seminţie, căpetenie a casei părinţilor săi.
+{1:5} Iată numele bărbaţilor care vor fi împreună cu voi. Pentru Ruben: Eliţur, fiul lui Şedeur;
+{1:6} pentru Simeon: Şelumiel, fiul lui Ţurişadai;
+{1:7} pentru Iuda: Nahşon, fiul lui Aminadab;
+{1:8} pentru Isahar: Netaneel, fiul lui Ţuar;
+{1:9} pentru Zabulon: Eliab, fiul lui Helon;
+{1:10} pentru fiii lui Iosif – pentru Efraim: Elişama, fiul lui Amihud; pentru Manase: Gamliel, fiul lui Pedahţur;
+{1:11} pentru Beniamin: Abidan, fiul lui Ghideoni;
+{1:12} pentru Dan: Ahiezer, fiul lui Amişadai;
+{1:13} pentru Aşer: Paguiel, fiul lui Ocran;
+{1:14} pentru Gad: Eliasaf, fiul lui Deuel;
+{1:15} pentru Neftali: Ahira, fiul lui Enan.”
+{1:16} Aceştia sunt cei ce au fost aleşi de adunare, mai-marii seminţiilor părinţilor lor, căpeteniile miilor lui Israel.
+{1:17} Moise şi Aaron au luat pe bărbaţii aceştia care fuseseră chemaţi pe nume
+{1:18} şi au strâns toată adunarea în cea dintâi zi a lunii a doua. I-au trecut în cărţile care cuprindeau spiţa neamului, după familiile lor, după casele părinţilor lor, numărând pe cap numele bărbaţilor de la vârsta de douăzeci de ani în sus.
+{1:19} Moise a făcut numărătoarea în pustia Sinai, cum îi poruncise Domnul.
+{1:20} Au trecut în cărţile neamului pe fiii lui Ruben, întâiul născut al lui Israel, după familiile lor, după casele părinţilor lor, numărând pe cap numele tuturor bărbaţilor, de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:21} bărbaţii din seminţia lui Ruben ieşiţi la numărătoare au fost patruzeci şi şase de mii cinci sute.
+{1:22} Au trecut în cărţile neamului pe fiii lui Simeon, după familiile lor, după casele părinţilor lor; le-au făcut numărătoarea, numărând pe cap numele tuturor bărbaţilor de la vârsta de douăzeci de ani în sus, toţi cei în stare să poarte armele:
+{1:23} bărbaţii din seminţia lui Simeon ieşiţi la numărătoare au fost cincizeci şi nouă de mii trei sute.
+{1:24} Au trecut în cărţile neamului pe fiii lui Gad, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:25} bărbaţii din seminţia lui Gad ieşiţi la numărătoare au fost patruzeci şi cinci de mii şase sute cincizeci.
+{1:26} Au trecut în cărţile neamului pe fiii lui Iuda, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:27} bărbaţii din seminţia lui Iuda ieşiţi la numărătoare au fost şaptezeci şi patru de mii şase sute.
+{1:28} Au trecut în cărţile neamului pe fiii lui Isahar, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:29} bărbaţii din seminţia lui Isahar ieşiţi la numărătoare au fost cincizeci şi patru de mii patru sute.
+{1:30} Au trecut în cărţile neamului pe fiii lui Zabulon, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:31} bărbaţii din seminţia lui Zabulon ieşiţi la numărătoare au fost cincizeci şi şapte de mii patru sute.
+{1:32} Au trecut în cărţile neamului, dintre fiii lui Iosif, pe fiii lui Efraim, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:33} bărbaţii din seminţia lui Efraim ieşiţi la numărătoare au fost patruzeci de mii cinci sute.
+{1:34} Au trecut în cărţile neamului pe fiii lui Manase, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:35} bărbaţii din seminţia lui Manase ieşiţi la numărătoare au fost treizeci şi două de mii două sute.
+{1:36} Au trecut în cărţile neamului pe fiii lui Beniamin, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:37} bărbaţii din seminţia lui Beniamin ieşiţi la numărătoare au fost treizeci şi cinci de mii patru sute.
+{1:38} Au trecut în cărţile neamului pe fiii lui Dan, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:39} bărbaţii din seminţia lui Dan ieşiţi la numărătoare au fost şaizeci şi două de mii şapte sute.
+{1:40} Au trecut în cărţile neamului pe fiii lui Aşer, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:41} bărbaţii din seminţia lui Aşer ieşiţi la numărătoare au fost patruzeci şi una de mii cinci sute.
+{1:42} Au trecut în cărţile neamului pe fiii lui Neftali, după familiile lor, după casele părinţilor lor, numărând numele bărbaţilor de la vârsta de douăzeci de ani în sus, pe toţi cei în stare să poarte armele:
+{1:43} bărbaţii din seminţia lui Neftali ieşiţi la numărătoare au fost cincizeci şi trei de mii patru sute.
+{1:44} Aceştia sunt aceia a căror numărătoare a fost făcută de Moise şi Aaron şi de cei doisprezece bărbaţi, mai-mari ai lui Israel; era câte un bărbat pentru fiecare din casele părinţilor lor.
+{1:45} Toţi aceia dintre copiii lui Israel ieşiţi la numărătoare, după casele părinţilor lor, de la vârsta de douăzeci de ani în sus, toţi aceia din Israel care erau în stare să poarte armele,
+{1:46} toţi cei ieşiţi la numărătoare, au fost şase sute trei mii cinci sute cincizeci.
+{i1:47} Deosebirea leviţilor
+{1:47} Leviţii, după seminţia părinţilor lor, n-au intrat în numărătoarea aceasta.
+{1:48} Domnul a vorbit lui Moise şi a zis:
+{1:49} „Să nu faci numărătoarea seminţiei lui Levi şi să nu-i numeri capetele în mijlocul celorlalţi copii ai lui Israel.
+{1:50} Dă în grija leviţilor cortul întâlnirii, toate uneltele lui şi tot ce ţine de el. Ei vor duce cortul şi toate uneltele lui, vor face slujba în el şi vor tăbărî în jurul cortului.
+{1:51} Când va porni cortul, leviţii să-l desfacă şi când se va opri cortul, leviţii să-l întindă, iar străinul care se va apropia de el să fie pedepsit cu moartea.
+{1:52} Copiii lui Israel să tabere fiecare în tabăra lui, fiecare lângă steagul lui, după cetele lor.
+{1:53} Dar leviţii să tabere în jurul cortului întâlnirii, pentru ca să nu izbucnească mânia Mea împotriva adunării copiilor lui Israel, şi leviţii să aibă paza cortului întâlnirii.”
+{1:54} Copiii lui Israel au făcut întocmai după toate poruncile pe care le dăduse lui Moise Domnul; aşa au făcut.
+{i2:1} Aşezarea taberelor
+{2:1} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{2:2} „Copiii lui Israel au să tabere fiecare lângă steagul lui, sub semnele casei părinţilor lui; să tabere în faţa şi împrejurul cortului întâlnirii.
+{2:3} La răsărit, tabăra lui Iuda, cu steagul ei şi cu oştirile sale. Acolo să tabere mai-marele fiilor lui Iuda, Nahşon, fiul lui Aminadab,
+{2:4} cu oştirea lui, alcătuită din şaptezeci şi patru de mii şase sute de oameni ieşiţi la numărătoare.
+{2:5} Lângă el să tabere seminţia lui Isahar şi mai-marele fiilor lui Isahar, Netaneel, fiul lui Ţuar,
+{2:6} cu oştirea lui, alcătuită din cincizeci şi patru de mii patru sute de oameni, ieşiţi la numărătoare;
+{2:7} apoi seminţia lui Zabulon şi mai-marele fiilor lui Zabulon, Eliab, fiul lui Helon,
+{2:8} cu oştirea lui, alcătuită din cincizeci şi şapte de mii patru sute de oameni ieşiţi la numărătoare.
+{2:9} Toţi cei din tabăra lui Iuda ieşiţi la numărătoare sunt o sută optzeci şi şase de mii patru sute de bărbaţi, după oştirea lor. Ei să pornească cei dintâi.
+{2:10} La miazăzi, tabăra lui Ruben, cu steagul ei şi cu oştirile ei. Acolo să tabere mai-marele fiilor lui Ruben, Eliţur, fiul lui Şedeur,
+{2:11} cu oştirea lui, alcătuită din patruzeci şi şase de mii cinci sute de bărbaţi ieşiţi la numărătoare.
+{2:12} Lângă el să tabere seminţia lui Simeon şi mai-marele fiilor lui Simeon, Şelumiel, fiul lui Ţurişadai,
+{2:13} cu oştirea lui, alcătuită din cincizeci şi nouă de mii trei sute de oameni ieşiţi la numărătoare;
+{2:14} apoi seminţia lui Gad şi mai-marele fiilor lui Gad, Elisa, fiul lui Deuel,
+{2:15} cu oştirea lui, alcătuită din patruzeci şi cinci de mii şase sute cincizeci de oameni ieşiţi la numărătoare.
+{2:16} Toţi cei din tabăra lui Ruben ieşiţi la numărătoare sunt o sută cincizeci şi unu de mii patru sute cincizeci de oameni, după oştirile lor. Ei să pornească în al doilea rând.
+{2:17} Apoi va porni cortul întâlnirii, împreună cu tabăra leviţilor, aşezată în mijlocul celorlalte tabere. Pe drum, vor ţine şirul în care a tăbărât fiecare, la rândul lui, după steagul lui.
+{2:18} La apus, tabăra lui Efraim, cu steagul său şi cu oştirile sale. Acolo să tabere mai-marele fiilor lui Efraim, Elişama, fiul lui Amihud,
+{2:19} cu oştirea lui, alcătuită din patruzeci de mii cinci sute de oameni ieşiţi la numărătoare.
+{2:20} Lângă el să tabere seminţia lui Manase şi mai-marele fiilor lui Manase, Gamliel, fiul lui Pedahţur,
+{2:21} cu oştirea lui, alcătuită din treizeci şi două de mii două sute de oameni ieşiţi la numărătoare;
+{2:22} apoi seminţia lui Beniamin şi mai-marele fiilor lui Beniamin, Abidan, fiul lui Ghideoni,
+{2:23} cu oştirea lui, alcătuită din treizeci şi cinci de mii patru sute de oameni ieşiţi la numărătoare.
+{2:24} Toţi cei din tabăra lui Efraim ieşiţi la numărătoare sunt o sută opt mii o sută de oameni, după oştirile lor. Ei să pornească în al treilea rând.
+{2:25} La miazănoapte, tabăra lui Dan, cu steagul ei şi cu oştirile ei. Acolo să tabere mai-marele fiilor lui Dan, Ahiezer, fiul lui Amişadai,
+{2:26} cu oştirea lui, alcătuită din şaizeci şi două de mii şapte sute de oameni ieşiţi la numărătoare.
+{2:27} Lângă el, să tabere seminţia lui Aşer şi mai-marele fiilor lui Aşer. Paguiel, fiul lui Ocran,
+{2:28} cu oştirea lui, alcătuită din patruzeci şi unu de mii cinci sute de oameni ieşiţi la numărătoare;
+{2:29} apoi seminţia lui Neftali şi mai-marele fiilor lui Neftali, Ahira, fiul lui Enan,
+{2:30} cu oştirea lui, alcătuită din cincizeci şi trei de mii patru sute de oameni ieşiţi la numărătoare.
+{2:31} Toţi cei din tabăra lui Dan ieşiţi la numărătoare sunt o sută cincizeci şi şapte de mii şase sute de oameni. Ei să pornească cei din urmă, după steagul lor.”
+{2:32} Aceştia sunt copiii lui Israel ieşiţi la numărătoare după casele părinţilor lor. Toţi cei ieşiţi la numărătoare şi care au alcătuit taberele după oştirile lor au fost şase sute trei mii cinci sute cincizeci.
+{2:33} Leviţii, după porunca pe care o dăduse lui Moise Domnul, n-au intrat la numărătoare în mijlocul copiilor lui Israel.
+{2:34} Şi copiii lui Israel au făcut întocmai după toate poruncile pe care le dăduse lui Moise Domnul. Aşa tăbărau ei, după steagurile lor, şi astfel porneau la drum, fiecare după familia lui, după casa părinţilor lui.
+{i3:1} Familia lui Aaron
+{3:1} Iată sămânţa lui Aaron şi a lui Moise pe vremea când a vorbit Domnul cu Moise, pe muntele Sinai.
+{3:2} Iată numele fiilor lui Aaron: Nadab, întâiul născut, Abihu, Eleazar şi Itamar.
+{3:3} Acestea sunt numele fiilor lui Aaron, care au primit ungerea preoţească şi care au fost închinaţi în slujba preoţiei.
+{3:4} Nadab şi Abihu au murit înaintea Domnului, când au adus înaintea Domnului foc străin, în pustia Sinai; ei n-aveau fii. Eleazar şi Itamar au împlinit slujba preoţiei în faţa tatălui lor Aaron.
+{i3:5} Slujba leviţilor
+{3:5} Domnul a vorbit lui Moise şi a zis:
+{3:6} „Apropie seminţia lui Levi şi pune-o înaintea preotului Aaron, ca să fie în slujba lui.
+{3:7} Ei să aibă grijă de tot ce este dat în paza lui şi de tot ce este poruncit întregii adunări, înaintea cortului întâlnirii: să facă slujba cortului.
+{3:8} Să aibă grijă de toate uneltele cortului întâlnirii şi de tot ce este poruncit copiilor lui Israel: ei să facă slujba cortului.
+{3:9} Să dai pe leviţi lui Aaron şi fiilor lui; ei să-i fie daţi lui în totul, din partea copiilor lui Israel.
+{3:10} Pe Aaron şi pe fiii lui să-i pui să păzească slujba preoţiei lor, iar străinul care se va apropia să fie pedepsit cu moartea.”
+{3:11} Domnul a vorbit lui Moise şi a zis:
+{3:12} „Iată că am luat pe leviţi din mijlocul copiilor lui Israel, în locul tuturor întâilor născuţi care se nasc întâi dintre copiii lui Israel, şi leviţii vor fi ai Mei.
+{3:13} Căci orice întâi născut este al Meu. În ziua când am lovit pe toţi întâii născuţi din ţara Egiptului, Mi-am închinat Mie pe toţi întâii născuţi din Israel, atât din oameni, cât şi din dobitoace: ei vor fi ai Mei. Eu sunt Domnul.”
+{i3:14} Familiile leviţilor
+{3:14} Domnul a vorbit lui Moise în pustia Sinai şi a zis:
+{3:15} „Fă numărătoarea copiilor lui Levi după casele părinţilor lor, după familiile lor, şi anume fă numărătoarea tuturor celor de parte bărbătească, de la vârsta de o lună în sus.”
+{3:16} Moise le-a făcut numărătoarea după porunca Domnului, întocmai cum poruncise.
+{3:17} Iată care sunt fiii lui Levi, după numele lor: Gherşon, Chehat şi Merari.
+{3:18} Iată numele fiilor lui Gherşon, după familiile lor: Libni şi Şimei.
+{3:19} Iată fiii lui Chehat, după familiile lor: Amram, Iţehar, Hebron şi Uziel
+{3:20} şi fiii lui Merari, după familiile lor: Mahli şi Muşi. Acestea sunt familiile lui Levi, după casele părinţilor lor.
+{3:21} Din Gherşon se coboară familia lui Libni şi familia lui Şimei, alcătuind familiile gherşoniţilor.
+{3:22} Cei ieşiţi la numărătoare, când au numărat pe toţi bărbaţii de la vârsta de o lună în sus, au fost şapte mii cinci sute.
+{3:23} Familiile gherşoniţilor tăbărau înapoia cortului la apus.
+{3:24} Căpetenia casei părinteşti a gherşoniţilor era Elisaf, fiul lui Lael.
+{3:25} În ce priveşte cortul întâlnirii, în grija fiilor lui Gherşon erau date: cortul şi acoperişul cortului, învelitoarea acoperişului cortului şi perdeaua de la uşa cortului întâlnirii;
+{3:26} apoi pânzele curţii şi perdeaua de la poarta curţii cortului de jur împrejurul cortului şi altarului şi toate funiile pentru slujba cortului.
+{3:27} Din Chehat se coboară familia amramiţilor, familia iţehariţilor, familia hebroniţilor şi familia uzieliţilor, alcătuind familiile chehatiţilor.
+{3:28} Numărând pe toţi bărbaţii de la vârsta de o lună în sus, s-au găsit opt mii şase sute de bărbaţi, însărcinaţi cu îngrijirea Sfântului Locaş.
+{3:29} Familiile fiilor lui Chehat tăbărau în partea de miazăzi a cortului.
+{3:30} Căpetenia casei părinteşti a familiilor chehatiţilor era Eliţafan, fiul lui Uziel.
+{3:31} În grija lor au dat chivotul, masa, sfeşnicul, altarele, uneltele Sfântului Locaş, cu care îşi făceau slujba, perdeaua dinăuntru şi tot ce ţine de ea.
+{3:32} Căpetenia căpeteniilor leviţilor era Eleazar, fiul preotului Aaron; el avea privegherea asupra celor însărcinaţi să îngrijească de Sfântul Locaş.
+{3:33} Din Merari se coboară familia lui Mahli şi familia lui Muşi, alcătuind familiile merariţilor.
+{3:34} Cei ieşiţi la numărătoare, când au numărat pe toţi bărbaţii de la vârsta de o lună în sus, au fost şase mii două sute.
+{3:35} Căpetenia casei părinteşti a familiilor lui Merari era Ţuriel, fiul lui Abihail. Ei tăbărau în partea de miazănoapte a cortului.
+{3:36} În paza şi grija fiilor lui Merari au dat: scândurile cortului, drugii, stâlpii şi picioarele lor, toate uneltele şi tot ce ţine de ele;
+{3:37} apoi stâlpii curţii de jur împrejur, picioarele lor, ţăruşii lor şi funiile lor.
+{3:38} Moise, Aaron şi fiii lui tăbărau înaintea cortului, la răsărit, înaintea cortului întâlnirii, spre răsăritul soarelui; ei aveau să îndeplinească la Sfântul Locaş tot ce fusese poruncit copiilor lui Israel; iar străinul care se va apropia să fie pedepsit cu moartea.
+{3:39} Toţi leviţii a căror numărătoare au făcut-o Moise şi Aaron după porunca Domnului, după familiile lor, toţi bărbaţii, de la vârsta de o lună în sus, au fost douăzeci şi două de mii.
+{i3:40} Răscumpărarea întâilor născuţi
+{3:40} Domnul a zis lui Moise: „Fă numărătoarea tuturor întâilor născuţi de parte bărbătească dintre copiii lui Israel, de la vârsta de o lună în sus, şi numără-i după numele lor.
+{3:41} Să iei pe leviţi pentru Mine, Domnul, în locul tuturor întâilor născuţi din copiii lui Israel şi vitele leviţilor în locul tuturor întâilor născuţi din vitele copiilor lui Israel!”
+{3:42} Moise a făcut numărătoarea tuturor întâilor născuţi dintre copiii lui Israel, după porunca pe care i-o dăduse Domnul.
+{3:43} Toţi întâii născuţi de parte bărbătească, a căror numărătoare au făcut-o, numărându-le numele, de la vârsta de o lună în sus, au fost douăzeci şi două de mii două sute şaptezeci şi trei.
+{3:44} Domnul a vorbit lui Moise şi a zis:
+{3:45} „Ia pe leviţi în locul tuturor întâilor născuţi din copiii lui Israel şi vitele leviţilor în locul vitelor lor; şi leviţii vor fi ai Mei. Eu sunt Domnul.
+{3:46} Pentru răscumpărarea celor două sute şaptezeci şi trei care trec peste numărul leviţilor, dintre întâii născuţi ai copiilor lui Israel,
+{3:47} să iei câte cinci sicli de cap, după siclul Sfântului Locaş, care este de douăzeci de ghere.
+{3:48} Să dai argintul acesta lui Aaron şi fiilor lui pentru răscumpărarea celor ce trec peste numărul leviţilor.”
+{3:49} Moise a luat argintul pentru răscumpărarea celor ce treceau peste numărul celor răscumpăraţi de leviţi;
+{3:50} a luat argintul întâilor născuţi din copiii lui Israel: o mie trei sute şaizeci şi cinci de sicli, după siclul Sfântului Locaş.
+{3:51} Şi Moise a dat argintul de răscumpărare lui Aaron şi fiilor lui, după porunca Domnului, cum poruncise lui Moise Domnul.
+{i4:1} Slujbele chehatiţilor
+{4:1} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{4:2} „Numără pe fiii lui Chehat dintre copiii lui Levi, după familiile lor, după casele părinţilor lor,
+{4:3} de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, pe toţi cei destoinici să facă vreo slujbă la cortul întâlnirii.
+{4:4} Iată slujbele fiilor lui Chehat în cortul întâlnirii: ele privesc Locul Preasfânt.
+{4:5} La pornirea taberei, Aaron şi fiii lui să vină să dea jos perdeaua dinăuntru şi să acopere cu ea chivotul mărturiei;
+{4:6} să pună deasupra ei o învelitoare de piele de viţel de mare şi să întindă pe deasupra un covor făcut în întregime din materie albastră; apoi să pună drugii chivotului.
+{4:7} Să întindă un covor albastru peste masa pâinilor pentru punerea înainte şi deasupra să pună străchinile, căţuile, ceştile şi potirele pentru jertfele de băutură; deasupra să fie şi pâinea care se pune necurmat înaintea Domnului;
+{4:8} peste toate aceste lucruri, să întindă un covor cărămiziu şi să-l acopere cu o învelitoare de piele de viţel de mare; apoi să pună drugii mesei.
+{4:9} Să ia un covor albastru şi să acopere sfeşnicul, candelele lui, mucările lui, cenuşarele lui şi toate vasele lui pentru untdelemn, care se întrebuinţează pentru slujba lui;
+{4:10} să-l pună cu toate uneltele lui într-o învelitoare de piele de viţel de mare, apoi să-l pună pe targă.
+{4:11} Peste altarul de aur, să întindă un covor albastru şi să-l acopere cu o învelitoare de piele de viţel de mare; apoi să-i pună drugii.
+{4:12} Să ia apoi toate uneltele întrebuinţate pentru slujbă în Sfântul Locaş şi să le pună într-un covor albastru şi să le acopere cu o învelitoare de piele de viţel de mare, apoi să le pună pe targă.
+{4:13} Să ia cenuşa din altar şi să întindă peste altar un covor de purpură;
+{4:14} să pună deasupra toate uneltele pentru slujba lui, tigăile pentru cărbuni, furculiţele, lopeţile, ligheanele, toate uneltele altarului şi deasupra să întindă o învelitoare de piele de viţel de mare, apoi să-i pună drugii.
+{4:15} După ce Aaron şi fiii lui vor isprăvi de acoperit Sfântul Locaş şi toate uneltele Sfântului Locaş, fiii lui Chehat să vină, la pornirea taberei, ca să le ducă, dar să nu se atingă de lucrurile sfinte, ca să nu moară. Acestea sunt lucrurile pe care au să le ducă fiii lui Chehat din cortul întâlnirii.
+{4:16} Eleazar, fiul preotului Aaron, să aibă sub privegherea lui untdelemnul pentru sfeşnic, tămâia mirositoare, darul de pâine de toate zilele şi untdelemnul pentru ungere; să aibă în grija lui tot cortul şi tot ce cuprinde el, Sfântul Locaş şi uneltele lui.”
+{4:17} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{4:18} „Să nu cumva să puneţi neamul familiilor chehatiţilor în primejdie să fie nimicit din mijlocul leviţilor.
+{4:19} Iată ce să faceţi pentru ei ca să trăiască, şi să nu moară, când se vor apropia de Locul Preasfânt: Aaron şi fiii lui să vină şi să pună pe fiecare din ei la slujba şi sarcina lui.
+{4:20} Să nu intre ei să învelească lucrurile sfinte, ca să nu moară.”
+{i4:21} Slujbele gherşoniţilor
+{4:21} Domnul a vorbit lui Moise şi a zis:
+{4:22} „Numără şi pe fiii lui Gherşon, după casele părinţilor lor, după familiile lor,
+{4:23} şi anume să faci numărătoarea, începând de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, a tuturor celor ce sunt în stare să împlinească vreo slujbă în cortul întâlnirii.
+{4:24} Iată slujbele familiilor gherşoniţilor, slujba pe care vor trebui s-o facă şi ce vor trebui să ducă.
+{4:25} Să ducă covoarele cortului şi cortul întâlnirii, învelitoarea lui şi învelitoarea de piele de viţel de mare, care se pune deasupra, perdeaua de la uşa cortului întâlnirii,
+{4:26} pânzele curţii şi perdeaua de la uşa porţii curţii, de jur împrejurul cortului şi altarului, funiile lor şi toate uneltele care ţin de ele. Şi ei să facă toată slujba privitoare la aceste lucruri.
+{4:27} În slujbele lor, fiii gherşoniţilor să fie sub poruncile lui Aaron şi fiilor lui, pentru tot ce vor duce şi pentru toată slujba pe care vor trebui s-o facă; în grija lor să daţi tot ce au de dus.
+{4:28} Acestea sunt slujbele familiilor fiilor gherşoniţilor în cortul întâlnirii şi ce au ei de păzit sub cârmuirea lui Itamar, fiul preotului Aaron.
+{i4:29} Slujbele fiilor lui Merari
+{4:29} Să faci numărătoarea fiilor lui Merari, după familiile lor, după casele părinţilor lor,
+{4:30} şi anume să faci numărătoarea, începând de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, a tuturor celor ce sunt în stare să facă vreo slujbă în cortul întâlnirii.
+{4:31} Iată ce este dat în grija lor şi ce au ei de dus, pentru toate slujbele din cortul întâlnirii: scândurile cortului, drugii lui, stâlpii lui, picioarele lui;
+{4:32} stâlpii curţii de jur împrejur, picioarele lor, ţăruşii lor, funiile lor, toate uneltele care ţin de ei şi tot ce este rânduit pentru slujba lor. Să spuneţi pe nume lucrurile care sunt date în grija lor şi pe care le au ei de purtat.
+{4:33} Acestea sunt slujbele familiilor fiilor lui Merari, toate slujbele pe care au să le facă ei în cortul întâlnirii, sub cârmuirea lui Itamar, fiul preotului Aaron.”
+{4:34} Moise, Aaron şi mai-marii adunării au făcut numărătoarea fiilor chehatiţilor, după familiile lor şi după casele părinţilor lor,
+{4:35} şi anume a tuturor acelora care, de la vârsta de treizeci de ani în sus, până la vârsta de cincizeci de ani, erau în stare să facă vreo slujbă în cortul întâlnirii.
+{4:36} Cei ieşiţi la numărătoare, după familiile lor, au fost două mii şapte sute cincizeci.
+{4:37} Aceştia sunt cei ieşiţi la numărătoare din familiile chehatiţilor, toţi cei ce făceau vreo slujbă în cortul întâlnirii; Moise şi Aaron le-au făcut numărătoarea, după porunca Domnului dată prin Moise.
+{4:38} Fiii lui Gherşon ieşiţi la numărătoare, după familiile lor şi după casele părinţilor lor,
+{4:39} de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, şi anume toţi cei ce erau în stare să facă vreo slujbă în cortul întâlnirii,
+{4:40} cei ieşiţi la numărătoare, după familiile lor, după casele părinţilor lor, au fost două mii şase sute treizeci.
+{4:41} Aceştia sunt cei ieşiţi la numărătoare din familiile fiilor lui Gherşon, toţi cei ce făceau vreo slujbă în cortul întâlnirii; Moise şi Aaron le-au făcut numărătoarea după porunca Domnului.
+{4:42} Cei ieşiţi la numărătoare dintre familiile fiilor lui Merari, după familiile lor, după casele părinţilor lor,
+{4:43} de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, toţi cei ce erau în stare să facă vreo slujbă în cortul întâlnirii,
+{4:44} cei ieşiţi la numărătoare, după familiile lor, au fost trei mii două sute.
+{4:45} Aceştia sunt cei ieşiţi la numărătoare din familiile fiilor lui Merari; Moise şi Aaron le-au făcut numărătoarea după porunca Domnului dată prin Moise.
+{4:46} Toţi aceia dintre leviţi a căror numărătoare au făcut-o Moise, Aaron şi mai-marii lui Israel, după familiile lor şi după casele părinţilor lor,
+{4:47} de la vârsta de treizeci de ani în sus până la vârsta de cincizeci de ani, toţi cei ce erau în stare să facă vreo slujbă şi să ducă cortul întâlnirii,
+{4:48} toţi cei ieşiţi la numărătoare au fost opt mii cinci sute optzeci.
+{4:49} Le-au făcut numărătoarea după porunca Domnului dată prin Moise, arătând fiecăruia slujba pe care trebuia s-o facă şi ce trebuia să ducă; le-au făcut numărătoarea după porunca pe care o dăduse lui Moise Domnul.
+{i5:1} Izgonirea celor necuraţi
+{5:1} Domnul a vorbit lui Moise şi a zis:
+{5:2} „Porunceşte copiilor lui Israel să izgonească din tabără pe orice lepros şi pe oricine are o lepădare de sămânţă sau este întinat prin atingerea de un mort.
+{5:3} Fie bărbaţi, fie femei, să-i scoateţi din tabără; să-i scoateţi afară, ca să nu spurce tabăra în mijlocul căreia Îmi am Eu locuinţa.”
+{5:4} Copiii lui Israel au făcut aşa şi i-au scos afară din tabără; cum poruncise lui Moise Domnul, aşa au făcut copiii lui Israel.
+{i5:5} Despăgubirea pentru furt
+{5:5} Domnul a vorbit lui Moise şi a zis:
+{5:6} „Spune copiilor lui Israel: ‘Când un bărbat sau o femeie va păcătui împotriva aproapelui său, făcând o călcare de lege faţă de Domnul, şi se va face astfel vinovat,
+{5:7} să-şi mărturisească păcatul şi să dea înapoi în întregime preţul lucrului câştigat prin mijloace necinstite, adăugând a cincea parte; să-l dea aceluia faţă de care s-a făcut vinovat.
+{5:8} Dacă nu este nimeni care să aibă drept să ia înapoi lucrul câştigat prin mijloace necinstite, lucrul acela să se întoarcă la Domnul, la preot, afară de berbecul adus ca jertfă de ispăşire cu care se va face ispăşire pentru cel vinovat.
+{5:9} Orice dar ridicat din lucrurile închinate Domnului de copiii lui Israel să fie al preotului, căruia îi sunt aduse.
+{5:10} Lucrurile închinate Domnului vor fi ale preotului: tot ce i se va da preotului al lui să fie’.”
+{i5:11} Apa de gelozie
+{5:11} Domnul a vorbit lui Moise şi a zis:
+{5:12} „Vorbeşte copiilor lui Israel şi spune-le: ‘Dacă păcătuieşte nevasta cuiva faţă de bărbatul ei şi-i este necredincioasă;
+{5:13} dacă altul se culcă cu ea, şi lucrul este ascuns de bărbatul ei; dacă ea s-a pângărit în ascuns, fără să fie vreun martor împotriva ei şi fără să fie prinsă asupra faptului
+{5:14} şi dacă bărbatul este apucat de un duh de gelozie şi are bănuieli asupra nevestei lui, care s-a pângărit, sau dacă este cuprins de un duh de gelozie şi are bănuieli asupra nevestei lui, care nu s-a pângărit,
+{5:15} omul acela să-şi aducă nevasta la preot şi, ca dar de mâncare pentru ea, să aducă a zecea parte dintr-o efă de floare de făină de orz; să nu toarne untdelemn pe ea şi să nu pună tămâie pe ea, căci acesta este un dar de mâncare adus pentru gelozie, un dar de descoperire, care descoperă o fărădelege.
+{5:16} Preotul s-o apropie şi s-o pună să stea în picioare înaintea Domnului.
+{5:17} Preotul să ia apă sfântă într-un vas de pământ, să ia ţărână de pe podeaua cortului şi s-o pună în apă.
+{5:18} Preotul să pună pe femeie să stea în picioare înaintea Domnului, să descopere capul femeii şi să-i pună în mâini darul de mâncare adus pentru descoperire, darul de mâncare adus pentru gelozie; preotul să aibă în mână apele amare aducătoare de blestem.
+{5:19} Preotul să pună pe femeie să jure şi să-i zică: «Dacă niciun om nu s-a culcat cu tine şi dacă, fiind sub puterea bărbatului tău, nu te-ai abătut de la el ca să te pângăreşti cu altul, să nu-ţi facă niciun rău aceste ape amare aducătoare de blestem!
+{5:20} Dar dacă, fiind sub puterea bărbatului tău, te-ai abătut de la el şi te-ai pângărit şi dacă un alt om decât bărbatul tău s-a culcat cu tine»,
+{5:21} şi preotul să pună pe femeie să jure cu un jurământ de blestem şi să-i zică: «Domnul să te facă să ajungi de blestem şi de urgie în mijlocul poporului tău, făcând să ţi se usuce coapsa şi să ţi se umfle pântecele,
+{5:22} şi apele acestea aducătoare de blestem să intre în măruntaiele tale, ca să facă să ţi se umfle pântecele şi să ţi se usuce coapsa!» Şi femeia să zică: «Amin! Amin!»
+{5:23} Preotul să scrie blestemele acestea într-o carte, apoi să le şteargă cu apele cele amare.
+{5:24} Şi să dea femeii să bea apele amare aducătoare de blestem, şi apele aducătoare de blestem vor intra în ea şi-i vor pricinui amărăciunea.
+{5:25} Preotul să ia din mâinile femeii darul de mâncare adus pentru gelozie, să legene darul într-o parte şi într-alta înaintea Domnului şi să-l aducă pe altar.
+{5:26} Apoi preotul să ia un pumn din darul acesta, ca aducere-aminte, şi să-l ardă pe altar. După aceea, să dea femeii să bea apele.
+{5:27} După ce îi va da să bea apele, dacă ea s-a pângărit şi a fost necredincioasă bărbatului ei, apele aducătoare de blestem vor intra în ea şi-i vor pricinui amărăciunea; pântecele i se va umfla, coapsa i se va usca, şi femeia aceasta va fi de blestem în mijlocul poporului ei.
+{5:28} Dar, dacă femeia nu s-a pângărit şi este curată, va rămâne neatinsă şi va avea copii.
+{5:29} Aceasta este legea asupra geloziei, pentru împrejurarea când o femeie care este sub puterea bărbatului ei se abate şi se pângăreşte
+{5:30} şi pentru împrejurarea când un bărbat, apucat de un duh de gelozie, are bănuieli asupra nevestei lui: preotul s-o pună să stea în picioare înaintea Domnului şi să-i facă întocmai după legea aceasta.
+{5:31} Bărbatul va fi scutit de vină, dar femeia aceea îşi va lua pedeapsa nelegiuirii ei.’”
+{i6:1} Legea Nazireatului
+{6:1} Domnul a vorbit lui Moise şi a zis:
+{6:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când un bărbat sau o femeie se va despărţi de ceilalţi, făcând o juruinţă de nazireat, ca să se închine Domnului,
+{6:3} să se ferească de vin şi de băutură îmbătătoare; să nu bea nici oţet făcut din vin, nici oţet făcut din vreo băutură îmbătătoare; să nu bea nicio băutură stoarsă din struguri şi să nu mănânce struguri proaspeţi, nici uscaţi.
+{6:4} În tot timpul nazireatului lui, să nu mănânce nimic care vine din viţă, de la sâmburi până la pieliţa strugurelui.
+{6:5} În tot timpul nazireatului, briciul să nu treacă pe capul lui; până la împlinirea zilelor pentru care s-a închinat Domnului, va fi sfânt; să-şi lase părul să crească în voie.
+{6:6} În tot timpul cât s-a făgăduit Domnului prin jurământ, să nu se apropie de un mort;
+{6:7} să nu se pângărească nici la moartea tatălui său, nici a mamei sale, nici a fratelui său, nici a surorii sale, căci poartă pe cap închinarea Dumnezeului lui.
+{6:8} În tot timpul nazireatului, să fie închinat Domnului.
+{6:9} Dacă moare cineva de moarte năpraznică lângă el, şi capul lui închinat se face astfel necurat, să-şi radă capul în ziua curăţirii, şi anume să şi-l radă a şaptea zi.
+{6:10} În ziua a opta, să aducă preotului două turturele sau doi pui de porumbel, la uşa cortului întâlnirii.
+{6:11} Preotul să jertfească pe unul ca jertfă de ispăşire, iar pe celălalt ca ardere-de-tot şi să facă pentru el ispăşirea păcatului lui, făcut cu prilejul mortului. Nazireul să-şi sfinţească apoi capul chiar în ziua aceea.
+{6:12} Să închine din nou Domnului zilele nazireatului lui dinainte şi să aducă un miel de un an ca jertfă pentru vină; zilele dinainte nu vor fi socotite, pentru că nazireatul lui a fost pângărit.
+{i6:13} După isprăvirea nazireatului
+{6:13} Iată legea nazireului. În ziua când se va împlini vremea nazireatului lui, să fie adus la uşa cortului întâlnirii.
+{6:14} Ca dar, să aducă Domnului un miel de un an fără cusur pentru arderea-de-tot, o oaie de un an şi fără cusur pentru jertfa de ispăşire şi un berbec fără cusur pentru jertfa de mulţumire;
+{6:15} un coş cu azimi, turte făcute din floarea făinii, frământată cu untdelemn, şi plăcinte fără aluat, stropite cu untdelemn, împreună cu darul de mâncare şi jertfa de băutură obişnuite.
+{6:16} Preotul să aducă aceste lucruri înaintea Domnului şi să aducă jertfa lui de ispăşire şi arderea-de-tot;
+{6:17} să pregătească berbecul ca jertfă de mulţumire Domnului, împreună cu coşul cu azimi, şi să pregătească şi darul lui de mâncare şi jertfa lui de băutură.
+{6:18} Nazireul să-şi radă, la uşa cortului întâlnirii, capul închinat Domnului; să ia părul capului său închinat Domnului şi să-l pună pe focul care este sub jertfa de mulţumire.
+{6:19} Preotul să ia spata dreaptă fiartă a berbecului, o turtă nedospită din coş şi o plăcintă nedospită şi să le pună în mâinile Nazireului, după ce acesta şi-a ras capul închinat Domnului.
+{6:20} Preotul să le legene într-o parte şi într-alta înaintea Domnului: acesta este un lucru sfânt, care este al preotului, împreună cu pieptul legănat şi spata adusă ca jertfă prin ridicare. Apoi, nazireul va putea să bea vin.
+{6:21} Aceasta este legea pentru cel ce a făcut juruinţa de nazireat: acesta este darul lui, care trebuie adus Domnului pentru nazireatul lui, afară de ce-i vor îngădui mijloacele lui. Să împlinească tot ce este poruncit pentru juruinţa pe care a făcut-o, după legea nazireatului’.”
+{i6:22} Binecuvântarea
+{6:22} Domnul a vorbit lui Moise şi a zis:
+{6:23} „Vorbeşte lui Aaron şi fiilor lui şi spune-le: ‘Aşa să binecuvântaţi pe copiii lui Israel şi să le ziceţi:
+{6:24} «Domnul să te binecuvânteze şi să te păzească!
+{6:25} Domnul să facă să lumineze Faţa Lui peste tine şi să Se îndure de tine!
+{6:26} Domnul să-Şi înalţe Faţa peste tine şi să-ţi dea pacea!»
+{6:27} Astfel să pună Numele Meu peste copiii lui Israel, şi Eu îi voi binecuvânta’.”
+{i7:1} Darurile căpeteniilor seminţiilor
+{7:1} Când a isprăvit Moise de aşezat cortul, l-a uns şi l-a sfinţit împreună cu toate uneltele lui, precum şi altarul cu toate uneltele lui; le-a uns şi le-a sfinţit.
+{7:2} Atunci, mai-marii lui Israel, căpeteniile caselor părinţilor lor, şi-au adus darurile lor: aceştia erau mai-marii seminţiilor care luaseră parte la numărătoare.
+{7:3} Ei şi-au adus ca dar înaintea Domnului şase care acoperite şi doisprezece boi, adică un car la două căpetenii şi un bou de fiecare căpetenie, şi le-au adus înaintea cortului.
+{7:4} Domnul a vorbit lui Moise şi a zis:
+{7:5} „Ia de la ei aceste lucruri şi să le întrebuinţezi pentru slujba cortului întâlnirii; să le dai leviţilor, fiecăruia după cum cere slujba lui.”
+{7:6} Moise a luat carele şi boii şi le-a dat leviţilor.
+{7:7} A dat două care şi patru boi fiilor lui Gherşon, după cum cereau slujbele lor;
+{7:8} a dat patru care şi opt boi fiilor lui Merari, după cum cereau slujbele lor, sub cârmuirea lui Itamar, fiul preotului Aaron.
+{7:9} Dar n-a dat niciunul fiilor lui Chehat, pentru că, după cum cereau slujbele lor, ei trebuiau să ducă lucrurile sfinte pe umeri.
+{i7:10} Darurile pentru târnosirea altarului
+{7:10} Căpeteniile şi-au adus darurile pentru târnosirea altarului în ziua când l-au uns; căpeteniile şi-au adus darurile înaintea altarului.
+{7:11} Domnul a zis lui Moise: „Căpeteniile să vină unul câte unul, şi anume fiecare în câte o zi deosebită, ca să-şi aducă darul pentru târnosirea altarului.”
+{7:12} Cel ce şi-a adus darul în ziua întâi a fost Nahşon, fiul lui Aminadab, din seminţia lui Iuda.
+{7:13} El a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:14} o căţuie de aur de zece sicli, plină cu tămâie,
+{7:15} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:16} un ţap pentru jertfa de ispăşire
+{7:17} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Nahşon, fiul lui Aminadab.
+{7:18} A doua zi, şi-a adus darul Netaneel, fiul lui Ţuar, căpetenia lui Isahar.
+{7:19} El a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:20} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:21} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:22} un ţap pentru jertfa de ispăşire
+{7:23} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Netaneel, fiul lui Ţuar.
+{7:24} A treia zi, căpetenia fiilor lui Zabulon, Eliab, fiul lui Helon,
+{7:25} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:26} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:27} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:28} un ţap pentru jertfa de ispăşire
+{7:29} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Eliab, fiul lui Helon.
+{7:30} A patra zi, căpetenia fiilor lui Ruben, Eliţur, fiul lui Şedeur,
+{7:31} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:32} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:33} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:34} un ţap pentru jertfa de ispăşire
+{7:35} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Eliţur, fiul lui Şedeur.
+{7:36} A cincea zi, căpetenia fiilor lui Simeon, Şelumiel, fiul lui Ţurişadai,
+{7:37} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:38} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:39} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:40} un ţap pentru jertfa de ispăşire
+{7:41} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul de mâncare al lui Şelumiel, fiul lui Ţurişadai.
+{7:42} A şasea zi, căpetenia fiilor lui Gad, Eliasaf, fiul lui Deuel,
+{7:43} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:44} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:45} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:46} un ţap pentru jertfa de ispăşire
+{7:47} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Eliasaf, fiul lui Deuel.
+{7:48} A şaptea zi, căpetenia fiilor lui Efraim, Elişama, fiul lui Amihud,
+{7:49} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:50} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:51} un viţel, un berbec, un miel de un an pentru arderea-de-tot:
+{7:52} un ţap pentru jertfa de ispăşire
+{7:53} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Elişama, fiul lui Amihud.
+{7:54} A opta zi, căpetenia fiilor lui Manase, Gamliel, fiul lui Pedahţur,
+{7:55} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:56} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:57} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:58} un ţap pentru jertfa de ispăşire
+{7:59} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Gamliel, fiul lui Pedahţur.
+{7:60} A noua zi, căpetenia fiilor lui Beniamin, Abidan, fiul lui Ghideoni,
+{7:61} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:62} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:63} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:64} un ţap pentru jertfa de ispăşire
+{7:65} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Abidan, fiul lui Ghideoni.
+{7:66} A zecea zi, căpetenia fiilor lui Dan, Ahiezer, fiul lui Amişadai,
+{7:67} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:68} o căţuie de aur, plină cu tămâie;
+{7:69} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:70} un ţap pentru jertfa de ispăşire
+{7:71} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Ahiezer, fiul lui Amişadai.
+{7:72} A unsprezecea zi, căpetenia fiilor lui Aşer, Paguiel, fiul lui Ocran,
+{7:73} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:74} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:75} un viţel, un berbec, un miel de un an pentru arderea-de-tot,
+{7:76} un ţap pentru jertfa de ispăşire
+{7:77} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Paguiel, fiul lui Ocran.
+{7:78} A douăsprezecea zi, căpetenia fiilor lui Neftali, Ahira, fiul lui Enan,
+{7:79} a adus o farfurie de argint în greutate de o sută treizeci de sicli, un lighean de argint de şaptezeci de sicli, după siclul Sfântului Locaş, amândouă pline cu floare de făină, frământată cu untdelemn, pentru darul de mâncare;
+{7:80} o căţuie de aur de zece sicli, plină cu tămâie;
+{7:81} un viţel, un berbec, un miel de un an pentru arderea-de-tot;
+{7:82} un ţap pentru jertfa de ispăşire
+{7:83} şi, pentru jertfa de mulţumire, doi boi, cinci berbeci, cinci ţapi, cinci miei de un an. Acesta a fost darul lui Ahira, fiul lui Enan.
+{7:84} Acestea au fost darurile aduse de căpeteniile lui Israel pentru târnosirea altarului, în ziua când l-au uns. Au fost douăsprezece farfurii de argint, douăsprezece lighene de argint, douăsprezece căţui de aur;
+{7:85} fiecare farfurie de argint cântărea o sută treizeci de sicli şi fiecare lighean cântărea şaptezeci de sicli, aşa că argintul acestor unelte se ridica în totul la două mii patru sute de sicli, după siclul Sfântului Locaş.
+{7:86} Au fost douăsprezece căţui de aur pline cu tămâie, câte zece sicli căţuia, după siclul Sfântului Locaş; aurul căţuilor se ridica în totul la o sută douăzeci de sicli.
+{7:87} Toate dobitoacele pentru arderea-de-tot au fost: doisprezece viţei, doisprezece berbeci, doisprezece miei de un an, cu darurile de mâncare obişnuite, doisprezece ţapi, pentru jertfa de ispăşire.
+{7:88} Toate dobitoacele pentru jertfa de mulţumire: douăzeci şi patru de boi, şaizeci de berbeci, şaizeci de ţapi, şaizeci de miei de un an. Acestea au fost darurile aduse pentru târnosirea altarului, după ce l-au uns.
+{7:89} Când intra Moise în cortul întâlnirii ca să vorbească cu Domnul, auzea glasul care-i vorbea de pe capacul ispăşirii, care era aşezat pe chivotul mărturiei, între cei doi heruvimi. Şi vorbea cu Domnul.
+{i8:1} Aşezarea candelelor
+{8:1} Domnul a vorbit lui Moise şi a zis:
+{8:2} „Vorbeşte lui Aaron şi spune-i: ‘Când vei aşeza candelele în sfeşnic, cele şapte candele vor trebui să lumineze în partea dinainte a sfeşnicului.’”
+{8:3} Aaron a făcut aşa; a aşezat candelele în partea dinainte a sfeşnicului, cum poruncise lui Moise Domnul.
+{8:4} Sfeşnicul era de aur bătut; atât piciorul, cât şi florile lui erau de aur bătut. Moise făcuse sfeşnicul după chipul pe care i-l arătase Domnul.
+{i8:5} Închinarea leviţilor
+{8:5} Domnul a vorbit lui Moise şi a zis:
+{8:6} „Ia pe leviţi din mijlocul copiilor lui Israel şi curăţeşte-i.
+{8:7} Iată cum să-i curăţeşti: Stropeşte-i cu apă ispăşitoare, să lase să treacă briciul peste tot trupul lor, să-şi spele hainele şi să se curăţească.
+{8:8} Să ia apoi un viţel, cu darul de mâncare obişnuit, făcut din floare de făină, frământată cu untdelemn, şi să mai iei un alt viţel pentru jertfa de ispăşire.
+{8:9} Să apropii pe leviţi înaintea cortului întâlnirii şi să strângi toată adunarea copiilor lui Israel.
+{8:10} Să apropii pe leviţi înaintea Domnului, şi copiii lui Israel să-şi pună mâinile pe leviţi.
+{8:11} Aaron să legene pe leviţi într-o parte şi într-alta înaintea Domnului, ca un dar legănat din partea copiilor lui Israel, şi să fie închinaţi astfel în slujba Domnului.
+{8:12} Leviţii să-şi pună mâinile pe capul viţeilor şi să aduci unul ca jertfă de ispăşire şi altul ca ardere-de-tot, ca să faci ispăşire pentru leviţi.
+{8:13} Să pui pe leviţi în picioare înaintea lui Aaron şi înaintea fiilor lui şi să-i legeni într-o parte şi într-alta, ca un dar legănat Domnului.
+{8:14} Aşa să desparţi pe leviţi din mijlocul copiilor lui Israel, şi leviţii vor fi ai Mei.
+{8:15} După aceea, leviţii să vină să facă slujba în cortul întâlnirii. Astfel să-i curăţeşti şi să-i legeni într-o parte şi într-alta, ca un dar legănat.
+{8:16} Căci ei Îmi sunt daţi cu totul din mijlocul copiilor lui Israel: ‘Eu i-am luat pentru Mine în locul întâilor născuţi, din toţi întâii născuţi ai copiilor lui Israel.
+{8:17} Căci orice întâi născut al copiilor lui Israel este al Meu, atât din oameni, cât şi din dobitoace; Mie Mi i-am închinat în ziua când am lovit pe toţi întâii născuţi în ţara Egiptului.
+{8:18} Şi Eu am luat pe leviţi în locul tuturor întâilor născuţi ai copiilor lui Israel.
+{8:19} Am dat pe leviţi în totul lui Aaron şi fiilor lui, din mijlocul copiilor lui Israel, ca să facă slujbă pentru copiii lui Israel în cortul întâlnirii, să facă ispăşire pentru copiii lui Israel, şi astfel copiii lui Israel să nu fie loviţi cu nicio urgie când se vor apropia de Sfântul Locaş.’”
+{8:20} Moise, Aaron şi toată adunarea copiilor lui Israel au făcut cu leviţii tot ce poruncise lui Moise Domnul despre leviţi; aşa au făcut copiii lui Israel cu ei.
+{8:21} Leviţii s-au curăţit şi şi-au spălat hainele. Aaron i-a legănat într-o parte şi într-alta, ca un dar legănat înaintea Domnului, şi a făcut ispăşire pentru ei, ca să-i curăţească.
+{8:22} După aceea, leviţii au venit să-şi facă slujba în cortul întâlnirii, în faţa lui Aaron şi a fiilor lui. Întocmai cum poruncise lui Moise Domnul cu privire la leviţi, aşa s-a făcut cu ei.
+{i8:23} Timpul cât trebuie să slujească leviţii
+{8:23} Domnul a vorbit lui Moise şi a zis:
+{8:24} „Iată legea privitoare la leviţi. De la vârsta de douăzeci şi cinci de ani în sus, orice levit va intra în slujba cortului întâlnirii ca să îndeplinească o slujbă acolo.
+{8:25} De la vârsta de cincizeci de ani încolo, să iasă din slujbă şi să nu mai slujească.
+{8:26} Va putea să ajute pe fraţii lui în cortul întâlnirii, să păzească ce le este dat în grijă, dar să nu mai facă slujbă. Aşa să faci cu leviţii în ce priveşte slujbele lor.”
+{i9:1} Paştele în pustia Sinai
+{9:1} Domnul a vorbit lui Moise în pustia Sinai, în luna întâi a anului al doilea, după ieşirea lor din ţara Egiptului. Şi a zis:
+{9:2} „Copiii lui Israel să prăznuiască Paştele la vremea hotărâtă.
+{9:3} Să le prăznuiţi la vremea hotărâtă, în a paisprezecea zi a lunii acesteia, seara; să le prăznuiţi după toate legile şi după toate poruncile privitoare la ele.”
+{9:4} Moise a vorbit copiilor lui Israel să prăznuiască Paştele.
+{9:5} Şi au prăznuit Paştele în a paisprezecea zi a lunii întâi, seara, în pustia Sinai; copiii lui Israel au făcut întocmai după toate poruncile pe care le dăduse lui Moise Domnul.
+{9:6} S-a întâmplat că nişte oameni, fiind necuraţi din pricină că se atinseseră de un mort, nu puteau prăznui Paştele în ziua aceea. Ei s-au înfăţişat în aceeaşi zi înaintea lui Moise şi înaintea lui Aaron.
+{9:7} Şi oamenii aceia au zis lui Moise: „Noi suntem necuraţi din pricina unui mort. De ce să fim nevoiţi să nu ne aducem la vremea hotărâtă darul cuvenit Domnului în mijlocul copiilor lui Israel?”
+{9:8} Moise le-a răspuns: „Aşteptaţi să văd ce vă porunceşte Domnul.”
+{9:9} Şi Domnul a vorbit lui Moise şi a zis:
+{9:10} „Vorbeşte copiilor lui Israel şi spune-le: ‘Dacă cineva dintre voi sau dintre urmaşii voştri este necurat din pricina unui mort sau este într-o călătorie lungă, totuşi să prăznuiască Paştele în cinstea Domnului.
+{9:11} Şi să le prăznuiască în luna a doua, în ziua a paisprezecea, seara; să le mănânce cu azimi şi ierburi amare.
+{9:12} Să nu lase din ele nimic până a doua zi dimineaţa şi să nu frângă niciun os din ele. Să le prăznuiască după toate poruncile privitoare la Paşte.
+{9:13} Dacă cineva nu este necurat, nici nu este în călătorie, şi totuşi nu prăznuieşte Paştele, sufletul acela să fie nimicit din poporul lui, pentru că n-a adus darul cuvenit Domnului la vremea hotărâtă, omul acela să-şi ia pedeapsa pentru păcatul lui.
+{9:14} Dacă un străin care locuieşte între voi prăznuieşte Paştele Domnului, să se ţină de legile şi poruncile privitoare la Paşte. Aceeaşi lege să fie între voi, pentru străin, ca şi pentru băştinaş.’”
+{i9:15} Norul
+{9:15} În ziua când a fost aşezat cortul, norul a acoperit locaşul cortului întâlnirii şi, de seara până dimineaţa, deasupra cortului era ca înfăţişarea unui foc.
+{9:16} Totdeauna era aşa: ziua, norul acoperea cortul, iar noaptea avea înfăţişarea unui foc.
+{9:17} Când se ridica norul de pe cort, porneau şi copiii lui Israel, şi acolo unde se oprea norul, tăbărau şi copiii lui Israel.
+{9:18} Copiii lui Israel porneau după porunca Domnului şi tăbărau după porunca Domnului; tăbărau atâta vreme cât rămânea norul deasupra cortului.
+{9:19} Când norul rămânea mai multă vreme deasupra cortului, copiii lui Israel ascultau de porunca Domnului, şi nu porneau.
+{9:20} Când norul rămânea mai puţine zile deasupra cortului, ei tăbărau după porunca Domnului şi porneau după porunca Domnului.
+{9:21} Dacă norul se oprea de seara până dimineaţa şi se ridica dimineaţa, atunci porneau şi ei. Dacă norul se ridica după o zi şi o noapte, atunci porneau şi ei.
+{9:22} Dacă norul se oprea deasupra cortului două zile, sau o lună, sau un an, copiii lui Israel rămâneau tăbărâţi, şi nu porneau, şi când se ridica, porneau şi ei.
+{9:23} Tăbărau după porunca Domnului şi porneau după porunca Domnului; ascultau de porunca Domnului, de porunca Domnului dată prin Moise.
+{i10:1} Trâmbiţele de argint
+{10:1} Domnul a vorbit lui Moise şi a zis:
+{10:2} „Fă-ţi două trâmbiţe de argint; să le faci de argint bătut. Ele să-ţi slujească pentru chemarea adunării şi pentru pornirea taberelor.
+{10:3} Când se va suna cu ele, toată adunarea să se strângă la tine, la uşa cortului întâlnirii.
+{10:4} Când se va suna numai cu o trâmbiţă, să se strângă la tine căpeteniile, mai-marii peste miile lui Israel.
+{10:5} Când veţi suna cu vâlvă, să pornească cei ce tabără la răsărit;
+{10:6} când veţi suna a doua oară cu vâlvă, să pornească cei ce tabără la miazăzi; pentru plecarea lor, să se sune cu vâlvă.
+{10:7} Când va fi vorba de strângerea adunării, să sunaţi, dar să nu sunaţi cu vâlvă.
+{10:8} Din trâmbiţe să sune fiii lui Aaron, preoţii. Aceasta să fie o lege veşnică pentru voi şi pentru urmaşii voştri.
+{10:9} Când veţi merge la război, în ţara voastră, împotriva vrăjmaşului care va lupta împotriva voastră, să sunaţi cu vâlvă din trâmbiţe, şi Domnul, Dumnezeul vostru, Îşi va aduce aminte de voi, şi veţi fi izbăviţi de vrăjmaşii voştri.
+{10:10} În zilele voastre de bucurie, la sărbătorile voastre şi la lunile noi ale voastre, să sunaţi din trâmbiţe, când vă veţi aduce arderile-de-tot şi jertfele de mulţumire, şi ele vor face ca Dumnezeul vostru să-Şi aducă aminte de voi. Eu sunt Domnul, Dumnezeul vostru.”
+{i10:11} Plecarea din Sinai
+{10:11} În ziua a douăsprezecea a lunii a doua a anului al doilea, s-a ridicat norul de pe cortul întâlnirii.
+{10:12} Şi copiii lui Israel au pornit din pustia Sinai după taberele lor. Norul s-a oprit în pustia Paran.
+{10:13} Această cea dintâi plecare au făcut-o după porunca Domnului dată prin Moise.
+{10:14} Întâi a pornit steagul taberei fiilor lui Iuda, împreună cu oştirile lui. Peste oştirea lui Iuda era mai-mare Nahşon, fiul lui Aminadab;
+{10:15} peste oştirea seminţiei fiilor lui Isahar era Netaneel, fiul lui Ţuar;
+{10:16} peste oştirea seminţiei fiilor lui Zabulon era Eliab, fiul lui Helon.
+{10:17} Când a fost desfăcut cortul, au pornit întâi fiii lui Gherşon şi fiii lui Merari, ducând cortul.
+{10:18} Apoi, a pornit steagul taberei lui Ruben, împreună cu oştirile lui. Peste oştirea lui Ruben era mai-mare Eliţur, fiul lui Şedeur;
+{10:19} peste oştirea seminţiei fiilor lui Simeon era Şelumiel, fiul lui Ţurişadai;
+{10:20} peste oştirea seminţiei fiilor lui Gad era Eliasaf, fiul lui Deuel.
+{10:21} Apoi au pornit chehatiţii, ducând Sfântul Locaş; până la venirea lor ceilalţi întinseseră cortul.
+{10:22} Apoi a pornit steagul taberei fiilor lui Efraim, împreună cu oştirile lui. Peste oştirea lui Efraim era mai-mare Elişama, fiul lui Amihud;
+{10:23} peste oştirea seminţiei fiilor lui Manase era Gamliel, fiul lui Pedahţur;
+{10:24} peste oştirea seminţiei fiilor lui Beniamin era Abidan, fiul lui Ghideoni.
+{10:25} Apoi, a pornit steagul taberei fiilor lui Dan, împreună cu oştirile lui: ei erau coada tuturor taberelor. Peste oştirea lui Dan era mai-mare Ahiezer, fiul lui Amişadai;
+{10:26} peste oştirea seminţiei fiilor lui Aşer era Paguiel, fiul lui Ocran;
+{10:27} peste oştirea seminţiei fiilor lui Neftali era Ahira, fiul lui Enan.
+{10:28} Acesta a fost şirul în care au pornit copiii lui Israel, după oştirile lor; aşa au plecat.
+{i10:29} Moise şi socrul său
+{10:29} Moise a zis lui Hobab, fiul lui Reuel, Madianitul, socrul lui Moise: „Noi plecăm spre locul despre care Domnul a zis: ‘Eu vi-l voi da.’ Vino cu noi, şi îţi vom face bine, căci Domnul a făgăduit că va face bine lui Israel.”
+{10:30} Hobab i-a răspuns: „Nu pot să merg, ci mă voi duce în ţara mea şi în locul meu de naştere.”
+{10:31} Şi Moise a zis: „Nu ne părăsi, te rog, fiindcă tu cunoşti locurile unde putem să tăbărâm în pustie, deci tu să ne fii călăuză.
+{10:32} Şi dacă vii cu noi, te vom face să te bucuri de binele pe care ni-l va face Domnul.”
+{10:33} Ei au plecat de la Muntele Domnului şi au mers trei zile; chivotul legământului Domnului a pornit înaintea lor şi a făcut un drum de trei zile, ca să le caute un loc de odihnă.
+{10:34} Norul Domnului era deasupra lor în timpul zilei, când porneau din tabără.
+{10:35} Când pornea chivotul, Moise zicea: „Scoală-Te, Doamne, ca să se împrăştie vrăjmaşii Tăi şi să fugă dinaintea Feţei Tale cei ce Te urăsc!”
+{10:36} Iar când îl aşezau, zicea: „Întoarce-Te, Doamne, la zecile de mii ale miilor lui Israel!”
+{i11:1} Focul Domnului
+{11:1} Poporul a cârtit în gura mare împotriva Domnului, zicând că-i merge rău. Când a auzit, Domnul S-a mâniat. S-a aprins între ei focul Domnului şi a mistuit o parte din marginea taberei.
+{11:2} Poporul a strigat către Moise. Moise s-a rugat Domnului, şi focul s-a stins.
+{11:3} Locului aceluia i-au pus numele Tabeera (Ardere), pentru că se aprinsese focul Domnului printre ei.
+{i11:4} Prepeliţele
+{11:4} Adunăturii de oameni care se aflau în mijlocul lui Israel i-a venit poftă, ba chiar şi copiii lui Israel au început să plângă şi să zică: „Cine ne va da carne să mâncăm?
+{11:5} Ne aducem aminte de peştii pe care-i mâncam în Egipt şi care nu ne costau nimic, de castraveţi, de pepeni, de praji, de ceapă şi de usturoi.
+{11:6} Acum ni s-a uscat sufletul: nu mai este nimic! Ochii noştri nu văd decât mana aceasta.”
+{11:7} Mana semăna cu grăuntele de coriandru şi la vedere era ca bedeliumul.
+{11:8} Poporul se risipea şi o strângea, o măcina la râşniţă sau o pisa într-o piuă; o fierbea în oală şi făcea turte din ea. Mana avea gustul unei turte făcute cu untdelemn.
+{11:9} Când cădea roua noaptea în tabără, cădea şi mana.
+{11:10} Moise a auzit pe popor plângând, fiecare în familia lui şi la uşa cortului lui. Mânia Domnului s-a aprins cu tărie. Moise s-a întristat
+{11:11} şi a zis Domnului: „Pentru ce mâhneşti Tu pe robul Tău şi pentru ce n-am căpătat eu trecere înaintea Ta, de ai pus peste mine sarcina acestui popor întreg?
+{11:12} Oare eu am zămislit pe poporul acesta? Oare eu l-am născut, ca să-mi zici: ‘Poartă-l la sânul tău, cum poartă doica pe copil, până în ţara pe care ai jurat părinţilor lui că i-o vei da’?
+{11:13} De unde să iau carne, ca să dau la tot poporul acesta? Căci ei plâng la mine, zicând: ‘Dă-ne carne ca să mâncăm!’
+{11:14} Eu singur nu pot să port pe tot poporul acesta, căci este prea greu pentru mine.
+{11:15} Decât să Te porţi aşa cu mine, mai bine omoară-mă, Te rog, dacă mai am vreo trecere înaintea Ta, ca să nu-mi mai văd nenorocirea.”
+{11:16} Domnul a zis lui Moise: „Adună la Mine şaptezeci de bărbaţi, dintre bătrânii lui Israel, din cei pe care-i cunoşti ca bătrâni ai poporului şi cu putere asupra lor; adu-i la cortul întâlnirii şi să se înfăţişeze acolo împreună cu tine.
+{11:17} Eu Mă voi pogorî şi îţi voi vorbi acolo; voi lua din duhul care este peste tine şi-l voi pune peste ei, ca să poarte împreună cu tine sarcina poporului, şi să n-o porţi tu singur.
+{11:18} Să spui poporului: ‘Sfinţiţi-vă pentru mâine şi aveţi să mâncaţi carne, fiindcă aţi plâns în auzul Domnului şi aţi zis: «Cine ne va da carne să mâncăm? Căci noi o duceam bine în Egipt!» Domnul vă va da carne, şi veţi mânca.
+{11:19} Aveţi să mâncaţi carne nu o zi, nici două zile, nici cinci zile, nici zece zile, nici douăzeci de zile,
+{11:20} ci o lună întreagă, până vă va ieşi pe nări şi vă veţi scârbi de ea, pentru că n-aţi ascultat de Domnul care este în mijlocul vostru şi pentru că aţi plâns înaintea Lui, zicând: «Pentru ce am ieşit noi oare din Egipt?»’.”
+{11:21} Moise a zis: „Şase sute de mii de oameni care merg pe jos alcătuiesc poporul în mijlocul căruia sunt eu, şi Tu zici: ‘Le voi da carne şi vor mânca o lună întreagă!’
+{11:22} Putem tăia oare atâtea oi şi atâţia boi, ca să ajungă? Sau nu cumva avem să prindem toţi peştii mării, ca să le ajungă?”
+{11:23} Domnul a răspuns lui Moise: „Nu cumva s-a scurtat oare mâna Domnului? Vei vedea acum dacă ceea ce ţi-am spus se va întâmpla sau nu.”
+{11:24} Moise a ieşit şi a spus poporului cuvintele Domnului. A adunat şaptezeci de bărbaţi din bătrânii poporului şi i-a pus în jurul cortului.
+{11:25} Domnul S-a pogorât în nor şi a vorbit lui Moise; a luat din duhul care era peste el şi l-a pus peste cei şaptezeci de bătrâni. Şi de îndată ce duhul s-a aşezat peste ei, au început să prorocească, dar după aceea n-au mai prorocit.
+{11:26} Doi oameni, unul numit Eldad şi altul Medad, rămăseseră în tabără, şi duhul s-a aşezat şi peste ei, căci erau dintre cei scrişi, măcar că nu se duseseră la cort. Şi au început să prorocească şi ei în tabără.
+{11:27} Un tânăr a alergat şi a dat de ştire lui Moise, zicând: „Eldad şi Medad prorocesc în tabără.”
+{11:28} Şi Iosua, fiul lui Nun, care slujea lui Moise din tinereţea lui, a luat cuvântul şi a zis: „Domnule Moise, opreşte-i.”
+{11:29} Moise i-a răspuns: „Eşti gelos pentru mine? Să dea Dumnezeu ca tot poporul Domnului să fie alcătuit din proroci şi Domnul să-Şi pună Duhul Lui peste ei!”
+{11:30} Apoi Moise s-a întors în tabără, el şi bătrânii lui Israel.
+{11:31} Domnul a făcut să sufle de peste mare un vânt, care a adus prepeliţe şi le-a răspândit peste tabără, cale cam de o zi într-o parte şi cale cam de o zi de cealaltă parte în jurul taberei. Aveau o înălţime de aproape doi coţi de la faţa pământului.
+{11:32} În tot timpul zilei aceleia şi toată noaptea şi toată ziua următoare, poporul s-a sculat şi a strâns prepeliţe; cel ce strânsese cel mai puţin avea zece omeri. Ei şi le-au întins în jurul taberei.
+{11:33} Pe când carnea era încă în dinţii lor, fără să fie mestecată, Domnul S-a aprins de mânie împotriva poporului şi Domnul a lovit poporul cu o urgie foarte mare.
+{11:34} Au pus locului aceluia numele Chibrot-Hataava (Mormintele lăcomiei), pentru că acolo au îngropat pe poporul apucat de poftă.
+{11:35} De la Chibrot-Hataava, poporul a plecat la Haţerot şi s-a oprit la Haţerot.
+{i12:1} Lepra Mariei
+{12:1} Maria şi Aaron au vorbit împotriva lui Moise din pricina femeii etiopiene pe care o luase el de nevastă, căci luase o femeie etiopiană.
+{12:2} Şi au zis: „Oare numai prin Moise vorbeşte Domnul? Nu vorbeşte oare şi prin noi?” Şi Domnul a auzit-o.
+{12:3} Moise însă era un om foarte blând, mai blând decât orice om de pe faţa pământului.
+{12:4} Deodată, Domnul a zis lui Moise, lui Aaron şi Mariei: „Duceţi-vă, câteşitrei la cortul întâlnirii.” Şi s-au dus câteşitrei.
+{12:5} Domnul S-a pogorât în stâlpul de nor şi a stat la uşa cortului. A chemat pe Aaron şi pe Maria, şi ei s-au apropiat amândoi.
+{12:6} Şi a zis: „Ascultaţi bine ce vă spun! Când va fi printre voi un proroc, Eu, Domnul, Mă voi descoperi lui într-o vedenie sau îi voi vorbi într-un vis.
+{12:7} Nu tot aşa este însă cu robul Meu Moise. El este credincios în toată casa Mea.
+{12:8} Eu îi vorbesc gură către gură, Mă descopăr lui nu prin lucruri greu de înţeles, ci el vede chipul Domnului. Cum de nu v-aţi temut deci să vorbiţi împotriva robului Meu, împotriva lui Moise?”
+{12:9} Domnul S-a aprins de mânie împotriva lor. Şi a plecat.
+{12:10} Norul s-a depărtat de pe cort. Şi iată că Maria era plină de lepră, albă ca zăpada. Aaron s-a întors spre Maria, şi iată că ea avea lepră.
+{12:11} Atunci Aaron a zis lui Moise: „Ah, domnul meu, nu ne face să purtăm pedeapsa păcatului pe care l-am făcut ca nişte nechibzuiţi şi de care ne-am făcut vinovaţi!
+{12:12} Să nu fie Maria ca un copil născut mort, a cărui carne este pe jumătate putredă când iese din pântecele mamei lui!”
+{12:13} Moise a strigat către Domnul, zicând: „Dumnezeule, Te rog, vindecă-o!”
+{12:14} Şi Domnul a zis lui Moise: „Dacă ar fi scuipat-o tatăl ei în obraz, n-ar fi fost ea oare de ocară timp de şapte zile? Să fie închisă deci şapte zile afară din tabără, după aceea să fie primită în tabără.”
+{12:15} Maria a fost închisă şapte zile afară din tabără. Şi poporul n-a pornit până ce n-a intrat din nou Maria în tabără.
+{12:16} După aceea, poporul a plecat din Haţerot şi a tăbărât în pustia Paran.
+{i13:1} Cele douăsprezece iscoade trimise în Canaan
+{13:1} Domnul a vorbit lui Moise şi a zis:
+{13:2} „Trimite nişte oameni să iscodească ţara Canaanului, pe care o dau copiilor lui Israel. Să trimiţi câte un om pentru fiecare din seminţiile părinţilor lor, toţi să fie dintre fruntaşii lor.”
+{13:3} Moise i-a trimis din pustia Paran, după porunca Domnului; toţi oamenii aceştia erau căpetenii ale copiilor lui Israel.
+{13:4} Iată numele lor: pentru seminţia lui Ruben: Şamua, fiul lui Zacur;
+{13:5} pentru seminţia lui Simeon: Şafat, fiul lui Hori;
+{13:6} pentru seminţia lui Iuda: Caleb, fiul lui Iefune;
+{13:7} pentru seminţia lui Isahar: Igual, fiul lui Iosif;
+{13:8} pentru seminţia lui Efraim: Hosea, fiul lui Nun;
+{13:9} pentru seminţia lui Beniamin: Palti, fiul lui Rafu;
+{13:10} pentru seminţia lui Zabulon: Gadiel, fiul lui Sodi;
+{13:11} pentru seminţia lui Iosif, seminţia lui Manase: Gadi, fiul lui Susi;
+{13:12} pentru seminţia lui Dan: Amiel, fiul lui Ghemali;
+{13:13} pentru seminţia lui Aşer: Setur, fiul lui Micael;
+{13:14} pentru seminţia lui Neftali: Nahbi, fiul lui Vofsi;
+{13:15} pentru seminţia lui Gad: Gheuel, fiul lui Machi.
+{13:16} Acestea sunt numele bărbaţilor pe care i-a trimis Moise să iscodească ţara. Lui Hosea, fiul lui Nun, Moise i-a pus numele Iosua.
+{13:17} Moise i-a trimis să iscodească ţara Canaanului. El le-a zis: „Mergeţi de aici spre miazăzi şi apoi să vă suiţi pe munte.
+{13:18} Vedeţi ţara, vedeţi cum este ea, cum este poporul care o locuieşte: dacă este tare sau slab, dacă este mic sau mare la număr;
+{13:19} vedeţi cum este ţara în care locuieşte: dacă este bună sau rea; cum sunt cetăţile în care locuieşte: dacă sunt deschise sau întărite;
+{13:20} cum este pământul: dacă este gras sau sterp, dacă sunt sau nu copaci pe el. Fiţi cu inimă şi luaţi cu voi roade din ţară.” Era pe vremea când încep să se coacă strugurii.
+{13:21} Ei s-au suit şi au iscodit ţara, de la pustia Ţin până la Rehob, pe drumul care duce la Hamat.
+{13:22} S-au suit pe la miazăzi şi au mers până la Hebron, unde se aflau Ahiman, Şeşai şi Talmai, copiii lui Anac. Hebronul fusese zidit cu şapte ani înainte de cetatea Ţoan din Egipt.
+{13:23} Au ajuns până la valea Eşcol. Acolo au tăiat o ramură de viţă cu un strugure şi l-au dus câte doi cu ajutorul unei prăjini. Au luat şi rodii şi smochine.
+{13:24} Locul acela l-au numit valea Eşcol (Strugure) din pricina strugurelui pe care l-au tăiat de acolo copiii lui Israel.
+{13:25} S-au întors de la iscodirea ţării după patruzeci de zile împlinite.
+{13:26} Au plecat şi au ajuns la Moise şi la Aaron şi la toată adunarea copiilor lui Israel, la Cades, în pustia Paran. Le-au adus ştiri, lor şi întregii adunări, şi le-au arătat roadele ţării.
+{13:27} Iată ce au istorisit lui Moise: „Ne-am dus în ţara în care ne-ai trimis. Cu adevărat, este o ţară în care curge lapte şi miere şi iată-i roadele.
+{13:28} Dar poporul care locuieşte în ţara aceasta este puternic, cetăţile sunt întărite şi foarte mari. Ba încă am văzut acolo şi pe fiii lui Anac.
+{13:29} Amaleciţii locuiesc ţinutul de la miazăzi; iebusiţii şi amoriţii locuiesc muntele şi canaaniţii şi hetiţii locuiesc lângă mare şi de-a lungul Iordanului.”
+{13:30} Caleb a potolit poporul care cârtea împotriva lui Moise. El a zis: „Haidem să ne suim şi să punem mâna pe ţară, căci vom fi biruitori!”
+{13:31} Dar bărbaţii care fuseseră împreună cu el au zis: „Nu putem să ne suim împotriva poporului acestuia, căci este mai tare decât noi.”
+{13:32} Şi au înnegrit înaintea copiilor lui Israel ţara pe care o iscodiseră. Ei au zis: „Ţara pe care am străbătut-o, ca s-o iscodim, este o ţară care mănâncă pe locuitorii ei; toţi aceia pe care i-am văzut acolo sunt oameni de statură înaltă.
+{13:33} Apoi, am mai văzut în ea pe uriaşi, pe copiii lui Anac, care se trag din neamul uriaşilor: înaintea noastră şi faţă de ei parcă eram nişte lăcuste.”
+{i14:1} Patruzeci de ani în pustie
+{14:1} Toată adunarea a ridicat glasul şi a început să ţipe. Şi poporul a plâns în noaptea aceea.
+{14:2} Toţi copiii lui Israel au cârtit împotriva lui Moise şi Aaron şi toată adunarea le-a zis: „De ce n-om fi murit noi în ţara Egiptului sau de ce n-om fi murit în pustia aceasta?
+{14:3} Pentru ce ne duce Domnul în ţara aceasta în care vom cădea ucişi de sabie, iar nevestele noastre şi copilaşii noştri vor fi de jaf? Nu este oare mai bine să ne întoarcem în Egipt?”
+{14:4} Şi au zis unul altuia: „Să ne alegem o căpetenie şi să ne întoarcem în Egipt.”
+{14:5} Moise şi Aaron au căzut cu faţa la pământ în faţa întregii adunări a copiilor lui Israel care era strânsă laolaltă.
+{14:6} Şi, dintre cei ce iscodiseră ţara, Iosua, fiul lui Nun, şi Caleb, fiul lui Iefune, şi-au rupt hainele
+{14:7} şi au vorbit astfel întregii adunări a copiilor lui Israel: „Ţara pe care am străbătut-o noi ca s-o iscodim este o ţară foarte bună, minunată.
+{14:8} Dacă Domnul va fi binevoitor cu noi, ne va duce în ţara aceasta şi ne-o va da: este o ţară în care curge lapte şi miere.
+{14:9} Numai nu vă răzvrătiţi împotriva Domnului şi nu vă temeţi de oamenii din ţara aceea, căci îi vom mânca. Ei nu mai au niciun sprijin: Domnul este cu noi, nu vă temeţi de ei!”
+{14:10} Toată adunarea vorbea să-i ucidă cu pietre, când slava Domnului s-a arătat peste cortul întâlnirii, înaintea tuturor copiilor lui Israel.
+{14:11} Şi Domnul a zis lui Moise: „Până când Mă va nesocoti poporul acesta? Până când nu va crede el în Mine, cu toate minunile pe care le fac în mijlocul lui?
+{14:12} De aceea, îl voi lovi cu ciumă şi-l voi nimici, dar pe tine te voi face un neam mai mare şi mai puternic decât el.”
+{14:13} Moise a zis Domnului: „Egiptenii vor auzi lucrul acesta, ei, din mijlocul cărora ai scos pe poporul acesta prin puterea Ta.
+{14:14} Şi vor spune locuitorilor ţării aceleia. Ei ştiau că Tu, Domnul, eşti în mijlocul poporului acestuia; că Te arătai în chip văzut, Tu, Domnul; că norul Tău stă peste el; că Tu mergi înaintea lui ziua într-un stâlp de nor şi noaptea într-un stâlp de foc.
+{14:15} Dacă omori pe poporul acesta ca pe un singur om, neamurile, care au auzit vorbindu-se de Tine, vor zice:
+{14:16} ‘Domnul n-avea putere să ducă pe poporul acesta în ţara pe care jurase că i-o va da, de aceea l-a omorât în pustie!’
+{14:17} Acum, să se arate puterea Domnului în mărimea ei, cum ai spus când ai zis:
+{14:18} ‘Domnul este încet la mânie şi bogat în bunătate, iartă fărădelegea şi răzvrătirea, dar nu ţine pe cel vinovat drept nevinovat şi pedepseşte fărădelegea părinţilor în copii până la al treilea şi la al patrulea neam.’
+{14:19} Iartă dar fărădelegea poporului acestuia, după mărimea îndurării Tale, cum ai iertat poporului acestuia din Egipt până aici.”
+{14:20} Şi Domnul a spus: „Iert, cum ai cerut.
+{14:21} Dar cât este de adevărat că Eu sunt viu şi că slava Domnului va umple tot pământul,
+{14:22} atât este de adevărat că toţi cei ce au văzut cu ochii lor slava Mea şi minunile pe care le-am făcut în Egipt şi în pustie, şi totuşi M-au ispitit de zece ori acum şi n-au ascultat glasul Meu,
+{14:23} toţi aceia nu vor vedea ţara pe care am jurat părinţilor lor că le-o voi da, şi anume toţi cei ce M-au nesocotit n-o vor vedea.
+{14:24} Iar pentru că robul Meu Caleb a fost însufleţit de un alt duh şi a urmat în totul calea Mea, îl voi face să intre în ţara în care s-a dus şi urmaşii lui o vor stăpâni.
+{14:25} Amaleciţii şi canaaniţii locuiesc valea aceasta, deci mâine, întoarceţi-vă şi plecaţi în pustie, pe calea care duce spre Marea Roşie.”
+{14:26} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{14:27} „Până când voi lăsa această rea adunare să cârtească împotriva Mea? Am auzit cârtirile copiilor lui Israel, care cârteau împotriva Mea.
+{14:28} Spune-le: ‘Pe viaţa Mea’, zice Domnul, ‘că vă voi face întocmai cum aţi vorbit în auzul urechilor Mele!
+{14:29} Trupurile voastre moarte vor cădea în pustia aceasta. Voi toţi, a căror numărătoare s-a făcut, numărându-vă de la vârsta de douăzeci de ani în sus, şi care aţi cârtit împotriva Mea
+{14:30} nu veţi intra în ţara pe care jurasem că vă voi da-o s-o locuiţi, afară de Caleb, fiul lui Iefune, şi Iosua, fiul lui Nun.
+{14:31} Pe copilaşii voştri însă, despre care aţi zis că vor fi de jaf, îi voi face să intre în ea, ca să cunoască ţara pe care aţi nesocotit-o voi.
+{14:32} Iar cât despre voi, trupurile voastre moarte vor cădea în pustie.
+{14:33} Şi copiii voştri vor rătăci patruzeci de ani în pustie şi vor ispăşi astfel păcatele voastre, până ce toate trupurile voastre moarte vor cădea în pustie.
+{14:34} După cum în patruzeci de zile aţi iscodit ţara, tot aşa, patruzeci de ani veţi purta pedeapsa fărădelegilor voastre, adică un an de fiecare zi, şi veţi şti atunci ce înseamnă să-Mi trag Eu mâna de la voi.
+{14:35} Eu, Domnul, am vorbit! În adevăr, aşa voi face acestei rele adunări, care s-a unit împotriva Mea; vor fi nimiciţi în pustia aceasta şi în ea vor muri’.”
+{14:36} Bărbaţii pe care îi trimisese Moise să iscodească ţara şi care, la întoarcerea lor, făcuseră ca toată adunarea să cârtească împotriva lui, înnegrind ţara,
+{14:37} oamenii aceştia, care înnegriseră ţara, au murit acolo, înaintea Domnului, loviţi de o moarte năpraznică.
+{14:38} Numai Iosua, fiul lui Nun, şi Caleb, fiul lui Iefune, au rămas cu viaţă dintre oamenii aceia care se duseseră să iscodească ţara.
+{i14:39} Neascultarea poporului pedepsit
+{14:39} Moise a spus aceste lucruri tuturor copiilor lui Israel, şi poporul a fost într-o mare jale.
+{14:40} S-au sculat dis-de-dimineaţă a doua zi şi s-au suit pe vârful muntelui, zicând: „Iată-ne! Suntem gata să ne suim în locul de care a vorbit Domnul, căci am păcătuit.”
+{14:41} Moise a zis: „Pentru ce călcaţi porunca Domnului? Nu veţi izbuti.
+{14:42} Nu vă suiţi, căci Domnul nu este în mijlocul vostru! Nu căutaţi să fiţi bătuţi de vrăjmaşii voştri.
+{14:43} Căci amaleciţii şi canaaniţii sunt înaintea voastră şi veţi cădea ucişi de sabie; odată ce v-aţi abătut de la Domnul, Domnul nu va fi cu voi.”
+{14:44} Ei s-au îndărătnicit şi s-au suit pe vârful muntelui, dar chivotul legământului şi Moise n-au ieşit din mijlocul taberei.
+{14:45} Atunci s-au pogorât amaleciţii şi canaaniţii care locuiau pe muntele acela, i-au bătut şi i-au tăiat în bucăţi până la Horma.
+{i15:1} Legi asupra jertfelor
+{15:1} Domnul a vorbit lui Moise şi a zis:
+{15:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când veţi intra în ţara pe care v-o dau ca să vă aşezaţi locuinţele în ea
+{15:3} şi veţi aduce Domnului o jertfă mistuită de foc, fie o ardere-de-tot, fie o jertfă adusă pentru împlinirea unei juruinţe sau ca dar de bunăvoie, sau la sărbătorile voastre, ca să faceţi din cirezile sau turmele voastre un miros plăcut Domnului,
+{15:4} cel ce îşi va aduce darul său Domnului să aducă Domnului ca dar de mâncare a zecea parte dintr-o efă de floare de făină, frământată într-un sfert de hin de untdelemn,
+{15:5} iar vin pentru jertfa de băutură la arderea-de-tot sau la jertfă, să aducă un sfert de hin de fiecare miel.
+{15:6} Pentru un berbec, să aduci ca dar de mâncare două zecimi de efă din floarea făinii frământată într-o treime de hin de untdelemn
+{15:7} şi să faci o jertfă de băutură de o treime de hin de vin, ca dar de mâncare de un miros plăcut Domnului.
+{15:8} Dacă aduci un viţel, fie ca ardere-de-tot, fie ca jertfă pentru împlinirea unei juruinţe, sau ca jertfă de mulţumire Domnului,
+{15:9} să aduci ca dar de mâncare, împreună cu viţelul, trei zecimi de efă din floarea făinii, frământată într-o jumătate de hin de untdelemn,
+{15:10} şi să faci o jertfă de băutură de o jumătate de hin de vin: aceasta este o jertfă mistuită de foc, de un miros plăcut Domnului.
+{15:11} Aşa să se facă pentru fiecare bou, pentru fiecare berbec, pentru fiecare miel sau ied.
+{15:12} După numărul vitelor, aşa să faceţi pentru fiecare, după numărul lor.
+{15:13} Aşa să facă lucrurile acestea orice băştinaş când va aduce o jertfă mistuită de foc, de un miros plăcut Domnului.
+{15:14} Dacă un străin care locuieşte la voi sau care se va găsi în viitor în mijlocul vostru aduce o jertfă mistuită de foc, de un miros plăcut Domnului, s-o aducă în acelaşi fel ca voi.
+{15:15} Să fie o singură lege pentru toată adunarea, atât pentru voi, cât şi pentru străinul care locuieşte în mijlocul vostru; aceasta să fie o lege necurmată printre urmaşii voştri: cu străinul să fie ca şi cu voi înaintea Domnului.
+{15:16} O singură lege şi o singură poruncă să fie atât pentru voi, cât şi pentru străinul care locuieşte printre voi.’”
+{i15:17} Pârga plămădelii
+{15:17} Domnul a vorbit lui Moise şi a zis:
+{15:18} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când veţi intra în ţara în care vă voi duce
+{15:19} şi când veţi mânca pâine din ţara aceea, să luaţi întâi un dar ridicat pentru Domnul.
+{15:20} Ca dar ridicat, să aduceţi o turtă din pârga plămădelii voastre; s-o aduceţi cum aduceţi darul care se ia întâi din arie.
+{15:21} Din pârga plămădelii voastre să luaţi întâi un dar ridicat pentru Domnul din neam în neam.
+{i15:22} Păcatele fără voie
+{15:22} Dacă păcătuiţi fără voie şi nu păziţi toate poruncile pe care le-a făcut cunoscut lui Moise Domnul,
+{15:23} tot ce v-a poruncit Domnul prin Moise, din ziua când a dat Domnul porunci şi mai târziu din neam în neam,
+{15:24} dacă păcatul a fost făcut fără voie şi fără să ştie adunarea, toată adunarea să aducă un viţel ca ardere-de-tot, de un miros plăcut Domnului, împreună cu darul său de mâncare şi cu jertfa sa de băutură, după rânduielile aşezate; să mai aducă şi un ţap ca jertfă de ispăşire.
+{15:25} Preotul să facă ispăşire pentru toată adunarea copiilor lui Israel, şi li se va ierta, căci au păcătuit fără voie şi şi-au adus darul lor: o jertfă mistuită de foc în cinstea Domnului şi o jertfă de ispăşire înaintea Domnului pentru păcatul pe care l-au săvârşit fără voie.
+{15:26} Se va ierta întregii adunări a copiilor lui Israel şi străinului care locuieşte în mijlocul lor, căci tot poporul a păcătuit fără voie.
+{15:27} Dacă unul singur a păcătuit fără voie, să aducă o capră de un an ca jertfă pentru păcat.
+{15:28} Preotul să facă ispăşire pentru cel ce a păcătuit fără voie înaintea Domnului; când va face ispăşire pentru el, i se va ierta.
+{15:29} Atât pentru băştinaşul dintre copiii lui Israel, cât şi pentru străinul care locuieşte în mijlocul lor, să fie aceeaşi lege, când va păcătui fără voie.
+{15:30} Dar, dacă cineva, fie băştinaş, fie străin, păcătuieşte cu voie, huleşte pe Domnul, acela va fi nimicit din mijlocul poporului său,
+{15:31} căci a nesocotit Cuvântul Domnului şi a călcat porunca Lui; va fi nimicit şi îşi va lua astfel pedeapsa pentru nelegiuirea lui’.”
+{i15:32} Pedepsirea omului pentru călcarea Sabatului
+{15:32} Când erau copiii lui Israel în pustie, au găsit pe un om strângând lemne în ziua Sabatului.
+{15:33} Cei ce-l găsiseră strângând lemne l-au adus la Moise, la Aaron şi la toată adunarea.
+{15:34} L-au aruncat în temniţă, căci nu se spusese ce trebuiau să-i facă.
+{15:35} Domnul a zis lui Moise: „Omul acesta să fie pedepsit cu moartea, toată adunarea să-l ucidă cu pietre afară din tabără.”
+{15:36} Toată adunarea l-a scos afară din tabără şi l-a ucis cu pietre; şi a murit, cum poruncise lui Moise Domnul.
+{i15:37} Ciucurii de la veşminte
+{15:37} Domnul a zis lui Moise:
+{15:38} „Vorbeşte copiilor lui Israel şi spune-le să-şi facă, din neam în neam, un ciucure la colţurile veşmintelor lor şi să pună un fir albastru peste ciucurele acesta din colţurile veşmintelor.
+{15:39} Când veţi avea ciucurele acesta, să vă uitaţi la el şi să vă aduceţi aminte de toate poruncile Domnului, ca să le împliniţi şi să nu urmaţi după poftele inimilor voastre şi după poftele ochilor voştri, ca să vă lăsaţi târâţi la curvie.
+{15:40} Să vă aduceţi astfel aminte de poruncile Mele, să le împliniţi şi să fiţi sfinţi pentru Dumnezeul vostru.
+{15:41} Eu sunt Domnul, Dumnezeul vostru, care v-am scos din ţara Egiptului, ca să fiu Dumnezeul vostru.”
+{i16:1} Core, Datan şi Abiram
+{16:1} Core, fiul lui Iţehar, fiul lui Chehat, fiul lui Levi, s-a răsculat împreună cu Datan şi Abiram, fiii lui Eliab şi On, fiul lui Pelet, câteşitrei fiii lui Ruben.
+{16:2} S-au răsculat împotriva lui Moise, împreună cu două sute cincizeci de oameni din copiii lui Israel, din fruntaşii adunării, din cei ce erau chemaţi la sfat şi care erau oameni cu nume.
+{16:3} Ei s-au adunat împotriva lui Moise şi Aaron şi le-au zis: „Destul! Căci toată adunarea, toţi sunt sfinţi şi Domnul este în mijlocul lor. Pentru ce vă ridicaţi voi mai presus de adunarea Domnului?”
+{16:4} Când a auzit Moise lucrul acesta, a căzut cu faţa la pământ.
+{16:5} A vorbit lui Core şi la toată ceata lui şi a zis: „Mâine, Domnul va arăta cine este al Lui şi cine este sfânt şi-l va lăsa să se apropie de El; va lăsa să se apropie de El pe acela pe care-l va alege.
+{16:6} Iată ce să faceţi. Luaţi cădelniţe, Core şi toată ceata lui.
+{16:7} Mâine, puneţi foc în ele şi puneţi tămâie pe el înaintea Domnului. Acela pe care-l va alege Domnul va fi sfânt. Destul, copiii lui Levi!”
+{16:8} Moise a zis lui Core: „Ascultaţi dar, copiii lui Levi!
+{16:9} Prea puţin lucru este oare pentru voi că Dumnezeul lui Israel v-a ales din adunarea lui Israel, lăsându-vă să vă apropiaţi de El, ca să fiţi întrebuinţaţi la slujba cortului Domnului şi să vă înfăţişaţi înaintea adunării ca să-i slujiţi?
+{16:10} V-a lăsat să vă apropiaţi de El, pe tine şi pe toţi fraţii tăi, pe copiii lui Levi, şi acum mai voiţi şi preoţia!
+{16:11} De aceea te aduni tu şi ceata ta împotriva Domnului! Căci cine este Aaron, ca să cârtiţi împotriva lui?”
+{16:12} Moise a trimis să cheme pe Datan şi pe Abiram, fiii lui Eliab. Dar ei au zis: „Nu ne suim.
+{16:13} N-ajunge că ne-ai scos dintr-o ţară unde curge lapte şi miere ca să ne faci să murim în pustie, de vrei să mai şi stăpâneşti peste noi?
+{16:14} Ce bine ne-ai mai dus într-o ţară unde curge lapte şi miere şi ce bine ne-ai mai dat în stăpânire ogoare şi vii! Crezi că poţi să iei ochii oamenilor? Nu ne suim!”
+{16:15} Moise s-a mâniat foarte tare şi a zis Domnului: „Nu căuta la darul lor. Nu le-am luat nici măcar un măgar şi n-am făcut rău niciunuia din ei.”
+{16:16} Moise a zis lui Core: „Tu şi toată ceata ta mâine să fiţi înaintea Domnului, tu şi ei, împreună cu Aaron.
+{16:17} Luaţi-vă fiecare cădelniţa, puneţi tămâie în ea şi aduceţi fiecare înaintea Domnului cădelniţa lui: două sute cincizeci de cădelniţe, tu şi Aaron; să vă luaţi şi voi fiecare cădelniţa lui.”
+{16:18} Şi-au luat fiecare cădelniţa, au pus foc în ea, au pus tămâie în foc şi au stat la uşa cortului întâlnirii, împreună cu Moise şi Aaron.
+{16:19} Şi Core a chemat toată adunarea împotriva lui Moise şi Aaron, la uşa cortului întâlnirii. Atunci, slava Domnului s-a arătat întregii adunări.
+{16:20} Şi Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{16:21} „Despărţiţi-vă din mijlocul acestei adunări şi-i voi topi într-o clipă.”
+{16:22} Ei au căzut cu feţele la pământ şi au zis: „Dumnezeule, Dumnezeul duhurilor oricărui trup! Un singur om a păcătuit, şi să Te mânii împotriva întregii adunări?”
+{16:23} Domnul a vorbit lui Moise şi a zis:
+{16:24} „Vorbeşte adunării şi spune-i: ‘Daţi-vă la o parte din preajma locuinţei lui Core, Datan şi Abiram!’”
+{16:25} Moise s-a sculat şi s-a dus la Datan şi Abiram; şi bătrânii lui Israel au mers după el.
+{16:26} A vorbit adunării şi a zis: „Depărtaţi-vă de corturile acestor oameni răi şi nu vă atingeţi de nimic din ce este al lor, ca să nu pieriţi odată cu pedepsirea lor pentru toate păcatele lor.”
+{16:27} Ei s-au depărtat din preajma locuinţei lui Core, Datan şi Abiram. Datan şi Abiram au ieşit afară şi au stat la uşa corturilor lor, cu nevestele, copiii şi pruncii lor.
+{16:28} Moise a zis: „Iată cum veţi cunoaşte că Domnul m-a trimis să fac toate aceste lucruri şi că nu lucrez din capul meu.
+{16:29} Dacă oamenii aceştia vor muri cum mor toţi oamenii şi dacă vor avea aceeaşi soartă ca toţi oamenii, nu m-a trimis Domnul,
+{16:30} dar dacă Domnul va face un lucru nemaiauzit, dacă pământul îşi va deschide gura ca să-i înghită cu tot ce au, aşa încât se vor pogorî de vii în Locuinţa morţilor, atunci veţi şti că oamenii aceştia au hulit pe Domnul.”
+{16:31} Pe când isprăvea el de spus toate aceste vorbe, pământul de sub ei s-a despicat în două.
+{16:32} Pământul şi-a deschis gura şi i-a înghiţit, pe ei şi casele lor, împreună cu toţi oamenii lui Core şi toate averile lor.
+{16:33} Şi s-au pogorât astfel de vii în Locuinţa morţilor, ei şi tot ce aveau; pământul i-a acoperit de tot şi au pierit din mijlocul adunării.
+{16:34} Tot Israelul care era în jurul lor, când au ţipat ei, a fugit, căci ziceau: „Să fugim ca să nu ne înghită pământul!”
+{16:35} Un foc a ieşit de la Domnul şi a mistuit pe cei două sute cincizeci de oameni care aduceau tămâia.
+{16:36} Domnul a vorbit lui Moise şi a zis:
+{16:37} „Spune lui Eleazar, fiul preotului Aaron, să scoată cădelniţele din foc şi să lepede focul din ele, căci sunt sfinţite.
+{16:38} Cu cădelniţele acestor oameni care au păcătuit şi au ispăşit păcatul cu viaţa lor, să se facă nişte plăci întinse, cu care să se acopere altarul. Fiindcă au fost aduse înaintea Domnului şi sunt sfinţite, să slujească de aducere-aminte copiilor lui Israel.”
+{16:39} Preotul Eleazar a luat cădelniţele de aramă, pe care le aduseseră cei arşi, şi a făcut din ele nişte plăci pentru acoperirea altarului.
+{16:40} Acesta este un semn de aducere-aminte pentru copiii lui Israel, pentru ca niciun străin, care nu este din neamul lui Aaron, să nu se apropie să aducă tămâie înaintea Domnului şi să nu i se întâmple ca lui Core şi cetei lui, după cum spusese Domnul prin Moise.
+{i16:41} O nouă răzvrătire a poporului
+{16:41} A doua zi, toată adunarea copiilor lui Israel a cârtit împotriva lui Moise şi împotriva lui Aaron, zicând: „Voi aţi omorât pe poporul Domnului!”
+{16:42} Pe când se strângea adunarea împotriva lui Moise şi împotriva lui Aaron şi pe când îşi îndreptau privirile spre cortul întâlnirii, iată că l-a acoperit norul şi s-a arătat slava Domnului.
+{16:43} Atunci, Moise şi Aaron au venit înaintea cortului întâlnirii.
+{16:44} Şi Domnul a vorbit lui Moise şi a zis:
+{16:45} „Daţi-vă la o parte din mijlocul acestei adunări, şi-i voi topi într-o clipă!” Ei au căzut cu feţele la pământ
+{16:46} şi Moise a zis lui Aaron: „Ia cădelniţa, pune foc în ea de pe altar, pune tămâie în ea, du-te repede la adunare şi fă ispăşire pentru ei, căci a izbucnit mânia Domnului şi a început urgia.”
+{16:47} Aaron a luat cădelniţa, cum zisese Moise, şi a alergat în mijlocul adunării şi iată că începuse urgia printre popor. El a tămâiat şi a făcut ispăşire pentru norod.
+{16:48} S-a aşezat între cei morţi şi între cei vii, şi urgia a încetat.
+{16:49} Paisprezece mii şapte sute de inşi au murit de urgia aceasta, afară de cei ce muriseră din pricina lui Core.
+{16:50} Aaron s-a întors la Moise, la uşa cortului întâlnirii. Urgia încetase.
+{i17:1} Toiagul lui Aaron
+{17:1} Domnul a vorbit lui Moise şi a zis:
+{17:2} „Vorbeşte copiilor lui Israel şi ia de la ei un toiag, după casele părinţilor lor, adică douăsprezece toiege din partea căpeteniilor lor, după casele părinţilor lor. Să scrii numele fiecăruia pe toiagul lui
+{17:3} şi să scrii numele lui Aaron pe toiagul lui Levi, căci va fi câte un toiag de fiecare căpetenie a caselor părinţilor lor.
+{17:4} Să le pui în cortul întâlnirii, înaintea mărturiei, unde Mă întâlnesc cu voi.
+{17:5} Bărbatul pe care-l voi alege va fi acela al cărui toiag va înflori, şi voi pune capăt dinaintea Mea cârtirilor pe care le ridică împotriva voastră copiii lui Israel.”
+{17:6} Moise a vorbit copiilor lui Israel, şi toate căpeteniile lor i-au dat câte un toiag; fiecare căpetenie câte un toiag, după casele părinţilor lor, adică douăsprezece toiege. Toiagul lui Aaron era în mijlocul toiegelor lor.
+{17:7} Moise a pus toiegele înaintea Domnului, în cortul mărturiei.
+{17:8} A doua zi, când a intrat Moise în cortul mărturiei, iată că toiagul lui Aaron, care era pentru casa lui Levi, înverzise, făcuse muguri, înflorise şi copsese migdale.
+{17:9} Moise a luat dinaintea Domnului toate toiegele şi le-a dus tuturor copiilor lui Israel, ca să le vadă şi să-şi ia fiecare toiagul lui.
+{17:10} Domnul a zis lui Moise: „Pune toiagul lui Aaron înapoi înaintea mărturiei şi să fie păstrat ca un semn pentru cei răzvrătiţi, ca să pui astfel capăt înaintea Mea cârtirilor lor, şi să nu moară.”
+{17:11} Moise a făcut aşa; a făcut întocmai după porunca pe care i-o dăduse Domnul.
+{17:12} Copiii lui Israel au zis lui Moise: „Iată că murim, pierim, pierim cu toţii!
+{17:13} Oricine se apropie de cortul Domnului moare. Va trebui oare să murim cu toţii?”
+{i18:1} Preoţii şi leviţii
+{18:1} Domnul a zis lui Aaron: „Tu şi fiii tăi, şi casa tatălui tău cu tine să purtaţi pedeapsa fărădelegilor făcute în Sfântul Locaş; tu şi fiii tăi împreună cu tine să purtaţi pedeapsa fărădelegilor făcute în împlinirea slujbei voastre preoţeşti.
+{18:2} Apropie, de asemenea, de tine pe fraţii tăi, seminţia lui Levi, seminţia tatălui tău, ca să fie legaţi de tine şi să-ţi slujească atunci când tu şi fiii tăi împreună cu tine veţi fi înaintea cortului întâlnirii.
+{18:3} Ei să păzească ce le vei porunci tu şi cele privitoare la tot cortul, dar să nu se apropie nici de uneltele Sfântului Locaş, nici de altar, ca să nu muriţi, şi ei, şi voi.
+{18:4} Ei să se alipească de tine şi să păzească tot ce priveşte cortul întâlnirii pentru toată slujba cortului. Niciun străin să nu se apropie de voi.
+{18:5} Să păziţi cele privitoare la Sfântul Locaş şi altar, ca să nu mai fie mânie împotriva copiilor lui Israel.
+{18:6} Iată că am luat pe fraţii voştri leviţii, din mijlocul copiilor lui Israel, ca unii care sunt daţi Domnului; ei vă sunt încredinţaţi vouă în dar, ca să facă slujba cortului întâlnirii.
+{18:7} Tu şi fiii tăi împreună cu tine să păziţi slujbele preoţiei voastre în tot ce priveşte altarul şi tot ce este dincolo de perdeaua dinăuntru: aceasta este slujba pe care o veţi face. Vă dau în dar slujba preoţiei. Străinul care se va apropia va fi omorât.”
+{i18:8} Întreţinerea preoţilor
+{18:8} Domnul a zis lui Aaron: „Iată, din toate lucrurile pe care Mi le închină copiii lui Israel, îţi dau pe cele care Îmi sunt aduse prin ridicare; ţi le dau ţie şi fiilor tăi ca drept al ungerii, printr-o lege veşnică.
+{18:9} Iată ce va fi al tău dintre lucrurile preasfinte care nu sunt mistuite de foc: toate darurile din jertfele lor de mâncare, toate jertfele lor de ispăşire şi toate jertfele pentru vină, pe care Mi le vor aduce; lucrurile acestea preasfinte să fie ale tale şi ale fiilor tăi.
+{18:10} Să le mâncaţi într-un loc preasfânt; orice bărbat să mănânce din ele; să le priviţi ca sfinte.
+{18:11} Iată ce va mai fi al tău: toate darurile pe care le vor aduce copiii lui Israel prin ridicare şi legănându-le într-o parte şi în alta ţi le dau ţie, fiilor tăi şi fiicelor tale împreună cu tine, printr-o lege veşnică. Oricine va fi curat în casa ta să mănânce din ele.
+{18:12} Îţi dau cele dintâi roade pe care le vor aduce Domnului: tot ce va fi mai bun din untdelemn, tot ce va fi mai bun din must şi grâu.
+{18:13} Cele dintâi roade ale pământului lor, pe care le vor aduce Domnului, să fie ale tale. Oricine va fi curat în casa ta să mănânce din ele.
+{18:14} Tot ce va fi închinat Domnului prin făgăduinţă în Israel să fie al tău.
+{18:15} Orice întâi născut din orice trup pe care-l vor aduce Domnului, atât din oameni, cât şi din dobitoace, să fie al tău. Numai să laşi să se răscumpere întâiul născut al omului şi să laşi să se răscumpere şi întâiul născut al unui dobitoc necurat.
+{18:16} Să laşi să se răscumpere întâii născuţi ai oamenilor, de la vârsta de o lună, după preţuirea ta, cu preţul de cinci sicli de argint, după siclul Sfântului Locaş, care este de douăzeci de ghere.
+{18:17} Dar să nu laşi să se răscumpere întâiul născut al vacii, nici întâiul născut al oii, nici întâiul născut al caprei; acestea sunt lucruri sfinte. Sângele lor să-l stropeşti pe altar şi să le arzi grăsimea; aceasta va fi o jertfă mistuită de foc de un miros plăcut Domnului.
+{18:18} Carnea lor să fie a ta, ca şi pieptul care se leagănă într-o parte şi în alta şi ca şi spata dreaptă.
+{18:19} Îţi dau ţie, fiilor tăi şi fiicelor tale împreună cu tine, printr-o lege veşnică, toate darurile sfinte pe care le vor aduce Domnului copiii lui Israel prin ridicare. Acesta este un legământ de necălcat şi pe vecie înaintea Domnului, pentru tine şi pentru sămânţa ta împreună cu tine.”
+{i18:20} Întreţinerea leviţilor
+{18:20} Domnul a zis lui Aaron: „Tu să n-ai nicio moştenire în ţara lor şi să n-ai nicio parte de moşie în mijlocul lor. Eu sunt moştenirea şi partea ta de moşie în mijlocul copiilor lui Israel.
+{18:21} Fiilor lui Levi le dau ca moştenire orice zeciuială în Israel, pentru slujba pe care o fac ei, pentru slujba cortului întâlnirii.
+{18:22} Copiii lui Israel să nu se mai apropie de cortul întâlnirii, ca să nu se facă vinovaţi de vreun păcat şi să moară.
+{18:23} Ci leviţii să facă slujba cortului întâlnirii şi să rămână încărcaţi cu fărădelegile lor. Ei să n-aibă nicio moştenire în mijlocul copiilor lui Israel: aceasta să fie o lege veşnică printre urmaşii voştri.
+{18:24} Leviţilor le dau de moştenire zeciuielile pe care le vor aduce copiii lui Israel Domnului prin ridicare, de aceea zic cu privire la ei: ‘Să nu aibă nicio moştenire în mijlocul copiilor lui Israel’.”
+{i18:25} Darul leviţilor din ce primesc
+{18:25} Domnul a vorbit lui Moise şi a zis:
+{18:26} „Să vorbeşti leviţilor şi să le spui: ‘Când veţi primi de la copiii lui Israel zeciuiala pe care v-o dau din partea lor, ca moştenire a voastră, să luaţi întâi din ea un dar pentru Domnul, şi anume a zecea parte din zeciuială,
+{18:27} şi darul vostru vi se va socoti ca grâul care se ia întâi din arie şi ca mustul care se ia întâi din teasc.
+{18:28} Astfel să luaţi şi voi întâi un dar pentru Domnul din toate zeciuielile pe care le veţi primi de la copiii lui Israel şi să daţi preotului Aaron darul pe care-l veţi lua întâi din ele pentru Domnul.
+{18:29} Din toate darurile care vi se vor da, să luaţi întâi toate darurile pentru Domnul; din tot ce va fi mai bun, să luaţi întâi partea închinată Domnului.’
+{18:30} Să le spui: ‘După ce veţi lua din ele partea cea mai bună, zeciuiala va fi socotită leviţilor ca venitul de la arie şi ca venitul de la teasc.
+{18:31} Să-l mâncaţi într-un loc oarecare, voi şi casa voastră, căci aceasta este plata voastră pentru slujba pe care o faceţi în cortul întâlnirii.
+{18:32} Nu vă veţi face vinovaţi pentru aceasta de niciun păcat, dacă veţi lua din ele pentru Domnul ce este mai bun, nici nu veţi pângări darurile sfinte ale copiilor lui Israel şi nu veţi muri.’”
+{i19:1} Vaca roşie, apa de curăţire
+{19:1} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{19:2} „Iată ce porunceşte legea pe care a dat-o Domnul, zicând: ‘Vorbeşte copiilor lui Israel să-ţi aducă o vacă roşie, fără pată, fără vreun cusur trupesc şi care să nu fi fost pusă la jug.
+{19:3} S-o daţi preotului Eleazar; el s-o scoată din tabără şi să fie junghiată înaintea lui.
+{19:4} Preotul Eleazar să ia cu degetul din sângele vacii şi să stropească de şapte ori înaintea cortului întâlnirii.
+{19:5} Vaca să fie arsă sub ochii lui; să-i ardă pielea, carnea şi sângele, împreună cu balega.
+{19:6} Preotul să ia lemn de cedru, isop şi cârmâz şi să le arunce în mijlocul flăcărilor care vor mistui vaca.
+{19:7} Preotul să-şi spele hainele şi să-şi scalde trupul în apă, apoi să intre iarăşi în tabără şi să fie necurat până seara.
+{19:8} Cel ce va arde vaca să-şi spele hainele în apă şi să-şi scalde trupul în apă şi să fie necurat până seara.
+{19:9} Un om curat să strângă cenuşa vacii şi s-o pună într-un loc curat afară din tabără; s-o păstreze pentru adunarea copiilor lui Israel, ca să facă apa de curăţire. Aceasta este o apă de ispăşire.
+{19:10} Cel ce va strânge cenuşa vacii să-şi spele hainele şi să fie necurat până seara. Aceasta să fie o lege veşnică atât pentru copiii lui Israel, cât şi pentru străinul care locuieşte în mijlocul lor.
+{19:11} Cine se va atinge de vreun mort, de vreun trup omenesc mort, să fie necurat timp de şapte zile.
+{19:12} Să se cureţe cu apa aceasta a treia zi şi a şaptea zi şi va fi curat, dar, dacă nu se curăţă a treia zi şi a şaptea zi, nu va fi curat.
+{19:13} Cine se va atinge de un mort, de trupul unui om mort, şi nu se va curăţi pângăreşte cortul Domnului; acela să fie nimicit din Israel. Fiindcă nu s-a stropit peste el apa de curăţire, este necurat şi necurăţia lui este încă peste el.
+{19:14} Iată legea când va muri un om într-un cort: oricine va intra în cort şi oricine se va afla în cort va fi necurat şapte zile.
+{19:15} De asemenea, orice vas descoperit, care nu va avea un capac bine strâns pe el, va fi necurat.
+{19:16} Oricine se va atinge pe câmp de un om ucis de sabie sau de un mort, sau de oase omeneşti, sau de vreun mormânt va fi necurat timp de şapte zile.
+{19:17} Pentru cel necurat, să se ia cenuşă de la jertfa de ispăşire care a fost arsă şi să toarne peste ea apă de izvor într-un vas.
+{19:18} Un om curat să ia isop şi să-l moaie în apă; să stropească apoi cu el cortul, toate uneltele, oamenii care sunt acolo, pe cel ce s-a atins de oase omeneşti sau de vreun om ucis, sau de vreun mort, sau de vreun mormânt.
+{19:19} Cel curat să stropească pe cel necurat a treia zi şi a şaptea zi şi să-l cureţe în ziua a şaptea. Să-şi spele hainele şi să se scalde în apă, şi seara va fi curat.
+{19:20} Un om care va fi necurat, şi nu se va curăţi va fi nimicit din mijlocul adunării, căci a spurcat Sfântul Locaş al Domnului; fiindcă n-a fost stropită peste el apa de curăţire, este necurat.
+{19:21} Aceasta să fie o lege veşnică pentru ei. Cel ce va stropi pe altul cu apa de curăţire să-şi spele hainele şi cel ce se va atinge de apa de curăţire să fie necurat până seara.
+{19:22} Orice lucru de care se va atinge cel necurat va fi necurat şi cine se va atinge de el să fie necurat până seara’.”
+{i20:1} Moartea Mariei. Apele de la Meriba. Pedepsirea lui Moise
+{20:1} Toată adunarea copiilor lui Israel a ajuns în pustia Ţin în luna întâi. Şi poporul s-a oprit la Cades. Acolo a murit şi a fost îngropată Maria.
+{20:2} Adunarea n-avea apă. Şi s-au răsculat împotriva lui Moise şi împotriva lui Aaron.
+{20:3} Poporul a căutat ceartă cu Moise. Ei au zis: „Ce bine ar fi fost să fi murit noi când au murit fraţii noştri înaintea Domnului!
+{20:4} Pentru ce aţi adus adunarea Domnului în pustia aceasta, ca să murim în ea, noi şi vitele noastre?
+{20:5} Pentru ce ne-aţi scos din Egipt şi ne-aţi adus în acest loc rău, unde nu este nici loc de semănat, nici smochin, nici viţă, nici rodiu, nici apă de băut?”
+{20:6} Moise şi Aaron au plecat de la adunare şi s-au dus la uşa cortului întâlnirii. Au căzut cu faţa la pământ şi li s-a arătat slava Domnului.
+{20:7} Domnul a vorbit lui Moise şi a zis:
+{20:8} „Ia toiagul şi cheamă adunarea tu şi fratele tău Aaron. Să vorbiţi stâncii acesteia în faţa lor, şi ea va da apă. Să le scoţi astfel apă din stâncă şi să adăpi adunarea şi vitele lor.”
+{20:9} Moise a luat toiagul dinaintea Domnului, cum îi poruncise Domnul.
+{20:10} Moise şi Aaron au chemat adunarea înaintea stâncii. Şi Moise le-a zis: „Ascultaţi, răzvrătiţilor! Vom putea noi oare să vă scoatem apă din stânca aceasta?”
+{20:11} Apoi Moise a ridicat mâna şi a lovit stânca de două ori cu toiagul. Şi a ieşit apă din belşug, aşa încât a băut şi adunarea, şi au băut şi vitele.
+{20:12} Atunci, Domnul a zis lui Moise: „Pentru că n-aţi crezut în Mine ca să Mă sfinţiţi înaintea copiilor lui Israel, nu voi veţi duce adunarea aceasta în ţara pe care i-o dau.”
+{20:13} Acestea sunt apele Meriba (Ceartă), unde s-au certat copiii lui Israel cu Domnul, care a fost sfinţit între ei.
+{i20:14} Edomiţii şi israeliţii
+{20:14} De la Cades, Moise a trimis nişte soli la împăratul Edomului ca să-i spună: „Aşa vorbeşte fratele tău Israel. Tu ştii toate suferinţele prin care am trecut.
+{20:15} Părinţii noştri s-au pogorât în Egipt şi am locuit acolo multă vreme. Dar egiptenii ne-au chinuit, pe noi şi pe părinţii noştri.
+{20:16} Am strigat către Domnul, şi El ne-a auzit glasul. A trimis un Înger şi ne-a scos din Egipt. Şi iată că suntem la Cades, cetate care se află la marginea ţinutului tău.
+{20:17} Lasă-ne să trecem prin ţara ta; nu vom trece nici prin ogoare, nici prin vii şi nici nu vom bea apă din fântâni; vom merge pe drumul împărătesc, fără să ne abatem la dreapta sau la stânga, până vom trece de ţinutul tău.”
+{20:18} Edom i-a răspuns: „Să nu cumva să treci pe la mine, căci altfel îţi voi ieşi înainte cu sabia.”
+{20:19} Copiii lui Israel i-au zis: „Vom merge pe drumul cel mare şi, dacă vom bea din apa ta eu şi turmele mele, îţi voi plăti preţul; nu-ţi cer altceva decât să trec cu picioarele!”
+{20:20} El a răspuns: „Să nu cumva să treci!” Şi Edom i-a ieşit înainte cu multă gloată şi cu mână tare.
+{20:21} Astfel, Edom n-a vrut să lase pe Israel să treacă prin ţinutul lui. Şi Israel s-a abătut de la el.
+{i20:22} Moartea lui Aaron. Eleazar
+{20:22} Toată adunarea copiilor lui Israel a plecat de la Cades şi a ajuns la muntele Hor.
+{20:23} Domnul a zis lui Moise şi lui Aaron lângă muntele Hor, la hotarele ţării lui Edom:
+{20:24} „Aaron are să fie adăugat la poporul lui, căci nu va intra în ţara pe care o dau copiilor lui Israel, pentru că v-aţi împotrivit poruncii Mele, la apele Meriba.
+{20:25} Ia pe Aaron şi pe fiul său Eleazar şi suie-i pe muntele Hor.
+{20:26} Dezbracă pe Aaron de veşmintele lui şi îmbracă pe fiul său Eleazar cu ele. Acolo va fi adăugat Aaron la poporul lui şi va muri.”
+{20:27} Moise a făcut ce-i poruncise Domnul. S-au suit pe muntele Hor, în faţa întregii adunări.
+{20:28} Moise a dezbrăcat pe Aaron de veşmintele lui şi a îmbrăcat cu ele pe fiul său Eleazar. Aaron a murit acolo, pe vârful muntelui. Moise şi Eleazar s-au pogorât de pe munte.
+{20:29} Toată adunarea a văzut că Aaron murise, şi toată casa lui Israel a plâns pe Aaron treizeci de zile.
+{i21:1} Israeliţii în luptă cu canaaniţii
+{21:1} Împăratul Aradului, un canaanit, care locuia la miazăzi, a auzit că Israel vine pe drumul Atarim. El s-a luptat împotriva lui Israel şi a luat mai mulţi prinşi de război.
+{21:2} Atunci Israel a făcut Domnului o juruinţă şi a zis: „Dacă vei da pe poporul acesta în mâinile mele, îi voi nimici cu desăvârşire cetăţile.”
+{21:3} Domnul a auzit glasul lui Israel şi a dat pe canaaniţi în mâinile lui. Israeliţii i-au nimicit cu desăvârşire, pe ei şi cetăţile lor, şi locul acela l-au numit Horma (Nimicire deplină).
+{i21:4} Şerpii înfocaţi
+{21:4} Au plecat de la muntele Hor pe drumul care duce spre Marea Roşie, ca să ocolească ţara Edomului. Poporul şi-a pierdut răbdarea pe drum
+{21:5} şi a vorbit împotriva lui Dumnezeu şi împotriva lui Moise: „Pentru ce ne-aţi scos din Egipt ca să murim în pustie? Căci nu este nici pâine, nici apă şi ni s-a scârbit sufletul de această hrană proastă.”
+{21:6} Atunci, Domnul a trimis împotriva poporului nişte şerpi înfocaţi, care au muşcat poporul, aşa încât au murit mulţi oameni în Israel.
+{21:7} Poporul a venit la Moise şi a zis: „Am păcătuit, căci am vorbit împotriva Domnului şi împotriva ta. Roagă-te Domnului ca să depărteze de la noi aceşti şerpi.” Moise s-a rugat pentru popor.
+{21:8} Domnul a zis lui Moise: „Fă-ţi un şarpe înfocat şi spânzură-l de o prăjină; oricine este muşcat şi va privi spre el va trăi.”
+{21:9} Moise a făcut un şarpe de aramă şi l-a pus într-o prăjină şi oricine era muşcat de un şarpe şi privea spre şarpele de aramă trăia.
+{i21:10} Alte călătorii ale israeliţilor
+{21:10} Copiii lui Israel au plecat şi au tăbărât la Obot.
+{21:11} Au plecat din Obot şi au tăbărât la Iie-Abarim, în pustia din faţa Moabului, spre răsăritul soarelui.
+{21:12} De acolo au plecat şi au tăbărât în valea Zered.
+{21:13} De acolo au plecat şi au tăbărât dincolo de Arnon, care curge prin pustie, ieşind din ţinutul amoriţilor, căci Arnonul face hotarul Moabului, între Moab şi amoriţi.
+{21:14} De aceea se zice în Cartea Războaielor Domnului: „Vaheb în Sufa, Şivoaiele Arnonului
+{21:15} Şi scurgerile şuvoaielor, Care se întind înspre Ar şi se ating cu hotarul lui Moab.”
+{21:16} De acolo s-au dus la Beer (Fântână). La această fântână, Domnul a zis lui Moise: „Strânge poporul şi le voi da apă.”
+{21:17} Atunci a cântat Israel cântarea aceasta: „Ţâşneşte, fântână! Cântaţi în cinstea ei!
+{21:18} Fântâna pe care au săpat-o căpeteniile, Pe care au săpat-o mai-marii poporului, Cu toiagul de cârmuire, cu toiegele lor!” Din pustia aceasta s-au dus la Matana;
+{21:19} din Matana, la Nahaliel; din Nahaliel, la Bamot;
+{21:20} din Bamot, la valea din câmpia Moabului, în vârful muntelui Pisga, care caută spre pustie.
+{i21:21} Sihon şi Og
+{21:21} Israel a trimis soli la Sihon, împăratul amoriţilor, ca să-i spună:
+{21:22} „Lasă-mă să trec prin ţara ta; nu vom intra nici în ogoare, nici în vii şi nu vom bea apă din fântâni; vom ţine drumul împărătesc, până vom trece de ţinutul tău.”
+{21:23} Sihon n-a îngăduit lui Israel să treacă prin ţinutul lui. Sihon a strâns tot poporul şi a ieşit înaintea lui Israel, în pustie. A venit la Iahaţ şi s-a luptat împotriva lui Israel.
+{21:24} Israel l-a bătut cu ascuţişul sabiei şi i-a cucerit ţara de la Arnon până la Iaboc, până la hotarul copiilor lui Amon, căci hotarul copiilor lui Amon era întărit.
+{21:25} Israel a luat toate cetăţile acelea şi s-a aşezat în toate cetăţile amoriţilor, în Hesbon şi în toate satele de prin împrejurimi.
+{21:26} Căci Hesbonul era cetatea lui Sihon, împăratul amoriţilor. El pornise cu război împotriva împăratului dinainte al Moabului şi-i luase toată ţara până la Arnon.
+{21:27} De aceea zic poeţii: „Veniţi la Hesbon! Să se zidească din nou şi să se întărească cetatea lui Sihon.
+{21:28} Căci a ieşit un foc din Hesbon, O flacără din cetatea lui Sihon, Şi a mistuit pe Ar-Moab, Pe locuitorii înălţimilor Arnonului.
+{21:29} Vai de tine, Moab! Eşti pierdut, poporul lui Chemoş! El a făcut pe fiii lui fugari, Şi pe fetele lui le-a dat roabe Lui Sihon, împăratul amoriţilor.
+{21:30} Noi am aruncat cu săgeţile asupra lor: Din Hesbon până la Dibon totul este nimicit; Am pustiit până la Nofah, Care se întinde până la Medeba.”
+{21:31} Israel s-a aşezat astfel în ţara amoriţilor.
+{21:32} Moise a trimis să iscodească Iaezerul. Au luat satele care ţineau de el şi au izgonit pe amoriţii care erau în ele.
+{21:33} Au schimbat apoi drumul şi s-au suit pe drumul care duce la Basan. Og, împăratul Basanului, le-a ieşit înainte cu tot poporul lui, ca să lupte împotriva lor la Edrei.
+{21:34} Domnul a zis lui Moise: „Nu te teme de el, căci îl dau în mâinile tale, pe el şi tot poporul lui şi toată ţara lui; să-i faci cum ai făcut lui Sihon, împăratul amoriţilor, care locuia la Hesbon.”
+{21:35} Şi ei l-au bătut, pe el şi pe fiii lui şi tot poporul lui, de n-au lăsat să scape unul măcar, şi au pus mâna pe ţara lui.
+{i22:1} Balac trimite după Balaam
+{22:1} Copiii lui Israel au pornit şi au tăbărât în şesurile Moabului, dincolo de Iordan, în faţa Ierihonului.
+{22:2} Balac, fiul lui Ţipor, a văzut tot ce făcuse Israel amoriţilor.
+{22:3} Şi Moab a rămas foarte îngrozit în faţa unui popor atât de mare la număr; l-a apucat groaza în faţa copiilor lui Israel.
+{22:4} Moab a zis bătrânilor lui Madian: „Mulţimea aceasta are să înghită tot ce este în jurul nostru, cum paşte boul verdeaţa de pe câmp.” Balac, fiul lui Ţipor, era pe atunci împărat al Moabului.
+{22:5} El a trimis soli la Balaam, fiul lui Beor, la Petor pe Râu (Eufrat), în ţara fiilor poporului său, ca să-l cheme şi să-i spună: „Iată, un popor a ieşit din Egipt, acoperă faţa pământului şi s-a aşezat în faţa mea!
+{22:6} Vino, te rog, să-mi blestemi pe poporul acesta, căci este mai puternic decât mine. Poate că aşa îl voi putea bate şi-l voi izgoni din ţară, căci ştiu că pe cine binecuvântezi tu este binecuvântat, şi pe cine blestemi tu este blestemat.”
+{22:7} Bătrânii lui Moab şi bătrânii lui Madian au plecat având cu ei daruri pentru ghicitor. Au ajuns la Balaam şi i-au spus cuvintele lui Balac.
+{22:8} Balaam le-a zis: „Rămâneţi aici peste noapte, şi vă voi da răspuns după cum îmi va spune Domnul.” Şi căpeteniile Moabului au rămas la Balaam.
+{22:9} Dumnezeu a venit la Balaam şi a zis: „Cine sunt oamenii aceştia pe care-i ai la tine?”
+{22:10} Balaam a răspuns lui Dumnezeu: „Balac, fiul lui Ţipor, împăratul Moabului, i-a trimis să-mi spună:
+{22:11} ‘Iată, un popor a ieşit din Egipt şi acoperă faţa pământului; vino dar şi blestemă-l; poate că aşa îl voi putea bate şi-l voi izgoni.’”
+{22:12} Dumnezeu a zis lui Balaam: „Să nu te duci cu ei şi nici să nu blestemi poporul acela, căci este binecuvântat.”
+{22:13} Balaam s-a sculat dimineaţa şi a zis căpeteniilor lui Balac: „Duceţi-vă înapoi în ţara voastră, căci Domnul nu vrea să mă lase să merg cu voi.”
+{22:14} Şi mai-marii Moabului s-au sculat, s-au întors la Balac şi i-au spus: „Balaam n-a vrut să vină cu noi.”
+{i22:15} Măgăriţa lui Balaam vorbeşte
+{22:15} Balac a trimis din nou mai multe căpetenii mai cu vază decât cele dinainte.
+{22:16} Au ajuns la Balaam şi i-au zis: „Aşa vorbeşte Balac, fiul lui Ţipor: ‘Nu mai pune piedici şi vino la mine,
+{22:17} căci îţi voi da multă cinste şi voi face tot ce-mi vei spune; numai vino, te rog, şi blestemă-mi poporul acesta!’”
+{22:18} Balaam a răspuns şi a zis slujitorilor lui Balac: „Să-mi dea Balac chiar şi casa lui plină de argint şi de aur, şi tot n-aş putea să fac niciun lucru, fie mic, fie mare, împotriva poruncii Domnului, Dumnezeului meu.
+{22:19} Totuşi, vă rog, rămâneţi aici la noapte, şi voi vedea ce-mi va mai spune Domnul.”
+{22:20} Dumnezeu a venit la Balaam în timpul nopţii şi i-a zis: „Fiindcă oamenii aceştia au venit să te cheme, scoală-te şi du-te cu ei, dar să faci numai ce-ţi voi spune.”
+{22:21} Balaam s-a sculat dimineaţa, a pus şaua pe măgăriţă şi a plecat cu căpeteniile lui Moab.
+{22:22} Dumnezeu S-a aprins de mânie pentru că plecase. Şi Îngerul Domnului S-a aşezat în drum, ca să i se împotrivească. Balaam era călare pe măgăriţa lui şi cei doi slujitori ai lui erau cu el.
+{22:23} Măgăriţa a văzut pe Îngerul Domnului stând în drum, cu sabia scoasă din teacă în mână, s-a abătut din drum şi a luat-o pe câmp. Balaam şi-a bătut măgăriţa ca s-o aducă la drum.
+{22:24} Îngerul Domnului S-a aşezat într-o cărare dintre vii şi de fiecare parte a cărării era câte un zid.
+{22:25} Măgăriţa a văzut pe Îngerul Domnului, s-a strâns spre zid şi a strâns piciorul lui Balaam de zid. Balaam a bătut-o din nou.
+{22:26} Îngerul Domnului a trecut mai departe şi S-a aşezat într-un loc unde nu era chip să te întorci nici la dreapta, nici la stânga.
+{22:27} Măgăriţa a văzut pe Îngerul Domnului şi s-a culcat sub Balaam. Balaam s-a aprins de mânie şi a bătut măgăriţa cu un băţ.
+{22:28} Domnul a deschis gura măgăriţei şi ea a zis lui Balaam: „Ce ţi-am făcut, de m-ai bătut de trei ori?”
+{22:29} Balaam a răspuns măgăriţei: „Pentru că ţi-ai bătut joc de mine; dacă aş avea o sabie în mână, te-aş ucide pe loc.”
+{22:30} Măgăriţa a zis lui Balaam: „Nu sunt eu oare măgăriţa ta, pe care ai călărit în tot timpul până în ziua de azi? Am eu oare obicei să-ţi fac aşa?” Şi el a răspuns: „Nu.”
+{22:31} Domnul a deschis ochii lui Balaam, şi Balaam a văzut pe Îngerul Domnului stând în drum, cu sabia scoasă în mână. Şi s-a plecat şi s-a aruncat cu faţa la pământ.
+{22:32} Îngerul Domnului i-a zis: „Pentru ce ţi-ai bătut măgăriţa de trei ori? Iată, Eu am ieşit ca să-ţi stau împotrivă, căci drumul pe care mergi este un drum care duce la pierzare înaintea Mea.
+{22:33} Măgăriţa M-a văzut şi s-a abătut de trei ori dinaintea Mea; dacă nu s-ar fi abătut dinaintea Mea, pe tine te-aş fi omorât, iar pe ea aş fi lăsat-o vie.”
+{22:34} Balaam a zis Îngerului Domnului: „Am păcătuit, căci nu ştiam că Te-ai aşezat înaintea mea în drum, şi acum, dacă nu găseşti că e bine ce fac eu, mă voi întoarce.”
+{22:35} Îngerul Domnului a zis lui Balaam: „Du-te cu oamenii aceştia, dar să spui numai cuvintele pe care ţi le voi spune Eu.” Şi Balaam a plecat înainte cu căpeteniile lui Balac.
+{i22:36} Întâmpinarea lui Balaam
+{22:36} Balac a auzit că vine Balaam şi i-a ieşit înainte până la cetatea Moabului, care este la hotarul Arnonului, la hotarul cel mai depărtat.
+{22:37} Balac a zis lui Balaam: „N-am trimis eu oare la tine să te cheme? Pentru ce n-ai venit la mine? Cum, nu pot eu oare să-ţi dau cinste?”
+{22:38} Balaam a răspuns lui Balac: „Iată că am venit la tine. Acum îmi va fi oare îngăduit să spun ceva? Voi spune cuvintele pe care mi le va pune Dumnezeu în gură.”
+{22:39} Balaam a mers cu Balac şi au ajuns la Chiriat-Huţot.
+{22:40} Balac a jertfit boi şi oi şi a trimis din ei lui Balaam şi căpeteniilor care erau cu el.
+{22:41} Dimineaţa, Balac a luat pe Balaam şi l-a suit pe Bamot-Baal, de unde Balaam putea să vadă o parte din popor.
+{i23:1} Balaam binecuvântează
+{23:1} Balaam a zis lui Balac: „Zideşte-mi aici şapte altare şi pregăteşte-mi aici şapte viţei şi şapte berbeci.”
+{23:2} Balac a făcut cum spusese Balaam, şi Balac şi Balaam au adus câte un viţel şi câte un berbec pe fiecare altar.
+{23:3} Balaam a zis lui Balac: „Stai lângă arderea ta de tot, şi eu mă voi depărta de ea; poate că Domnul îmi va ieşi înainte şi ce-mi va descoperi îţi voi spune.” Şi s-a dus pe un loc înalt.
+{23:4} Dumnezeu a venit înaintea lui Balaam şi Balaam I-a zis: „Am ridicat şapte altare şi, pe fiecare altar, am adus câte un viţel şi câte un berbec.”
+{23:5} Domnul a pus cuvinte în gura lui Balaam şi a zis: „Întoarce-te la Balac şi aşa să-i vorbeşti.”
+{23:6} Balaam s-a întors la Balac şi iată că Balac stătea lângă arderea lui de tot, el şi toate căpeteniile Moabului.
+{23:7} Balaam şi-a rostit prorocia şi a zis: „Balac m-a adus din Aram (Mesopotamia). Împăratul Moabului m-a chemat din Munţii Răsăritului, zicând: ‘Vino şi blestemă-mi pe Iacov! Vino şi defăimează-mi pe Israel!’
+{23:8} Cum să blestem eu pe cel ce nu-l blestemă Dumnezeu? Cum să defăimez eu pe cel pe care nu-l defăimează Domnul?
+{23:9} Îl văd din vârful stâncilor, Îl privesc de pe înălţimea dealurilor: Este un popor care locuieşte deoparte Şi nu face parte dintre neamuri.
+{23:10} Cine poate să numere pulberea lui Iacov Şi să spună numărul unui sfert din Israel? O, de aş muri de moartea celor neprihăniţi Şi sfârşitul meu să fie ca al lor!”
+{i23:11} Balaam binecuvântează a doua oară
+{23:11} Balac a zis lui Balaam: „Ce mi-ai făcut? Te-am luat să blestemi pe vrăjmaşul meu, şi iată că tu-l binecuvântezi!”
+{23:12} El a răspuns şi a zis: „Nu trebuie oare să spun ce-mi pune Domnul în gură?”
+{23:13} Balac i-a zis: „Vino, te rog, cu mine în alt loc, de unde îl poţi vedea, căci aici nu vezi decât o parte din el, nu-l vezi întreg. Şi de acolo să mi-l blestemi.”
+{23:14} L-a dus în câmpul Ţofim, spre vârful muntelui Pisga, a zidit şapte altare şi a adus câte un viţel şi un berbec pe fiecare altar.
+{23:15} Balaam a zis lui Balac: „Stai aici, lângă arderea ta de tot, şi eu mă voi duce înaintea lui Dumnezeu.”
+{23:16} Domnul a venit înaintea lui Balaam, i-a pus cuvinte în gură şi a zis: „Întoarce-te la Balac şi aşa să-i vorbeşti.”
+{23:17} Balaam s-a întors la el, şi iată că Balac stătea lângă arderea lui de tot, cu căpeteniile Moabului. Balac i-a zis: „Ce ţi-a spus Domnul?”
+{23:18} Balaam şi-a rostit prorocia şi a zis: „Scoală-te, Balac, şi ascultă! Ia aminte la mine, fiul lui Ţipor!
+{23:19} Dumnezeu nu este un om, ca să mintă, Nici un fiu al omului, ca să-I pară rău. Ce a spus, oare nu va face? Ce a făgăduit, oare nu va împlini?
+{23:20} Iată că am primit poruncă să binecuvântez. Da, El a binecuvântat, şi eu nu pot întoarce.
+{23:21} El nu vede nicio fărădelege în Iacov, Nu vede nicio răutate în Israel. Domnul, Dumnezeul lui, este cu el, El este Împăratul lui, veselia lui.
+{23:22} Dumnezeu i-a scos din Egipt, Tăria Lui este pentru el ca a bivolului.
+{23:23} Descântecul nu poate face nimic împotriva lui Iacov, Nici vrăjitoria împotriva lui Israel. Acum se poate spune despre Iacov şi Israel: ‘Ce lucruri mari a făcut Dumnezeu!’
+{23:24} Da, poporul acesta se scoală ca o leoaică Şi se ridică întocmai ca un leu. Nu se culcă până ce n-a mâncat prada Şi n-a băut sângele celor ucişi.”
+{i23:25} Balaam proroceşte iarăşi bine
+{23:25} Balac a zis lui Balaam: „Nu-l blestema, dar măcar nici nu-l binecuvânta!”
+{23:26} Balaam a răspuns şi a zis lui Balac: „Nu ţi-am spus că voi face tot ce va spune Domnul?”
+{23:27} Balac a zis lui Balaam: „Vino, te rog, te voi duce într-un alt loc; poate că Dumnezeu va găsi cu cale să-mi blestemi de acolo pe poporul acesta!”
+{23:28} Balac a dus pe Balaam pe vârful muntelui Peor, care este cu faţa spre pustie.
+{23:29} Balaam a zis lui Balac: „Zideşte-mi aici şapte altare şi pregăteşte-mi aici şapte viţei şi şapte berbeci!”
+{23:30} Balac a făcut cum zisese Balaam şi a adus câte un viţel şi câte un berbec pe fiecare altar.
+{24:1} Balaam a văzut că Domnul găseşte cu cale să binecuvânteze pe Israel şi n-a mai alergat ca în celelalte rânduri la descântece, ci şi-a întors faţa spre pustie.
+{24:2} Balaam a ridicat ochii şi a văzut pe Israel tăbărât în corturi, după seminţiile lui. Atunci, Duhul lui Dumnezeu a venit peste el.
+{24:3} Balaam şi-a rostit prorocia şi a zis: „Iată ce zice Balaam, fiul lui Beor, Omul cu ochii deschişi,
+{24:4} Cel ce aude cuvintele lui Dumnezeu, Cel ce vede vedenia Celui Atotputernic, Cel ce cade cu faţa la pământ şi ai cărui ochi sunt deschişi:
+{24:5} ‘Ce frumoase sunt corturile tale, Iacove! Locuinţele tale, Israele!
+{24:6} Ele se întind ca nişte văi, Ca nişte grădini lângă un râu, Ca nişte copaci de aloe pe care i-a sădit Domnul, Ca nişte cedri pe lângă ape.
+{24:7} Apa curge din găleţile lui Şi sămânţa lui este udată de ape mari. Împăratul lui se înalţă mai presus de Agag Şi împărăţia lui ajunge puternică.
+{24:8} Dumnezeu l-a scos din Egipt, Tăria lui este ca a bivolului pentru el. El nimiceşte neamurile care se ridică împotriva lui, Le sfărâmă oasele şi le prăpădeşte cu săgeţile lui.
+{24:9} Îndoaie genunchii, se culcă întocmai ca un leu, Ca o leoaică. Cine-l va scula? Binecuvântat să fie oricine te va binecuvânta, Şi blestemat să fie oricine te va blestema!’”
+{24:10} Balac s-a aprins de mânie împotriva lui Balaam, a bătut din mâini şi a zis lui Balaam: „Eu te-am chemat să-mi blestemi vrăjmaşii, şi iată că de trei ori tu i-ai binecuvântat!
+{24:11} Fugi acum şi du-te acasă! Spusesem că-ţi voi da cinste, dar Domnul te-a împiedicat s-o primeşti.”
+{24:12} Balaam a răspuns lui Balac: „Eh! N-am spus eu oare solilor pe care mi i-ai trimis
+{24:13} că, dacă mi-ar da Balac chiar şi casa lui plină cu argint şi cu aur, tot n-aş putea să fac de la mine însumi nici bine, nici rău împotriva poruncii Domnului, ci voi spune întocmai ce va zice Domnul?
+{24:14} Şi acum, iată că mă duc la poporul meu. Vino, şi-ţi voi vesti ce va face poporul acesta poporului tău în vremile care vor urma.”
+{i24:15} Steaua din Iacov
+{24:15} Balaam şi-a rostit prorocia şi a zis: „Aşa zice Balaam, fiul lui Beor, Aşa zice omul care are ochii deschişi,
+{24:16} Aşa zice cel ce aude cuvintele lui Dumnezeu, Cel ce cunoaşte planurile Celui Preaînalt, Cel ce vede vedenia Celui Atotputernic, Cel ce cade cu faţa la pământ şi ai cărui ochi sunt deschişi:
+{24:17} ‘Îl văd, dar nu acum, Îl privesc, dar nu de aproape. O stea răsare din Iacov, Un toiag de cârmuire se ridică din Israel. El străpunge laturile Moabului Şi prăpădeşte pe toţi copiii lui Set.
+{24:18} Se face stăpân pe Edom, Se face stăpân pe Seir, vrăjmaşii lui. Israel face fapte mari.
+{24:19} Cel ce se naşte din Iacov domneşte ca stăpânitor Şi pierde pe cei ce scapă din cetăţi’.”
+{24:20} Balaam a văzut pe Amalec şi a rostit următoarea prorocie: „Amalec este cel dintâi dintre neamuri, Dar într-o zi va fi nimicit.”
+{24:21} Balaam a văzut pe cheniţi şi a rostit următoarea prorocie: „Locuinţa ta este tare de tot Şi cuibul tău este pus pe stâncă.
+{24:22} Dar Cain va fi pustiit, Până ce te va lua prins Asur.”
+{24:23} Balaam a rostit următoarea prorocie: „Vai! Cine va mai putea trăi când va face Dumnezeu acest lucru?
+{24:24} Dar nişte corăbii vor veni din Chitim, Vor smeri pe Asur, vor smeri pe Eber Şi la urmă vor fi nimicite şi ele.”
+{24:25} Balaam s-a sculat, a plecat şi s-a întors acasă. Balac a plecat şi el acasă.
+{i25:1} Închinarea la idoli
+{25:1} Israel locuia în Sitim şi poporul a început să se dea la curvie cu fetele lui Moab.
+{25:2} Ele au poftit poporul la jertfele dumnezeilor lor, şi poporul a mâncat şi s-a închinat până la pământ înaintea dumnezeilor lor.
+{25:3} Israel s-a alipit de Baal-Peor, şi Domnul S-a aprins de mânie împotriva lui Israel.
+{25:4} Domnul a zis lui Moise: „Strânge pe toate căpeteniile poporului şi spânzură pe cei vinovaţi înaintea Domnului în faţa soarelui, pentru ca să se întoarcă de la Israel mânia aprinsă a Domnului.”
+{25:5} Moise a zis judecătorilor lui Israel: „Fiecare din voi să ucidă pe aceia dintre ai lui care s-au lipit de Baal-Peor.”
+{25:6} Şi iată că un bărbat dintre copiii lui Israel a venit şi a adus la fraţii lui pe o madianită, sub ochii lui Moise şi sub ochii întregii adunări a copiilor lui Israel, pe când plângeau la uşa cortului întâlnirii.
+{25:7} La vederea acestui lucru, Fineas, fiul lui Eleazar, fiul preotului Aaron, s-a sculat din mijlocul adunării şi a luat o suliţă în mână.
+{25:8} S-a luat după omul acela din Israel până în cortul lui, i-a străpuns prin pântece pe amândoi: atât pe bărbatul acela din Israel, cât şi pe femeia aceea. Şi a încetat astfel urgia care izbucnise printre copiii lui Israel.
+{25:9} Douăzeci şi patru de mii au murit loviţi de urgia aceea.
+{25:10} Domnul a vorbit lui Moise şi a zis:
+{25:11} „Fineas, fiul lui Eleazar, fiul preotului Aaron, a abătut mânia Mea de la copiii lui Israel prin râvna pe care a avut-o pentru Mine în mijlocul lor, şi n-am nimicit, în mânia Mea, pe copiii lui Israel.
+{25:12} De aceea să spui că închei cu el un legământ de pace.
+{25:13} Acesta va fi pentru el şi pentru sămânţa lui după el legământul unei preoţii veşnice, pentru că a fost plin de râvnă pentru Dumnezeul lui şi a făcut ispăşire pentru copiii lui Israel.”
+{25:14} Bărbatul acela din Israel care a fost ucis împreună cu madianita se numea Zimri, fiul lui Salu; el era căpetenia unei case părinteşti a simeoniţilor.
+{25:15} Femeia care a fost ucisă se numea Cozbi, fata lui Ţur, căpetenia seminţiilor ieşite dintr-o casă părintească din Madian.
+{i25:16} Omorârea madianiţilor
+{25:16} Domnul a vorbit lui Moise şi a zis:
+{25:17} „Priviţi-i pe madianiţi ca vrăjmaşi şi ucideţi-i,
+{25:18} căci şi ei vi s-au arătat vrăjmaşi, amăgindu-vă prin vicleşugurile lor, în fapta lui Peor şi în fapta Cozbiei, fata unei căpetenii a lui Madian, sora lor, ucisă în ziua urgiei care a avut loc cu prilejul faptei lui Peor.”
+{i26:1} A doua numărătoare
+{26:1} În urma acestei urgii, Domnul a zis lui Moise şi lui Eleazar, fiul preotului Aaron:
+{26:2} „Faceţi numărătoarea întregii adunări a copiilor lui Israel, de la vârsta de douăzeci de ani în sus, după casele părinţilor lor, a tuturor celor din Israel care sunt în stare să poarte armele.”
+{26:3} Moise şi preotul Eleazar le-au vorbit în câmpia Moabului, lângă Iordan, în faţa Ierihonului. Şi au zis:
+{26:4} „Să se facă numărătoarea, de la vârsta de douăzeci de ani în sus, cum poruncise lui Moise şi copiilor lui Israel Domnul, când au ieşit din ţara Egiptului.”
+{26:5} Ruben, întâiul născut al lui Israel. Fiii lui Ruben au fost: Enoh, din care se coboară familia enohiţilor; Palu, din care se coboară familia paluiţilor;
+{26:6} Heţron, din care se coboară familia heţroniţilor; Carmi, din care se coboară familia carmiţilor.
+{26:7} Acestea sunt familiile rubeniţilor: cei ieşiţi la numărătoare au fost patruzeci şi trei de mii şapte sute treizeci.
+{26:8} Fiii lui Palu au fost: Eliab.
+{26:9} Fiii lui Eliab au fost: Nemuel, Datan şi Abiram. Datan acesta şi Abiram acesta au fost din cei ce erau chemaţi la adunare şi care s-au răsculat împotriva lui Moise şi Aaron, în adunarea lui Core, când cu răscoala lor împotriva Domnului.
+{26:10} Pământul şi-a deschis gura şi i-a înghiţit împreună cu Core, când au murit cei ce se adunaseră şi când a mistuit focul pe cei două sute cincizeci de oameni. Ei au slujit poporului ca pildă.
+{26:11} Fiii lui Core n-au murit.
+{26:12} Fiii lui Simeon, după familiile lor: din Nemuel se coboară familia nemueliţilor; din Iamin, familia iaminiţilor; din Iachin, familia iachiniţilor;
+{26:13} din Zerah, familia zerahiţilor; din Saul, familia sauliţilor.
+{26:14} Acestea sunt familiile simeoniţilor: douăzeci şi două de mii două sute.
+{26:15} Fiii lui Gad după familiile lor: din Ţefon se coboară familia ţefoniţilor; din Haghi, familia haghiţilor; din Şuni, familia şuniţilor;
+{26:16} din Ozni, familia ozniţilor; din Eri, familia eriţilor;
+{26:17} din Arod, familia arodiţilor; din Areli, familia areliţilor.
+{26:18} Acestea sunt familiile fiilor lui Gad, după cei ieşiţi la numărătoare: patruzeci de mii cinci sute.
+{26:19} Fiii lui Iuda: Er şi Onan; dar Er şi Onan au murit în ţara Canaanului.
+{26:20} Iată fiii lui Iuda după familiile lor: din Şela se coboară familia şelaniţilor; din Pereţ, familia pereţiţilor; din Zerah, familia zerahiţilor.
+{26:21} Fiii lui Pereţ au fost: Heţron, din care se coboară familia heţroniţilor; Hamul, din care se coboară familia hamuliţilor.
+{26:22} Acestea sunt familiile lui Iuda după numărătoarea lor: şaptezeci şi şase de mii cinci sute.
+{26:23} Fiii lui Isahar după familiile lor: din Tola se coboară familia tolaiţilor; din Puva, familia puviţilor;
+{26:24} din Iaşub, familia iaşubiţilor; din Şimron, familia şimroniţilor.
+{26:25} Acestea sunt familiile lui Isahar, după numărătoarea lor: şaizeci şi patru de mii trei sute.
+{26:26} Fiii lui Zabulon după familiile lor: din Sered se coboară familia serediţilor; din Elon, familia eloniţilor; din Iahleel, familia iahleeliţilor.
+{26:27} Acestea sunt familiile zabuloniţilor, după numărătoarea lor: şaizeci de mii cinci sute.
+{26:28} Fiii lui Iosif după familiile lor: Manase şi Efraim.
+{26:29} Fiii lui Manase: din Machir se coboară familia machiriţilor. Machir a născut pe Galaad. Din Galaad se coboară familia galaadiţilor.
+{26:30} Iată fiii lui Galaad: Iezer, din care se coboară familia iezeriţilor; Helec, familia helechiţilor;
+{26:31} Asriel, familia asrieliţilor; Sihem, familia sihemiţilor;
+{26:32} Şemida, familia şemidaiţilor; Hefer, familia heferiţilor.
+{26:33} Ţelofhad, fiul lui Hefer, n-a avut fii, dar a avut fete. Iată numele fetelor lui Ţelofhad: Mahla, Noa, Hogla, Milca şi Tirţa.
+{26:34} Acestea sunt familiile lui Manase după numărătoarea lor: cincizeci şi două de mii şapte sute.
+{26:35} Iată fiii lui Efraim după familiile lor: din Şutelah se coboară familia şutelahiţilor; din Becher, familia becheriţilor; din Tahan, familia tahaniţilor.
+{26:36} Iată fiii lui Şutelah: din Eran se coboară familia eraniţilor.
+{26:37} Acestea sunt familiile fiilor lui Efraim după numărătoarea lor: treizeci şi două de mii cinci sute. Aceştia sunt fiii lui Iosif după familiile lor.
+{26:38} Fiii lui Beniamin după familiile lor: din Bela se coboară familia belaiţilor; din Aşbel, familia aşbeliţilor; din Ahiram, familia ahiramiţilor;
+{26:39} din Şufam, familia şufamiţilor; din Hufam, familia hufamiţilor.
+{26:40} Fiii lui Bela au fost: Ard şi Naaman. Din Ard se coboară familia ardiţilor; din Naaman, familia naamaniţilor.
+{26:41} Aceştia sunt fiii lui Beniamin după familiile lor şi după numărătoarea lor: patruzeci şi cinci de mii şase sute.
+{26:42} Iată fiii lui Dan după familiile lor: din Şuham se coboară familia şuhamiţilor. Acestea sunt familiile lui Dan după familiile lor.
+{26:43} Toate familiile şuhamiţilor, după numărătoarea lor: şaizeci şi patru de mii patru sute.
+{26:44} Fiii lui Aşer după familiile lor: din Imna se coboară familia imniţilor; din Işvi, familia işviţilor; din Beria, familia beriiţilor.
+{26:45} Din fiii lui Beria se coboară: din Heber, familia heberiţilor; din Malchiel, familia malchieliţilor.
+{26:46} Numele fetei lui Aşer era Serah.
+{26:47} Acestea sunt familiile fiilor lui Aşer, după numărătoarea lor: cincizeci şi trei de mii patru sute.
+{26:48} Fiii lui Neftali după familiile lor: din Iahţeel se coboară familia iahţeeliţilor; din Guni, familia guniţilor;
+{26:49} din Ieţer, familia ieţeriţilor; din Şilem, familia şilemiţilor.
+{26:50} Acestea sunt familiile lui Neftali după familiile lor şi după numărătoarea lor: patruzeci şi cinci de mii patru sute.
+{26:51} Aceştia sunt cei ieşiţi la numărătoare dintre copiii lui Israel: şase sute una de mii şapte sute treizeci.
+{26:52} Domnul a vorbit lui Moise şi i-a zis:
+{26:53} „Ţara să se împartă între ei, ca să fie moştenirea lor, după numărul numelor.
+{26:54} Celor ce sunt în număr mai mare să le dai o parte mai mare, şi celor ce sunt în număr mai mic să le dai o parte mai mică; să se dea fiecăruia partea lui după cei ieşiţi la numărătoare.
+{26:55} Dar împărţirea ţării să se facă prin sorţi; s-o ia în stăpânire după numele seminţiilor părinţilor lor.
+{26:56} Ţara să fie împărţită prin sorţi între cei ce sunt în mare număr şi între cei ce sunt în mic număr.”
+{i26:57} Numărătoarea leviţilor
+{26:57} Iată leviţii a căror numărătoare s-a făcut după familiile lor: din Gherşon se coboară familia gherşoniţilor; din Chehat, familia chehatiţilor; din Merari, familia merariţilor.
+{26:58} Iată familiile lui Levi: familia libniţilor, familia hebroniţilor, familia mahliţilor, familia muşiţilor, familia coriţilor. Chehat a născut pe Amram.
+{26:59} Numele nevestei lui Amram era Iochebed, fata lui Levi, care i s-a născut lui Levi în Egipt; ea a născut lui Amram pe Aaron, pe Moise şi pe Maria, sora lor.
+{26:60} Lui Aaron i s-au născut: Nadab şi Abihu, Eleazar şi Itamar.
+{26:61} Nadab şi Abihu au murit când au adus înaintea Domnului foc străin.
+{26:62} Cei ieşiţi la numărătoare, toţi bărbaţii de la vârsta de o lună în sus, au fost de douăzeci şi trei de mii. Ei n-au fost cuprinşi în numărătoarea copiilor lui Israel, pentru că nu li s-a dat moştenire în mijlocul copiilor lui Israel.
+{26:63} Aceştia sunt aceia dintre copiii lui Israel a căror numărătoare au făcut-o Moise şi preotul Eleazar în câmpia Moabului, lângă Iordan, în faţa Ierihonului.
+{26:64} Între ei, nu era niciunul din copiii lui Israel a căror numărătoare o făcuse Moise şi preotul Aaron în pustia Sinai.
+{26:65} Căci Domnul zisese: „Vor muri în pustie şi nu va rămâne niciunul din ei, afară de Caleb, fiul lui Iefune, şi Iosua, fiul lui Nun.”
+{i27:1} Legea asupra moştenirilor
+{27:1} Fetele lui Ţelofhad, fiul lui Hefer, fiul lui Galaad, fiul lui Machir, fiul lui Manase, din familiile lui Manase, fiul lui Iosif, şi ale căror nume erau: Mahla, Noa, Hogla, Milca şi Tirţa,
+{27:2} s-au apropiat şi s-au înfăţişat înaintea lui Moise, înaintea preotului Eleazar, înaintea mai-marilor şi înaintea întregii adunări, la uşa cortului întâlnirii. Ele au zis:
+{27:3} „Tatăl nostru a murit în pustie; el nu era în mijlocul cetei celor ce s-au răzvrătit împotriva Domnului, în mijlocul cetei lui Core, ci a murit pentru păcatul lui şi n-a avut fii.
+{27:4} Pentru ce să se stingă numele tatălui nostru din mijlocul familiei lui, pentru că n-a avut fii? Dă-ne şi nouă deci o moştenire între fraţii tatălui nostru.”
+{27:5} Moise a adus pricina lor înaintea Domnului.
+{27:6} Şi Domnul a zis lui Moise:
+{27:7} „Fetele lui Ţelofhad au dreptate. Să le dai de moştenire o moşie între fraţii tatălui lor şi să treci asupra lor moştenirea tatălui lor.
+{27:8} Iar copiilor lui Israel să le vorbeşti şi să le spui: Când un om va muri fără să lase fii, să treceţi moştenirea lui asupra fetei lui.
+{27:9} Dacă n-are nicio fată, moştenirea lui s-o daţi fraţilor lui.
+{27:10} Dacă n-are nici fraţi, moştenirea lui s-o daţi fraţilor tatălui său.
+{27:11} Şi, dacă nici tatăl lui n-are fraţi, moştenirea lui s-o daţi rudei celei mai apropiate din familia lui şi ea s-o stăpânească. Aceasta să fie o lege şi un drept pentru copiii lui Israel, cum a poruncit lui Moise Domnul.”
+{i27:12} Iosua, urmaş lui Moise
+{27:12} Domnul a zis lui Moise: „Suie-te pe muntele acesta Abarim şi priveşte ţara pe care am dat-o copiilor lui Israel.
+{27:13} S-o priveşti, dar şi tu vei fi adăugat la poporul tău, cum a fost adăugat fratele tău Aaron,
+{27:14} pentru că v-aţi împotrivit poruncii Mele în pustia Ţin, când cu cearta adunării, şi nu M-aţi sfinţit înaintea lor cu prilejul apelor.” (Acestea sunt apele de ceartă, la Cades, în pustia Ţin.)
+{27:15} Moise a vorbit Domnului şi a zis:
+{27:16} „Domnul, Dumnezeul duhurilor oricărui trup, să rânduiască peste adunare un om
+{27:17} care să iasă înaintea lor şi să intre înaintea lor, care să-i scoată afară şi să-i vâre înăuntru, pentru ca adunarea Domnului să nu fie ca nişte oi care n-au păstor.”
+{27:18} Domnul a zis lui Moise: „Ia-ţi pe Iosua, fiul lui Nun, bărbat în care este Duhul Meu, şi să-ţi pui mâna peste el.
+{27:19} Să-l aşezi înaintea preotului Eleazar şi înaintea întregii adunări şi să-i dai porunci sub ochii lor.
+{27:20} Să-l faci părtaş la dregătoria ta, pentru ca toată adunarea copiilor lui Israel să-l asculte.
+{27:21} Să se înfăţişeze înaintea preotului Eleazar, care să întrebe pentru el judecata lui Urim înaintea Domnului, şi Iosua, toţi copiii lui Israel, împreună cu el, şi toată adunarea să iasă după porunca lui Eleazar şi să intre după porunca lui.”
+{27:22} Moise a făcut cum îi poruncise Domnul. A luat pe Iosua şi l-a pus înaintea preotului Eleazar şi înaintea întregii adunări.
+{27:23} Şi-a pus mâinile peste el şi i-a dat porunci, cum spusese Domnul prin Moise.
+{i28:1} Jertfa zilnică
+{28:1} Domnul a vorbit lui Moise şi a zis:
+{28:2} „Porunceşte copiilor lui Israel şi spune-le: ‘Să aveţi grijă să-Mi aduceţi, la vremea hotărâtă, darul Meu de mâncare, hrana jertfelor Mele mistuite de foc, care Îmi sunt de un plăcut miros.’
+{28:3} Să le spui: ‘Iată jertfa mistuită de foc pe care o veţi aduce Domnului: în fiecare zi, câte doi miei de un an fără cusur, ca ardere-de-tot necurmată.
+{28:4} Să aduci un miel dimineaţa şi celălalt miel seara,
+{28:5} iar ca dar de mâncare, să aduci a zecea parte dintr-o efă de floarea făinii, frământată într-un sfert de hin de untdelemn de măsline sfărâmate.
+{28:6} Aceasta este arderea-de-tot necurmată, care a fost adusă la muntele Sinai; o jertfă mistuită de foc de un miros plăcut Domnului.
+{28:7} Jertfa de băutură să fie de un sfert de hin pentru fiecare miel; jertfa de băutură de vin s-o faci Domnului în Locul Sfânt.
+{28:8} Al doilea miel să-l aduci seara, ca un dar de mâncare şi o jertfă de băutură ca cele de dimineaţă; aceasta este o jertfă mistuită prin foc, de un miros plăcut Domnului.
+{i28:9} Jertfele de Sabat şi de lună nouă
+{28:9} În ziua Sabatului, să aduceţi doi miei de un an, fără cusur, şi ca dar de mâncare, două zecimi de efă din floarea făinii, frământată cu untdelemn, împreună cu jertfa de băutură.
+{28:10} Aceasta este arderea-de-tot pentru fiecare zi de Sabat, afară de arderea-de-tot necurmată şi jertfa ei de băutură.
+{28:11} La începutul lunilor voastre, să aduceţi, ca ardere-de-tot Domnului, doi viţei, un berbec şi şapte miei de un an fără cusur
+{28:12} şi, ca dar de mâncare pentru fiecare viţel, trei zecimi de efă din floarea făinii, frământată cu untdelemn; ca dar de mâncare pentru berbec, să aduceţi două zecimi de efă din floarea făinii, frământată cu untdelemn;
+{28:13} ca dar de mâncare pentru fiecare miel, să aduceţi o zecime de efă din floarea făinii, frământată cu untdelemn. Aceasta este o ardere-de-tot, o jertfă mistuită de foc de un miros plăcut Domnului.
+{28:14} Jertfele de băutură să fie de o jumătate de hin de vin pentru un viţel, a treia parte dintr-un hin pentru un berbec şi un sfert de hin pentru un miel. Aceasta este arderea-de-tot pentru începutul lunii, în fiecare lună, în toate lunile anului.
+{28:15} Să se aducă Domnului un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată şi jertfa ei de băutură.
+{i28:16} Jertfele de Paşte
+{28:16} În luna întâi, în ziua a paisprezecea a lunii, vor fi Paştele Domnului.
+{28:17} Ziua a cincisprezecea a acestei luni să fie o zi de sărbătoare. Timp de şapte zile să se mănânce azimi.
+{28:18} În ziua dintâi, să fie o adunare sfântă: să nu faceţi nicio lucrare de slugă în ea.
+{28:19} Să aduceţi ca ardere-de-tot Domnului o jertfă mistuită de foc: doi viţei, un berbec şi şapte miei de un an fără cusur.
+{28:20} Să mai adăugaţi şi darul lor de mâncare din floarea făinii, frământată cu untdelemn, trei zecimi de efă pentru un viţel, două zecimi pentru un berbec
+{28:21} şi o zecime pentru fiecare din cei şapte miei.
+{28:22} Să aduceţi un ţap ca jertfă de ispăşire, ca să facă ispăşire pentru voi.
+{28:23} Să aduceţi aceste jertfe, afară de arderea-de-tot de dimineaţă, care este o ardere-de-tot necurmată.
+{28:24} să le aduceţi în fiecare zi, timp de şapte zile, ca hrana unei jertfe mistuite de foc, de un miros plăcut Domnului. Să fie aduse afară de arderea-de-tot necurmată şi jertfa ei de băutură.
+{28:25} În ziua a şaptea să aveţi o adunare sfântă: să nu faceţi nicio lucrare de slugă în ea.
+{i28:26} Jertfele de Rusalii
+{28:26} În ziua celor dintâi roade, când veţi aduce Domnului un dar de mâncare, la sărbătoarea încheierii săptămânilor (Cincizecimea), să aveţi o adunare sfântă; să nu faceţi nicio lucrare de slugă în ea.
+{28:27} Să aduceţi ca ardere-de-tot de un miros plăcut Domnului: doi viţei, un berbec şi şapte miei de un an.
+{28:28} Să mai adăugaţi darul lor de mâncare din floarea făinii, frământată cu untdelemn, câte trei zecimi de fiecare viţel, două zecimi pentru berbec
+{28:29} şi o zecime pentru fiecare din cei şapte miei.
+{28:30} Să aduceţi şi un ţap, ca să facă ispăşire pentru voi.
+{28:31} Să aduceţi aceste jertfe, afară de arderea-de-tot necurmată şi darul ei de mâncare. Mieii să fie fără cusur şi să adăugaţi şi jertfele lor de băutură.
+{i29:1} Jertfe în Ziua Trâmbiţei
+{29:1} În luna a şaptea, în cea dintâi zi a lunii, să aveţi o adunare sfântă: atunci să nu faceţi nicio lucrare de slugă. Ziua aceasta să fie vestită între voi cu sunet de trâmbiţă.
+{29:2} Să aduceţi ca ardere-de-tot de un miros plăcut Domnului un viţel, un berbec şi şapte miei de un an fără cusur.
+{29:3} Să mai adăugaţi şi darul lor de mâncare din floarea făinii, frământată cu untdelemn, trei zecimi pentru viţel, două zecimi pentru berbec
+{29:4} şi o zecime pentru fiecare din cei şapte miei.
+{29:5} Să aduceţi şi un ţap ca jertfă de ispăşire, ca să facă ispăşire pentru voi.
+{29:6} Să aduceţi aceste jertfe, afară de arderea-de-tot şi darul ei de mâncare din fiecare lună, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfele de băutură, care se adaugă la ele, după rânduielile aşezate. Acestea sunt nişte jertfe mistuite de foc, de un miros plăcut Domnului.
+{i29:7} Jertfe pentru Ziua Împăcării
+{29:7} În ziua a zecea a acestei luni a şaptea, să aveţi o adunare sfântă şi să vă smeriţi sufletele; atunci să nu faceţi nicio lucrare.
+{29:8} Să aduceţi ca ardere-de-tot de un miros plăcut Domnului, un viţel, un berbec şi şapte miei de un an fără cusur.
+{29:9} Să mai adăugaţi şi darul lor de mâncare din floarea făinii, frământată cu untdelemn, trei zecimi pentru viţel, două zecimi pentru berbec
+{29:10} şi o zecime pentru fiecare din cei şapte miei.
+{29:11} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de jertfa de ispăşire, afară de arderea-de-tot necurmată cu darul ei de mâncare şi jertfele de băutură obişnuite.
+{i29:12} Jertfele pentru Sărbătoarea Colibelor
+{29:12} În ziua a cincisprezecea a lunii a şaptea, să aveţi o adunare sfântă; atunci să nu faceţi nicio lucrare de slugă. Să prăznuiţi o sărbătoare în cinstea Domnului timp de şapte zile.
+{29:13} Să aduceţi, ca ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului: treisprezece viţei, doi berbeci şi paisprezece miei de un an fără cusur.
+{29:14} Să mai adăugaţi şi darul lor de mâncare din floarea făinii, frământată cu untdelemn, trei zecimi pentru fiecare din cei treisprezece viţei, două zecimi pentru fiecare din cei doi berbeci
+{29:15} şi o zecime pentru fiecare din cei paisprezece miei.
+{29:16} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa sa de băutură.
+{29:17} A doua zi, să aduceţi doisprezece viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:18} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:19} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfele de băutură.
+{29:20} A treia zi, să aduceţi unsprezece viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:21} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:22} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa de băutură.
+{29:23} A patra zi, să aduceţi zece viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:24} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:25} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa de băutură.
+{29:26} În ziua a cincea, să aduceţi nouă viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:27} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:28} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa de băutură.
+{29:29} În ziua a şasea, să aduceţi opt viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:30} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:31} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfele de băutură.
+{29:32} În ziua a şaptea, să aduceţi şapte viţei, doi berbeci şi paisprezece miei de un an fără cusur,
+{29:33} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţei, berbeci şi miei, după numărul lor, după rânduielile aşezate.
+{29:34} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa de băutură.
+{29:35} În ziua a opta, să aveţi o adunare de sărbătoare; atunci să nu faceţi nicio lucrare de slugă.
+{29:36} Să aduceţi ca ardere-de-tot o jertfă mistuită de foc, de un miros plăcut Domnului: un viţel, un berbec şi şapte miei de un an, fără cusur,
+{29:37} împreună cu darul lor de mâncare şi jertfele lor de băutură pentru viţel, berbec şi miei, după numărul lor, după rânduielile aşezate.
+{29:38} Să aduceţi şi un ţap ca jertfă de ispăşire, afară de arderea-de-tot necurmată, darul ei de mâncare şi jertfa de băutură.
+{29:39} Acestea sunt jertfele pe care să le aduceţi Domnului la sărbătorile voastre, afară de arderile voastre de tot, de darurile voastre de mâncare, de jertfele voastre de băutură şi de jertfele voastre de mulţumire, ca împlinire a unei juruinţe sau ca daruri de bunăvoie.”
+{29:40} Moise a spus copiilor lui Israel tot ce-i poruncise Domnul.
+{i30:1} Lege asupra juruinţelor
+{30:1} Moise a vorbit căpeteniilor seminţiilor copiilor lui Israel şi a zis: „Iată ce porunceşte Domnul.
+{30:2} Când un om va face o juruinţă Domnului sau un jurământ prin care se va lega printr-o făgăduială, să nu-şi calce cuvântul, ci să facă potrivit cu tot ce i-a ieşit din gură.
+{i30:3} Juruinţa femeilor
+{30:3} Când o femeie va face o juruinţă Domnului şi se va lega printr-o făgăduială în tinereţea ei şi în casa tatălui ei
+{30:4} şi tatăl ei va afla de juruinţa pe care a făcut-o ea şi de făgăduiala cu care s-a legat, dacă nu-i zice nimic în ziua când află de juruinţa ei, toate juruinţele ei vor fi primite şi orice făgăduială cu care s-a legat ea va fi primită,
+{30:5} dar, dacă tatăl ei nu-i dă voie în ziua când ia cunoştinţă de juruinţa ei, toate juruinţele ei şi toate făgăduielile cu care se va fi legat ea nu vor avea nicio tărie, şi Domnul o va ierta, pentru că nu i-a dat voie tatăl ei.
+{30:6} Când se va mărita, după ce a făcut juruinţe sau după ce s-a legat printr-un cuvânt ieşit de pe buzele ei
+{30:7} şi bărbatul ei va lua cunoştinţă de lucrul acesta şi nu-i va zice nimic în ziua când va lua cunoştinţă de ele, juruinţele ei vor rămâne în picioare şi făgăduielile cu care se va fi legat ea vor rămâne în picioare,
+{30:8} dar, dacă bărbatul ei nu-i dă voie în ziua când ia cunoştinţă de juruinţa ei, el va desfiinţa juruinţa pe care a făcut-o şi cuvântul scăpat de pe buzele ei, cu care s-a legat ea, şi Domnul o va ierta.
+{30:9} Juruinţa unei femei văduve sau despărţite de bărbat, făgăduinţa cu care se va fi legat ea, va rămâne în picioare pentru ea.
+{30:10} Când o femeie, fiind încă în casa bărbatului ei, va face juruinţe sau se va lega cu vreun jurământ
+{30:11} şi bărbatul ei va afla de lucrul acesta, dacă nu-i zice nimic şi n-o opreşte, toate juruinţele ei vor rămâne în picioare şi toate făgăduinţele prin care se va fi legat ea vor rămâne în picioare,
+{30:12} dar, dacă bărbatul ei nu le primeşte în ziua când află de ele, orice juruinţă şi orice făgăduială ieşite de pe buzele ei nu vor avea niciun preţ, bărbatul ei nu le-a primit, şi Domnul o va ierta.
+{30:13} Bărbatul ei poate întări şi bărbatul ei poate desfiinţa orice juruinţă, orice jurământ cu care se leagă ea ca să-şi mâhnească sufletul.
+{30:14} Şi anume, dacă nu-i zice nimic zi de zi după ce află de lucrul acesta, el întăreşte astfel toate juruinţele şi toate făgăduielile cu care s-a legat ea; le întăreşte pentru că nu i-a zis nimic în ziua când a aflat de ele.
+{30:15} Dar, dacă nu le primeşte, după ce a trecut ziua în care le-a aflat va fi vinovat de păcatul nevestei lui.”
+{30:16} Acestea sunt legile pe care le-a dat lui Moise Domnul, ca să aibă putere între un bărbat şi nevasta lui, între un tată şi fata lui, când ea este în tinereţe şi acasă la tatăl ei.
+{i31:1} Biruinţa asupra madianiţilor
+{31:1} Domnul a vorbit lui Moise şi a zis:
+{31:2} „Răzbună pe copiii lui Israel împotriva madianiţilor, apoi vei fi adăugat la poporul tău.”
+{31:3} Moise a vorbit poporului şi a zis: „Înarmaţi dintre voi nişte bărbaţi pentru oştire şi să meargă împotriva Madianului, ca să aducă la îndeplinire răzbunarea Domnului împotriva Madianului.
+{31:4} Să trimiteţi la oaste câte o mie de oameni de seminţie, din toate seminţiile lui Israel.”
+{31:5} Au luat dintre miile lui Israel câte o mie de oameni de seminţie, adică douăsprezece mii de oameni înarmaţi pentru oaste.
+{31:6} Moise a trimis la oaste pe aceşti o mie de oameni de seminţie şi a trimis cu ei pe fiul preotului Eleazar, Fineas, care ducea uneltele sfinte şi trâmbiţele răsunătoare.
+{31:7} Au înaintat împotriva Madianului, după porunca pe care o dăduse lui Moise Domnul şi au omorât pe toţi bărbaţii.
+{31:8} Împreună cu toţi ceilalţi, au omorât şi pe împăraţii Madianului: Evi, Rechem, Ţur, Hur şi Reba, cei cinci împăraţi ai Madianului; au ucis cu sabia şi pe Balaam, fiul lui Beor.
+{31:9} Copiii lui Israel au luat prinse pe femeile madianiţilor cu pruncii lor şi le-au jefuit toate vitele, toate turmele şi toate bogăţiile.
+{31:10} Le-au ars toate cetăţile pe care le locuiau şi toate ocoalele lor.
+{31:11} Au luat toată prada şi toate jafurile de oameni şi dobitoace,
+{31:12} şi pe cei prinşi, prada şi jafurile le-au adus lui Moise, preotului Eleazar şi adunării copiilor lui Israel, care erau tăbărâţi în câmpia Moabului, lângă Iordan, în faţa Ierihonului.
+{31:13} Moise, preotul Eleazar şi toţi mai-marii adunării le-au ieşit înainte, afară din tabără.
+{31:14} Şi Moise s-a mâniat pe căpeteniile oştirii, pe căpeteniile peste o mie şi pe căpeteniile peste o sută care se întorceau de la război.
+{31:15} El le-a zis: „Cum? Aţi lăsat cu viaţă pe toate femeile?
+{31:16} Iată, ele sunt acelea care, după cuvântul lui Balaam, au târât pe copiii lui Israel să păcătuiască împotriva Domnului, în fapta lui Peor, şi atunci a izbucnit urgia în adunarea Domnului.
+{31:17} Acum dar omorâţi pe orice prunc de parte bărbătească şi omorâţi pe orice femeie care a cunoscut pe un bărbat culcându-se cu el,
+{31:18} dar lăsaţi cu viaţă pentru voi toţi pruncii de parte femeiască şi pe toate fetele care n-au cunoscut împreunarea cu un bărbat.
+{i31:19} Curăţirea căpeteniilor şi ostaşilor
+{31:19} Iar voi tăbărâţi şapte zile afară din tabără; toţi aceia dintre voi care au ucis pe cineva şi toţi cei ce s-au atins de vreun mort, să se cureţe a treia şi a şaptea zi, ei şi cei prinşi de voi.
+{31:20} Să curăţiţi, de asemenea, orice haină, orice lucru de piele, orice lucru de păr de capră şi orice unealtă de lemn.”
+{31:21} Preotul Eleazar a zis ostaşilor, care se duseseră la război: „Iată ce este poruncit prin legea pe care a dat-o lui Moise Domnul.
+{31:22} Aurul, argintul, arama, fierul, cositorul şi plumbul,
+{31:23} orice lucru care poate suferi focul, să-l treceţi prin foc ca să se cureţe. Dar tot ce nu poate suferi focul să fie curăţit cu apa de curăţire; să-l treceţi prin apă.
+{31:24} Să vă spălaţi hainele în ziua a şaptea, şi veţi fi curaţi, apoi veţi putea intra în tabără.”
+{i31:25} Împărţirea prăzii
+{31:25} Domnul a zis lui Moise:
+{31:26} „Fă, împreună cu preotul Eleazar şi cu căpeteniile caselor adunării, socoteala prăzii luate, fie oameni, fie dobitoace.
+{31:27} Împarte prada între luptătorii care s-au dus la oaste şi între toată adunarea.
+{31:28} Să iei întâi din partea ostaşilor care s-au dus la oaste o dare pentru Domnul, şi anume unul din cinci sute, atât din oameni, cât şi din boi, măgari şi oi.
+{31:29} Să le iei din jumătatea cuvenită lor şi să le dai preotului Eleazar, ca un dar ridicat pentru Domnul.
+{31:30} Şi din jumătatea care se cuvine copiilor lui Israel să iei unul din cincizeci, atât din oameni, cât şi din boi, măgari şi oi, din orice dobitoc, şi să le dai leviţilor care păzesc cortul Domnului.”
+{31:31} Moise şi preotul Eleazar au făcut ce poruncise lui Moise Domnul.
+{31:32} Prada de război, rămasă din jaful celor ce făcuseră parte din oaste, era de şase sute şaptezeci şi cinci de mii de oi,
+{31:33} şaptezeci şi două de mii de boi,
+{31:34} şaizeci şi una de mii de măgari,
+{31:35} şi treizeci şi două de mii de suflete, adică femei care nu cunoscuseră împreunarea cu un bărbat.
+{31:36} Jumătatea care alcătuia partea celor ce se duseseră la oaste a fost de trei sute treizeci şi şapte de mii cinci sute de oi,
+{31:37} din care şase sute şaptezeci şi cinci au fost luaţi ca dare Domnului;
+{31:38} treizeci şi şase de mii de boi, din care şaptezeci şi doi luaţi ca dare Domnului;
+{31:39} treizeci de mii cinci sute de măgari, din care şaizeci şi unu luaţi ca dare Domnului,
+{31:40} şi şaisprezece mii de inşi, din care treizeci şi doi luaţi ca dare Domnului.
+{31:41} Moise a dat preotului Eleazar darea luată ca dar ridicat pentru Domnul după cum îi poruncise Domnul.
+{31:42} Jumătatea cuvenită copiilor lui Israel, pe care a despărţit-o Moise de a bărbaţilor care merseseră la oaste
+{31:43} şi care era partea adunării, a fost de trei sute treizeci şi şapte de mii cinci sute de oi,
+{31:44} treizeci şi şase de mii de boi,
+{31:45} treizeci de mii cinci sute de măgari
+{31:46} şi şaisprezece mii de suflete.
+{31:47} Din această jumătate care se cuvenea copiilor lui Israel, Moise a luat unul din cincizeci, atât din oameni, cât şi din dobitoace, şi le-a dat leviţilor care păzesc cortul Domnului, după cum îi poruncise Domnul.
+{31:48} Căpeteniile oştirii, căpeteniile peste o mie şi căpeteniile peste o sută s-au apropiat de Moise
+{31:49} şi i-au zis: „Robii tăi au făcut socoteala ostaşilor care erau sub poruncile noastre şi nu lipseşte niciun om dintre noi.
+{31:50} Noi aducem deci ca dar Domnului fiecare ce a găsit ca scule de aur, şi anume lănţişoare, brăţări, inele, cercei şi salbe, ca să se facă ispăşire pentru sufletele noastre înaintea Domnului.”
+{31:51} Moise şi preotul Eleazar au primit de la ei toate aceste scule lucrate în aur.
+{31:52} Tot aurul pe care l-au adus Domnului căpeteniile peste o mie şi căpeteniile peste o sută, ca dar ridicat, cântărea şaisprezece mii şapte sute cincizeci de sicli.
+{31:53} Oamenii din oaste au păstrat, fiecare pentru sine, prada pe care o făcuseră.
+{31:54} Moise şi preotul Eleazar au luat aurul de la căpeteniile peste o mie şi de la căpeteniile peste o sută şi l-au adus în cortul întâlnirii, ca aducere-aminte pentru copiii lui Israel înaintea Domnului.
+{i32:1} Galaadul dat lui Gad şi Ruben
+{32:1} Fiii lui Ruben şi fiii lui Gad aveau o mare mulţime de vite şi au văzut că ţara lui Iaezer şi ţara Galaadului erau un loc bun pentru vite.
+{32:2} Atunci, fiii lui Gad şi fiii lui Ruben au venit la Moise, la preotul Eleazar şi la mai-marii adunării şi le-au zis:
+{32:3} „Atarot, Dibon, Iaezer, Nimra, Hesbon, Eleale, Sebam, Nebo şi Beon,
+{32:4} ţara aceasta pe care a lovit-o Domnul înaintea adunării lui Israel este un loc bun pentru vite, şi robii tăi au vite.”
+{32:5} Apoi au adăugat: „Dacă am căpătat trecere înaintea ta, să se dea ţara aceasta în stăpânirea robilor tăi şi să nu ne treci peste Iordan.”
+{32:6} Moise a răspuns fiilor lui Gad şi fiilor lui Ruben: „Fraţii voştri să meargă oare la război, şi voi să rămâneţi aici?
+{32:7} Pentru ce voiţi să muiaţi inima copiilor lui Israel şi să-i faceţi să nu treacă în ţara pe care le-o dă Domnul?
+{32:8} Aşa au făcut şi părinţii voştri când i-am trimis din Cades-Barnea să iscodească ţara.
+{32:9} S-au suit până la valea Eşcol şi, după ce au iscodit ţara, au muiat inima copiilor lui Israel şi i-au făcut să nu intre în ţara pe care le-o dădea Domnul.
+{32:10} Şi Domnul S-a aprins de mânie în ziua aceea şi a jurat zicând:
+{32:11} ‘Oamenii aceştia care s-au suit din Egipt, de la vârsta de douăzeci de ani în sus, nu vor vedea ţara pe care am jurat că o voi da lui Avraam, lui Isaac şi lui Iacov, căci n-au urmat în totul calea Mea,
+{32:12} afară de Caleb, fiul lui Iefune, Chenizitul, şi Iosua, fiul lui Nun, care au urmat în totul calea Domnului.’
+{32:13} Domnul S-a aprins de mânie împotriva lui Israel şi i-a făcut să rătăcească în pustie timp de patruzeci de ani, până la stingerea întregului leat de oameni care făcuseră rău înaintea Domnului.
+{32:14} Şi iată că voi luaţi locul părinţilor voştri, ca nişte odrasle de oameni păcătoşi, ca să faceţi pe Domnul să Se aprindă şi mai tare de mânie împotriva lui Israel.
+{32:15} Căci, dacă vă întoarceţi de la El, El va lăsa mai departe pe Israel să rătăcească în pustie şi veţi aduce pierderea poporului acestuia întreg.”
+{32:16} Ei s-au apropiat de Moise şi au zis: „Vom face aici ocoale pentru vitele noastre şi cetăţi pentru pruncii noştri,
+{32:17} apoi ne vom înarma în grabă şi vom merge înaintea copiilor lui Israel, până îi vom duce în locul care le este rânduit, şi pruncii noştri vor locui în aceste cetăţi întărite, din pricina locuitorilor ţării acesteia.
+{32:18} Nu ne vom întoarce în casele noastre mai înainte ca fiecare din copiii lui Israel să fi pus stăpânire pe moştenirea lui
+{32:19} şi nu vom stăpâni nimic cu ei dincolo de Iordan, nici mai departe, pentru că noi ne vom avea moştenirea noastră dincoace de Iordan, la răsărit.”
+{32:20} Moise le-a zis: „Dacă faceţi aşa, dacă vă înarmaţi ca să luptaţi înaintea Domnului,
+{32:21} dacă toţi aceia dintre voi care se vor înarma trec Iordanul înaintea Domnului, până ce va izgoni pe vrăjmaşii Lui dinaintea Lui,
+{32:22} şi dacă vă veţi întoarce înapoi numai după ce ţara va fi supusă înaintea Domnului, atunci veţi fi fără vină înaintea Domnului şi înaintea lui Israel, şi ţinutul acesta va fi moşia voastră înaintea Domnului.
+{32:23} Dar, dacă nu faceţi aşa, păcătuiţi împotriva Domnului şi să ştiţi că păcatul vostru vă va ajunge.
+{32:24} Zidiţi cetăţi pentru pruncii voştri şi ocoale pentru vitele voastre şi faceţi ce aţi spus cu gura voastră.”
+{32:25} Fiii lui Gad şi fiii lui Ruben au zis lui Moise: „Robii tăi vor face tot ce porunceşte domnul nostru.
+{32:26} Pruncii noştri, nevestele, turmele noastre şi toate vitele noastre vor rămâne în cetăţile Galaadului,
+{32:27} iar robii tăi, toţi înarmaţi pentru război, vor merge să se lupte înaintea Domnului, cum zice domnul nostru.”
+{32:28} Moise a dat porunci cu privire la ei preotului Eleazar, lui Iosua, fiul lui Nun, şi capilor de familie din seminţiile copiilor lui Israel.
+{32:29} El le-a zis: „Dacă fiii lui Gad şi fiii lui Ruben trec cu voi Iordanul, înarmaţi cu toţii ca să lupte înaintea Domnului, după ce ţara va fi supusă înaintea voastră, să le daţi în stăpânire ţinutul Galaadului.
+{32:30} Dar dacă nu vor merge înarmaţi împreună cu voi, să se aşeze în mijlocul vostru în ţara Canaanului.”
+{32:31} Fiii lui Gad şi fiii lui Ruben au răspuns: „Vom face tot ce a spus robilor tăi Domnul.
+{32:32} Vom trece înarmaţi înaintea Domnului în ţara Canaanului, dar noi să ne avem moştenirea noastră dincoace de Iordan.”
+{i32:33} Luarea în stăpânire a Galaadului
+{32:33} Moise a dat fiilor lui Gad şi fiilor lui Ruben şi la jumătate din seminţia lui Manase, fiul lui Iosif, împărăţia lui Sihon, împăratul amoriţilor şi împărăţia lui Og, împăratul Basanului, ţara cu cetăţile ei, cu ţinuturile cetăţilor ţării de jur împrejur.
+{32:34} Fiii lui Gad au zidit Dibonul, Atarotul, Aroerul,
+{32:35} Atrot-Şofan, Iaezer, Iogbeha,
+{32:36} Bet-Nimra şi Bet-Haran, cetăţi întărite, şi au făcut staule pentru turme.
+{32:37} Fiii lui Ruben au zidit Hesbonul, Eleale, Chiriataim,
+{32:38} Nebo şi Baal-Meon, ale căror nume au fost schimbate, şi Sibma şi au pus alte nume cetăţilor pe care le-au zidit.
+{32:39} Fiii lui Machir, fiul lui Manase, au mers împotriva Galaadului şi au pus mâna pe el; au izgonit pe amoriţii care erau acolo.
+{32:40} Moise a dat Galaadul lui Machir, fiul lui Manase, care s-a aşezat acolo.
+{32:41} Iair, fiul lui Manase, a pornit şi el şi a luat târgurile, şi le-a numit târgurile lui Iair.
+{32:42} Nobah a pornit şi el şi a luat Chenatul, împreună cu cetăţile care ţineau de el, şi l-a numit Nobah, după numele lui.
+{i33:1} Popasurile israeliţilor
+{33:1} Iată popasurile copiilor lui Israel care au ieşit din ţara Egiptului, după oştirile lor, sub povăţuirea lui Moise şi lui Aaron.
+{33:2} Moise a scris călătoriile lor din popas în popas, după porunca Domnului. Şi iată popasurile lor, după călătoriile lor.
+{33:3} Au pornit din Ramses în luna întâi, în ziua a cincisprezecea a lunii întâi. A doua zi după Paşte, copiii lui Israel au ieşit gata de luptă în faţa tuturor egiptenilor,
+{33:4} în timp ce egiptenii îşi îngropau pe toţi întâii lor născuţi pe care-i lovise Domnul dintre ei. Căci Domnul făcuse chiar şi pe dumnezeii lor să simtă puterea Lui.
+{33:5} Copiii lui Israel au pornit din Ramses şi au tăbărât la Sucot.
+{33:6} Au pornit din Sucot şi au tăbărât la Etam, care este la marginea pustiei.
+{33:7} Au pornit din Etam, s-au întors înapoi la Pi-Hahirot, faţă în faţă cu Baal-Ţefon, şi au tăbărât înaintea Migdolului.
+{33:8} Au pornit dinaintea Pi-Hahirotului şi au trecut prin mijlocul mării, înspre pustie; au făcut un drum de trei zile în pustia Etamului şi au tăbărât la Mara.
+{33:9} Au pornit de la Mara şi au ajuns la Elim; la Elim erau douăsprezece izvoare de apă şi şaptezeci de finici; acolo au tăbărât.
+{33:10} Au pornit din Elim şi au tăbărât lângă Marea Roşie.
+{33:11} Au pornit de la Marea Roşie şi au tăbărât în pustia Sin.
+{33:12} Au pornit din pustia Sin şi au tăbărât la Dofca.
+{33:13} Au pornit din Dofca şi au tăbărât la Aluş.
+{33:14} Au pornit din Aluş şi au tăbărât la Refidim, unde poporul n-a găsit apă de băut.
+{33:15} Au pornit din Refidim şi au tăbărât în pustia Sinai.
+{i33:16} De la Sinai la Cades
+{33:16} Au pornit din pustia Sinai şi au tăbărât la Chibrot-Hataava.
+{33:17} Au pornit de la Chibrot-Hataava şi au tăbărât la Haţerot.
+{33:18} Au pornit din Haţerot şi au tăbărât la Ritma.
+{33:19} Au pornit de la Ritma şi au tăbărât la Rimon-Pereţ.
+{33:20} Au pornit din Rimon-Pereţ şi au tăbărât la Libna.
+{33:21} Au pornit din Libna şi au tăbărât la Risa.
+{33:22} Au pornit din Risa şi au tăbărât la Chehelata.
+{33:23} Au pornit din Chehelata şi au tăbărât la muntele Şafer.
+{33:24} Au pornit de la muntele Şafer şi au tăbărât la Harada.
+{33:25} Au pornit din Harada şi au tăbărât la Machelot.
+{33:26} Au pornit din Machelot şi au tăbărât la Tahat.
+{33:27} Au pornit din Tahat şi au tăbărât la Tarah.
+{33:28} Au pornit din Tarah şi au tăbărât la Mitca.
+{33:29} Au pornit din Mitca şi au tăbărât la Haşmona.
+{33:30} Au pornit din Haşmona şi au tăbărât la Moserot.
+{33:31} Au pornit din Moserot şi au tăbărât la Bene-Iaacan.
+{33:32} Au pornit din Bene-Iaacan şi au tăbărât la Hor-Ghidgad.
+{33:33} Au pornit din Hor-Ghidgad şi au tăbărât la Iotbata.
+{33:34} Au pornit din Iotbata şi au tăbărât la Abrona.
+{33:35} Au pornit din Abrona şi au tăbărât la Eţion-Gheber.
+{33:36} Au pornit din Eţion-Gheber şi au tăbărât în pustia Ţin, adică la Cades.
+{i33:37} De la Cades la câmpia Moabului
+{33:37} Au pornit din Cades şi au tăbărât la muntele Hor, la marginea ţării Edomului.
+{33:38} Preotul Aaron s-a suit pe muntele Hor, după porunca Domnului, şi a murit acolo, în al patruzecilea an după ieşirea copiilor lui Israel din ţara Egiptului, în luna a cincea, în cea dintâi zi a lunii.
+{33:39} Aaron era în vârstă de o sută douăzeci şi trei de ani când a murit pe muntele Hor.
+{33:40} Împăratul Aradului, Canaanitul, care locuia în partea de miazăzi a ţării Canaanului, a aflat de sosirea copiilor lui Israel.
+{33:41} Au pornit de la muntele Hor şi au tăbărât la Ţalmona.
+{33:42} Au pornit din Ţalmona şi au tăbărât la Punon.
+{33:43} Au pornit din Punon şi au tăbărât la Obot.
+{33:44} Au pornit din Obot şi au tăbărât la Iie-Abarim, la hotarul Moabului.
+{33:45} Au pornit din Iie-Abarim şi au tăbărât la Dibon-Gad.
+{33:46} Au pornit din Dibon-Gad şi au tăbărât la Almon-Diblataim.
+{33:47} Au pornit din Almon-Diblataim şi au tăbărât la munţii Abarim, înaintea muntelui Nebo.
+{33:48} Au pornit de la munţii Abarim şi au tăbărât în câmpia Moabului, lângă Iordan, în faţa Ierihonului.
+{33:49} Au tăbărât lângă Iordan, de la Bet-Ieşimot până la Abel-Sitim, în câmpia Moabului.
+{i33:50} Canaaniţii trebuie nimiciţi
+{33:50} Domnul a vorbit lui Moise în câmpia Moabului, lângă Iordan, în faţa Ierihonului, şi a zis:
+{33:51} „Vorbeşte copiilor lui Israel şi spune-le: ‘După ce veţi trece Iordanul şi veţi intra în ţara Canaanului,
+{33:52} să izgoniţi dinaintea voastră pe toţi locuitorii ţării, să le dărâmaţi toţi idolii de piatră, să le nimiciţi toate icoanele turnate şi să le nimiciţi toate înălţimile pentru jertfe.
+{33:53} Să luaţi ţara în stăpânire şi să vă aşezaţi în ea, căci Eu v-am dat ţara aceasta ca să fie moşia voastră.
+{33:54} Să împărţiţi ţara prin sorţi, după familiile voastre. Celor ce sunt în număr mai mare, să le daţi o parte mai mare şi celor ce sunt în număr mai mic, să le daţi o parte mai mică. Fiecare să stăpânească ce-i va cădea la sorţi; s-o luaţi în stăpânire după seminţiile părinţilor voştri.
+{33:55} Dar dacă nu veţi izgoni dinaintea voastră pe locuitorii ţării, aceia dintre ei pe care îi veţi lăsa vă vor fi ca nişte spini în ochi şi ca nişte ghimpi în coaste; vă vor fi vrăjmaşi în ţara în care veţi merge să vă aşezaţi.
+{33:56} Şi vă voi face şi vouă cum hotărâsem să le fac lor’.”
+{i34:1} Hotarele Canaanului
+{34:1} Domnul a vorbit lui Moise şi a zis:
+{34:2} „Dă porunca aceasta copiilor lui Israel şi spune-le: ‘Când veţi intra în ţara Canaanului, ţara aceasta va fi moştenirea voastră – ţara Canaanului, ale cărei hotare iată-le:
+{34:3} Hotarul din partea de miazăzi va începe din pustia Ţin, lângă Edom. Astfel, hotarul vostru de miazăzi va începe de la marginea Mării Sărate spre răsărit;
+{34:4} se va întoarce la miazăzi de înălţimea Acrabim, va trece prin Ţin şi se va întinde până la miazăzi de Cades-Barnea; va urma mai departe prin Haţar-Adar şi va trece spre Aţmon;
+{34:5} de la Aţmon, se va întoarce până la pârâul Egiptului şi va ieşi la mare.
+{34:6} Hotarul vostru dinspre apus va fi Marea cea Mare (Mediterana); aceasta va fi hotarul vostru la apus.
+{34:7} Iată care va fi hotarul vostru spre miazănoapte: începând de la Marea cea Mare, să trageţi hotarul până la muntele Hor;
+{34:8} de la muntele Hor, să-l trageţi prin Hamat şi să ajungă până la Ţedad;
+{34:9} să urmeze mai departe prin Zifron, ca să ajungă la Haţar-Enan: acesta să vă fie hotarul înspre miazănoapte.
+{34:10} Să vă trageţi hotarul spre răsărit de la Haţar-Enan până la Şefam;
+{34:11} să se coboare din Şefam spre Ribla, la răsărit de Ain; se va pogorî şi se va întinde de-a lungul mării Chineret (Ghenezaret), la răsărit;
+{34:12} se va pogorî iarăşi spre Iordan, ca să ajungă la Marea Sărată. Aceasta va fi ţara voastră, cu hotarele ei de jur împrejur’.”
+{34:13} Moise a dat porunca aceasta copiilor lui Israel şi a zis: „Aceasta este ţara pe care o veţi împărţi prin sorţi şi pe care a poruncit Domnul s-o dea celor nouă seminţii şi jumătate.
+{34:14} Căci seminţia fiilor lui Ruben, după casele lor părinteşti, şi seminţia fiilor lui Gad, după casele părinţilor lor, precum şi jumătate din seminţia lui Manase şi-au luat moştenirea.
+{34:15} Aceste două seminţii şi jumătate şi-au luat moştenirea dincoace de Iordan, în faţa Ierihonului, înspre răsărit.”
+{i34:16} Cum şi prin cine să se împartă ţara
+{34:16} Domnul a vorbit lui Moise şi a zis:
+{34:17} „Iată numele bărbaţilor care vor împărţi ţara între voi: preotul Eleazar şi Iosua, fiul lui Nun.
+{34:18} Să mai luaţi câte o căpetenie din fiecare seminţie, ca să facă împărţirea ţării.
+{34:19} Iată numele bărbaţilor acestora. Pentru seminţia lui Iuda: Caleb, fiul lui Iefune;
+{34:20} pentru seminţia fiilor lui Simeon: Samuel, fiul lui Amihud;
+{34:21} pentru seminţia lui Beniamin: Elidad, fiul lui Chislon;
+{34:22} pentru seminţia fiilor lui Dan: căpetenia Buchi, fiul lui Iogli;
+{34:23} pentru fiii lui Iosif: pentru seminţia fiilor lui Manase – căpetenia Haniel, fiul lui Efod;
+{34:24} şi pentru seminţia fiilor lui Efraim – căpetenia Chemuel, fiul lui Şiftan;
+{34:25} pentru seminţia fiilor lui Zabulon: căpetenia Eliţafan, fiul lui Parnac;
+{34:26} pentru seminţia fiilor lui Isahar: căpetenia Paltiel, fiul lui Azan;
+{34:27} pentru seminţia fiilor lui Aşer: căpetenia Ahihud, fiul lui Şelomi;
+{34:28} pentru seminţia fiilor lui Neftali: căpetenia Pedahel, fiul lui Amihud.”
+{34:29} Aceştia sunt aceia cărora le-a poruncit Domnul să împartă ţara Canaanului între copiii lui Israel.
+{i35:1} Cetăţile leviţilor
+{35:1} Domnul a vorbit lui Moise în câmpia Moabului, lângă Iordan, în faţa Ierihonului, şi a zis:
+{35:2} „Porunceşte copiilor lui Israel să dea leviţilor din moştenirea pe care o vor avea, nişte cetăţi în care să poată locui. Să mai daţi leviţilor şi un loc gol împrejurul acestor cetăţi.
+{35:3} Cetăţile să fie ale lor, ca să locuiască în ele, iar locurile goale să fie pentru vitele lor, pentru averile lor şi pentru toate dobitoacele lor.
+{35:4} Locurile goale din jurul cetăţilor pe care le veţi da leviţilor să aibă, începând de la zidul cetăţii în afară, o mie de coţi de jur împrejur.
+{35:5} Să măsuraţi afară din cetate două mii de coţi în partea de răsărit, două mii de coţi în partea de miazăzi, două mii de coţi în partea de apus şi două mii de coţi în partea de miazănoapte, aşa încât cetatea să fie la mijloc. Acestea să fie locurile goale din jurul cetăţilor lor.
+{35:6} Dintre cetăţile pe care le veţi da leviţilor, şase să fie cetăţi de scăpare, unde va putea să fugă ucigaşul şi afară de acestea, să le mai daţi alte patruzeci şi două de cetăţi.
+{35:7} Toate cetăţile pe care le veţi da leviţilor să fie patruzeci şi opt de cetăţi, împreună cu locurile lor goale.
+{35:8} Cetăţile pe care le veţi da din moşiile copiilor lui Israel să fie date mai multe de cei ce au mai multe şi mai puţine de cei ce au mai puţine; fiecare să dea leviţilor din cetăţile lui după moştenirea pe care o va avea.”
+{i35:9} Cetăţile de scăpare
+{35:9} Domnul a vorbit lui Moise şi a zis:
+{35:10} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când veţi trece Iordanul şi veţi intra în ţara Canaanului,
+{35:11} să vă alegeţi nişte cetăţi care să vă fie cetăţi de scăpare, unde să poată scăpa ucigaşul care va omorî pe cineva fără voie.
+{35:12} Aceste cetăţi să vă slujească drept cetăţi de scăpare împotriva răzbunătorului sângelui, pentru ca ucigaşul să nu fie omorât înainte de a se înfăţişa în faţa adunării ca să fie judecat.
+{35:13} Din cetăţile pe care le veţi da, şase să vă fie cetăţi de scăpare.
+{35:14} Să daţi trei cetăţi dincoace de Iordan şi trei cetăţi în ţara Canaanului: acestea să vă fie cetăţi de scăpare.
+{35:15} Aceste şase cetăţi să fie cetăţi de scăpare pentru copiii lui Israel, pentru străin şi pentru cel ce locuieşte în mijlocul vostru: acolo va putea să scape orice om care va ucide pe cineva fără voie.
+{35:16} Dacă un om loveşte pe aproapele său cu o unealtă de fier şi acesta moare, este un ucigaş: ucigaşul să fie pedepsit cu moartea.
+{35:17} Dacă-l loveşte cu o piatră pe care o ţine în mână, de care poate muri, şi moare, este un ucigaş: ucigaşul să fie pedepsit cu moartea.
+{35:18} Dacă-l loveşte cu vreo unealtă de lemn pe care o ţine în mână, de care poate muri, şi moare, este un ucigaş; ucigaşul să fie pedepsit cu moartea.
+{35:19} Răzbunătorul sângelui să omoare pe ucigaş; când îl va întâlni, să-l omoare.
+{35:20} Dacă un om împinge pe aproapele său din ură sau dacă-l pândeşte şi aruncă ceva asupra lui şi moare,
+{35:21} sau dacă-l loveşte cu mâna din vrăjmăşie şi moare, cel ce l-a lovit să fie pedepsit cu moartea; este un ucigaş: răzbunătorul sângelui să omoare pe ucigaş când îl va întâlni.
+{35:22} Dar dacă un om împinge pe aproapele lui fără veste, şi nu din vrăjmăşie, sau dacă aruncă ceva asupra lui fără să-l fi pândit,
+{35:23} sau dacă aruncă asupra lui din nebăgare de seamă o piatră care-i poate pricinui moartea şi moare, fără să-l urască şi fără să caute să-i facă rău,
+{35:24} iată legile după care va judeca adunarea între cel ce l-a lovit şi răzbunătorul sângelui:
+{35:25} Adunarea va izbăvi pe ucigaş din mâna răzbunătorului sângelui şi-l va face să se întoarcă în cetatea de scăpare unde fugise. Să locuiască acolo până la moartea marelui preot care este uns cu untdelemn sfânt.
+{35:26} Dacă ucigaşul iese din hotarul cetăţii de scăpare unde fugise
+{35:27} şi dacă răzbunătorul sângelui îl întâlneşte afară din hotarul cetăţii de scăpare şi ucide pe ucigaş, nu va fi vinovat de omor.
+{35:28} Căci ucigaşul trebuia să locuiască în cetatea lui de scăpare până la moartea marelui preot, şi, după moartea marelui preot, putea să se întoarcă la moşia lui.
+{35:29} Iată poruncile de drept pentru voi şi pentru urmaşii voştri, în toate locurile în care veţi locui.
+{i35:30} Pedeapsa pentru omor
+{35:30} Dacă un om omoară pe cineva, ucigaşul să fie omorât pe mărturia martorilor. Un singur martor nu va fi de ajuns ca să fie osândit cineva la moarte.
+{35:31} Să nu primiţi răscumpărare pentru viaţa unui ucigaş vinovat de moarte, ci să fie pedepsit cu moartea.
+{35:32} Să nu primiţi răscumpărare pentru cel ce trebuie să fugă în cetatea lui de scăpare, ca să se întoarcă să locuiască în ţară până la moartea preotului.
+{35:33} Să nu pângăriţi ţara unde veţi fi, căci sângele celui nevinovat pângăreşte ţara; şi ispăşirea sângelui vărsat în ţară nu se va putea face decât prin sângele celui ce-l va vărsa.
+{35:34} Să nu pângăriţi deci ţara în care veţi merge să locuiţi şi în mijlocul căreia voi locui şi Eu, căci Eu sunt Domnul, care locuieşte în mijlocul copiilor lui Israel’.”
+{i36:1} Măritarea fiicelor moştenitoare
+{36:1} Căpeteniile familiei lui Galaad, fiul lui Machir, fiul lui Manase, dintre familiile fiilor lui Iosif, s-au apropiat şi au vorbit înaintea lui Moise şi înaintea mai-marilor peste casele părinteşti ale copiilor lui Israel.
+{36:2} Ei au zis: „Domnule, ţie ţi-a poruncit Domnul să dai copiilor lui Israel ţara ca moştenire prin sorţi. Tu, domnule, ai primit, de asemenea, poruncă de la Domnul ca moştenirea fratelui nostru Ţelofhad s-o dai fetelor lui.
+{36:3} Dar, dacă ele se mărită după unul din fiii altei seminţii a copiilor lui Israel, moştenirea lor va fi ştearsă din moştenirea părinţilor noştri şi adăugată la a seminţiei din care vor face parte şi, astfel, moştenirea care ne-a căzut nouă la sorţi se va micşora.
+{36:4} Şi când va veni anul de veselie pentru copiii lui Israel, moştenirea lor va rămâne adăugată la a seminţiei din care vor face parte şi va fi ştearsă astfel din moştenirea seminţiei părinţilor noştri.”
+{36:5} Moise a poruncit copiilor lui Israel din partea Domnului şi a zis: „Seminţia fiilor lui Iosif are dreptate.
+{36:6} Iată ce porunceşte Domnul cu privire la fetele lui Ţelofhad: să se mărite după cine vor vrea, numai să se mărite într-o familie din seminţia părinţilor lor.
+{36:7} Nicio moştenire a copiilor lui Israel să nu treacă de la o seminţie la alta, ci fiecare din copiii lui Israel să se ţină lipit de moştenirea seminţiei părinţilor lui.
+{36:8} Şi orice fată care are o moştenire în seminţiile copiilor lui Israel să se mărite după cineva dintr-o familie din seminţia tatălui ei, pentru ca fiecare din copiii lui Israel să-şi aibă moştenirea părinţilor săi.
+{36:9} Nicio moştenire să nu treacă de la o seminţie la alta, ci seminţiile copiilor lui Israel să se ţină fiecare de moştenirea sa.”
+{36:10} Fetele lui Ţelofhad au făcut întocmai după porunca pe care o dăduse lui Moise Domnul.
+{36:11} Mahla, Tirţa, Hogla, Milca şi Noa, fetele lui Ţelofhad, s-au măritat după fiii unchilor lor;
+{36:12} s-au măritat în familiile fiilor lui Manase, fiul lui Iosif, şi moştenirea lor a rămas în seminţia familiei tatălui lor.
+{36:13} Acestea sunt poruncile şi legile pe care le-a dat Domnul prin Moise copiilor lui Israel, în câmpia Moabului, lângă Iordan, în faţa Ierihonului.

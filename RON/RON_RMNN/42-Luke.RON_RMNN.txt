@@ -1,0 +1,1288 @@
+{i1:1} Cuvânt-înainte
+{1:1} Fiindcă mulţi s-au apucat să alcătuiască o istorisire amănunţită despre lucrurile care s-au petrecut printre noi,
+{1:2} după cum ni le-au încredinţat cei ce le-au văzut cu ochii lor de la început şi au ajuns slujitori ai cuvântului,
+{1:3} am găsit şi eu cu cale, preaalesule Teofile, după ce am făcut cercetări cu de-amănuntul asupra tuturor acestor lucruri de la obârşia lor, să ţi le scriu în şir unele după altele,
+{1:4} ca să poţi cunoaşte astfel temeinicia învăţăturilor, pe care le-ai primit prin viu grai.
+{i1:5} Vestirea naşterii lui Ioan Botezătorul
+{1:5} În zilele lui Irod, împăratul Iudeii, era un preot, numit Zaharia, din ceata lui Abia. Nevasta lui era din fetele lui Aaron, şi se chema Elisabeta.
+{1:6} Amândoi erau neprihăniţi înaintea lui Dumnezeu, şi păzeau fără pată toate poruncile şi toate rânduielile Domnului.
+{1:7} N-aveau copii, pentru că Elisabeta era stearpă; şi amândoi erau înaintaţi în vârstă.
+{1:8} Dar, pe când slujea Zaharia înaintea lui Dumnezeu, la rândul cetei lui,
+{1:9} după obiceiul preoţiei, a ieşit la sorţi să intre să tămâieze în Templul Domnului.
+{1:10} În ceasul tămâierii, toată mulţimea norodului se ruga afară.
+{1:11} Atunci, un înger al Domnului s-a arătat lui Zaharia, şi a stat în picioare la dreapta altarului pentru tămâiere.
+{1:12} Zaharia s-a înspăimântat, când l-a văzut, şi l-a apucat frica.
+{1:13} Dar îngerul i-a zis: „Nu te teme Zahario; fiindcă rugăciunea ta a fost ascultată. Nevastă-ta, Elisabeta, îţi va naşte un fiu, căruia îi vei pune numele Ioan.
+{1:14} El va fi pentru tine o pricină de bucurie şi veselie, şi mulţi se vor bucura de naşterea lui.
+{1:15} Căci va fi mare înaintea Domnului. Nu va bea nici vin, nici băutură ameţitoare, şi se va umple de Duhul Sfânt încă din pântecele maicii sale.
+{1:16} El va întoarce pe mulţi din fiii lui Israel la Domnul, Dumnezeul lor.
+{1:17} Va merge înaintea lui Dumnezeu, în duhul şi puterea lui Ilie, ca să întoarcă inimile părinţilor la copii, şi pe cei neascultători la umblarea în înţelepciunea celor neprihăniţi, ca să gătească Domnului un norod bine pregătit pentru El.”
+{1:18} Zaharia a zis îngerului: „Din ce voi cunoaşte lucrul acesta? Fiindcă eu sunt bătrân, şi nevastă-mea este înaintată în vârstă.”
+{1:19} Drept răspuns, îngerul i-a zis: „Eu sunt Gavril, care stau înaintea lui Dumnezeu; am fost trimis să-ţi vorbesc, şi să-ţi aduc această veste bună.
+{1:20} Iată că vei fi mut şi nu vei putea vorbi, până în ziua când se vor întâmpla aceste lucruri, pentru că n-ai crezut cuvintele mele, care se vor împlini la vremea lor.”
+{1:21} Norodul însă aştepta pe Zaharia şi se mira de zăbovirea lui în Templu.
+{1:22} Când a ieşit afară, nu putea să le vorbească; şi au înţeles că avusese o vedenie în Templu. El le făcea semne într-una, şi a rămas mut.
+{1:23} După ce i s-au împlinit zilele de slujbă, Zaharia s-a dus acasă.
+{1:24} Peste câtva timp, Elisabeta, nevasta lui, a rămas însărcinată, şi s-a ţinut ascunsă de tot cinci luni. „Căci”, zicea ea,
+{1:25} „iată ce mi-a făcut Domnul, când Şi-a aruncat ochii spre mine, ca să-mi ia ocara dintre oameni”.
+{i1:26} Vestirea naşterii lui Isus Hristos
+{1:26} În luna a şasea, îngerul Gavril a fost trimis de Dumnezeu într-o cetate din Galileea, numită Nazaret,
+{1:27} la o fecioară logodită cu un bărbat, numit Iosif, din casa lui David. Numele fecioarei era Maria.
+{1:28} Îngerul a intrat la ea, şi a zis: „Plecăciune, ţie, căreia ţi s-a făcut mare har; Domnul este cu tine, binecuvântată eşti tu între femei!”
+{1:29} Tulburată foarte mult de cuvintele acestea, Maria se întreba singură ce putea să însemne urarea aceasta.
+{1:30} Îngerul i-a zis: „Nu te teme, Marie; căci ai căpătat îndurare înaintea lui Dumnezeu.
+{1:31} Şi iată că vei rămâne însărcinată şi vei naşte un fiu, căruia îi vei pune numele Isus.
+{1:32} El va fi mare, şi va fi chemat Fiul Celui Preaînalt; şi Domnul Dumnezeu îi va da scaunul de domnie al tatălui Său David.
+{1:33} Va împărăţi peste casa lui Iacov în veci, şi Împărăţia Lui nu va avea sfârşit.”
+{1:34} Maria a zis îngerului: „Cum se va face lucrul acesta, fiindcă eu nu ştiu de bărbat?”
+{1:35} Îngerul i-a răspuns: „Duhul Sfânt Se va pogorî peste tine, şi puterea Celui Preaînalt te va umbri. De aceea, Sfântul care Se va naşte din tine, va fi chemat Fiul lui Dumnezeu.
+{1:36} Iată că Elisabeta, rudenia ta, a zămislit, şi ea, un fiu la bătrâneţe; şi ea, căreia i se zicea stearpă, este acum în a şasea lună.
+{1:37} Căci niciun cuvânt de la Dumnezeu nu este lipsit de putere.”
+{1:38} Maria a zis: „Iată, roaba Domnului; facă-mi-se după cuvintele tale!” Şi îngerul a plecat de la ea.
+{i1:39} Cântarea Mariei
+{1:39} Maria s-a sculat chiar în zilele acelea şi a plecat în grabă spre munţi, într-o cetate a lui Iuda.
+{1:40} A intrat în casa lui Zaharia şi a urat de bine Elisabetei.
+{1:41} Cum a auzit Elisabeta urarea Mariei, i-a săltat pruncul în pântece, şi Elisabeta s-a umplut de Duhul Sfânt.
+{1:42} Ea a strigat cu glas tare: „Binecuvântată eşti tu între femei şi binecuvântat este rodul pântecelui tău.
+{1:43} Cum mi-a fost dat mie să vină la mine maica Domnului meu?
+{1:44} Fiindcă iată, cum mi-a ajuns la urechi glasul urării tale, mi-a săltat pruncul în pântece de bucurie.
+{1:45} Ferice de aceea care a crezut; pentru că lucrurile, care i-au fost spuse din partea Domnului, se vor împlini.”
+{1:46} Şi Maria a zis: „Sufletul meu măreşte pe Domnul
+{1:47} şi mi se bucură duhul în Dumnezeu, Mântuitorul meu,
+{1:48} pentru că a privit spre starea smerită a roabei Sale. Căci iată că, de acum încolo, toate neamurile îmi vor zice fericită,
+{1:49} pentru că Cel Atotputernic a făcut lucruri mari pentru mine. Numele Lui este sfânt,
+{1:50} şi îndurarea Lui se întinde din neam în neam peste cei ce se tem de El.
+{1:51} El a arătat putere cu braţul Lui; a risipit gândurile pe care le aveau cei mândri în inima lor.
+{1:52} A răsturnat pe cei puternici, de pe scaunele lor de domnie, şi a înălţat pe cei smeriţi.
+{1:53} Pe cei flămânzi i-a săturat de bunătăţi, şi pe cei bogaţi i-a scos afară cu mâinile goale.
+{1:54} A venit în ajutorul robului său Israel, căci Şi-a adus aminte de îndurarea Sa –
+{1:55} cum făgăduise părinţilor noştri – faţă de Avraam şi sămânţa lui în veac.”
+{1:56} Maria a rămas împreună cu Elisabeta cam trei luni. Apoi, s-a întors acasă.
+{i1:57} Naşterea lui Ioan Botezătorul
+{1:57} Elisabetei i s-a împlinit vremea să nască; şi a născut un fiu.
+{1:58} Vecinii şi rudele ei au auzit că Domnul a arătat mare îndurare faţă de ea, şi se bucurau împreună cu ea.
+{1:59} În ziua a opta, au venit să taie pruncul împrejur, şi voiau să-i pună numele Zaharia, după numele tatălui său.
+{1:60} Dar mama lui a luat cuvântul, şi a zis: „Nu. Ci are să se cheme Ioan.”
+{1:61} Ei i-au zis: „Nimeni din rudeniile tale nu poartă numele acesta”,
+{1:62} şi au început să facă semne tatălui său, ca să ştie cum ar vrea să-i pună numele.
+{1:63} Zaharia a cerut o tăbliţă de scris şi a scris, zicând: „Numele lui este Ioan”. Şi toţi s-au minunat.
+{1:64} În clipa aceea, i s-a deschis gura, i s-a dezlegat limba, şi el vorbea şi binecuvânta pe Dumnezeu.
+{1:65} Pe toţi vecinii i-a apucat frica, şi în tot ţinutul acela muntos al Iudeii, se vorbea despre toate aceste lucruri.
+{1:66} Toţi cei ce le auzeau le păstrau în inima lor şi ziceau: „Oare ce va fi pruncul acesta?” Şi mâna Domnului era într-adevăr cu el.
+{i1:67} Cântarea lui Zaharia
+{1:67} Zaharia, tatăl lui, s-a umplut de Duhul Sfânt, a prorocit şi a zis:
+{1:68} „Binecuvântat este Domnul, Dumnezeul lui Israel, pentru că a cercetat şi a răscumpărat pe poporul Său.
+{1:69} Şi ne-a ridicat o mântuire puternică în casa robului Său David,
+{1:70} cum vestise prin gura sfinţilor Săi proroci, care au fost din vechime;
+{1:71} mântuire de vrăjmaşii noştri şi din mâna tuturor celor ce ne urăsc!
+{1:72} Astfel Îşi arată El îndurarea faţă de părinţii noştri şi Îşi aduce aminte de legământul Lui cel sfânt,
+{1:73} potrivit jurământului prin care Se jurase părintelui nostru Avraam,
+{1:74} că, după ce ne va izbăvi din mâna vrăjmaşilor noştri, ne va îngădui să-I slujim fără frică,
+{1:75} trăind înaintea Lui în sfinţenie şi neprihănire, în toate zilele vieţii noastre.
+{1:76} Şi tu, pruncule, vei fi chemat proroc al Celui Preaînalt. Căci vei merge înaintea Domnului, ca să pregăteşti căile Lui
+{1:77} şi să dai poporului Său cunoştinţa mântuirii, care stă în iertarea păcatelor lui;
+{1:78} datorită marii îndurări a Dumnezeului nostru, în urma căreia ne-a cercetat Soarele care răsare din înălţime,
+{1:79} ca să lumineze pe cei ce zac în întunericul şi în umbra morţii şi să ne îndrepte picioarele pe calea păcii!”
+{1:80} Iar pruncul creştea şi se întărea în duh. Şi a stat în locuri pustii până în ziua arătării lui înaintea lui Israel.
+{i2:1} Naşterea lui Isus Hristos
+{2:1} În vremea aceea, a ieşit o poruncă de la Cezar August să se înscrie toată lumea.
+{2:2} Înscrierea aceasta s-a făcut întâia dată pe când era dregător în Siria Quirinius.
+{2:3} Toţi se duceau să se înscrie, fiecare în cetatea lui.
+{2:4} Iosif s-a suit şi el din Galileea, din cetatea Nazaret, ca să se ducă în Iudeea, în cetatea lui David, numită Betleem, pentru că era din casa şi din seminţia lui David,
+{2:5} să se înscrie împreună cu Maria, logodnica lui, care era însărcinată.
+{2:6} Pe când erau ei acolo, s-a împlinit vremea când trebuia să nască Maria.
+{2:7} Şi a născut pe Fiul ei cel întâi născut, L-a înfăşat în scutece şi L-a culcat într-o iesle, pentru că în casa de poposire nu era loc pentru ei.
+{i2:8} Păstorii din Betleem
+{2:8} În ţinutul acela, erau nişte păstori care stăteau afară, în câmp, şi făceau de strajă noaptea împrejurul turmei lor.
+{2:9} Şi iată că un înger al Domnului s-a înfăţişat înaintea lor, şi slava Domnului a strălucit împrejurul lor. Ei s-au înfricoşat foarte tare.
+{2:10} Dar îngerul le-a zis: „Nu vă temeţi, căci vă aduc o veste bună, care va fi o mare bucurie pentru tot norodul:
+{2:11} astăzi, în cetatea lui David, vi s-a născut un Mântuitor, care este Hristos, Domnul.
+{2:12} Iată semnul după care-L veţi cunoaşte: veţi găsi un Prunc înfăşat în scutece şi culcat într-o iesle.”
+{2:13} Şi deodată, împreună cu îngerul s-a unit o mulţime de oaste cerească, lăudând pe Dumnezeu şi zicând:
+{2:14} „Slavă lui Dumnezeu în locurile preaînalte şi pace pe pământ între oamenii plăcuţi Lui”.
+{2:15} După ce au plecat îngerii de la ei, ca să se întoarcă în cer, păstorii au zis unii către alţii: „Haidem să mergem până la Betleem şi să vedem ce ni s-a spus şi ce ne-a făcut cunoscut Domnul”.
+{2:16} S-au dus în grabă şi au găsit pe Maria, pe Iosif şi Pruncul culcat în iesle.
+{2:17} După ce L-au văzut, au istorisit ce li se spusese despre Prunc.
+{2:18} Toţi cei ce i-au auzit s-au mirat de cele ce le spuneau păstorii.
+{2:19} Maria păstra toate cuvintele acelea şi se gândea la ele în inima ei.
+{2:20} Şi păstorii s-au întors, slăvind şi lăudând pe Dumnezeu pentru toate cele ce auziseră şi văzuseră şi care erau întocmai cum li se spusese.
+{i2:21} Isus adus în Templu
+{2:21} Când a venit ziua a opta, în care trebuia tăiat împrejur Pruncul, I-au pus numele ISUS, nume care fusese spus de înger înainte ca să fi fost El zămislit în pântece.
+{2:22} Şi, când s-au împlinit zilele pentru curăţirea lor, după Legea lui Moise, Iosif şi Maria au adus Pruncul la Ierusalim, ca să-L înfăţişeze înaintea Domnului,
+{2:23} după cum este scris în Legea Domnului: „Orice întâi născut de parte bărbătească va fi închinat Domnului”,
+{2:24} şi ca să aducă jertfă: o pereche de turturele sau doi pui de porumbei, după cum este poruncit în Legea Domnului.
+{i2:25} Cântarea lui Simeon
+{2:25} Şi iată că în Ierusalim era un om numit Simeon. Omul acesta ducea o viaţă sfântă şi era cu frica lui Dumnezeu. El aştepta mângâierea lui Israel, şi Duhul Sfânt era peste el.
+{2:26} Duhul Sfânt îl înştiinţase că nu va muri înainte ca să vadă pe Hristosul Domnului.
+{2:27} El a venit în Templu mânat de Duhul. Şi, când au adus părinţii înăuntru pe Pruncul Isus, ca să împlinească cu privire la El ce poruncea Legea,
+{2:28} Simeon L-a luat în braţe, a binecuvântat pe Dumnezeu şi a zis:
+{2:29} „Acum, sloboade în pace pe robul Tău, Stăpâne, după cuvântul Tău.
+{2:30} Căci au văzut ochii mei mântuirea Ta,
+{2:31} pe care ai pregătit-o să fie, înaintea tuturor popoarelor,
+{2:32} lumina care să lumineze neamurile şi slava poporului Tău Israel.”
+{2:33} Tatăl şi mama Lui se mirau de lucrurile care se spuneau despre El.
+{2:34} Simeon i-a binecuvântat şi a zis Mariei, mama Lui: „Iată, Copilul acesta este rânduit spre prăbuşirea şi ridicarea multora în Israel, şi să fie un semn, care va stârni împotrivire.
+{2:35} Chiar sufletul tău va fi străpuns de o sabie, ca să se descopere gândurile multor inimi.”
+{2:36} Mai era acolo şi o prorociţă, Ana, fata lui Fanuel, din seminţia lui Aşer. Ea era foarte înaintată în vârstă şi trăise cu bărbatul ei şapte ani după fecioria ei.
+{2:37} Rămasă văduvă şi fiind în vârstă de optzeci şi patru de ani, Ana nu se depărta de Templu şi zi şi noapte slujea lui Dumnezeu cu post şi cu rugăciuni.
+{2:38} A venit şi ea în acelaşi ceas şi a început să laude pe Dumnezeu şi să vorbească despre Isus tuturor celor ce aşteptau mântuirea Ierusalimului.
+{i2:39} Întoarcerea la Nazaret
+{2:39} După ce au împlinit tot ce poruncea Legea Domnului, Iosif şi Maria s-au întors în Galileea, în cetatea lor Nazaret.
+{2:40} Iar Pruncul creştea şi se întărea; era plin de înţelepciune, şi harul lui Dumnezeu era peste El.
+{i2:41} Isus în Templu la vârsta de doisprezece ani
+{2:41} Părinţii lui Isus se duceau la Ierusalim în fiecare an, la Praznicul Paştelor.
+{2:42} Când a fost El de doisprezece ani, s-au suit la Ierusalim, după obiceiul Praznicului.
+{2:43} Apoi, după ce au trecut zilele Praznicului, pe când se întorceau acasă, băiatul Isus a rămas în Ierusalim. Părinţii Lui n-au băgat de seamă lucrul acesta.
+{2:44} Au crezut că este cu tovarăşii lor de călătorie şi au mers cale de o zi şi L-au căutat printre rudele şi cunoscuţii lor.
+{2:45} Dar nu L-au găsit şi s-au întors la Ierusalim să-L caute.
+{2:46} După trei zile, L-au găsit în Templu, şezând în mijlocul învăţătorilor, ascultându-i şi punându-le întrebări.
+{2:47} Toţi care-L auzeau rămâneau uimiţi de priceperea şi răspunsurile Lui.
+{2:48} Când L-au văzut părinţii Lui, au rămas înmărmuriţi; şi mama Lui I-a zis: „Fiule, pentru ce Te-ai purtat aşa cu noi? Iată că tatăl Tău şi eu Te-am căutat cu îngrijorare.”
+{2:49} El le-a zis: „De ce M-aţi căutat? Oare nu ştiaţi că trebuie să fiu în casa Tatălui Meu?”
+{2:50} Dar ei n-au înţeles spusele Lui.
+{2:51} Apoi, S-a pogorât împreună cu ei, a venit la Nazaret şi le era supus. Mamă-Sa păstra toate cuvintele acestea în inima ei.
+{2:52} Şi Isus creştea în înţelepciune, în statură şi era tot mai plăcut înaintea lui Dumnezeu şi înaintea oamenilor.
+{i3:1} Propovăduirea lui Ioan Botezătorul
+{3:1} În anul al cincisprezecelea al domniei lui Tiberiu Cezar – pe când Pilat din Pont era dregător în Iudeea; Irod, cârmuitor al Galileii; Filip, fratele lui, cârmuitor al Ituriei şi al Trahonitei; Lisania, cârmuitor al Abilenei;
+{3:2} şi în zilele marilor preoţi Ana şi Caiafa –, Cuvântul lui Dumnezeu a vorbit lui Ioan, fiul lui Zaharia, în pustie.
+{3:3} Şi Ioan a venit prin tot ţinutul din împrejurimile Iordanului şi propovăduia botezul pocăinţei, pentru iertarea păcatelor,
+{3:4} după cum este scris în cartea cuvintelor prorocului Isaia: „Iată glasul celui ce strigă în pustie: ‘Pregătiţi calea Domnului, neteziţi-I cărările.
+{3:5} Orice vale va fi astupată, orice munte şi orice deal vor fi prefăcute în loc neted; căile strâmbe vor fi îndreptate şi drumurile zgrunţuroase vor fi netezite.
+{3:6} Şi orice făptură va vedea mântuirea lui Dumnezeu’.”
+{3:7} Ioan zicea dar noroadelor care veneau să fie botezate de el: „Pui de năpârci, cine v-a învăţat să fugiţi de mânia viitoare?
+{3:8} Faceţi dar roade vrednice de pocăinţa voastră şi nu vă apucaţi să ziceţi în voi înşivă: ‘Avem pe Avraam ca tată!’ Căci vă spun că Dumnezeu din pietrele acestea poate să ridice fii lui Avraam.
+{3:9} Securea a şi fost înfiptă la rădăcina pomilor: deci orice pom care nu face roadă bună este tăiat şi aruncat în foc.”
+{3:10} Noroadele îl întrebau şi ziceau: „Atunci ce trebuie să facem?”
+{3:11} Drept răspuns, el le zicea: „Cine are două haine să împartă cu cine n-are niciuna; şi cine are de mâncare să facă la fel”.
+{3:12} Au venit şi nişte vameşi să fie botezaţi şi i-au zis: „Învăţătorule, noi ce trebuie să facem?”
+{3:13} El le-a răspuns: „Să nu cereţi nimic mai mult peste ce v-a fost poruncit să luaţi”.
+{3:14} Nişte ostaşi îl întrebau şi ei şi ziceau: „Dar noi ce trebuie să facem?” El le-a răspuns: „Să nu stoarceţi nimic de la nimeni prin ameninţări, nici să nu învinuiţi pe nimeni pe nedrept, ci să vă mulţumiţi cu lefurile voastre”.
+{3:15} Fiindcă norodul era în aşteptare şi toţi se gândeau în inimile lor cu privire la Ioan dacă nu cumva este el Hristosul,
+{3:16} Ioan, drept răspuns, a zis tuturor: „Cât despre mine, eu vă botez cu apă; dar vine Acela care este mai puternic decât mine şi Căruia eu nu sunt vrednic să-I dezleg cureaua încălţămintelor. El vă va boteza cu Duhul Sfânt şi cu foc.
+{3:17} Acela are lopata în mână; Îşi va curăţi aria cu desăvârşire şi Îşi va strânge grâul în grânar, iar pleava o va arde într-un foc care nu se stinge.”
+{i3:18} Închiderea lui Ioan
+{3:18} Astfel propovăduia Ioan norodului Evanghelia şi-i dădea încă multe alte îndemnuri.
+{3:19} Dar cârmuitorul Irod, care era mustrat de Ioan pentru Irodiada, nevasta fratelui său Filip, şi pentru toate relele pe care le făcuse,
+{3:20} a mai adăugat la toate celelalte rele şi pe acela că a închis pe Ioan în temniţă.
+{i3:21} Botezul lui Isus
+{3:21} După ce a fost botezat tot norodul, a fost botezat şi Isus; şi pe când Se ruga, s-a deschis cerul,
+{3:22} şi Duhul Sfânt S-a pogorât peste El în chip trupesc, ca un porumbel. Şi din cer s-a auzit un glas, care zicea: „Tu eşti Fiul Meu preaiubit, în Tine Îmi găsesc toată plăcerea Mea!”
+{i3:23} Cartea neamului lui Isus Hristos
+{3:23} Isus avea aproape treizeci de ani când a început să înveţe pe norod; şi era, cum se credea, fiul lui Iosif, fiul lui Eli,
+{3:24} fiul lui Matat, fiul lui Levi, fiul lui Melhi, fiul lui Ianai, fiul lui Iosif,
+{3:25} fiul lui Matatia, fiul lui Amos, fiul lui Naum, fiul lui Esli, fiul lui Nagai,
+{3:26} fiul lui Maat, fiul lui Matatia, fiul lui Semei, fiul lui Ioseh, fiul lui Ioda,
+{3:27} fiul lui Ioanan, fiul lui Resa, fiul lui Zorobabel, fiul lui Salatiel, fiul lui Neri,
+{3:28} fiul lui Melhi, fiul lui Adi, fiul lui Cosam, fiul lui Elmadam, fiul lui Er,
+{3:29} fiul lui Isus, fiul lui Eliezer, fiul lui Iorim, fiul lui Matat, fiul lui Levi,
+{3:30} fiul lui Simeon, fiul lui Iuda, fiul lui Iosif, fiul lui Ionam, fiul lui Eliachim,
+{3:31} fiul lui Melea, fiul lui Mena, fiul lui Matata, fiul lui Natan, fiul lui David,
+{3:32} fiul lui Iese, fiul lui Iobed, fiul lui Boaz, fiul lui Salmon, fiul lui Naason,
+{3:33} fiul lui Aminadab, fiul lui Admin, fiul lui Arni, fiul lui Esrom, fiul lui Fares, fiul lui Iuda,
+{3:34} fiul lui Iacov, fiul lui Isaac, fiul lui Avraam, fiul lui Terah, fiul lui Nahor,
+{3:35} fiul lui Seruh, fiul lui Ragau, fiul lui Falec, fiul lui Eber, fiul lui Sala,
+{3:36} fiul lui Cainam, fiul lui Arfaxad, fiul lui Sem, fiul lui Noe, fiul lui Lameh,
+{3:37} fiul lui Metusala, fiul lui Enoh, fiul lui Iared, fiul lui Maleleel, fiul lui Cainan,
+{3:38} fiul lui Enos, fiul lui Set, fiul lui Adam, fiul lui Dumnezeu.
+{i4:1} Ispitirea lui Isus Hristos
+{4:1} Isus, plin de Duhul Sfânt, S-a întors de la Iordan şi a fost dus de Duhul în pustie,
+{4:2} unde a fost ispitit de diavolul timp de patruzeci de zile. N-a mâncat nimic în zilele acelea; şi, după ce au trecut acele zile, a flămânzit.
+{4:3} Diavolul I-a zis: „Dacă eşti Fiul lui Dumnezeu, porunceşte pietrei acesteia să se facă pâine”.
+{4:4} Isus i-a răspuns: „Este scris: ‘Omul nu va trăi numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu’.”
+{4:5} Diavolul L-a suit pe un munte înalt, i-a arătat într-o clipă, toate împărăţiile pământului,
+{4:6} şi I-a zis: „Ţie Îţi voi da toată stăpânirea şi slava acestor împărăţii; căci mie îmi este dată şi o dau oricui voiesc.
+{4:7} Dacă, dar, Te vei închina înaintea mea, toată va fi a Ta.”
+{4:8} Drept răspuns, Isus i-a zis: „Înapoia Mea, Satano! Este scris: ‘Să te închini Domnului, Dumnezeului tău, şi numai Lui să-I slujeşti’.”
+{4:9} Diavolul L-a dus apoi în Ierusalim, L-a aşezat pe streaşina acoperişului Templului şi I-a zis: „Dacă eşti Fiul lui Dumnezeu, aruncă-Te jos de aici;
+{4:10} căci este scris: ‘El va porunci îngerilor Lui să Te păzească;’
+{4:11} şi ‘ei Te vor lua pe mâini, ca nu cumva să Te loveşti cu piciorul de vreo piatră.’”
+{4:12} Isus i-a răspuns: „S-a spus: ‘Să nu ispiteşti pe Domnul, Dumnezeul tău’.”
+{4:13} După ce L-a ispitit în toate felurile, diavolul a plecat de la El, până la o vreme.
+{i4:14} Isus în Galileea
+{4:14} Isus, plin de puterea Duhului, S-a întors în Galileea şi I s-a dus vestea în tot ţinutul dimprejur.
+{4:15} El învăţa pe oameni în sinagogile lor şi era slăvit de toţi.
+{i4:16} Isus propovăduieşte la Nazaret
+{4:16} A venit în Nazaret, unde fusese crescut, şi, după obiceiul Său, în ziua Sabatului, a intrat în sinagogă. S-a sculat să citească
+{4:17} şi I s-a dat cartea prorocului Isaia. Când a deschis-o, a dat peste locul unde era scris:
+{4:18} „Duhul Domnului este peste Mine, pentru că M-a uns să vestesc săracilor Evanghelia, M-a trimis să tămăduiesc pe cei cu inima zdrobită, să propovăduiesc robilor de război slobozirea şi orbilor, căpătarea vederii, să dau drumul celor apăsaţi
+{4:19} şi să vestesc anul de îndurare al Domnului.”
+{4:20} În urmă, a închis cartea, a dat-o înapoi îngrijitorului şi a şezut jos. Toţi cei ce se aflau în sinagogă aveau privirile pironite spre El.
+{4:21} Atunci, a început să le spună: „Astăzi s-au împlinit cuvintele acestea din Scriptură, pe care le-aţi auzit”.
+{4:22} Şi toţi Îl vorbeau de bine, se mirau de cuvintele pline de har care ieşeau din gura Lui şi ziceau: „Oare nu este acesta feciorul lui Iosif?”
+{4:23} Isus le-a zis: „Fără îndoială, Îmi veţi spune zicala aceea: ‘Doctore, vindecă-te pe tine însuţi’ şi Îmi veţi zice: ‘Fă şi aici, în patria Ta, tot ce am auzit că ai făcut în Capernaum’.”
+{4:24} „Dar”, a adăugat El, „adevărat vă spun că niciun proroc nu este primit bine în patria lui.
+{4:25} Ba încă, adevărat vă spun că, pe vremea lui Ilie, când a fost încuiat cerul să nu dea ploaie trei ani şi şase luni şi când a venit o foamete mare peste toată ţara, erau multe văduve în Israel,
+{4:26} şi totuşi Ilie n-a fost trimis la niciuna din ele, afară de o văduvă din Sarepta Sidonului.
+{4:27} Şi mulţi leproşi erau în Israel pe vremea prorocului Elisei, şi totuşi niciunul din ei n-a fost curăţit, afară de Naaman, Sirianul.”
+{4:28} Toţi cei din sinagogă, când au auzit aceste lucruri, s-au umplut de mânie.
+{4:29} Şi s-au sculat, L-au scos din cetate şi L-au dus până în sprânceana muntelui, pe care era zidită cetatea lor, ca să-L arunce în prăpastie.
+{4:30} Dar Isus a trecut prin mijlocul lor şi a plecat de acolo.
+{i4:31} Vindecarea unui îndrăcit în Capernaum
+{4:31} S-a pogorât în Capernaum, cetate din Galileea, şi acolo învăţa pe oameni în ziua Sabatului.
+{4:32} Ei erau uimiţi de învăţătura Lui, pentru că vorbea cu putere.
+{4:33} În sinagogă se afla un om care avea un duh de drac necurat şi care a strigat cu glas tare:
+{4:34} „Ah! Ce avem noi a face cu Tine, Isuse din Nazaret? Ai venit să ne prăpădeşti? Te ştiu cine eşti: Sfântul lui Dumnezeu.”
+{4:35} Isus l-a certat şi i-a zis: „Taci şi ieşi din omul acesta!”Şi dracul, după ce l-a trântit jos, în mijlocul adunării, a ieşit din el, fără să-i facă vreun rău.
+{4:36} Toţi au fost cuprinşi de spaimă şi ziceau unii către alţii: „Ce înseamnă lucrul acesta? El porunceşte cu stăpânire şi cu putere duhurilor necurate, şi ele ies afară!”
+{4:37} Şi I s-a dus vestea în toate împrejurimile.
+{i4:38} Vindecarea soacrei lui Simon
+{4:38} După ce a ieşit din sinagogă, a intrat în casa lui Simon. Soacra lui Simon era prinsă de friguri mari şi L-au rugat pentru ea.
+{4:39} El S-a plecat spre ea, a certat frigurile, şi au lăsat-o frigurile. Ea s-a sculat îndată şi a început să le slujească.
+{i4:40} Vindecarea mai multor bolnavi
+{4:40} La asfinţitul soarelui, toţi cei ce aveau bolnavi atinşi de felurite boli îi aduceau la El. El Îşi punea mâinile peste fiecare din ei şi-i vindeca.
+{4:41} Din mulţi ieşeau şi draci, care strigau şi ziceau: „Tu eşti Hristosul, Fiul lui Dumnezeu”. Dar El îi mustra şi nu-i lăsa să vorbească, pentru că ştiau că El este Hristosul.
+{4:42} Când s-a crăpat de ziuă, Isus a ieşit şi S-a dus într-un loc pustiu. Noroadele au început să-L caute în toate părţile şi au ajuns până la El: voiau să-L oprească să nu plece de la ei.
+{4:43} Dar El le-a zis: „Trebuie să vestesc Evanghelia Împărăţiei lui Dumnezeu şi în alte cetăţi, fiindcă pentru aceasta am fost trimis”.
+{4:44} Şi propovăduia în sinagogile Galileii.
+{i5:1} Pescuirea minunată
+{5:1} Pe când Se afla lângă lacul Ghenezaret şi Îl îmbulzea norodul ca să audă Cuvântul lui Dumnezeu,
+{5:2} Isus a văzut două corăbii la marginea lacului; pescarii ieşiseră din ele să-şi spele mrejele.
+{5:3} S-a suit într-una din aceste corăbii, care era a lui Simon, şi l-a rugat s-o depărteze puţin de la ţărm. Apoi, a şezut jos şi învăţa pe noroade din corabie.
+{5:4} Când a încetat să vorbească, a zis lui Simon: „Depărteaz-o la adânc şi aruncaţi-vă mrejele pentru pescuire”.
+{5:5} Drept răspuns, Simon I-a zis: „Învăţătorule, toată noaptea ne-am trudit şi n-am prins nimic, dar, la cuvântul Tău, voi arunca mrejele!”
+{5:6} După ce le-au aruncat, au prins o aşa de mare mulţime de peşti că începeau să li se rupă mrejele.
+{5:7} Au făcut semn tovarăşilor lor, care erau în cealaltă corabie, să vină să le ajute. Aceia au venit şi au umplut amândouă corăbiile, aşa că au început să se afunde corăbiile.
+{5:8} Când a văzut Simon Petru lucrul acesta, s-a aruncat la genunchii lui Isus şi I-a zis: „Doamne, pleacă de la mine, căci sunt un om păcătos”.
+{5:9} Fiindcă îl apucase spaima pe el şi pe toţi cei ce erau cu el din pricina pescuirii pe care o făcuseră.
+{5:10} Tot aşa şi pe Iacov şi pe Ioan, fiii lui Zebedei, tovarăşii lui Simon. Atunci, Isus a zis lui Simon: „Nu te teme; de acum încolo vei fi pescar de oameni”.
+{5:11} Ei au scos corăbiile la mal, au lăsat totul şi au mers după El.
+{i5:12} Vindecarea unui lepros
+{5:12} Isus era într-una din cetăţi. Şi iată că un om plin de lepră, cum L-a văzut, s-a aruncat cu faţa la pământ, L-a rugat şi I-a zis: „Doamne, dacă vrei, poţi să mă curăţeşti”.
+{5:13} Isus a întins mâna, S-a atins de el şi i-a zis: „Da, voiesc, fii curăţit!”Îndată l-a lăsat lepra.
+{5:14} Apoi, i-a poruncit să nu spună nimănui. „Ci du-te”, i-a zis El, „de te arată preotului şi adu, pentru curăţirea ta, ce a rânduit Moise, ca mărturie pentru ei”.
+{5:15} Se răspândea tot mai mult vestea despre El, şi oamenii se strângeau cu grămada ca să-L asculte şi să fie vindecaţi de bolile lor.
+{5:16} Iar El se ducea în locuri pustii şi Se ruga.
+{i5:17} Vindecarea unui slăbănog
+{5:17} Într-una din zile, Isus învăţa pe noroade. Nişte farisei şi învăţători ai Legii, care veniseră din toate satele Galileii şi Iudeii şi din Ierusalim, stăteau acolo; iar puterea Domnului era cu El, ca să vindece.
+{5:18} Şi iată că nişte oameni purtau într-un pat pe un slăbănog şi căutau să-l ducă înăuntru, ca să-l pună înaintea Lui.
+{5:19} Fiindcă n-aveau pe unde să-l ducă înăuntru, din pricina norodului, s-au suit pe acoperişul casei şi l-au coborât cu patul printre cărămizi, în mijlocul adunării, înaintea lui Isus.
+{5:20} Când le-a văzut credinţa, Isus a zis: „Omule, păcatele îţi sunt iertate!”
+{5:21} Cărturarii şi fariseii au început să cârtească şi să zică în ei înşişi: „Cine este acesta de rosteşte hule? Cine poate să ierte păcatele decât singur Dumnezeu?”
+{5:22} Isus, care le-a cunoscut gândurile, a luat cuvântul şi le-a zis: „Pentru ce cârtiţi în inimile voastre?
+{5:23} Ce este mai lesne: a zice: ‘Păcatele îţi sunt iertate’ sau a zice: ‘Scoală-te şi umblă?’
+{5:24} Dar, ca să ştiţi că Fiul omului are putere pe pământ să ierte păcatele: ţie îţi poruncesc”, a zis El slăbănogului, „scoală-te, ridică-ţi patul şi du-te acasă.”
+{5:25} Şi numaidecât, slăbănogul s-a sculat în faţa lor, a ridicat patul pe care zăcea şi s-a dus acasă, slăvind pe Dumnezeu.
+{5:26} Toţi au rămas uimiţi şi slăveau pe Dumnezeu; plini de frică ziceau: „Azi am văzut lucruri nemaipomenite”.
+{i5:27} Chemarea lui Levi
+{5:27} După aceea, Isus a ieşit afară şi a văzut pe un vameş, numit Levi, şezând la vamă. Şi i-a zis: „Vino după Mine!”
+{5:28} Vameşul a lăsat totul, s-a sculat şi a mers după El.
+{5:29} Levi I-a făcut un ospăţ mare la el în casă, şi o mulţime de vameşi şi de alţi oaspeţi şedeau la masă cu ei.
+{5:30} Fariseii şi cărturarii cârteau şi ziceau ucenicilor Lui: „Pentru ce mâncaţi şi beţi împreună cu vameşii şi cu păcătoşii?”
+{5:31} Isus a luat cuvântul şi le-a zis: „Nu cei sănătoşi au trebuinţă de doctor, ci cei bolnavi.
+{5:32} N-am venit să chem la pocăinţă pe cei neprihăniţi, ci pe cei păcătoşi.”
+{i5:33} Întrebarea despre post
+{5:33} Ei I-au zis: „Ucenicii lui Ioan, ca şi ai fariseilor, postesc des şi fac rugăciuni, pe când ai Tăi mănâncă şi beau”.
+{5:34} El le-a răspuns: „Oare puteţi face pe nuntaşi să postească în timpul când mirele este cu ei?
+{5:35} Vor veni zile când va fi luat mirele de la ei; atunci vor posti în acele zile.”
+{5:36} Le-a spus şi o pildă: „Nimeni nu rupe dintr-o haină nouă un petic ca să-l pună la o haină veche; altminteri, rupe şi haina cea nouă şi nici peticul luat de la ea nu se potriveşte la cea veche.
+{5:37} Şi nimeni nu pune vin nou în burdufuri vechi; altminteri, vinul cel nou sparge burdufurile, se varsă, şi burdufurile se prăpădesc;
+{5:38} ci vinul nou trebuie pus în burdufuri noi şi amândouă se păstrează.
+{5:39} Şi nimeni, după ce a băut vin vechi, nu voieşte vin nou, căci zice: ‘Este mai bun cel vechi’”.
+{i6:1} Spicele de grâu şi Sabatul
+{6:1} Într-o zi de Sabat, s-a întâmplat că Isus trecea prin lanurile de grâu. Ucenicii Lui smulgeau spice de grâu, le frecau cu mâinile şi le mâncau.
+{6:2} Unii dintre farisei le-au zis: „Pentru ce faceţi ce nu este îngăduit să faceţi în ziua Sabatului?”
+{6:3} Isus le-a răspuns: „Oare n-aţi citit ce a făcut David când a flămânzit, el şi cei ce erau împreună cu el?
+{6:4} Cum a intrat în Casa lui Dumnezeu, a luat pâinile pentru punerea înaintea Domnului, a mâncat din ele şi a dat şi celor ce erau cu el, măcar că nu era îngăduit să le mănânce decât preoţii?”
+{6:5} Şi le zicea: „Fiul omului este Domn chiar şi al Sabatului”.
+{i6:6} Omul cu mâna uscată
+{6:6} În altă zi de Sabat, s-a întâmplat că Isus a intrat în sinagogă şi învăţa pe norod. Acolo era un om care avea mâna dreaptă uscată.
+{6:7} Cărturarii şi fariseii pândeau pe Isus, să vadă dacă-l va vindeca în ziua Sabatului, ca să aibă de ce să-L învinuiască.
+{6:8} Dar El le ştia gândurile şi a zis omului care avea mâna uscată: „Scoală-te şi stai în mijloc”. El s-a sculat şi a stat în picioare.
+{6:9} Şi Isus le-a zis: „Vă întreb: Este îngăduit în ziua Sabatului a face bine ori a face rău? A scăpa o viaţă sau a o pierde?”
+{6:10} Atunci, Şi-a rotit privirile peste toţi şi a zis omului: „Întinde-ţi mâna!” El a întins-o, şi mâna i s-a făcut sănătoasă ca şi cealaltă.
+{6:11} Ei turbau de mânie şi s-au sfătuit ce ar putea să facă lui Isus.
+{i6:12} Alegerea celor doisprezece
+{6:12} În zilele acelea, Isus S-a dus în munte să Se roage şi a petrecut toată noaptea în rugăciune către Dumnezeu.
+{6:13} Când s-a făcut ziuă, a chemat pe ucenicii Săi şi a ales dintre ei doisprezece pe care i-a numit apostoli, şi anume:
+{6:14} pe Simon, pe care l-a numit şi Petru, pe Andrei, fratele lui, pe Iacov, pe Ioan, pe Filip, pe Bartolomeu,
+{6:15} pe Matei, pe Toma, pe Iacov, fiul lui Alfeu, pe Simon, numit Zelotul,
+{6:16} pe Iuda, fiul lui Iacov, şi pe Iuda Iscarioteanul, care s-a făcut vânzător.
+{i6:17} Felurite vindecări
+{6:17} S-a pogorât împreună cu ei şi S-a oprit într-un podiş, unde se aflau mulţi ucenici de-ai Lui, şi o mare mulţime de oameni, care veniseră din toată Iudeea, din Ierusalim şi de pe lângă marea Tirului şi a Sidonului, ca să-L asculte şi să fie vindecaţi de bolile lor.
+{6:18} Cei chinuiţi de duhuri necurate erau vindecaţi.
+{6:19} Şi tot norodul căuta să se atingă de El, pentru că din El ieşea o putere, care-i vindeca pe toţi.
+{i6:20} Fericirile
+{6:20} Atunci, Isus Şi-a ridicat ochii spre ucenicii Săi şi a zis: „Ferice de voi, care sunteţi săraci, pentru că Împărăţia lui Dumnezeu este a voastră!
+{6:21} Ferice de voi, care sunteţi flămânzi acum, pentru că voi veţi fi săturaţi! Ferice de voi, care plângeţi acum, pentru că voi veţi râde!
+{6:22} Ferice de voi, când oamenii vă vor urî, vă vor izgoni dintre ei, vă vor ocărî şi vor lepăda numele vostru, ca ceva rău, din pricina Fiului omului!
+{6:23} Bucuraţi-vă în ziua aceea şi săltaţi de veselie, pentru că răsplata voastră este mare în cer; căci tot aşa făceau părinţii lor cu prorocii.
+{6:24} Dar vai de voi, bogaţilor, pentru că voi v-aţi primit aici mângâierea!
+{6:25} Vai de voi, care sunteţi sătui acum! Pentru că voi veţi flămânzi! Vai de voi, care râdeţi acum, pentru că voi veţi plânge şi vă veţi tângui!
+{6:26} Vai de voi, când toţi oamenii vă vor grăi de bine! Fiindcă tot aşa făceau părinţii lor cu prorocii mincinoşi!
+{i6:27} Iubirea vrăjmaşilor
+{6:27} Dar Eu vă spun vouă, care Mă ascultaţi: Iubiţi pe vrăjmaşii voştri, faceţi bine celor ce vă urăsc,
+{6:28} binecuvântaţi pe cei ce vă blestemă, rugaţi-vă pentru cei ce se poartă rău cu voi.
+{6:29} Dacă te bate cineva peste o falcă, întoarce-i şi pe cealaltă. Dacă îţi ia cineva haina cu sila, nu-l opri să-ţi ia şi cămaşa.
+{6:30} Oricui îţi cere, dă-i; şi celui ce-ţi ia cu sila ale tale, nu i le cere înapoi.
+{6:31} Ce voiţi să vă facă vouă oamenii, faceţi-le şi voi la fel.
+{6:32} Dacă iubiţi pe cei ce vă iubesc, ce răsplată vi se cuvine? Şi păcătoşii iubesc pe cei ce-i iubesc pe ei.
+{6:33} Dacă faceţi bine celor ce vă fac bine, ce răsplată vi se cuvine? Şi păcătoşii fac aşa.
+{6:34} Şidacă daţi cu împrumut acelora de la care nădăjduiţi să luaţi înapoi, ce răsplată vi se cuvine? Şi păcătoşii dau cu împrumut păcătoşilor, ca să ia înapoi întocmai.
+{6:35} Voi, însă, iubiţi pe vrăjmaşii voştri, faceţi bine şi daţi cu împrumut, fără să nădăjduiţi ceva în schimb. Şi răsplata voastră va fi mare şi veţi fi fiii Celui Preaînalt; căci El este bun şi cu cei nemulţumitori, şi cu cei răi.
+{6:36} Fiţi dar milostivi, cum şi Tatăl vostru este milostiv.
+{i6:37} Paiul şi bârna, pomul şi roada
+{6:37} Nu judecaţi, şi nu veţi fi judecaţi; nu osândiţi, şi nu veţi fi osândiţi; iertaţi, şi vi se va ierta.
+{6:38} Daţi, şi vi se va da; ba încă vi se va turna în sân o măsură bună, îndesată, clătinată, care se va vărsa pe deasupra. Căci cu ce măsură veţi măsura, cu aceea vi se va măsura.”
+{6:39} Le-a spus şi pilda următoare: „Oare poate un orb să călăuzească pe un alt orb? Nu vor cădea amândoi în groapă?
+{6:40} Ucenicul nu este mai presus de învăţătorul lui, dar orice ucenic desăvârşit va fi ca învăţătorul lui.
+{6:41} De ce vezi tu paiul din ochiul fratelui tău şi nu te uiţi cu băgare de seamă la bârna din ochiul tău?
+{6:42} Sau cum poţi să zici fratelui tău: ‘Frate, lasă-mă să-ţi scot paiul din ochi’ şi, când colo, tu nu vezi bârna din ochiul tău? Făţarnicule, scoate întâi bârna din ochiul tău, şi atunci vei vedea desluşit să scoţi paiul din ochiul fratelui tău.
+{6:43} Nu este nici un pom bun care să facă roadă rea şi nici un pom rău care să facă roadă bună.
+{6:44} Căci orice pom se cunoaşte după roada lui. Nu se strâng smochine din spini, nici nu se culeg struguri din mărăcini.
+{6:45} Omul bun scoate lucruri bune din vistieria bună a inimii lui, iar omul rău scoate lucruri rele din vistieria rea a inimii lui; căci din prisosul inimii vorbeşte gura.
+{i6:46} Casa zidită pe stâncă
+{6:46} De ce-Mi ziceţi: ‘Doamne, Doamne!’ şi nu faceţi ce spun Eu?
+{6:47} Vă voi arăta cu cine se aseamănă orice om care vine la Mine, aude cuvintele Mele şi le face.
+{6:48} Se aseamănă cu un om care, când a zidit o casă, a săpat adânc înainte şi a aşezat temelia pe stâncă. A venit o vărsare de ape şi s-a năpustit şuvoiul peste casa aceea, dar n-a putut s-o clatine, pentru că era zidită pe stâncă.
+{6:49} Dar cine aude şi nu face se aseamănă cu un om care a zidit o casă pe pământ, fără temelie. Şi s-a năpustit şuvoiul asupra ei, ea s-a prăbuşit îndată, şi prăbuşirea acestei case a fost mare.”
+{i7:1} Vindecarea robului unui sutaş
+{7:1} După ce a sfârşit de rostit toate aceste cuvântări înaintea norodului care-L asculta, Isus a intrat în Capernaum.
+{7:2} Un sutaş avea un rob la care ţinea foarte mult şi care era bolnav pe moarte.
+{7:3} Fiindcă auzise vorbindu-se despre Isus, sutaşul a trimis la El pe nişte bătrâni ai iudeilor, ca să-L roage să vină să vindece pe robul lui.
+{7:4} Aceştia au venit la Isus, L-au rugat cu tot dinadinsul şi au zis: „Face să-i faci acest bine,
+{7:5} căci iubeşte neamul nostru şi el ne-a zidit sinagoga”.
+{7:6} Isus a plecat cu ei, dar nu era departe de casă când sutaşul a trimis la El pe nişte prieteni să-I spună: „Doamne, nu Te mai osteni atâta, pentru că nu sunt vrednic să intri sub acoperământul meu.
+{7:7} De aceea nici nu m-am socotit vrednic să vin eu însumi la Tine. Ci zi o vorbă, şi robul meu va fi tămăduit.
+{7:8} Căci şi eu, care sunt sub stăpânirea altuia, am sub mine ostaşi. Şi zic unuia: ‘Du-te!’ şi se duce; altuia: ‘Vino!’ şi vine; şi robului meu: ‘Fă cutare lucru!’ şi-l face.”
+{7:9} Când a auzit Isus aceste vorbe, S-a minunat de sutaş, S-a întors spre norodul care mergea după El şi a zis: „Vă spun că nici chiar în Israel n-am găsit o credinţă atât de mare”.
+{7:10} Când s-au întors acasă, trimişii au găsit sănătos pe robul care fusese bolnav.
+{i7:11} Învierea fiului văduvei din Nain
+{7:11} În ziua următoare, Isus Se ducea într-o cetate numită Nain. Împreună cu El mergeau ucenicii Lui şi norod mult.
+{7:12} Când S-a apropiat de poarta cetăţii, iată că duceau la groapă pe un mort, singurul fiu al maicii lui, care era văduvă; şi cu ea erau o mulţime de oameni din cetate.
+{7:13} Domnului, când a văzut-o, I s-a făcut milă de ea şi i-a zis: „Nu plânge!”
+{7:14} Apoi, S-a apropiat şi S-a atins de raclă. Cei ce o duceau s-au oprit. El a zis: „Tinerelule, scoală-te, îţi spun!”
+{7:15} Mortul a şezut în capul oaselor şi a început să vorbească. Isus l-a dat înapoi maicii lui.
+{7:16} Toţi au fost cuprinşi de frică, slăveau pe Dumnezeu şi ziceau: „Un mare proroc s-a ridicat între noi; şi Dumnezeu a cercetat pe poporul Său”.
+{7:17} Vestea aceasta despre Isus s-a răspândit în toată Iudeea şi prin toate împrejurimile.
+{i7:18} Trimişii lui Ioan Botezătorul
+{7:18} Ucenicii lui Ioan au dat de ştire învăţătorului lor despre toate aceste lucruri.
+{7:19} Ioan a chemat pe doi dintre ucenicii săi şi i-a trimis la Isus să-L întrebe: „Tu eşti Acela care are să vină sau să aşteptăm pe altul?”
+{7:20} Aceştia, când s-au înfăţişat înaintea lui Isus, I-au zis: „Ioan Botezătorul ne-a trimis la Tine să Te întrebăm: ‘Tu eşti Acela care are să vină sau să aşteptăm pe altul?’”
+{7:21} Chiar în clipa aceea, Isus a vindecat pe mulţi de boli, de chinuri, de duhuri rele şi multor orbi le-a dăruit vederea.
+{7:22} Şi, drept răspuns, le-a zis: „Duceţi-vă de spuneţi lui Ioan ce aţi văzut şi auzit: orbii văd, şchiopii umblă, leproşii sunt curăţiţi, surzii aud, morţii învie şi săracilor li se propovăduieşte Evanghelia.
+{7:23} Ferice de acela pentru care nu voi fi un prilej de poticnire.”
+{i7:24} Mărturia lui Isus despre Ioan
+{7:24} După ce au plecat trimişii lui Ioan, Isus a început să spună noroadelor despre Ioan: „Ce aţi ieşit să vedeţi în pustie? O trestie clătinată de vânt?
+{7:25} Atunci ce aţi ieşit să vedeţi? Un om îmbrăcat în haine moi? Iată că cei ce poartă haine moi şi cei ce trăiesc în desfătări sunt în casele împăraţilor.
+{7:26} Atunci ce aţi ieşit să vedeţi? Un proroc? Da, vă spun, şi mai mult decât un proroc.
+{7:27} El este acela despre care este scris: ‘Iată, trimit pe solul Meu înaintea Feţei Tale, care Îţi va pregăti calea înaintea Ta’.
+{7:28} Vă spun că, dintre cei născuţi din femei, nu este niciunul mai mare decât Ioan Botezătorul. Totuşi cel mai mic în Împărăţia lui Dumnezeu este mai mare decât el.
+{7:29} Şi tot norodul care l-a auzit şi chiar vameşii au dat dreptate lui Dumnezeu, primind botezul lui Ioan,
+{7:30} dar fariseii şi învăţătorii Legii au zădărnicit planul lui Dumnezeu pentru ei, neprimind botezul lui.
+{7:31} Cu cine voi asemăna dar pe oamenii din neamul acesta? Şi cu cine seamănă ei?
+{7:32} Seamănă cu nişte copii care stau în piaţă şi strigă unii către alţii: ‘V-am cântat din fluier, şi n-aţi jucat; v-am cântat de jale, şi n-aţi plâns’.
+{7:33} În adevăr, a venit Ioan Botezătorul, nici mâncând pâine, nici bând vin, şi ziceţi: ‘Are drac’.
+{7:34} A venit Fiul omului, mâncând şi bând, şi ziceţi: ‘Iată un om mâncăcios şi băutor de vin, un prieten al vameşilor şi al păcătoşilor’.
+{7:35} Totuşi Înţelepciunea a fost găsită dreaptă de toţi copiii ei.”
+{i7:36} Femeia păcătoasă
+{7:36} Un fariseu a rugat pe Isus să mănânce la el. Isus a intrat în casa fariseului şi a şezut la masă.
+{7:37} Şi iată că o femeie păcătoasă din cetate a aflat că El era la masă în casa fariseului. A adus un vas de alabastru cu mir mirositor
+{7:38} şi stătea înapoi lângă picioarele lui Isus şi plângea. Apoi a început să-I stropească picioarele cu lacrimile ei şi să le şteargă cu părul capului ei; le săruta mult şi le ungea cu mir.
+{7:39} Când a văzut lucrul acesta, fariseul care-L poftise şi-a zis: „Omul acesta, dacă ar fi un proroc, ar şti cine şi ce fel de femeie este cea care se atinge de El: că este o păcătoasă”.
+{7:40} Isus a luat cuvântul şi i-a zis: „Simone, am să-ţi spun ceva”. „Spune, Învăţătorule”, I-a răspuns el.
+{7:41} „Un cămătar avea doi datornici: unul îi era dator cu cinci sute de lei, iar celălalt, cu cincizeci.
+{7:42} Fiindcă n-aveau cu ce plăti, i-a iertat pe amândoi. Spune-Mi dar, care din ei îl va iubi mai mult?”
+{7:43} Simon I-a răspuns: „Socotesc că acela căruia i-a iertat mai mult”. Isus i-a zis: „Drept ai judecat”.
+{7:44} Apoi S-a întors spre femeie şi a zis lui Simon: „Vezi tu pe femeia aceasta? Am intrat în casa ta şi nu Mi-ai dat apă pentru spălat picioarele, dar ea Mi-a stropit picioarele cu lacrimile ei şi Mi le-a şters cu părul capului ei.
+{7:45} Tu nu Mi-ai dat sărutare, dar ea, de când am intrat, n-a încetat să-Mi sărute picioarele.
+{7:46} Capul nu Mi l-ai uns cu untdelemn; dar ea Mi-a uns picioarele cu mir.
+{7:47} De aceea îţi spun: ‘Păcatele ei, care sunt multe, sunt iertate, căci a iubit mult. Dar cui i se iartă puţin iubeşte puţin’.”
+{7:48} Apoi a zis femeii: „Iertate îţi sunt păcatele!”
+{7:49} Cei ce şedeau cu El la masă au început să zică între ei: „Cine este acesta de iartă chiar şi păcatele?”
+{7:50} Dar Isus a zis femeii: „Credinţa ta te-a mântuit; du-te în pace”.
+{i8:1} Isus propovăduieşte Evanghelia
+{8:1} Curând după aceea, Isus umbla din cetate în cetate şi din sat în sat şi propovăduia şi vestea Evanghelia Împărăţiei lui Dumnezeu. Cei doisprezece erau cu El
+{8:2} şi mai erau şi nişte femei care fuseseră tămăduite de duhuri rele şi de boli: Maria, zisă Magdalena, din care ieşiseră şapte draci,
+{8:3} Ioana, nevasta lui Cuza, ispravnicul lui Irod, Susana şi multe altele, care-L ajutau cu ce aveau.
+{i8:4} Pilda semănătorului
+{8:4} Când s-a strâns o gloată mare şi a venit la El norod din felurite cetăţi, Isus a spus pilda aceasta:
+{8:5} „Semănătorul a ieşit să-şi semene sămânţa. Pe când semăna el, o parte din sămânţă a căzut lângă drum: a fost călcată în picioare şi au mâncat-o păsările cerului.
+{8:6} O altă parte a căzut pe stâncă şi, cum a răsărit, s-a uscat, pentru că n-avea umezeală.
+{8:7} O altă parte a căzut în mijlocul spinilor: spinii au crescut împreună cu ea şi au înecat-o.
+{8:8} O altă parte a căzut pe pământ bun şi a crescut şi a făcut rod însutit.” După ce a spus aceste lucruri, Isus a strigat: „Cine are urechi de auzit să audă”.
+{8:9} Ucenicii Lui L-au întrebat ce înţeles are pilda aceasta.
+{8:10} El le-a răspuns: „Vouă v-a fost dat să cunoaşteţi tainele Împărăţiei lui Dumnezeu, dar celorlalţi li se vorbeşte în pilde, ca, măcar că văd, să nu vadă, şi, măcar că aud, să nu înţeleagă.
+{8:11} Iată ce înţeles are pilda aceasta: Sămânţa este Cuvântul lui Dumnezeu.
+{8:12} Cei închipuiţi în sămânţa căzută lângă drum sunt cei ce aud; apoi vine diavolul şi ia Cuvântul din inima lor, ca nu cumva să creadă şi să fie mântuiţi.
+{8:13} Cei închipuiţi în sămânţa căzută pe stâncă sunt aceia care, când aud Cuvântul, Îl primesc cu bucurie, dar n-au rădăcină, ci cred până la o vreme, iar când vine ispita, cad.
+{8:14} Sămânţa care a căzut între spini îi închipuie pe aceia care, după ce au auzit Cuvântul, îşi văd de drum şi-L lasă să fie înăbuşit de grijile, bogăţiile şi plăcerile vieţii acesteia şi n-aduc rod care să ajungă la coacere.
+{8:15} Sămânţa care a căzut pe pământ bun sunt aceia care, după ce au auzit Cuvântul, Îl ţin într-o inimă bună şi curată şi fac rod în răbdare.
+{8:16} Nimeni, după ce a aprins o lumină, n-o acoperă cu un vas, nici n-o pune sub pat, ci o pune într-un sfeşnic, pentru ca cei ce intră să vadă lumina.
+{8:17} Fiindcă nu este nimic acoperit, care nu va fi descoperit, nimic tăinuit, care nu va fi cunoscut şi nu va veni la lumină.
+{8:18} Luaţi seama dar la felul cum ascultaţi; căci celui ce are, i se va da, dar celui ce n-are, i se va lua şi ce i se pare că are.”
+{i8:19} Mama şi fraţii lui Isus
+{8:19} Mama şi fraţii lui Isus au venit la El, dar nu puteau să-I vorbească din pricina norodului.
+{8:20} Cineva I-a spus: „Mama Ta şi fraţii Tăi stau afară şi vor să Te vadă”.
+{8:21} Dar El, drept răspuns, a zis: „Mama Mea şi fraţii Mei sunt cei ce ascultă Cuvântul lui Dumnezeu şi-L împlinesc”.
+{i8:22} Potolirea furtunii
+{8:22} Într-una din zile, Isus S-a suit într-o corabie împreună cu ucenicii Lui. El le-a zis: „Haidem să trecem dincolo de lac”. Şi au plecat.
+{8:23} Pe când vâsleau ei, Isus a adormit. Pe lac s-a stârnit un aşa vârtej de vânt, că se umplea corabia cu apă şi erau în primejdie.
+{8:24} Au venit la El, L-au deşteptat şi au zis: „Învăţătorule, Învăţătorule, pierim”. Isus S-a sculat, a certat vântul şi valurile înfuriate, care s-au potolit, şi s-a făcut linişte.
+{8:25} Apoi a zis ucenicilor Săi: „Unde vă este credinţa?” Plini de spaimă şi de mirare, ei au zis unii către alţii: „Cine este acesta de porunceşte chiar şi vânturilor şi apei şi-L ascultă?”
+{i8:26} Vindecarea unui îndrăcit
+{8:26} Au venit cu corabia în ţinutul gherghesenilor, care este în dreptul Galileii.
+{8:27} Când a ieşit Isus la ţărm, L-a întâmpinat un om din cetate, stăpânit de mai mulţi draci. De multă vreme nu se îmbrăca în haină şi nu-şi avea locuinţa într-o casă, ci în morminte.
+{8:28} Când a văzut pe Isus, a scos un strigăt ascuţit, a căzut jos înaintea Lui şi a zis cu glas tare: „Ce am eu a face cu Tine, Isuse, Fiul Dumnezeului Celui Preaînalt? Te rog nu mă chinui.”
+{8:29} Căci Isus poruncise duhului necurat să iasă din omul acela, pe care pusese stăpânire de multă vreme; era păzit, legat cu cătuşe la mâini şi cu obezi la picioare, dar rupea legăturile şi era gonit de dracul prin pustii.
+{8:30} Isus l-a întrebat: „Cum îţi este numele?” „Legiune”, a răspuns el; pentru că intraseră mulţi draci în el.
+{8:31} Şi dracii rugau stăruitor pe Isus să nu le poruncească să se ducă în Adânc.
+{8:32} Acolo, pe munte, era o turmă mare de porci, care păşteau. Şi dracii au rugat pe Isus să le dea voie să intre în ei. El le-a dat voie.
+{8:33} Dracii au ieşit din omul acela, au intrat în porci, şi turma s-a repezit de pe râpă în lac şi s-a înecat.
+{8:34} Porcarii, când au văzut ce se întâmplase, au fugit şi au dat de veste în cetate şi prin sate.
+{8:35} Oamenii au ieşit să vadă cele întâmplate. Au venit la Isus şi au găsit pe omul din care ieşiseră dracii şezând la picioarele lui Isus, îmbrăcat şi în toate minţile; şi i-a apucat frica.
+{8:36} Cei ce văzuseră cele petrecute le-au povestit cum fusese vindecat cel stăpânit de draci.
+{8:37} Tot norodul din ţinutul gherghesenilor a rugat pe Isus să plece de la ei, pentru că îi apucase o mare frică. Isus S-a suit într-o corabie şi S-a întors.
+{8:38} Omul din care ieşiseră dracii Îl ruga să-i dea voie să rămână cu El. Dar Isus l-a trimis acasă şi i-a zis:
+{8:39} „Întoarce-te acasă şi povesteşte tot ce ţi-a făcut Dumnezeu”. El a plecat şi a vestit prin toată cetatea tot ce-i făcuse Isus.
+{i8:40} Învierea fiicei lui Iair. Femeia cu scurgere de sânge
+{8:40} La întoarcere, Isus a fost primit cu bucurie de mulţime, căci toţi Îl aşteptau.
+{8:41} Şi iată că a venit un om, numit Iair, care era fruntaş al sinagogii. El s-a aruncat la picioarele lui Isus şi L-a rugat să vină până la el acasă;
+{8:42} pentru că avea o singură copilă de vreo doisprezece ani, care trăgea să moară. Pe drum, Isus era îmbulzit de noroade.
+{8:43} Şi era o femeie care, de doisprezece ani, avea o scurgere de sânge; ea îşi cheltuise toată averea cu doctorii, fără s-o fi putut vindeca vreunul.
+{8:44} Ea s-a apropiat pe dinapoi şi s-a atins de poala hainei lui Isus. Îndată, scurgerea de sânge s-a oprit.
+{8:45} Şi Isus a zis: „Cine s-a atins de Mine?” Fiindcă toţi tăgăduiau, Petru şi cei ce erau cu El au zis: „Învăţătorule, noroadele Te împresoară şi Te îmbulzesc, şi mai întrebi: ‘Cine s-a atins de Mine?’”
+{8:46} Dar Isus a răspuns: „S-a atins cineva de Mine, căci am simţit că a ieşit din Mine o putere”.
+{8:47} Femeia, când s-a văzut dată de gol, a venit tremurând, s-a aruncat jos, înaintea Lui, şi a spus în faţa întregului norod din ce pricină se atinsese de El şi cum fusese vindecată numaidecât.
+{8:48} Isus i-a zis: „Îndrăzneşte, fiică; credinţa ta te-a mântuit. Du-te în pace.”
+{8:49} Pe când vorbea El încă, vine unul din casa fruntaşului sinagogii şi-i spune: „Fiica ta a murit, nu mai supăra pe Învăţătorul”.
+{8:50} Dar Isus, când a auzit lucrul acesta, a zis fruntaşului sinagogii: „Nu te teme; crede numai şi va fi tămăduită”.
+{8:51} Când a ajuns la casa fruntaşului, n-a lăsat pe niciunul să intre împreună cu El, decât pe Petru, pe Iacov, pe Ioan, pe tatăl şi pe mama fetei.
+{8:52} Toţi plângeau şi o boceau. Atunci, Isus a zis: „Nu plângeţi; fetiţa n-a murit, ci doarme”.
+{8:53} Ei îşi băteau joc de El, căci ştiau că murise.
+{8:54} Dar El, după ce i-a scos pe toţi afară, a apucat-o de mână şi a strigat cu glas tare: „Fetiţo, scoală-te!”
+{8:55} Şi duhul ei s-a întors în ea, iar fata s-a sculat numaidecât. Isus a poruncit să-i dea să mănânce.
+{8:56} Părinţii ei au rămas uimiţi. Isus le-a poruncit să nu spună nimănui cele întâmplate.
+{i9:1} Trimiterea celor doisprezece
+{9:1} Isus a chemat pe cei doisprezece ucenici ai Săi, le-a dat putere şi stăpânire peste toţi dracii şi să vindece bolile.
+{9:2} Apoi, i-a trimis să propovăduiască Împărăţia lui Dumnezeu şi să tămăduiască pe cei bolnavi.
+{9:3} „Să nu luaţi nimic cu voi pe drum,” le-a zis El; „nici toiag, nici traistă, nici pâine, nici bani, nici două haine.
+{9:4} În orice casă veţi intra, să rămâneţi acolo, până veţi pleca din locul acela.
+{9:5} Şi dacă nu vă vor primi oamenii, să ieşiţi din cetatea aceea şi să scuturaţi praful de pe picioarele voastre, ca mărturie împotriva lor.”
+{9:6} Ei au plecat şi au mers din sat în sat, propovăduind Evanghelia şi săvârşind pretutindeni tămăduiri.
+{i9:7} Irod nu ştie ce să creadă despre Isus
+{9:7} Cârmuitorul Irod a auzit vorbindu-se despre toate lucrurile săvârşite de Isus şi stătea în cumpănă, neştiind ce să creadă. Căci unii ziceau că a înviat Ioan din morţi,
+{9:8} alţii ziceau că s-a arătat Ilie şi alţii ziceau că a înviat vreun proroc din cei din vechime.
+{9:9} Dar Irod zicea: „Lui Ioan i-am tăiat capul; cine este oare acesta, despre care aud astfel de lucruri?” Şi căuta să-L vadă.
+{i9:10} Înmulţirea pâinilor
+{9:10} Apostolii, când s-au întors, au istorisit lui Isus tot ce făcuseră. El i-a luat cu Sine şi S-a dus la o parte, lângă o cetate numită Betsaida.
+{9:11} Noroadele au priceput lucrul acesta şi au mers după El. Isus le-a primit bine, le vorbea despre Împărăţia lui Dumnezeu şi vindeca pe cei ce aveau trebuinţă de vindecare.
+{9:12} Fiindcă ziua se pleca spre seară, cei doisprezece s-au apropiat şi I-au zis: „Dă drumul noroadelor, ca să se ducă în satele şi cătunele de primprejur să găzduiască şi să-şi caute de ale mâncării, pentru că aici suntem într-un loc pustiu”.
+{9:13} Isus le-a zis: „Daţi-le voi să mănânce!” Dar ei au răspuns: „N-avem decât cinci pâini şi doi peşti, afară numai dacă ne vom duce noi înşine să cumpărăm merinde pentru tot norodul acesta”.
+{9:14} Şi erau aproape cinci mii de bărbaţi. Isus a zis ucenicilor Săi: „Puneţi-i să şadă jos în cete de câte cincizeci”.
+{9:15} Aşa au şi făcut: i-au pus pe toţi să şadă jos.
+{9:16} Isus a luat cele cinci pâini şi cei doi peşti, Şi-a ridicat ochii spre cer şi le-a binecuvântat. Apoi, le-a frânt şi le-a dat ucenicilor să le împartă norodului.
+{9:17} Au mâncat toţi şi s-au săturat şi au ridicat douăsprezece coşuri pline cu firimiturile rămase.
+{i9:18} Mărturisirea lui Petru
+{9:18} Într-o zi, pe când Se ruga Isus singur deoparte, având cu El pe ucenicii Lui, le-a pus întrebarea următoare: „Cine zic oamenii că sunt Eu?”
+{9:19} Ei I-au răspuns: „Unii zic că eşti Ioan Botezătorul; alţii zic că eşti Ilie; alţii zic că a înviat un proroc din cei din vechime”.
+{9:20} „Dar voi”, i-a întrebat El, „cine ziceţi că sunt?” „Hristosul lui Dumnezeu!” I-a răspuns Petru.
+{9:21} Isus le-a poruncit cu tărie să nu spună nimănui lucrul acesta.
+{9:22} Apoi, a adăugat că Fiul omului trebuie să pătimească multe, să fie tăgăduit de bătrâni, de preoţii cei mai de seamă şi de cărturari, să fie omorât şi a treia zi să învieze.
+{i9:23} Cum să urmăm pe Isus
+{9:23} Apoi a zis tuturor: „Dacă voieşte cineva să vină după Mine, să se lepede de sine, să-şi ia crucea în fiecare zi şi să Mă urmeze.
+{9:24} Fiindcă oricine va voi să-şi scape viaţa o va pierde, dar oricine îşi va pierde viaţa pentru Mine o va mântui.
+{9:25} Şi ce ar folosi un om să câştige toată lumea, dacă s-ar prăpădi sau s-ar pierde pe sine însuşi?
+{9:26} Căci de oricine se va ruşina de Mine şi de cuvintele Mele, se va ruşina şi Fiul omului de el, când va veni în slava Sa şi a Tatălui şi a sfinţilor îngeri.
+{9:27} Adevărat vă spun, că sunt unii din cei ce stau aici, care nu vor gusta moartea, până nu vor vedea Împărăţia lui Dumnezeu.”
+{i9:28} Schimbarea la faţă
+{9:28} Cam la opt zile după cuvintele acestea, Isus a luat cu El pe Petru, pe Ioan şi pe Iacov şi S-a suit pe munte să Se roage.
+{9:29} Pe când Se ruga, I s-a schimbat înfăţişarea feţei, şi îmbrăcămintea I s-a făcut albă strălucitoare.
+{9:30} Şi iată că stăteau de vorbă cu El doi bărbaţi: erau Moise şi Ilie,
+{9:31} care se arătaseră în slavă, şi vorbeau despre sfârşitul Lui, pe care avea să-l aibă în Ierusalim.
+{9:32} Petru şi tovarăşii lui erau îngreuiaţi de somn, dar, când s-au deşteptat bine, au văzut slava lui Isus şi pe cei doi bărbaţi care stăteau împreună cu El.
+{9:33} În clipa când se despărţeau bărbaţii aceştia de Isus, Petru a zis lui Isus: „Învăţătorule, este bine să fim aici; să facem trei colibe: una pentru Tine, una pentru Moise şi una pentru Ilie”. Nu ştia ce spune.
+{9:34} Pe când vorbea el astfel, a venit un nor şi i-a acoperit cu umbra lui; ucenicii s-au înspăimântat când i-au văzut intrând în nor.
+{9:35} Şi din nor s-a auzit un glas care zicea: „Acesta este Fiul Meu preaiubit: de El să ascultaţi”.
+{9:36} Când s-a auzit glasul acela, Isus a rămas singur. Ucenicii au tăcut şi n-au spus, în zilele acelea, nimănui nimic din cele ce văzuseră.
+{i9:37} Vindecarea unui îndrăcit
+{9:37} A doua zi, când s-au pogorât de pe munte, o gloată mare a întâmpinat pe Isus.
+{9:38} Şi un om din mijlocul mulţimii a strigat: „Învăţătorule, rogu-Te, uită-Te cu îndurare la fiul meu, fiindcă îl am numai pe el.
+{9:39} Îl apucă un duh şi, deodată, răcneşte; şi duhul îl scutură cu putere, aşa că băiatul face spumă la gură şi cu anevoie se duce duhul de la el, după ce l-a stropşit de tot.
+{9:40} Am rugat pe ucenicii Tăi să-l scoată şi n-au putut.”
+{9:41} „O neam necredincios şi pornit la rău”, a răspuns Isus, „până când voi fi cu voi şi vă voi suferi? Adu aici pe fiul tău.”
+{9:42} Pe când venea băiatul, dracul l-a trântit la pământ şi l-a scuturat cu putere. Dar Isus a certat duhul necurat, a vindecat pe băiat şi l-a dat înapoi tatălui său.
+{9:43} Şi toţi au rămas uimiţi de mărirea lui Dumnezeu.
+{9:44} Pe când toţi se minunau de tot ce făcea Isus, El a zis ucenicilor Săi: „Voi ascultaţi bine ce vă spun: Fiul omului va fi dat în mâinile oamenilor!”
+{9:45} Dar ucenicii nu înţelegeau cuvintele acestea, căci erau acoperite pentru ei, ca să nu le priceapă, şi se temeau să-L întrebe în privinţa aceasta.
+{i9:46} Cine este cel mai mare?
+{9:46} Apoi, le-a venit în gând să ştie cine dintre ei ar fi cel mai mare.
+{9:47} Isus le-a cunoscut gândul inimii, a luat un copilaş, l-a pus lângă El
+{9:48} şi le-a zis: „Oricine primeşte pe acest copilaş în Numele Meu pe Mine Mă primeşte şi oricine Mă primeşte pe Mine primeşte pe Cel ce M-a trimis pe Mine. Fiindcă cine este cel mai mic între voi toţi, acela este mare”.
+{9:49} Ioan a luat cuvântul şi a zis: „Învăţătorule, noi am văzut pe un om scoţând draci în Numele Tău şi l-am oprit, pentru că nu merge după noi”.
+{9:50} „Nu-l opriţi”, i-a răspuns Isus, „fiindcă cine nu este împotriva voastră este pentru voi”.
+{i9:51} „Foc din cer”
+{9:51} Când s-a apropiat vremea în care avea să fie luat în cer, Isus Şi-a îndreptat faţa hotărât să meargă la Ierusalim.
+{9:52} A trimis înainte nişte soli, care s-au dus şi au intrat într-un sat al samaritenilor, ca să-I pregătească un loc de găzduit.
+{9:53} Dar ei nu L-au primit, pentru că Isus Se îndrepta să meargă spre Ierusalim.
+{9:54} Ucenicii Săi, Iacov şi Ioan, când au văzut lucrul acesta, au zis: „Doamne, vrei să poruncim să se pogoare foc din cer şi să-i mistuie, cum a făcut Ilie?”
+{9:55} Isus S-a întors spre ei, i-a certat şi le-a zis: „Nu ştiţi de ce duh sunteţi însufleţiţi!
+{9:56} Căci Fiul omului a venit nu ca să piardă sufletele oamenilor, ci să le mântuiască.”Şi au plecat într-alt sat.
+{i9:57} Cum să urmăm pe Isus
+{9:57} Pe când erau pe drum, un om I-a zis: „Doamne, Te voi urma oriunde vei merge”.
+{9:58} Isus i-a răspuns: „Vulpile au vizuini şi păsările cerului au cuiburi, dar Fiul omului n-are unde-Şi odihni capul”.
+{9:59} Altuia i-a zis: „Vino după Mine!” „Doamne”, I-a răspuns el, „lasă-mă să mă duc întâi să îngrop pe tatăl meu”.
+{9:60} Dar Isus i-a zis: „Lasă morţii să-şi îngroape morţii, şi tu du-te de vesteşte Împărăţia lui Dumnezeu”.
+{9:61} Un altul a zis: „Doamne, Te voi urma, dar lasă-mă întâi să mă duc să-mi iau rămas-bun de la ai mei”.
+{9:62} Isus i-a răspuns: „Oricine pune mâna pe plug şi se uită înapoi nu este destoinic pentru Împărăţia lui Dumnezeu”.
+{i10:1} Trimiterea celor şaptezeci de ucenici
+{10:1} După aceea, Domnul a mai rânduit alţi şaptezeci de ucenici şi i-a trimis doi câte doi înaintea Lui, în toate cetăţile şi în toate locurile pe unde avea să treacă El.
+{10:2} Şi le-a zis: „Mare este secerişul, dar puţini sunt lucrătorii! Rugaţi dar pe Domnul secerişului să scoată lucrători la secerişul Său.
+{10:3} Duceţi-vă; iată, vă trimit ca pe nişte miei în mijlocul lupilor.
+{10:4} Să nu luaţi cu voi nici pungă, nici traistă, nici încălţăminte şi să nu întrebaţi pe nimeni de sănătate pe drum.
+{10:5} În orice casă veţi intra, să ziceţi întâi: ‘Pacea să fie peste casa aceasta!’
+{10:6} Şi dacă va fi acolo un fiu al păcii, pacea voastră va rămâne peste el, altminteri, ea se va întoarce la voi.
+{10:7} Să rămâneţi în casa aceea şi să mâncaţi şi să beţi ce vi se va da, căci vrednic este lucrătorul de plata sa. Să nu umblaţi din casă în casă.
+{10:8} În oricare cetate veţi intra şi unde vă vor primi oamenii, să mâncaţi ce vi se va pune înainte,
+{10:9} să vindecaţi pe bolnavii care vor fi acolo şi să le ziceţi: ‘Împărăţia lui Dumnezeu s-a apropiat de voi’.
+{10:10} Dar, în oricare cetate veţi intra şi nu vă vor primi, să vă duceţi pe uliţele ei şi să ziceţi:
+{10:11} ‘Scuturăm împotriva voastră chiar şi praful din cetatea voastră, care s-a lipit de picioarele noastre, totuşi să ştiţi că Împărăţia lui Dumnezeu s-a apropiat de voi’.
+{10:12} Eu vă spun că, în ziua judecăţii, va fi mai uşor pentru Sodoma decât pentru cetatea aceea.
+{10:13} Vai de tine, Horazine! Vai de tine, Betsaido! Căci, dacă ar fi fost făcute în Tir şi Sidon lucrările puternice care au fost făcute în voi, de mult s-ar fi pocăit, stând în sac şi cenuşă.
+{10:14} De aceea, în ziua judecăţii, va fi mai uşor pentru Tir şi Sidon decât pentru voi.
+{10:15} Şi tu, Capernaume, vei fi înălţat oare până la cer? Vei fi pogorât până în Locuinţa morţilor.
+{10:16} Cine vă ascultă pe voi pe Mine Mă ascultă şi cine vă nesocoteşte pe voi pe Mine Mă nesocoteşte, iar cine Mă nesocoteşte pe Mine nesocoteşte pe Cel ce M-a trimis pe Mine.”
+{i10:17} Întoarcerea celor şaptezeci
+{10:17} Cei şaptezeci s-au întors plini de bucurie şi au zis: „Doamne, chiar şi dracii ne sunt supuşi în Numele Tău”.
+{10:18} Isus le-a zis: „Am văzut pe Satana căzând ca un fulger din cer.
+{10:19} Iată că v-am dat putere să călcaţi peste şerpi şi peste scorpii şi peste toată puterea vrăjmaşului: şi nimic nu vă va putea vătăma.
+{10:20} Totuşi să nu vă bucuraţi de faptul că duhurile vă sunt supuse, ci bucuraţi-vă că numele voastre sunt scrise în ceruri.”
+{10:21} În ceasul acela, Isus S-a bucurat în Duhul Sfânt şi a zis: „Tată, Doamne al cerului şi al pământului, Te laud pentru că ai ascuns aceste lucruri de cei înţelepţi şi pricepuţi şi le-ai descoperit pruncilor. Da, Tată, fiindcă aşa ai găsit cu cale Tu.”
+{10:22} „Toate lucrurile Mi-au fost date în mâini de Tatăl Meu; şi nimeni nu ştie cine este Fiul, afară de Tatăl, nici cine este Tatăl, afară de Fiul şi acela căruia vrea Fiul să i-L descopere.”
+{10:23} Apoi, S-a întors spre ucenici şi le-a spus deoparte: „Ferice de ochii care văd lucrurile pe care le vedeţi voi!
+{10:24} Căci vă spun că mulţi proroci şi împăraţi au voit să vadă ce vedeţi voi, şi n-au văzut, să audă ce auziţi voi, şi n-au auzit.”
+{i10:25} Pilda samariteanului
+{10:25} Un învăţător al Legii s-a sculat să ispitească pe Isus şi I-a zis: „Învăţătorule, ce să fac ca să moştenesc viaţa veşnică?”
+{10:26} Isus i-a zis: „Ce este scris în Lege? Cum citeşti în ea?”
+{10:27} El a răspuns: „Să iubeşti pe Domnul, Dumnezeul tău, cu toată inima ta, cu tot sufletul tău, cu toată puterea ta şi cu tot cugetul tău şi pe aproapele tău ca pe tine însuţi”.
+{10:28} „Bine ai răspuns”, i-a zis Isus; „fă aşa şi vei avea viaţa veşnică”.
+{10:29} Dar el, care voia să se îndreptăţească, a zis lui Isus: „Şi cine este aproapele meu?”
+{10:30} Isus a luat din nou cuvântul şi a zis: „Un om se cobora din Ierusalim la Ierihon. A căzut între nişte tâlhari, care l-au dezbrăcat, l-au jefuit de tot, l-au bătut zdravăn, au plecat şi l-au lăsat aproape mort.
+{10:31} Din întâmplare, se cobora pe acelaşi drum un preot şi, când a văzut pe omul acesta, a trecut înainte pe alături.
+{10:32} Un levit trecea şi el prin locul acela şi, când l-a văzut, a trecut înainte pe alături.
+{10:33} Dar un samaritean, care era în călătorie, a venit în locul unde era el şi, când l-a văzut, i s-a făcut milă de el.
+{10:34} S-a apropiat de i-a legat rănile şi a turnat peste ele untdelemn şi vin, apoi, l-a pus pe dobitocul lui, l-a dus la un han şi a îngrijit de el.
+{10:35} A doua zi, când a pornit la drum, a scos doi lei, i-a dat hangiului şi i-a zis: ‘Ai grijă de el, şi orice vei mai cheltui, îţi voi da înapoi la întoarcere’.
+{10:36} Care dintre aceştia trei ţi se pare că a dat dovadă că este aproapele celui ce căzuse între tâlhari?”
+{10:37} „Cel ce şi-a făcut milă cu el”, a răspuns învăţătorul Legii. „Du-te de fă şi tu la fel”, i-a zis Isus.
+{i10:38} Marta şi Maria
+{10:38} Pe când era pe drum cu ucenicii Săi, Isus a intrat într-un sat. Şi o femeie, numită Marta, L-a primit în casa ei.
+{10:39} Ea avea o soră numită Maria, care s-a aşezat jos, la picioarele Domnului, şi asculta cuvintele Lui.
+{10:40} Marta era împărţită cu multă slujire, a venit repede la El şi I-a zis: „Doamne, nu-Ţi pasă că soră-mea m-a lăsat să slujesc singură? Zi-i dar să-mi ajute.”
+{10:41} Drept răspuns, Isus i-a zis: „Marto, Marto, pentru multe lucruri te îngrijorezi şi te frămânţi tu,
+{10:42} dar un singur lucru trebuie. Maria şi-a ales partea cea bună, care nu i se va lua.”
+{i11:1} Tatăl nostru
+{11:1} Într-o zi, Isus Se ruga într-un loc anumit. Când a isprăvit rugăciunea, unul din ucenicii Lui I-a zis: „Doamne, învaţă-ne să ne rugăm, cum a învăţat şi Ioan pe ucenicii lui”.
+{11:2} El le-a zis: „Când vă rugaţi, să ziceţi: ‘Tatăl nostru care eşti în ceruri! Sfinţească-se Numele Tău; vie Împărăţia Ta; facă-se voia Ta, precum în cer, aşa şi pe pământ.
+{11:3} Pâinea noastră cea de toate zilele dă-ne-o nouă în fiecare zi
+{11:4} şi ne iartă nouă păcatele noastre, fiindcă şi noi iertăm oricui ne este dator, şi nu ne duce în ispită, ci izbăveşte-ne de cel rău.’”
+{i11:5} Stăruinţa în rugăciune
+{11:5} Apoi le-a mai zis: „Dacă unul dintre voi are un prieten şi se duce la el la miezul nopţii şi-i zice: ‘Prietene, împrumută-mi trei pâini,
+{11:6} căci a venit la mine de pe drum un prieten al meu şi n-am ce-i pune înainte’,
+{11:7} şi, dacă dinăuntrul casei lui, prietenul acesta îi răspunde: ‘Nu mă tulbura; acum uşa este încuiată, copiii mei sunt cu mine în pat, nu pot să mă scol să-ţi dau pâini’, –
+{11:8} vă spun: chiar dacă nu s-ar scula să i le dea, pentru că-i este prieten, totuşi, măcar pentru stăruinţa lui supărătoare, tot se va scula şi-i va da tot ce-i trebuie.
+{11:9} De aceea şi Eu vă spun: ‘Cereţi, şi vi se va da; căutaţi, şi veţi găsi; bateţi, şi vi se va deschide.
+{11:10} Fiindcă oricine cere capătă; cine caută găseşte şi celui ce bate, i se deschide.
+{11:11} Cine este tatăl acela dintre voi care, dacă-i cere fiul său pâine, să-i dea o piatră? Ori, dacă cere un peşte, să-i dea un şarpe în loc de peşte?
+{11:12} Sau, dacă cere un ou, să-i dea o scorpie?
+{11:13} Deci, dacă voi, care sunteţi răi, ştiţi să daţi daruri bune copiilor voştri, cu cât mai mult Tatăl vostru cel din ceruri va da Duhul Sfânt celor ce I-L cer!’”
+{i11:14} Vindecarea unui îndrăcit mut
+{11:14} Isus a scos dintr-un bolnav un drac, care era mut. După ce a ieşit dracul, mutul a grăit şi noroadele s-au mirat.
+{11:15} Dar unii ziceau: „El scoate dracii cu Beelzebul, domnul dracilor”.
+{11:16} Alţii, ca să-L ispitească, Îi cereau un semn din cer.
+{11:17} Isus le-a cunoscut gândurile şi le-a zis: „Orice împărăţie dezbinată împotriva ei este pustiită şi o casă dezbinată împotriva ei se prăbuşeşte peste alta.
+{11:18} Deci, dacă Satana este dezbinat împotriva lui însuşi, cum va dăinui împărăţia lui, fiindcă ziceţi că Eu scot dracii cu Beelzebul?
+{11:19} Şi dacă eu scot dracii cu Beelzebul, fiii voştri cu cine îi scot? De aceea, ei înşişi vor fi judecătorii voştri.
+{11:20} Dar, dacă Eu scot dracii cu degetul lui Dumnezeu, Împărăţia lui Dumnezeu a ajuns până la voi.
+{11:21} Când omul cel tare şi bine înarmat îşi păzeşte casa, averile îi sunt la adăpost.
+{11:22} Dar, dacă vine peste el unul mai tare decât el şi-l biruieşte, atunci îi ia cu sila toate armele în care se încredea şi împarte prăzile luate de la el.
+{11:23} Cine nu este cu Mine este împotriva Mea şi cine nu adună cu Mine risipeşte.
+{i11:24} Duhul necurat ieşit din om
+{11:24} Duhul necurat, când iese dintr-un om, umblă prin locuri fără apă şi caută odihnă. Fiindcă n-o găseşte, zice: ‘Mă voi întoarce în casa mea, de unde am ieşit’.
+{11:25} Şi când vine, o găseşte măturată şi împodobită.
+{11:26} Atunci se duce de mai ia cu el alte şapte duhuri, mai rele decât el, intră împreună în casă, se aşază în ea, şi starea de pe urmă a omului aceluia ajunge mai rea decât cea dintâi.”
+{i11:27} Ferice de cei ce ascultă Cuvântul
+{11:27} Pe când spunea Isus aceste vorbe, o femeie din norod şi-a ridicat glasul şi a zis: „Ferice de pântecele care Te-a purtat şi de ţâţele pe care le-ai supt!”
+{11:28} Şi El a răspuns: „Ferice mai degrabă de cei ce ascultă Cuvântul lui Dumnezeu şi-L păzesc!”
+{i11:29} Minunea cu Iona
+{11:29} Pe când noroadele se strângeau cu grămada, El a început să spună: „Neamul acesta este un neam viclean; el cere un semn, dar nu i se va da alt semn decât semnul prorocului Iona.
+{11:30} Căci după cum Iona a fost un semn pentru niniviteni, tot aşa şi Fiul omului va fi un semn pentru neamul acesta.
+{11:31} Împărăteasa de la miazăzi se va scula, în ziua judecăţii, alături de bărbaţii acestui neam şi-i va osândi; pentru că ea a venit de la capătul pământului ca să audă înţelepciunea lui Solomon; şi iată că aici este Unul mai mare decât Solomon.
+{11:32} Bărbaţii din Ninive se vor scula, în ziua judecăţii, alături de neamul acesta şi-l vor osândi, pentru că ei s-au pocăit la propovăduirea lui Iona; şi iată că aici este Unul mai mare decât Iona.
+{i11:33} Lumina
+{11:33} Nimeni n-aprinde o lumină ca s-o pună într-un loc ascuns sau sub baniţă, ci o pune într-un sfeşnic, pentru ca cei ce intră să vadă lumina.
+{11:34} Ochiul este lumina trupului tău. Dacă ochiul tău este sănătos, tot trupul tău este plin de lumină, dar, dacă ochiul tău este rău, trupul tău este plin de întuneric.
+{11:35} Ia seama, dar, ca lumina care este în tine să nu fie întuneric.
+{11:36} Aşa că, dacă tot trupul tău este plin de lumină, fără să aibă vreo parte întunecată, va fi în totul plin de lumină, întocmai ca atunci când te-ar lumina o lampă cu lumina ei mare.”
+{i11:37} Mustrarea cărturarilor şi fariseilor
+{11:37} Pe când vorbea Isus, un fariseu L-a rugat să prânzească la el. El a intrat şi a şezut la masă.
+{11:38} Fariseul a văzut cu mirare că Isus nu Se spălase înainte de prânz.
+{11:39} Dar Domnul i-a zis: „Voi, fariseii, curăţiţi partea de afară a paharului şi a blidului, dar lăuntrul vostru este plin de jefuire şi de răutate.
+{11:40} Nebunilor, oare Acela care a făcut partea de afară n-a făcut şi pe cea dinăuntru?
+{11:41} Daţi mai bine milostenie din lucrurile dinăuntru, şi atunci toate vă vor fi curate.
+{11:42} Dar vai de voi, fariseilor! Pentru că voi daţi zeciuială din izmă, din rută şi din toate zarzavaturile, şi daţi uitării dreptatea şi dragostea de Dumnezeu: pe acestea trebuia să le faceţi şi pe celelalte să nu le lăsaţi nefăcute!
+{11:43} Vai de voi, fariseilor! Pentru că voi umblaţi după scaunele dintâi la sinagogi şi vă place să vă facă lumea plecăciuni prin pieţe!
+{11:44} Vai de voi, cărturari şi farisei făţarnici! Pentru că voi sunteţi ca mormintele, care nu se văd, şi peste care oamenii umblă fără să ştie.”
+{11:45} Unul din învăţătorii Legii a luat cuvântul şi I-a zis: „Învăţătorule, spunând aceste lucruri ne ocărăşti şi pe noi”.
+{11:46} „Vai şi de voi, învăţători ai Legii”, a răspuns Isus. „Pentru că voi puneţi pe spinarea oamenilor sarcini grele de purtat, iar voi nici măcar cu unul din degetele voastre nu vă atingeţi de ele.
+{11:47} Vai de voi! Pentru că voi zidiţi mormintele prorocilor, pe care i-au ucis părinţii voştri.
+{11:48} Prin aceasta mărturisiţi că încuviinţaţi faptele părinţilor voştri, căci ei au ucis pe proroci, iar voi le zidiţi mormintele.
+{11:49} De aceea Înţelepciunea lui Dumnezeu a zis: ‘Le voi trimite proroci şi apostoli; pe unii din ei îi vor ucide, iar pe alţii îi vor prigoni,
+{11:50} ca să se ceară de la acest neam sângele tuturor prorocilor care a fost vărsat de la întemeierea lumii:
+{11:51} de la sângele lui Abel până la sângele lui Zaharia, ucis între altar şi Templu’; da, vă spun, se va cere de la neamul acesta!
+{11:52} Vai de voi, învăţători ai Legii! Pentru că voi aţi pus mâna pe cheia cunoştinţei: nici voi n-aţi intrat, iar pe cei ce voiau să intre, i-aţi împiedicat să intre.”
+{11:53} După ce a ieşit de acolo, cărturarii şi fariseii au început să-L pună la strâmtoare şi să-L facă să vorbească despre multe lucruri;
+{11:54} I-au întins astfel laţuri, ca să prindă vreo vorbă din gura Lui, pentru care să-L poată învinui.
+{i12:1} Despre făţărnicie, frica de oameni, hula împotriva Duhului Sfânt
+{12:1} În vremea aceea, când se strânseseră noroadele cu miile, aşa că se călcau unii pe alţii, Isus a început să spună ucenicilor Săi: „Mai întâi de toate, păziţi-vă de aluatul fariseilor, care este făţărnicia.
+{12:2} Nu este nimic acoperit care nu va fi descoperit, nici ascuns care nu va fi cunoscut.
+{12:3} De aceea, orice aţi spus la întuneric va fi auzit la lumină; şi orice aţi grăit la ureche, în odăiţe, va fi vestit de pe acoperişul caselor.
+{12:4} Vă spun vouă, prietenii Mei, să nu vă temeţi de cei ce ucid trupul, şi după aceea nu mai pot face nimic.
+{12:5} Am să vă arăt de cine să vă temeţi. Temeţi-vă de Acela care, după ce a ucis, are puterea să arunce în gheenă; da, vă spun, de El să vă temeţi.
+{12:6} Nu se vând oare cinci vrăbii cu doi bani? Totuşi nici una din ele nu este uitată înaintea lui Dumnezeu.
+{12:7} Şi chiar perii din cap, toţi vă sunt număraţi. Deci să nu vă temeţi: voi sunteţi mai de preţ decât multe vrăbii.
+{12:8} Eu vă spun: pe oricine Mă va mărturisi înaintea oamenilor, îl va mărturisi şi Fiul omului înaintea îngerilor lui Dumnezeu,
+{12:9} dar cine se va lepăda de Mine înaintea oamenilor va fi lepădat şi el înaintea îngerilor lui Dumnezeu.
+{12:10} Şi oricui va vorbi împotriva Fiului omului, i se va ierta, dar oricui va huli împotriva Duhului Sfânt, nu i se va ierta.
+{12:11} Când vă vor duce înaintea sinagogilor, înaintea dregătorilor şi înaintea stăpânirilor, să nu vă îngrijoraţi cum veţi răspunde pentru apărarea voastră, nici ce veţi vorbi,
+{12:12} căci Duhul Sfânt vă va învăţa chiar în ceasul acela ce va trebui să vorbiţi.”
+{i12:13} Pilda bogatului căruia i-a rodit ţarina
+{12:13} Unul din mulţime a zis lui Isus: „Învăţătorule, spune fratelui meu să împartă cu mine moştenirea noastră”.
+{12:14} „Omule”, i-a răspuns Isus, „cine M-a pus pe Mine judecător sau împărţitor peste voi?”
+{12:15} Apoi le-a zis: „Vedeţi şi păziţi-vă de orice fel de lăcomie de bani, căci viaţa cuiva nu stă în belşugul avuţiei lui”.
+{12:16} Şi le-a spus pilda aceasta: „Ţarina unui om bogat rodise mult.
+{12:17} Şi el se gândea în sine şi zicea: ‘Ce voi face? Fiindcă nu mai am loc unde să-mi strâng roadele.
+{12:18} Iată, a zis el, ce voi face: îmi voi strica grânarele şi voi zidi altele mai mari; acolo voi strânge toate roadele şi toate bunătăţile mele
+{12:19} şi voi zice sufletului meu: «Suflete, ai multe bunătăţi strânse pentru mulţi ani, odihneşte-te, mănâncă, bea şi veseleşte-te!»’
+{12:20} Dar Dumnezeu i-a zis: ‘Nebunule! Chiar în noaptea aceasta ţi se va cere înapoi sufletul, şi lucrurile pe care le-ai pregătit ale cui vor fi?’
+{12:21} Tot aşa este şi cu cel ce îşi adună comori pentru el şi nu se îmbogăţeşte faţă de Dumnezeu.”
+{i12:22} Îngrijorările
+{12:22} Isus a zis apoi ucenicilor săi: „De aceea vă spun: Nu vă îngrijoraţi cu privire la viaţa voastră, gândindu-vă ce veţi mânca, nici cu privire la trupul vostru, gândindu-vă cu ce vă veţi îmbrăca.
+{12:23} Viaţa este mai mult decât hrana, şi trupul, mai mult decât îmbrăcămintea.
+{12:24} Uitaţi-vă cu băgare de seamă la corbi: ei nu seamănă, nici nu seceră, n-au nici cămară, nici grânar, şi totuşi Dumnezeu îi hrăneşte. Cu cât mai de preţ sunteţi voi decât păsările!
+{12:25} Şi apoi, cine dintre voi, chiar îngrijorându-se, poate să adauge un cot la lungimea vieţii lui?
+{12:26} Deci, dacă nu puteţi face nici cel mai mic lucru, pentru ce vă mai îngrijoraţi de celelalte?
+{12:27} Uitaţi-vă cu băgare de seamă cum cresc crinii: ei nu torc, nici nu ţes, totuşi vă spun că nici Solomon, în toată slava lui, n-a fost îmbrăcat ca unul din ei.
+{12:28} Dacă astfel îmbracă Dumnezeu iarba, care astăzi este pe câmp, iar mâine va fi aruncată în cuptor, cu cât mai mult vă va îmbrăca El pe voi, puţin credincioşilor?
+{12:29} Să nu căutaţi ce veţi mânca sau ce veţi bea şi nu vă frământaţi mintea.
+{12:30} Căci toate aceste lucruri neamurile lumii le caută. Tatăl vostru ştie că aveţi trebuinţă de ele.
+{12:31} Căutaţi mai întâi Împărăţia lui Dumnezeu, şi toate aceste lucruri vi se vor da pe deasupra.
+{12:32} Nu te teme, turmă mică, pentru că Tatăl vostru vă dă cu plăcere Împărăţia.
+{12:33} Vindeţi ce aveţi şi daţi milostenie. Faceţi-vă rost de pungi care nu se învechesc, o comoară nesecată în ceruri, unde nu se apropie hoţul şi unde nu roade molia.
+{12:34} Căci unde este comoara voastră, acolo este şi inima voastră.
+{i12:35} Îndemn la veghere
+{12:35} Mijlocul să vă fie încins şi făcliile, aprinse.
+{12:36} Şi să fiţi ca nişte oameni care aşteaptă pe stăpânul lor să se întoarcă de la nuntă, ca să-i deschidă îndată, când va veni şi va bate la uşă.
+{12:37} Ferice de robii aceia pe care stăpânul îi va găsi veghind la venirea lui! Adevărat vă spun că el se va încinge, îi va pune să şadă la masă şi se va apropia să le slujească.
+{12:38} Fie că vine la a doua strajă din noapte, fie că vine la a treia strajă, ferice de robii aceia, dacă-i va găsi veghind!
+{12:39} Să ştiţi bine că, dacă ar şti stăpânul casei la ce ceas va veni hoţul, ar veghea şi n-ar lăsa să-i spargă casa.
+{12:40} Şi voi dar fiţi gata, căci Fiul omului va veni în ceasul în care nu vă gândiţi.”
+{i12:41} Ispravnicul credincios
+{12:41} „Doamne”, I-a zis Petru, „pentru noi spui pilda aceasta sau pentru toţi?”
+{12:42} Şi Domnul a zis: „Cine este ispravnicul credincios şi înţelept, pe care-l va pune stăpânul său peste slugile sale, ca să le dea partea lor de hrană la vremea potrivită?
+{12:43} Ferice de robul acela pe care stăpânul, la venirea lui, îl va găsi făcând aşa!
+{12:44} Adevărat vă spun că îl va pune peste toată avuţia sa.
+{12:45} Dar, dacă robul acela zice în inima lui: Stăpânul meu zăboveşte să vină, dacă va începe să bată pe slugi şi pe slujnice, să mănânce, să bea şi să se îmbete,
+{12:46} stăpânul robului aceluia va veni în ziua în care el nu se aşteaptă şi în ceasul în care nu ştie şi-l va tăia în bucăţi; şi soarta lui va fi soarta celor necredincioşi în lucrul încredinţat lor.
+{12:47} Robul acela, care a ştiut voia stăpânului său şi nu s-a pregătit deloc şi n-a lucrat după voia lui, va fi bătut cu multe lovituri.
+{12:48} Dar cine n-a ştiut-o şi a făcut lucruri vrednice de lovituri va fi bătut cu puţine lovituri. Cui i s-a dat mult, i se va cere mult şi cui i s-a încredinţat mult, i se va cere mai mult.
+{i12:49} Foc pe pământ
+{12:49} Eu am venit să arunc un foc pe pământ. Şi ce vreau decât să fie aprins chiar acum!
+{12:50} Am un botez cu care trebuie să fiu botezat, şi cât de mult doresc să se îndeplinească!
+{12:51} Credeţi că am venit să aduc pace pe pământ? Eu vă spun: nu, ci mai degrabă dezbinare.
+{12:52} Căci, de acum înainte, din cinci, care vor fi într-o casă, trei vor fi dezbinaţi împotriva a doi şi doi, împotriva a trei.
+{12:53} Tatăl va fi dezbinat împotriva fiului şi fiul, împotriva tatălui; mama, împotriva fiicei şi fiica, împotriva mamei; soacra, împotriva nurorii şi nora, împotriva soacrei.”
+{i12:54} Semnele vremurilor
+{12:54} El a mai zis noroadelor: „Când vedeţi un nor ridicându-se la apus, îndată ziceţi: ‘Vine ploaia’. Şi aşa se întâmplă.
+{12:55} Şi când vedeţi suflând vântul de la miazăzi, ziceţi: ‘Are să fie zăduf’. Şi aşa se întâmplă.
+{12:56} Făţarnicilor, faţa pământului şi a cerului ştiţi s-o deosebiţi, vremea aceasta cum de n-o deosebiţi?
+{12:57} Şi pentru ce nu judecaţi şi voi singuri ce este drept?
+{12:58} Când te duci cu pârâşul tău înaintea judecătorului, pe drum caută să scapi de el, ca nu cumva să te târască înaintea judecătorului, judecătorul să te dea pe mâna temnicerului, şi temnicerul să te arunce în temniţă.
+{12:59} Îţi spun că nu vei ieşi de acolo până nu vei plăti şi cel mai de pe urmă bănuţ.”
+{i13:1} Galileenii măcelăriţi de Pilat
+{13:1} În vremea aceea, au venit unii şi au istorisit lui Isus ce se întâmplase unor galileeni, al căror sânge îl amestecase Pilat cu jertfele lor.
+{13:2} „Credeţi voi”, le-a răspuns Isus, „că aceşti galileeni au fost mai păcătoşi decât toţi ceilalţi galileeni pentru că au păţit astfel?
+{13:3} Eu vă spun: nu, ci, dacă nu vă pocăiţi, toţi veţi pieri la fel.
+{13:4} Sau acei optsprezece inşi peste care a căzut turnul din Siloam şi i-a omorât, credeţi că au fost mai păcătoşi decât toţi ceilalţi oameni care locuiau în Ierusalim?
+{13:5} Eu vă spun: nu, ci, dacă nu vă pocăiţi, toţi veţi pieri la fel.”
+{i13:6} Pilda smochinului neroditor
+{13:6} El a spus şi pilda aceasta: „Un om avea un smochin sădit în via sa. A venit să caute rod în el, şi n-a găsit.
+{13:7} Atunci a zis vierului: ‘Iată că sunt trei ani de când vin şi caut rod în smochinul acesta, şi nu găsesc. Taie-l. La ce să mai cuprindă şi pământul degeaba?’
+{13:8} ‘Doamne,’ i-a răspuns vierul, ‘mai lasă-l şi anul acesta; am să-l sap de jur împrejur şi am să-i pun gunoi la rădăcină.
+{13:9} Poate că de acum înainte va face rod; dacă nu, îl vei tăia.’”
+{i13:10} Vindecarea unei femei gârbove
+{13:10} Isus învăţa pe norod într-o sinagogă în ziua Sabatului.
+{13:11} Şi acolo era o femeie stăpânită de optsprezece ani de un duh de neputinţă; era gârbovă şi nu putea nicidecum să-şi îndrepte spatele.
+{13:12} Când a văzut-o Isus, a chemat-o şi i-a zis: „Femeie, eşti dezlegată de neputinţa ta”.
+{13:13} Şi-a întins mâinile peste ea: îndată s-a îndreptat şi slăvea pe Dumnezeu.
+{13:14} Dar fruntaşul sinagogii, mâniat că Isus săvârşise vindecarea aceasta în ziua Sabatului, a luat cuvântul şi a zis norodului: „Sunt şase zile în care trebuie să lucreze omul; veniţi dar în aceste zile să vă vindecaţi, şi nu în ziua Sabatului!”
+{13:15} „Făţarnicilor”, i-a răspuns Domnul; „oare în ziua Sabatului nu-şi dezleagă fiecare din voi boul sau măgarul de la iesle şi-l duce de-l adapă?
+{13:16} Dar femeia aceasta, care este o fiică a lui Avraam şi pe care Satana o ţinea legată de optsprezece ani, nu trebuia oare să fie dezlegată de legătura aceasta în ziua Sabatului?”
+{13:17} Pe când vorbea El astfel, toţi potrivnicii Lui au rămas ruşinaţi; şi norodul se bucura de toate lucrurile minunate pe care le făcea El.
+{i13:18} Pilda grăuntelui de muştar şi a aluatului
+{13:18} El a mai zis: „Cu ce se aseamănă Împărăţia lui Dumnezeu şi cu ce o voi asemăna?
+{13:19} Se aseamănă cu un grăunte de muştar, pe care l-a luat un om şi l-a aruncat în grădina sa; el a crescut, s-a făcut copac mare, şi păsările cerului şi-au făcut cuiburi în ramurile lui.”
+{13:20} El a zis iarăşi: „Cu ce voi asemăna Împărăţia lui Dumnezeu?
+{13:21} Se aseamănă cu aluatul pe care l-a luat o femeie şi l-a pus în trei măsuri de făină, până s-a dospit toată.”
+{i13:22} Uşa cea strâmtă
+{13:22} Isus umbla prin cetăţi şi prin sate, învăţând pe norod şi călătorind spre Ierusalim.
+{13:23} Cineva I-a zis: „Doamne, oare puţini sunt cei ce sunt pe calea mântuirii?” El le-a răspuns:
+{13:24} „Nevoiţi-vă să intraţi pe uşa cea strâmtă. Căci vă spun că mulţi vor căuta să intre, şi nu vor putea.
+{13:25} Odată ce Stăpânul casei Se va scula şi va încuia uşa, şi voi veţi fi afară şi veţi începe să bateţi la uşă şi să ziceţi: ‘Doamne, Doamne, deschide-ne!’ drept răspuns, El vă va zice: ‘Nu ştiu de unde sunteţi’.
+{13:26} Atunci veţi începe să ziceţi: ‘Noi am mâncat şi am băut în faţa Ta şi în uliţele noastre ai învăţat pe norod’.
+{13:27} Şi El va răspunde: ‘Vă spun că nu ştiu de unde sunteţi; depărtaţi-vă de la Mine, voi toţi lucrătorii fărădelegii.
+{13:28} Vor fi plânsul şi scrâşnirea dinţilor când veţi vedea pe Avraam, pe Isaac şi pe Iacov şi pe toţi prorocii în Împărăţia lui Dumnezeu, iar pe voi, scoşi afară.
+{13:29} Vor veni de la răsărit şi de la apus, de la miazănoapte şi de la miazăzi şi vor şedea la masă în Împărăţia lui Dumnezeu.
+{13:30} Şi iată că sunt unii din cei de pe urmă care vor fi cei dintâi şi sunt unii din cei dintâi care vor fi cei de pe urmă.’”
+{i13:31} Nelegiuirile şi pedeapsa Ierusalimului
+{13:31} În aceeaşi zi, au venit câţiva farisei şi I-au zis: „Pleacă şi du-Te de aici, căci Irod vrea să Te omoare”.
+{13:32} „Duceţi-vă”, le-a răspuns El, „şi spuneţi vulpii aceleia: Iată că scot dracii şi săvârşesc vindecări astăzi şi mâine, iar a treia zi voi isprăvi.
+{13:33} Dar trebuie să umblu astăzi, mâine şi poimâine, fiindcă nu se poate ca un proroc să piară afară din Ierusalim.
+{13:34} Ierusalime, Ierusalime, care omori pe proroci şi ucizi cu pietre pe cei trimişi la tine; de câte ori am vrut să strâng pe fiii tăi cum îşi strânge găina puii sub aripi, şi n-aţi vrut!
+{13:35} Iată că vi se va lăsa casa pustie, dar vă spun că nu Mă veţi mai vedea până veţi zice: ‘Binecuvântat este Cel ce vine în Numele Domnului!’”
+{i14:1} Vindecarea unui bolnav de dropică
+{14:1} Într-o zi de Sabat, Isus a intrat în casa unuia din fruntaşii fariseilor ca să prânzească. Fariseii Îl pândeau de aproape.
+{14:2} Şi înaintea Lui era un om bolnav de dropică.
+{14:3} Isus a luat cuvântul şi a zis învăţătorilor Legii şi fariseilor: „Oare este îngăduit a vindeca în ziua Sabatului sau nu?”
+{14:4} Ei tăceau. Atunci, Isus a luat de mână pe omul acela, l-a vindecat şi i-a dat drumul.
+{14:5} Pe urmă, le-a zis: „Cine dintre voi, dacă-i cade copilul sau boul în fântână, nu-l va scoate îndată afară, în ziua Sabatului?”
+{14:6} Şi n-au putut să-I răspundă nimic la aceste vorbe.
+{i14:7} Despre smerenia la ospeţe
+{14:7} Apoi, când a văzut că cei poftiţi la masă alegeau locurile dintâi, le-a spus o pildă. Şi le-a zis:
+{14:8} „Când eşti poftit de cineva la nuntă, să nu te aşezi la masă în locul dintâi, ca nu cumva, printre cei poftiţi de el, să fie altul mai cu vază decât tine,
+{14:9} şi cel ce te-a poftit şi pe tine, şi pe el să vină să-ţi zică: ‘Dă locul tău omului acestuia’. Atunci, cu ruşine, va trebui să iei locul de pe urmă.
+{14:10} Ci, când eşti poftit, du-te şi aşază-te în locul cel mai de pe urmă, pentru ca, atunci când va veni cel ce te-a poftit, să-ţi zică: ‘Prietene, mută-te mai sus’. Lucrul acesta îţi va face cinste înaintea tuturor celor ce vor fi la masă împreună cu tine.
+{14:11} Căci oricine se înalţă va fi smerit şi cine se smereşte va fi înălţat.”
+{i14:12} Despre binefacere
+{14:12} A zis şi celui ce-L poftise: „Când dai un prânz sau o cină, să nu chemi pe prietenii tăi, nici pe fraţii tăi, nici pe neamurile tale, nici pe vecinii bogaţi, ca nu cumva să te cheme şi ei la rândul lor pe tine şi să iei astfel o răsplată pentru ce ai făcut.
+{14:13} Ci, când dai o masă, cheamă pe săraci, pe schilozi, pe şchiopi, pe orbi.
+{14:14} Şi va fi ferice de tine, pentru că ei n-au cu ce să-ţi răsplătească, dar ţi se va răsplăti la învierea celor neprihăniţi.”
+{i14:15} Pilda celor poftiţi la cină
+{14:15} Unul din cei ce şedeau la masă cu El, când a auzit aceste vorbe, I-a zis; „Ferice de acela care va prânzi în Împărăţia lui Dumnezeu!”
+{14:16} Şi Isus i-a răspuns: „Un om a dat o cină mare şi a poftit pe mulţi.
+{14:17} La ceasul cinei, a trimis pe robul său să spună celor poftiţi: ‘Veniţi, căci iată că toate sunt gata’.
+{14:18} Dar toţi, parcă fuseseră vorbiţi, au început să se dezvinovăţească. Cel dintâi i-a zis: ‘Am cumpărat un ogor şi trebuie să mă duc să-l văd; rogu-te să mă ierţi’.
+{14:19} Un altul a zis: ‘Am cumpărat cinci perechi de boi şi mă duc să-i încerc: iartă-mă, te rog’.
+{14:20} Un altul a zis: ‘Tocmai acum m-am însurat şi de aceea nu pot veni’.
+{14:21} Când s-a întors robul, a spus stăpânului său aceste lucruri. Atunci, stăpânul casei s-a mâniat şi a zis robului său: ‘Du-te degrabă în pieţele şi uliţele cetăţii şi adu aici pe cei săraci, ciungi, orbi şi şchiopi’.
+{14:22} La urmă, robul a zis: ‘Stăpâne, s-a făcut cum ai poruncit şi tot mai este loc’.
+{14:23} Şi stăpânul a zis robului: ‘Ieşi la drumuri şi la garduri şi, pe cei ce-i vei găsi, sileşte-i să intre, ca să mi se umple casa.
+{14:24} Căci vă spun că niciunul din cei poftiţi nu va gusta din cina mea.’”
+{i14:25} Cum să fie ucenicul lui Isus
+{14:25} Împreună cu Isus mergeau multe noroade. El S-a întors şi le-a zis:
+{14:26} „Dacă vine cineva la Mine şi nu urăşte pe tatăl său, pe mamă-sa, pe nevastă-sa, pe copiii săi, pe fraţii săi, pe surorile sale, ba chiar însăşi viaţa sa, nu poate fi ucenicul Meu.
+{14:27} Şi oricine nu-şi poartă crucea şi nu vine după Mine nu poate fi ucenicul Meu.
+{14:28} Căci cine dintre voi, dacă vrea să zidească un turn, nu stă mai întâi să-şi facă socoteala cheltuielilor, ca să vadă dacă are cu ce să-l sfârşească?
+{14:29} Pentru ca nu cumva, după ce i-a pus temelia, să nu-l poată sfârşi, şi toţi cei ce-l vor vedea să înceapă să râdă de el
+{14:30} şi să zică: ‘Omul acesta a început să zidească şi n-a putut isprăvi’.
+{14:31} Sau care împărat, când merge să se bată în război cu un alt împărat, nu stă mai întâi să se sfătuiască dacă va putea merge cu zece mii de oameni înaintea celui ce vine împotriva lui cu douăzeci de mii?
+{14:32} Altfel, pe când celălalt împărat este încă departe, îi trimite o solie să ceară pace.
+{14:33} Tot aşa, oricine dintre voi care nu se leapădă de tot ce are nu poate fi ucenicul Meu.
+{14:34} Sarea este bună, dar, dacă sarea îşi pierde gustul ei de sare, prin ce i se va da înapoi gustul acesta?
+{14:35} Atunci nu mai este bună nici pentru pământ, nici pentru gunoi, ci este aruncată afară. Cine are urechi de auzit să audă.”
+{i15:1} Pilda cu oaia rătăcită şi leul
+{15:1} Toţi vameşii şi păcătoşii se apropiau de Isus ca să-L asculte.
+{15:2} Şi fariseii, şi cărturarii cârteau şi ziceau: „Omul acesta primeşte pe păcătoşi şi mănâncă cu ei”.
+{15:3} Dar El le-a spus pilda aceasta:
+{15:4} „Care om dintre voi, dacă are o sută de oi şi pierde pe una din ele, nu lasă pe celelalte nouăzeci şi nouă pe islaz şi se duce după cea pierdută, până când o găseşte?
+{15:5} După ce a găsit-o, o pune cu bucurie pe umeri
+{15:6} şi, când se întoarce acasă, cheamă pe prietenii şi vecinii săi şi le zice: ‘Bucuraţi-vă împreună cu mine, căci mi-am găsit oaia care era pierdută’.
+{15:7} Tot aşa, vă spun că va fi mai multă bucurie în cer pentru un singur păcătos care se pocăieşte, decât pentru nouăzeci şi nouă de oameni neprihăniţi, care n-au nevoie de pocăinţă.
+{15:8} Sau care femeie, dacă are zece lei de argint şi pierde unul din ei, nu aprinde o lumină, nu mătură casa şi nu caută cu băgare de seamă până când îl găseşte?
+{15:9} După ce l-a găsit, cheamă pe prietenele şi vecinele ei şi zice: ‘Bucuraţi-vă împreună cu mine, căci am găsit leul pe care-l pierdusem’.
+{15:10} Tot aşa, vă spun că este bucurie înaintea îngerilor lui Dumnezeu pentru un singur păcătos care se pocăieşte.”
+{i15:11} Pilda fiului risipitor
+{15:11} El a mai zis: „Un om avea doi fii.
+{15:12} Cel mai tânăr din ei a zis tatălui său: ‘Tată, dă-mi partea de avere ce mi se cuvine’. Şi tatăl le-a împărţit averea.
+{15:13} Nu după multe zile, fiul cel mai tânăr a strâns totul şi a plecat într-o ţară depărtată, unde şi-a risipit averea, ducând o viaţă destrăbălată.
+{15:14} După ce a cheltuit totul, a venit o foamete mare în ţara aceea, şi el a început să ducă lipsă.
+{15:15} Atunci, s-a dus şi s-a lipit de unul din locuitorii ţării aceleia, care l-a trimis pe ogoarele lui să-i păzească porcii.
+{15:16} Mult ar fi dorit el să se sature cu roşcovele pe care le mâncau porcii, dar nu i le da nimeni.
+{15:17} Şi-a venit în fire şi a zis: ‘Câţi argaţi ai tatălui meu au belşug de pâine, iar eu mor de foame aici!
+{15:18} Mă voi scula, mă voi duce la tatăl meu şi-i voi zice: «Tată, am păcătuit împotriva cerului şi împotriva ta
+{15:19} şi nu mai sunt vrednic să mă chem fiul tău; fă-mă ca pe unul din argaţii tăi».’
+{15:20} Şi s-a sculat şi a plecat la tatăl său. Când era încă departe, tatăl său l-a văzut şi i s-a făcut milă de el, a alergat de a căzut pe grumazul lui şi l-a sărutat mult.
+{15:21} Fiul i-a zis: ‘Tată, am păcătuit împotriva cerului şi împotriva ta, nu mai sunt vrednic să mă chem fiul tău’.
+{15:22} Dar tatăl a zis robilor săi: ‘Aduceţi repede haina cea mai bună şi îmbrăcaţi-l cu ea; puneţi-i un inel în deget şi încălţăminte în picioare.
+{15:23} Aduceţi viţelul cel îngrăşat şi tăiaţi-l. Să mâncăm şi să ne veselim,
+{15:24} căci acest fiu al meu era mort şi a înviat; era pierdut şi a fost găsit.’ Şi au început să se veselească.
+{15:25} Fiul cel mai mare era la ogor. Când a venit şi s-a apropiat de casă, a auzit muzică şi jocuri.
+{15:26} A chemat pe unul din robi şi a început să-l întrebe ce este.
+{15:27} Robul acela i-a răspuns: ‘Fratele tău a venit înapoi şi tatăl tău a tăiat viţelul cel îngrăşat, pentru că l-a găsit iarăşi sănătos şi bine’.
+{15:28} El s-a întărâtat de mânie şi nu voia să intre în casă. Tatăl său a ieşit afară şi l-a rugat să intre.
+{15:29} Dar el, drept răspuns, a zis tatălui său: ‘Iată, eu îţi slujesc ca un rob de atâţia ani şi niciodată nu ţi-am călcat porunca şi mie niciodată nu mi-ai dat măcar un ied să mă veselesc cu prietenii mei;
+{15:30} iar când a venit acest fiu al tău, care ţi-a mâncat averea cu femeile desfrânate, i-ai tăiat viţelul cel îngrăşat’.
+{15:31} ‘Fiule, i-a zis tatăl, tu întotdeauna eşti cu mine şi tot ce am eu este al tău.
+{15:32} Dar trebuia să ne veselim şi să ne bucurăm, pentru că acest frate al tău era mort şi a înviat, era pierdut şi a fost găsit’.”
+{i16:1} Pilda ispravnicului necredincios
+{16:1} Isus a mai spus ucenicilor Săi: „Un om bogat avea un ispravnic, care a fost pârât la el că-i risipeşte averea.
+{16:2} El l-a chemat şi i-a zis: ‘Ce aud eu vorbindu-se despre tine? Dă-ţi socoteală de isprăvnicia ta, pentru că nu mai poţi fi ispravnic.’
+{16:3} Ispravnicul şi-a zis: ‘Ce am să fac dacă îmi ia stăpânul isprăvnicia? Să sap, nu pot; să cerşesc, mi-e ruşine.
+{16:4} Ştiu ce am să fac, pentru ca, atunci când voi fi scos din isprăvnicie, ei să mă primească în casele lor.’
+{16:5} A chemat pe fiecare din datornicii stăpânului său şi a zis celui dintâi: ‘Cât eşti dator stăpânului meu?’
+{16:6} ‘O sută de măsuri de untdelemn’, a răspuns el. Şi i-a zis: ‘Ia-ţi zapisul şi şezi degrabă de scrie cincizeci’.
+{16:7} Apoi a zis altuia: ‘Dar tu cât eşti dator?’ ‘O sută de măsuri de grâu’, a răspuns el. Şi i-a zis: ‘Ia-ţi zapisul şi scrie optzeci’.
+{16:8} Stăpânul lui a lăudat pe ispravnicul nedrept, pentru că lucrase înţelepţeşte. Căci fiii veacului acestuia, faţă de semenii lor, sunt mai înţelepţi decât fiii luminii.
+{16:9} Şi Eu vă zic: Faceţi-vă prieteni cu ajutorul bogăţiilor nedrepte, pentru ca, atunci când veţi muri, să vă primească în corturile veşnice.
+{16:10} Cine este credincios în cele mai mici lucruri este credincios şi în cele mari şi cine este nedrept în cele mai mici lucruri este nedrept şi în cele mari.
+{16:11} Deci, dacă n-aţi fost credincioşi în bogăţiile nedrepte, cine vă va încredinţa adevăratele bogăţii?
+{16:12} Şi dacă n-aţi fost credincioşi în lucrul altuia, cine vă va da ce este al vostru?
+{16:13} Nicio slugă nu poate sluji la doi stăpâni; căci sau va urî pe unul şi va iubi pe celălalt, sau va ţine numai la unul şi va nesocoti pe celălalt. Nu puteţi sluji lui Dumnezeu şi lui Mamona.”
+{i16:14} Mustrări făcute fariseilor
+{16:14} Fariseii, care erau iubitori de bani, ascultau şi ei toate lucrurile acestea şi îşi băteau joc de El.
+{16:15} Isus le-a zis: „Voi căutaţi să vă arătaţi neprihăniţi înaintea oamenilor, dar Dumnezeu vă cunoaşte inimile; pentru că ce este înălţat între oameni este o urâciune înaintea lui Dumnezeu.
+{16:16} Legea şi prorocii au ţinut până la Ioan; de atunci încoace, Evanghelia Împărăţiei lui Dumnezeu se propovăduieşte: şi fiecare, ca să intre în ea, dă năvală.
+{16:17} Este mai lesne să treacă cerul şi pământul decât să cadă o singură frântură de slovă din Lege.
+{16:18} Oricine îşi lasă nevasta şi ia pe alta de nevastă preacurveşte şi cine ia de nevastă pe cea lăsată de bărbatul ei preacurveşte.”
+{i16:19} Pilda bogatului nemilostiv
+{16:19} „Era un om bogat, care se îmbrăca în porfiră şi in subţire şi în fiecare zi ducea o viaţă plină de veselie şi strălucire.
+{16:20} La uşa lui, zăcea un sărac numit Lazăr, plin de bube.
+{16:21} Şi dorea mult să se sature cu firimiturile care cădeau de la masa bogatului; până şi câinii veneau şi-i lingeau bubele.
+{16:22} Cu vremea, săracul a murit şi a fost dus de îngeri în sânul lui Avraam. A murit şi bogatul şi l-au îngropat.
+{16:23} Pe când era el în Locuinţa morţilor, în chinuri, şi-a ridicat ochii în sus, a văzut de departe pe Avraam şi pe Lazăr în sânul lui
+{16:24} şi a strigat: ‘Părinte Avraame, fie-ţi milă de mine şi trimite pe Lazăr să-şi înmoaie vârful degetului în apă şi să-mi răcorească limba, căci grozav sunt chinuit în văpaia aceasta’.
+{16:25} ‘Fiule’, i-a răspuns Avraam, ‘adu-ţi aminte că, în viaţa ta, tu ţi-ai luat lucrurile bune, şi Lazăr şi-a luat pe cele rele; acum, aici, el este mângâiat, iar tu eşti chinuit.
+{16:26} Pe lângă toate acestea, între noi şi între voi este o prăpastie mare, aşa ca cei ce ar vrea să treacă de aici la voi sau de acolo la noi să nu poată.’
+{16:27} Bogatul a zis: ‘Rogu-te dar, părinte Avraame, să trimiţi pe Lazăr în casa tatălui meu,
+{16:28} căci am cinci fraţi şi să le adeverească aceste lucruri, ca să nu vină şi ei în acest loc de chin’.
+{16:29} Avraam a răspuns: ‘Au pe Moise şi pe proroci; să asculte de ei’.
+{16:30} ‘Nu, părinte Avraame’, a zis el, ‘ci, dacă se va duce la ei cineva din morţi, se vor pocăi’.
+{16:31} Şi Avraam i-a răspuns: ‘Dacă nu ascultă pe Moise şi pe proroci, nu vor crede nici chiar dacă ar învia cineva din morţi’.”
+{i17:1} Prilejurile de păcătuire
+{17:1} Isus a zis ucenicilor Săi: „Este cu neputinţă să nu vină prilejuri de păcătuire, dar vai de acela prin care vin!
+{17:2} Ar fi mai de folos pentru el să i se lege o piatră de moară de gât şi să fie aruncat în mare, decât să facă pe unul din aceşti micuţi să păcătuiască.
+{17:3} Luaţi seama la voi înşivă! Dacă fratele tău păcătuieşte împotriva ta, mustră-l! Şi dacă-i pare rău, iartă-l!
+{17:4} Şi chiar dacă păcătuieşte împotriva ta de şapte ori pe zi şi de şapte ori pe zi se întoarce la tine şi zice: ‘Îmi pare rău!’ să-l ierţi.”
+{17:5} Apostolii au zis Domnului: „Măreşte-ne credinţa!”
+{17:6} Şi Domnul a zis: „Dacă aţi avea credinţă cât un grăunte de muştar, aţi zice dudului acestuia: Dezrădăcinează-te şi sădeşte-te în mare, şi v-ar asculta.
+{i17:7} „Robi netrebnici”
+{17:7} Cine dintre voi, dacă are un rob care ară sau paşte oile, îi va zice când vine de la câmp: ‘Vino îndată şi şezi la masă?’
+{17:8} Nu-i va zice mai degrabă: ‘Găteşte-mi să mănânc, încinge-te şi slujeşte-mi până voi mânca şi voi bea eu; după aceea, vei mânca şi vei bea şi tu?’
+{17:9} Va rămâne el îndatorat faţă de robul acela, pentru că robul a făcut ce-i fusese poruncit? Nu cred.
+{17:10} Tot aşa şi voi, după ce veţi face tot ce vi s-a poruncit, să ziceţi: ‘Suntem nişte robi netrebnici; am făcut ce eram datori să facem’.”
+{i17:11} Cei zece leproşi
+{17:11} Isus mergea spre Ierusalim şi a trecut printre Samaria şi Galileea.
+{17:12} Pe când intra într-un sat, L-au întâmpinat zece leproşi. Ei au stat departe,
+{17:13} şi-au ridicat glasul şi au zis: „Isuse, Învăţătorule, ai milă de noi!”
+{17:14} Când i-a văzut Isus, le-a zis: „Duceţi-vă şi arătaţi-vă preoţilor!”Şi pe când se duceau, au fost curăţiţi.
+{17:15} Unul din ei, când s-a văzut vindecat, s-a întors, slăvind pe Dumnezeu cu glas tare.
+{17:16} S-a aruncat cu faţa la pământ la picioarele lui Isus şi I-a mulţumit. Era samaritean.
+{17:17} Isus a luat cuvântul şi a zis: „Oare n-au fost curăţiţi toţi cei zece? Dar ceilalţi nouă, unde sunt?
+{17:18} Nu s-a găsit decât străinul acesta să se întoarcă şi să dea slavă lui Dumnezeu?”
+{17:19} Apoi i-a zis: „Scoală-te şi pleacă; credinţa ta te-a mântuit”.
+{i17:20} Venirea Împărăţiei lui Dumnezeu
+{17:20} Fariseii au întrebat pe Isus când va veni Împărăţia lui Dumnezeu. Drept răspuns, El le-a zis: „Împărăţia lui Dumnezeu nu vine în aşa fel ca să izbească privirile.
+{17:21} Nu se va zice: ‘Uite-o aici’ sau ‘Uite-o acolo!’ Căci iată că Împărăţia lui Dumnezeu este înăuntrul vostru.”
+{i17:22} Venirea Fiului omului
+{17:22} Şi a zis ucenicilor: „Vor veni zile când veţi dori să vedeţi una din zilele Fiului omului, şi n-o veţi vedea.
+{17:23} Vi se va zice: ‘Iată-L aici, iată-L acolo!’ Să nu vă duceţi, nici să nu-i urmaţi.
+{17:24} Căci, cum iese fulgerul şi luminează de la o margine a cerului până la cealaltă, aşa va fi şi Fiul omului în ziua Sa.
+{17:25} Dar, mai întâi, trebuie să sufere multe şi să fie lepădat de neamul acesta.
+{17:26} Ce s-a întâmplat în zilele lui Noe, se va întâmpla la fel şi în zilele Fiului omului:
+{17:27} mâncau, beau, se însurau şi se măritau până în ziua când a intrat Noe în corabie; şi a venit potopul şi i-a prăpădit pe toţi.
+{17:28} Ces-a întâmplat în zilele lui Lot, se va întâmpla aidoma: oamenii mâncau, beau, cumpărau, vindeau, sădeau, zideau,
+{17:29} dar, în ziua când a ieşit Lot din Sodoma, a plouat foc şi pucioasă din cer şi i-a pierdut pe toţi.
+{17:30} Tot aşa va fi şi în ziua când Se va arăta Fiul omului.
+{17:31} În ziua aceea, cine va fi pe acoperişul casei şi îşi va avea vasele în casă să nu se pogoare să le ia şi cine va fi pe câmp, de asemenea, să nu se mai întoarcă.
+{17:32} Aduceţi-vă aminte de nevasta lui Lot.
+{17:33} Oricine va căuta să-şi scape viaţa o va pierde şi oricine o va pierde o va găsi.
+{17:34} Vă spun că, în noaptea aceea, doi inşi vor fi în acelaşi pat, unul va fi luat şi altul va fi lăsat;
+{17:35} două femei vor măcina împreună: una va fi luată şi alta va fi lăsată.
+{17:36} Doi bărbaţi vor fi la câmp: unul va fi luat şi altul va fi lăsat.”
+{17:37} Ucenicii L-au întrebat: „Unde, Doamne?” Iar El a răspuns: „Unde va fi trupul acolo se vor strânge vulturii.”
+{i18:1} Pilda judecătorului nedrept
+{18:1} Isus le-a spus o pildă, ca să le arate că trebuie să se roage necurmat şi să nu se lase.
+{18:2} El le-a zis: „Într-o cetate era un judecător care de Dumnezeu nu se temea şi de oameni nu se ruşina.
+{18:3} În cetatea aceea era şi o văduvă, care venea des la el şi-i zicea: ‘Fă-mi dreptate în cearta cu pârâşul meu’.
+{18:4} Multă vreme n-a voit să-i facă dreptate. Dar în urmă, şi-a zis: ‘Măcar că de Dumnezeu nu mă tem şi de oameni nu mă ruşinez,
+{18:5} totuşi, pentru că văduva aceasta mă tot necăjeşte, îi voi face dreptate, ca să nu tot vină să-mi bată capul’.”
+{18:6} Domnul a adăugat: „Auziţi ce zice judecătorul nedrept?
+{18:7} Şi Dumnezeu nu va face dreptate aleşilor Lui, care strigă zi şi noapte către El, măcar că zăboveşte faţă de ei?
+{18:8} Vă spun căle va face dreptate în curând. Dar când va veni Fiul omului, va găsi El credinţă pe pământ?”
+{i18:9} Pilda vameşului şi a fariseului
+{18:9} A mai spus şi pilda aceasta pentru unii care se încredeau în ei înşişi că sunt neprihăniţi şi dispreţuiau pe ceilalţi.
+{18:10} „Doi oameni s-au suit la Templu să se roage; unul era fariseu şi altul, vameş.
+{18:11} Fariseul sta în picioare şi a început să se roage în sine astfel: ‘Dumnezeule, Îţi mulţumesc că nu sunt ca ceilalţi oameni, hrăpăreţi, nedrepţi, preacurvari, sau chiar ca vameşul acesta.
+{18:12} Eu postesc de două ori pe săptămână, dau zeciuială din toate veniturile mele.’
+{18:13} Vameşul stătea departe şi nu îndrăznea nici ochii să şi-i ridice spre cer, ci se bătea în piept şi zicea: ‘Dumnezeule, ai milă de mine, păcătosul!’
+{18:14} Eu vă spun că mai degrabă omul acesta s-a pogorât acasă socotit neprihănit decât celălalt. Căci oricine se înalţă va fi smerit şi oricine se smereşte va fi înălţat.”
+{i18:15} Copilaşii
+{18:15} I-au adus şi nişte copilaşi, ca să Se atingă de ei. Dar ucenicii, când au văzut lucrul acesta, au certat pe aceia care-i aduceau.
+{18:16} Isus a chemat la Sine pe copilaşi şi a zis: „Lăsaţi copilaşii să vină la Mine şi nu-i opriţi, căci Împărăţia lui Dumnezeu este a unora ca ei.
+{18:17} Adevărat vă spun că oricine nu va primi Împărăţia lui Dumnezeu ca un copilaş cu niciun chip nu va intra în ea.”
+{i18:18} Tânărul bogat
+{18:18} Un fruntaş a întrebat pe Isus: „Bunule Învăţător, ce trebuie să fac ca să moştenesc viaţa veşnică?”
+{18:19} „Pentru ce Mă numeşti bun?” i-a răspuns Isus. „Nimeni nu este bun decât Unul singur: Dumnezeu.
+{18:20} Ştii poruncile: ‘Să nu preacurveşti; să nu ucizi; să nu furi; să nu faci o mărturisire mincinoasă; să cinsteşti pe tatăl tău şi pe mama ta’.”
+{18:21} „Toate aceste lucruri”, I-a zis el, „le-am păzit din tinereţea mea”.
+{18:22} Când a auzit Isus aceste vorbe, i-a zis: „Îţi mai lipseşte un lucru: vinde tot ce ai, împarte la săraci şi vei avea o comoară în ceruri. Apoi, vino şi urmează-Mă.”
+{18:23} Când a auzit el aceste cuvinte, s-a întristat de tot, căci era foarte bogat.
+{18:24} Isus a văzut că s-a întristat de tot şi a zis: „Cât de anevoie vor intra în Împărăţia lui Dumnezeu cei ce au avuţii!
+{18:25} Fiindcă mai lesne este să treacă o cămilă prin urechea acului decât să intre un om bogat în Împărăţia lui Dumnezeu.”
+{18:26} Cei ce-L ascultau au zis: „Atunci cine poate fi mântuit?”
+{18:27} Isus a răspuns: „Ce este cu neputinţă la oameni este cu putinţă la Dumnezeu”.
+{18:28} Atunci, Petru a zis: „Iată că noi am lăsat totul şi Te-am urmat”.
+{18:29} Şi Isus le-a zis: „Adevărat vă spun că nu este nimeni care să-şi fi lăsat casa sau nevasta, sau fraţii, sau părinţii, sau copiii pentru Împărăţia lui Dumnezeu
+{18:30} şi să nu primească mult mai mult în veacul acesta de acum, iar în veacul viitor, viaţa veşnică”.
+{i18:31} Isus vesteşte moartea şi învierea Sa
+{18:31} Isus a luat cu Sine pe cei doisprezece şi le-a zis: „Iată că ne suim la Ierusalim şi totce a fost scris prin proroci despre Fiul omului se va împlini.
+{18:32} Căci va fi dat în mâna neamurilor: Îl vor batjocori, Îl vor ocărî, Îl vor scuipa
+{18:33} şi, după ce-L vor bate cu nuiele, Îl vor omorî, dar a treia zi va învia.”
+{18:34} Ei n-au înţeles nimic din aceste lucruri, căci vorbirea aceasta era ascunsă pentru ei şi nu pricepeau ce le spunea Isus.
+{i18:35} Vindecarea unui orb la Ierihon
+{18:35} Pe când Se apropia Isus de Ierihon, un orb şedea lângă drum şi cerşea.
+{18:36} Când a auzit norodul trecând, a întrebat ce este.
+{18:37} I-au spus: „Trece Isus din Nazaret”.
+{18:38} Şi el a strigat: „Isuse, Fiul lui David, ai milă de mine!”
+{18:39} Cei ce mergeau înainte îl certau să tacă, dar el ţipa şi mai tare: „Fiul lui David, ai milă de mine!”
+{18:40} Isus S-a oprit şi a poruncit să-l aducă la El şi, după ce s-a apropiat, l-a întrebat:
+{18:41} „Ce vrei să-ţi fac?” „Doamne”, a răspuns el, „să-mi capăt vederea”.
+{18:42} Şi Isus i-a zis: „Capătă-ţi vederea. Credinţa ta te-a mântuit.”
+{18:43} Numaidecât, orbul şi-a căpătat vederea şi a mers după Isus, slăvind pe Dumnezeu. Tot norodul, când a văzut cele întâmplate, a dat laudă lui Dumnezeu.
+{i19:1} Zacheu
+{19:1} Isus a intrat în Ierihon şi trecea prin cetate.
+{19:2} Şi un om bogat, numit Zacheu, mai-marele vameşilor,
+{19:3} căuta să vadă care este Isus, dar nu putea din pricina norodului, căci era mic de statură.
+{19:4} A alergat înainte şi s-a suit într-un dud ca să-L vadă, pentru că pe drumul acela avea să treacă.
+{19:5} Isus, când a ajuns la locul acela, Şi-a ridicat ochii şi i-a zis: „Zachee, dă-te jos degrabă, căci astăzi trebuie să rămân în casa ta”.
+{19:6} Zacheu s-a dat jos în grabă şi L-a primit cu bucurie.
+{19:7} Când au văzut lucrul acesta, toţi cârteau şi ziceau: „A intrat să găzduiască la un om păcătos!”
+{19:8} Dar Zacheu a stat înaintea Domnului şi I-a zis: „Iată, Doamne, jumătate din avuţia mea o dau săracilor şi, dacă am năpăstuit pe cineva cu ceva, îi dau înapoi împătrit”.
+{19:9} Isus i-a zis: „Astăzi a intrat mântuirea în casa aceasta, căci şi el este fiul lui Avraam.
+{19:10} Pentru că Fiul omului a venit să caute şi să mântuiască ce era pierdut.”
+{i19:11} Pilda polilor
+{19:11} Pe când ascultau ei aceste lucruri, Isus a mai spus o pildă, pentru că era aproape de Ierusalim, şi ei credeau că Împărăţia lui Dumnezeu are să se arate îndată.
+{19:12} Deci a zis: „Un om de neam mare s-a dus într-o ţară depărtată ca să-şi ia o împărăţie şi apoi să se întoarcă.
+{19:13} A chemat zece din robii săi, le-a dat zece poli şi le-a zis: ‘Puneţi-i în negoţ până mă voi întoarce’.
+{19:14} Dar cetăţenii lui îl urau şi au trimis după el o solie să-i spună: ‘Nu vrem ca omul acesta să împărăţească peste noi’.
+{19:15} Când s-a întors înapoi, după ce îşi luase împărăţia, a spus să cheme pe robii aceia cărora le dăduse banii, ca să vadă cât câştigase fiecare cu ei din negoţ.
+{19:16} Cel dintâi a venit şi i-a zis: ‘Doamne, polul tău a mai adus zece poli’.
+{19:17} El i-a zis: ‘Bine, rob bun, fiindcă ai fost credincios în puţine lucruri, primeşte cârmuirea a zece cetăţi’.
+{19:18} A venit al doilea şi i-a zis: ‘Doamne, polul tău a mai adus cinci poli’.
+{19:19} El i-a zis şi lui: ‘Primeşte şi tu cârmuirea a cinci cetăţi’.
+{19:20} A venit un altul şi i-a zis: ‘Doamne, iată-ţi polul, pe care l-am păstrat învelit într-un ştergar,
+{19:21} căci m-am temut de tine, fiindcă eşti un om aspru; iei ce n-ai pus şi seceri ce n-ai semănat’.
+{19:22} Stăpânul i-a zis: ‘Rob rău; te voi judeca după cuvintele tale. Ştiai că sunt un om aspru, care iau ce n-am pus şi secer ce n-am semănat,
+{19:23} atunci de ce nu mi-ai pus banii la zarafi, pentru ca, la întoarcerea mea, să-i fi luat înapoi cu dobândă?’
+{19:24} Apoi a zis celor ce erau de faţă: ‘Luaţi-i polul şi daţi-l celui ce are zece poli’.
+{19:25} ‘Doamne’, i-au zis ei, ‘el are zece poli’.
+{19:26} Iar el le-a zis: ‘Vă spun că celui ce are, i se va da, dar de la cel ce n-are, se va lua chiar şi ce are.
+{19:27} Cât despre vrăjmaşii mei, care n-au vrut să împărăţesc eu peste ei, aduceţi-i încoace şi tăiaţi-i înaintea mea.’”
+{19:28} După ce a vorbit astfel, Isus a pornit în frunte şi Se suia spre Ierusalim.
+{i19:29} Intrarea lui Isus în Ierusalim
+{19:29} Când S-a apropiat de Betfaghe şi de Betania, înspre muntele numit al Măslinilor, Isus a trimis pe doi din ucenicii Săi
+{19:30} şi le-a zis: „Duceţi-vă în satul dinaintea voastră. Când veţi intra în el, veţi găsi un măgăruş legat, pe care n-a încălecat nimeni niciodată: dezlegaţi-l şi aduceţi-Mi-l.
+{19:31} Dacă vă va întreba cineva: ‘Pentru ce-l dezlegaţi?’ să-i spuneţi aşa: ‘Pentru că Domnul are trebuinţă de el’.”
+{19:32} Cei ce fuseseră trimişi s-au dus şi au găsit aşa cum le spusese Isus.
+{19:33} Pe când dezlegau măgăruşul, stăpânii lui le-au zis: „Pentru ce dezlegaţi măgăruşul?”
+{19:34} Ei au răspuns: „Domnul are trebuinţă de el”.
+{19:35} Şi au adus măgăruşul la Isus. Apoi, şi-au aruncat hainele pe el şi au aşezat pe Isus călare, deasupra.
+{19:36} Pe când mergea Isus, oamenii îşi aşterneau hainele pe drum.
+{19:37} Şi când S-a apropiat de Ierusalim, spre pogorâşul Muntelui Măslinilor, toată mulţimea ucenicilor, plină de bucurie, a început să laude pe Dumnezeu cu glas tare pentru toate minunile pe care le văzuseră.
+{19:38} Ei ziceau: „Binecuvântat este Împăratul care vine în Numele Domnului! Pace în cer şi slavă în locurile preaînalte!”
+{19:39} Unii farisei din norod au zis lui Isus: „Învăţătorule, ceartă-Ţi ucenicii!”
+{19:40} Şi El a răspuns: „Vă spun că, dacă vor tăcea ei, pietrele vor striga”.
+{i19:41} Isus plânge pentru cetate
+{19:41} Când S-a apropiat de cetate şi a văzut-o, Isus a plâns pentru ea
+{19:42} şi a zis: „Dacă ai fi cunoscut şi tu, măcar în această zi, lucrurile care puteau să-ţi dea pacea! Dar acum, ele sunt ascunse de ochii tăi.
+{19:43} Vor veni peste tine zile când vrăjmaşii tăi te vor înconjura cu şanţuri, te vor împresura şi te vor strânge din toate părţile:
+{19:44} te vor face una cu pământul, pe tine şi pe copiii tăi din mijlocul tău, şi nu vor lăsa în tine piatră pe piatră, pentru că n-ai cunoscut vremea când ai fost cercetată.”
+{i19:45} Izgonirea vânzătorilor din Templu
+{19:45} În urmă, a intrat în Templu şi a început să scoată afară pe cei ce vindeau şi cumpărau în el.
+{19:46} Şi le-a zis: „Este scris: ‘Casa Mea va fi o casă de rugăciune. Dar voi aţi făcut din ea o peşteră de tâlhari.’”
+{19:47} Isus învăţa în toate zilele pe norod în Templu. Şi preoţii cei mai de seamă, cărturarii şi bătrânii norodului căutau să-L omoare,
+{19:48} dar nu ştiau cum să facă, pentru că tot norodul Îi sorbea vorbele de pe buze.
+{i20:1} Puterea lui Isus
+{20:1} Într-una din acele zile, când învăţa Isus norodul în Templu şi propovăduia Evanghelia, au venit deodată la El preoţii cei mai de seamă şi cărturarii, cu bătrânii,
+{20:2} şi I-au zis: „Spune-ne, cu ce putere faci Tu aceste lucruri sau cine Ţi-a dat puterea aceasta?”
+{20:3} Drept răspuns, El le-a zis: „Am să vă pun şi Eu o întrebare. Spuneţi-Mi:
+{20:4} Botezul lui Ioan venea din cer sau de la oameni?”
+{20:5} Dar ei cugetau astfel între ei: „Dacă răspundem: ‘Din cer’, va zice: ‘Atunci, de ce nu l-aţi crezut?’
+{20:6} Şi dacă răspundem: ‘De la oameni’, tot norodul ne va ucide cu pietre; căci este încredinţat că Ioan era un proroc.”
+{20:7} Atunci au răspuns că nu ştiu de unde venea botezul lui Ioan.
+{20:8} Şi Isus le-a zis: „Nici Eu n-am să vă spun cu ce putere fac aceste lucruri”.
+{i20:9} Pilda vierilor
+{20:9} Apoi a început să spună norodului pilda aceasta: „Un om a sădit o vie, a arendat-o unor vieri şi a plecat într-o altă ţară pentru o vreme îndelungată.
+{20:10} La vremea rodurilor, a trimis la vieri un rob, ca să-i dea partea lui din rodul viei. Vierii l-au bătut şi l-au trimis înapoi cu mâinile goale.
+{20:11} A mai trimis un alt rob; ei l-au bătut şi pe acela, l-au batjocorit şi l-au trimis înapoi cu mâinile goale.
+{20:12} A mai trimis un al treilea rob; ei l-au rănit şi pe acela şi l-au scos afară.
+{20:13} Stăpânul viei a zis: ‘Ce să fac? Am să trimit pe fiul meu preaiubit; poate că îl vor primi cu cinste’.
+{20:14} Dar vierii, când l-au văzut, s-au sfătuit între ei şi au zis: ‘Iată moştenitorul. Veniţi să-l ucidem, ca moştenirea să fie a noastră’.
+{20:15} Şi l-au scos afară din vie şi l-au omorât. Acum, ce le va face stăpânul viei?
+{20:16} Va veni, va pierde pe vierii aceia, şi via o va da altora.” Când au auzit ei cuvintele acestea, au zis: „Nicidecum!”
+{20:17} Dar Isus i-a privit drept în faţă şi a zis: „Ce înseamnă cuvintele acestea care au fost scrise: ‘Piatra pe care au lepădat-o zidarii a ajuns să fie pusă în capul unghiului?
+{20:18} Oricine va cădea peste piatra aceasta va fi zdrobit de ea şi, pe acela peste care va cădea ea, îl va spulbera?’”
+{20:19} Preoţii cei mai de seamă şi cărturarii căutau să pună mâna pe El chiar în ceasul acela, dar se temeau de norod. Pricepuseră că Isus spusese pilda aceasta împotriva lor.
+{i20:20} Birul cezarului
+{20:20} Au început să pândească pe Isus şi au trimis nişte iscoditori, care se prefăceau că sunt neprihăniţi, ca să-L prindă cu vorba şi să-L dea pe mâna stăpânirii şi pe mâna puterii dregătorului.
+{20:21} Iscoditorii aceştia L-au întrebat: „Învăţătorule, ştim că vorbeşti şi înveţi pe oameni drept şi că nu cauţi la faţa oamenilor, ci-i înveţi calea lui Dumnezeu în adevăr.
+{20:22} Se cuvine să plătim bir cezarului sau nu?”
+{20:23} Isus le-a priceput viclenia şi le-a răspuns: „Pentru ce Mă ispitiţi?
+{20:24} Arătaţi-Mi un ban. Al cui chip şi ale cui slove sunt scrise pe el?” „Ale cezarului”, au răspuns ei.
+{20:25} Atunci, El le-a zis: „Daţi dar cezarului ce este al cezarului şi lui Dumnezeu ce este al lui Dumnezeu”.
+{20:26} Nu L-au putut prinde cu vorba înaintea norodului; ci, miraţi de răspunsul Lui, au tăcut.
+{i20:27} Despre înviere
+{20:27} Unii din saduchei, care zic că nu este înviere, s-au apropiat şi au întrebat pe Isus:
+{20:28} „Învăţătorule, iată ce ne-a scris Moise: ‘Dacă moare fratele cuiva, având nevastă, dar fără să aibă copii, fratele lui să ia pe nevasta lui şi să ridice urmaş fratelui său’.
+{20:29} Au fost dar şapte fraţi. Cel dintâi s-a însurat şi a murit fără copii.
+{20:30} Pe nevasta lui, a luat-o al doilea; şi a murit şi el fără copii.
+{20:31} A luat-o şi al treilea, şi tot aşa toţi şapte; şi au murit fără să lase copii.
+{20:32} La urma tuturor, a murit şi femeia.
+{20:33} Deci, la înviere, nevasta căruia dintre ei va fi femeia? Fiindcă toţi şapte au avut-o de nevastă.”
+{20:34} Isus le-a răspuns: „Fiii veacului acestuia se însoară şi se mărită,
+{20:35} dar cei ce vor fi găsiţi vrednici să aibă parte de veacul viitor şi de învierea dintre cei morţi nici nu se vor însura, nici nu se vor mărita.
+{20:36} Pentru că nici nu vor putea muri, căci vor fi ca îngerii. Şi vor fi fiii lui Dumnezeu, fiind fii ai învierii.
+{20:37} Dar că morţii învie, a arătat însuşi Moise, în locul unde este vorba despre ‘Rug’, când numeşte pe Domnul: ‘Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov’.
+{20:38} Dar Dumnezeu nu este un Dumnezeu al celor morţi, ci al celor vii, căci pentru El toţi sunt vii.”
+{20:39} Unii din cărturari au luat cuvântul şi au zis: „Învăţătorule, bine ai zis”.
+{20:40} Şi nu mai îndrăzneau să-I mai pună nicio întrebare.
+{i20:41} Al cui fiu este Hristosul?
+{20:41} Isus le-a zis: „Cum se zice că Hristosul este fiul lui David?
+{20:42} Căci însuşi David zice în cartea Psalmilor: ‘Domnul a zis Domnului meu: «Şezi la dreapta Mea
+{20:43} până voi pune pe vrăjmaşii Tăi sub picioarele Tale».’”
+{20:44} Deci David Îl numeşte Domn; atunci cum este El fiul lui?
+{i20:45} Cărturarii mustraţi de Isus
+{20:45} Atunci a zis ucenicilor Săi, în auzul întregului norod:
+{20:46} „Păziţi-vă de cărturari, cărora le place să se plimbe în haine lungi şi să le facă lumea plecăciuni prin pieţe; ei umblă după scaunele dintâi în sinagogi şi după locurile dintâi la ospeţe
+{20:47} şi casele văduvelor le mănâncă, în timp ce, de ochii lumii, fac rugăciuni lungi. De aceea vor lua o mai mare osândă.”
+{i21:1} Văduva săracă
+{21:1} Isus Şi-a ridicat ochii şi a văzut pe nişte bogaţi care îşi aruncau darurile în vistierie.
+{21:2} A văzut şi pe o văduvă săracă aruncând acolo doi bănuţi.
+{21:3} Şi a zis: „Adevărat vă spun că această văduvă săracă a aruncat mai mult decât toţi ceilalţi,
+{21:4} căci toţi aceştia au aruncat la daruri din prisosul lor, dar ea a aruncat, din sărăcia ei, tot ce avea ca să trăiască.”
+{i21:5} Nimicirea Ierusalimului şi venirea Fiului omului
+{21:5} Pe când vorbeau unii despre Templu, că era împodobit cu pietre frumoase şi daruri, Isus a zis:
+{21:6} „Vor veni zile când nu va rămâne aici piatră pe piatră care să nu fie dărâmată”.
+{21:7} „Învăţătorule”, L-au întrebat ei, „când se vor întâmpla toate aceste lucruri? Şi care va fi semnul când se vor întâmpla aceste lucruri?”
+{21:8} Isus a răspuns: „Băgaţi de seamă să nu vă amăgească cineva. Căci vor veni mulţi în Numele Meu şi vor zice: ‘Eu sunt Hristosul’ şi ‘Vremea se apropie’. Să nu mergeţi după ei.
+{21:9} Când veţi auzi de războaie şi de răscoale, să nu vă înspăimântaţi, pentru că întâi trebuie să se întâmple aceste lucruri. Dar sfârşitul nu va fi îndată.”
+{21:10} „Apoi”, le-a zis El, „un neam se va scula împotriva altui neam şi o împărăţie, împotriva altei împărăţii.
+{21:11} Pe alocuri vor fi mari cutremure de pământ, foamete şi ciume, vor fi arătări înspăimântătoare şi semne mari în cer.
+{21:12} Dar înainte de toate acestea, vor pune mâinile pe voi şi vă vor prigoni, vă vor da pe mâna sinagogilor, vă vor arunca în temniţe, vă vor târî înaintea împăraţilor şi înaintea dregătorilor din pricina Numelui Meu.
+{21:13} Aceste lucruri vi se vor întâmpla ca să fiţi mărturie.
+{21:14} Ţineţi bine minte, să nu vă gândiţi mai dinainte ce veţi răspunde,
+{21:15} căci vă voi da o gură şi o înţelepciune căreia nu-i vor putea răspunde, nici sta împotrivă toţi potrivnicii voştri.
+{21:16} Veţi fi daţi în mâinile lor până şi de părinţii, fraţii, rudele şi prietenii voştri; şi vor omorî pe mulţi dintre voi.
+{21:17} Veţi fi urâţi de toţi din pricina Numelui Meu.
+{21:18} Dar niciun păr din cap nu vi se va pierde.
+{21:19} Prin răbdarea voastră, vă veţi câştiga sufletele voastre.
+{i21:20} Îndemn la veghere
+{21:20} Când veţi vedea Ierusalimul înconjurat de oşti, să ştiţi că atunci pustiirea lui este aproape.
+{21:21} Atunci, cei din Iudeea să fugă la munţi, cei din mijlocul Ierusalimului să iasă din el şi cei de prin ogoare să nu intre în el.
+{21:22} Căci zilele acelea vor fi zile de răzbunare, ca să se împlinească tot ce este scris.
+{21:23} Vai de femeile care vor fi însărcinate şi de cele ce vor da ţâţă în acele zile! Pentru că va fi o strâmtorare mare în ţară şi mânie, împotriva norodului acestuia.
+{21:24} Vor cădea sub ascuţişul sabiei, vor fi luaţi robi printre toate neamurile, şi Ierusalimul va fi călcat în picioare de neamuri, până se vor împlini vremurile neamurilor.
+{21:25} Vor fi semne în soare, în lună şi în stele. Şi pe pământ va fi strâmtorare printre neamuri, care nu vor şti ce să facă la auzul urletului mării şi al valurilor;
+{21:26} oamenii îşi vor da sufletul de groază în aşteptarea lucrurilor care se vor întâmpla pe pământ, căci puterile cerurilor vor fi clătinate.
+{21:27} Atunci, vor vedea pe Fiul omului venind pe un nor cu putere şi slavă mare.
+{21:28} Când vor începe să se întâmple aceste lucruri, să vă uitaţi în sus şi să vă ridicaţi capetele, pentru că izbăvirea voastră se apropie.”
+{21:29} Şi le-a spus o pildă: „Vedeţi smochinul şi toţi copacii.
+{21:30} Când înfrunzesc şi-i vedeţi, voi singuri cunoaşteţi că de acum vara este aproape.
+{21:31} Tot aşa, când veţi vedea întâmplându-se aceste lucruri, să ştiţi că Împărăţia lui Dumnezeu este aproape.
+{21:32} Adevărat vă spun că nu va trece neamul acesta, până când se vor împlini toate aceste lucruri.
+{21:33} Cerul şi pământul vor trece, dar cuvintele Mele nu vor trece.
+{21:34} Luaţi seama la voi înşivă, ca nu cumva să vi se îngreuneze inimile cu îmbuibare de mâncare şi băutură şi cu îngrijorările vieţii acesteia, şi astfel ziua aceea să vină fără veste asupra voastră.
+{21:35} Căci ziua aceea va veni ca un laţ peste toţi cei ce locuiesc pe toată faţa pământului.
+{21:36} Vegheaţi dar în tot timpul şi rugaţi-vă, ca să aveţi putere să scăpaţi de toate lucrurile acestea care se vor întâmpla şi să staţi în picioare înaintea Fiului omului.”
+{21:37} Ziua, Isus învăţa pe norod în Templu, iar noaptea Se ducea de o petrecea în muntele care se cheamă Muntele Măslinilor.
+{21:38} Şi tot norodul venea dis-de-dimineaţă la El în Templu, ca să-L asculte.
+{i22:1} Sfat împotriva lui Isus
+{22:1} Praznicul Azimilor, numit Paştele, se apropia.
+{22:2} Preoţii cei mai de seamă şi cărturarii căutau un mijloc cum să omoare pe Isus; căci se temeau de norod.
+{22:3} Dar Satana a intrat în Iuda, zis şi Iscarioteanul, care era din numărul celor doisprezece.
+{22:4} Iuda s-a dus să se înţeleagă cu preoţii cei mai de seamă şi cu căpeteniile străjerilor Templului cum să-L dea în mâinile lor.
+{22:5} Ei s-au bucurat şi au căzut la învoială să-i dea bani.
+{22:6} După ce le-a făgăduit că li-L va da în mâini, Iuda căuta un prilej nimerit să dea pe Isus în mâinile lor, fără ştirea norodului.
+{i22:7} Prăznuirea Paştelor
+{22:7} Ziua Praznicului Azimilor, în care trebuiau jertfite Paştele, a venit.
+{22:8} Şi Isus a trimis pe Petru şi pe Ioan şi le-a zis: „Duceţi-vă de pregătiţi-ne Paştele, ca să mâncăm”.
+{22:9} „Unde voieşti să pregătim?” L-au întrebat ei.
+{22:10} El le-a răspuns: „Iată, când veţi intra în cetate, vă va ieşi înainte un om, ducând un urcior cu apă; mergeţi după el în casa în care va intra
+{22:11} şi spuneţi stăpânului casei: ‘Învăţătorul îţi zice: «Unde este odaia pentru oaspeţi, în care să mănânc Paştele cu ucenicii Mei?»’
+{22:12} Şi are să vă arate o odaie mare de sus, aşternută gata: acolo să pregătiţi Paştele.”
+{22:13} Ei au plecat şi au găsit aşa cum le spusese El. Şi au pregătit Paştele.
+{22:14} Când a sosit ceasul, Isus a şezut la masă cu cei doisprezece apostoli.
+{22:15} El le-a zis: „Am dorit mult să mănânc Paştele acestea cu voi înainte de patima Mea;
+{22:16} căci vă spun că, de acum încolo, nu le voi mai mânca până la împlinirea lor în Împărăţia lui Dumnezeu.”
+{22:17} Şi a luat un pahar, a mulţumit lui Dumnezeu şi a zis: „Luaţi paharul acesta şi împărţiţi-l între voi,
+{22:18} pentru că vă spun că nu voi mai bea de acum încolo din rodul viţei, până când va veni Împărăţia lui Dumnezeu.”
+{22:19} Apoi, a luat pâine şi, după ce a mulţumit lui Dumnezeu, a frânt-o şi le-a dat-o zicând: „Acesta este trupul Meu, care se dă pentru voi; să faceţi lucrul acesta spre pomenirea Mea”.
+{22:20} Tot astfel, după ce au mâncat, a luat paharul şi li l-a dat, zicând: „Acest pahar este legământul cel nou, făcut în sângele Meu, care se varsă pentru voi”.
+{i22:21} Descoperirea vânzătorului
+{22:21} „Dar iată că mâna vânzătorului Meu este cu Mine la masa aceasta.
+{22:22} Negreşit, Fiul omului Se duce după cum este rânduit. Dar vai de omul acela prin care este vândut El!”
+{22:23} Şi au început să se întrebe unii pe alţii cine din ei să fie acela care va face lucrul acesta.
+{i22:24} Care este cel mai mare?
+{22:24} Între apostoli s-a iscat şi o ceartă, ca să ştie care din ei avea să fie socotit ca cel mai mare?
+{22:25} Isus le-a zis: „Împăraţii neamurilor domnesc peste ele şi, celor ce le stăpânesc, li se dă numele de binefăcători.
+{22:26} Voi să nu fiţi aşa. Ci cel mai mare dintre voi să fie ca cel mai mic şi cel ce cârmuieşte, ca cel ce slujeşte.
+{22:27} Căci care este mai mare: cine stă la masă sau cine slujeşte la masă? Nu cine stă la masă? Şi Eu totuşi sunt în mijlocul vostru ca cel ce slujeşte la masă.
+{22:28} Voi sunteţi aceia care aţi rămas necontenit cu Mine în încercările Mele.
+{22:29} De aceea vă pregătesc Împărăţia, după cum Tatăl Meu Mi-a pregătit-o Mie,
+{22:30} ca să mâncaţi şi să beţi la masa Mea în Împărăţia Mea, şi să şedeţi pe scaune de domnie, ca să judecaţi pe cele douăsprezece seminţii ale lui Israel.”
+{i22:31} Înştiinţarea lui Petru
+{22:31} Domnul a zis: „Simone, Simone, Satana v-a cerut să vă cearnă ca grâul.
+{22:32} Dar Eu M-am rugat pentru tine, ca să nu se piardă credinţa ta şi, după ce te vei întoarce la Dumnezeu, să întăreşti pe fraţii tăi.”
+{22:33} „Doamne”, I-a zis Petru, „cu Tine sunt gata să merg chiar şi în temniţă şi la moarte”.
+{22:34} Şi Isus i-a zis: „Petre, îţi spun că nu va cânta astăzi cocoşul, până te vei lepăda de trei ori că nu Mă cunoşti”.
+{22:35} Apoi, le-a mai zis: „Când v-am trimis fără pungă, fără traistă şi fără încălţăminte, aţi dus voi lipsă de ceva?” „De nimic”, I-au răspuns ei.
+{22:36} Şi El le-a zis: „Acum, dimpotrivă, cine are o pungă s-o ia; cine are o traistă de asemenea s-o ia şi cine n-are sabie să-şi vândă haina şi să-şi cumpere o sabie.
+{22:37} Căci vă spun că trebuie să se împlinească cu Mine aceste cuvinte scrise: ‘El a fost pus în numărul celor fărădelege’. Şi lucrurile privitoare la Mine sunt gata să se împlinească.”
+{22:38} „Doamne”, I-au zis ei, „iată aici două săbii”. Şi El le-a zis: „Destul!”
+{i22:39} Ghetsimani
+{22:39} După ce a ieşit afară, S-a dus, ca de obicei, în Muntele Măslinilor. Ucenicii Lui au mers după El.
+{22:40} Când a ajuns la locul acela, le-a zis: „Rugaţi-vă, ca să nu cădeţi în ispită”.
+{22:41} Apoi, S-a depărtat de ei ca la o aruncătură de piatră, a îngenuncheat şi a început să Se roage,
+{22:42} zicând: „Tată, dacă voieşti, depărtează paharul acesta de la Mine! Totuşi facă-se nu voia Mea, ci a Ta.”
+{22:43} Atunci I s-a arătat un înger din cer, ca să-L întărească.
+{22:44} A ajuns într-un chin ca de moarte şi a început să Se roage şi mai fierbinte; şi sudoarea I se făcuse ca nişte picături mari de sânge, care cădeau pe pământ.
+{22:45} După ce S-a rugat, S-a sculat şi a venit la ucenici; i-a găsit adormiţi de întristare
+{22:46} şi le-a zis: „Pentru ce dormiţi? Sculaţi-vă şi rugaţi-vă, ca să nu cădeţi în ispită.”
+{i22:47} Prinderea lui Isus
+{22:47} Pe când grăia El încă, iată că a venit o gloată. Şi cel ce se chema Iuda, unul din cei doisprezece, mergea în fruntea lor. El s-a apropiat de Isus, ca să-L sărute.
+{22:48} Şi Isus i-a zis: „Iudo, cu o sărutare vinzi tu pe Fiul omului?”
+{22:49} Cei ce erau cu Isus au văzut ce avea să se întâmple şi au zis: „Doamne, să lovim cu sabia?”
+{22:50} Şi unul din ei a lovit pe robul marelui preot şi i-a tăiat urechea dreaptă.
+{22:51} Dar Isus a luat cuvântul şi a zis: „Lăsaţi-i! Până aici!”Şi S-a atins de urechea omului aceluia şi l-a vindecat.
+{22:52} Isus a zis apoi preoţilor celor mai de seamă, căpeteniilor străjerilor Templului şi bătrânilor, care veniseră împotriva Lui: „Aţi ieşit după Mine ca după un tâlhar, cu săbii şi cu ciomege?
+{22:53} În toate zilele eram cu voi în Templu, şi n-aţi pus mâna pe Mine. Dar acesta este ceasul vostru şi puterea întunericului.”
+{i22:54} Tăgăduirea lui Petru
+{22:54} După ce au pus mâna pe Isus, L-au dus şi L-au băgat în casa marelui preot. Petru mergea după El de departe.
+{22:55} Au aprins un foc în mijlocul curţii şi au şezut jos. Petru s-a aşezat şi el printre ei.
+{22:56} O slujnică l-a văzut cum şedea la para focului, s-a uitat ţintă la el şi a zis: „Şi omul acesta era cu El.”
+{22:57} Dar Petru s-a lepădat şi a zis: „Femeie, nu-L cunosc”.
+{22:58} Peste puţin, l-a văzut un altul şi a zis: „Şi tu eşti unul din oamenii aceia”. Iar Petru a zis: „Omule, nu sunt dintre ei”.
+{22:59} Cam după un ceas, un altul întărea acelaşi lucru şi zicea: „Nu mai încape îndoială că şi omul acesta era cu El, căci este galileean.”
+{22:60} Petru a răspuns: „Omule, nu ştiu ce zici”. Chiar în clipa aceea, pe când vorbea el încă, a cântat cocoşul.
+{22:61} Domnul S-a întors şi S-a uitat ţintă la Petru. Şi Petru şi-a adus aminte de vorba pe care i-o spusese Domnul: „Înainte ca să cânte cocoşul, te vei lepăda de Mine de trei ori”.
+{22:62} Şi a ieşit afară şi a plâns cu amar.
+{i22:63} Isus înaintea Sinedriului. Osândirea
+{22:63} Oamenii care păzeau pe Isus Îl batjocoreau şi-L băteau.
+{22:64} L-au legat la ochi, Îl loveau peste faţă şi-L întrebau, zicând: „Proroceşte, cine Te-a lovit?”
+{22:65} Şi rosteau împotriva Lui multe alte batjocuri.
+{22:66} Când s-a făcut ziuă, bătrânii norodului, preoţii cei mai de seamă şi cărturarii s-au adunat împreună şi au adus pe Isus în Soborul lor. Ei I-au zis:
+{22:67} „Dacă eşti Tu Hristosul, spune-ne!” Isus le-a răspuns: „Dacă vă voi spune, nu veţi crede
+{22:68} şi dacă vă voi întreba, nu-Mi veţi răspunde, nici nu-Mi veţi da drumul.
+{22:69} De acum încolo, Fiul omului va şedea la dreapta puterii lui Dumnezeu.”
+{22:70} Toţi au zis: „Eşti Tu dar Fiul lui Dumnezeu?” Şi El le-a răspuns: „Aşa cum o spuneţi; da, sunt”.
+{22:71} Atunci, ei au zis: „Ce nevoie mai avem de mărturie? Noi înşine am auzit-o din gura Lui.”
+{i23:1} Isus înaintea lui Pilat
+{23:1} S-au sculat toţi şi au dus pe Isus înaintea lui Pilat.
+{23:2} Şi au început să-L pârască şi să zică: „Pe omul acesta l-am găsit aţâţând neamul nostru la răscoală, oprind a plăti bir cezarului şi zicând că el este Hristosul, Împăratul”.
+{23:3} Pilat L-a întrebat: „Eşti Tu Împăratul iudeilor?” „Da, i-a răspuns Isus, sunt.”
+{23:4} Pilat a zis preoţilor celor mai de seamă şi noroadelor: „Eu nu găsesc nicio vină în omul acesta”.
+{23:5} Dar ei stăruiau şi mai mult şi ziceau: „Întărâtă norodul şi învaţă pe oameni prin toată Iudeea, din Galileea, unde a început, până aici.”
+{i23:6} Isus înaintea lui Irod
+{23:6} Când a auzit Pilat de Galileea, a întrebat dacă omul acesta este galileean.
+{23:7} Şi când a aflat că este de sub stăpânirea lui Irod, L-a trimis la Irod, care se afla şi el în Ierusalim în zilele acelea.
+{23:8} Irod, când a văzut pe Isus, s-a bucurat foarte mult, căci de mult dorea să-L vadă din pricina celor auzite despre El şi nădăjduia să-L vadă făcând vreo minune.
+{23:9} I-a pus multe întrebări, dar Isus nu i-a răspuns nimic.
+{23:10} Preoţii cei mai de seamă şi cărturarii stăteau acolo şi-L pârau cu înfierbântare.
+{23:11} Irod, cu ostaşii lui de pază, se purtau cu El cu dispreţ şi, după ce şi-a bătut joc de El şi L-a îmbrăcat cu o haină strălucitoare, L-a trimis înapoi la Pilat.
+{23:12} În ziua aceea, Irod şi Pilat s-au împrietenit unul cu altul, căci erau învrăjbiţi între ei mai înainte.
+{i23:13} Hotărârea de moarte întărită
+{23:13} Pilat a strâns pe preoţii cei mai de seamă, pe fruntaşi şi pe norod
+{23:14} şi le-a zis: „Mi-aţi adus înainte pe omul acesta ca pe unul care aţâţă norodul la răscoală. Şi iată că, după ce l-am cercetat cu de-amănuntul înaintea voastră, nu l-am găsit vinovat de niciunul din lucrurile de care-l pârâţi.
+{23:15} Nici Irod nu i-a găsit nicio vină, căci ni l-a trimis înapoi, şi iată că omul acesta n-a făcut nimic vrednic de moarte.
+{23:16} Eu, deci, după ce voi pune să-L bată, îi voi da drumul.”
+{23:17} La fiecare Praznic al Paştelor, Pilat trebuia să le sloboadă un întemniţat.
+{23:18} Ei au strigat cu toţii într-un glas: „La moarte cu omul acesta şi sloboade-ne pe Baraba!”
+{23:19} Baraba fusese aruncat în temniţă pentru o răscoală care avusese loc în cetate şi pentru un omor.
+{23:20} Pilat le-a vorbit din nou, cu gând să dea drumul lui Isus.
+{23:21} Dar ei au strigat: „Răstigneşte-L! Răstigneşte-L!”
+{23:22} Pilat le-a zis pentru a treia oară: „Dar ce rău a făcut? Eu n-am găsit nicio vină de moarte în El. Aşa că, după ce voi pune să-L bată, Îi voi da drumul.”
+{23:23} Dar ei strigau în gura mare şi cereau de zor să fie răstignit. Şi strigătele lor şi ale preoţilor celor mai de seamă au biruit.
+{23:24} Pilat a hotărât să li se împlinească cererea.
+{23:25} Le-a slobozit pe cel ce fusese aruncat în temniţă pentru răscoală şi omor şi pe care-l cereau ei, iar pe Isus L-a dat în mâinile lor, ca să-şi facă voia cu El.
+{i23:26} Răstignirea
+{23:26} Pe când Îl duceau să-L răstignească, au pus mâna pe un anume Simon din Cirene, care se întorcea de la câmp, şi i-au pus crucea în spinare, ca s-o ducă după Isus.
+{23:27} În urma lui Isus mergea o mare mulţime de norod şi femei, care se boceau, îşi băteau pieptul şi se tânguiau după El.
+{23:28} Isus S-a întors spre ele şi a zis: „Fiice ale Ierusalimului, nu Mă plângeţi pe Mine, ci plângeţi-vă pe voi însevă şi pe copiii voştri.
+{23:29} Căci iată, vor veni zile când se va zice: ‘Ferice de cele sterpe, ferice de pântecele care n-au născut şi de ţâţele care n-au alăptat!’
+{23:30} Atunci, vor începe să zică munţilor: ‘Cădeţi peste noi!’ şi dealurilor: ‘Acoperiţi-ne!’
+{23:31} Căci dacă se fac aceste lucruri copacului verde, ce se va face celui uscat?”
+{23:32} Împreună cu El duceau şi pe doi făcători de rele, care trebuiau omorâţi împreună cu Isus.
+{23:33} Când au ajuns la locul numit „Căpăţâna”, L-au răstignit acolo, pe El şi pe făcătorii de rele: unul la dreapta şi altul la stânga.
+{23:34} Isus zicea: „Tată, iartă-i, căci nu ştiu ce fac!” Ei şi-au împărţit hainele Lui între ei, trăgând la sorţi.
+{i23:35} Batjocurile
+{23:35} Norodul stătea acolo şi privea. Fruntaşii îşi băteau joc de Isus şi ziceau: „Pe alţii i-a mântuit; să Se mântuiască pe Sine Însuşi dacă este El Hristosul, Alesul lui Dumnezeu”.
+{23:36} Ostaşii, de asemenea, îşi băteau joc de El; se apropiau, Îi dădeau oţet
+{23:37} şi-I ziceau: „Dacă eşti Tu Împăratul iudeilor, mântuieşte-Te pe Tine Însuţi!”
+{23:38} Deasupra Lui era scris cu slove greceşti, latineşti şi evreeşti: „Acesta este Împăratul iudeilor”.
+{23:39} Unul din tâlharii răstigniţi Îl batjocorea şi zicea: „Nu eşti Tu Hristosul? Mântuieşte-Te pe Tine Însuţi şi mântuieşte-ne şi pe noi!”
+{23:40} Dar celălalt l-a înfruntat şi i-a zis: „Nu te temi tu de Dumnezeu, tu, care eşti sub aceeaşi osândă?
+{23:41} Pentru noi este drept, căci primim răsplata cuvenită pentru fărădelegile noastre, dar omul acesta n-a făcut niciun rău.”
+{23:42} Şi a zis lui Isus: „Doamne, adu-Ţi aminte de mine când vei veni în Împărăţia Ta!”
+{23:43} Isus a răspuns: „Adevărat îţi spun că astăzi vei fi cu Mine în rai”.
+{i23:44} Moartea lui Isus
+{23:44} Era cam pe la ceasul al şaselea. Şi s-a făcut întuneric peste toată ţara până la ceasul al nouălea.
+{23:45} Soarele s-a întunecat şi perdeaua dinăuntrul Templului s-a rupt prin mijloc.
+{23:46} Isus a strigat cu glas tare: „Tată, în mâinile Tale Îmi încredinţez duhul!”Şi când a zis aceste vorbe, Şi-a dat duhul.
+{23:47} Sutaşul, când a văzut ce se întâmplase, a slăvit pe Dumnezeu şi a zis: „Cu adevărat, omul acesta era neprihănit!”
+{23:48} Şi tot norodul, care venise la priveliştea aceea, când a văzut cele întâmplate, s-a întors, bătându-se în piept.
+{23:49} Toţi cunoscuţii lui Isus şi femeile care-L însoţiseră din Galileea stăteau departe şi se uitau la cele ce se petreceau.
+{i23:50} Îngroparea lui Isus
+{23:50} Era un sfetnic al soborului, numit Iosif, om bun şi evlavios,
+{23:51} care nu luase parte la sfatul şi hotărârea celorlalţi. El era din Arimateea, o cetate a iudeilor, şi aştepta şi el Împărăţia lui Dumnezeu.
+{23:52} Omul acesta s-a dus la Pilat şi a cerut trupul lui Isus.
+{23:53} L-a dat jos de pe cruce, L-a înfăşurat într-o pânză de in şi L-a pus într-un mormânt nou, săpat în piatră, în care nu mai fusese pus nimeni.
+{23:54} Era Ziua Pregătirii şi începea ziua Sabatului.
+{23:55} Femeile care veniseră cu Isus din Galileea au însoţit pe Iosif, au văzut mormântul şi felul cum a fost pus trupul lui Isus în el,
+{23:56} s-au întors şi au pregătit miresme şi miruri. Apoi, în ziua Sabatului, s-au odihnit, după Lege.
+{i24:1} Învierea lui Isus
+{24:1} În ziua întâi a săptămânii, femeile acestea şi altele împreună cu ele au venit la mormânt dis-de-dimineaţă şi au adus miresmele, pe care le pregătiseră.
+{24:2} Au găsit piatra răsturnată de pe mormânt,
+{24:3} au intrat înăuntru şi n-au găsit trupul Domnului Isus.
+{24:4} Fiindcă nu ştiau ce să creadă, iată că li s-au arătat doi bărbaţi, îmbrăcaţi în haine strălucitoare.
+{24:5} Îngrozite, femeile şi-au plecat feţele la pământ. Dar ei le-au zis: „Pentru ce căutaţi între cei morţi pe Cel ce este viu?
+{24:6} Nu este aici, ci a înviat. Aduceţi-vă aminte ce v-a spus pe când era încă în Galileea,
+{24:7} când zicea că Fiul omului trebuie să fie dat în mâinile păcătoşilor, să fie răstignit şi a treia zi să învieze.”
+{24:8} Şi ele şi-au adus aminte de cuvintele lui Isus.
+{i24:9} Petru se duce la mormânt
+{24:9} La întoarcerea lor de la mormânt, au povestit toate aceste lucruri celor unsprezece şi tuturor celorlalţi.
+{24:10} Cele ce au spus aceste lucruri apostolilor erau: Maria Magdalena, Ioana, Maria, mama lui Iacov, şi celelalte care erau împreună cu ele.
+{24:11} Cuvintele acestea li se păreau apostolilor basme şi nu le credeau.
+{24:12} Dar Petru s-a sculat şi a dat fuga la mormânt. S-a plecat şi s-a uitat înăuntru, dar n-a văzut decât fâşiile de pânză, care stăteau pe pământ; apoi a plecat acasă, mirat de cele întâmplate.
+{i24:13} Isus Se arată la doi ucenici
+{24:13} În aceeaşi zi, iată, doi ucenici se duceau la un sat, numit Emaus, care era la o depărtare de şaizeci de stadii de Ierusalim,
+{24:14} şi vorbeau între ei despre tot ce se întâmplase.
+{24:15} Pe când vorbeau ei şi se întrebau, Isus S-a apropiat şi mergea pe drum împreună cu ei.
+{24:16} Dar ochii lor erau împiedicaţi să-L cunoască.
+{24:17} El le-a zis: „Ce vorbe sunt acestea pe care le schimbaţi între voi pe drum?”Şi ei s-au oprit, uitându-se trişti.
+{24:18} Drept răspuns, unul din ei, numit Cleopa, I-a zis: „Tu eşti singurul străin aici, în Ierusalim, de nu ştii ce s-a întâmplat în el zilele acestea?”
+{24:19} „Ce?” le-a zis El. Şi ei I-au răspuns: „Ce s-a întâmplat cu Isus din Nazaret, care era un proroc puternic în fapte şi în cuvinte, înaintea lui Dumnezeu şi înaintea întregului norod.
+{24:20} Cum preoţii cei mai de seamă şi mai-marii noştri L-au dat să fie osândit la moarte şi L-au răstignit?
+{24:21} Noi trăgeam nădejde că El este Acela care va izbăvi pe Israel, dar, cu toate acestea, iată că astăzi este a treia zi de când s-au întâmplat aceste lucruri.
+{24:22} Ba încă nişte femei de ale noastre ne-au pus în uimire: ele s-au dus dis-de-dimineaţă la mormânt,
+{24:23} nu I-au găsit trupul şi au venit şi au spus că ar fi văzut şi o vedenie de îngeri, care ziceau că El este viu.
+{24:24} Unii din cei ce erau cu noi s-au dus la mormânt şi au găsit aşa cum spuseseră femeile, dar pe El nu L-au văzut.”
+{24:25} Atunci, Isus le-a zis: „O, nepricepuţilor şi zăbavnici cu inima, când este vorba să credeţi tot ce au spus prorocii!
+{24:26} Nu trebuia să sufere Hristosul aceste lucruri şi să intre în slava Sa?”
+{24:27} Şi a început de la Moise şi de la toţi prorocii şi le-a tâlcuit, în toate Scripturile, ce era cu privire la El.
+{24:28} Când s-au apropiat de satul la care mergeau, El S-a făcut că vrea să meargă mai departe.
+{24:29} Dar ei au stăruit de El şi au zis: „Rămâi cu noi, căci este spre seară şi ziua aproape a trecut”. Şi a intrat să rămână cu ei.
+{24:30} Pe când şedea la masă cu ei, a luat pâinea şi, după ce a rostit binecuvântarea, a frânt-o şi le-a dat-o.
+{24:31} Atunci li s-au deschis ochii şi L-au cunoscut, dar El S-a făcut nevăzut dinaintea lor.
+{24:32} Şi au zis unul către altul: „Nu ne ardea inima în noi când ne vorbea pe drum şi ne deschidea Scripturile?”
+{24:33} S-au sculat chiar în ceasul acela, s-au întors în Ierusalim şi au găsit pe cei unsprezece şi pe cei ce erau cu ei adunaţi la un loc
+{24:34} şi zicând: „A înviat Domnul cu adevărat şi S-a arătat lui Simon”.
+{24:35} Şi au istorisit ce li se întâmplase pe drum şi cum L-au cunoscut la frângerea pâinii.
+{i24:36} Isus Se arată celor unsprezece şi celorlalţi
+{24:36} Pe când vorbeau ei astfel, Însuşi Isus a stat în mijlocul lor şi le-a zis: „Pace vouă!”
+{24:37} Plini de frică şi de spaimă, ei credeau că văd un duh.
+{24:38} Dar El le-a zis: „Pentru ce sunteţi tulburaţi? Şi de ce vi se ridică astfel de gânduri în inimă?
+{24:39} Uitaţi-vă la mâinile şi picioarele Mele, Eu sunt; pipăiţi-Mă şi vedeţi: un duh n-are nici carne, nici oase, cum vedeţi că am Eu.”
+{24:40} (Şi după ce a zis aceste vorbe, le-a arătat mâinile şi picioarele Sale.)
+{24:41} Fiindcă ei, de bucurie, încă nu credeau şi se mirau, El le-a zis: „Aveţi aici ceva de mâncare?”
+{24:42} I-au dat o bucată de peşte fript şi un fagure de miere.
+{24:43} El le-a luat şi a mâncat înaintea lor.
+{24:44} Apoi, le-a zis: „Iată ce vă spuneam când încă eram cu voi, că trebuie să se împlinească tot ce este scris despre Mine în Legea lui Moise, în Proroci şi în Psalmi”.
+{24:45} Atunci le-a deschis mintea, ca să înţeleagă Scripturile.
+{24:46} Şi le-a zis: „Aşa este scris şi aşa trebuia să pătimească Hristos şi să învieze a treia zi dintre cei morţi.
+{24:47} Şi să se propovăduiască tuturor neamurilor, în Numele Lui, pocăinţa şi iertarea păcatelor, începând din Ierusalim.
+{24:48} Voi sunteţi martori ai acestor lucruri.
+{24:49} Şi iată că voi trimite peste voi făgăduinţa Tatălui Meu, dar rămâneţi în cetate până veţi fi îmbrăcaţi cu putere de sus.”
+{i24:50} Înălţarea
+{24:50} El i-a dus până spre Betania. Şi-a ridicat mâinile şi i-a binecuvântat.
+{24:51} Pe când îi binecuvânta, S-a despărţit de ei şi a fost înălţat la cer.
+{24:52} După ce I s-au închinat, ei s-au întors în Ierusalim cu o mare bucurie.
+{24:53} Şi tot timpul stăteau în Templu şi lăudau şi binecuvântau pe Dumnezeu. Amin.

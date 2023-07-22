@@ -1,0 +1,934 @@
+{i1:1} Dulucda Kitaabka
+{1:1} MAAHMAAHYADII Kuwanu waa maahmaahyadii Sulaymaan ina Daa'uud oo ahaa boqorkii reer Binu Israa'iil,
+{1:2} Wuxuu u qoray si loo ogaado xigmadda iyo edbinta, Oo loo garto erayada waxgarashada,
+{1:3} In la helo edbinta ku saabsan xigmadda, Iyo xaqnimada iyo garta iyo caaddilnimada;
+{1:4} Si miyir loo siiyo garaadlaawaha, Oo aqoon iyo digtoonaanna loo yeelo ninka dhallinyarada ah.
+{1:5} Ninkii caqli lahu wuu maqli doonaa, oo wuxuu korodhsan doonaa waxbarasho, Oo ninkii garaad lahuna wuxuu qabsan doonaa talada wanaagsan,
+{1:6} Si lagu garto maahmaahda, iyo micnaynta, Iyo hadallada kuwa caqliga leh iyo xujooyinkooda.
+{1:7} Waxaa aqoonta ugu horreeya Rabbiga ka cabsashadiisa; Laakiinse nacasyadu waxay quudhsadaan xigmadda iyo edbinta. Ka-digidda Soo Jiidashada Xun
+{i1:8} Guubaabinta Xigmadda Ka-digidda Soo Jiidashada Xun
+{1:8} Wiilkaygiiyow, edbinta aabbahaa maqal, Oo amarka hooyadaana ha ka tegin,
+{1:9} Waayo, waxay madaxaaga u noqon doonaan wax sharraxsan, Oo waxay kuu noqon doonaan silsilado qoorta kuu sudhan.
+{1:10} Wiilkaygiiyow, haddii dembilayaal ku sasabtaan, Ha oggolaan.
+{1:11} Hadday kugu yidhaahdaan, Na soo raac, Aan gaadno inaynu dhiig daadinno, Oo aynu sababla'aan kuwa aan eedda lahayn si qarsoon ugu dhuumanno;
+{1:12} Oo iyagoo nool aynu u liqno sida qabriga oo kale, Dhammaantoodna aan juq siinno sida kuwa yamayska ku dhaca;
+{1:13} Waxaynu heli doonnaa maal qaali ah oo cayn kasta ah, Oo guryaheennana waxaynu ka buuxsan doonnaa booli;
+{1:14} Nasiibkaaga iskula kaaya soo dar, Oo kulligeenna aynu kiishad qudha wada lahaanno;
+{1:15} Wiilkaygiiyow, iyaga jidka ha la marin; Oo cagtaadana wadiiqadooda dib uga jooji;
+{1:16} Waayo, cagahoodu waxay u ordaan shar, Oo waxay u degdegaan inay dhiig daadiyaan.
+{1:17} Waayo, waa waxtarla'aan dabinka loo dhigaa Iyadoo ay shimbirtu u jeeddo;
+{1:18} Iyagu waxay u gaadaan si dhiiggooda loo daadiyo, Oo waxay si qarsoon ugu dhuuntaan si naftooda looga qaado.
+{1:19} Sidaas oo kalay yihiin jidadka mid kasta oo faa'iido u hunguri weyn, Oo nafta ka qaada kuwa leh.
+{i1:20} Dhiirrigelinta Xigmad-Qaadashada
+{1:20} Xigmaddu aad bay uga qaylisaa jidka; Oo codkeedana waxay kor uga qaaddaa bannaanka;
+{1:21} Waxay ka qaylisaa meesha suuqa ugu weyn; Oo iridda magaalada laga soo galo Ayay erayadeeda kaga hadashaa, iyadoo leh,
+{1:22} Kuwiinna garaadlaawayaasha ahow, ilaa goormaad garaadla'aanta sii jeclaanaysaan? Oo kuwa wax quudhsadaana, ilaa goormay quudhsashadooda ku sii farxayaan? Nacasyaduna, ilaa goormay aqoonta sii necbaanayaan?
+{1:23} Canaantayda u soo noqda; Bal eega, anigu waxaan idinku shubi doonaa ruuxayga, Oo waxaan idin ogeysiin doonaa erayadayda.
+{1:24} Anigu waan idiin yeedhay, laakiinse waad i diiddeen; Oo anigu gacantaydaan soo fidiyey, oo ninnana dan kama yeelan;
+{1:25} Laakiinse idinku taladaydii oo dhan waad fududaysateen, Oo canaantaydiina ma aydin doonaynin;
+{1:26} Sidaas daraaddeed aniguna waan idinku qosli doonaa markay belaayo idinku dhacdo; Waanan idinku majaajiloon doonaa markay cabsiyu idinku soo degto;
+{1:27} Markay cabsidiinnu u timaado sida duufaan oo kale, Oo belaayadiinnuna u timaado sida dabayl cirwareen ah; Oo dhibaato iyo cidhiidhi idinku yimaadaan.
+{1:28} Markaasay ii yeedhan doonaan, laakiinse anigu uma aan jawaabi doono; Oo horay ii doondooni doonaan, laakiinse ima ay heli doonaan;
+{1:29} Waayo, waxay nebcaadeen aqoonta, Oo Rabbiga ka cabsashadiisana ma ay dooran;
+{1:30} Iyagu taladaydii innaba ma ay doonaynin; Oo canaantaydii oo dhanna way quudhsadeen;
+{1:31} Haddaba iyagu waxay cuni doonaan midhihii jidkooda, Oo waxay ka dhergi doonaan taladoodii.
+{1:32} Waayo, garaadlaawayaasha dibunoqoshadooda ayaa iyaga dili doonta, Oo nacasyadana waxaa baabbi'in doonta barwaaqadooda.
+{1:33} Laakiinse ku alla kii aniga i maqlaa, ammaan buu u fadhiyi doonaa, Wuuna xasilloonaan doonaa, isagoo aan shar ka cabsanaynin.
+{i2:1} Faa'iidada Xigmadda
+{2:1} Wiilkaygiiyow, haddaad erayadayda aqbashid, Oo aad amarradayda qalbigaaga ku haysatid,
+{2:2} Si aad dhegta xigmadda ugu dhigtid, Oo aad qalbigaagana waxgarashada ugu qabatid;
+{2:3} Haddaad wax-kala-garashada ka daba qaylisid, Oo aad codkaaga waxgarashada kor ugu qaaddid;
+{2:4} Haddaad iyada u raadisid sida lacagta oo kale, Oo aad u doondoontid sida maal qarsoon,
+{2:5} Markaas waxaad garan doontaa Rabbiga ka cabsashadiisa, Oo waxaad heli doontaa aqoonta Ilaah.
+{2:6} Waayo, Rabbigu isagaa bixiya xigmadda, Oo afkiisa waxaa ka soo baxa aqoonta iyo waxgarashada.
+{2:7} Isagu kuwa xaqa ah xigmad buu u kaydiyaa, Oo kuwa daacadnimada u socdana waa u gaashaan.
+{2:8} Isagu wuxuu dhawraa waddooyinka garta, Oo wuxuu xannaaneeyaa jidka quduusiintiisa.
+{2:9} Markaasaad garan doontaa xaqnimada, iyo garta, Iyo caaddilnimada, iyo jid kasta oo wanaagsan.
+{2:10} Waayo, waxaa qalbigaaga soo geli doonta xigmadda, Oo aqoontuna waxay ka farxin doontaa naftaada;
+{2:11} Digtoonaanta baa ku xanaanayn doonta, Oo waxaa ku dhawri doonta waxgarashada,
+{2:12} Si lagaaga samatabbixiyo jidka kan sharka ah, Iyo dadka waxyaalaha qalloocan ku hadla,
+{2:13} Oo qummanaanta waddooyinkeeda ka taga, Si ay jidadka gudcurka ugu socdaan,
+{2:14} Oo ay ku reyreeyaan inay xumaan falaan, Oo ay qalloocnaanta kan sharkaa ku farxaan;
+{2:15} Oo jidadkoodu maroorsan yihiin, Oo waddooyinkooduna qalloocan yihiin,
+{2:16} In lagaa samatabbixiyo naagta qalaad, Xataa naagta qalaad oo hadalladeeda kugu sasabata,
+{2:17} Taasoo ka tagta horseedkii yaraanteeda, Oo illowda axdigii Ilaaheeda;
+{2:18} Waayo, gurigeedu wuxuu ku foororaa dhimasho, Oo waddooyinkeeduna waxay ku dhaadhacaan kuwii dhintay.
+{2:19} Kuwa iyada u gala midkoodna sooma noqdo, Oo waddooyinka noloshana ma ay helaan.
+{2:20} Waa inaad ku socotid jidka dadka wanaagsan, Oo aad dhawrtid waddooyinka kuwa xaqa ah.
+{2:21} Waayo, kuwa qummanu dhulkay fadhiyi doonaan, Oo kuwa kaamilka ahuna way sii joogi doonaan.
+{2:22} Laakiinse kuwa sharkaa waa laga gooyn doonaa dhulka, Oo khaayinnadana waa laga rujin doonaa.
+{i3:1} Faa'iidada Kale Ee Xigmadda
+{3:1} Wiilkaygiiyow, waxbariddayda ha illoobin, Laakiin qalbigaagu amarradayda ha hayo,
+{3:2} Waayo, iyagu waxay kuu kordhin doonaan Maalmo badan iyo cimri dheer iyo nabad.
+{3:3} Naxariista iyo runtu yaanay kaa tegin, Iyaga qoorta ku xidh, Oo looxa qalbigaaga ku qor,
+{3:4} Sidaasaad Ilaah iyo dadka hortooda Nicmo iyo sharaf uga heli doontaa.
+{3:5} Qalbigaaga dhammaantii Rabbiga ku aamin, Oo waxgarashadaadana ha isku hallayn.
+{3:6} Jidadkaaga oo dhan isaga ku qiro, Oo isna waddooyinkaaguu toosin doonaa.
+{3:7} Ha isla weynaan; Rabbiga ka cabso; oo sharka ka fogow.
+{3:8} Taasu waxay xundhurtaada u noqon doontaa caafimaad, Oo lafahaagana waxay u noqon doontaa dhuux.
+{3:9} Rabbiga ku murwee maalkaaga Iyo midhaha ugu horreeya waxa kuu kordha oo dhan;
+{3:10} Sidaasay maqsinnadaadu barwaaqo uga buuxsami doonaan, Macsarooyinkaaguna waxay la buuxdhaafi doonaan khamri cusub.
+{3:11} Wiilkaygiiyow, Rabbiga edbintiisa ha quudhsan, Oo canaantiisana ha ka daalin,
+{3:12} Waayo, Rabbigu ninkuu jecel yahay wuu canaantaa Sida aabbe u canaanto wiilkii uu ku faraxsan yahay.
+{3:13} Waxaa barakaysan ninkii xigmadda hela, Iyo ninkii waxgarashada mulkiya.
+{3:14} Waayo, baayacmushtarigeedu waa ka sii wanaagsan yahay baayacmushtariga lacagta, Oo faa'iidadeeduna waa ka sii wanaagsan tahay dahabka saafiga ah.
+{3:15} Way ka sii qaalisan tahay luulka, Oo waxaad jeclaan kartid oo dhanna iyada lalama simo.
+{3:16} Gacanteeda midig waxaa ku jira cimri dheeri; Gacanteeda bidixna waxaa ku jira hodonnimo iyo sharaf.
+{3:17} Jidadkeedu waa jidad farxadeed, Oo waddooyinkeeda oo dhammuna waa nabad.
+{3:18} Kuwii iyada qabsada waxay u tahay geed nololeed; Oo waxaa barakaysan ku alla kii iyada xajista.
+{3:19} Rabbigu wuxuu dhulka ku aasaasay xigmadda, Oo samooyinkana wuxuu ku dhisay waxgarashada.
+{3:20} Aqoontiisa ayaa moolalku ku dillaaceen, Oo cirkuna wuxuu soo daadiyaa sayax.
+{3:21} Wiilkaygiiyow, waxyaalahanu yaanay indhahaaga ka tegin. Xigmadda iyo digtoonaanta xajiso.
+{3:22} Sidaasay naftaada nolol ugu noqon doonaan, Qoortaadana nimco.
+{3:23} Markaasaad jidkaaga ammaan ku mari doontaa, Oo cagtaaduna ma turunturoon doonto.
+{3:24} Markaad jiifsatidna ma cabsan doontid; Haah, waad jiifsan doontaa, oo hurdadaaduna way kuu macaanaan doontaa.
+{3:25} Ha ka baqin cabsi kedis ah, Iyo baabbi'inta kuwa sharka leh toona markii ay timaado.
+{3:26} Waayo, Rabbigu wuxuu kuu ahaan doonaa Kan aad ku kalsoonaan karto. Oo cagtaadana wuu dhawri doonaa si aan loo qabsan.
+{3:27} Wanaag ha u diidin kuwa uu ku habboon yahay in loo sameeyo, Markaad awood u leedahay inaad u samayso.
+{3:28} Deriskaaga ha ku odhan, Tag oo soo noqo, Berri baan ku siin doonaaye, Haddii aad markaas haysid.
+{3:29} Deriskaaga innaba xumaan ha u fikirin, Maxaa yeelay, isagu nabadgelyo buu kuu ag fadhiyaa.
+{3:30} Ninna sababla'aan ha kula diririn, Haddaanu xumaan kugu samayn.
+{3:31} Ha ka hinaasin nin dadka dulmiya, Oo jidadkiisana midnaba ha dooran.
+{3:32} Maxaa yeelay, kuwa qalloocanu waa u karaahiyo Rabbiga, Laakiinse wuxuu sir la leeyahay kuwa qumman.
+{3:33} Rabbigu wuxuu inkaaraa guriga kii shar leh, Laakiinse rugta kuwa xaqa ah wuu barakeeyaa.
+{3:34} Hubaal kuwa wax quudhsada ayuu isagu quudhsadaa, Kuwa is-hoosaysiiyase nicmuu siiyaa.
+{3:35} Kuwa xigmadda leh waxay dhaxli doonaan sharaf, Laakiinse nacasyadu waxay u dallici doonaan ceeb.
+{i4:1} Xigmaddu Waa Sarraysaa
+{4:1} Wiilashoy, aabbe edbintiisa maqla, Oo u jeesta inaad wax garataan.
+{4:2} Waayo, anigu waxaan idin siiyaa tacliin wanaagsan, Haddaba cilmigayga ha ka tegina.
+{4:3} Waayo, aniguba waxaan aabbahay u ahaa wiil, Oo mid yar oo bacbac ah oo madi ah ayaan u ahaa hooyaday.
+{4:4} Isagu wax buu i baray, oo wuxuu igu yidhi, Qalbigaagu erayadayda ha xajisto; Amarradaydana dhawr, oo waad noolaan doontaa.
+{4:5} Xigmadda doono, waxgarashadana doono; Hana illoobin, oo erayada afkaygana dib ha uga noqon.
+{4:6} Xigmadda ha ka tegin, oo way ku nabad gelin doontaa. Jeclow, oo way ku dhawri doontaa.
+{4:7} Xigmaddu wax walbay ugu horraysaa, sidaas daraaddeed xigmadda doono; Wax kastoo aad hesho weliba waxgarasho doono.
+{4:8} Iyada sarraysii, oo iyana way ku dallicin doontaa; Oo sharaf bay kuu yeeli doontaa markaad iyada isku duubtid.
+{4:9} Iyadu waxay madaxaaga siin doontaa wax sharraxsan, Oo waxayna kuu yeeli doontaa taaj quruxsan.
+{4:10} Wiilkaygiiyow, maqal oo hadalladayda aqbal. Oo sannadaha cimrigaaguna way badnaan doonaan.
+{4:11} Anigu waxaan ku baray jidkii xigmadda; Oo waxaan kugu hoggaamiyey waddooyinkii qummanaanta.
+{4:12} Markii aad socotid tallaabooyinkaagu cidhiidhi ma noqon doonaan, Oo haddaad oroddidna ma turunturoon doontid.
+{4:13} Edbinta xajiso, oo ha iska sii deyn; Hayso, waayo, iyadu waa noloshaada,
+{4:14} Waddada kuwa sharka leh ha gelin, Oo jidka xumaanfalayaashana ha qaadin.
+{4:15} Ka leexo, hana marin, Ka noqo oo hareer ka mar.
+{4:16} Waayo, iyagu ma seexdaan haddaanay xumaan falin, Oo hurdadoodana waa laga qaadaa iyagoo cid kufiya mooyaane.
+{4:17} Waayo, iyagu waxay cunaan kibistii sharnimada, Oo waxay cabbaan khamrigii dulmiga.
+{4:18} Laakiinse waddada kuwa xaqa ahu waa sida iftiinka waaberiga oo kale, Kaas oo hadba soo kordha ilaa uu noqdo maalin cad.
+{4:19} Jidka kuwa sharka lahuna waa sida gudcurka oo kale. Oo iyagu garan maayaan waxay ku turunturoodaan.
+{4:20} Wiilkaygiiyow, erayadayda dhegayso, Oo hadalladaydana dhegta u dhig.
+{4:21} Indhahaaga hortooda yaanay ka fogaan, Oo qalbigaaga dhexdiisa ku hayso,
+{4:22} Waayo, iyagu waa u nolol kuwa hela, Oo jidhkooda oo dhanna waa u caafimaad.
+{4:23} Digtoonaan qalbigaaga u dhawr, Waayo, isagay noloshu ka soo baxdaaye.
+{4:24} Af qalloocan iska saar, Oo bushimo maroorsanna iska fogee.
+{4:25} Indhahaagu qummaati wax ha u fiiriyeen, Oo indhahaaga daboolkooduna si toosan hortaada ha u eegeen.
+{4:26} Waddada cagahaaga aad ugu fiirso, Oo jidadkaaga oo dhammuna ha toosnaadeen.
+{4:27} Xagga midigta iyo xagga bidixda toona ha u leexan, Oo cagtaadana xumaanta ka fogee.
+{i5:1} Digniin Ka Gees Ah Gogoldhaafka
+{5:1} Wiilkaygiiyow, xigmaddayda dhegayso, Oo waxgarashadaydana dhegta u dhig;
+{5:2} Si aad digtoonaan u dhawrtid, Oo ay bushimahaaguna aqoon u xejiyaan.
+{5:3} Waayo, naagta qalaad bushimaheedu waxay daadiyaan malab, Oo afkeeduna saliid buu ka sii macaan yahay,
+{5:4} Laakiinse aakhirkeedu wuxuu u qadhaadh yahay sida geed dacareed oo kale, Wuuna af badan yahay sida seef laba af leh.
+{5:5} Cagaheedu dhimashay ku dhaadhacaan, Oo tallaabooyinkeeduna waxay u jeedaan xagga She'ool,
+{5:6} Waddada nolosha iyadu aad uguma fiirsato. Jidadkeedu waa leexleexdaan, oo garan kari maysid,
+{5:7} Haddaba sidaas daraaddeed, wiilashoy, bal i maqla, Oo erayada afkayga ha ka tegina.
+{5:8} Jidkaaga ka fogee iyada, Oo albaabka gurigeeda ha u dhowaan,
+{5:9} Si aanad sharaftaada kuwa kale u siin, Oo aanad sannadahaaga kuwa caloosha adag u siin,
+{5:10} Si aan shisheeyayaal maalkaaga uga dhergin; Oo aanay wixii aad u hawshootay guri ajnabi u gelin,
+{5:11} Si aanad ugu dambaysta u barooran, Markay hilibkaaga iyo jidhkaaguba baabba'aan,
+{5:12} Oo aad tidhaahdaan, Sidee baan edbin u nebcaaday, Oo qalbigayguna canaantii u quudhsaday!
+{5:13} Codkii macallimiintaydii ma aan addeecin, Oo dhegtana uma aan dhigin kuwii wax i baray!
+{5:14} Anigu waxaan u dhowaa inaan shar kasta falo Anigoo ku dhex jira shirka iyo ururka.
+{5:15} Berkeddaada biyo ka cab, Oo ceelkaagana biyo qulqulaya ka cab.
+{5:16} Ma hagaag baa in ilahaagu dibadda u daataan. Oo ay durdurraduna dariiqyada maraan?
+{5:17} Iyagu ha ahaadeen kuwaaga oo keliya, Oo yaanay u ahaan shisheeyayaal adiga kula jira.
+{5:18} Ishaadu ha barakaysnaato, Oo naagtaadii aad yaraanta ku guursatay ku faraxsanow.
+{5:19} Iyadu ha kuu ahaato sida deerada jacaylka badan iyo sida cawsha quruxsan, Goor walbana naasaheedu ha ku deeqeen Oo had iyo goorna jacaylkeeda ku faraxsanow.
+{5:20} Haddaba wiilkaygiiyow, bal maxaad naag qalaad ugu faraxsanaanaysaa, Maxaadse naag shisheeye ah naasaheeda u qabsanaysaa?
+{5:21} Waayo, jidadka dadku waxay hor yaalliin indhaha Rabbiga Oo isagaa fiiriya waddooyinkiisa oo dhan.
+{5:22} Kan sharka leh waxaa qabsan doonta xumaantiisa, Oo waxaa isaga lagu soo xidhi doonaa xadhkaha dembigiisa.
+{5:23} Wuxuu u dhiman doonaa edbinla'aanta, Oo isagu wuxuu ku dhex amban doonaa badnaanta nacasnimadiisa.
+{i6:1} Digniin Ku Saabsan Nacasnimada
+{6:1} Wiilkaygiiyow, haddaad deriskaaga dammiin u noqotid, Ama haddaad shisheeye gacanta dhaar ugu dhiibtid,
+{6:2} Markaas waxaa lagugu dabay erayada afkaaga, Oo waxaa lagugu qabtay erayada afkaaga.
+{6:3} Haddaba, wiilkaygiiyow, bal waxan samee oo isa samatabbixi, Waayo, gacantii deriskaagii waad gashay; U tag, oo is-hoosaysii, oo deriskaaga bari.
+{6:4} Indhahaaga hurdo ha isugu keenin, Oo indhahaaga daboolkoodana lulo ha isugu qaban.
+{6:5} Isu samatabbixi sida cawl gacanta ugaadhsadaha uga baxsato, Iyo sida shimbir gacanta shimbirdabaha uga baxsato.
+{6:6} Kaaga caajiska ahow, bal qudhaanjada u tag, Oo bal jidadkeeda u fiirso oo caqli yeelo,
+{6:7} Iyadoo aan lahayn madaxweyne, Sirkaal iyo taliye toona,
+{6:8} Ayay guga cuntadeeda soo diyaarsataa, Oo quudkeedana waxay soo urursataa wakhtiga beeraha la goosto.
+{6:9} Haddaba kaaga caajiska ahow, ilaa goormaad hurdaysaa? Goormaadse hurdadaada ka toosaysaa?
+{6:10} Weliba, in yar baad seexataa, in yar baad lulootaa, Oo in yar baad gacmaha hurdo aawadeed u laabataa,
+{6:11} Hadda caydhinimadaadu waxay u iman doontaa sida mid dad dhaca, Oo baahidaaduna waxay u iman doontaa sida nin hub wata.
+{6:12} Qofkii waxmatare ah, iyo ninkii sharrow ahuba, Wuxuu ku socdaa af qalloocan;
+{6:13} Indhihiisuu ku baaqaa, oo cagihiisuu ku hadlaa, Oo faruhuu wax ku baraa;
+{6:14} Qalbigiisa qalloocnaan baa ku jirta, had iyo goorna wuxuu ku fikiraa shar, Oo wuxuu beeraa muran.
+{6:15} Haddaba sidaas daraaddeed masiibadiisu degdeg bay u iman doontaa, Oo dhaqso buu u jabi doonaa, dawona ma leh.
+{6:16} Waxaa jira lix waxyaalood oo uu Rabbigu neceb yahay, Haah, toddoba ayaa naftiisu aad u karahdaa,
+{6:17} Waana indho kibir badan, carrab been sheega, Iyo gacmo dhiig aan eed lahayn daadiya,
+{6:18} Qalbi male shar ah hindisa, Iyo cago xumaan ku degdega,
+{6:19} Markhaati been ah oo been sheega, Iyo kii muran dad walaalo ah ku dhex beera.
+{i6:20} Digniin Ku Saabsan Sinada
+{6:20} Wiilkaygiiyow, qaynuunka aabbahaa xaji, Oo amarka hooyadaana ha ka tegin.
+{6:21} Had iyo goorba qalbiga ku sido, Oo qoortana ku xidho.
+{6:22} Markaad socotid wuu ku hoggaamin doonaa, Oo markaad seexatidna wuu ku dhawri doonaa, Markaad toostidna wuu kula hadli doonaa.
+{6:23} Waayo, qaynuunku waa laambad, amarkuna waa iftiin, Oo canaanashada edbintuna waa jidkii nolosha,
+{6:24} Inay kaa dhawraan naagta sharka ah, Iyo sasabashada carrabka naagta qalaad.
+{6:25} Quruxdeeda qalbigaaga ha ka damcin, Oo yaanay indhaheeda daboolkooda kugu sasaban.
+{6:26} Waayo, naag dhillo ah aawadeed waxaa nin la gaadhsiiyaa go' kibis ah, Oo dhilladuna waxay ugaadhsataa nafta qaaligaa.
+{6:27} Miyuu nin laabta dab ku qaadi karaa, Iyadoo aan dharkiisu guban?
+{6:28} Miyuu mid dhuxul kulul ku kor socon karaa, Iyadoo aan cagihiisu guban?
+{6:29} Haddaba sidaas oo kaluu noqdaa kii naagta deriskiisa u tagaa, Oo ku alla kii iyada taabtaaba ma taqsiir la'aan doono.
+{6:30} Dadku tuug ma quudhsadaan hadduu wax xado Inuu naftiisa dhergiyo markuu gaajoodo,
+{6:31} Laakiinse haddii isaga la qabto waa inuu toddoba jibbaar u magdhabaa, Waa inuu ku bixiyaa waxa gurigiisa yaal oo dhan.
+{6:32} Kii naag ka sinaystaa wuu caqli daranyahay, Oo kii sidaas yeelaa naftiisuu halligaa.
+{6:33} Oo wuxuu heli doonaa dhaawacyo iyo sharafdarro; Oo ceebtiisana lama tirtiri doono innaba.
+{6:34} Waayo, hinaaso waa nin cadhadiis. Maalinta aarsashadana isagu ma tudhi doono.
+{6:35} Isagu innaba mag kaa qaadan maayo, oo sinaba kuula heshiin maayo, In kastoo aad hadiyado badan siisid.
+{i7:1} Digniin Ka Gees Ah Naagta Gogoldhaafta
+{7:1} Wiilkaygiiyow, erayadayda xaji, Oo amarradaydana xaggaaga ku kaydso.
+{7:2} Amarradayda xaji aad noolaatide, Oo sharcigaygana sida ishaada inankeeda u dhawr.
+{7:3} Farahaaga ku xidho, Oo looxa qalbigaagana ku qoro.
+{7:4} Waxaad xigmadda ku tidhaahdaa, Adigu waxaad tahay walaashay, Oo waxgarashadana waxaad ugu yeedhaa, saaxiibadday gacalisoy,
+{7:5} Si ay iyagu kaaga celiyaan naagta qalaad, Taasoo erayadeeda kugu sasabata.
+{7:6} Waayo, anigoo jooga daaqadda gurigayga Ayaan shabagga daaqadda wax ka fiiriyey,
+{7:7} Oo kuwa garaadka daran ayaan fiiriyey, oo waxaan barbaarrada ku dhex arkay Nin dhallinyaraa oo aan innaba waxgarasho lahayn,
+{7:8} Isagoo maraya dariiqa xaafaddeeda u dhow, Oo wuxuu raacay jidkii gurigeeda,
+{7:9} Oo waxay ahayd gabbaldhac oo makhribka ah, markii habeenkii madoobaanayay oo gudcur noqonayay.
+{7:10} Oo bal eeg, waxaa isagii ka hor timid naag Sidii dhillo u lebbisan, oo qalbigeedu khiyaano miidhan yahay.
+{7:11} Iyadu waa rabshad badan tahay, waana caasiyad, Oo gurigeeda cag sooma dhigto.
+{7:12} Mar dibadday joogtaa, marna dariiqyaday maraysaa, Oo rukun kasta wax bay ku sugtaa.
+{7:13} Haddaba isagii way qabsatay, oo dhunkatay; Iyadoo aan wejigeedu xishood lahayn ayay waxay isagii ku tidhi,
+{7:14} Anigu waxaan hayaa allabaryo nabdeed, Oo maanta ayaan nidarradaydii bixiyey.
+{7:15} Haddaba waxaan u soo baxay inaan kula kulmo, Oo aan aad iyo aad wejigaaga u doondoono, waanan ku helay.
+{7:16} Sariirtaydii waxaan ku goglay durraaxado daabac leh, Iyo marooyin duntii Masar laga sameeyey.
+{7:17} Waxaan sariirtaydii ku cadariyey Malmal iyo cuud iyo qorfe.
+{7:18} Kaalay, oo aan caashaq ka dheregno ilaa aroorta, Oo aynu jacayl ku faraxsanaanno.
+{7:19} Waayo, ninkaygii guriga ma joogo, Oo meel fog buu u sodcaalay,
+{7:20} Kiish lacag ahna wuu qaatay, Oo wuxuu guriga ku soo noqon doonaa markuu dayaxu caddaado.
+{7:21} Hadalkeedii badnaa oo macaanaa ayay isagii isku yeelsiisay, Oo waxay isagii ku qasabtay faankii beenta ahaa oo bushimeheeda.
+{7:22} Oo haddiiba iyadii buu daba galay, Sidii dibi loo wado in la gowraco, Ama sidii nacas loo wado in silsilado lagu jebiyo,
+{7:23} Jeer fallaadh beerka lagaga wareemo, Sida shimbiru dabinka degdeg ku gasho, Iyadoo aan ogayn in loo dhigay si nafteeda loo qaado.
+{7:24} Haddaba sidaas daraaddeed, wiilashoy, bal i maqla, Oo erayada afkayga dhegaysta.
+{7:25} Qalbigiinnu yaanu jidadkeeda u leexan, Oo waddooyinkeedana ha ku dhex habaabina.
+{7:26} Waayo, iyadu waxay ridday kuwa badan oo dhaawacan, Sida xaqiiqada kuway laysay aad bay u badan yihiin.
+{7:27} Gurigeedu waa jidkii She'ool, Oo wuxuu hoos ugu dhaadhacaa dhimashada qolladaheeda.
+{i8:1} Baaqii Xigmadda
+{8:1} Haddaba xigmaddu sow ma dhawaaqin? Waxgarashaduna codkeedii sow kor uma qaadin?
+{8:2} Waxay taagan tahay meelaha sarreeya Oo jidka agtiisa ah, meesha waddooyinku ku kulmaan.
+{8:3} Oo waxay ka qaylisaa irdaha agtooda, Meesha magaalada laga soo galo, Iyo meesha albaabbada laga soo galoba.
+{8:4} Nimanyahow, idinkaan idiin dhawaaqayaa, Oo codkayguna wuxuu u yeedhayaa binu-aadmiga.
+{8:5} Garaadlaawayaashow, miyir lahaada, Nacasyadoy, waxgarasho qalbiga ku haysta.
+{8:6} I maqla, waayo, waxaan ku hadlayaa waxyaalo wanaagsan, Oo waxaan bushimaha u kala qaadayaa waxyaalo qumman.
+{8:7} Maxaa yeelay, afkaygu run buu ku hadlayaa; Oo bushimahayguna shar bay karhaan.
+{8:8} Erayada afkayga oo dhammi waa xaq, Oo innaba wax qalloocan ama maroorsan lagama helo.
+{8:9} Iyagu dhammaantood waa u cad yihiin kii wax garanaya, Oo waana u qumman yihiin kuwa aqoonta hela.
+{8:10} Edbintayda qaata, lacagse ha qaadanina, Oo aqoontana ka hor doorta dahabka saafiga ah.
+{8:11} Waayo, xigmaddu waa ka sii wanaagsan tahay luulka, Oo wax alla waxa la damci karo oo dhanna iyada lalama simi karo.
+{8:12} Anigoo xigmad ahu, waxaan la fadhiyaa miyir, Oo waxaan helaa aqoon iyo digtoonaan.
+{8:13} Rabbiga ka cabsashadiisu waa in sharka la naco. Kibirka, iyo madaxweynaanta, iyo jidka sharka, Iyo afka qalloocan ayaan anigu necbahay.
+{8:14} Talo iyo xigmad anigaa iska leh, Oo waxaan ahay waxgarasho, xoogna waan leeyahay.
+{8:15} Boqorradu gacantayday wax ku xukumaan, Oo amiirraduna amarkaygay garta ku gooyaan.
+{8:16} Taliyayaasha iyo saraakiisha iyo weliba xaakinnada dunida oo dhammuna Anigay wax iigu taliyaan.
+{8:17} Anigu kuwa i jecel waan jeclahay, Oo kuwa aad iyo aad ii doonaana way i heli doonaan.
+{8:18} Anigaa iska leh taajirnimo iyo sharaf. Iyo weliba maal raagaya iyo xaqnimoba.
+{8:19} Midhahaygu way ka sii wanaagsan yihiin dahab, haah, oo xataa dahab aad u wanaagsan way ka sii wanaagsan yihiin, Oo waxa ii kordhaana way ka sii wanaagsan yihiin lacag la doortay.
+{8:20} Anigu waxaan ku socdaa jidka xaqnimada, Iyo waddooyinka garta dhexdooda,
+{8:21} Si aan kuwa i jecel uga dhigo inay maal dhaxlaan, Oo aan khasnadahooda ugu buuxiyo.
+{8:22} Rabbigu wuxuu i lahaan jiray bilowgii jidkiisa Iyo shuqulladiisii hore ka hor.
+{8:23} Aniga aakhirada hore waa lay taagay, waxaan jiray bilowgii ugu horreeyey, Ama intaan dunidu jirin ka hor.
+{8:24} Anigu waxaan dhashay intaan moolal jirin ka hor, Iyo intaanay jirin ilo biyo ka buuxaan.
+{8:25} Intaan la qotomin buuraha Iyo kuraha ka hor ayaan anigu dhashay,
+{8:26} Intaanuu isagu samayn dhulka iyo berrimmada, Amase ciiddii dunida ugu horraysay.
+{8:27} Markuu samooyinka hagaajiyey anigu waan joogay, Markuu xariijinta ku wareejiyey moolka dushiisa,
+{8:28} Markuu cirka sare taagay, Markii ilaha moolku xoog yeesheen,
+{8:29} Markuu badda xad u yeelay Si aan biyuhu amarkiisa ugu xadgudbin, Markuu aasaaskii dhulka dhigay,
+{8:30} Markaas anigu isagaan dhinac joogay, anigoo ah sidii hawlhoggaamiye, Oo anigu maalin kasta faraxiisaan ahaa, Oo mar kasta hortiisaan ku rayrayn jiray;
+{8:31} Waxaan ku rayrayn jiray inta dhulkiisa la degay, Oo waxaan ku farxi jiray binu-aadmiga.
+{8:32} Haddaba sidaas daraaddeed, wiilashoy, bal i maqla; Waayo, waxaa barakaysan kuwa jidadkayga xajiya.
+{8:33} Edbinta dhegaysta, oo caqli yeesha, Oo ha diidina.
+{8:34} Waxaa barakaysan ninka i maqla, Oo maalin kasta irdahayga igu dhawra, Oo albaabbadayda igu suga.
+{8:35} Waayo, ku alla kii i helaa wuxuu helaa nolol, Oo Rabbiguna raalli buu ka ahaan doonaa.
+{8:36} Laakiinse kii igu dembaabaa naftiisuu wax yeelaa, Kuwa aniga i neceb oo dhammu waxay jecel yihiin dhimasho.
+{i9:1} Casuumaddii Xigmadda Iyo Tii Nacasnimada
+{9:1} Xigmaddu gurigeeday dhisatay, Toddobadeedii tiirna way xaradhay.
+{9:2} Neefafkeedii ayay qashay, oo waxay isku dartay khamrigeedii; Miiskeediina way diyaarisay.
+{9:3} Oo gabdhaheedii midiidinnada ahaa ayay dirtay, oo waxay ka qaylinaysaa Magaalada meelaha ugu sarreeya, iyadoo leh,
+{9:4} Ku alla kii garaaddaranu, halkan ha u soo leexdo. Oo kii waxgarasho u baahanna waxay ku leedahay,
+{9:5} Kaalaya oo kibistayda wax ka cuna, Oo khamriga aan isku darayna wax ka cabba.
+{9:6} Garaadlaawayaashow, nacasnimada iska daaya, oo noolaada, Oo jidka waxgarashadana mara.
+{9:7} Kii mid wax quudhsada toosiyaa, cay buu isu soo jiidaa, Oo kii kan sharka leh canaantana, ceeb baa ku dhacda.
+{9:8} Mid wax quudhsada ha canaanan, waaba intaas oo uu ku necbaadaaye, Nin caqli leh canaano, oo isna wuu ku jeclaan doonaa.
+{9:9} Nin caqli leh wax bar, oo isna caqli wuu sii yeelan doonaa. Nin xaq ah wax bar, oo isna waxbarasho wuu sii korodhsan doonaa.
+{9:10} Rabbiga in laga cabsado waa xigmadda bilowgeeda, Oo Kan quduuska ah in la aqoonsadona waa waxgarasho.
+{9:11} Waayo, maalmahaagu anigay igu badan doonaan, Oo cimrigaaguna waa sii kordhi doonaa.
+{9:12} Haddaad caqli leedahay naftaadaad caqli u leedahay, Laakiinse haddaad wax quudhsato, adiga uun baa waxquudhsashadaada xambaaran doona.
+{9:13} Naagta nacasadda ahu waa qaylo badan tahay, Iyadu way garaaddaran tahay, oo waxba ma taqaan.
+{9:14} Waayo, waxay fadhiisataa illinka gurigeeda, Oo kursi bay ku fadhiisataa meelaha sarsare ee magaalada,
+{9:15} Inay u yeedho kuwa jidka maraya, Iyagoo jidadkooda iska sii soconaya,
+{9:16} Ku alla kii garaaddaranu halkan ha u soo leexdo, Oo kii waxgarasho u baahanna waxay ku leedahay,
+{9:17} Biyo la soo xaday way macaan yihiin. Oo cunto qarsoodi loo cunaana wax bay ka farxisaa.
+{9:18} Laakiinse isagu garan maayo in kuwii dhintay ay halkaas joogaan, Iyo in martideedii ay She'ool guntiisa ku jiraan.
+{i10:1} Maahmaahyadii Sulaymaan
+{10:1} Maahmaahyadii Sulaymaan. Wiilka caqliga lahu aabbihiisuu ka farxiyaa, Laakiinse wiilka nacaska ahu waa u caloolxumo hooyadiis.
+{10:2} Qasnadaha sharnimadu faa'iido ma leh, Laakiinse xaqnimada ayaa dhimasho kaa samatabbixisa.
+{10:3} Kii xaq ah naftiisu inay gaajooto Rabbigu u oggolaan maayo, Laakiinse doonista kuwa sharka leh ayuu ridaa.
+{10:4} Kii gacan caajis ah lahu wuu caydhoobaa, Laakiinse kuwa dadaala gacantoodu hodan bay ka dhigtaa.
+{10:5} Kii guga wax soo urursadaa waa wiil caqli leh, Laakiinse kii wakhtiga beergooyska seexdaa waa wiil ceeb sameeya.
+{10:6} Barako waxay saaran tahay kan xaqa ah madaxiisa, Laakiinse kuwa sharka leh afkooda dulmi baa qariya.
+{10:7} Kan xaqa ah xusuustiisu barako bay leedahay, Laakiinse kuwa sharka leh magacoodu waa qudhmi doonaa.
+{10:8} Kii qalbiga caqli ku lahu amarro buu aqbalaa, Laakiinse kan bushimaha ka nacaska ahu afgembi buu u dhacaa.
+{10:9} Kii qummanaan ku socdaa ammaan buu ku socdaa; Laakiinse kii jidadkiisa qalqalloociya waa la ogaan doonaa.
+{10:10} Kii indhaha ku baaqaa murug buu keenaa. Laakiinse kan bushimaha ka nacaska ahu afgembi buu u dhacaa.
+{10:11} Ninkii xaq ah afkiisu waa il nololeed, Laakiinse kuwa sharka leh afkooda dulmi baa qariya.
+{10:12} Necbaantu waxay kicisaa isqabashada, Laakiinse jacaylku xadgudubyada oo dhan buu qariyaa.
+{10:13} Kii waxgarasho leh bushimihiisa waxaa laga helaa xigmad, Laakiinse ushu waxay u taal kan garaadka daran dhabarkiisa.
+{10:14} Dadkii caqli lahu waxay kaydsadaan aqoon, Laakiinse nacaska afkiisu waa baabba' dhow.
+{10:15} Ninkii hodan ah maalkiisu waa u magaalo xoog leh, Laakiinse masaakiinta caydhnimadoodu waa u baabba'.
+{10:16} Kuwa xaqa ah hawshoodu waxay u waddaa nolol, Laakiinse waxa kan sharka leh u kordhaa, dembi bay u sii kexeeyaan.
+{10:17} Kii edbinta xajistaa wuxuu ku socdaa jidka nolosha, Laakiinse kii canaanta diidaa wuu qaldamaa.
+{10:18} Kii necbaanta qariyaa wuxuu leeyahay bushimo been badan, Oo kii xanta ku hadlaana waa nacas.
+{10:19} Hadal badan dembi lagama waayo, Laakiinse kii bushimihiisa ceshaa caqli buu leeyahay.
+{10:20} Kii xaq ah carrabkiisu waa sida lacag la doortay, Laakiinse kuwa sharka leh qalbigoodu waa qiimo yar yahay.
+{10:21} Kii xaq ah bushimahiisu waxay masruufaan kuwa badan, Laakiinse nacasyadu waxgarashola'aantooda ayay u dhintaan.
+{10:22} Rabbiga barakadiisu hodan bay kaa dhigtaa, Oo isna caloolxumo kuma daro.
+{10:23} Nacasku inuu xumaan sameeyo waa u sidii cayaareed, Laakiinse ninka garaadka lahu xigmad buu leeyahay.
+{10:24} Kii shar leh wuxuu ka cabsado ayaa ku soo dul degi doona, Laakiinse kuwa xaqa ah waxay doonayaan waa la siin doonaa.
+{10:25} Markii dabaysha cirwareenta ahu dhaafto, ka sharka leh mar dambe la arki maayo, Laakiinse kii xaq ahu waa aasaas weligiis waaraya.
+{10:26} Khalku siduu ilkaha u yahay, iyo sida qiiqu indhaha u yahay, Ayaa kan caajiska ahu u yahay kuwa isaga dirta.
+{10:27} Rabbiga ka cabsashadiisu cimrigay dheeraysaa, Laakiinse kuwa sharka leh cimrigoodu waa soo gaaban doonaa.
+{10:28} Kuwa xaqa ah rajadoodu waa farxad, Laakiinse kuwa sharka leh filashadoodu way baabbi'i doontaa.
+{10:29} Rabbiga jidkiisu waa u qalcad kuwa qumman; Laakiinse xumaanfalayaasha waa u baabba'.
+{10:30} Kan xaqa ah weligiis la dhaqaajin maayo, Laakiinse kuwa sharka lahu dhulka ma fadhiyi doonaan.
+{10:31} Kan xaqa ah afkiisa waxaa ka soo baxda xigmad, Laakiinse carrabkii qalloocan waa la gooyn doonaa.
+{10:32} Kan xaqa ah bushimahiisu waxay yaqaaniin waxa la aqbali karo, Laakiinse kan sharka leh afkiisu qallooc buu ku hadlaa.
+{11:1} Kafaddii khiyaano ah Rabbigu aad buu u karhaa, Laakiinse dhagaxii miisaanka oo xaq ah wuu ku farxaa.
+{11:2} Markuu kibir yimaado, waxaa timaada ceeb; Laakiinse xigmaddu waxay la jirtaa kuwa is-hoosaysiiya.
+{11:3} Kuwa qumman waxaa kaxayn doonta daacadnimadooda, Laakiinse khaayinnada qalloocnaantoodu waa baabbi'in doontaa iyaga.
+{11:4} Maalinta cadhada maal faa'iido ma leh, Laakiinse xaqnimada ayaa dhimasho kaa samatabbixisa.
+{11:5} Ninkii kaamil ah xaqnimadiisu jidkiisay toosisaa, Laakiinse kan sharka lahu wuxuu ku kufi doonaa sharkiisa.
+{11:6} Kuwa qumman xaqnimadoodaa samatabbixin doonta, Laakiinse khaayinnada waxaa qabsan doona damacooda xun.
+{11:7} Nin shar lahu markuu dhinto, wuxuu filanayay way baabbi'i doontaa, Oo xumaanfalayaasha rajadooduna way baabba'daa.
+{11:8} Kii xaq ah waxaa laga samatabbixiyaa dhibaato, Oo meeshiisana waxaa yimaada kii shar leh.
+{11:9} Labawejiilahu afkiisuu deriskiisa ku halligaa, Laakiinse kan xaqa ahu aqoon buu ku samatabbixi doonaa.
+{11:10} Kuwa xaqa ahu markay barwaaqoobaan, magaaladu way rayraysaa, Laakiin kuwa sharka lahu markay halligmaan farax baa lagu dhawaaqaa.
+{11:11} Kuwa qumman ducadooda magaaladu sare bay ugu kacdaa, Laakiinse kuwa sharka leh afkoodu magaaladuu dumiyaa.
+{11:12} Kii deriskiisa quudhsadaa waa caqli daranyahay, Laakiinse ninkii garaadka lahu wuu iska aamusaa.
+{11:13} Kii sida mid xan badan u warwareegaa wuxuu daaha ka qaadaa waxyaalo qarsoon, Laakiinse kii ruuxiisu aamin yahay xaalkuu qariyaa.
+{11:14} Markaanay talo jirin, dadku waa dhacaa, Laakiinse taliyayaasha badnaantoodu waxay leedahay nabadgelyo.
+{11:15} Kii qof qalaad dammiintaa, xumaan buu ka helaa, Laakiinse kii dammiinashada necebu ammaan buu u fadhiyaa.
+{11:16} Naag nimcaysan sharaf bay haysataa, Oo niman xoog lahuna maal bay haystaan.
+{11:17} Ninkii naxariis badanu naftiisuu wanaag u sameeyaa, Laakiinse kii aan naxariis lahaynu jidhkiisuu dhibaa.
+{11:18} Kan sharka lahu wuxuu shaqaystaa mushahaaro khiyaano miidhan ah, Laakiinse kii xaqnimada beeraa wuxuu heli doonaa abaalgud la hubo.
+{11:19} Xaqnimadu waxay u kacdaa xagga nolosha, Sidaas oo kalena kii sharka raacaa wuxuu u raacaa dhimashadiisa.
+{11:20} Kuwa qalbigoodu qalloocan yahay Rabbigu aad buu u karhaa; Laakiinse kuwa jidkooda ku qumman wuu ku farxaa.
+{11:21} Waxaan aad idiinku xaqiijinayaa inaan kan sharka lahu taqsiirla'aan doonayn. Laakiinse farcanka kuwa xaqa ah waa la samatabbixin doonaa.
+{11:22} Naag qurux badan oo aan digtoonaan lahaynu Waa sida dahab gafuurka doofaarka ku jira.
+{11:23} Kuwa xaqa ah waxay doonayaan wanaag keliya, Laakiinse kuwa sharka ah filashadoodu waa cadho.
+{11:24} Waxaa jira mid wax firdhiya, oo haddana sii korodhsada; Oo waxaa jira mid ceshada wax ka sii badan in ku habboon, oo haddana sii caydhooba.
+{11:25} Qofkii deeqsi ah baa la barwaaqaysiin doonaa, Oo kii wax waraabiyana, isna waa la waraabin doonaa.
+{11:26} Kii hadhuudh ceshada, dadka ayaa habaari doona, Laakiinse kii iibiya, duco ayaa ku dhici doonta.
+{11:27} Kii wanaag aad u doonaa wuxuu doonayaa raallinimo, Laakiinse kii xumaan doona, way u iman doontaa.
+{11:28} Kii maalkiisa isku halleeyaa wuu dhici doonaa, Laakiinse kii xaq ahu wuxuu u barwaaqoobi doonaa sida caleen cagaar ah.
+{11:29} Kii gurigiisa dhibaa dabayshu dhaxli doonaa, Oo nacaskuna wuxuu midiidin u ahaan doonaa kan qalbigiisu caqliga leeyahay.
+{11:30} Kan xaqa ah midhihiisu waa geed nololeed, Oo kii nafo soo hanuuniyaana caqli buu leeyahay.
+{11:31} Bal eega, kan xaqa ahu abaalkiisuu dhulka ku heli doonaa, Haddaba immisa abaalgud oo ka sii badan bay heli doonaan kan sharka leh iyo dembiluhu.
+{12:1} Ku alla kii edbinta jecelu aqoon buu jecel yahay, Laakiinse kii canaanta necebu waa doqon.
+{12:2} Rabbigu ninka wanaagsan raalli buu ka ahaan doonaa. Laakiinse khaayinka wuu xukumi doonaa.
+{12:3} Ninna shar kuma dhismi doono, Laakiinse kuwa xaqa ah xididkooda weligiis lama dhaqaajin doono.
+{12:4} Naagtii toolmoonu waxay ninkeeda u tahay taaj, Laakiinse tii ceebalay ahu waa sida qudhun isaga lafaha kaga jira.
+{12:5} Kuwa xaqa ah fikirradoodu waa qumman yihiin, Laakiinse kuwa sharka leh taladoodu waa khiyaano.
+{12:6} Kuwa sharka leh erayadoodu waa gabbasho ay u gabbadaan si ay dhiig u daadiyaan, Laakiinse kuwa qumman afkooda ayaa samatabbixin doona.
+{12:7} Kuwa sharka leh waa la afgembiyaa, oo mar dambena lama arki doono, Laakiinse kuwa xaqa ah gurigoodu waa sii taagnaan doonaa.
+{12:8} Nin waxaa loogu bogi doonaa sida xigmaddiisu tahay, Laakiinse kii qalbigiisu qalloocan yahay waa la quudhsan doonaa.
+{12:9} Kii la fudaydsado oo midiidin lahu Waa ka wanaagsan yahay kii isweyneeya oo cunto u baahan.
+{12:10} Nin xaq ahu waa u tudhaa neefkiisa, Laakiinse kuwa sharka leh naxdintoodu waa naxariisla'aan oo keliya.
+{12:11} Kii dhulkiisa beertaa cunto badan buu ka dhergi doonaa, Laakiinse kii waxmatarayaal raacaa waa garaad daranyahay.
+{12:12} Kan sharka lahu wuxuu damcaa dabinka xumaanfalayaasha, Laakiinse xididka kuwa xaqa ahu midhuu dhalaa.
+{12:13} Kan sharka leh waxaa u dabin ah xadgudubka bushimihiisa, Laakiinse kan xaqa ahu dhibaatada wuu ka bixi doonaa.
+{12:14} Nin wuxuu wanaag kaga dhergi doonaa midhaha afkiisa, Oo nin walbana waxa gacmihiisu sameeyaan ayaa loo abaalgudi doonaa.
+{12:15} Nacaska jidkiisu waa la qumman yahay isaga, Laakiinse kii caqli lahu taladuu maqlaa.
+{12:16} Nacaska xanaaqiisa haddiiba waa la gartaa, Laakiinse ninkii miyir lahu ceebtuu qariyaa.
+{12:17} Kii runta ku hadlaa wuxuu muujiyaa xaqnimada, Laakiinse markhaatiga beenta ahu wuxuu muujiyaa khiyaanada.
+{12:18} Waxaa jira mid u hadla sida seef wax mudaysa, Laakiinse kan caqliga leh carrabkiisu waa caafimaad.
+{12:19} Bushintii runta sheegtaa weligeedba way sii taagnaan doontaa, Laakiinse carrabkii beenta sheegaa daqiiqad buu joogaa.
+{12:20} Kuwa sharka ku fikira qalbigooda khiyaanaa ku jirta, Laakiinse taliyayaasha nabaddu farxad bay leeyihiin.
+{12:21} Sharna kan xaqa ah ku dhici maayo, Laakiinse kuwa sharka leh xumaan baa ka buuxsami doonta.
+{12:22} Bushimaha beenta sheega Rabbigu wuu karhaa. Laakiinse kuwa runta ku shaqeeya wuu ku farxaa.
+{12:23} Ninkii miyir lahu aqoontuu qariyaa, Laakiinse qalbiga nacasyadu wuxuu naadiyaa nacasnimo.
+{12:24} Kuwa dadaala gacantoodu wax bay xukumi doontaa, Laakiinse caajisiinta hawl baa la saari doonaa.
+{12:25} Ninkii caloolxumo gashaa wuu soo gotaa, Laakiinse eray wanaagsanu waa ka farxiyaa isaga.
+{12:26} Kan xaqa ahu deriskiisuu hanuuniyaa, Laakiinse kuwa sharka leh jidkoodu wuu ambiyaa iyaga.
+{12:27} Ninkii caajis ahu ma dubto wuxuu soo ugaadhsaday, Laakiinse ninkii dadaala maalkiisu waa qaali.
+{12:28} Jidka xaqnimada nolol baa taal; Oo waddadeedana dhimasho kuma jirto.
+{13:1} Wiilkii caqli lahu wuxuu maqlaa edbinta aabbihiis, Laakiinse kii wax quudhsadaa canaanta ma maqlo.
+{13:2} Nin wuxuu wax wanaagsan ku cuni doonaa midhaha afkiisa, Laakiinse khaayinnada naftoodu waxay cuni doontaa midhaha dulmiga.
+{13:3} Kii afkiisa dhawraa wuxuu dhawraa naftiisa, Laakiinse kii bushimihiisa aad u kala qaadaa wuu baabbi'i doonaa.
+{13:4} Kii caajis ah naftiisu wax bay damacdaa, mana hesho, Laakiinse nafta kii dadaala waa la barwaaqaysiin doonaa.
+{13:5} Ninkii xaq ahu beenta wuu neceb yahay, Laakiinse ninkii shar lahu waa karaahiyo, wuuna ceeboobaa.
+{13:6} Xaqnimadu kii jidkiisu qumman yahay ayay ilaalisaa, Laakiinse sharnimadu dembilaha ayay afgembidaa.
+{13:7} Waxaa jira nin hodan iska dhiga laakiinse aan waxba haysan, Oo waxaa jira mid miskiin iska dhiga laakiinse maal badan leh.
+{13:8} Nin wuxuu noloshiisa ku furtaa maalkiisa, Laakiinse miskiinku canaanta ma maqlo.
+{13:9} Iftiinka kuwa xaqa ahu weligii wuu reyreeyaa, Laakiinse laambadda kuwa sharka leh waa la bakhtiin doonaa.
+{13:10} Isqabasho oo keliya ayaa kibir ka timaada, Laakiinse kii waanada qaata waxaa la jirta xigmad.
+{13:11} Maalkii degdeg lagu helaa wuu dhinmi doonaa, Laakiinse kan hawl wax ku soo urursadaa waa sii korodhsan doonaa.
+{13:12} Rajadii raagtaa qalbigay bukaysiisaa, Laakiinse markii wixii la doonayay la helo waa geed nololeed.
+{13:13} Ku alla kii erayga quudhsadaa halligaad ayuu isu keenaa, Laakiinse kii amarka ka cabsada waa loo abaalgudi doonaa.
+{13:14} Ninkii caqli leh waxbariddiisu waa il nololeed, In dabinnada dhimashada laga leexdo.
+{13:15} Waxgarashadii wanaagsan raalli baa laga noqdaa, Laakiinse jidka khaayinnadu waa xun yahay.
+{13:16} Nin kasta oo miyir lahu aqoon buu ku shaqeeyaa, Laakiinse nacasku nacasnimuu fidiyaa.
+{13:17} Wargeeyihii shar lahu xumaan buu ku dhex dhacaa, Laakiinse ergadii aamin ahu waa caafimaad.
+{13:18} Caydhnimo iyo ceebba waxaa lahaan doona kii edbinta diida, Laakiinse kii canaanta maqla waa la murwayn doonaa.
+{13:19} Wixii la doonayay oo la gaadhay nafta way u macaan tahay, Laakiinse nacasyadu aad bay u karhaan inay sharka ka fogaadaan.
+{13:20} Kii kuwa caqliga leh la socdaa, caqli buu yeelan doonaa, Laakiinse kii nacasyada raacaa waa baabbi'i doonaa.
+{13:21} Dembilayaasha waxaa eryada shar, Laakiinse kuwa xaqa ah abaal wanaagsan baa loo gudi doonaa.
+{13:22} Ninkii wanaagsanu dhaxal buu uga tagaa carruurta carruurtiisa, Oo maalka dembilahana waxaa loo kaydiyaa kuwa xaqa ah.
+{13:23} Beerta masaakiinta waxaa ku taal cunto badan, Laakiinse gardarro aawadeed in baa loo baabbi'iyaa.
+{13:24} Kii ushiisa ceshadaa wiilkiisuu neceb yahay; Laakiinse kii wiilkiisa jecelu aad buu u edbiyaa.
+{13:25} Kan xaqa ahu wax buu cunaa ilaa naftiisu dheregto, Laakiinse caloosha kuwa sharka lahu way baahnaan doontaa.
+{14:1} Naag kastoo caqli lahu gurigeeday dhistaa, Laakiinse nacasaddu gacmaheeday ku dumisaa.
+{14:2} Kii qummanaantiisa ku socda ayaa Rabbiga ka cabsada, Laakiinse kii jidkiisa ku qalloocan wuu quudhsadaa isaga.
+{14:3} Afka nacasyada waxaa ka soo biqla kibir; Laakiinse kuwa caqliga leh bushimahooda ayaa iyaga dhawri doona.
+{14:4} Meeshii aan dibi joogin qabaalkii ay wax ka cuni jireen waa baabbah; Laakiinse kordhinta badanu waxay ku timaadaa xoogga dibiga.
+{14:5} Markhaatigii aamin ahu been ma sheego, Laakiinse markhaatigii been ahu been buu ku hadlaa.
+{14:6} Kii wax quudhsadaa xigmad buu doondoonaa, mana helo, Laakiinse aqoontu waa u fudud dahay kii waxgarasho leh.
+{14:7} Nacaska hortiisa ka fogow, Waayo, bushimihiisa aqoon ka heli maysid.
+{14:8} Ninkii miyir leh xigmaddiisu waa inuu jidkiisa gartaa, Laakiinse nacasyada nacasnimadoodu waa khiyaano.
+{14:9} Nacasyadu dembigay ku majaajiloodaan, Laakiinse kuwa qumman waxaa ku dhex jirta raallinimo.
+{14:10} Qalbigu qadhaadhnimadiisuu yaqaan, Oo shisheeyena farxaddiisa lama qaybsado.
+{14:11} Guriga kuwa sharka leh waa la afgembiyi doonaa, Laakiinse taambuugga kuwa qummanu waa barwaaqoobi doonaa.
+{14:12} Waxaa jirta waddo dadka la hagaagsan, Laakiinse dhammaadkeedu waa waddooyinka dhimashada.
+{14:13} Qalbigu xataa qosol waa ku murugoodaa, Oo farxad dhammaadkeeduna waa caloolxumo.
+{14:14} Kii xaqnimada qalbigiisa dib ugaga noqdaa jidkiisuu ka dhergi doonaa, Oo ninkii wanaagsanuna wuxuu ka dhergi doonaa naftiisa.
+{14:15} Kii garaaddaranu eray kasta wuu rumaystaa, Laakiinse kii miyir lahu socodkiisa aad buu u fiiriyaa.
+{14:16} Ninkii caqli lahu waa cabsadaa, oo sharka wuu ka noqdaa; Laakiinse nacasku waa ciishoodaa, wuuna isku kalsoon yahay.
+{14:17} Kii degdeg u cadhoodaa nacasnimuu wax ku sameeyaa, Oo ninkii sharnimo hindisana waa la neceb yahay.
+{14:18} Garaadlaawayaashu nacasnimay dhaxlaan, Laakiinse kuwii miyir leh waxaa madaxa loo saaraa taaj aqoon ah.
+{14:19} Kuwa sharka lahu kuwa wanaagsan hortooda ayay ku foororsadaan, Oo kuwa xunxunna waxay ku foororsadaan irdaha kuwa xaqa ah.
+{14:20} Miskiinka xataa deriskiisu waa neceb yahay, Laakiinse taajirku saaxiibbo badan buu leeyahay.
+{14:21} Kii deriskiisa quudhsadaa wuu dembaabaa, Laakiinse kii miskiinka u naxariistaa waa barakaysan yahay.
+{14:22} Kuwa sharka ku fikiraa sow ma qaldamaan? Laakiinse kuwa wanaagga ku fikira waxaa u ahaan doona naxariis iyo run.
+{14:23} Hawl kasta faa'iidaa ku jirta, Laakiinse hadalka bushimuhu wuxuu keenaa caydhnimo keliya.
+{14:24} Kuwa caqliga leh taajkoodu waa maalkooda, Laakiinse nacasyada nacasnimadoodu waa nacasnimo keliya.
+{14:25} Markhaatigii run ahu nafuu samatabbixiyaa, Laakiinse kii been sheegaa waa khaayin.
+{14:26} Rabbiga ka cabsashadiisu waxay leedahay kalsoonaan xoog leh, Oo carruurtiisuna waxay lahaan doonaan meel ay magangalaan.
+{14:27} Rabbiga ka cabsashadiisu waa il nololeed, Si dabinnada dhimashada looga leexdo.
+{14:28} Sharafta boqorku waxay ku jirtaa dadka badnaantiisa, Laakiinse baabba'a amiirku wuxuu ku jiraa dadka yaraantiisa.
+{14:29} Kii cadhada u gaabiyaa waa garasho badan yahay; Laakiinse kii degdeg u cadhoodaa nacasnimuu sarraysiiyaa.
+{14:30} Qalbigii degganu waa nolosha jidhka, Laakiinse hinaaso waa qudhunka lafaha.
+{14:31} Kii miskiinka dulmaa wuxuu caayaa Kan sameeyey, Laakiinse kii ka baahan u naxariistaa wuu murweeyaa.
+{14:32} Kii shar leh waxaa lagu afgembiyaa sharnimadiisa, Laakiinse kan xaqa ahu rajuu leeyahay markuu dhinto.
+{14:33} Xigmaddu waxay taal kii garasho leh qalbigiisa, Laakiinse wixii nacasyada uurkooda ku jiraa waa ismuujiyaa.
+{14:34} Xaqnimadu quruun way sarraysiisaa, Laakiinse dembigu waa u ceeb dad kasta.
+{14:35} Boqorka raallinimadiisa waxaa leh midiidinkii caqli ku shaqeeya, Laakiinse wuxuu u cadhoon doonaa kii ceeb sameeya.
+{15:1} Jawaabta qaboobu cadhada way qaboojisaa, Laakiinse hadalkii qallafsanu xanaaq buu kiciyaa.
+{15:2} Kuwa caqliga leh carrabkoodu aqoon buu ku hadlaa, Laakiinse afka nacasyadu wuxuu shubaa nacasnimo.
+{15:3} Rabbiga indhihiisu meel kastay jiraan, Iyagoo fiirinaya kuwa xun iyo kuwa wanaagsan.
+{15:4} Carrabka wanaagsanu waa geed nololeed Laakiinse carrabka qalloocan ayaa qalbigu ku jabaa.
+{15:5} Nacasku edbinta aabbihiis wuu quudhsadaa, Laakiinse kii canaanta maqlaa miyir buu yeeshaa.
+{15:6} Kan xaqa ah gurigiisa khasnad weyn baa taal, Laakiinse waxa kan sharka leh u kordhaa waa dhib.
+{15:7} Kuwa caqliga leh bushimahoodu aqoon bay faafiyaan, Laakiinse qalbiga nacasyadu sidaas ma aha.
+{15:8} Allabariga kuwa sharka lahu Rabbiga waa u karaahiyo, Laakiinse kuwa qumman baryadoodu isagay ka farxisaa.
+{15:9} Jidka kan sharka lahu Rabbiga waa u karaahiyo, Laakiinse isagu waa jecel yahay kii xaqnimada raaca.
+{15:10} Kii jidka ka taga waa u taqsiir kulul, Oo kii canaanta necebuna wuu dhiman doonaa.
+{15:11} She'ool iyo halligaaduba Rabbiga hortiisay yaalliin, Haddaba intee in ka sii badan buu arkaa qalbiga binu-aadmiga?
+{15:12} Kii wax quudhsadaa ma jecla in la canaanto, Oo dooni maayo inuu kuwa caqliga leh u tago.
+{15:13} Qalbigii faraxsanu wejiguu nuuriyaa, Laakiinse caloolxumaanta ayaa qalbigu ku jabaa.
+{15:14} Kii garasho leh qalbigiisu aqoon buu doondoonaa, Laakiinse nacasyada afkoodu wuxuu cunaa nacasnimo.
+{15:15} Kuwa dhibaataysan maalmahooda oo dhammu waa xunxun yihiin, Laakiinse kii qalbigiisu faraxsan yahay had iyo goorba waa u iid.
+{15:16} Wax yar oo Rabbiga ka cabsashadiisu la jirto Ayaa ka wanaagsan khasnado badan oo dhib la jirto.
+{15:17} Cunto khudaareed oo jacayl la jiro Ayaa ka wanaagsan dibi la cayiliyey oo nacayb la jiro.
+{15:18} Ninkii cadho badanu muran buu kiciyaa, Laakiinse kii cadhada u gaabiyaa murankuu qaboojiyaa.
+{15:19} Ninkii caajis ah jidkiisu waa sida meel qodxan leh oo kale, Laakiinse kii xaq ah jidkiisu waa dariiq bannaan.
+{15:20} Wiilkii caqli lahu aabbihiisuu ka farxiyaa, Laakiinse ninkii nacas ahu hooyadiisuu quudhsadaa.
+{15:21} Nacasnimadu waa u farxad ninkii caqlidaran, Laakiinse ninkii garasho lahu si qumman buu u socdaa.
+{15:22} Meeshii aan talo jirin xaajooyinku waa baabba', Laakiinse taliyayaashii badan ayay ku hagaagaan.
+{15:23} Nin wuxuu farxad ka helaa jawaabta afkiisa, Oo eraygii wakhti ku habboon la yidhaahdaana sidee buu u wanaagsan yahay!
+{15:24} Jidka noloshu waa u kor kii caqli leh, Si uu uga tago She'oolka hoose.
+{15:25} Rabbigu wuu dumin doonaa guriga kuwa kibirka leh, Laakiinse dhulka carmalka xadkiisa wuu adkayn doonaa.
+{15:26} Rabbigu fikirrada sharka ah aad buu u karhaa, Laakiinse kuwa daahirkaa hadal wanaagsan bay ku hadlaan.
+{15:27} Kan faa'iido u hunguri weynu reerkiisuu dhibaa, Laakiinse kii hadiyadaha necebu wuu noolaan doonaa.
+{15:28} Kan xaqa ah qalbigiisu wuxuu ka fikiraa sida loo jawaabo, Laakiinse kuwa sharka leh afkoodu wuxuu shubaa waxyaalo shar ah.
+{15:29} Rabbigu kuwa sharka leh wuu ka fog yahay, Laakiinse kuwa xaqa ah baryadooduu maqlaa.
+{15:30} Indhaha nuurkoodu qalbiguu ka farxiyaa, Oo warkii wanaagsanuna lafahuu barwaaqaysiiyaa.
+{15:31} Dhegtii canaanta nolosha maqashaa Waxay joogi doontaa kuwa caqliga leh dhexdooda.
+{15:32} Kii edbinta diidaa naftiisuu quudhsadaa, Laakiinse kii canaanta maqlaa waxgarashuu helaa.
+{15:33} Rabbiga ka cabsashadiisu waa edbinta xigmadda, Oo sharaftana waxaa ka horreeya is-hoosaysiinta.
+{16:1} Qalbiga qasdiyadiisa dadkaa leh, Laakiinse carrabka jawaabtiisu xagga Rabbigay ka timaadaa.
+{16:2} Nin jidadkiisa oo dhammu waa la nadiifsan yihiin isaga, Laakiinse Rabbigu ruuxyaduu miisaamaa.
+{16:3} Shuqulladaada Rabbiga ku aamin, Oo fikirradaaduna way taagnaan doonaan.
+{16:4} Rabbigu wax kastuu isu abuuray, Haah, oo xataa ka sharka leh wuxuu u abuuray maalinta sharkaa.
+{16:5} Ku alla kii qalbiga ka kibirsanu Rabbiga waa u karaahiyo, Waxaan aad idiin ku xaqiijinayaa inaan isagu taqsiir la'aan doonayn.
+{16:6} Waxaa dembiga lagu kafaaraggudaa naxariis iyo run, Oo dadkuna waxay sharka kaga fogaadaan Rabbiga ka cabsashadiisa.
+{16:7} Markii Rabbigu ku farxo nin jidadkiis, Wuxuu nabad dhex dhigaa isaga iyo xataa cadaawayaashiisa.
+{16:8} Wax yar oo xaqnimo la jirto Ayaa ka wanaagsan wax badan oo kordha oo xaqdarro la jirto.
+{16:9} Nin walba qalbigiisaa jidkiisa u fiirsada, Laakiinse Rabbigaa tallaabooyinkiisa toosiya.
+{16:10} Xukunka Rabbigu wuxuu ku jiraa bushimaha boqorka, Afkiisuna kuma xadgudbo garsooridda.
+{16:11} Miisaankii iyo kafadihii xaq ah Rabbigaa leh, Dhagaxyada miisaanka oo kiishka ku jira oo dhammuna waa shuqulkiisa.
+{16:12} Waa u karaahiyo boqorrada inay xumaan falaan. Waayo, carshigu xaqnimuu ku dhismaa.
+{16:13} Boqorradu bushimaha xaqa ah way ku farxaan, Oo kii si qumman u hadlana way jecel yihiin.
+{16:14} Boqor cadhadiisu waa sida warqaadayaal geeriyeed, Laakiinse nin caqli leh ayaa qaboojin doona.
+{16:15} Nuurka wejiga boqorka nolol baa ku jirta, Oo raallinimadiisuna waa sida daruurta roobka dambe.
+{16:16} In xigmad la helaa intee bay ka sii wanaagsan tahay in dahab la helo! In waxgarasho la helaana waa laga doortaa in lacag la helo.
+{16:17} Kuwa qumman jidkoodu waa inay sharka ka leexdaan, Kii jidkiisa dhawraa naftiisuu ilaaliyaa.
+{16:18} Kibirku wuxuu hor socdaa baabba', Oo madaxweynaanuna waxay hor socotaa dhicid.
+{16:19} In kuwa kibirsan booli lala qaybsado Waxaa ka sii wanaagsan in kuwa hooseeya laysla sii hoosaysiiyo.
+{16:20} Kii hadalka dhegaystaa wax wanaagsan buu heli doonaa, Oo ku alla kii Rabbiga aaminaana waa barakaysan yahay.
+{16:21} Kii qalbigiisu caqli leeyahay waxaa loogu yeedhi doonaa mid miyir leh, Oo bushimaha macaankooduna waxbarashuu kordhiyaa.
+{16:22} Waxgarashadu waa u il nololeed kii haysta, Laakiinse edbinta nacasyadu waa nacasnimo.
+{16:23} Kii caqli leh qalbigiisu afkiisuu wax baraa, Oo waxbarashuu bushimihiisa u kordhiyaa.
+{16:24} Hadalkii wacanu waa sida awlallo shinniyeed oo kale, Nafta wuu u macaan yahay, oo lafahana waa u caafimaad.
+{16:25} Waxaa jirta waddo dadka la qumman, Laakiinse dhammaadkeedu waa jidadkii dhimashada.
+{16:26} Kii hawshooda gaajadiisuu u hawshoodaa, Waayo, afkiisaa qasba isaga.
+{16:27} Ninkii waxmatare ahu xumaan buu qodqodaa, Oo bushimihiisana waxaa ku jira dab wax gubaya.
+{16:28} Ninkii qalloocanu muran buu beeraa, Oo kii xan badanuna wuxuu kala kaxeeyaa saaxiibbo.
+{16:29} Ninka wax dulmaa deriskiisuu sasabtaa, Oo wuxuu u kaxeeyaa jid aan wanaagsanayn.
+{16:30} Kii indhaha isugu qabta inuu wax qalloocan hindiso, Oo bushimihiisa qaniinaa, shar buu soo wadaa.
+{16:31} Madaxa cirro lahu waa taaj sharfeed Haddii laga helo jidka xaqnimada.
+{16:32} Kii cadhada u gaabiyaa waa ka wanaagsan yahay kii xoog badan, Oo kii ruuxiisa xukumaana waa ka wanaagsan yahay kii magaalo qabsada.
+{16:33} Saamiga waxaa lagu tuuraa dhabta, Laakiinse go'aankiisa oo dhan Rabbigaa leh.
+{17:1} Wuxoogaa cunto qallalan ah oo xasilloonaanu la jirto Ayaa ka wanaagsan guri hilib allabari ka buuxo oo diriru la jirto.
+{17:2} Addoonkii caqli lahu wuxuu xukumi doonaa wiilkii ceeb soo jiida, Oo walaalaha ayuu la dhaxal geli doonaa.
+{17:3} Weelka lacagta lagu safeeyo lacagtaa iska leh, oo foornadana dahabkaa iska leh, Laakiinse Rabbigu qalbiyaduu imtixaamaa.
+{17:4} Xumaanfaluhu wuxuu maqlaa bushimaha shar leh, Oo beenaaluhuna wuxuu dhegaystaa carrabka xun.
+{17:5} Ku alla kii miskiinka ku majaajiloodaa wuxuu caayaa Kan sameeyey, Kii belaayooyin ku farxaana ma taqsiir la'aan doono.
+{17:6} Odayaasha waxaa taaj u ah carruurta carruurtooda, Oo sharafta carruurtuna waa aabbayaashood.
+{17:7} Hadalkii weynu nacas uma eka, Sidaas oo kalena bushimihii been sheegaa amiir uma eka.
+{17:8} Hadiyaddu waxay kii haysta la tahay sida dhagax qaali ah, Oo meel alla meeshay u leexataba way ku barwaaqowdaa.
+{17:9} Kii xadgudub qariyaa jacayl buu doondoonaa, Laakiinse kii xaal ku noqnoqdaa saaxiibbuu kala kaxeeyaa.
+{17:10} Canaantu waxay ninkii garasho leh u tartaa In ka badan boqol jeedal oo nacas lagu dhuftay ay u taraan.
+{17:11} Ninkii shar lahu wuxuu doondoonaa caasinimo keliya, Sidaas daraaddeed waxaa isaga lagu diri doonaa farriingeeye aan naxariis lahayn.
+{17:12} Nin ha la kulmo orso dhasheeda laga xaday, Intuu nacas nacasnimo samaynaya la kulmi lahaa.
+{17:13} Ku alla kii wanaag xumaan ku celiyaa, Gurigiisa xumaanu ka fogaan mayso.
+{17:14} Muranka bilowgiisu waa sida biyo la soo faruuray. Haddaba isqabashada iska daa intaan lays ilaaqin.
+{17:15} Kii kan sharka leh xaq ka dhiga, iyo kii kan xaqa ah gardarro ku xukuma, Labadaba Rabbigu aad buu u karhaa.
+{17:16} Lacagta nacaska gacantiisa ku jirtaa bal maxay u tartaa inuu xigmad ku soo iibsado, Waayo, isagu garasho ma leh?
+{17:17} Had iyo goor saaxiibba saaxiibkii wuu jecel yahay, Walaalna wuxuu u dhashay dhibaato.
+{17:18} Ninkii garaaddaranu gacan buu dhaar ugu dhiibaa, Oo wuxuu dammiin ku noqdaa deriskiisa hortiisa.
+{17:19} Kii xadgudub jecelu muran buu jecel yahay, Oo kii iriddiisa sarraysiiyaana wuxuu doondoontaa baabba'.
+{17:20} Kii qalbi qalloocan lahu wanaag ma helo, Oo kii carrab maroorsan lahuna wuxuu ku dhex dhacaa belaayo.
+{17:21} Kii nacas dhalaa murugtiisuu u dhalaa, Oo nacas aabbihiisna farxad ma leh.
+{17:22} Qalbigii faraxsanu waa dawo wanaagsan, Laakiinse qalbigii jabanu lafahuu engejiyaa.
+{17:23} Ninkii shar lahu laabtuu laaluush ka qaataa, Si uu jidadka garta u qalloociyo.
+{17:24} Xigmaddu waxay hor joogtaa kii garasho leh; Laakiinse nacaska indhihiisu waxay eegaan dhulka darafkiisa.
+{17:25} Wiilkii nacas ahu waa u murug aabbihiis, Waana u qadhaadh tii dashay.
+{17:26} Weliba ma wanaagsana in kii xaq ah la taqsiiro, Ama in kuwa sharafka leh qummanaantooda aawadeed wax loogu dhufto.
+{17:27} Kii hadalkiisa yareeyaa, aqoon buu leeyahay, Oo kii qalbigiisu qabow yahayna waa nin garasho leh.
+{17:28} Xataa nacasku markuu iska aamusan yahay waxaa loo yaqaan mid caqli leh, Kii bushimihiisa isku qabtana nin miyir leh.
+{18:1} Kii gooni isu soocaa, wuxuu doondoonaa damaciisa, Oo xigmadda oo dhanna wuu ku kacaa.
+{18:2} Nacasku waxgarashada kuma farxo, Laakiinse wuxuu ku farxaa uun inuu waxa qalbigiisa ku jira muujiyo.
+{18:3} Markii kii shar lahu yimaado waxaa kaloo timaada quudhsasho, Sharafla'aantana waxaa la timaada ceeb.
+{18:4} Nin afkiis erayada ku jiraa waa sida biyo gun dheer, Oo isha xigmadduna waa sida durdur socda.
+{18:5} Ma wanaagsana in kan sharka leh loo eexdo, Ama in kan xaqa ah garta lagu afgembiyo.
+{18:6} Nacaska bushimihiisu waxay keenaan muran, Oo afkiisuna wuxuu u yeedhaa karbaash.
+{18:7} Nacaska afkiisu waa u baabba', Oo bushimihiisuna naftiisay dabin u noqdaan.
+{18:8} Kii xan badan erayadiisu waa sida cunto macaan, Oo waxay ku degaan meelaha caloosha ugu hooseeya.
+{18:9} Kii shuqulkiisa caajis ku ahu, Wuxuu walaal u yahay kii wax kharriba.
+{18:10} Rabbiga magiciisu waa noobiyad xoog leh, Kii xaq ahu iyaduu ku cararaa, meel sarena wuu ku nabad galaa.
+{18:11} Ninkii taajir ah maalkiisu waa u magaalo xoog leh, Oo waa u derbi dheer sida ay la tahay isaga.
+{18:12} Dadka qalbigiisu waa kibraa intaanu baabbi'in ka hor, Oo sharaftana waxaa ka horraysa is-hoosaysiinta.
+{18:13} Kii xaajo ka jawaabaa isagoo aan maqlin, Waa u nacasnimo iyo ceeb.
+{18:14} Nin qalbigiisu waa u adkaysan karaa cudurkiisa, Laakiinse qalbi jaban bal yaa u dulqaadan kara?
+{18:15} Kii miyir leh qalbigiisu wuxuu helaa aqoon, Oo kuwa caqliga leh dhegtooduna waxay doondoontaa aqoon.
+{18:16} Nin hadiyaddiisu meel bay u bannaysaa. Oo waxay isaga hor keentaa rag waaweyn.
+{18:17} Kii dacwaddiisa u hor mara, mid xaq ah baa la moodaa, Laakiinse deriskiisaa ka daba yimaada oo imtixaama isaga.
+{18:18} Saamigu wuxuu joojiyaa murammo, Oo wuxuu kala kaxeeyaa kuwa xoogga badan.
+{18:19} In walaal la xumeeyey la soo celiyo waa ka sii adag tahay in magaalo xoog leh la qabsado, Oo murammona waa ka xoog badan yihiin qalcad biraheeda.
+{18:20} Nin calooshiisu waxay ka buuxsami doontaa midhaha afkiisa, Oo wuxuu isagu ka dhergi doonaa waxa bushimihiisa u kordha.
+{18:21} Geeri iyo nololuba waxay ku jiraan itaalka carrabka, Oo kuwa jeceluna waxay cuni doonaan midhihiisa.
+{18:22} Ku alla kii afo helaa wuxuu helaa wax wanaagsan, Oo Rabbigana raallinimuu ka helaa.
+{18:23} Miskiinku baryootan buu ku hadlaa, Laakiinse taajirku si qallafsan buu ugu jawaabaa.
+{18:24} Ninkii saaxiibbo badsadaa naftiisuu kharribaa, Laakiin waxaa jira saaxiib walaalkaa kaaga dhow.
+{19:1} Miskiinka daacadnimadiisa ku socda ayaa ka wanaagsan Nacaska bushimihiisu qalloocan yihiin.
+{19:2} Oo weliba in naftu aqoon la'aato ma wanaagsana, Oo kii cagihiisu degdegaanna wuu ambadaa.
+{19:3} Nin nacasnimadiisu jidkiisay qalloocisaa, Oo isagu qalbigiisa ayuu Rabbiga uga cadhoodaa.
+{19:4} Maalku wuxuu badiyaa saaxiibbo, Laakiinse miskiinku saaxiibkiisa buu ka soocmaa.
+{19:5} Markhaatigii been ahu ma taqsiir la'aan doono, Oo kii been ku hadlaana ma baxsan doono.
+{19:6} Kuwa badan ayaa deeqsiga raallinimo ka baryi doona, Oo nin kastaaba waa u saaxiib kii hadiyado bixiya.
+{19:7} Miskiinka walaalihiis oo dhammu way neceb yihiin, Haddaba saaxiibbadiisuna intee bay ka fogaan doonaan! Isagu hadal buu kala daba tagaa iyaga, laakiinse way tageen.
+{19:8} Kii xigmadda helaa naftiisuu jecel yahay, Oo kii waxgarashada xajistaana wax wanaagsan buu heli doonaa.
+{19:9} Markhaatigii been ahu ma taqsiir la'aan doono, Oo kii been ku hadlaana wuu halligmi doonaa.
+{19:10} Nacaska raaxo uma eka, Waxaana taas ka sii liita in addoon amiirro xukumo.
+{19:11} Nin miyirkiisu cadho buu ka celiyaa, Oo waxaa isaga ammaan u ah inuu xadgudub dhaafo.
+{19:12} Boqorka cadhadiisu waa sida libaaxa cidiisa, Laakiinse raallinimadiisu waa sida sayaxa cawska ku dega.
+{19:13} Wiilkii nacas ahu waa u belaayo aabbihiis, Oo naag murammadeeduna waa sida dhibicyo aan kala go'in.
+{19:14} Hoy iyo hanti aabbayaashaa laga dhaxlaa, Laakiinse afo miyir leh xagga Rabbigaa laga helaa.
+{19:15} Caajisnimo waxay keentaa hurdo weyn, Oo qofkii caajis ahuna wuu gaajoon doonaa.
+{19:16} Kii amarka dhawraa naftiisuu dhawraa, Laakiinse kii jidadkiisa fudaydsadaa wuu dhiman doonaa.
+{19:17} Kii miskiinka u naxaa Rabbiguu wax amaahiyaa, Oo wanaaggii uu sameeyeyna wuu u celin doonaa.
+{19:18} Wiilkaaga edbi intay rajo jirto, Laakiinse naftaada ha ku qasbin si uu u dhinto.
+{19:19} Ninkii cadho badan waa la taqsiiri doonaa, Waayo, haddaad mar isaga samatabbixiso, haddana waa inaad mar kale sidii oo kale ku samaysaa.
+{19:20} Talada maqal, oo edbinta qaado, Si aad ugu dambaystaada caqli u yeelatid.
+{19:21} Nin qalbigiisa waxaa ku jira hindisooyin badan, Habase ahaatee waxaa taagnaan doonta talada Rabbiga.
+{19:22} Nin waxaa loo doonayaa waa raxmaddiisa, Oo miskiinkuna waa ka wanaagsan yahay beenaalaha.
+{19:23} Kii Rabbiga ka cabsada waxaa loo kaxeeyaa xagga nolosha, Wuuna sii dheregsanaan doonaa, Oo sharna loo keeni maayo.
+{19:24} Ninkii caajis ahu wuxuu gacanta geliyaa xeedhada, Oo mar dambe xagga afkiisa uma soo celiyo.
+{19:25} Kan wax quudhsada garaac, oo garaadlaawaha ayaa miyir yeelan doona, Oo kii garasho leh canaano, oo isna aqoon buu sii korodhsan doonaa.
+{19:26} Kii aabbihiis kharriba, hooyadiisna erya, Waa wiil ceeb keena oo cay soo jiida.
+{19:27} Wiilkaygiiyow ka joogso in markaad edbinta maqashid Aad dabadeed hadalka aqoonta ka ambatid.
+{19:28} Markhaatigii waxmatare ahu gartuu quudhsadaa, Oo kan sharka leh afkiisuna wuxuu liqaa xumaan.
+{19:29} Kuwa wax quudhsada waxaa loo diyaariyey xukunno, Oo dhabarka nacasyadana waxaa loo diyaariyey karbaash.
+{20:1} Khamri waa dadquudhsade, waxa lagu sakhraamona waa qaylokiciye, Oo ku alla kii ku qaldamaana caqli ma laha.
+{20:2} Boqorka cabsigeliddiisu waa sida libaaxa cidiisa, Oo ku alla kii ka xanaajiyaa, naftiisuu ku dembaabaa.
+{20:3} Nin inuu dirir ka joogsado waa u sharaf, Laakiinse nacas waluba wuu ilaaqtamaa.
+{20:4} Kii caajis ahu qabowga aawadiis beer ma jeexo, Oo sidaas daraaddeed wakhtiga beergooyska wuu baryootami doonaa, oo waxba ma heli doono.
+{20:5} Talada dadka qalbigiisa ku jirtaa waa sida biyo gun dheer, Laakiinse ninkii garasho leh ayaa ka soo dhaansan doona.
+{20:6} Dadka intooda badanu waxay naadiyaan raxmaddooda, Laakiinse nin aamin ah bal yaa heli kara?
+{20:7} Ninka xaqa ah oo daacadnimadiisa ku socda, Carruurtiisu way barakaysnaadaan isaga dabadiis.
+{20:8} Boqorkii carshiga garsooridda ku fadhiyaa Indhihiisuu sharka oo dhan ku kala firdhiyaa.
+{20:9} Bal yaa odhan kara, Qalbigayga waan nadiifiyey, Oo dembigayga waan ka daahirsanahay?
+{20:10} Miisaanno kala cayn ah iyo qiyaaso kala cayn ah, Labaduba Rabbiga waa u karaahiyo.
+{20:11} Xataa ilmo yar waxaa lagu yaqaan falimihiisa, Inuu shuqulkiisu daahir yahay iyo inuu hagaagsan yahayba.
+{20:12} Dhegta wax maqasha iyo isha wax aragtaba, Labadaba Rabbigaa sameeyey.
+{20:13} Hurdo ha jeclaan, waaba intaas oo aad caydhowdaaye. Indhaha kala qaad, oo cuntaad ka dhergi doontaa.
+{20:14} Kan wax iibsadaa wuxuu yidhaahdaa, Waa xun yahay, waa xun yahay, Laakiinse markuu tago ayuu faanaa.
+{20:15} Waxaa jira dahab iyo luul badan, Laakiinse bushimihii aqoon lahu waa jawharad qaali ah.
+{20:16} Kii qof qalaad dammiinta dharkiisa ka qaad, Oo markuu shisheeyayaal dammiinto, isaga rahmad ahaan u hay.
+{20:17} Cuntadii khiyaano lagu helaa dadka way u macaan tahay, Laakiinse dabadeed afkiisa waxaa ka buuxsami doona quruurux.
+{20:18} Qasdi kasta waxaa lagu taagaa talo, Oo waano wanaagsan ku dagaallan.
+{20:19} Kii sida mid xan badan u warwareegaa wuxuu daaha ka qaadaa waxyaalo qarsoon, Haddaba sidaas daraaddeed kii bushimihiisa kala qaada ha ku darsamin.
+{20:20} Kii aabbihiis ama hooyadiis caaya, Laambaddiisa waxaa lagu bakhtiin doonaa gudcur dam ah.
+{20:21} Dhaxalkii markii hore degdeg lagu helay, Ugu dambaysta ma barakoobi doono.
+{20:22} Ha odhan, Shar baan ka abaalgudayaa. Rabbiga sug, oo isna wuu ku badbaadin doonaa.
+{20:23} Miisaanno kala cayn ahu Rabbiga waa u karaahiyo, Oo kafaddii khiyaano ahuna ma wanaagsana.
+{20:24} Nin socodkiisu waa xagga Rabbiga, Haddaba sidaas daraaddeed dad sidee buu jidkiisa u garan karaa?
+{20:25} Waa u dabin nin inuu nacasnimo ku yidhaahdo, Waa quduus, Oo uu dabadeed u nidraa inuu wax weyddiiyo.
+{20:26} Boqorkii caqli lahu kuwa sharka leh wuu hufaa, Oo wuxuu dushooda marsiiyaa giringirta.
+{20:27} Dadka ruuxiisu waa laambaddii Rabbiga, Oo wuxuu baadhaa caloosha meelaha ugu hooseeya oo dhan.
+{20:28} Naxariista iyo runtu boqorkay ilaaliyaan, Oo carshigiisuna wuxuu ku taagnaadaa naxariis.
+{20:29} Dhallinyarada xooggoodu waa ammaantooda, Oo cirrada odayaashuna waa quruxdooda.
+{20:30} Garaaciddii nabro yeeshaa waxay dadka ka nadiifisaa sharka, Oo dilidda karbaashkuna sidaas oo kalay u gashaa caloosha meelaha ugu hooseeya.
+{21:1} Boqorka qalbigiisu wuxuu ku jiraa gacanta Rabbiga sida webiyada biyaha ah, Oo wuxuu u leexiyaa meel alla meeshuu doonayo.
+{21:2} Nin jidkiis waluba waa la qumman yahay isaga, Laakiinse Rabbigu qalbiyaduu miisaamaa.
+{21:3} Waxaa Rabbigu allabari ka sii jecel yahay In xaqnimo iyo gar la sameeyo.
+{21:4} Indho qab weyn iyo qalbi kibirsan, Kuwaas oo ah kuwa sharka leh laambaddoodu waa dembi.
+{21:5} Kuwa dadaala fikirradoodu waxay u geeyaan barwaaqo. Laakiinse ku alla kii degdeg badanu wuxuu u degdegaa inuu wax u baahdo oo keliya.
+{21:6} Khasnadihii carrab been badan lagu helaa waa sida ceeryaamo hor iyo dib loo kaxeeyey, Oo kuwa doondoontaana dhimashay doonaan.
+{21:7} Kuwa sharka leh dhacoodu iyaguu baabbi'in doonaa, Maxaa yeelay, iyagu waxay diidaan inay gar sameeyaan.
+{21:8} Ninkii eed badan qaba jidkiisu aad buu u qalloocan yahay, Laakiinse kii daahirsan shuqulkiisu waa hagaagsan yahay.
+{21:9} In guriga dushiisa dhinac laga joogo ayaa ka roon In guri weyn naag muran badan lala joogo.
+{21:10} Kii shar leh naftiisu xumaan bay doonaysaa, Oo deriskiisuna raallinimo kama helo hortiisa.
+{21:11} Markii mid wax quudhsada la taqsiiro, garaadlaawahu wuu caqliyaystaa, Oo kii caqli leh marka la edbiyona aqoon buu helaa.
+{21:12} Kii xaq ahu wuxuu ka fikiraa kii shar leh gurigiisa, Iyo sida kuwa sharka leh loogu afgembiyo sharnimadooda daraaddeed.
+{21:13} Kii dhegihiisa u fureeyaa si aanu qaylada miskiinka u maqlin, Isaga qudhiisuna wuu qaylin doonaa, laakiinse lama maqli doono.
+{21:14} Hadiyaddii qarsoodi lagu bixiyaa xanaaqay qabowjisaa, Oo laaluushkii laabta laysu geliyaana cadho kulul buu qabowjiyaa.
+{21:15} Kii xaq ahu inuu gar sameeyo waa u farxad, Laakiinse kuwa xumaanta ka shaqeeya waa u baabba'.
+{21:16} Ninkii jidka waxgarashada ka habaabaa Wuxuu la joogi doonaa ururka kuwii dhintay.
+{21:17} Kii raaxaysi jecelu miskiin buu ahaan doonaa, Oo kii khamri iyo saliid jeceluna taajir ma noqon doono.
+{21:18} Kii shar lahu wuxuu furasho u noqon doonaa kii xaq ah, Khaayinkuna wuxuu furasho u noqon doonaa kii qumman.
+{21:19} In lamadegaanka la joogo ayaa ka roon In naag muran iyo cadho badan lala joogo.
+{21:20} Khasnad qaali ah iyo saliid baa ku jira kan caqliga leh gurigiisa, Laakiinse nacasku wixiisa wuu wada liqaa.
+{21:21} Kii xaqnimo iyo naxariis raacaa Wuxuu helaa nolol iyo xaqnimo iyo sharaf.
+{21:22} Kii caqli lahu kor buu ugu baxaa magaalada kuwa xoogga badan derbigeeda, Oo weliba xoogga ay isku hallaynayaan oo dhan ayuu hoos u ridaa.
+{21:23} Ku alla kii afkiisa iyo carrabkiisa dhawraa Naftiisuu dhibaatooyin ka dhawraa.
+{21:24} Ninkii kibirsan ee qab weyn waxaa magiciisa la yidhaahdaa quudhsade, Oo wuxuu ku shaqeeyaa cadhada kibirka.
+{21:25} Ninkii caajis ah waxaa dila damaciisa, Waayo, gacmihiisu waxay diidaan inay hawshoodaan.
+{21:26} Waxaa jira kuwo maalinta oo dhan si hunguri weyn wax u damca, Laakiinse kii xaq ahu wax buu bixiyaa oo ma ceshado.
+{21:27} Ka sharka leh allabarigiisu waa karaahiyo, Oo markuu niyo xun ku bixiyona way ka sii daran tahay!
+{21:28} Markhaatifuraha beenta ahu waa baabbi'i doonaa, Laakiinse ninkii wax maqla hadalkiisu waa raagi doonaa.
+{21:29} Ninkii shar lahu wejigiisuu adkeeyaa, Laakiinse kii qummanu jidadkiisuu u fiirsadaa.
+{21:30} Ma jirto xigmad ama waxgarasho Ama talo Rabbiga ka gees ah.
+{21:31} Faraska waxaa loo diyaariyaa maalinta dagaalka, Laakiinse guusha waxaa leh Rabbiga.
+{22:1} Magac wanaagsan baa laga doortaa maal badan, Oo nimcana waa ka wanaagsan tahay lacag iyo dahab.
+{22:2} Taajirka iyo miskiinku way wada kulmaan, Oo Rabbigu waa kii kulligood sameeyey.
+{22:3} Ninkii miyir lahu sharkuu arkaa, wuuna dhuuntaa, Laakiinse garaadlaawayaashu way iska sii maraan, waana la taqsiiraa.
+{22:4} Is-hoosaysiinta iyo Rabbiga ka cabsashadiisa abaalgudkoodu Waxaa weeyaan hodantinimo iyo sharaf iyo nolol.
+{22:5} Qodxan iyo dabinnaba waxay yaalliin jidka ninka qalloocan, Laakiinse kii naftiisa dhawraa waa ka fogaan doonaa iyaga.
+{22:6} Ilmo u rabbee siduu ku socon lahaa, Oo isna xataa markuu gaboobo kama leexan doono.
+{22:7} Taajirku masaakiintuu u taliyaa Oo kii wax amaahdaana midiidin buu u yahay kii wax amaahiya.
+{22:8} Kii xumaan beeraa wuxuu goosan doonaa belaayo, Oo usha cadhadiisuna way dhammaan doontaa.
+{22:9} Kii il deeqsiya lahu wuu barakoobi doonaa, Waayo, isagu wuxuu cuntadiisa wax ka siiyaa masaakiinta.
+{22:10} Kan wax quudhsada eri, oo muranku wuu bixi doonaa, Dirirta iyo cayduna way dhammaan doonaan.
+{22:11} Kii daahirsanaanta qalbiga jecel, Oo bushimihiisu nimco leeyihiin, xataa boqorka ayaa saaxiibkiis ahaan doona.
+{22:12} Indhaha Rabbigu waxay dhawraan ka aqoonta leh, Laakiinse isagu wuxuu afgembiyaa erayada khaayinka.
+{22:13} Kii caajis ahu wuxuu yidhaahdaa, Libaax baa dibadda jooga, Oo jidka dhexdiisa ayaa laygu dili doonaa.
+{22:14} Naago qalaad afkoodu waa god dheer, Oo waxaa ku dhici doona kii xagga Rabbiga laga nacay.
+{22:15} Nacasnimadu waxay ku xidhan tahay qalbiga ilmaha. Laakiinse usha edbintu way ka fogayn doontaa.
+{22:16} Kii miskiinka u dulma inuu maal korodhsado, Iyo kii taajirka wax siiyaaba hubaal way baahnaan doonaan.
+{i22:17} Erayada Kuwa Caqliga Leh
+{22:17} Dhegta u dhig, oo erayada kuwa caqliga leh maqal, Oo qalbigana aqoontayda u jeedi.
+{22:18} Waayo, waa wax wanaagsan haddii aad uurka ku haysatid, Oo hadday dhammaantood bushimahaaga diyaar ku ahaadaan.
+{22:19} Bal eeg, adigaan maanta iyaga ku ogeysiiyey, Inaad Rabbiga aaminsan tahay.
+{22:20} Miyaanan waxyaalo wanaagsan kuugu qorin Talooyinka iyo aqoonta,
+{22:21} Si aan kuu ogeysiiyo hubaasha erayada runta, Inaad erayada runta uga jawaabtid kuwii ku soo diray?
+{22:22} Miskiinka ha dhicin, waayo, isagu waa miskiin, Oo kan dhibaataysanna meesha iridda ha ku dulmin,
+{22:23} Waayo, Rabbiga ayaa dacwadooda u qaadi doona, Oo kuwa iyaga dhaca naftoodana wuu dhici doonaa.
+{22:24} Ha la saaxiibin nin xanaaq badan, Oo nin cadho kululna waa inaanad la socon,
+{22:25} Waaba intaas oo aad jidkiisa baratid, Oo aad naftaadana dabin ku riddid.
+{22:26} Ha noqonin sida kuwa gacanta dhaar ugu dhiiba, Ama sida kuwa deyman u dammiinta.
+{22:27} Haddaanad haysan wax aad bixiso, Bal muxuu sariirtaada hoostaada uga la bixi?
+{22:28} Soohdinta hore oo ay awowayaashu dhigeen Innaba ha durkin.
+{22:29} Miyaad aragtaa nin shuqulkiisa ku dadaala? Isagu wuxuu istaagi doonaa boqorro hortood. Oo kuwa hoose hortoodana ma istaagi doono.
+{23:1} Markaad u fadhiisatid inaad taliye wax la cuntid, Aad uga fiirso waxa hortaada yaal,
+{23:2} Oo mindi cunaha iska saar Haddaad tahay nin hunguri weyn.
+{23:3} Cuntadiisa macaan ha damcin, Waayo, waa cunto khiyaaneed.
+{23:4} Ha isku daalin si aad taajir ku noqotid. Oo xigmaddaadana ka joogso.
+{23:5} Ma waxaad indhaha ku dayaysaa wax aan jirin? Waayo, hubaal maalku wuxuu yeeshaa baalal, Sida gorgor samada u duula oo kale.
+{23:6} Kan isha sharka leh kibistiisa ha cunin, Cuntadiisa macaanna ha damcin,
+{23:7} Waayo, isagu waxaa weeye siduu qalbiga kaga fikiro; Wuxuu kugu leeyahay, Cun oo cab, Laakiinse qalbigiisu kulama jiro.
+{23:8} Wixii aad cuntay waad soo mantagi doontaa, Oo erayadaadii macaanaana way kaa lumi doonaan.
+{23:9} Nacas waxba ha kula hadlin, Waayo, isagu xigmadda hadalkaaga wuu quudhsan doonaa.
+{23:10} Soohdintii hore ha durkin, Beeraha agoommadana ha dhex gelin,
+{23:11} Waayo, bixiyahoodu waa xoog badan yahay; Oo isaga ayaa dacwadooda kugu qaadi doona.
+{23:12} Qalbigaaga edbinta u jeedi, Oo dhegahana erayada aqoonta.
+{23:13} Ilmaha edbin ha u diidin, Waayo, haddaad isaga ul ku garaacdid, ma dhiman doono.
+{23:14} Ul baad isaga ku garaaci doontaa, Oo naftiisaad She'ool ka samatabbixin doontaa.
+{23:15} Wiilkaygiiyow, haddii qalbigaagu caqli leeyahay, Qalbigayguna wuu farxi doonaa.
+{23:16} Haah, oo xataa uurkaygu wuu rayrayn doonaa, Markay bushimahaagu wax qumman ku hadlaan.
+{23:17} Qalbigaagu yaanu dembilayaal ka hinaasin, Laakiinse maalinta oo dhan Rabbiga ka cabso.
+{23:18} Waayo, hubaal waxaa jira abaalgud, Oo rajadaaduna kaama go'i doonto.
+{23:19} Wiilkaygiiyow, i maqal, oo caqli yeelo, Oo qalbigaagana jidka ku toosi.
+{23:20} Ha dhex joogin khamriyacabyada Iyo kuwa hunguriweynaanta hilibka u cuna,
+{23:21} Waayo, kii sakhraan ah iyo kii hunguri weynuba way caydhoobi doonaan, Oo lulona nin calal bay u xidhi doontaa.
+{23:22} Dhegayso aabbahaagii ku dhalay, Oo hooyadaana ha quudhsan markay gabowdo.
+{23:23} Runta soo iibso, oo ha sii iibin, Oo weliba waxaad ku sii darsataa xigmadda iyo edbinta iyo waxgarashada.
+{23:24} Kii xaq ah aabbihiis aad buu u farxi doonaa, Oo kii ilmo caqli leh dhalaana farxad buu ka heli doonaa.
+{23:25} Aabbahaa iyo hooyadaaba ha farxeen, Oo tii ku dhashayna ha rayrayso.
+{23:26} Wiilkaygiiyow, qalbigaaga i sii, Oo indhahaaguna jidadkayga ha dhawreen.
+{23:27} Waayo, dhillo waa booraan dheer, Oo naag qalaadna waa god cidhiidhi ah.
+{23:28} Sida tuug oo kale ayay u gabbataa, Oo waxay dadka ku dhex badisaa khaayinnada.
+{23:29} Bal yaa hoog leh? Oo yaa caloolxumo leh? Oo yaa murammo leh? Oo yaa calaacal badan leh? Oo yaa u dhaawacan sababla'aan? Oo yaa indho casaan ah leh?
+{23:30} Waa kuwa wakhti dheer ku raaga khamriga, Waana kuwa u taga inay doondoontaan khamri laysku daray.
+{23:31} Ha fiirin khamrigu markuu casaado, Markuu koobka ka dhex dhalaalo, Iyo markuu si wanaagsan u shubmayoba.
+{23:32} Ugu dambaysta wuxuu wax u qaniinaa sida abeesada, Oo sida jilbiskana wax buu u qaniinaa.
+{23:33} Indhahaagu waxay arki doonaan naago qalaad, Oo qalbigaaguna wuxuu ku hadli doonaa waxyaalo qalloocan.
+{23:34} Oo waxaad ahaan doontaa sida kan badda dhexdeeda jiifsada, Ama sida ka dakhalka dhaladiisa sare seexda.
+{23:35} Waxaad odhan doontaa, Wax bay igu dhufteen, laakiin waxba ima yeelin. Way i garaaceen, iskamana aanan garan; Bal goormaan toosi doonaa? Weli mar kalaan doonan doonaa.
+{24:1} Dad shar leh ha ka masayrin, Hana jeclaysan inaad iyaga la joogtid.
+{24:2} Waayo, qalbigoodu wuxuu ka fikiraa kharribaad, Oo bushimahooduna waxay ku hadlaan belaayo.
+{24:3} Guri wuxuu ku dhismaa xigmad, Wuxuuna ku taagnaadaa waxgarasho,
+{24:4} Qawladuhuna aqoontay kaga buuxsamaan Maal kasta oo qaali ah oo qurux badan.
+{24:5} Ninkii caqli lahu xoog buu leeyahay, Oo ninkii aqoon lahuna itaal buu sii korodhsadaa.
+{24:6} Waayo, waa inaad talo wanaagsan ku dagaallantaa, Oo waxaa taliyayaal badan la jirta nabadgelyo.
+{24:7} Xigmaddu nacaska way ka dheer tahay, Isagu xagga iridda afkiisa kuma kala qaado.
+{24:8} Kii ku fikira inuu xumaan sameeyo, Waxaa loogu yeedhi doonaa belaayo-sameeye.
+{24:9} Fikirka nacasnimadu waa dembi, Kii wax quudhsadaana waa u karaahiyo dadka.
+{24:10} Maalinta dhibaatada haddaad liicdid, Itaalkaagu waa yar yahay.
+{24:11} Samatabbixi kuwa dhimashada loo wadayo, Kuwa ku dhow in la gowracona dib uga qabo.
+{24:12} Haddaad tidhaahdid, Bal eeg, waxan ma aannu garanayn, Kan qalbiyada miisaamaa miyaanu ka fiirsanayn? Oo kan naftaada dhawraa miyaanu ogayn? Oo miyaanu isagu nin walba ugu abaalgudayn sida shuqulkiisu yahay?
+{24:13} Wiilkaygiiyow, malab cun, waayo, wuu wanaagsan yahay, Oo waxaad cuntaa awlallada malabka, taas oo kuu dhadhan macaan.
+{24:14} Oo xigmadda aqoonteeduna sidaasoo kalay naftaada u ahaan doontaa, Oo haddaad iyada heshid waxaa jiri doona abaalgud, Oo rajadaaduna ma go'i doonto.
+{24:15} Sida nin shar leh, ha u gabban kan xaqa ah gurigiisa, Oo rugtiisa nasashadana ha kharribin.
+{24:16} Waayo, nin xaq ahu toddoba goor buu dhacaa, wuuna soo sara kacaa haddana, Laakiinse kuwa sharka leh waxaa lagu afgembiyaa belaayo.
+{24:17} Ha rayrayn markuu cadowgaagu dhaco, Oo qalbigaaguna yaanu farxin markuu turunturoodo,
+{24:18} Waayo, waaba intaas oo Rabbigu taas arkaa, oo ay shar la ahaato indhihiisa, Oo uu dabadeedna cadhadiisa ka soo celiyaa isaga.
+{24:19} Xumaanfalayaasha aawadood ha isku dhibin, Kuwa sharka lehna ha ka masayrin,
+{24:20} Waayo, kii shar leh abaalgud ma heli doono, Oo laambadda xumaanfalayaashana waa la bakhtiin doonaa.
+{24:21} Wiilkaygiiyow, Rabbiga iyo boqorkaba ka cabso, Oo ha ku darsamin kuwa isrogrog badan,
+{24:22} Waayo, belaayadoodu si degdeg ah ayay u soo kici doontaa, Oo bal yaa yaqaan baabbi'inta labadoodaba?
+{i24:23} Erayada Kale Oo Kuwa Caqliga Leh
+{24:23} Oo weliba waxyaalahanuna waa wixii ay kuwa caqliga lahaa yidhaahdeen. In dadka garsooridda loogu kala eexdaa ma wanaagsana.
+{24:24} Kii kan shar leh ku yidhaahda, Xaq baad tahay, Dadyowga ayaa habaari doona, oo quruumuhuna way karhi doonaan isaga,
+{24:25} Laakiinse kuwii isaga canaantaa farxad bay yeelan doonaan, Oo dushoodana waxaa ku soo degi doonta barako wanaagsan.
+{24:26} Kii jawaab qumman ku jawaabaa Bushimuhuu dhunkadaa.
+{24:27} Shuqulkaaga dibadda ku hagaajiso, Oo beerta ku diyaarso, Oo dabadeedna gurigaaga dhiso.
+{24:28} Deriskaaga sababla'aan markhaati ha ku furin, Oo bushimahaagana ha ku khiyaanayn.
+{24:29} Hana odhan, Wixii uu igu sameeyey oo kale ayaan ku samayn doonaa, Oo ninkii sidii shuqulkiisu ahaa ayaan u abaalmarin doonaa.
+{24:30} Waxaan ag maray ninka caajiska ah beertiisa, Iyo ninka garaadka daran beercanabkiisa,
+{24:31} Oo bal eeg, kulligood waxaa ka baxay qodxan, Oo dhammaantoodna waxaa qariyey maraboob, Oo derbigoodii dhagaxa ahaana waa dumay.
+{24:32} Markaasaan eegay oo aad uga fiirsaday, Waan fiiriyey oo wax ka bartay.
+{24:33} Weliba in yar baad seexanaysaa, oo in yar baad gam'aysaa, Oo in yar baad gacmaha hurdo u laabaysaa,
+{24:34} Haddaba caydhnimo waa kuu iman doontaa sida tuug oo kale, Oo baahina sida nin hub sita oo kale.
+{i25:1} Maahmaahyadii Kale Ee Sulaymaan
+{25:1} Oo weliba kuwanuna waa maahmaahyadii Sulaymaan, Oo boqorkii Yahuudah oo Xisqiyaah ahaa raggiisii ay soo guuriyeen.
+{25:2} Waa u ammaan Ilaah inuu xaal qariyo, Laakiinse waa u ammaan boqorrada inay xaal baadhaan.
+{25:3} Sida samadu u sarrayso, oo dhulkuna u gun dheer yahay, Ayaan qalbiga boqorrada loo baadhi karin.
+{25:4} Lacagta wasakhda ka qaad, Oo dabadeedna waxaa lacagshubaha uga soo bixi doona weel.
+{25:5} Boqorka hortiisa kuwa sharka leh ka fogee, Oo carshigiisuna xaqnimuu ku taagnaan doonaa.
+{25:6} Ha isweynweynayn boqorka hortiisa, Oo kuwa waaweyn meeshoodana ha istaagin.
+{25:7} Amiirkii aad indhahaaga ku aragtay Intii hortiisa lagu hoosaysiin lahaa, Waxaa kuu wanaagsan iyadoo lagu yidhaahdo, Halkan sare kaalay.
+{25:8} Dirir degdeg ha ugu bixin, Waaba intaasoo aad ugu dambaysta garan weydaa waxaad samayn lahayd, Markii uu deriskaagu ku ceebeeyey dabadeed.
+{25:9} Dacwadaada deriskaaga kala dood, Laakiinse mid kale xaalkiisa qarsoon ha sheegin,
+{25:10} Waaba intaas oo uu ku caayaa kii maqlaa, Oo aanay ceebtaadu kaa hadhin.
+{25:11} Hadalkii si hagaagsan loogu hadlaa Wuxuu la mid yahay tufaaxyo dahab ah oo lagu dhex sameeyey taswiiro lacag ah.
+{25:12} Kii caqli leh oo wax canaantaa wuxuu dhegta wax maqasha oo addeecda ula mid yahay Hilqado dahab ah iyo wax laysku sharraxo oo dahab saafiya ah.
+{25:13} Wargeeyihii aamin ahu wuxuu kuwii isaga soo diray ula mid yahay Qabowga barafka cad oo wakhtiga beergooyska, Waayo, isagu wuxuu qabowjiyaa nafta sayidyadiisa.
+{25:14} Ku alla kii hadiyad been ah isku faaniyaa Wuxuu la mid yahay daruuro iyo dabayl aan roob lahayn.
+{25:15} Waxaa xaakin wax lagu oggolaysiiyaa dulqaadasho badan, Carrab macaanuna laftuu jebiyaa.
+{25:16} Malab ma heshay? In kugu filan oo keliya ka cun, Waaba intaas oo intaad ka dheregto aad soo hunqaacdaaye.
+{25:17} Cagtaadu ha ku yaraato guriga deriskaaga, Waaba intaasoo uu kaa daalaa oo uu ku necbaadaaye.
+{25:18} Ninkii deriskiisa marag been ah ku furaa Waa sida budh iyo seef iyo fallaadh af badan oo kale.
+{25:19} In wakhtiga dhibaatada nin aaminlaawe ah laysku halleeyo Waa sida ilig jaban iyo cag murkacatay oo kale.
+{25:20} Kii qalbi murugaysan u gabyaa Waa sida mid maalin qabow huwiska iska qaada iyo sida khal soodhe lagu shubo oo kale.
+{25:21} Cadowgaagu hadduu gaajaysan yahay, wax uu cuno sii, Hadduu harraadsan yahayna waraabi,
+{25:22} Waayo, dhuxulo dab ah ayaad madaxiisa ku tuuli doontaa, Oo Rabbiguna waa kuu abaalgudi doonaa.
+{25:23} Dabaysha woqooyi roob bay keentaa, Sidaas oo kale carrabkii xan badanna weji cadhaysan buu keenaa.
+{25:24} In guriga dushiisa dhinac laga joogo ayaa ka roon In guri weyn naag muran badan lala joogo.
+{25:25} Warkii wanaagsan oo dal fog ka yimaadaa Waa sida biyo qabow ay naf harraadsan u yihiin oo kale.
+{25:26} Ninkii xaq ah ee kii shar leh isu dhiibaa Waa sida durdur qasmay iyo sida il biyood oo wasakhowday oo kale.
+{25:27} In malab badan la cunaa ma wanaagsana, Sidaas oo kalena in ammaan la doondoontaa ammaan ma aha.
+{25:28} Kii aan ruuxiisa u talin karinu Waa sida magaalo duntay oo aan derbi lahayn oo kale.
+{26:1} Sida wakhtiga kulul aan baraf cad ugu habboonayn, oo wakhtiga beergooyska aan roob ugu habboonayn, Ayaan sharaf nacas ugu habboonayn.
+{26:2} Sida shimbir iska wareegaysa iyo sida dabafallaadh iska duulaysa, Ayaan habaarkii sababla'aan ahu cidna ugu dhacayn.
+{26:3} Jeedal faras buu ku habboon yahay, dacayna dameer, Ulina dhabarka nacaska.
+{26:4} Nacas ha ugu jawaabin sida nacasnimadiisu tahay, Waaba intaasoo aad sidiisa oo kale noqotaaye.
+{26:5} Nacas ugu jawaab sida nacasnimadiisu tahay, Waaba intaasoo uu isla caqli weynaadaaye.
+{26:6} Kii nacas gacantiis farriin u sii dhiibaa Cagahuu iska gooyaa oo khasaaruu cabbaa.
+{26:7} Sida lugaha curyaanku u laalaadaan Ayuu masaalkuna u yahay afka nacasyada.
+{26:8} Kii nacas sharaf siiyaa Wuxuu la mid yahay mid wadhaf dhagax ku xidha oo kale.
+{26:9} Sida qodaxdu u dhex gasho sakhraan gacantiis, Ayuu masaalkuna u yahay afka nacasyada.
+{26:10} Kii nacaska ama kuwa jidka maraya kiraystaa Waa sida qaansoole dadka oo dhan dhaawaca oo kale.
+{26:11} Nacas nacasnimadiisa ku noqnoqdaa Waa sida eey mantaggiisa ku noqnoqda oo kale.
+{26:12} Nin isla caqli weyn ma aragtay? Waxaa isaga ka rajo roon nacas.
+{26:13} Ninkii caajis ahu wuxuu yidhaahdaa, Libaax baa waddada jooga; Libaax baa jidka taagan.
+{26:14} Sida albaabku birihiisa ugu noqnoqdo, Ayaa kii caajis ahuna sariirtiisa isugu rogrogaa.
+{26:15} Kii caajis ahu wuxuu gacantiisa geliyaa xeedhadiisa, Oo inuu afkiisa ku soo celiyona waa ku dhib isaga.
+{26:16} Kii caajis ahu waa iskala caqli badan yahay Toddoba nin oo xigmad ku jawaabi karta.
+{26:17} Kii isagoo jidka iska maraya isku dhex dara dirir aanu waxba ku lahayn, Wuxuu la mid yahay mid eey dhegaha qabta oo kale.
+{26:18} Sida nin waalan oo rida dab, Iyo fallaadho, iyo dhimasho,
+{26:19} Ayuu yahay kii intuu deriskiisa khiyaaneeyo, Haddana yidhaahda, Miyaanan cayaarayn?
+{26:20} Xaabola'aanta dabku waa bakhtiyaa, Oo meeshii aan mid xan badanu jooginna muranku waa ka joogsadaa.
+{26:21} Sida dhuxuli raran u sii shiddo, qoryona dab u sii belbeliyaan, Ayuu ninkii muran badanuna dirir u sii kiciyaa.
+{26:22} Kii xan badan erayadiisu waa sida cunto macaan, Oo waxay ku degaan meelaha caloosha ugu hooseeya.
+{26:23} Bushimihii macaan iyo qalbigii shar lehba Waxay la mid yihiin weel dhoobo ah oo lagu dahaadhay lacag wasakhdeed.
+{26:24} Kii wax necebu bushimihiisuu isku yeelyeelaa, Laakiinse uurkiisuu khiyaano ku kaydsadaa.
+{26:25} Markuu si wacan u hadlo ha rumaysan, Waayo, waxaa qalbigiisa ku jira toddoba karaahiyo.
+{26:26} In kastoo nacaybkiisu khiyaano isku daboolo, Xumaantiisa ayaa shirka lagu hor muujin doonaa.
+{26:27} Ku alla kii bohol qodaaba isagaa ku dhex dhici doona, Oo kii dhagax giringiriyana, isaguu ku soo rogman doonaa.
+{26:28} Carrabkii been sheega wuxuu neceb yahay kuwuu dhaawacay, Oo afkii wax faaniyaana wuxuu ka shaqeeyaa baabba'.
+{27:1} Berrito ha ku faanin, Waayo, ma ogid waxay maalinu keeni doonto.
+{27:2} Mid kale ha ku faaniyo oo yaanu afkaagu ku faanin, Shisheeye ha ku ammaano, oo yaanay bushimahaagu ku ammaanin.
+{27:3} Dhagax waa culus yahay, oo cammuuduna way miisaan weyn tahay, Laakiinse waxaa labadoodaba ka sii culus nacas cadhadiis.
+{27:4} Cadho waa naxariisdarro, xanaaqna waa daad, Laakiinse bal yaa hinaaso is-hor taagi kara?
+{27:5} Canaantii bayaan ahu Waa ka wanaagsan tahay jacaylkii qarsoon.
+{27:6} Saaxiib nabrihiisu waa daacadnimo, Laakiinse cadow dhunkashooyinkiisu waa khiyaano miidhan.
+{27:7} Naftii dheregsanu xataa awlallada malabka waa ka yaqyaqsataa, Laakiinse naftii gaajaysan wax kasta oo qadhaadhuba way u macaan yihiin.
+{27:8} Ninkii hoygiisa ka warwareegaa Waa sida shimbir buulkeeda ka warwareegta oo kale.
+{27:9} Saliidda iyo cadarku qalbigay ka farxiyaan, Sidaas oo kalena waxaa nin ka farxiya macaanka saaxiibkiis oo ka yimaada talada qalbiga.
+{27:10} Ha ka tegin saaxiibkaa iyo aabbahaa saaxiibkiis toona, Oo maalintii masiibadaadana guriga walaalkaa ha tegin, Deris kuu dhowu waa ka wanaagsan yahay walaal kaa fog.
+{27:11} Wiilkaygiiyow, caqli yeelo, oo qalbigayga ka farxi, Si aan ugu jawaabo kii i caayaba.
+{27:12} Ninkii miyir lahu sharkuu arkaa, wuuna dhuuntaa, Laakiinse garaadlaawayaashu way iska sii maraan, oo waana la taqsiiraa.
+{27:13} Kii qof qalaad dammiinta dharkiisa ka qaad, Oo kii naag qalaad dammiintana isaga rahmad ahaan u hay.
+{27:14} Kii intuu aroor hore kaco saaxiibkiis cod dheer ugu duceeya, Waxaa loo qaadan doonaa habaar.
+{27:15} Maalin roobaabeed dhibicyadeeda aan kala go'in Iyo naag muran badanu waa isku mid.
+{27:16} Ku alla kii iyada celiyaa, dabayshuu celiyaa. Gacantiisa midigna saliid bay qabataa.
+{27:17} Bir baa bir afaysa, Oo sidaas oo kale nin baa saaxiibkiis afeeya.
+{27:18} Ku alla kii berde xannaanaystaa midhihiisuu cuni doonaa. Oo kii sayidkiisa dhawrana waa la murwayn doonaa.
+{27:19} Sida fool biyaha dhexdooda fool uga muuqdo, Ayaa nin qalbigiisu nin kale ugu muuqdaa.
+{27:20} She'ool iyo halligaadu weligood ma dhergaan, Dadka indhihiisu weligood ma dhergaan.
+{27:21} Weelka lacagta lagu safeeyo lacagtaa iska leh, oo foornadana dahabkaa iska leh, Sidaas oo kalena nin waxaa lagu tijaabiyaa ammaantiisa.
+{27:22} In kastoo aad nacas tib iyo mooye hadhuudh kula tuntid, Weliba nacasnimadiisu ka tegi mayso isaga.
+{27:23} Aad ugu dadaal inaad ogaatid xaalka adhigaaga, Oo lo'daadana si wanaagsan u ilaali.
+{27:24} Waayo, maalku weligiis siima raago, Taajkuna ab ka ab miyuu waaraa?
+{27:25} Cawska qallalan markii la gooyo mid cagaar ah oo jilicsan baa soo muuqda, Oo dhalatada buurahana waa la soo urursadaa.
+{27:26} Baraarku waa kuu dhar, Oo adhiguna waa kuu qiimihii beerta.
+{27:27} Waxaa jiri doona caano riyaad oo cunto ugu filan adiga iyo reerkaagaba, Iyo weliba masruufka gabdhaha kuu shaqeeya.
+{28:1} Kuwa sharka lahu waxay cararaan iyadoo aan ciduna eryanayn, Laakiinse kuwa xaqa ahu waxay u dhiirran yihiin sida libaax oo kale.
+{28:2} Waddan xadgudubkiisa aawadiis amiirradu way badan yihiin, Laakiinse ninkii waxgarasho iyo aqoon leh dowladdiisu way sii raagtaa.
+{28:3} Miskiin masaakiinta dulmaa Waa sida roob dhulka xaadha oo aan cunto ka tegin.
+{28:4} Kuwa sharciga ka tagaa waxay ammaanaan kuwa sharka leh, Laakiinse kuwa sharciga dhawra ayaa iyaga la dirira.
+{28:5} Nimanka sharka lahu garsooridda ma gartaan, Laakiinse kuwa Rabbiga doondoonaa wax walbay gartaan.
+{28:6} Kii jidad qalloocan ku socda, in kastoo uu taajir yahay, Waxaa ka roon miskiinka daacadnimadiisa ku socda.
+{28:7} Ku alla kii sharciga dhawraa waa wiil caqli leh, Laakiinse kii raaca kuwa cirta weyn, aabbihiisuu ceebeeyaa.
+{28:8} Kii korsaar iyo ribo maalkiisa ku korodhsadaa, Wuxuu u ururin doonaa mid masaakiinta u naxariista.
+{28:9} Kii dhegtiisa ka leexiya inuu sharciga maqlo, Xataa baryootankiisu waa karaahiyo.
+{28:10} Ku alla kii kuwa xaqa ah jid shar ah ku ambiyaa, Isagaa ku dhici doona godkiisa, Laakiinse kuwa qummanu wax wanaagsan bay dhaxli doonaan.
+{28:11} Taajirku waa isla caqli weyn yahay, Laakiinse miskiinka waxgarashada leh ayaa isaga kashifa.
+{28:12} Kuwa xaqa ahu markay guulaystaan, waxaa jirta ammaan weyn, Laakiinse markii kuwa sharka lahu sara kacaan dadku waa dhuuntaa.
+{28:13} Kii xadgudubyadiisa qariyaa ma liibaani doono, Laakiinse kii qirta oo haddana ka tagaa, naxariis buu heli doonaa.
+{28:14} Ninkii mar kasta cabsadaa waa barakaysan yahay, Laakiinse kii qalbigiisa sii adkeeyaa masiibuu ku dhici doonaa.
+{28:15} Taliyihii shar lahu wuxuu dadka masaakiintaa ku yahay Sida libaax ciyaya iyo sida orso weerar ah oo kale.
+{28:16} Amiirkii garaaddaranu waa nin dulun weyn, Laakiinse kii neceb faa'iidada xaqdarrada ah cimrigiisuu dheerayn doonaa.
+{28:17} Ninkii nin dhiiggiis qabaa Wuxuu u carari doonaa godka, oo ninna yaanu ka joojin.
+{28:18} Ku alla kii si qumman u socda waa la samatabbixin doonaa, Laakiinse kii si qalloocan laba jid ugu socdaa haddiiba wuu dhici doonaa.
+{28:19} Kii dhulkiisa beertaa, cunto badan buu ka dhergi doonaa, Laakiinse kii waxmatarayaal raacaa wuxuu ka dhergi doonaa caydhnimo.
+{28:20} Ninkii aamin ahu aad buu u barakoobi doonaa, Laakiinse kii taajirnimo ku degdegaa ma taqsiir la'aan doono.
+{28:21} Ma wanaagsana in dadka loo kala eexdo, Iyo inuu nin xabbad kibis ah u xadgudbo toona.
+{28:22} Kii taajirnimo ku degdegaa waa qumay, Mana oga inuu caydhoobi doono.
+{28:23} Kii nin canaantaa wuxuu marka dambe heli doonaa Raallinimo ka badan kan carrabka ku faaniya.
+{28:24} Kii aabbihiis ama hooyadiis wax ka dhaca oo haddana yidhaahda, Taasu xadgudub ma aha, Wuxuu saaxiib la yahay kii wax dumiya.
+{28:25} Kii hunguri weynu muran buu kiciyaa, Laakiinse kii Rabbiga isku halleeya waa la barwaaqaysiin doonaa.
+{28:26} Kii qalbigiisa isku halleeyaa waa nacas, Laakiinse ku alla kii si caqli ah u socda waa la samatabbixin doonaa.
+{28:27} Kii miskiinka wax siiyaa ma baahan doono, Laakiinse kii indhaha ka qarsada aad baa loo habaari doonaa.
+{28:28} Markii kuwa sharka lahu kacaan dadku waa dhuuntaa, Laakiinse markay halligmaan, kuwa xaqa ahu way sii kordhaan.
+{29:1} Kii inta wax badan la canaanto ka madax adkaadaa, Dhaqso buu u jabi doonaa, dawona ma leh.
+{29:2} Markii kuwa xaqa ahu amarka haystaan, dadku wuu reyreeyaa, Laakiinse markii kuwa sharka lahu xukunka wataan, dadku wuu taahaa.
+{29:3} Kii xigmad jecelu aabbihiisuu ka farxiyaa, Laakiinse kii dhillooyin raacaa maalkiisuu khasaariyaa.
+{29:4} Boqorku gar buu dalka ku dhisaa, Laakiinse kii laaluush jecelu wuu dumiyaa.
+{29:5} Ninkii deriskiisa faaniyaa Shabag dabin ah ayuu cagihiisa hor dhigaa.
+{29:6} Ninkii shar ah xadgudubkiisa waxaa ku jira dabin, Laakiinse kii xaq ahu waa iska heesaa oo reyreeyaa.
+{29:7} Kii xaq ahu wuxuu ka war hayaa dacwadda masaakiinta, Laakiinse kii shar ahu ma yaqaan aqoontaas.
+{29:8} Kuwa wax quudhsadaa magaalay dab qabadsiiyaan, Laakiinse kuwa caqliga lahu cadhay qabowjiyaan.
+{29:9} Haddii nin caqli leh nin nacas ah la doodo, Nasasho ma jirto hadduu cadhoodo iyo hadduu qosloba.
+{29:10} Dhiigyocabyadu kii kaamil ah way neceb yihiin, Laakiinse kuwa qumman waxay doondoonaan inay naftiisa badbaadshaan.
+{29:11} Nacasku cadhadiisa oo dhan buu soo saaraa, Laakiinse kii caqli lahu dib buu u ceshadaa, wuuna aamusnaadaa.
+{29:12} Haddii taliye been dhegaysto, Midiidinyadiisa oo dhammu waa wada shar miidhan.
+{29:13} Miskiinka iyo khaayinku way wada kulmaan, Oo labadoodaba Rabbigu indhahooduu iftiimiyaa.
+{29:14} Boqorkii daacadnimo masaakiinta ugu xukuma, Carshigiisu wuu dhisnaan doonaa weligiisba.
+{29:15} Usha iyo canaantu caqli bay keenaan, Laakiinse ilmihii layska daayaa ceeb buu hooyadiis u soo jiidaa.
+{29:16} Markii kuwa sharka lahu bataan, xadgudub baa sii kordha, Laakiinse kuwa xaqa ah ayaa dhiciddooda arki doona.
+{29:17} Wiilkaaga edbi, oo isna wuu ku nasin doonaa, Haah, naftaada wuu ka farxin doonaa.
+{29:18} Markii aan muujinu jirin dadku waa halligmaa, Laakiinse kii sharciga dhawraa waa barakaysan yahay.
+{29:19} Addoon hadal kuma edeb yeesho, Waayo, in kastoo uu garanayo ka jawaabi maayo.
+{29:20} Ma aragtay nin hadalkiisa ku degdega? Kaas waxaa ka rajo roon nacas.
+{29:21} Kii addoonkiisa si wanaagsan u soo koriya tan iyo yaraantiisa, Ugu dambaysta wiil buu u noqon doonaa.
+{29:22} Ninkii xanaaq badanu muran buu kiciyaa. Ninkii cadho kululuna xadgudub buu badsadaa.
+{29:23} Nin kibirkiisu hoos buu u dejin doonaa, Laakiinse kii is-hoosaysiiyaa sharaf buu heli doonaa.
+{29:24} Ku alla kii tuug la shirkoobaa naftiisuu nacaa, Habaarkuu maqlaa, laakiinse waxba kama sheego.
+{29:25} Dadka ka cabsashadiisu wax bay dabtaa, Laakiinse kii Rabbiga isku halleeyaa wuu nabad geli doonaa.
+{29:26} Kuwo badan baa taliyaha raallinimo ka doona, Laakiinse dadka garsooriddiisu waxay ka timaadaa xagga Rabbiga.
+{29:27} Ninkii xaqdaranu waa u karaahiyo kuwa xaqa ah, Oo kii jidka ku qummanuna waa u karaahiyo kii shar ah.
+{i30:1} Erayadii Aguur
+{30:1} Kuwanu waa erayadii Aaguur ina Yaaqeh, oo ahaa reer Masaa. Ninku wuxuu la hadlay Iitii'eel, iyo xataa Iitii'eel iyo Ukaal, oo ku yidhi,
+{30:2} Hubaal anigu waan ka doqonnimo weynahay nin kastaba, Oo dad waxgarashadiisana ma lihi.
+{30:3} Xigmad ma aan baran, Aqoonta Kan quduuska ahna ma aqaan.
+{30:4} Yaa samada u baxay, oo ka soo degay? Yaa dabaysha gacmihiisa ku soo ururshay? Yaa biyaha dharkiisa ku guntay? Yaa dhulka darafyadiisa oo dhan dhisay? Magicii, wiilkiisana magicii, haddaad taqaan?
+{30:5} Eray kasta oo Ilaah waa daahir; Oo isagu wuxuu gaashaan u yahay kuwa isaga aaminsan.
+{30:6} Erayadiisa waxba ha ku darin, Waaba intaas oo uu ku canaantaa, oo lagu ogaadaa inaad beenaaleh tahay.
+{30:7} Laba waxyaalood ayaan ku weyddiistay, Iyaga ha ii diidin intaanan dhiman.
+{30:8} Wax aan waxtar lahayn iyo been iga fogee, Oo caydhnimo iyo taajirnimo midna ha i siin. Igu quudi cunto aanan ka maarmin,
+{30:9} Waaba intaasoo intaan dhergo, aan adiga ku inkiraaye, oo aan idhaahdaa, Waa ayo Rabbigu? Amase waaba intaasoo aan miskiin noqdaa, oo intaan wax xado, Aan magaca Ilaahayga si been ah ugu hadal qaadaaye.
+{30:10} Addoon sayidkiisa xan ha uga sheegin, Waaba intaas oo uu ku habaaraa, oo eed lagugu helaaye.
+{30:11} Waxaa jira farcan aabbahood inkaara, Oo aan hooyadoodna u ducayn.
+{30:12} Waxaa jira farcan isla daahirsan, Oo weliba aan nijaastoodii ka maydhmin.
+{30:13} Waxaa jira farcan indhahoodu aad u sarreeyaan! Oo daboolka indhahoodana kor bay u qaadaan.
+{30:14} Waxaa jira farcan ilkahoodu sida seefo oo kale yihiin, oo gowsahooduna sida mindiyo oo kale yihiin, Si ay masaakiinta dhulka uga baabbi'iyaan, oo ay kuwa baahanna dadka dhexdiisa uga dhammeeyaan.
+{30:15} Culaacushu waxay leedahay laba gabdhood, oo leh, Na sii, Na sii. Waxaa jira saddex waxyaalood oo aan weligood dhergin, Haah, oo afar aan odhan, Bes, nagu filan;
+{30:16} Waxaana weeye qabriga, iyo maxalka aan wax dhalayn, Iyo dhulka aan biyo ka dhergayn, Iyo dabka aan odhan, Bes, igu filan.
+{30:17} Isha aabbaheed ku majaajiloota, Oo quudhsata inay hooyadeed addeecdo, Waxaa la soo bixi doona tukayaasha dooxada, Oo waxaa cuni doona gorgorrada.
+{30:18} Waxaa jira saddex waxyaalood oo anigu aan aad ula yaabo, Haah, afar baan garan waayay,
+{30:19} Oo iyana waxaa weeye siduu gorgor hawada u duulo, Siduu masna dhagax ugu socdo, Siday doonnina badda u maaxdo, Iyo siduu nin gabadh ula macaamiloodo.
+{30:20} Sidaas oo kale waxaa ah naag dhillo ah sideeda, Taasoo intay wax cunto afka tirtirta, Oo haddana tidhaahda, Anigu waxba xumaan ma aan samayn.
+{30:21} Saddex waxyaalood ayaa dhulku la gariiraa, Oo afar baanu qaadan karin,
+{30:22} Waxaana weeye addoon markuu boqor noqdo, Iyo nacas markuu cunto ka dhergo,
+{30:23} Iyo naag la nacay markay guursato, Iyo gabadh addoon ahu markay sayidaddeedii meesheeda gasho.
+{30:24} Waxaa jira afar waxyaalood oo dhulka ku yaryar, Laakiinse aad iyo aad u caqli badan.
+{30:25} Qudhaanjadu waa sida dad aan xoog badnayn, Laakiinse waxay cuntadooda soo diyaarsadaan guga.
+{30:26} Walooyinku waa qoon taagdaran, Oo haddana waxay guryahooda ka samaystaan dhagaxyada dhexdooda;
+{30:27} Ayaxu boqor ma leh, Weliba dhammaantood guuto guuto ayay u socdaan.
+{30:28} Qorratadu waa wax gacanta lagu qaban karo, Weliba waxay joogtaa guryaha boqorrada.
+{30:29} Waxaa jira saddex waxyaalood oo si fiican u socda, Haah, oo afar waa socod wanaagsan yihiin.
+{30:30} Aar libaax oo ah kan xayawaanka ugu xoogga badan, Oo aan weliba midna dib uga noqon,
+{30:31} Diiqa xarragoonaya, iyo orgiga; Iyo boqorka aanay dadku gees ka ahayn.
+{30:32} Haddaad nacasnimo samaysay adoo isa sarraysiinaya, Ama aad wax shar ah ka fikirtay, Gacanta afka saar.
+{30:33} Waayo, caanihii la lulaa subag bay soo saaraan, Sankii la maroojiyaana dhiig buu keenaa, Sidaas oo kalena cadhadii la qasbaa dirir bay keentaa.
+{i31:1} Erayadii Boqor Lemuu'eel
+{31:1} Kuwanu waa erayadii Lemuu'eel oo ahaa boqorkii Masaa ay hooyadiis bartay isaga.
+{31:2} Waa maxay, wiilkaygiiyow? Waa maxay, wiilkii uurkaygow? Waa maxay, wiilkii nidarradaydow?
+{31:3} Xooggaaga naago ha siinin, Dawyadaadana ha siinin kuwa boqorrada dumiya.
+{31:4} Lemuu'eelow, uma eka boqorrada, uma eka boqorradu inay khamri cabbaan, Oo amiirradana uma eka inay waxa lagu sakhraamo damcaan,
+{31:5} Waaba intaasoo ay cabbaan, oo ay sharciga illoobaan, Oo ay kuwa dhibaataysan midkood gartiisa qalloociyaan.
+{31:6} Waxa lagu sakhraamo siiya ka dhimashada ku dhow, Oo khamrigana waxaad siisaan kuwa naftoodu la qadhaadhaatay.
+{31:7} Ha cabbo, oo caydhnimadiisa ha illoobo, Oo dhibaatadiisana yaanu mar dambe soo xusuusan innaba.
+{31:8} Afka u fur carrablaawaha aawadiis, Si aad kuwa baabba'aya oo dhan u xaq mariso.
+{31:9} Afka fur, oo si xaq ah u garsoor, Oo miskiinka iyo saboolka baahanba gartooda u qaad.
+{i31:10} Naagta Dabiicadda Wanaagsan Leh
+{31:10} Bal yaa heli kara naag wanaagsan? Waayo, qiimaheedu waa ka sii badan yahay xataa luul.
+{31:11} Waayo, qalbiga ninkeedu iyaduu isku halleeyaa, Oo isagu innaba uma baahnaan doono wax booli ah.
+{31:12} Cimrigeeda oo dhan isaga wanaag bay u samayn doontaa, Oo innaba xumaan kuma samayn doonto.
+{31:13} Waxay doondoontaa dhogor idaad iyo geed linen la yidhaahdo. Oo iyadoo raalli ku ah ayay gacmaheeda ku shaqaysaa.
+{31:14} Iyadu waa sida doonniyaha baayacmushtariga, Oo cuntadeeda waxay ka keentaa meel fog.
+{31:15} Waxay kacdaa iyadoo weli ay habeennimo tahay, Oo dadka reerkeeda ayay cunto siisaa, Oo gabdhaheedana hawshooday siisaa,
+{31:16} Iyadu waxay ka fikirtaa beer, wayna soo iibsataa, Oo midhaha gacmaheeda ayay beercanab ku beerataa.
+{31:17} Waxay dhexda ku xidhataa xoog, Oo gacmaheedana way xoogaysaa.
+{31:18} Waxay eegtaa in baayacmushtarigeedu wanaagsan yahay; Laambaddeeduna habeenkii ma bakhtido.
+{31:19} Waxay gacmaheeda ku fidisaa dunmiiqa, Oo sacabbadeeduna waxay qabtaan usha wareegta.
+{31:20} Waxay sacabkeeda u furtaa miskiinka, Oo gacmaheedana waxay u fidisaa saboolka baahan.
+{31:21} Dadka reerkeeda ugama cabsato dhaxanta barafka cad, Waayo, xaaskeeda oo dhammu waxay wada qabaan dhar labanlaab ah.
+{31:22} Waxay samaysataa durraaxado daabac leh, Oo dharkeeduna waxaa weeye dhar aad u wanaagsan oo guduudan.
+{31:23} Ninkeedana waxaa laga yaqaan irdaha magaalada, Markuu dhex fadhiisto waayeellada waddanka.
+{31:24} Waxay samaysaa dhar wanaagsan, wayna iibisaa, Oo baayacmushtarigana waxay ka iibisaa boqorro dhexda lagu xidho.
+{31:25} Xoog iyo sharaf ayaa iyada dhar u ah; Oo wakhtiga soo socda way ku qososhaa.
+{31:26} Afkeeda waxay u kala qaaddaa xigmad; Oo carrabkeedana waxaa saaran sharciga raxmadda.
+{31:27} Waxay aad u xannaanaysaa reerkeeda, Oo kibista caajisnimadana ma cunto.
+{31:28} Carruurteedu way kacaan oo waxay ugu yeedhaan tan barakaysan, Oo weliba ninkeeduna wuu ammaanaa, isagoo leh;
+{31:29} Dumar badan baa wanaag sameeyey, Laakiinse adigu waad ka sii wanaagsan tahay dhammaantood.
+{31:30} Suuradwacnaantu waa khiyaano miidhan, oo quruxduna waa ceeryaamo oo kale, Laakiinse naagtii Rabbiga ka cabsata waa la ammaani doonaa.
+{31:31} Midhihii gacmaheeda wax ka siiya, Oo shuqulladeeduna iyada ha ku ammaaneen irdaha magaalada.

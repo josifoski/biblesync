@@ -1,0 +1,464 @@
+{i1:1} Saludo
+{1:1} Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y el hermano Sóstenes,
+{1:2} a la iglesia de Dios que está en Corinto, a los santificados en Cristo Jesús, llamados a ser santos con todos los que en cualquier lugar invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:
+{1:3} Gracia y paz a vosotros, de parte de Dios nuestro Padre y del Señor Jesucristo.
+{i1:4} Acción de gracias por dones espirituales
+{1:4} Doy gracias a mi Dios continuamente por vosotros, por la gracia de Dios que os fue dada en Cristo Jesús;
+{1:5} porque en todas las cosas fuisteis enriquecidos en él, en toda palabra y en todo conocimiento;
+{1:6} en la medida en que el testimonio acerca de Cristo ha sido consolidado en vosotros,
+{1:7} de tal manera que nada os falta en ningún don a los que esperáis anhelantes la revelación de nuestro Señor Jesucristo;
+{1:8} el cual también os afianzará hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo.
+{1:9} Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor.
+{i1:10} Exhortación a la unidad
+{1:10} Os exhorto, hermanos, por el nombre de nuestro Señor Jesucristo, a que habléis todos una misma cosa, y que no haya entre vosotros divisiones, sino que estéis perfectamente unidos en una misma mente y en un mismo parecer.
+{1:11} Porque he sido informado acerca de vosotros, hermanos míos, por los de Cloé, que hay entre vosotros contiendas.
+{1:12} Me refiero a que cada uno de vosotros dice: Yo soy de Pablo; y yo de Apolos; y yo de Cefas; y yo de Cristo.
+{1:13} ¿Acaso está dividido Cristo? ¿Fue crucificado Pablo por vosotros? ¿O fuisteis bautizados en el nombre de Pablo?
+{1:14} Doy gracias a Dios de que a ninguno de vosotros he bautizado, sino a Crispo y a Gayo,
+{1:15} para que nadie diga que fuisteis bautizados en mi nombre.
+{1:16} También bauticé a la familia de Estéfanas; por lo demás, no sé si he bautizado a algún otro.
+{1:17} Pues no me envió Cristo a bautizar, sino a predicar el evangelio; no con sabiduría de palabras, para que no se desvirtúe la cruz de Cristo.
+{i1:18} Cristo, poder y sabiduría de Dios
+{1:18} Porque el mensaje de la cruz es locura para los que se están perdiendo; pero para nosotros que somos salvos, es poder de Dios.
+{1:19} Pues está escrito: Destruiré la sabiduría de los sabios, Y desecharé el entendimiento de los entendidos.
+{1:20} ¿Dónde está el sabio? ¿Dónde está el letrado? ¿Dónde está el discutidor de este mundo? ¿No ha convertido Dios la sabiduría del mundo en necedad?
+{1:21} Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes mediante la locura de la predicación.
+{1:22} Puesto que los judíos piden señales, y los griegos buscan sabiduría;
+{1:23} pero nosotros predicamos a Cristo crucificado, para los judíos ciertamente tropezadero, y para los gentiles locura;
+{1:24} mas para aquellos que son llamados, así judíos como griegos, Cristo es poder de Dios, y sabiduría de Dios.
+{1:25} Porque lo insensato de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres.
+{1:26} Pues mirad, hermanos, vuestro llamamiento, que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles;
+{1:27} sino que escogió Dios lo necio del mundo, para avergonzar a los sabios; y escogió Dios lo débil del mundo, para avergonzar a lo fuerte;
+{1:28} y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es, para anular lo que es,
+{1:29} a fin de que nadie se jacte en su presencia.
+{1:30} Mas por obra suya estáis vosotros en Cristo Jesús, el cual nos ha sido hecho de parte de Dios sabiduría, justificación, santificación y redención;
+{1:31} para que, tal como está escrito: El que se gloría, gloríese en el Señor.
+{i2:1} Predicando a Cristo crucificado
+{2:1} Y yo, hermanos, cuando fui a vosotros, no fui anunciándoos el testimonio de Dios con excelencia de palabras o de sabiduría.
+{2:2} Pues resolví no saber entre vosotros cosa alguna sino a Jesucristo, y a éste crucificado.
+{2:3} Y yo me presenté ante vosotros con debilidad, y con temor y mucho temblor;
+{2:4} y ni mi palabra ni mi predicación fue con palabras persuasivas de humana sabiduría, sino con demostración del Espíritu y de poder,
+{2:5} para que vuestra fe no esté fundada en la sabiduría de los hombres, sino en el poder de Dios.
+{i2:6} La revelación por el Espíritu de Dios
+{2:6} Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este mundo, ni de los príncipes de este mundo, que van desapareciendo,
+{2:7} sino que hablamos sabiduría de Dios en misterio, la sabiduría oculta, la cual Dios predestinó antes de los siglos para nuestra gloria,
+{2:8} la que ninguno de los príncipes de este mundo conoció; porque si la hubieran conocido, no habrían crucificado al Señor de la gloria.
+{2:9} Antes bien, como está escrito: Cosas que el ojo no vio, ni el oído oyó, Ni han subido al corazón del hombre, Son las que Dios ha preparado para los que le aman.
+{2:10} Pero Dios nos las reveló a nosotros por medio del Espíritu; porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
+{2:11} Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoce las cosas de Dios, sino el Espíritu de Dios.
+{2:12} Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha otorgado gratuitamente,
+{2:13} lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las que enseña el Espíritu, acomodando lo espiritual a lo espiritual.
+{2:14} Pero el hombre natural no capta las cosas que son del Espíritu de Dios, porque para él son locura, y no las puede conocer, porque se han de discernir espiritualmente.
+{2:15} En cambio el espiritual discierne todas las cosas; pero él no es enjuiciado por nadie.
+{2:16} Porque ¿quién conoció la mente del Señor, para que pueda instruirle? Mas nosotros tenemos la mente de Cristo.
+{i3:1} Colaboradores de Dios
+{3:1} Y yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo.
+{3:2} Os di a beber leche, y no alimento sólido; porque aún no erais capaces, ni sois capaces todavía,
+{3:3} porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis según el modo humano?
+{3:4} Porque diciendo el uno: Yo ciertamente soy de Pablo; y el otro: Yo soy de Apolos, ¿no sois carnales?
+{3:5} ¿Qué, pues, es Pablo, y qué es Apolos? Servidores por medio de los cuales habéis creído; y eso según lo que a cada uno concedió el Señor.
+{3:6} Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios;
+{3:7} de modo que ni el que planta es algo, ni el que riega, sino Dios, que da el crecimiento.
+{3:8} Y el que planta y el que riega son una misma cosa; aunque cada uno recibirá su propia recompensa conforme a su propia labor.
+{3:9} Porque nosotros somos colaboradores de Dios, y vosotros sois labranza de Dios, edificio de Dios.
+{3:10} Conforme a la gracia de Dios que me ha sido dada, yo como perito arquitecto puse el fundamento, y otro edifica encima; pero cada uno mire cómo sobreedifica.
+{3:11} Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo.
+{3:12} Y si alguien edifica sobre este fundamento oro, plata, piedras preciosas, madera, heno, paja,
+{3:13} la obra de cada uno se hará manifiesta; porque el día la declarará, pues por el fuego será revelada; y el fuego mismo probará la calidad de la obra de cada uno.
+{3:14} Si permanece la obra de alguno que sobreedificó, recibirá recompensa.
+{3:15} Si la obra de alguno se quema, él sufrirá pérdida, si bien él mismo será salvo, aunque así como a través del fuego.
+{3:16} ¿No sabéis que sois santuario de Dios, y que el Espíritu de Dios mora en vosotros?
+{3:17} Si alguno destruye el santuario de Dios, Dios le destruirá a él; porque el santuario de Dios, el cual sois vosotros, es sagrado.
+{3:18} Nadie se engañe a sí mismo; si alguno entre vosotros se cree sabio según este mundo, hágase ignorante para que llegue a ser sabio.
+{3:19} Porque la sabiduría de este mundo es insensatez para con Dios; pues escrito está: Él atrapa a los sabios en la astucia de ellos.
+{3:20} Y otra vez: El Señor conoce los razonamientos de los sabios, que son vanos.
+{3:21} Así que, ninguno se jacte en los hombres; porque todo es vuestro:
+{3:22} sea Pablo, sea Apolos, sea Cefas, sea el mundo, sea la vida, sea la muerte, sea lo presente, sea lo por venir, todo es vuestro,
+{3:23} y vosotros de Cristo, y Cristo de Dios.
+{i4:1} El ministerio apostólico
+{4:1} Que todo hombre nos considere como servidores de Cristo, y administradores de los misterios de Dios.
+{4:2} Ahora bien, se requiere de los administradores, que cada uno sea hallado fiel.
+{4:3} Yo en muy poco tengo el ser enjuiciado por vosotros, o por tribunal humano; y ni aun yo me juzgo a mí mismo.
+{4:4} Porque aunque de nada tengo mala conciencia, no por eso quedo absuelto; pues el que me enjuicia es el Señor.
+{4:5} Así que, no juzguéis nada antes de tiempo, hasta que venga el Señor, el cual sacará a la luz también lo oculto de las tinieblas, y manifestará las intenciones de los corazones; y entonces cada uno recibirá su alabanza de parte de Dios.
+{4:6} Pero esto, hermanos, lo he presentado como ejemplo en mí y en Apolos por amor de vosotros, a fin de que de nosotros aprendáis lo de no propasarse de lo que está escrito, para que ni uno solo de vosotros se apasione el uno en contra del otro.
+{4:7} Porque ¿quién te distingue?, ¿o qué tienes que no hayas recibido? Y si lo recibiste, ¿por qué te glorías como si no lo hubieras recibido?
+{4:8} Ya estáis saciados, ya estáis ricos, sin nosotros reináis. ¡Y ojalá reinaseis, para que nosotros reinásemos también juntamente con vosotros!
+{4:9} Porque según pienso, Dios nos ha asignado a nosotros los apóstoles los últimos lugares, como a sentenciados a muerte; pues hemos llegado a ser espectáculo al mundo, a los ángeles y a los hombres.
+{4:10} Nosotros somos insensatos por amor de Cristo, mas vosotros prudentes en Cristo; nosotros débiles, mas vosotros fuertes; vosotros honorables, mas nosotros despreciados.
+{4:11} Hasta el momento presente padecemos hambre, tenemos sed, andamos mal vestidos, somos abofeteados, y no tenemos morada fija.
+{4:12} Nos fatigamos trabajando con nuestras propias manos; nos maldicen, y bendecimos; padecemos persecución, y la soportamos.
+{4:13} Nos difaman, y exhortamos; hemos venido a ser hasta ahora como la escoria del mundo, el desecho de todos.
+{4:14} No escribo esto para avergonzaros, sino para amonestaros como a hijos míos amados.
+{4:15} Porque aunque tengáis diez mil ayos en Cristo, no tenéis muchos padres; pues en Cristo Jesús yo os engendré por medio del evangelio.
+{4:16} Por tanto, os exhorto a que me imitéis.
+{4:17} Por esto mismo os he enviado a Timoteo, que es mi hijo amado y fiel en el Señor, el cual os recordará mi proceder en Cristo, de la manera que enseño en todas partes y en todas las iglesias.
+{4:18} Mas algunos están envanecidos, como si yo nunca hubiese de ir a vosotros.
+{4:19} Pero iré pronto a vosotros, si el Señor quiere, y conoceré, no las palabras, sino el poder de los que andan envanecidos.
+{4:20} Porque el reino de Dios no consiste en palabras, sino en poder.
+{4:21} ¿Qué queréis? ¿Iré a vosotros con vara, o con amor y espíritu de mansedumbre?
+{i5:1} Inmoralidad en la iglesia
+{5:1} Se oye como cosa cierta que hay entre vosotros fornicación, y tal fornicación cual ni aun se sabe que exista entre los gentiles; tanto que alguno tiene la mujer de su padre.
+{5:2} Y vosotros estáis envanecidos. ¿No deberíais más bien haber hecho duelo, para que fuese quitado de en medio de vosotros el que cometió tal acción?
+{5:3} Ciertamente yo, como ausente en cuerpo, pero presente en espíritu, ya como presente he juzgado al que ha cometido tal acción.
+{5:4} En el nombre de nuestro Señor Jesucristo, reunidos vosotros y mi espíritu, con el poder de nuestro Señor Jesucristo,
+{5:5} el tal sea entregado a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús.
+{5:6} No es buena vuestra jactancia. ¿No sabéis que un poco de levadura hace fermentar toda la masa?
+{5:7} Purificaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros.
+{5:8} Así que celebremos la fiesta, no con la vieja levadura, ni con la levadura de malicia y de maldad, sino con panes sin levadura, de sinceridad y de verdad.
+{5:9} Os escribí por carta, que no os juntéis con los fornicarios;
+{5:10} no en general con los fornicarios de este mundo, o con los avaros, o con los ladrones, o con los idólatras; pues en tal caso os sería necesario salir del mundo.
+{5:11} Más bien os escribí que no os juntéis con ninguno que, llamándose hermano, sea fornicario, o avaro, o idólatra, o maldiciente, o borracho, o ladrón; con el tal ni aun comáis.
+{5:12} Porque ¿qué me va a mí en juzgar a los que están fuera? ¿No juzgáis vosotros a los que están dentro?
+{5:13} Porque a los que están fuera, Dios los juzgará. Quitad, pues, a ese perverso de entre vosotros.
+{i6:1} Litigios delante de los incrédulos
+{6:1} ¿Se atreve alguno de vosotros, cuando tiene un asunto contra otro, a ir a juicio delante de los injustos, y no delante de los santos?
+{6:2} ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar los casos menos importantes?
+{6:3} ¿O no sabéis que hemos de juzgar a los ángeles? ¿Cuánto más las cosas de esta vida?
+{6:4} Si, pues, tenéis juicios sobre cosas de esta vida, poned para juzgar a los que son de menor estima en la iglesia.
+{6:5} Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno, que pueda juzgar entre sus hermanos,
+{6:6} sino que el hermano con el hermano pleitea en juicio, y esto ante los incrédulos?
+{6:7} De todos modos, ya es una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís más bien el agravio? ¿Por qué no sufrís más bien el ser defraudados?
+{6:8} Pero vosotros cometéis el agravio, y defraudáis, y esto a los hermanos.
+{6:9} ¿O no sabéis que los injustos no heredarán el reino de Dios? No os dejéis engañar; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales,
+{6:10} ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los estafadores, heredarán el reino de Dios.
+{6:11} Y esto erais algunos; mas ya habéis sido lavados, ya habéis sido santificados, ya habéis sido justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios.
+{i6:12} El cuerpo, templo del Espíritu
+{6:12} Todas las cosas me son lícitas, mas no todas son provechosas; todas las cosas me son lícitas, mas yo no me dejaré dominar de ninguna.
+{6:13} Los alimentos son para el vientre, y el vientre para los alimentos; pero tanto al uno como a los otros los inutilizará Dios. Pero el cuerpo no es para la fornicación, sino para el Señor, y el Señor para el cuerpo.
+{6:14} Y Dios, que levantó al Señor, también a nosotros nos levantará mediante su poder.
+{6:15} ¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Quitaré, pues, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
+{6:16} ¿O no sabéis que el que se une con una ramera, es un solo cuerpo con ella? Porque dice: Los dos vendrán a ser una sola carne.
+{6:17} Pero el que se une al Señor, es un solo espíritu con él.
+{6:18} Huid de la fornicación. Cualquier otro pecado que el hombre cometa, está fuera del cuerpo; mas el que fornica, peca contra su propio cuerpo.
+{6:19} ¿O no sabéis que vuestro cuerpo es santuario del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros?
+{6:20} Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios.
+{i7:1} Consejos sobre el matrimonio
+{7:1} En cuanto a las cosas de que me escribisteis, bien le está al hombre no tocar mujer;
+{7:2} pero a causa de las fornicaciones, cada uno tenga su propia mujer, y cada una tenga su propio marido.
+{7:3} El marido cumpla con la mujer el deber conyugal, y asimismo la mujer con el marido.
+{7:4} La mujer no tiene potestad sobre su propio cuerpo, sino el marido; ni tampoco tiene el marido potestad sobre su propio cuerpo, sino la mujer.
+{7:5} No os privéis el uno del otro, a no ser por algún tiempo de común acuerdo, para ocuparos sosegadamente en la oración; y volved a juntaros en uno, para que no os tiente Satanás a causa de vuestra incontinencia.
+{7:6} Mas esto lo digo por vía de concesión, no por mandamiento.
+{7:7} Quisiera más bien que todos los hombres estuviesen como yo; pero cada uno tiene su propio don de Dios, uno de un modo, y otro de otro.
+{7:8} Digo, pues, a los solteros y a las viudas, que les iría bien el quedarse como yo;
+{7:9} pero si no tienen don de continencia, cásense, pues mejor es casarse que estarse quemando.
+{7:10} Pero a los que están unidos en matrimonio, mando, no yo, sino el Señor: Que la mujer no se separe del marido;
+{7:11} y si se separa, quédese sin casar, o reconcíliese con su marido; y que el marido no abandone a su mujer.
+{7:12} Y a los demás yo digo, no el Señor: Si algún hermano tiene mujer que no sea creyente, y ella consiente en vivir con él, no la abandone.
+{7:13} Y si una mujer tiene marido que no sea creyente, y él consiente en vivir con ella, no lo abandone.
+{7:14} Porque el marido incrédulo es santificado en la mujer, y la mujer incrédula en el marido; pues de otra manera vuestros hijos serían inmundos, mientras que ahora son santos.
+{7:15} Pero si el incrédulo se separa, que se separe; pues no está el hermano o la hermana sujeto a servidumbre en semejante caso, sino que a paz nos llamó Dios.
+{7:16} Porque ¿qué sabes tú, oh mujer, si harás salvo a tu marido? ¿O qué sabes tú, oh marido, si harás salva a tu mujer?
+{7:17} Fuera de esto, cada cual se comporte como el Señor le repartió, y como Dios llamó a cada uno; y así lo ordeno en todas las iglesias.
+{7:18} ¿Fue llamado alguno siendo circunciso? Quédese circunciso. ¿Fue llamado alguno siendo incircunciso? No se circuncide.
+{7:19} La circuncisión es nada, y la incircuncisión es nada; lo que importa es la observancia de los mandamientos de Dios.
+{7:20} Cada uno se quede en el estado en que fue llamado.
+{7:21} ¿Fuiste llamado siendo esclavo? No te dé cuidado; pero también, si puedes hacerte libre, procúralo más.
+{7:22} Porque el que en el Señor fue llamado siendo esclavo, es liberto del Señor; asimismo el que fue llamado siendo libre, es esclavo de Cristo.
+{7:23} Por precio fuisteis comprados; no os hagáis esclavos de los hombres.
+{7:24} Cada uno, hermanos, en el estado en que fue llamado, así permanezca para con Dios.
+{7:25} En cuanto a las vírgenes, no tengo precepto del Señor; mas doy mi parecer, como quien ha alcanzado misericordia del Señor para ser fiel.
+{7:26} Tengo, pues, esto por bueno a causa del agobio inminente; que le irá bien al hombre en quedarse como está.
+{7:27} ¿Estás ligado a mujer? No procures soltarte. ¿Estás libre de mujer? No procures casarte.
+{7:28} Mas también si te casas, no pecas; y si la doncella se casa, no peca; pero los tales tendrán aflicción de la carne, y yo os la quiero evitar.
+{7:29} Pero esto digo, hermanos: que el tiempo es limitado; resta, pues, que los que tienen esposa sean como si no la tuviesen;
+{7:30} y los que lloran, como si no llorasen; y los que se alegran, como si no se alegrasen; y los que compran, como si no poseyesen;
+{7:31} y los que disfrutan de este mundo, como si no lo disfrutasen; porque la apariencia de este mundo se pasa.
+{7:32} Deseo, pues, que estéis sin congoja. El soltero se preocupa por las cosas del Señor, de cómo agradar al Señor;
+{7:33} pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer, y está dividido.
+{7:34} Hay asimismo diferencia entre la casada y la doncella. La doncella se preocupa por las cosas del Señor, para ser santa así en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
+{7:35} Esto lo digo para vuestro provecho; no para tenderos lazo, sino para lo honesto y para lo que facilita sin distracciones vuestro trato asiduo con el Señor.
+{7:36} Pero si alguno piensa que no se comporta decentemente con su hija doncella, si es de edad madura, y así debe hacerse, haga lo que quiera, no peca; que se casen.
+{7:37} Pero el que está firme en su corazón, sin tener necesidad, sino que es dueño de su propia voluntad, y ha resuelto en su corazón guardar a su hija doncella, hace bien.
+{7:38} De manera que el que la da en casamiento hace bien, y el que no la da en casamiento hace mejor.
+{7:39} La mujer está ligada por la ley mientras su marido vive; pero si su marido muere, es libre para casarse con quien quiera, con tal que sea en el Señor.
+{7:40} Pero a mi juicio, será más dichosa si se queda así; y pienso que también yo tengo el Espíritu de Dios.
+{i8:1} Lo sacrificado a los ídolos
+{8:1} En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica.
+{8:2} Y si alguno se imagina que sabe algo, aún no ha aprendido nada como se debe conocer.
+{8:3} Pero si alguno ama a Dios, ha sido conocido por él.
+{8:4} Acerca, pues, de las viandas que se sacrifican a los ídolos, sabemos que un ídolo nada es en el mundo, y que no hay más que un Dios.
+{8:5} Pues aunque haya algunos que se llamen dioses, sea en el cielo, o en la tierra (como hay muchos dioses y muchos señores),
+{8:6} para nosotros, sin embargo, sólo hay un Dios, el Padre, del cual proceden todas las cosas, y nosotros somos para él; y un solo Señor, Jesucristo, por medio del cual son todas las cosas, y nosotros por medio de él.
+{8:7} Pero no en todos hay este conocimiento; porque algunos, habituados hasta aquí a los ídolos, comen como sacrificado a ídolos, y su conciencia, siendo débil, se contamina.
+{8:8} Si bien la comida no nos hace más aceptos ante Dios; pues ni porque comamos, seremos más, ni porque no comamos, seremos menos.
+{8:9} Pero mirad que esta libertad vuestra no venga a ser tropezadero para los débiles.
+{8:10} Porque si alguno te ve a ti, que tienes conocimiento, sentado a la mesa en un lugar de ídolos, la conciencia de aquel que es débil, ¿no será estimulada a comer de lo sacrificado a los ídolos?
+{8:11} Y por el conocimiento tuyo, se arruina el hermano débil por quien Cristo murió.
+{8:12} De esta manera, pues, pecando contra los hermanos e hiriendo su débil conciencia, pecáis contra Cristo.
+{8:13} Por lo cual, si la comida le es a mi hermano ocasión de caer, no comeré carne jamás, para no poner tropiezo a mi hermano.
+{i9:1} Pablo defiende su apostolado
+{9:1} ¿No soy apóstol? ¿No soy libre? ¿No he visto a Jesús el Señor nuestro? ¿No sois vosotros mi obra en el Señor?
+{9:2} Si para otros no soy apóstol, para vosotros ciertamente lo soy; porque vosotros sois el sello de mi apostolado en el Señor.
+{9:3} Contra los que me piden cuentas, esta es mi defensa:
+{9:4} ¿Acaso no tenemos derecho a comer y beber?
+{9:5} ¿No tenemos derecho a traer con nosotros una hermana, mujer, como también los demás apóstoles, y los hermanos del Señor, y Cefas?
+{9:6} ¿O sólo yo y Bernabé no tenemos derecho a no trabajar?
+{9:7} ¿Quién fue jamás soldado a sus propias expensas? ¿Quién planta viña y no come de su fruto? ¿O quién apacienta un rebaño y no toma de la leche del rebaño?
+{9:8} ¿Digo esto sólo como hombre, o no dice esto también la ley?
+{9:9} Porque en la ley de Moisés está escrito: No pondrás bozal al buey que trilla. ¿Acaso tiene Dios especial cuidado de los bueyes?
+{9:10} ¿O lo dice enteramente por nosotros? Pues por nosotros se escribió; porque con esperanza debe arar el que ara, y el que trilla, con esperanza de recibir del fruto.
+{9:11} Si nosotros sembramos entre vosotros lo espiritual, ¿será mucho que cosechemos de vosotros lo material?
+{9:12} Si otros participan de este derecho sobre vosotros, ¿cuánto más nosotros? Pero no hemos usado de este derecho, sino que lo soportamos todo, por no poner ningún obstáculo al evangelio de Cristo.
+{9:13} ¿No sabéis que los que trabajan en las cosas sagradas, comen del templo, y que los que sirven al altar, participan del altar?
+{9:14} Así también ordenó el Señor a los que anuncian el evangelio, que vivan del evangelio.
+{9:15} Pero yo de nada de esto me he aprovechado, ni tampoco he escrito esto para que se haga así conmigo; porque prefiero morir, antes que nadie me prive de esta gloria.
+{9:16} Pues si anuncio el evangelio, no tengo por qué gloriarme; porque me siento constreñido a hacerlo; y ¡ay de mí si no anuncio el evangelio!
+{9:17} Por lo cual, si lo hago de buen grado, tendré recompensa; pero si de mala gana, es una mayordomía la que me ha sido encomendada.
+{9:18} ¿Cuál, pues, es mi galardón? Que predicando el evangelio, presente gratuitamente el evangelio de Cristo, para no hacer pleno uso de mi derecho en el evangelio.
+{9:19} Por lo cual, siendo libre de todos, me he hecho siervo de todos para ganar al mayor número.
+{9:20} Me he hecho a los judíos como judío, para ganar a los judíos; a los que están bajo la ley (aunque yo no esté bajo la ley), como si estuviese bajo la ley, para ganar a los que están bajo la ley;
+{9:21} a los que están sin ley, como si yo estuviera sin ley (no estando yo sin ley de Dios, sino dentro de la ley de Cristo), para ganar a los que están sin ley.
+{9:22} Me he hecho como débil a los débiles, para ganar a los débiles; a todos me he hecho todo, para que de todos modos salve a algunos.
+{9:23} Y esto lo hago por causa del evangelio, para hacerme copartícipe de él.
+{9:24} ¿No sabéis que los que corren en el estadio, todos ciertamente corren, pero uno solo se lleva el premio? Corred de tal manera que lo obtengáis.
+{9:25} Todo aquel que lucha, en todo ejercita el dominio propio; ellos, en verdad, para recibir una corona corruptible, pero nosotros, una incorruptible.
+{9:26} Así que, yo de esta manera corro, no como a la ventura; de esta manera golpeo, no como quien golpea al aire,
+{9:27} sino que trato severamente a mi cuerpo, y lo pongo en servidumbre, no sea que habiendo proclamado a otros, yo mismo venga a ser reprobado.
+{i10:1} Exhortaciones contra la idolatría
+{10:1} Porque no quiero, hermanos, que ignoréis que nuestros padres estuvieron todos bajo la nube, y todos pasaron por el mar;
+{10:2} y todos, siguiendo a Moisés, fueron bautizados en la nube y en el mar,
+{10:3} y todos comieron el mismo alimento espiritual,
+{10:4} y todos bebieron la misma bebida espiritual; porque bebían de la roca espiritual que los seguía, y la roca era Cristo.
+{10:5} Pero de los más de ellos no se agradó Dios, pues quedaron tendidos en el desierto.
+{10:6} Mas estas cosas sucedieron como ejemplos para nosotros, para que no codiciemos cosas malas, como ellos codiciaron.
+{10:7} Ni seáis idólatras, como algunos de ellos, según está escrito: Se sentó el pueblo a comer y a beber, y se levantó a divertirse.
+{10:8} Ni forniquemos, como algunos de ellos fornicaron, y cayeron en un día veintitrés mil.
+{10:9} Ni provoquemos al Señor, como también algunos de ellos le provocaron, y perecieron mordidos por las serpientes.
+{10:10} Ni murmuréis, como algunos de ellos murmuraron, y perecieron víctimas del Exterminador.
+{10:11} Y estas cosas les acontecieron como ejemplo, y fueron escritas para amonestarnos a nosotros, a quienes han alcanzado los fines de los siglos.
+{10:12} Así que, el que piensa estar firme, mire que no caiga.
+{10:13} No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no permitirá que seáis tentados más de lo que podéis resistir, sino que proveerá también juntamente con la tentación la vía de escape, para que podáis soportar.
+{10:14} Por tanto, amados míos, huid de la idolatría.
+{10:15} Como a sensatos os hablo; juzgad vosotros lo que digo.
+{10:16} La copa de bendición que bendecimos, ¿no es comunión en la sangre de Cristo? El pan que partimos, ¿no es comunión en el cuerpo de Cristo?
+{10:17} Puesto que es uno solo el pan, nosotros, con ser muchos, somos un solo cuerpo; pues todos participamos de ese pan, que es uno solo.
+{10:18} Mirad a Israel según la carne; los que comen de los sacrificios, ¿no están en comunión con el altar?
+{10:19} ¿Qué digo, pues? ¿Que el ídolo es algo, o que sea algo lo que se sacrifica a los ídolos?
+{10:20} Más bien digo que lo que los gentiles sacrifican, lo sacrifican a los demonios, y no a Dios; y no quiero que vosotros tengáis comunión con los demonios.
+{10:21} No podéis beber la copa del Señor, y la copa de los demonios; no podéis participar de la mesa del Señor, y de la mesa de los demonios.
+{10:22} ¿O provocaremos a celos al Señor? ¿Somos acaso más fuertes que él?
+{i10:23} La libertad del cristiano
+{10:23} Todo me es lícito, pero no todo conviene; todo me es lícito, pero no todo edifica.
+{10:24} Ninguno busque su propio interés, sino el del otro.
+{10:25} De todo lo que se vende en la carnicería, comed, sin más averiguaciones por motivos de conciencia;
+{10:26} porque del Señor es la tierra y su plenitud.
+{10:27} Si algún incrédulo os invita, y queréis ir, de todo lo que se os ponga delante comed, sin más averiguaciones por motivos de conciencia.
+{10:28} Mas si alguien os dice: Esto fue sacrificado a los ídolos; no lo comáis, por causa de aquel que lo declaró, y por motivos de conciencia (porque del Señor es la tierra y su plenitud);
+{10:29} la conciencia, digo, no la tuya, sino la del otro. Pues ¿cómo se ha de juzgar mi libertad por la conciencia de otro?
+{10:30} Y si yo con agradecimiento participo, ¿por qué he de ser censurado por aquello de que doy gracias?
+{10:31} Así pues, ya sea que comáis, que bebáis, o que hagáis cualquier otra cosa, hacedlo todo para la gloria de Dios.
+{10:32} No seáis tropiezo ni a judíos, ni a gentiles, ni a la iglesia de Dios;
+{10:33} como también yo en todas las cosas agrado a todos, no procurando mi propio beneficio, sino el de los demás, para que sean salvos.
+{i11:1} La mujer en la iglesia
+{11:1} Sed imitadores de mí, así como yo de Cristo.
+{11:2} Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué.
+{11:3} Pero quiero que sepáis que Cristo es la cabeza de todo varón, y el varón es la cabeza de la mujer, y Dios la cabeza de Cristo.
+{11:4} Todo varón que ora o profetiza con la cabeza cubierta, afrenta a su cabeza.
+{11:5} Pero toda mujer que ora o profetiza con la cabeza descubierta, afrenta a su cabeza; porque se hace enteramente igual que la que se ha rapado.
+{11:6} Porque si la mujer no se cubre, que se corte también el cabello; y si le es vergonzoso a la mujer cortarse el cabello o raparse, que se cubra.
+{11:7} Porque el varón no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pues la mujer es gloria del varón.
+{11:8} Porque el varón no procede de la mujer, sino la mujer del varón,
+{11:9} y tampoco el varón fue creado por causa de la mujer, sino la mujer por causa del varón.
+{11:10} Por tanto, la mujer debe tener señal de autoridad sobre su cabeza, por causa de los ángeles.
+{11:11} Sin embargo, en el Señor, ni el varón es aparte de la mujer, ni la mujer aparte del varón;
+{11:12} porque así como la mujer procede del varón, también el varón nace mediante la mujer; pero todo procede de Dios.
+{11:13} Juzgad entre vosotros mismos: ¿Es propio que la mujer ore a Dios sin cubrirse la cabeza?
+{11:14} La naturaleza misma ¿no os enseña que al varón le es deshonroso dejarse crecer el cabello?
+{11:15} Por el contrario, a la mujer dejarse crecer el cabello le es honroso; porque en lugar de velo le es dado el cabello.
+{11:16} Con todo eso, si alguno es amigo de discusiones, nosotros no tenemos tal costumbre, ni las iglesias de Dios.
+{i11:17} Abusos en la Cena del Señor
+{11:17} Pero al daros las instrucciones que siguen, no os alabo; porque no os congregáis para lo mejor, sino para lo peor.
+{11:18} Pues en primer lugar, cuando os reunís como iglesia, oigo que hay entre vosotros divisiones; y en parte lo creo.
+{11:19} Porque es preciso que entre vosotros haya diferentes bandos, para que se hagan manifiestos entre vosotros los que son aprobados.
+{11:20} Cuando, pues, os reunís vosotros, eso no es comer la cena del Señor.
+{11:21} Porque al comer, cada uno se adelanta a tomar su propia cena; y el uno tiene hambre, y el otro se embriaga.
+{11:22} ¿Pues acaso no tenéis casas en que comáis y bebáis? ¿O menospreciáis la iglesia de Dios, y avergonzáis a los que no tienen nada? ¿Qué os diré? ¿Os alabaré? En esto no os alabo.
+{i11:23} Institución de la Cena del Señor
+{11:23} Porque yo recibí de parte del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan;
+{11:24} y después de dar gracias, lo partió, y dijo: Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí.
+{11:25} Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebáis, en memoria de mí.
+{11:26} Porque todas las veces que comáis este pan, y bebáis esta copa, la muerte del Señor estáis proclamando hasta que él venga.
+{i11:27} Tomando la Cena indignamente
+{11:27} De manera que cualquiera que coma este pan o beba esta copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor.
+{11:28} Por tanto, examínese cada uno a sí mismo, y coma entonces del pan, y beba de la copa.
+{11:29} Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, come y bebe su propio juicio.
+{11:30} Por lo cual hay muchos enfermos y debilitados entre vosotros, y bastantes duermen.
+{11:31} Si, pues, nos examinásemos a nosotros mismos, no seríamos juzgados;
+{11:32} mas al ser juzgados, somos corregidos por el Señor, para que no seamos condenados con el mundo.
+{11:33} Así que, hermanos míos, cuando os reunís a comer, esperaos unos a otros.
+{11:34} Si alguno tiene hambre, coma en su casa, para que no os reunáis para juicio. Las demás cosas las pondré en orden cuando vaya.
+{i12:1} Diversidad de dones espirituales
+{12:1} En cuanto a los dones espirituales, no quiero, hermanos, que estéis en la ignorancia.
+{12:2} Sabéis que cuando erais gentiles se os extraviaba llevándoos, como se os llevaba, a los ídolos mudos.
+{12:3} Por tanto, os hago saber que nadie que hable por el Espíritu de Dios dice: Jesús es maldito. Y nadie puede decir: Jesús es el Señor, sino por el Espíritu Santo.
+{12:4} Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.
+{12:5} Y hay diversidad de ministerios, pero el Señor es el mismo.
+{12:6} Y hay diversidad de actividades, pero Dios, que efectúa todas las cosas en todos, es el mismo.
+{12:7} Pero a cada uno le es dada la manifestación del Espíritu para provecho común.
+{12:8} Porque a uno es dada por medio del Espíritu palabra de sabiduría; a otro, palabra de conocimiento según el mismo Espíritu;
+{12:9} a otro, fe, en el mismo Espíritu; y a otro, dones de sanidades, en el mismo Espíritu.
+{12:10} A otro, el efectuar milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversos géneros de lenguas; y a otro, interpretación de lenguas.
+{12:11} Pero todas estas cosas las efectúa uno y el mismo Espíritu, repartiendo a cada uno en particular según su voluntad.
+{12:12} Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo.
+{12:13} Porque por un solo Espíritu fuimos todos bautizados para formar un solo cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.
+{12:14} Porque, además, el cuerpo no es un solo miembro, sino muchos.
+{12:15} Si dijese el pie: Porque no soy mano, no soy del cuerpo, ¿por eso no sería del cuerpo?
+{12:16} Y si dijese la oreja: Porque no soy ojo, no soy del cuerpo, ¿por eso no sería del cuerpo?
+{12:17} Si todo el cuerpo fuese ojo, ¿dónde estaría el oído? Si todo fuese oído, ¿dónde estaría el olfato?
+{12:18} Pero el hecho es que Dios ha colocado los miembros cada uno de ellos en el cuerpo, como él quiso.
+{12:19} Porque si todos fueran un solo miembro, ¿dónde estaría el cuerpo?
+{12:20} Ahora bien, los miembros son muchos, pero el cuerpo es uno solo.
+{12:21} Ni el ojo puede decir a la mano: No te necesito, ni tampoco la cabeza a los pies: No tengo necesidad de vosotros.
+{12:22} Antes bien, los miembros del cuerpo que parecen más débiles, son los más necesarios;
+{12:23} y a aquellos del cuerpo que nos parecen menos honrosos, a éstos vestimos con más honra; y los que en nosotros son menos decorosos, se tratan con más decoro.
+{12:24} Porque los que en nosotros son más decorosos, no tienen necesidad; pero Dios dispuso el cuerpo, dando más abundante honor al que le faltaba,
+{12:25} para que no haya desavenencia en el cuerpo, sino que los miembros todos se preocupen los unos por los otros.
+{12:26} De manera que si un miembro padece, todos los miembros se duelen con él, y si un miembro recibe honra, todos los miembros se gozan con él.
+{12:27} Ahora bien, vosotros sois el cuerpo de Cristo, y miembros cada uno por su parte.
+{12:28} Y a unos puso Dios en la iglesia, primeramente apóstoles, después profetas, lo tercero maestros, luego poderes milagrosos, después dones de sanidades, ayudas, dotes de gobierno, diversos géneros de lenguas.
+{12:29} ¿Acaso son todos apóstoles?; ¿acaso son todos profetas?; ¿acaso son todos maestros?; ¿acaso hacen todos milagros?;
+{12:30} ¿acaso tienen todos dones de sanidad?; ¿acaso hablan todos en lenguas?; ¿acaso interpretan todos?
+{12:31} Desead, pues, celosamente los dones mejores. Y yo os voy a mostrar todavía un camino por excelencia.
+{i13:1} La excelencia del amor
+{13:1} Si yo hablara lenguas humanas y angélicas, pero no tengo amor, vengo a ser como bronce que resuena, o címbalo que retiñe.
+{13:2} Y si tuviese profecía, y entendiese todos los misterios y toda ciencia, y si tuviese tanta fe como para trasladar montañas, pero no tengo amor, nada soy.
+{13:3} Y si repartiese todos mis bienes para dar de comer a los pobres, y si entregase mi cuerpo para ser quemado, pero no tengo amor, de nada me sirve.
+{13:4} El amor es paciente, es servicial; el amor no tiene envidia, el amor no es jactancioso, no se engríe;
+{13:5} no hace nada indecoroso, no busca su propio interés, no se irrita, no toma en cuenta el mal;
+{13:6} no se goza de la injusticia, mas se goza de la verdad.
+{13:7} Todo lo excusa, todo lo cree, todo lo espera, todo lo soporta.
+{13:8} El amor no caduca jamás; pero las profecías caerán en desuso, y cesarán las lenguas, y el conocimiento actual quedará fuera de uso.
+{13:9} Porque en parte conocemos, y en parte profetizamos;
+{13:10} mas cuando venga lo perfecto, entonces lo que es en parte quedará fuera de uso.
+{13:11} Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; mas cuando me hice hombre, dejé a un lado lo que era de niño.
+{13:12} Pues ahora vemos mediante espejo, borrosamente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré tan cabalmente como soy conocido.
+{13:13} Y ahora, permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.
+{i14:1} Más sobre los dones espirituales
+{14:1} Procurad alcanzar el amor; y desead con celo los dones espirituales, especialmente que profeticéis.
+{14:2} Porque el que habla en lenguas, no habla a los hombres, sino a Dios; pues nadie le entiende, sino que en espíritu habla misterios.
+{14:3} Pero el que profetiza, habla a los hombres para edificación, exhortación y consolación.
+{14:4} El que habla en lenguas, a sí mismo se edifica; pero el que profetiza, edifica a la iglesia.
+{14:5} Así que, querría que todos vosotros hablaseis en lenguas, pero más que profetizaseis; porque el que profetiza es superior al que habla en lenguas, a no ser que las interprete para que la iglesia reciba edificación.
+{14:6} Así pues, hermanos, si yo voy a vosotros hablando en lenguas, ¿de qué provecho os seré, si no os hablo con revelación, o con ciencia, o con profecía, o con enseñanza?
+{14:7} Ciertamente las cosas inanimadas que producen sonidos, como la flauta o la cítara, si no dan distinción de notas, ¿cómo se sabrá lo que se toca con la flauta o con la cítara?
+{14:8} Y si la trompeta da un sonido confuso, ¿quién se preparará para la batalla?
+{14:9} Así también vosotros, si por la lengua no dais palabra bien comprensible, ¿cómo se entenderá lo que decís? Porque hablaréis al aire.
+{14:10} Tantas clases de lenguas hay, seguramente, en el mundo, y ninguna de ellas carece de significado.
+{14:11} Pero si yo ignoro el valor de las palabras, seré como extranjero para el que habla, y el que habla será como extranjero para mí.
+{14:12} Así también vosotros; pues que anheláis dones espirituales, procurad abundar en ellos para edificación de la iglesia.
+{14:13} Por lo cual, el que habla en lenguas, pida en oración poder interpretarlas.
+{14:14} Porque si oro en lenguas, mi espíritu ora, pero mi entendimiento queda sin fruto.
+{14:15} ¿Qué, pues? Oraré con el espíritu, pero oraré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento.
+{14:16} Porque si bendices sólo con el espíritu, el que ocupa lugar de oyente sencillo, ¿cómo dirá el Amén a tu acción de gracias?; pues no sabe lo que estás diciendo.
+{14:17} Porque tú, a la verdad, das gracias bien; pero el otro no es edificado.
+{14:18} Doy gracias a Dios de que hablo en lenguas más que todos vosotros;
+{14:19} pero en la iglesia prefiero hablar cinco palabras con mi entendimiento, para instruir también a otros, que diez mil palabras en lenguas.
+{14:20} Hermanos, no seáis niños en el modo de pensar, sino sed niños en la malicia, pero maduros en el modo de pensar.
+{14:21} En la ley está escrito: En otras lenguas y con otros labios hablaré a este pueblo; y ni aun así me escucharán, dice el Señor.
+{14:22} Así que, las lenguas son por señal, no a los creyentes, sino a los incrédulos; pero la profecía, no a los incrédulos, sino a los creyentes.
+{14:23} Si, pues, toda la iglesia se reúne en un solo lugar, y todos hablan en lenguas, y entran indoctos o incrédulos, ¿no dirán que estáis locos?
+{14:24} Pero si todos profetizan, y entra algún incrédulo o indocto, por todos es convencido, por todos es juzgado;
+{14:25} lo secreto de su corazón se hace manifiesto; y así, postrándose sobre el rostro, adorará a Dios, declarando que Dios está realmente entre vosotros.
+{14:26} ¿Qué, pues, hermanos? Cuando os reunís, cada uno de vosotros tiene salmo, tiene enseñanza, tiene lengua, tiene revelación, tiene interpretación. Hágase todo para edificación.
+{14:27} Si habla alguno en lenguas, que lo hagan dos, o a lo más tres, y por turno; y uno interprete.
+{14:28} Y si no hay intérprete, calle en la iglesia, y hable para sí mismo y para Dios.
+{14:29} Asimismo, los profetas hablen dos o tres, y los demás disciernan.
+{14:30} Y si algo le es revelado a otro que esté sentado, calle el primero.
+{14:31} Porque podéis profetizar todos uno por uno, para que todos aprendan, y todos sean exhortados.
+{14:32} Y los espíritus de los profetas estén sometidos a los profetas;
+{14:33} pues Dios no es Dios de confusión, sino de paz. Como en todas las iglesias de los santos,
+{14:34} vuestras mujeres callen en las congregaciones; porque no les es permitido hablar, sino que estén sometidas, como también la ley lo dice.
+{14:35} Y si quieren aprender algo, pregunten en casa a sus maridos; porque es indecoroso para las mujeres el hablar en la congregación.
+{14:36} ¿Acaso ha procedido de vosotros la palabra de Dios, o ha llegado sólo a vosotros?
+{14:37} Si alguno se cree profeta, o espiritual, reconozca que lo que os escribo son mandamientos del Señor.
+{14:38} Pero si alguno lo ignora, que lo ignore.
+{14:39} Así que, hermanos, anhelad el profetizar, y no impidáis el hablar en lenguas;
+{14:40} pero hágase todo decentemente y con orden.
+{i15:1} Cristo, garantía de la resurrección
+{15:1} Además, os voy a exponer, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también estáis firmes;
+{15:2} por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.
+{15:3} Porque en primer lugar os transmití lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras;
+{15:4} y que fue sepultado, y que resucitó al tercer día conforme a las Escrituras;
+{15:5} y que se apareció a Cefas, y después a los doce.
+{15:6} Después se apareció a más de quinientos hermanos a la vez, de los cuales la mayoría viven aún, pero algunos ya se durmieron.
+{15:7} Después se apareció a Jacobo; después a todos los apóstoles;
+{15:8} y al último de todos, como a un abortivo, se me apareció a mí.
+{15:9} Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios.
+{15:10} Pero por la gracia de Dios, soy lo que soy; y su gracia para conmigo no ha resultado estéril, sino que he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo.
+{15:11} Porque, o sea yo o sean ellos, así predicamos, y así habéis creído.
+{15:12} Pero si se predica de Cristo que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?
+{15:13} Porque si no hay resurrección de muertos, tampoco Cristo resucitó.
+{15:14} Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe.
+{15:15} Y somos hallados falsos testigos de Dios; porque hemos testificado en contra de Dios que él resucitó a Cristo, al cual no resucitó, si en verdad los muertos no resucitan.
+{15:16} Porque si los muertos no resucitan, tampoco Cristo resucitó;
+{15:17} y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados.
+{15:18} Entonces también los que durmieron en Cristo, han perecido.
+{15:19} Si solamente en esta vida tenemos puesta nuestra esperanza en Cristo, somos los más dignos de lástima de todos los hombres.
+{15:20} Ahora bien, Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho.
+{15:21} Porque ya que la muerte entró por un hombre, también por un hombre la resurrección de los muertos.
+{15:22} Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.
+{15:23} Pero cada uno en su debido orden: Cristo, las primicias; después, los que son de Cristo, en su venida.
+{15:24} Después el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo principado, toda autoridad y potencia.
+{15:25} Porque es preciso que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies.
+{15:26} Y el último enemigo que será suprimido es la muerte.
+{15:27} Porque todas las cosas las sometió debajo de sus pies. Y cuando dice que todas las cosas han sido sometidas a él, claramente se exceptúa aquel que sometió a él todas las cosas.
+{15:28} Y cuando todas las cosas le estén sometidas, entonces también el Hijo mismo se someterá al que le sometió a él todas las cosas, para que Dios sea todo en todos.
+{15:29} De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?
+{15:30} ¿Y por qué nosotros peligramos en todo momento?
+{15:31} Os aseguro, hermanos, por la gloria que de vosotros tengo en nuestro Señor Jesucristo, que cada día muero.
+{15:32} Si como hombre batallé en Éfeso contra fieras, ¿de qué me aprovecha? Si los muertos no resucitan, comamos y bebamos, porque mañana moriremos.
+{15:33} No os dejéis engañar; las malas compañías corrompen las buenas costumbres.
+{15:34} Guardad la debida sobriedad, y no sigáis pecando; porque algunos desconocen a Dios; para vergüenza vuestra lo digo.
+{15:35} Pero dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué clase de cuerpo vendrán?
+{15:36} Insensato, lo que tú siembras no se vivifica, si no muere antes.
+{15:37} Y lo que siembras no es el cuerpo que ha de salir, sino el grano desnudo, ya sea de trigo o de otra cosa;
+{15:38} pero Dios le da un cuerpo como él quiso, y a cada semilla su propio cuerpo.
+{15:39} No toda carne es la misma carne, sino que una carne es la de los hombres, otra carne la de las bestias, otra la de los peces, y otra la de las aves.
+{15:40} Y hay cuerpos celestiales, y cuerpos terrenales; pero uno es el resplandor de los celestiales, y otro diferente el de los terrenales.
+{15:41} Uno es el resplandor del sol, otro el resplandor de la luna, y otro el resplandor de las estrellas, pues una estrella se diferencia de otra en el resplandor.
+{15:42} Así también es la resurrección de los muertos. Se siembra en corrupción, resucitará en incorrupción.
+{15:43} Se siembra en deshonor, resucitará en gloria; se siembra en debilidad, resucitará en poder.
+{15:44} Se siembra cuerpo natural, resucitará cuerpo espiritual. Hay un cuerpo natural, y hay un cuerpo espiritual.
+{15:45} Así también está escrito: Fue hecho el primer hombre Adán alma viviente; el postrer Adán, espíritu vivificante.
+{15:46} Mas no es primero lo espiritual, sino lo natural; después, lo espiritual.
+{15:47} El primer hombre, sacado de la tierra, es terrenal; el segundo hombre, que es el Señor, es del cielo.
+{15:48} Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales.
+{15:49} Y así como hemos llevado la imagen del terrenal, llevaremos también la imagen del celestial.
+{15:50} Pero esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción.
+{15:51} He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados,
+{15:52} en un instante, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.
+{15:53} Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.
+{15:54} Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte con victoria.
+{15:55} ¿Dónde está, oh muerte, tu victoria? ¿Dónde está, oh sepulcro, tu aguijón?
+{15:56} El aguijón de la muerte es el pecado, y el poder del pecado, la ley.
+{15:57} Pero gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.
+{15:58} Así que, hermanos míos amados, sed firmes y constantes, abundando en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.
+{i16:1} La ofrenda para los santos
+{16:1} En cuanto a la colecta para los santos, haced vosotros también de la manera que ordené a las iglesias de Galacia.
+{16:2} Cada primer día de la semana, cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se hagan entonces colectas.
+{16:3} Y cuando yo llegue, enviaré con cartas a quienes vosotros hayáis designado, para que lleven vuestro donativo a Jerusalén.
+{16:4} Y si vale la pena que yo también vaya, irán conmigo.
+{i16:5} Proyectos de Pablo
+{16:5} Iré a vosotros, cuando haya pasado por Macedonia, pues tengo que pasar por Macedonia.
+{16:6} Y podrá ser que me quede con vosotros, o aun pase el invierno, para que vosotros me encaminéis adonde haya de ir.
+{16:7} Porque no quiero veros ahora de paso, pues espero permanecer con vosotros algún tiempo, si el Señor lo permite.
+{16:8} Pero me quedaré en Éfeso hasta Pentecostés;
+{16:9} porque se me ha abierto una puerta grande y eficaz, y son muchos los adversarios.
+{16:10} Y si llega Timoteo, mirad que esté con vosotros sin temor, porque él trabaja en la obra del Señor como yo también.
+{16:11} Por tanto, nadie le menosprecie, sino encaminadle en paz, para que venga a mí, porque le espero con los hermanos.
+{16:12} Acerca del hermano Apolos, mucho le rogué que fuese a vosotros con los hermanos, mas de ninguna manera tuvo voluntad de ir por ahora; pero irá cuando tenga oportunidad.
+{i16:13} Saludos finales
+{16:13} Velad, estad firmes en la fe; portaos varonilmente, y sed fuertes.
+{16:14} Todas vuestras cosas sean hechas con amor.
+{16:15} Hermanos, ya sabéis que la familia de Estéfanas es las primicias de Acaya, y que ellos se han puesto al servicio de los santos.
+{16:16} Os ruego que os sometáis a personas como ellos, y a todos los que colaboran y trabajan con afán.
+{16:17} Me alegro de la presencia de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido vuestra ausencia.
+{16:18} Porque han tranquilizado mi espíritu y el vuestro; reconoced, pues, a tales personas.
+{16:19} Las iglesias de Asia os saludan. Aquila y Priscila, con la iglesia que está en su casa, os envían muchos saludos en el Señor.
+{16:20} Os saludan todos los hermanos. Saludaos los unos a los otros con beso santo.
+{16:21} Yo, Pablo, os escribo esta salutación de mi propia mano.
+{16:22} Si alguno no ama al Señor Jesucristo, sea anatema. El Señor viene.
+{16:23} La gracia del Señor Jesucristo esté con vosotros.
+{16:24} Mi amor en Cristo Jesús esté con todos vosotros. Amén.

@@ -1,0 +1,42 @@
+{i1:1} Primer oráculo: Exhortación a reedificar el templo
+{1:1} El día primero del mes sexto del segundo año del rey Darío, vino palabra del Señor por medio del profeta Hageo a Zorobabel hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué hijo de Josadac:
+{1:2} «Así dice el Señor Todopoderoso: “Este pueblo alega que todavía no es el momento apropiado para ir a reconstruir la casa del Señor.”»
+{1:3} También vino esta palabra del Señor por medio del profeta Hageo:
+{1:4} «¿Acaso es el momento apropiado para que ustedes residan en casas techadas mientras que esta casa está en ruinas?»
+{1:5} Así dice ahora el Señor Todopoderoso: «¡Reflexionen sobre su proceder!
+{1:6} »Ustedes siembran mucho, pero cosechan poco; comen, pero no quedan satisfechos; beben, pero no llegan a saciarse; se visten, pero no logran abrigarse; y al jornalero se le va su salario como por saco roto.»
+{1:7} Así dice el Señor Todopoderoso: «¡Reflexionen sobre su proceder!
+{1:8} »Vayan ustedes a los montes; traigan madera y reconstruyan mi casa. Yo veré su reconstrucción con gusto, y manifestaré mi gloria — dice el Señor — .
+{1:9} »Ustedes esperan mucho, pero cosechan poco; lo que almacenan en su casa, yo lo disipo de un soplo. ¿Por qué? ¡Porque mi casa está en ruinas, mientras ustedes sólo se ocupan de la suya! — afirma el Señor Todopoderoso — .
+{1:10} »Por eso, por culpa de ustedes, los cielos retuvieron el rocío y la tierra se negó a dar sus productos.
+{1:11} Yo hice venir una sequía sobre los campos y las montañas, sobre el trigo y el vino nuevo, sobre el aceite fresco y el fruto de la tierra, sobre los animales y los hombres, y sobre toda la obra de sus manos.»
+{1:12} Zorobabel hijo de Salatiel, el sumo sacerdote Josué hijo de Josadac, y todo el resto del pueblo, obedecieron al Señor su Dios, es decir, obedecieron las palabras del profeta Hageo, a quien el Señor su Dios había enviado. Y el pueblo sintió temor en la presencia del Señor.
+{1:13} Entonces Hageo su mensajero comunicó al pueblo el mensaje del Señor: «Yo estoy con ustedes. Yo, el Señor, lo afirmo.»
+{1:14} Y el Señor inquietó de tal manera a Zorobabel hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué hijo de Josadac, y a todo el resto del pueblo, que vinieron y empezaron a trabajar en la casa de su Dios, el Señor Todopoderoso.
+{1:15} Era el día veinticuatro del mes sexto del segundo año del rey Darío.
+{i2:1} Segundo oráculo: La presencia del Señor
+{2:1} El día veintiuno del mes séptimo, vino palabra del Señor por medio del profeta Hageo:
+{2:2} «Pregunta a Zorobabel hijo de Salatiel, gobernador de Judá, al sumo sacerdote Josué hijo de Josadac, y al resto del pueblo:
+{2:3} “¿Queda alguien entre ustedes que haya visto esta casa en su antiguo esplendor? ¿Qué les parece ahora? ¿No la ven como muy poca cosa?
+{2:4} Pues ahora, ¡ánimo, Zorobabel! — afirma el Señor — . ¡Ánimo, Josué hijo de Josadac! ¡Tú eres el sumo sacerdote! ¡Ánimo, pueblo de esta tierra! — afirma el Señor — . ¡Manos a la obra, que yo estoy con ustedes! — afirma el Señor Todopoderoso — .
+{2:5} Y mi Espíritu permanece en medio de ustedes, conforme al pacto que hice con ustedes cuando salieron de Egipto.” »No teman,
+{2:6} porque así dice el Señor Todopoderoso: “Dentro de muy poco haré que se estremezcan los cielos y la tierra, el mar y la tierra firme;
+{2:7} ¡haré temblar a todas las naciones! Sus riquezas llegarán aquí, y así llenaré de esplendor esta casa — dice el Señor Todopoderoso — .
+{2:8} Mía es la plata, y mío es el oro — afirma el Señor Todopoderoso — .
+{2:9} El esplendor de esta segunda casa será mayor que el de la primera — dice el Señor Todopoderoso — . Y en este lugar concederé la paz”, afirma el Señor Todopoderoso.»
+{i2:10} Tercer oráculo: Consulta a los sacerdotes
+{2:10} El día veinticuatro del mes noveno del segundo año de Darío, vino palabra del Señor al profeta Hageo:
+{2:11} «Así dice el Señor Todopoderoso: “Consulta a los sacerdotes sobre las cosas sagradas.”» Entonces Hageo les planteó lo siguiente:
+{2:12} — Supongamos que alguien lleva carne consagrada en la falda de su vestido, y sucede que la falda toca pan, o guiso, o vino, o aceite, o cualquier otro alimento; ¿quedarán también consagrados? — ¡No! — contestaron los sacerdotes.
+{2:13} — Supongamos ahora — prosiguió Hageo — que una persona inmunda por el contacto de un cadáver toca cualquiera de estas cosas; ¿también ellas quedarán inmundas? — ¡Sí! — contestaron los sacerdotes.
+{2:14} Entonces Hageo respondió: «¡Así es este pueblo! ¡Así es para mí esta nación! — afirma el Señor — . ¡Así es cualquier obra de sus manos! ¡y aun lo que allí ofrecen es inmundo!
+{2:15} »Ahora bien, desde hoy en adelante, reflexionen. Antes de que ustedes pusieran piedra sobre piedra en la casa del Señor,
+{2:16} ¿cómo les iba? Cuando alguien se acercaba a un montón de grano esperando encontrar veinte medidas, sólo hallaba diez; y si se iba al lagar esperando sacar cincuenta medidas de la artesa del mosto, sólo sacaba veinte.
+{2:17} Herí sus campos con quemazón y con plaga, y con granizo toda obra de sus manos. Pero ustedes no se volvieron a mí — afirma el Señor — .
+{2:18} Reflexionen desde hoy en adelante, desde el día veinticuatro del mes noveno, día en que se colocaron los cimientos de la casa del Señor. Reflexionen:
+{2:19} ¿Queda todavía alguna semilla en el granero? ¿Todavía no producen nada la vid ni la higuera, ni el granado ni el olivo? ¡Pues a partir de hoy yo los bendeciré!»
+{i2:20} Cuarto oráculo: Promesas a Zorobabel
+{2:20} El día veinticuatro del mismo mes vino por segunda vez palabra del Señor a Hageo:
+{2:21} «Di a Zorobabel, gobernante de Judá: “Yo estoy por estremecer los cielos y la tierra.
+{2:22} Volcaré los tronos reales y haré pedazos el poderío de los reinos del mundo. Volcaré los carros con sus conductores, y caerán caballos y jinetes, y éstos se matarán a espada unos a otros.
+{2:23} En aquel día — afirma el Señor Todopoderoso — te tomaré a ti, mi siervo Zorobabel hijo de Salatiel — afirma el Señor — , y te haré semejante a un anillo de sellar, porque yo te he elegido”, afirma el Señor Todopoderoso.»

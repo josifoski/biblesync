@@ -1,0 +1,1288 @@
+{1:1} Aigupta rama inthoka Israelhai an suok hnung a kum hnina le thla hnina ni hmasa taka chun Sinai Thlalera Intuokna Puon ina chun LALPAN Mosie a biek a.
+{1:2} "Israelhai po po chu an chi hnam, an sûngkuo le an hming indot dàn ang peiin tiem rawh.
+{1:3} Israel mi po po, kum sawmhnia inthoka a chung tieng, sipaia thang thei pasal po chu nang le Aronin a pawl pawlin tiem vong ro.
+{1:4} Pahnam tina sûngkuo lukhàitu peiin an thangpui ding che a nih.
+{1:5} A thangpuituhai ding che hming chu: Reuben hnama inthokin Sedeur naupa Elizur;
+{1:6} Simeon hnama inthokin Zurishadai naupa Selumiel;
+{1:7} Juda hnama inthokin Aminadab naupa Nashon;
+{1:8} Isakar hnama inthoin Zuar naupa Nethanel;
+{1:9} Zebulun hnama inthokin Helon naupa Eliab;
+{1:10} Josefa thla, Efraim hnama inthokin Amihud naupa Elisama le Manase hnama inthokin Pedazur naupa Gamaliel;
+{1:11} Benjamin hnama inthokin Giddeoni naupa Abidan;
+{1:12} Dan hnama inthokin Amisadai naupa Ahiezer;
+{1:13} Aser hnama inthokin Okran naupa Pagiel;
+{1:14} Gad hnama inthokin Deuel naupa Eliasaf;
+{1:15} Naftali hnama inthokin Enan naupa Ahira nîng an tih.
+{1:16} Hienghai hi mipuihai laia inthoka thlang, an pi le puhai hnam thuoituhai, Israel pahnam tina an lukhàituhai chu an nih.
+{1:17} Hieng an hming hril tahai hi Mosie le Aron chun an thuoi a,
+{1:18} a thla hnina ni khat ni chun mipui an ko khawm vong a, a pahnam hnamin, a sûngkuo kuoin, an hming indot dàn ang peiin kum sawmhnia inthoka a chung tieng po hming chu an ziek lût a,
+{1:19} LALPAN Mosie kuoma thu a pêk angin Sinai thlalera chun an tiem vong a.
+{1:20} Israel nau lutir Reuben thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot ang peiin an ziek lût a,
+{1:21} Reuben hnama mi chu sîngli le sângruk le zanga an nih.
+{1:22} Simeon thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:23} Simeon hnama mi po chu sîngnga le sângkuo le zathum an nih.
+{1:24} Gad thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:25} Gad hnama mi po chu sîngli le sângnga le zaruk le sawmnga an nih.
+{1:26} Juda thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:27} Juda hnama mi po chu sîngsari le sângli le zaruk an nih.
+{1:28} Isakar thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:29} Isakar hnama mi po chu sîngnga le sângli le zali an nih.
+{1:30} Zebulun thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:31} Zebulun hnama mi po chu sîngnga le sângsari le zali an nih.
+{1:32} Josefa nauhaia inthokin: Efraim thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:33} Efraim hnama mi po chu sîngli le zanga an nih.
+{1:34} Manase thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:35} Manase hnama mi po chu sîngthum le sânghni le zahnih an nih.
+{1:36} Benjamin thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:37} Benjamin hnama mi po chu sîngthum le sângnga le zali an nih.
+{1:38} Dan thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:39} Dan hnama mi po chu sîngruk le sânghni le zasarih an nih.
+{1:40} Aser thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:41} Aser hnama mi po chu sîngli le sângkhat le zanga an nih.
+{1:42} Naftali thlaa inthoka pasal kum sawmhni le a chung tieng, râldo thei chin hai chu an pahnam le sûngkuo rikawta an inchik dàn angin, an hming indot peiin an ziek lût a,
+{1:43} Naftali hnama mi po chu sîngnga le sângthum le zali an nih.
+{1:44} Chuonghai po chu an nih Mosie le Aron le Israel thlahai pahnam tin thuoitu lu sawmpahnihaiin an tiem chu.
+{1:45} Israel thla sûngkuo tina mi, râldo thei pasal, kum sawmhni le a chung tieng, Israel sipaia thang thei po chu an tiem vong a,
+{1:46} an rêngin nuoiruk le sângthum le zanga le sawmnga an nih.
+{1:47} Levi hnama sûngkuohai ruok chu tiem sa an ni ve nawh.
+{1:48} LALPAN Mosie kuomah,
+{1:49} "Levi hnam chu Israel pahnamhai lai tiem sa ve naw rawh.
+{1:50} Levi chihai chu Thuthlung biekbûk le a sûnga hmangruo le thil um po po enkoltu dingin ruot tawl lem rawh. Biekbûk le a hmangruo po po zawn hlak an ta, enkol an ta, biekbûk chu um nghâng an tih.
+{1:51} An inson ding zàtin biekbûk chu Levihai chun thiek an ta, an zar nawk ding pha leh Levihai bokin zar nawk an ta, mi dang hung inrol taphot chu sukhlum nîng an tih.
+{1:52} Chun, Israel thlahai chun mani hnam puonzâr inkhaina hmun sengah, an tam dàn ang peiin, a pawl pawlin puon in kei an tih.
+{1:53} Israelhai chungah lungsenna a tlâk nawna dingin Levihai chun Thuthlungna biekbûk huol velin puon in kei an ta, an vêng ding a nih" tiin a lo hril ta si a.
+{1:54} Israelhai chun LALPAN Mosie kuoma a hril ang tak chun an thaw a.
+{2:1} LALPAN Mosie le Aron chu a biek a:
+{2:2} "Israel thlahai chun Intuokna Puon ina inthoka iemani chena hlaah mani sûngkuo inchikna puonzâr seng târin, an pawl thaw dàn ang sengin puon in an kei ding a nih.
+{2:3} "Sak tieng, nisa suokna tieng chun Juda pawlin an pahnam inchikna seng târin puon in kei an ta, an thuoitu chu Aminadab naupa Nason nîng a ta
+{2:4} an tam zât chu sîngsari le sângli le zaruk a nih.
+{2:5} Anni dotah Isakar pahnamin puon in kei an ta, an thuoitu chu Zuar naupa Nethanel nîng a ta,
+{2:6} an tam zât chu sîngnga le sângli le zali a nih.
+{2:7} A dotah Zebulun pahnam nîng an ta, an thuoitu chu Helon naupa Eliab nîng a ta,
+{2:8} an tam zât chu sîngnga le sângsari le zali a nih.
+{2:9} Juda pahnam inrawina hnuoia um po chu, pawl the dàn dungzuiin, nuoikhat le sîngriet le sângruk le zali an nih. Anni hin hma thuoi an tih.
+{2:10} "Sim tieng pangah mani pahnam inchikna seng târin Reuben pawlhai chu um an ta, an thuoitu chu Sedeur naupa Elizur nîng a ta,
+{2:11} an tam zât chu sîngli le sângruk le zanga a nih.
+{2:12} A dotah Simeon pahnam um an ta, an thuoitu chu Zurisadai naupa Selumiel nîng a ta,
+{2:13} an tam zât chu sîngnga le sângkuo le zathum a nih.
+{2:14} Anni dotah Gad pahnam um an ta, an thuoitu chu Deuel naupa Eliasaf nîng a ta,
+{2:15} an tam zât chu sîngli le sângnga le zaruk le sawmnga a nih.
+{2:16} Reuben pahnam inrawina hnuoia um po chu an pawl thè dàn dungzuiin, nuoi khat le sîngnga le sângkhat le zali le sawmnga an nih. Anni po hi pawl hninaa suok ding an nih.
+{2:17} "Chu zoah Intuokna Puon in le Levi pawlhai chu a laiah thangin suok an ta, riebûka an inkul dàn indot ang peiin, mani pawl seng inchikna puonzâr khaiin, suok an tih.
+{2:18} "Thlang tieng panga chun mani pahnam inchikna seng târin Efraim pawlhai chu um an ta, an thuoitu chu Amihud naupa Elisama nîng a ta,
+{2:19} an tam zât chu sîngli le zanga a nih.
+{2:20} Anni dotah Manase pahnam um an ta, an thuoitu chu Pedazur naupa Gamaliel nîng a ta,
+{2:21} an tam zât chu sîngthum le sânghni le zahni a nih.
+{2:22} A dotah Benjamin pahnam um an ta, an thuoitu chu Gideoni naupa Abidan nîng a ta,
+{2:23} an tam zât chu singthum le sângnga le zali a nih.
+{2:24} Efraim pahnam inrawina hnuoia um po chu, an pawl the dàn dungzuiin, nuoikhat le sângriet le zakhat an nih. Anni pawl thumnaa suok dinghai chu an nih.
+{2:25} "Hmar tieng panga chun Dan pawla mihai anni inchikna seng târin um an tih. Dan pawl thuoitu chu Amisadai naupa Ahiezer nîng a ta,
+{2:26} an tam zât chu sîngruk le sânghni le zasari a nih.
+{2:27} A dotah Aser pahnam um an ta, an thuoitu chu Okran naupa Pagiel nîng a ta,
+{2:28} an tam zât chu sîngli le sângkhat le zanga a nih.
+{2:29} Anni dotah Naftali pahnam um an ta, an thuoitu chu Enan naupa Ahira nîng a ta,
+{2:30} an tam zât chu sîngnga le sângthum le zali a nih.
+{2:31} Dan pahnam inrawina hnuoia um po chu, an pawl the dàn dungzuiin, nuoi khat le sîngnga le sângsari le zaruk a nih. Anni hi mani pahnam puonzâr seng khaia a nuhnung taka suok ding an nih."
+{2:32} Riebûka um Israel thlahai, pahnam tina mi an tiem zât chu nuoi ruk le sângthum le zanga le sawmnga a nih.
+{2:33} LALPAN Mosie thu a pêk ang khan, Levi chia mihai chu Israel thlahai laia tiem sa an ni ve nawh.
+{2:34} Chuong ang chun Israel thlahai chun an thaw a, LALPAN Mosie thu a pêk ang peiin, mani pawl inchikna puonzâr târna sengah pawl tinin puon in an kei a, chuong ang chun a chî chiin, a sûngkuo kuoin an intawl suok hlak a nih.
+{3:1} Sinai tlânga LALPAN Mosie a biek laia Aron le Mosie sûngkuo chanchin chu hieng ang hi a nih:
+{3:2} Aron naupahai hming chu an upat dàn indotin Nadab, Abihu, Eleazar le Ithamar an nih.
+{3:3} Chuonghai chu thiempu sin thaw dinga hriek nâla ser hran an nih.
+{3:4} Amiruokchu, Nadab le Abihu hai chun Sinai tlângah mei thieng lo hmangin LALPA hmaah rimtui an inhlàn leiin, chi thla nei hman loin LALPA hmaah sukhlumin an um a, Eleazar le Ithamar chauin an pa Aron dam laiin thiempu sin an thaw a nih.
+{3:5} Chun, LALPA chun Mosie kuomah,
+{3:6} "Levi thlahai chu thiempu Aron kuomah thuoi la, a rong an bawl theina dingin a kuomah inumtir rawh.
+{3:7} Anni chun biekbûkah rong bawlin, Intuokna Puon ina chun thiempu le mipuihai rong chu bawl raw hai se.
+{3:8} Intuokna Puon ina hmangruo po po enkol an ta, Israel mihai an hung pha anni puola biekbûka rongbawl sin chu thawng an tih.
+{3:9} Levi chihai chu Israelhai laia Aron le a naupahai sor ding lieu lieua ka pêk suok an nih.
+{3:10} Aron le a naupahai chauh thiempu sin thaw dingin ruot rawh; mi dang tukhom hmun thienghlim hung hnai chu sukhlum nîng an tih" tiin.
+{3:11} Chun, LALPAN Mosie a biek a,
+{3:12} "Levihai hi Israel thlahai laia nuhmei sul keu hmasa takhai aia keima ngeiin ka ta dinga ka làk an nih. Levihai chu ka chanpuol an nih.
+{3:13} Nau lutîr po po ka chan an nih. Aigupta rama nau lutîr po po ka sukhlum ni khan Israelhai laia nau lutîr po po chu, a mihriem le a ranin, ka puol dingin ka hla a, anni chu ka ta ding an nih. Kei hi LALPA chu ka nih" tiin.
+{3:14} Chun, LALPAN Sinai thlalerah Mosie a biek a,
+{3:15} "Levi thlahai chu an sûngkuo kuo le an chi-hnam hnamin tiem rawh. Pasal taphot chu thla khata inthoka a chung tieng po tiem vong rawh" a ta.
+{3:16} Chuongchun, LALPAN thu a pêk angin Mosie chun a tiem tawl a.
+{3:17} Levi naupahai hming chu Gerson, Kohat le Merari a nih.
+{3:18} Gerson thlahai hming chu Libni le Simei a nih.
+{3:19} Kohat thlahai hming chu Amram, Izar, Hebron le Uziel a nih.
+{3:20} Merari thlahai hming chu Mahli le Mushi a nih. Chuonghai chu an sûngkuo inchik dàn ang peia Levi thlahai chu an nih.
+{3:21} Gerson chu Libnihai le Simeihai thlatu a na, hienghai hi a thlahai chu an nih.
+{3:22} Thla khata inthoka a chung tieng pasal an tiem po zât chu sângsari le zanga a nih.
+{3:23} Gerson thlahai chun biekbûk thlang tieng puon in an kei ding a nih.
+{3:24} Gerson thlahai inrawitu chu Lael naupa Eliasaf a nih.
+{3:25} Gerson nauhaiin Intuokna Puon ina an enkol ding chu biekbûk le puon in nîng a ta, a chung dâm, intuokna puon in kota puonzâr dâm,
+{3:26} biekbûk tuol zawla puonzâr dâm, biekbûk huoltu tuol zawl hang lûtna dinga puonzâr dâm, maichâm vela mi puonzâr dâm, chu taka hmang ding hruihruol po po le chun enkol an tih.
+{3:27} Kohat thlahai chu Amramit hnamhai, Izharit hnamhai, Hebron hnamhai le Uziel hnamhai an nih.
+{3:28} Thla khata upa china inthoka a chung tieng pasal po po chu sângriet le zaruka an nih. Kohat thlahai chu hmun thienghlim enkoltu ding an nih.
+{3:29} Anni chun biekbûk sim tieng pangah puon in kei an tih.
+{3:30} Kohat thlahai inrawitu chu Uziel naupa Elizafan a nih.
+{3:31} Anni enkol ding chu Thuthlung Bawm hai, dawkàn hai, khawnvar siena hai, maichâm hai, hmun thienghlima rongbawlna bûr le bêl po po hai, puonzâr hai le rongbawlnaa hmang chi thil hrim hrim hai chu an nih.
+{3:32} Levihai hotu lu tak chu thiempu Aron naupa Eleazar a nih. Ama chu hmun thienghlim enkoltuhai po po inrawitu dinga ruot a nih.
+{3:33} Merari thlahai le Merari hnam thla sawngtuhai chu Mahli hnam le Mushi hnam hai an nih.
+{3:34} Thla khata upa china inthoka a chung tieng pasal po po chu sângruk le zahni an nih.
+{3:35} Merari thlahai inrawitu chu Abihail naupa Zuriel a nih. Biekbûk hmar tieng pangah puon in kei an tih.
+{3:36} Merari thlahai enkol dinga ruot chu biekbûk ban rem khawm dâm, a bangruhai dâm, a banhai dâm, a ban thut ker kuokhai dâm, chuong thilhai le inzom hmangruo po pohai dâm,
+{3:37} a tuol kot inhuonna banhai dâm, ban thut ker kuokhai dâm, a kil dena le a hrui hai dâm a nih.
+{3:38} Biekbûk sak tieng intuokna puon in hmai, ni suokna tieng panga chun Mosie le Aron le an nauhaiin puon in kei an tih. Israelhai aiawa hmun thienghlim enkol chu an mawphurna a nih. Mi dang tukhomin biekbûk a va hnai chun sukhlum nîng a tih" tiin.
+{3:39} LALPA thupêka Mosie le Aronin Levi thlahai, an pahnam ang peia an tiemhai chu, thla khata upa chin le a chung tieng pasal po po chu sînghni le sânghni an nih.
+{3:40} Chun, LALPAN Mosie kuomah, "Israelhai laia nau pasal pieng hmasa tak po po, thla khata upa china inthoka a chung tieng po tiem vong la, an hming inchik rawh.
+{3:41} Israel thla nau lutîr po po aiah Levihai chu ka chanpuol an nih; Israelhai ran lutîr po po aiah Levihai ran chu ka chanpuol bok an nih. Kei hi LALPA chu ka nih" a ta.
+{3:42} Mosie chun LALPA thupêk angin Israelhai laia pasal nau lutîr po po chu a tiem a.
+{3:43} An hming indot ang peia thla khata upa china inthoka a chung tieng pasal nau lutîr po po chu sînghni le sânghni le zahni le sawmsari le pathum an nih.
+{3:44} Chun, LALPAN Mosie kuomah,
+{3:45} "Israelhai laia pasal nau lutîr po po aiah Levihai chu la la, an ran lutîr aiah Levihai ran la bok rawh; Levihai chu ka ta ding an ni si a. Kei hi LALPA chu ka nih.
+{3:46} Chun, Levihai nèkin Israelhai nau lutîrhai chu zahni le sawmsari le pathuma an tam lem leiin, a chuong po chu suma intlan ding a na,
+{3:47} mi pakhat peiah hmun thienghlima an shekel hmang ang shekel nga pei i lâk ding a nih; shekel khat chu gera sawmhni a nih.
+{3:48} Chuonghai intlanna sum chu la la, Aron le a nauhai kuomah pe rawh" a ta.
+{3:49} Chuongchun, Mosie chun Levihaiin an intlan bàk a chuong la um po intlanna sum chu a lâk khawm a;
+{3:50} Israel thla nau lutîr poa inthok chun hmun thienghlima shekel an hmang ang shekel sângkhat le zathum le sawmruk le panga a lâk khawm a.
+{3:51} LALPAN thu a pêk angin Mosie chun tlanna sum chu Aron le a naupahai a pêk a.
+{4:1} LALPA chun Mosie le Aron a biek a,
+{4:2} "Levi nau pasalhai laia mi Kohat thlahai le an sûngkuohai chu tiem ro.
+{4:3} Intuokna Puon ina rongbawla thang tlâk pasal kum sawmthum le sawmnga inkàr mi po po chu tiem vong ro.
+{4:4} "Kohat thlahai sin tak chu Intuokna Puon in, hmun thienghlimtaka thilhai enkol a nih.
+{4:5} Riebûk an inson ding pha Aron le a naupahai chu Intuokna Puon inah lût an ta, hmun thienghlim puonzâr chu hlîp thlâng an ta, chu chun Thuthlung Bawm chu inkhum an ta,
+{4:6} chu chunga chun tui bawng vunin inkhum an ta, chu chunga chun puon dumpawlin inkhum nawk an ta, a zawnfung inbûk an tih.
+{4:7} "Chun, hlanbei siena dawkàn chunga chun puon dumpawl phàng an ta, chu chunga chun thlênghai, haihawhai, berbuhai, dawn thilhlân bun suokna no tung ring rêk le ieng lai khoma sie zing hlak hlànbei chu sieng an ta.
+{4:8} Chu chunga chun puon senlârin inkhum an ta, chu chu tui bawng vunin inkhum nawk an ta, a zawnfung inbûk an tih.
+{4:9} "Chun, khawnvar siena le a khawnvarhai, a phità chep ruolna chaichehai, a váp siena thlênghai le khawnvar tuia hmang oliv hriek siena bûr po po chu puon dumpawlin inkhum an tih.
+{4:10} Chuonghai le a bebawm hmangruo danghai chu tui bawng vunin tuom an ta, a zawnna chunga chun an sie ding a nih.
+{4:11} "Rangkachak maichâm chu puon dumpawlin inkhum an ta, chu chunga chun tui bawng vunin inkhum nawk an ta, a zawnfung inbûk an tih.
+{4:12} "Hmun thienghlima hmang rongbawlna hmangruo po po chu lâng an ta, puon dumpawlin fùn an ta, tui bawng vunin tuom nawk an ta, a zawnna chunga chun sieng an tih.
+{4:13} "Dâr maichâma vut po po an inthiel fai zoah puon sendukin inkhum an ta,
+{4:14} chu zoah maichâm rongbawlnaa an hmang bûr le bêl po po, mei làkna berbu dâm, sa thurna thirkut dâm, vutluo dâm le maihùn dâm thangsain, maichâm chunga chun sieng an ta, a chunga chun tui bawng vunin inkhum an ta, a zawnfung inbûk an tih.
+{4:15} "Aron le a naupahaiin hmangruo thienghlimhai le thil thienghlimhai po po an inkhum vong hnungin, an riebûk an inson ding pha, Kohat nauhai chun zawn dingin an hung inthok ding a nih. Thil thienghlim ruok chu an tawk ding a ni nawh, an tawk chun thîng an tih. Intuokna Puon ina thil um po po zawn chu Kohat thlahai chanpuol ding a nih.
+{4:16} "Thiempu Aron naupa Eleazar thaw ding chu khawnvara sit ding oliv hriek dâm, rim inhnik dâm, bu le bâl thilhlâna hmang ding hmangruo dâm le hriek nâl ding dâm ngaituo a nih. Biekbûk le a sûnga um po po, a cheina le hmangruohai po po enkol chu a mawphurna nîng a tih" tiin.
+{4:17} Chun, LALPA chun Mosie le Aron kuomah,
+{4:18} "Kohathai hi Levi thlaa inthoka thè thlâk an ni nawna dingin fimkhur ro.
+{4:19} Thil thienghlim tak hung hnaia an thi pha nawna dingin hieng ang hin thawpêk ro: Aron le a naupahai chu biekbûkah lûtin mi tin sin thaw ding le chanpuol ding seng chu ruotpêk raw hai se.
+{4:20} Amiruokchu, Kohathai chu a sûngah lûtin thil thienghlimhai an en vel ding a ni nawh, sawt naw te khom an lût chun thîng an tih" tiin.
+{4:21} LALPAN Mosie a biek a,
+{4:22} "Gerson thlahai le sûngkuohai khom tiem rawh.
+{4:23} Intuokna Puon ina rongbawla thang thei pasal kum sawmthum le sawmnga inkâr mihai chu tiem vong rawh.
+{4:24} Gerson thlahai sin puol chu thil phur a nih.
+{4:25} Biekbûk puonzârhai, intuokna puon inhai, a'n khumna hai, a chung inkhumna tui bawng vunhai, Intuokna Puon in kotkhâra puonzâr hai,
+{4:26} tuol inhuonna kotkhâra puonzâr hai, biekbûk le maichâm bula puonzâr hai, a hruihai le hmangruo dang po po chu phur an ta, thaw ding tùl taphot chu thawng an tih.
+{4:27} Thil phur amanih le thil dang Gerson thlahaiin an thaw hrim hrim chu Aron le a nau pasalhai inrawina hnuoiah thawng an ta, an sin ding neu neu chen ruotpêk dingin thu i'n neitir ding a nih.
+{4:28} Chuong chu Intuokna puon ina Gerson thlahai thaw ding chu a nih; an thaw ding chu thiempu Aron naupa Ithamarin rêlpêk a tih.
+{4:29} "Merari thlahai le sûngkuohai khom tiem rawh.
+{4:30} Intuokna Puon ina rongbawla thang thei pasal kum sawmthum le sawmnga inkâr mihai chu tiem vong rawh.
+{4:31} Intuokna Puon ina an sin ding le chanpuol ding chu thil phur, biekbûk ban rem khawm hai, a bangru hai, a ban hai, a ban thut ker kuok hai,
+{4:32} a tuol inhuonna vela ban hai, a ban thut ker kuok hai, a kildena hai, a hruihruol hai le a hmangruo dang po po phur chu a nih. An phur ding seng i ruotpêk thlap ding a nih.
+{4:33} Hi hi Merari thlahaiin thiempu Aron naupa Ithamar inrawina hnuoia Intuokna puon ina rong an bawl dàn ding le an sin ding chu a nih.
+{4:34} Mosie le Aron le khawtlâng hotuhai chun Kohat chi le kuong le sûngkuohai chu an tiem a.
+{4:35} Intuokna Puon ina sin thaw tlàk, pasal kum sawmthum le sawmnga inkâr an tiem po po hming chu an ziek thlâk a,
+{4:36} an ziek lûthai po chu sânghni le zasari le sawmnga an nih.
+{4:37} Chuonghai chu Kohat thlahai, Intuokna Puon ina sinthaw, LALPAN Mosie thu a pêk anga Mosie le Aronin an tiem po zât chu a nih.
+{4:38} Gerson thlahai, Intuokna Puon ina sin thaw dinghai khom chu an chi le kuong le sûngkuo ang peiin an tiem a.
+{4:39} Pasal kum sawmthum le sawmnga inkâr po an tiem a,
+{4:40} an chi le kuong le sûngkuo ang peia an tiem po chu sânghni le zaruk le sawmthum an nih.
+{4:41} Chuonghai chu Gerson thlahai, Intuokna Puon ina sinthaw, LALPAN Mosie thu a pêk anga Mosie le Aronin an tiem po zât chu an nih.
+{4:42} Merari thlahai, Intuokna Puon ina sin thaw dinghai khom chu an chi le kuong le sûngkuo ang peiin an tiem a.
+{4:43} Pasal kum sawmthum le sawmnga inkâr po an tiem a,
+{4:44} an chi le kuong le sûngkuo ang peia an tiemhai chu sângthum le zahnih an nih.
+{4:45} Chuonghai chu Merari thlahai, Intuokna Puon ina sinthaw, LALPAN Mosie thu a pêk anga Mosie le Aronin an tiem po zât chu an nih.
+{4:46} Chuong ang chun Mosie le Aron le Israelhai hotuhai chun Levi thlahai chu an chi le kuong le sûngkuo kuoin an tiem vong a.
+{4:47} Intuokna Puon ina sin thaw ding le puon in phurtu dinga hung pasal kum sawmthum le sawmnga inkâra upa an tiem po chu,
+{4:48} mi sângriet le zanga le sawmriet an nih.
+{4:49} Mosie hmanga LALPA thupêk angin, mi tin sin thaw ding le phur ding chu ruotpêk a na, LALPAN Mosie kuoma thu a pêk anga tiem vong an ni bok.
+{5:1} Chun, LALPAN Mosie kuomah,
+{5:2} "Inkai thei vun hri nei amanih, taksaa inthoka thil pût nei hrim hrim amanih, mithi ruong tawk leia insukporche po po chu riebûka inthoka tir suok vong dingin Israelhai chu thu pe rawh.
+{5:3} Anni laia ka chèngna hmun chu an sukporche nawna dingin, a nuhmei a pasalin dai puo tieng i tir hmang vong ding a nih" a ta.
+{5:4} Mosie kuoma LALPAN thu a pêk ang tak chun Israelhai chun an thaw a, riebûk puo tieng chun an tir hmang ta vong a.
+{5:5} LALPA chun Mosie a biek a,
+{5:6} "Israelhai kuomah hieng ang hin hril rawh: LALPA thu bawsein, pasal amanih nuhmei amanih tu khomin mi chungah thil poi a thaw chun thiem naw chang a ta,
+{5:7} suol a thaw lei chun thupha chawi a ta, a suol thaw man chu a kimin rul a ta, a suol thawna tuortu chu hmun ngaa thea hmun khat pe belsàng a tih.
+{5:8} Amiruokchu, suol man intêltu ding chu a thi a, sûngkuo inhnaipui a nei si naw chun, suol rulna man chu thiempu chanpuola dingin LALPA kuoma pêk ding a nih. Hi hi inremna dinga suol thawinaa beram chal inhlàn bâka pèk ding a nih.
+{5:9} Israel thlahaiin chuong ang thilthlawnpêk thienghlim thiempu kuoma an hung chawi taphot chu thiempu chan nîng a tih.
+{5:10} Thiempu tinin thilhlân an dong seng chu an chan nîng a tih" a ta.
+{5:11} LALPA chun Mosie a biek a,
+{5:12} "Israelhai kuomah hieng ang hin hril rawh: nuhmei tu khom a pasal lakah ringum loin a um a,
+{5:13} mi dangin an zâlpui ti a pasal lakah a thup a, a chetsuol lai chie hmutu an um naw a, a uiret laia man a ni bok naw a,
+{5:14} sienkhom a pasal chu thîkna lungrilin a sip a, a nuhmei chu a ringhlel a, a nuhmei chu a lo chesuol bok si amanih, an naw leh chesuol naw sienla khom a pasal chun thîkthu siet leia a ringhlel tlat si chun,
+{5:15} a nuhmei aiawin thìk thilhlàna ding barli beiphit kilogram khat chawiin a nuhmei chu thiempu kuomah thuoi a tih. Beiphita chun hriek a buok ding a ni naw a, rim inhnik a pol sa ding a ni bok nawh; chu chu nuhmei ringhlel umhai leia thilhlân, hriet zingna thilhlân, thiem nawna man suokna dinga thilhlân a ni si a.
+{5:16} "Thiempu chun nuhmei chu hung thuoi a ta, LALPA hmaah inngìrtir a ta;
+{5:17} pil bêlin tui thienghlim chawi a ta, tuia chun biekbûk tuonga pilvut chu hamin phul a tih.
+{5:18} Thiempuin nuhmei chu LALPA hmaah inngìrtir a ta, a samtom insûttirin a sam chu a thlaiin put a ta, a kuta chun fiena beiphit, thîk thawina thilhlân chu inchawitir a ta, ama chun tui sie, tongsie inphurtirna tui chu chawi a tih.
+{5:19} Thiempu chun nuhmei chu inkhâmtirin a kuomah, "Tu khomin an zàlpui naw che a, i pasal thu hnuoia i um sûngin tirdakum tieng i pèt hmang naw chun tongsie phurtu tui siea inthok hin fihlim i tih.
+{5:20} Amiruokchu, i pasal thu hnuoia i um laiin i pêt hmang a, i pasal ni lo mi dang zàlpuia i lo insukporche a ni chun,
+{5:21} LALPAN i malpui inkârb inhmontirin i phing inpuomtir sien, i mihai inhnawltirin an tongsie inphurtir rawh se che.
+{5:22} Hi tui sie, tongsie phur hi i rilah lûtin i phing sukpuom sien, i malpui inkâr sukhmon raw se" tîng a ta, nuhmei chun "Amen, Amen" a ti ding a nih.
+{5:23} "Thiempu chun tongsiehai chu savun lekhaziela chun ziek thlâng a ta, tui siea chun intleu fai a ta,
+{5:24} nuhmei chu tongsie inphurna tui sie chu indawntir a ta, tongsie intluntu tui chu a phìngah lût a ta, nasa takin a phìng suknâng a tih.
+{5:25} Thiempu chun thîk thilhlân beiphit chu nuhmei kuta inthok chun lâng a ta, LALPA hmaah beiphit thilhlân chu thèn a ta, maichâma chun fepui a tih.
+{5:26} Thiempu chun hrietzingna thilhlân beiphit chu vei khat lâng a ta, maichâma chun rawng a ta, chu zoah nuhmei chu tui sie indawntir a tih.
+{5:27} Tui a'n dawntir zo chun, nuhmei chu insukporchea a pasal lakah a lo uire a ni chun, tongsie intluntu tui sie chu a sûngah lût a ta, nasa takin a phìng hung nâng a ta, a phing chu hung invûng a ta, a malpui inkâr chu hung hmon thla vong a ta, a chipuihai tongsie phurtu hung nîng a tih.
+{5:28} Amiruokchu, nuhmei chu a porche naw chun thiem nawna laka chun fihlim a ta, nau la nei thei pei a tih.
+{5:29} "Hi hi nuhmei tu khom a pèt hmang a, a pasal lakah a'n sukporche phaa inthîkna chungchànga dàn chu a nih.
+{5:30} Pasalin thikthusiet lei hrim hrima mi dang laka a nuhmei a ringhlel a ni chun a nuhmei chu Pathien hmaah thuoi sien la, thiempu chun hieng dânhai ang hin a chungah thil a lo thaw ding a nih.
+{5:31} Chuong anga a thaw chun, pasal chu thiem naw chang theina laka chun fihlim a ta, nuhmei chun a suol maw chu phur a tih" tiin.
+{6:1} LALPA chun Mosie kuomah,
+{6:2} "Israelhai kuomah hieng ang hin hril rawh: 'Tu khom pasal amanih nuhmei amanih intiemkamna bîk nei, LALPA ta dinga inser hrang dinga Nazarc thutiem nei lai chun inrui thei uoiin le zu dang hrim hrim a nghei ding a nih;
+{6:3} uoiin amanih thil danga inthoka siem zu thur hrim hrim amani le grêp ra tui khom a dawn ding a ni naw a, grêp ra tharlâm amanih le grêp ra inhro tawl amanih khom a fâk ding a ni nawh.
+{6:4} Nazarin thutiem neia a'n ser hrang lai chun grêp huona mi hrim hrim, a mu le a hawng takngiel khom a fâk ding a ni nawh.
+{6:5} " 'Thu tiema a'n ser hrang sùng chun a luah hmul vawna hrim hrim a hmang ding a ni nawh. LALPA ta dinga a'n ser hrang sùng hun a kim hma chun insie hrang a ta, a sam a hlà ding a nih.
+{6:6} LALPA ta dinga a'n ser hran sùng po chun mithi ruong a hnai ding a ni nawh.
+{6:7} A nu le pa le a unauhai le farnuhai thi khomin a'n sukporche ding a ni nawh, Pathien ta dinga a'n ser hrangna chun a phuor leiin.
+{6:8} A'n ser hran sùng po chun LALPA ta dinga ser thienghlim a nih.
+{6:9} " 'A bula mi an thi pal thut a, a'n ser hrangna a lu a sukporche chun, an thien ni, a nisarinaa chun a lu chu a vaw ding a nih.
+{6:10} A ni rietnaa chun Intuokna Puon in kotah vàthu amanih pàrva tuoi amanih tuok khat thiempu kuomah a hung chawi ding a nih.
+{6:11} Pakhat chu suol thawina dingin thiempu chun inhlàn a ta, pakhat chu mithi ruong leia suol a thawna laka inremna siempêk dingin pumraw thilhlânah inhlàn a tih. Chu ni ngei chun a lu chu a'n hlàn thienghlim ding a nih.
+{6:12} Thiem naw inthawina dingin beram chal tuoi, kum khat mi hung chawiin a'n ser hrangna chu LALPA kuomah thaw tha nawk a ta, a hmaa a'n ser hranna kha sukporche a ni tàk leiin tiem sa ve ni ta naw nih.
+{6:13} " 'A'n ser hrangna ni a kim phaa Nazar mi chunga thaw dàn ding chu hieng hi a nih: Intuokna Puon in kotah thuoi ding a nih.
+{6:14} LALPA ta dingin beramchal kum khat mi soisel bo chu pumraw thilhlânah, beram la tuoi kum khat mi soisel bo chu suol thawina thilhlânah, beramchal soisel bo pakhat chu inremna inthawina thilhlânah inhlàn a ta,
+{6:15} chuonghai chu bu le bâl le dawn thilhlân- chol thang lo bei dâm, beiphit indip tak le hriek chokpola siem kêk dâm le beiper hriek nàl bawm khat le chun- a ruolin a'n hlàn ding a nih.
+{6:16} " 'Thiempu chun chuonghai chu LALPA hmaah inhlànin, suol thawina thilhlân le pumraw thilhlân chu inhlàn a tih.
+{6:17} Bawma chol thang lo bei le chun beramchal chu inremna inthawina thilhlâna dingin LALPA kuomah thiempu chun inhlàn a ta; chun, bu le bâl thilhlân le dawn thilhlân khom chu inhlàn sa bok a tih.
+{6:18} Nazar mi chun Intuokna Puon in kotah a lu invawtir a ta, a'n ser hrangna sam chu lâng a ta, inremna inthawina thilhlâna dingin meia chun rawng a tih.
+{6:19} " 'Nazar miin a'n ser hrangna lu an vawtir zo chun thiempu chun a kutah beram dàr, suong hmin sa le bawma chol thang lo bei le beiper chu inchawitir a tih.
+{6:20} Chu zoah thiempu chun LALPA hmaa thèn thilhlâna dingin thên a ta, chu chu thil thienghlim, thiempu chanpuol nîng a tih, thèn thilhlân a irawm le a mal le chun. Chu zoa chun Nazar mi chun uoiin dawn thei tàng a tih.
+{6:21} Hi hi inser hrang a nuom dàn anga Nazar thutiem thaw dàn le LALPA hmaa a thil inhlàn dàn ding chu a nih, ama nuom thua thil a'n hlànhai chu tiem sa loin. Intiemkamna a nei taphot chu Nazar dàn angin a hlen ding a nih' tiin hril tawl rawh" a ta.
+{6:22} Chun, LALPA chun Mosie a biek a,
+{6:23} "Aron le a naupahai hril la, 'Hieng ang hi Israelhai mal in sawm hlak dàn ding chu a nih:
+{6:24} 'LALPAN malsawmin vêng chêu raw se;
+{6:25} In chungah LALPA hmèl hlim sien, Lunginsiet chêu raw se;
+{6:26} Nangni tieng LALPA ngha sien,Thlamuongna pe chêu raw se'tiin.
+{6:27} Chuong ang chun Israelhai chungah ka hming insam an ta, keiin anni chu malsawm ka tih," a ta.
+{7:1} Mosien biekbûk a'n ngìr zo chun a cheina hmangruo po po leh hriek nâlin a'n hlân thienghlim a. Maichâm le a bungbêl po po khom hriek nàlin a'n hlân thienghlim bok a.
+{7:2} Chu zoah Israel hnam thuoituhai, pahnam tin tiemnaa thuoitua an hmanghai chu an hung a, thilhlân an hung chawi seng a.
+{7:3} An thilhlânhai chu tawlailir chung khum nei paruk le bawngchal sawm le pahnih a nih. Thuoitu pahniin tawlailir pakhat pei an thaw intawm a, thuoitu tinin bawngchal pakhat pei an hung tuok a, chuonghai chu biekbûk kota chun LALPA kuomah an hung inhlàn a.
+{7:4} LALPA chun Mosie kuomah,
+{7:5} "Hieng thilpêkhai hi Intuokna Puon ina hmang dingin lo pom rawh. Levihai kuomah an sin zira an mamaw ang peiin sem rawh" a ta.
+{7:6} Mosie chun tawlailir paruk le bawngchalhai chu a lâk a, Levihai kuomah a pêk a.
+{7:7} An sina an mamaw ang peiin Gersonhai chu tawlailir pahni le bawngchal pali a pêk a,
+{7:8} an sina an mamaw ang dungzuiin Merarihai chu tawlailir pali le bawngchal pariet a pêk bok a. An rêng chun thiempu Aron naupa Ithamar inrawina hnuoia sinthaw vong an nih.
+{7:9} Kohathai ruok chu hmun thienghlima thil put le zawn chu an mawphurna a ni leiin Mosie chun a pêk ve tawl nawh.
+{7:10} Mosien maichâm chu hriek nâla a'n thien zo chun maichâm inhlàn thienghlim lawmna dinga thuoituhaiin thilhlàn an hung chawihai chu maichâm bulah an hung inhlàn a.
+{7:11} LALPA chun Mosie kuomah, "Chi-hnam tina luhai sengin an thilpêkhai chu ahmatiemin ni khatah pakhat peiin an hung inhlàn ding a nih" a ta.
+{7:12} A ni khat nia thilhlân hung chawi hmasa tak chu Juda hnama mi Aminadab naupa Nason a nih.
+{7:13} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak, hriek le pol beiphit indip taka sung sip hmar ve ve dâm;
+{7:14} shekel sawma rik rangkachak berbu, raw ding rim inhnika sung sip dâm;
+{7:15} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:16} suol inthawina ding kêl chal pakhat;
+{7:17} inremna inthawina ding bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Aminadab naupa Nason thil inhlànhai chu a nih.
+{7:18} A ni hninaa thilhlân hung chawitu chu Isakar hnama mi Zuar naupa Nathanel a nih.
+{7:19} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:20} shekel sawma rik rangkachak berbu, raw ding rim inhnika sung sip dâm;
+{7:21} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:22} suol inthawina dingin kêl chal pakhat;
+{7:23} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Zuar naupa Nethanel thil inhlànhai chu a nih.
+{7:24} A ni thumnaa thilhlan hung chawitu chu Zebulun hnama mi Helon naupa Eliab a nih.
+{7:25} A thil inhlânhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:26} shekel sawma rik rangkachak berbu, raw ding rim inhnika sung sip dâm;
+{7:27} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:28} suol inthawina dingin kêl chal pakhat;
+{7:29} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Helon naupa Eliab thil inhlànhai chu a nih.
+{7:30} A ni linaa thilhlân hung chawitu chu Reuben hnama mi Elizur naupa Sedeur a nih.
+{7:31} A thil inhlânhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:32} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:33} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat dâm;
+{7:34} suol inthawina dingin kêl chal pakhat;
+{7:35} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Elizur naupa Sedeur thil inhlànhai chu a nih.
+{7:36} A ni nganaa thilhlân hung chawitu chu Simeon hnama mi Selumiel naupa Zurisadai a nih.
+{7:37} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkawruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:38} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:39} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:40} suol inthawina dingin kêl chal pakhat;
+{7:41} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Selumiel naupa Zurisadai thil inhlànhai chu a nih.
+{7:42} A ni ruknaa thilhlân hung chawitu chu Gad hnama mi Eliasaf naupa Deuel a nih.
+{7:43} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:44} shekel sawma rik rangkachak berbu, raw ding rim inhnika sung sip dâm;
+{7:45} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:46} suol inthawina dingin kêl chal pakhat;
+{7:47} inremna inthawina dingin bawngchal pahni, beramchal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Eliasaf naupa Deuel thil inhlànhai chu a nih.
+{7:48} A ni sarinaa thilhlân hung chawitu chu Efraim hnama mi Amihud naupa Elisama a nih.
+{7:49} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:50} shekel sawma rik rangkachak berbu, raw ding rim inhnika sung sip dâm;
+{7:51} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:52} suol inthawina dingin kêl chal pakhat;
+{7:53} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Amihud naupa Elisama thil inhlànhai chu a nih.
+{7:54} A ni rietnaa thilhlân hung chawitu chu Manase hnama mi Pedahzur naupa Gamaliel a nih.
+{7:55} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:56} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:57} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakha;
+{7:58} suol inthawina dingin kêl chal pakhat;
+{7:59} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Pedahzur naupa Gamaliel thil inhlànhai chu a nih.
+{7:60} A ni kuona thilhlân hung chawitu chu Benjamin hnama mi Gideoni naupa Abidan a nih.
+{7:61} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:62} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:63} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:64} suol inthawina dingin kêl chal pakhat;
+{7:65} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Gideoni naupa Abidan thil inhlànhai chu a nih.
+{7:66} A ni sawmnaa thilhlân hung chawitu chu Dan hnama mi Amisadai naupa Ahiezer a nih.
+{7:67} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:68} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:69} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:70} suol inthawina dingin kêl chal pakhat;
+{7:71} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Amisadai naupa Ahiezer thil inhlànhai chu a nih.
+{7:72} A ni sawmpakhatnaa thilhlân hung chawitu chu Aser hnama mi Okran naupa Pagiel a nih.
+{7:73} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak, hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:74} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:75} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:76} suol inthawina dingin kêl chal pakhat;
+{7:77} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Okran naupa Pagiel thil inhlànhai chu a nih.
+{7:78} A ni sawmpahninaa thilhlân hung chawitu chu Naftali hnama mi Enan naupa Ahira a nih.
+{7:79} A thil inhlànhai chu tangkaruo thlêng pakhat, hmun thienghlima hmang shekel za le sawmthuma rik le tui amanih thisen amanih thènaa hmang chi tangkaruo maihùn pakhat, shekel sawmsari tluka rik, bu le bâl thilhlâna hmang hlak hriek le pol beiphit indip taka a pahnia sung sip hmar ve ve dâm;
+{7:80} shekel sawma rik rangkachak berbu, raw ding rim inhnika sip dâm;
+{7:81} pumraw inthawia hmang ding bawng chal tuoi pakhat, beram chal pakhat le kum khata upa beram tuoi pakhat;
+{7:82} suol inthawina dingin kêl chal pakhat;
+{7:83} inremna inthawina dingin bawng chal pahni, beram chal panga, kêl chal panga le kum khata upa beram tuoi panga dâm a nih. Chuonghai chu Enan naupa Ahira thil inhlànhai chu a nih.
+{7:84} Hriek nàla maichâm an inhlàn lawmnaa Israel pahnam tin luhai thil inhlânhai chu hieng hi a nih: tangkaruo thlêng sawmpahni, tangkaruo maihùn sawmpahni le rangkachak berbu sawmpahni a nih.
+{7:85} Tangkaruo thlêng pakhat pei rikzie chu shekel za le sawmthum a na, tangkaruo berbu pakhat rikzie chu shekel sawmsari a nih. Hmun thienghlima hmang shekel anga inkhi chun tangkaruo thlêng le berbu po po rikzie chu shekel sânghni le zalid a nih.
+{7:86} Hmun thienghlima hmang shekel anga inkhi chun rim inhnik thun sip rangkachak berbu sawmpahni rikzie chu shekel za le sawmhnie a nih.
+{7:87} Bu le bâl thilhlân khom thang sain, pumraw inthawinaa ran an inhlàn po chu bawng chal tuoi sawm le pahni, beram chal sawm le pahni, kum khata upa beram tuoi sawm le pahni a nih. Suol thawinaa ran an inhlàn po po chu kel chal sawm le pahni a nih.
+{7:88} Inremna thilhlâna ran an inhlàn po po chu bawng chal sawmhni le pali, beram chal sawmruk, kêl chal sawmruk, kum khata upa beram tuoi sawmruk a nih. Chuonghai chu hriek nâla maichâm an inhlân nia an thuoituhai thilpêkhai chu a nih.
+{7:89} Chuongchun, Intuokna Puon ina LALPA be dinga Mosie a lût chun Thuthlung bawm chunga zangaina thungphaa cherubhai inkâra inthok chun rawlin a hung biek ti a hriet a, a'n biekpui a.
+{8:1} Chun, LALPAN Mosie a biek a,
+{8:2} "Aron inbiekpui la, a kuomah, 'Khawnvar pasarihai hi a'n sit pha chun khawnvar siena hma zawn tieng an el var ding a nih' tiin hril rawh" a ta.
+{8:3} Aron chun chuong ang tak chun a thaw a, Mosie kuoma Pathienin thu a pêk angin, khawnvarhai chu khawnvar siena hma zawn tieng a'n nghattir vong a.
+{8:4} Khawnvar siena chu a thuta inthoka a lèra a pâr lim chenin rangkachaka siem, LALPAN a lem Mosie a'n entir anga ser le sut a nih.
+{8:5} LALPA chun Mosie kuomah,
+{8:6} "Levihai hi Israel thlahai laia inthokin la hrang la, inser thieng tawl rawh.
+{8:7} Ser thiengna dingin hieng hin thaw rawh: an chungah inthienna tui thè khum la, an pumin invaw faitir vong la, an silfènhai insawptir la, insukthieng raw se.
+{8:8} Bawngchal tuoi pakhat le bu le bâl thilhlâna dingin beiphit indip tak, hriek le pol chu hung inlâktir la, suol thawina dingin bawng chal tuoi pakhat hung inkeitir bok rawh.
+{8:9} Levihai chu Intuokna Puon in kotah hung thuoi tawl la, Israel thlahai po po khom hung ko khawm rawh.
+{8:10} Levihai chu LALPA hmaah hung thuoi la, Israelhaiin an lu chungah kut innghat raw hai se.
+{8:11} Levihai chun LALPA rong an bawl theina dingin anni chu LALPA hmaa Israelhai thèn thilhlâna dingin Aronin inhlàn tawl raw se.
+{8:12} "Bawngchal luah Levihaiin kut an innghat hnung chun, pakhat chu suol thawina dingin, a pakhat dang chu Levihai ta dinga inremna siemna dinga pumraw thilhlânah LALPA kuomah inhlàn rawh.
+{8:13} Levihai chu Aron le a naupahai hmaah inngîrtir la, LALPA kuoma thèn thilhlânah inhlàn tawl rawh.
+{8:14} Chuong ang chun Levihai chu Israel mihaia inthokin ser hrang i ta, anni chu ka chanpuol nîng an tih.
+{8:15} "Levihai chu sukthieng a, thèn thilhlàna i'n hlàn zo pha leh Intuokna Puon inah hungin ka rong an bawl ding a nih.
+{8:16} Israel thlahai laia ka chan lieu lieua ruot an ni si a; Israel thlahai laia nau lutîr, sul keu hmasa tak, ka chanpuolhai aiawa ka lâkhai chu an nih.
+{8:17} Israel rama nau lutîr po po chu, mihriem ni sien, ran ni sien, ka ta an nih. Aigupta mihai ka sukhlum lai khan ka chanpuola ka ruot an ni tah.
+{8:18} Israel nau lutîr po po aiin Levihai hi ka lâk a nih.
+{8:19} Israel thlahai aiawa Inbiekna Puon ina rong bawl ding le Israel thlahaiin hmun thienghlim an hung hnai khoma anni lai hri a'n lèng nawna dinga inremna siemna dingin Israel thlahai laia inthokin Levihai hi Aron le a naupahai kuomah ka pêk a nih" tiin.
+{8:20} LALPAN thu Mosie a pêk ang takin Mosie le Aron le Israel thla pung khawm po po chun Levihai chunga chun an thaw a.
+{8:21} Levihai chun insukthiengin, an puonhai an sawp a; anni inthienna dinga inremna inthawina siempêkin, thèn thilhlân angin Aron chun anni chu LALPA hmaah a'n hlàn a.
+{8:22} Chu hnung chun Levihai chu Aron le a naupahai inrawina hnuoia rong bawl dingin Intuokna Puon in sûnga chun an lût a. LALPAN Mosie kuoma a hril ang thlapin Levihai chunga chun an thaw a.
+{8:23} LALPA chun Mosie kuomah,
+{8:24} "Hi hi Levihai chungthua hmang ding chu a nih: kum sawmhni panga an tling pha Intuokna Puon inah sin an thaw seng ding a nih.
+{8:25} Kum sawmnga an tling pha an chawl ding a nih.
+{8:26} Intuokna Puon ina sinthaw an chipuihai chu thangpui thei an ta, anni puol ruok chun rong an bawl ding a ni ta nawh. Hieng ang hin Levihai sin le mawphurna chu i rèlpêk ding a nih" a ta.
+{9:1} Aigupta ram an suoksana inthoka kum hnina thla hmasa taka chun Sinai thlalerah LALPAN Mosie a biek a,
+{9:2} "Israel thlahai chu a hunbi takah Fekân Kùt inhmangtir rawh.
+{9:3} A hunbi takah, hi thla ni sawm le ni lina zân tieng hin nei in ta, chu taka thaw dàn dinga bituk po po ang chun in thaw ding a nih" tiin a hril a.
+{9:4} Chuong anga Fekân Kùt hmang ding chun Mosien Israel thlahai chu a hril a,
+{9:5} a ti angin Sinai thlalera chun thla hmasa tak ni sawm le ni lina thimbut chun an hmang a, LALPAN Mosie kuoma thu a pêk ang takin Israel thlahai chun an thaw a.
+{9:6} Anni lai chun mi thenkhat, chu nia mithi ruong an nei leia inthieng lo le hmang thei lo an um a. Anni chu Mosie le Aron kuomah an hung a,
+{9:7} "Mithi ruong leia inthieng lo kan ni a, amiruokchu Israel thlahaiin a hunbi taka LALPA kuoma thilhlân an inhlàn huna kan inhlàn ve ding ieng leiin am in mi khappèk ding a na?" an ta.
+{9:8} Mosie chun, "Nangni chungthua LALPA thupêk ka hmu hmakhat chu lo nghâk ro" a ta.
+{9:9} Chun, LALPA chun Mosie kuomah,
+{9:10} "Israelhai kuomah hieng hin hril rawh: Nangni le in thlahai lai tu khom mithi leia inthieng lo amanih, khuol inzin amanih an um hlauh chun Fekân Kùt hi an hmang ve hrim hrim ding a nih.
+{9:11} Thla hnina, ni sawm le ni li thimbutah hmang an ta, beram sa chu chol thang lo bei le hna hring kha leh an fâk ding a nih.
+{9:12} A zînga dingin ieng khom an sie ding a ni naw a, a ru an suktliek ding a ni bok nawh. Fekân Kùt an hmang pha leh a hmang dàn ding ang takin an thaw ding a nih.
+{9:13} Tu khom mithi ruong leia inthieng lo le khuol inzin lei ni si loa Fekân Kùta thang ve lo a um chun, LALPA kuoma a hunbi taka thil inhlàn ding chu a'n hlàn ve naw leiin ama chun a maw chu phur a ta, a chipuihai laia inthoka tuithlàr nîng a tih.
+{9:14} "Nangni laia khawsa ram dang miin LALPA Fekân Kùt hi hmang ve a nuom chun a hmang dàn ding ang takin hmang ve raw se. A rama pieng le ram dang mihai ta ding khomin dàn thuhmun in nei ding a nih" tiin.
+{9:15} Biekbûk, Thuthlung Puon in an inngîr ni chun, sûmin a hung tuom mup a, biekbûk chunga chun mei chok angin zântienga inthokin zîngkar chen a um a.
+{9:16} Chuong ang chun a um a, sûm chun a tuom zing a, zâna chun mei chok angin a'n lang a.
+{9:17} Sûmin puon in chu a'n kiengsan pha leh Israel thlahai chu an inthok suok a, sûm chu a ngîrna hmun taphotah umhmun an khuor a.
+{9:18} LALPA thupêk ang peiin Israelhai chu an inthok suok a, a thupêk ang peiin umhmun an khuor a, biekbûk chunga sûm a um sûng po chu riebûk an son ngai nawh.
+{9:19} Biekbûk chunga sawt tak sûm a um chang khomin, Israelhai chun LALPA thupêk chu zawmin an fe son ngai nawh.
+{9:20} A châng chun sûm chu biekbûk chungah ni sawt nawte a um a, LALPA thuin hmun an khuor a, chu zoah a thupêk angin an inson nawk pei a.
+{9:21} A châng chun sûm chu zântienga inthoka a tûk zîngkâr chen chauh a um a, zîngkar a'n kieng pha an inthok suok nawk a. Sun ni sien, zân ni sien, sûm chu an kieng pha leh an inthok suok el a nih.
+{9:22} Sûm chu biekbûk chungah ni hni dâm, thla khat dâm le kum khat dâm a um chun an châm zing a, a'n kieng pha an inthok suok chauh hlak.
+{9:23} LALPAN Mosie hmanga thu a pêk ang taka LALPA thu chu zawmin, LALPA thupêk angin hmun an khuor a, LALPA thupêk angin an inthok suok hlak a nih.
+{10:1} Chun, LALPA chun Mosie a biek a,
+{10:2} "Mipuihai ko khawmna ding le riebûk inson ding phaa.inhriettirnaa hmang dingin tangkaruoin tawtawrawt pahni insuttir rawh.
+{10:3} Chu chu an mùt kop chun mipui po po i kuomah Intuokna Puon in kot bulah an hung tlân khawm vong ding a nih.
+{10:4} Pakhat chauh an mùt chun, Israel pahnam tina lukhaituhai chauh i hmaah an hung khawm ding a nih.
+{10:5} Chun, râlkhêl ri anga an mùt chun suo tienga um hai chu an suok ding a nih.
+{10:6} Râl khêl ri anga an mùt voi hninaah sim tienga umhai an suok ding a nih. Râlkhêl ri chu inthok suok ding ti hrilna a nih.
+{10:7} Mipui ko khawmna dinga in mùt pha ruok chu râlkhêl ri angin mût naw ro.
+{10:8} "Aron le a thla thiempuhai hi tawtawrawt mûttu ding chu an nih. Hi hi nangni le in thlahai chena in kumkhaw thaw dàn ding chu a nih.
+{10:9} In rama in hmèlma, neksawrtuhai cheu do dinga in suok ding pha leh râlkhêl mùtin tawtawrawt in mùt ding a nih. Chuong anga in thaw chun LALPA in Pathienin hre zing a ti cheu a, hmèlmahai lakah san suok a ti cheu.
+{10:10} Chun, in hlim ni, a hunbia in kùt châng le thla thar lawmna in nei châng dâm le pumraw thilhlân le inremna thilhlân in thaw chângin in mùt hlak bok ding a nih. Chu chu in Pathien hmaa hriet in ni zingna ding a nih. Kei hi LALPA, in Pathien chu ka nih.
+{10:11} Kum hnina, thla hnina, ni sawmhninaa chun sûm chu Thuthlung biekbûk chunga inthokin a'n kàng tung a.
+{10:12} Chuongchun, Israel thlahai chu Sinai thlalera inthokin an inthok suok a, hmun hrang hrang an fe pel hnungin, sûm chu Paran thlalerah a ngîr a.
+{10:13} Hi hi Mosie hmanga LALPA thupêka an inthok suok hmasakna tak a nih.
+{10:14} A hmasa takin Juda thlahai chu an hnam inchikna puonzâr chawiin an suok a, anni inrawitu chu Aminadab naupa Nason a nih.
+{10:15} Isakar thlahai inrawitu chu Zuara naupa Nethanel a nih.
+{10:16} Zebulun thlahai inrawitu chu Helon naupa Eliab a nih.
+{10:17} Biekbûk chu an thiek a, a zawntu Gersonhai le Merarihai chun zawnin an inthok suok a.
+{10:18} Anni zoah Reuben thlahai chu an hnam inchikna puonzâr khaiin an inthok suok a, anni inrawitu chu Sedeur naupa Elizur a nih.
+{10:19} Simeon thlahai inrawitu chu Zurisadai naupa Selumiel a na,
+{10:20} Gad thlahai inrawitu chu Deuel naupa Elisaf a nih.
+{10:21} Chu zoah Kohathaiin thil thienghlimhai chu phurin an inthok suok a. An hung tlung tawl hmaa biekbûk chu lo inngìr ding a nih.
+{10:22} Anni hnungah Efraim thlahai chu an hnam inchikna puonzâr khaiin an inthok suok a, anni inrawitu chu Amihud naupa Elisama a nih.
+{10:23} Manase hnam inrawitu chu Pedazur naupa Gamaliel a na,
+{10:24} Benjamin thlahai inrawitu chu Gideoni naupa Abidan a nih.
+{10:25} Dan thlahai chun an hnam inchikna puonzâr khaiin mi po po hnung dàlah an thang a, anni inrawitu chu Amisadai naupa Ahiezer a nih.
+{10:26} Aser thlahai inrawitu chu Okran naupa Pagiel a na,
+{10:27} Naftali thlahai inrawitu chu Enan naupa Ahira a nih.
+{10:28} Hi hi Israel thlahai an fe suok phaa indot peia an insom suok dàn chu a nih.
+{10:29} Mosie tarpu Midian mi Reuel naupa Hobab kuoma chun Mosien, " 'Pêng ka ti cheu' tia LALPAN a hrilna ram tieng pan chun kan fe ding a nih. Nangni khom hung ve unla, in chungah tha takin thawng kan tih, LALPA chun thil tha Israelhai chungah a tiem si a" a ta.
+{10:30} Ama chun, "Hung da el ka tih. Ka ram tieng, ka mihai kuom tieng kîr nawk ka tih" a ta.
+{10:31} Mosie chun, "Mi fesan lul naw rawh. Thlalera riebûk khuorna ding i hriet lem a, keini ta dingin mit i ni ringot a nih.
+{10:32} Kan kuomah i hung ve chun LALPAN thil tha a mi pêk taphot chu ei intlàng ding annawm" a ta.
+{10:33} Chuong ang chun, LALPA tlânga inthok chun an suok a, ni thum an inzin a. LALPA Thuthlung bawm chun an ta dinga chawlna hmun remchang zongin ni thum an hma a thuoi a.
+{10:34} An riebûka inthoka an suok chun sunah LALPA sûm chu an chungah a'n zâr a.
+{10:35} Thuthlung bawm chu a suok ding zâtin Mosien, "Aw LALPA, hung tho la,I hmêlmahai chu hnot dar la,I râlhai chu i hmaah tlân se raw hai se"a ta.
+{10:36} A chawl ding zâtin,"Aw LALPA hung kîr nawk rawh,I mi Israel sâng tam tak lai hin"a ti zie bok a nih.
+{11:1} Mipui chu an harsatna chungthuah LALPA hrietin an chier a, chu chu LALPAN a hriet chun a lung a'n ling a, LALPA lungsenna mei chu anni lai a hung chok a, an riebûk hnawm vel chu a kàng ta dur dur a.
+{11:2} Mipui chun Mosie an ko khèk a, LALPA kuomah a tongtai a, mei chu a hung rêm ta a.
+{11:3} Anni lai LALPA lungsenna mei chu a chok leiin chu hmun hminga chun Tabera an inbùk a.
+{11:4} Anni laia hnam dang thang ve peihai chun sa an chàk leiin, Israelhai khom chun, "Tuin am sa fâk ding a mi pêk ding a na?
+{11:5} Nuom nuoma Aigupta rama ngasa ei hme hlak lai hun kha ei hriet zing a, fanghma dâm, vaifanghma dâm, purun bàl dâm, purun dâm le purun vâr dâm ei hme hlak lai hun kha.
+{11:6} Tu ruok hin chu bu chàkna hlak a rê dèr a, manna chauh naw hlak chu hmu khur ei nei ta si nawh!" tiin an inhrawt ve a.
+{11:7} Manna chu maruoi mu anga vâr sar el, thing hnai anga entlang thei a nih.
+{11:8} Mihai chun an va rùt khawm a, a rawt nawinaah an rawt nawi naw leh sumah an suk nawi a, bêlah an suong a, bei dâmin an siem a, a'n hnik dàn chu oliv hrieka bei zeu ang a nih.
+{11:9} An riebûk hmuna zâna daidaw a tlâk pha manna chu a tla sa ve hlak a nih.
+{11:10} A sûng sûngin an puon in kotah an chier sup sup ri chu Mosien a lo hriet a. An chungah nasa takin LALPA a lungsen ti a hrietin Mosie chu a lungzing hle a.
+{11:11} LALPA kuomah, "Hi buoina hi ieng leia i siehlaw chungah i hung intlun am a na? I lawm naw zawng ieng am ka thaw a, hienga mipuihai phurrik po po ka chungah i'n nghat el hi?
+{11:12} Hieng mipuihai hi ka hring tawl am an ni? An pi le puhai kuoma inkhàm meua pêk i tiem rama chun nuin nautesen a pom anga pom tlung tawl dingin ieng dinga i mi ti am a na?
+{11:13} Hieng mipuihai fâk ding hi khaw laia inthokin am sa chu hmu tàng ka ta? 'Sa mi pe rawh' tia an mi'n hrawt khum ri hlak hi a rê top si nawh.
+{11:14} Keima ringot chun hieng mihai hi ka phur zo naw a nih, ka chung a rik taluo.
+{11:15} Hieng hi i mi thaw dàn ding a ni chun tu hin mi sukhlum nghal el rawh; i mit ka tlung a ni ruok chun, ka sietna ding mi'n hmasuontir lul naw rawh" a ta.
+{11:16} LALPA chun Mosie kuomah, "Israel mipuihai hotu le enkoltu nia i ngai upa sawmsari ko khawm la, Intuokna Puon inah ka hmaa nang le ngìr tlâng dingin hung thuoi tawl rawh.
+{11:17} Hung tum ka ta, inbiekpui ka ti che a, nangmaa um Thlarau kha lain an chungah Thlarau chu sie vêng ka ta, mipui phurrik chu nangma chaua phur ta loin anni chun phurpui tâng an ti che.
+{11:18} "Mipuihai chu hieng ang hin hril rawh: 'Zîngah sa in fâk ding a na, chu huna ding chun inser thienghlim ro. 'Sa fâk ding tuin am mi pe tàng a ta? Aigupta rama khan ei hnienghnâr vei leh!' tia in inhrawt ri kha LALPAN a hriet tah. Sa chu LALPAN pêng a ti cheu a, fa mol in tih.
+{11:19} Ni khat ni hni sûng chauh amanih, ni nga amanih, ni sawm amanih le ni sawmhni amanih sûng chauh fa loin,
+{11:20} thla khat pumhlum top, ngei rak khop le luok suok rak khopin fâng in tih, nangni laia um LALPA chu hnawl a, 'Ieng leia Aigupta kha ei suoksan am a na?' tia a hmaah in inhrawt leiin' ti rawh" a ta.
+{11:21} Mosie chun a kuomah, "Hi taka ka mi thuoihai hi mani kea fe thei ngot khom nuoi ruk an na, 'Thla khat pumhlum fâk ding sa pêng ka ti cheu' i ta,
+{11:22} bawng ruol le beram ruol khom hi that vong inla, an fâk khop a ni ding am a ni? Tuipuia nga khom man ta vong inla, an khopkham a tling ding maw?" a ta.
+{11:23} LALPA chun Mosie kuomah, "LALPA bàn a tawi taluo a ni? Ka hril anga i chunga a tlung le tlung naw la hmung i tih" a ta.
+{11:24} Chuongchun Mosie chu a suok a, LALPA thu chu mipuihai a hril a. Upa sawmsarihai chu a ko khawm a, Puon In chu a'n ngìr huoltir a.
+{11:25} LALPA chu sûmah a hung tum a, Mosie chu a biek a, amaa Thlarau a sie chu lain upa sawmsarihai chunga chun chu Thlarau chu a sie a, an chunga Thlarau a hung um charin zawlnei angin thu an hril duol duol a, sienkhom chuong ang chun a hnungin an thaw nawk ta ngai nawh.f
+{11:26} Upahai laia tiem sa, Eldad le Medad hai ruok chu Puon Inah fe ve loin an riebûkah an um a, chuong sa khom chun thlarau chu an chungah a um ve a, riebûka chun thu an hril ve mol mol a.
+{11:27} Chuongchun, tlangval pakhat chu a tlân a, Mosie kuomah, "Eldad le Medad-in riebûkah thu an hril mol mol el" tiin a va hril a.
+{11:28} Nun naupa Josua, a tleirawl laia inthoka Mosie kaiza vêngtua thang tah chun, "Pu Mosie, khap tawl rawh" a ta.
+{11:29} Mosie chun, "Keima leiin thîkthu i lo suksiet vieu a ni maw? LALPA chun a thlarau mi po po pe sien, zawlnei ni vong hai sien ka ti nak lai a!" a ta.
+{11:30} Chuongchun, Mosie le Israel upahai chu riebûk tieng an kîr nawk a.
+{11:31} Chun, LALPA chun thli a'n hrângtir a, tuipuia inthokin vamim ruol chu a hung fen khawm a, meter khat vel chauha insânga vuongin an riebûk le a sir vel, ni khat lam dàpin an hung tum a.
+{11:32} Chu ni le a zân le a zînga chen chun mipui chu fe suokin vamim chu an man khawm a, a man tlawm tak khomin kilogram sâng chuong a rùt a, riebûk vela chun an inhro thluk a.
+{11:33} Sa chu an fâk lai zing, an la fâk zo hma chun LALPA lung a hung inling a, mipuihai chu hripui na takin a hrem a.
+{11:34} Sa inrawp leia thihai chu chu taka chun an phûm leiin a hmun hmingah Kibrot Hatava an inbûk a.
+{11:35} Kibrot Hatavaa inthok chun Hazerot an pan a, chu taka chun an châm a.
+{12:1} Mosie chun Kush mi nuhmeia a nei leiin Miriam le Aron chun Mosie chu an hrilsiet a.
+{12:2} "Mosie kuoma chauh maw LALPAN thu a hril bîk chu? Keini kuoma khom a hril naw am a ni?" an ta. Chu chu LALPAN a lo hriet a.
+{12:3} Mosie chu pa inngaitlawm tak el, hnuoi chunga mi po po laia zâidam chungchuong a ni a.
+{12:4} LALPA chun Mosie le Aron le Miriam kuomah, "Hung suok unla Intuokna Puon inah mi hung hmu ro" a ti ta thut el a. Chuongchun, an pathum chun an va fe a.
+{12:5} LALPA chu sûm ngîrin a hung tum a, Puon in kotkhàra chun a ngîr a, Aron le Miriam chu a ko a, an pahni chun an hung suok a.
+{12:6} An kuoma chun, "Ka thu hi ngaithla ro. Nangni lai LALPA zawlnei an um chun a kuomah inlârin keima ka'n hriettir a, mangah ka biek hlak a.
+{12:7} Ka siehlaw Mosie kuoma ruok chu chuong ang chun ka thaw ngai nawh. Ama chu ka mi Israelhai chungah a ringum a nih.
+{12:8} Ama chu inhmatonin ka biek hlak a, thu khir hmang loin tlang takin ka biek hlak. Ama chu LALPA ruongam khom hmu ta sa a nih. Chuleiin, ka siehlaw Mosie hi ieng leia in soisel ngam am a na?" a lo ti a.
+{12:9} LALPA chu an chungah a lung a sen hle a, a fesan tawl tah a.
+{12:10} Chun, Puon in chunga sûm a'n kieng chun, ngai ta, Miriam chu vûr anga vârin a lo inphàr ta vong a. Ama tieng Aron a hang ngha chun a'n phâr vong tah ti a hmu a.
+{12:11} Chuongchun Aron chun Mosie kuomah, "Aw pu, invêtthlak taka suol kan lo thaw maw kha kan chungah intlàktir lul naw rawh.
+{12:12} A nu sula inthoka naute hlamzuia hung pieng, a taksa chenve zûr zo tah ang èm chun inumtir lul naw rawh" a ta.
+{12:13} Mosie chun LALPA a ko a, "Aw Pathien, sukdam hrâm raw khai" tiin a ngèn a.
+{12:14} LALPA chun Mosie kuomah, "A pain a naunu hmaia chil a sâkkhum ngot khom ni sari sûng chu inzak a phur a ni naw am a ni? Khawhnawmah ni sari sie hmang inla, chu hnung chun riebûkah la lût nawk thei in tih" a ta.
+{12:15} Chuongchun, Miriam chu riebûk puo tieng ni sari sûng an sie a, an thuoi lût nawk hma chun mipui chu an inson nawh.
+{12:16} Chu hnunga chun mipuiin Hazerot chu an suoksan a, Paran thlalèrah riebûk an khuor a.
+{13:1} LALPA chun Mosie kuomah,
+{13:2} "Israelhai kuoma ka pêk ding Kanan ram chu hang en thlithlai dingin pahnam tin inrawituhai laia mi pakhat seng thlang suokin tir rawh" a ta.
+{13:3} LALPA thupêk angin Mosie chun Paran thlalera inthokin Israel pahnam tin inrawituhai chu a tir a.
+{13:4} A tirhai hming chu: Reuben hnama inthokin Zakur naupa Samua;
+{13:5} Simeon hnama inthokin Hori naupa Safat;
+{13:6} Juda hnama inthokin Jefune naupa Kaleb;
+{13:7} Isakar hnama inthokin Josefa naupa Igal;
+{13:8} Efraim hnama inthokin Nuna naupa Hosea;
+{13:9} Benjamin hnama inthokin Rafu naupa Palti;
+{13:10} Zebulun hnama inthokin Sodi naupa Gadiel;
+{13:11} Manase hnam (Josefa hnam) a inthokin Susi naupa Gadi;
+{13:12} Dan hnama inthokin Gemali naupa Amiel;
+{13:13} Aser hnama inthokin Mikael naupa Sethur;
+{13:14} Naftali hnama inthokin Vofsi naupa Nabi;
+{13:15} le Gad hnama inthokin Maki naupa Geuel an nih.
+{13:16} Hienghai hi ram thithlai dinga Mosien a tirhai chu an nih. Mosie chun Nuna naupa Hosea chu Josua tiin a ko.
+{13:17} Mosien Kanan ram thlithlai dinga a tirhai kuoma chun, "Negev fe tlanga hmar tieng panin, tlângrama khin kai tung ro.
+{13:18} A ram hmêlhmang dâm, a rama chênghai tam le tam nawzie le hrât le hrât nawzie dâm,
+{13:19} an ram hluo that le that nawzie dâm, an chêngna khuohai chu kula inhuon a ni le ni naw dâm,
+{13:20} a ram leilung hnawng dàn, hnuoi a hâng that le that nawzie dâm, ram a ngaw am a pawn ti dâm hang thlithlai ro. A ram tharsuok thei hung hawn tum ngei ngei ro" tiin thu a'n cha a. Chu hun chu grêp ra hmasa a hmin tan hun a nih.
+{13:21} Chuongchun, Zin thlalera inthok chun an pan tung a, Hamath kawn bul Rehob chen an thlithlai a.
+{13:22} Negev fe thlengin Hebron an tlung a, chu chu milien Anak thlaa mi Abiman hai, Sesai hai le Talmai hai chêngna khuo a nih. Hebron khuo hi Aigupta rama Zoan khuo an indin hma kum saria an indin tah a nih.
+{13:23} Eskol ruom an tlung chun grep ra bawr khat, a kau pumin an sat bong a, chu chu theibufai le theichang ra leh mi pahniin an zawn a, an hawn a.
+{13:24} Chu ruom hminga Eskol an inbûkna san chu Israelhaiin grep ra bawr an lo lei a nih.
+{13:25} Ni sawmli zet a ram an fang hnung chun an hung kîr nawk a.
+{13:26} Paran thlalera Kades hmun, Mosie le Aron le Israel mipuihai umnaa an hung kîr nawk chun an rênga pungkhawm hmaah an thil hmuhai chu an ripawt a, a ram suok theihai chu an inentir a.
+{13:27} Hieng hin Mosie kuomah an hril a: "I mi tirna ram chu kan hang thlithlai ngei a, nenetui le khuoizu luongna ram a lo ni takzet el! Hi hi a ram suok thei ra chu a nih.
+{13:28} A mi chênghai ruok chu kawlhrawng tak el an na, an khawpuihai chu kula inhuon a na, a lien tawl hle bok a. Anak thlahai chen khom kan hang hmu a.
+{13:29} Amalek mihai chu Negev-ah an um a; Hit hai, Jebu hai le Amor hai chun tlângram an del a; Kanan mihai chu tuipui kam hnai le Jordan vadung hrûlah an chêng" tiin.
+{13:30} Kaleb chun Mosie hmaa mipui chier mur mur chu a zâp dei a, "Inthok suok ei ta, a ram chu hang làng ei tiu, ei ngam tawl ngei ding a ni si a" a ta.
+{13:31} Nisienlakhom a fepuihai ruok chun, "Anni chu eini hang tèr ruol ding an ni nawh, eini nêka hrât lem dai an nih" an ta.
+{13:32} Israelhai lai chun an ram hang en thlithlai thu chu tha naw takin an hril dar a, "Kan ram hang en thlithlai chun a rama chênghai a fâk zo pei a nih. Mi kan hmuhai chu mi lien tak tak vong an nih.
+{13:33} Mi lien Anak thla, Nefelimhai khom kan hang hmu a, anni laka chu khau ang chauin kan inhmu a, anni khomin khau ang chauin an mi hmu bok" tiin.
+{14:1} Chu zân chun beidongin mipui chu an tap a.
+{14:2} Mosie le Aron chungah chierin, "Aigupta rama khan lo thi ta law law chu ni inla tha lem ding bah! An naw le bek thlalera khan lo thi ta lem inla ni ding!
+{14:3} Kawlhnâma thi el dingin ieng leia Pathienin hi rama hin a mi thuoi a na? Ei nuhmei le nauhai hi râlin mi lâkpèk an ta, ei ta dingin Aigupta rama kîr nawk a tha lem dai a nih.
+{14:4} Thuoitu ding thlang ei ta, Aigupta tieng kîr nawk ei tiu" an ta, an inrawn tuo a.
+{14:5} Mosie le Aron chu chu taka Israel mipui pungkhawmhai hmaa chun an bokkhup a.
+{14:6} Ram thlithlaia fehai laia thang Nuna naupa Josua le Jefune naupa Kaleb chun an silfèn an pot thlèr a,
+{14:7} Israel mipui pungkhawmhai kuoma chun, "Kan ram hang fang le thlithlai chu ram tha tawp a nih.
+{14:8} Ei chungah LALPA a lawm chun, chu ram, nenetui le khuoizu luongna rama chun mi thuoi tlung a ta, ei ta dingin mi pêng a tih.
+{14:9} LALPA chunga hin hel naw phot ei tiu. A ram mihai chu ti dêr naw ro, ei la dol zo vong tawl ding a nih. Humtu an nei nawh, eini kuoma ruok chu LALPA a um. Ti tawl dêr naw ro" tiin an hril a.
+{14:10} Nisienlakhom, pungkhawmhai chun lunga dêng an rot a. Chu phing leh Intuokna Puon in chunga chun pungkhawm po po hmaah LALPA ropuina chu a hung inlang a.
+{14:11} LALPA chun Mosie kuomah, "Ieng chen top am hi mihai hin an mi hmusit chei ding a na? Anni lai inchikna thil mak khâng zozai ka thaw hnung khom khan, ieng chen top am an mi la ring nuom naw zing ding a na?
+{14:12} Anni rawi hi hripuiin sukhlum vong ka ta, nang ruok chu anni nêka hnam ropui le lien lemin siem ka ti che" a ta.
+{14:13} Mosie chun LALPA kuomah, "I thilthawtheina hmanga hi mihai hi Aiguptaa inthoka i thuoi suok an ni leiin chuong ang thu chu Aigupta mihaiin lo hre pal an ta,
+{14:14} hi rama mihai kuoma hin hril sawng rawi an tih! Aw LALPA, anni chun hieng mihai lai hin i um ti an hriet tah a, nang chu aw LALPA, hmaisana meuh an hmu ta che a, i sûm chu an chungah i zârpek hlak a, sùnah sûm ngirin, zânah meiin an hma i thuoi hlak si a.
+{14:15} Voi khat thil thua i sukhlum vong chun, hnam danghaiin an chanchin hung hrieng an ta,
+{14:16} 'LALPA chun intiemkam meua ram pêk a tiema chun a thuoi tlung thei ta naw leiin thlalèrah a sukhlum vong el a nih' an ti ding annawm!
+{14:17} A hmaa i lo puong ta hlak angin tu hi LALPA hrâtna suklang hun a nih.
+{14:18} Nangma ngeiin, 'LALPA chu lung inuoi tak, hmangainaa sip, mi suolhai le helhai khom ngaidam hlaktu, amiruokchu pahai suolna leia an nauhai le an nauhai nauhai, suon thum suon lina chen khom hrem hlaktu chu a nih' tiin i lo puong ta a.
+{14:19} Tuhin LALPA, i hmangaina nasa tak ang ngei le Aigupta ram an suoksana inthoka tu chena i ngaidam rop tah hlak ang khan hieng mipuihai suolna hi ngaidam lul rawh" tiin a ngèn a.
+{14:20} LALPA chun, "I hni ang chun ka ngaidam.
+{14:21} Amiruokchu, kei hi hring zing ka ni ang boka ka ropuina hnuoi pumah a sip zing sùng chun,
+{14:22} tu khom ka ropuina le inchikna thil mak Aigupta ram le thlalera ka thawhai hmu ta si a, ka thu awi nuom loa voi sawm zet mi fietuhai hrim hrim chun,
+{14:23} an pi le puhai kuoma inkhâm meua pêk ka tiem ram chu hmu top naw ni hai; anni laia mi ngainêptu hrim hrim khomin hmu bok naw ni hai.
+{14:24} Ka siehlaw Kaleb ruok hin chu ngaituona danglam puta lungril po poa a mi zui leiin, a ram va sira chun thuoi lût ka ta, a thlahaiin rochung an tih.
+{14:25} Amalek mihai le Kanan mihai chu ruomah an um leiin, zinga hin hnung tieng kîr nawk unla, Tuipui Sen hrùla fe thlaler panna lam tieng chun inthok suok ro" a ta.
+{14:26} Chun, LALPAN Mosie le Aron a biek a,
+{14:27} "Hieng mi rilo pung khawmhai, ka chunga chier hmanghai laka hin ieng chen am zâi ka daw ding a na?
+{14:28} An kuomah, ka hringna sâlin ka hril a nih, ka hriet ngeia in hril ang takin in chungah thawng ka tih.
+{14:29} Nangni laia intiema thang tah, kum sawmhni le a chung tieng, ka chunga chier po po ruong chu thlalera hin zâl a tih.
+{14:30} Jefune naupa Kaleb le Nuna naupa Josua ti chauh naw chun, bân phar meua in umna hmun dinga ka tiem ram chu tu khomin lût naw ti niu.
+{14:31} 'Râlin an mi manpèk ding chauh' tia in hril in nauhai ruok chu thuoi lût ka ta, in hnawl hnung ram chu la chên an tih.
+{14:32} Nangni ruok chu in ruongin thlalèr nghâk a tih.
+{14:33} Thlalèra in ruonghai a riral vong hma khat chu, in ringum nawna ra chu tuorin, in nauhai chu kum sawmli sûng beram chingin hi thlalèra hin invâk invâk an tih.
+{14:34} Ram in va thlithlai ni, ni sawmli sûng chu ni khat aiah kum khat peia tiemin kum sawmli sûng chu in suol leiin tuor in ta, keima hnawla thang umzie hi iem a na ti hung hrieng in tih.
+{14:35} Kei LALPA hin chu chu ka hril a, hieng mi rilo pung khawmhai, kei mi dodâl dinga inhawr khawmhai chunga hin chuong thilhai chu thaw ngèi ngèi ka tih. Hi thlalera hin an tawpna chu tlung a ta; hi hmuna hin thîng an tih" a ta.
+{14:36} Chuongchun, ram thlithlai dinga Mosie mi tirh hung kîr nawk hai,
+{14:37} a ram chanchin ripawt tha naw taka thè dara mipui pungkhawmhai laia chierna intluntuhai po po chu LALPA hmaah hriin a man hlum vong a.
+{14:38} Ram thlithlai dinga fehai laia Nuna naupa Josua le Jefune naupa Kaleb ruok chu an thi ve nawh.
+{14:39} Chuong thu chu Israel thlahai po po kuomah Mosien a hril a, lungngaiin an inrùm a.
+{14:40} A zînga chun inhma takin an tho a, tlâng ram tieng pan an tum a, "Kan suol takzet a nih. LALPA tiem rama chun tuhin fêng kan tih" an ta.
+{14:41} Mosie ruok chun, "Ieng leia LALPA thupêk poisa loa fe in tum am a na? Hlawtling naw ti niu.
+{14:42} In kuomah LALPA a um naw leiin, in hmèlmahai lo that el ding chauh chun fe ting naw ro.
+{14:43} Amalekhai le Kanan mihai le khin indo in ta, LALPAN a nghatsan ta si cheu leiin in kuomah um naw nih, an kawlhnâma thi mei mei ding chauh in nih" a ta.
+{14:44} Nisienlakhom, anni ngairuotna hmangin tlâng tieng an pan lui a, LALPA Thuthlung bawm le Mosie ruok chun riebûk chu an suoksan nawh.
+{14:45} Chuongchun tlânga um Amalekhai le Kanan mihai chu an hung chim thla a, an lo bei a, an lo sât thal rem rum a, Horma chen an hnot thlùr tawl a.
+{15:1} Chun, LALPAN Mosie a
+{15:2} "Israelhai inbiekpui la, hieng hin hril rawh: 'In umna ding ram ka pêk cheu in tlung pha chun,
+{15:3} LALPA kuoma meia thilhlân, pumraw thilhlân amanih, thutiem hlen dinga inthawina amanih, mani nuom thua thilhlân amanih, in kût hunbi pha amania bawngchal amanih, beram le kèl chal amanih in inhlàn taphot chu LALPA ta dinga rim inhnik a nih.
+{15:4} LALPA kuoma thilhlân inhlàntu taphotin bu le bâl thilhlâna hmang, beiphit indip kilogram khat, oliv hriek litar khat le hmet chu an inhlàn sa ding a nih.
+{15:5} Chun, pumraw thilhlân amanih, inthawina thilhlân amania beramte in inhlàn pha leh dawn ding thilhlânah uoiin litar khat in inhlàn sa bok ding a nih.
+{15:6} Bu le bâl thilhlàna beramchal in inhlàn chun beiphit dip kilogram hni, oliv hriek litar chenve le hmet pol chu inhlàn in ta,
+{15:7} uoin litar khat leh in inhlàn sa bok ding a nih. Hieng thilhlânhai hi LALPA ta dinga rim inhnik a nih.
+{15:8} Chun, pumraw thilhlân amanih, thutiem hlenna dinga inthawina amanih le LALPA kuoma inremna thilhlân amani-ah bawngchal in inhlàn chun,
+{15:9} bu le bâl thilhlâna dingin beiphit dip kilogram thum le oliv hriek litar hni hmet pol chu inhlàn in ta,
+{15:10} uoin litar hni in inhlàn sa bok ding a nih. Hi inthawina hi LALPA ta dinga rim inhnik a nih.
+{15:11} Bawngchal amanih, beramchal amanih, beramchal tuoi amanih kèlchal tuoi amanih in inhlàn pha chuong ang chun thaw hlak ro.
+{15:12} Ran pakhat nèka tam in inhlàn pha leh ran pakhat in inhlàna thil dang in hmang sa zât char kha ran in inhlàn sa zât ang peiin thaw sa ve pei ro.
+{15:13} "Chu rama pieng po po chun hieng ang pei hin LALPA ta dinga rim inhnik, meia thilhlân chu an thaw ding a nih.
+{15:14} Thang la hung thar pei chen khomin, ram dang mi amanih le nangni laia chêng ve tu khomin LALPA ta dinga rim inhnik, meia thilhlân an thaw pha chun nangni thaw ang charin an thaw ve ding a nih.
+{15:15} In thlahai chena ding khomin, mipuihai le in kuoma hnam dang umhai ta ding khomin dàn thuhmun in nei ding a nih; hnam danghai khom LALPA hmaa chu nangni leh angkhat vong an ni ding a nih.
+{15:16} Nangni ta ding le in kuoma um hnam danghai ta dingin dàn le thupêk hmun khat chauh a um ding a nih' tiin hril rawh" a ta.
+{15:17} Chun, LALPA chun Mosie a biek a,
+{15:18} "Israelhai inbiekpui la, hieng hin hril rawh: 'Ka thuoina ding cheu ram in hang tlung a,
+{15:19} a ram suok bu in fâk pha leh, a then chu LALPA kuoma thèn thilhlânah in inhlàn ding a nih.
+{15:20} Bei tlang in hmet hmasa tak laia mi tlang khat chu hrizawla bu, thèn thilhlâna in inhlàn angin bei tlang chu thênin in inhlàn ding a nih.
+{15:21} Hi hi thang la hung thar pei dinghai huna chen khom bei in hmet hmasa tak chu LALPA kuomah thèn thilhlâna dingin in inhlàn hlak ding a nih.
+{15:22} " 'LALPAN Mosie hmanga dàn a pêkhai chu tum rêng lei ni loin an bawsiet thei a.
+{15:23} Chun, hun la hung um peiah Mosie hmanga LALPA thupêkhai chu Israel mipuiin an lo zawm kim vong naw thei bok a.
+{15:24} Chuong thil chu mipuiin an hriet naw leia an bawsiet a ni chun, pumraw thilhlânah bawngchal tuoi, LALPA ta dinga rim inhnik chu inhlàn an ta, chu ruol chun a dàn ang takin bu le bâl thilhlân le dawn ding thilhlân inhlàn an ta, suol thawina dingin kèlchal inhlàn bok an tih.
+{15:25} Chun, thiempuin Israel thla pungkhawm po po ta dingin inremna siem a ta, an thaw palh a ni lei le LALPA ta dinga meia thilhlân le an bawsietna aia suol thawina chu inhlàn a ni tàk leiin, ngaidam nîng an tih.
+{15:26} Israel thla pungkhawmhai po po le an kuoma um ram dang mihai khom ngaidam ni vong an tih, an rênga an thaw palh a ni leiin.
+{15:27} " 'Miin hre loa suol a thaw palh a ni chun, suol thawina dingin kèl la tuoi kum khata upa a hung inhlàn ding a nih.
+{15:28} Hre loa LALPA hmaa suol thawtu ta ding chun thiempuin inremna siempêk a ta, ngaidam nîng a tih.
+{15:29} Hre loa suol thawtu chungthua dàn chu Israel thla, a rama pieng le ram dang mi, anni laia chêng ta dingin a'n ang vong a nih.
+{15:30} Hre zing sia tu khom suol lui chu, a rama pieng le ram dang mi khom ni sien, LALPA hming hrilsetu a ni leiin, chu mi chu a mihai laia inthoka tuithlàr ding a nih.
+{15:31} Chu mi chun LALPA thu chu a hmusit leiin a thupêkhai chu a bawsiet a na, tuithlàr ngei ngei ding a nih, a suol maw chu phur a tih' ti rawh" a ta.
+{15:32} Thlalèra Israelhai an um lai chun mi pakhatin Sabat nia thing a lâk khawm lai an hmu a.
+{15:33} Thing a lâk khawm lai hmutuhai chun Mosie le Aron le pungkhawmhai hmaah an hung thuoi a.
+{15:34} Ieng anga thaw di'm a nih ti hriet a la ni hma chun ripah an khum a.
+{15:35} Chun, LALPAN Mosie kuomah, "Chu mi chu sukhlum ding a nih. Khawhnawmah mipuiin lungin an dêng hlum ding a nih" a ta.
+{15:36} LALPAN thu Mosie a pêk angin mipui chun khawhnawmah an thuoi a, lungin an dêng hlum a.
+{15:37} LALPA chun Mosie kuomah
+{15:38} "Israelhai chu hieng ang hin hril rawh: 'In thla la hung pei dinghai chen khomin, silfèn hmawr kuolin pebuk siem un la, pebuk tin chu pat dumpawla siem ding a nih.
+{15:39} Pebuk chu in en zâtin, LALPA thupêkhai chu hre zing a, zawm a, in lungril chàk zawng le mit lâk zawng tienga inhmang loa khawsa ding in nizie inhriet suoktir hlak a ti cheu.
+{15:40} Chuonga in thaw chun ka thupêkhai po po zawm nachâng hrieng in ta, in Pathien ta dingin invong thienghlim thei in tih.
+{15:41} Kei hi LALPA in Pathien, Aigupta rama inthoka in Pathien ni dinga thuoi suoktu cheu, LALPA in Pathien chu ka nih' tiin" a ta.
+{16:1} Levi naupa Kohat, Kohat naupa Izar, Izar naupa Kora le Reuben pahnama mi Eliab naupahai pahni- Dathan le Abiram le Pelet naupa Ona hai chu insukngèngin,
+{16:2} Mosie lakah an hel a. Anni chu Israelhai laia vàntlâng kaunsila an mi thlang, thuoitu challang zahni sawmngain an lo thlop bok a.
+{16:3} Anni pawl po chu Mosie le Aron inkhingpui dingin an hung inthok a, an kuomah, "In insukngèng taluo! Mipuihai khom hi an thienghlim ve vong a nih. LALPA khom an kuomah a um. Chuong chu ni siin, ieng dinga LALPA mipui pungkhawmhai nèkin in insie chunghnung lem am a na?" an ta.
+{16:4} Chu chu Mosien a hang hriet chun a bokkhup a.
+{16:5} Kora le a pawlhai kuoma chun, "Zìngah zîngkâr leh tu am ama mi, tu am a thienghlim ti LALPAN hung sukchieng a tih. Ama mi chu ama hnaia hung dingin ko a ta, a bulah inumtir a tih.
+{16:6} Kora, nang le i hnung zuituhai thaw ding chu hi hi a nih: mei lâkna berbu hung chawi ro;
+{16:7} chu taka chun meiling sie unla, LALPA hmaah rimtui raw ro. LALPAN tu am a thlang chu hre el ei tih. Nangni Levi thlahai hi an nawm insukngèng taluo chu!" a ta.
+{16:8} Mosie chun Kora kuoma khom, "Nangni Levi thlahai, ngàithla ro.
+{16:9} Israelhai Pathien chun LALPA biekbûka rong bawl a, mipuihai hmaah ngîra an rong bawl dingin Israel mipuihai laia inthokin a ser hrang cheu a, a bulah a sie cheu hi in ta dingin huntawk in la ti naw rop a ni maw?
+{16:10} Nangni le in chipui Levihai chu ama bul hnaiah a'n umtir cheu leiin tuhin thiempu nina chen khom inchu thlâk in tum a ni maw?
+{16:11} Nang le i hnungzuituhai po po hi LALPA dodal zawnga inthuruol in nih. Aron hi tu am a na, hienga a chunga in chier hi?" a ta.
+{16:12} Mosie chun Eliaba nauhai, Dathan le Abiram chu a'n kotir a Anni chun, "Hung naw ning ungah.
+{16:13} Nenetui le khuoizu luongna rama inthoka thlalèra mi that vong dinga i mi thuoi khom hi huntawk i la ti naw a ni maw? Tu hin kan chungah insuklal i tum nawk nghal a!
+{16:14} Chu chauh chu a ni le, nenetui le khuoizu luongna ramah i mi thuoi naw a, lo le grêp huon hai kan rochung ding i mi pêk bok nawh. Hieng mihai mit hi i khel dokpèk vong tum a ni? Keini chu hung naw top kan tih" an ta.
+{16:15} Mosie lung chu a sen hle a, LALPA kuomah, "An thil inhlàn lo pom naw rawh. Anni laka inthokin ieng khom ka lâk nawh, sabengtung takngiel khom; tu poi khom ka tawk bok nawh" a ta.
+{16:16} Mosie chun Kora kuomah, "Nang le i hnung zuituhai chu Aron leh zìngah zîng tieng LALPA hmaah in hung inlang ding a nih.
+{16:17} Mi tinin mei lâkna berbu hung chawi seng ro, a rêngin zahni sawmnga a ni kha, chu taka chun rimtui phul unla, LALPA hmaah hung chawi ro. Nang le Aron khomin in mei lâkna chu in hung chawi ding a nih" a ta.
+{16:18} Mi tin chu mani mei lâkna seng chawiin, rimtui phulin, Intuokna Puon in kota chun Mosie le Aron leh an va ngîr a.
+{16:19} Intuokna Puon in kota anni khingtu Kora le a hnung zuituhai po po an hung inkhawm chun LALPA ropuina chu pungkhawm po po hmaah a hung inlang a.
+{16:20} LALPA chun Mosie le Aron kuomah,
+{16:21} "Pungkhawmhai laia inthok hin insie kieng ro, thawk le khata ka sukhlum vong theina dingin" a ta.
+{16:22} Mosie le Aron ruok chu an bokkhup a, "Aw Pathien, nang chu mihriem hringna po po hnàr i na, mi pakhat suolna leiin pungkhawm po po chungah i lung a sen el di'm a nih?" an ta.
+{16:23} Chu phing leh LALPA chun Mosie kuomah,
+{16:24} "Pungkhawmhai hi hril la, Kora le Dathan le Abiram hai umna riebûkhai chu inkiengsan vong raw hai se" a ta.
+{16:25} Mosie chu a tho a, Dathan le Abiram hai riebûk panin a fe a, Israel upahai chun an zui a.
+{16:26} Chun, pungkhawmhai kuoma chun, "Hieng misuolhai puon ina inthok hin suok vong ro. An thil ieng khom tawk naw ro, an suolna chun fen hmang ve hlauh rawi a ti cheu" tiin a hril a.
+{16:27} Chuongchun, Kora le Dathan le Abiram hai puon ina inthok chun an suok ta sup sup a. Dathan le Abiram khom chu an hung suok a, an puon in kotkhâra chun an nuhmeihai, an nauhai le nautehai leh chun an ngîr a.
+{16:28} Mosie chun, "Keima lungril puok suoka ka thaw a ni nawzie le hieng thil hi thaw dingin LALPAN a mi tir a nih ti hi thila hin hrieng in tih.
+{16:29} Hieng mihai hi mi thi dàn pangngaiin an thi a, mi po po thil tuok anga an chunga hung tlung ve a ni chun Pathienin a mi tir naw ning a tih.
+{16:30} Amiruokchu, LALPAN thil thar danglam tak thaw a, hnuoiin a bau ka a, anni le an thil nei po po lem zo a, a hringa Seola an lût ruok chun, hieng mihai hin LALPA an lo ngainêp a nih ti hrieng in tih" a ta.
+{16:31} Chuong thil chu a hril zo charin, an umna hnuoi chu a hung kak a,
+{16:32} hnuoi chun a bau a ka a, Kora le a sûngkuo le an thil nei po po chu a lem ta vong a.
+{16:33} Chuongchun, an thil nei po po le chun a hringin Seolah an lût a; hnuoi chun a bau a'n chip khum a, pungkhawmhai laia inthok chun an boral tah a nih.
+{16:34} An khêk ri an hrietin, an kawl vela Israelhai chun, "Eini khom hnuoiin mi lem ve palh a tih" tiin an tlân dar chum chum a.
+{16:35} Chun, LALPAA inthokin mei a hung suok a, rimtui inhlàntu mi zahni le sawmnga chu a kâng hlum ta vong a.
+{16:36} LALPA chun Mosie kuomah,
+{16:37} "Meilinghai kha hla deu hlekah thai dar la, thiempu Aron naupa Eleazar khan kâng hlumhai mei lâknahai kha rût khawm raw se, thil thienghlim an ni si a.
+{16:38} Anni ngei hringna chunga suolhai meilâkna a ni kha. Meilâknahai chu sut phek la, maichâm chung inkhum thuona dingin ser rawh; LALPA kuoma inhlàn ta sa an ni leiin thil thienghlim a hung ni tah. Hi hi Israelhai ta dinga inchikna nîng a tih" a ta.
+{16:39} Thiempu Eleazar chun kâng hluma um hai mei lâkna dâr berbu chu a lâk khawm a, maichâm inthuona dingin a phêkin a'n suttir a,
+{16:40} LALPAN Mosie a hril ang takin a thaw a. Hi hi Aron thlahai chauh naw chu LALPA hmaah rimtui raw dingin an hung ding a ni nawh ti inhriettirna ding a nih, chuong naw chun Kora le a hnung zuituhai ang hung nîng an tih.
+{16:41} A zînga chun, "LALPA mihai in that" tiin Israel mipuihai chu Mosie le Aron chungah an chier a.
+{16:42} Mosie le Aron khinga mipui inhawr khawmhaiin Intuokna Puon in tieng an nghat lai chun sûmin Intuokna Puon in chu a hung bawm a, LALPA ropuina a hung inlang a.
+{16:43} Mosie le Aron chu Intuokna Puon in kota chun an fe a.
+{16:44} LALPA chun Mosie kuomah,
+{16:45} "Thawk le khata ka sukhlum vong theina dingin pungkhawmhai laia inthok hin inthier hmang ro" a ta. Anni chu an bokkhup a.
+{16:46} Chun, Mosie chun Aron kuomah, "I mei lâkna kha chawi la, rimtui sie la, maichâma mei la bok la, inrang takin mipui tieng pan la, an ta dingin inremna siempêk rawh. LALPA lungsenna a hung suok a, hripui a'n lèng tan a nih" a ta.
+{16:47} Aron chun Mosie hril angin a thaw a, mipui lai chun a tlân lût a. Hripui chu a'n lèng tan tah a, sienkhom Aron chun rimtui rawin an ta dingin inremna a siempêk a.
+{16:48} A thi le a damhai inkâra chun a ngîr a, hripui chu a'n kieng ta a.
+{16:49} Chuong sa khom chun, Kora leia thihai bâkah mi sîngkhat le sângli le zasari chu hripui chun a that hman a nih.
+{16:50} Hripui chu a'n kieng ta leiin Aron chu Mosie kuomah Intuokna Puon in kota chun a kîr nawk a.
+{17:1} LALPA chun Mosie kuomah,
+{17:2} "Israelhai inbiekpui la, an sûngkuoa pahnam tin thuoitua inthokin hmol sawmpahni la khawm la, hmola chun a neitu seng hming ziek rawh.
+{17:3} Levi hmolah Aron hming ziek la, pahnam tin ta dingin hmol pakhat pei a ni ding a nih.
+{17:4} Intuokna Puon ina ka'n tuokpuina hlak che Thuthlung Bawm hmaah hmolhai chu intung rawh.
+{17:5} Ka mi thlang hmol chu hung inder a ta, Israelhaiin an chier khum rop che hi keiin ka sukrè ding a nih" a ta.
+{17:6} Mosie chun Israelhai chu a'n biekpui a, an thuoituhai chun hmol sawmpahni an pêk a, hmol pakhat chu pahnam lu peia ding a na, Aron hmol khom chu an hmol lai chun an inthangtir a.
+{17:7} Mosie chun hmolhai chu Thuthlung Puon ina chun LALPA hmaah a sie a.
+{17:8} Zîngkar chun Mosie chu Thuthlung puon ina chun a va fe a, Levi sûngkuo aiawtu Aron hmol chu a lo inder chauh khom ni loin a kumum a, a pàr a, ruon a lo ra a.
+{17:9} LALPA kuoma inthokin hmolhai chu Israel pungkhawm po po hmaa chun Mosien a hung chawi suok a, an en a, mani hmol seng chu an làk nawk a.
+{17:10} LALPA chun Mosie kuomah, "Thuthlung Bawm hmaah Aron hmol kha va sie nawk rawh. Hieng helhmang nauhai hi ka chunga an chier sukrèna ding le an thi pha nawna dinga inhriettirtu dingin sie zing rawh" a ta.
+{17:11} LALPA thupêk angin Mosie chun a thaw a.
+{17:12} Israelhai chun Mosie kuomah, "Chuong a ni chun kan thi ngei ding a ni chu! Mi boral kan ni ta a, kan se letdèr an tah!
+{17:13} LALPA biekbûk hung hnai met hman an thi vong chun, kan thi ram dêr el awm de!" an ta.
+{18:1} LALPA chun Aron kuomah,"Nang le i naupahai le Levi chihai hin hmun thienghlima bawsietna maw chu phur in ta, thiempuhai bawsietna maw ruok chu nang le i naupahai chauin phur an tih.
+{18:2} Nang le i naupahaiin Thuthlung Puon in hmaa rong in bawl phaa in bula khawsaa thangpuitu ding cheu in pi le pu hnama mi Levi chia mihai chu hung thuoi rawh.
+{18:3} I hnuoiah thok an ta, Puon ina mawphurna sin po po thawng an ta, sienkhom hmun thienghlima hmangruo le maichâm ruok chu an tawk ding a ni nawh, anni le nang in thi nawna dingin.
+{18:4} Nang leh inthlopin, Puon in enkol tieng sin po poah maw phur an ta, an sin chu anni ngeiin ching fel an ta, mi dang mi naranin an hung thangpui ding chèu a ni nawh.
+{18:5} "Israelhai chungah ka lungsen thut nawk ta nawna dingin nangin hmun thienghlim le maichâm enkol sinah maw i phur ding a nih.
+{18:6} Keima ngeiin i Levi chanpuihai hi Israelhai laia inthoka la suokin Intuokna Puon ina rong bawl dingin ka'n ser thienghlim a, i ta dinga ka thilthlawnpêk an nih.
+{18:7} Chun, maichâm le puonzâr sûng tienga thiempu rongbawlna chu nang le i naupahai chauin in thaw ding a nih. Thiempu nina sin hi a thlawna ka pêk che a nih. Mi dang tu khom hmun thienghlim hung hnaitu chu sukhlum nîng an tih" a ta.
+{18:8} Chun, LALPAN Aron a biek a, "Ngai ta, ka kuoma thilhlân an hung chawi po po enkoltuah kei ngeiin ka ruot che a; Israelhaiin thil inthieng an hung inhlàn po po chu nang le i naupahai kumkhuo chanpuola dingin ka pêk cheu.
+{18:9} Maichâma meia raw ve lo thilhlân thienghlim tak, bu le bâl thilhlân hai, suol thawina thilhlân hai le thiem naw inthawina thilhlân hai chu nang le i naupahai chanpuol a nih.
+{18:10} Thil thienghlim tak a na, fa ro; pasal poin an fâk ding a nih. Thil thienghlimah in ngai ding a nih.
+{18:11} "Hi khom hi in chanpuol a nih: thèn thilhlâna Israelhaiin thilpêk an hung inhlànhai laia sie hranga um po po chu nang le i naupahai le naunuhai chanpuol ni rop dingin ka pêk cheu a, in sûngkuoa inthieng nawna kai lo poin fa thei in tih.
+{18:12} "LALPA kuoma Israelhaiin an tharsuok ra hmasa tak an hung inhlàna inthoka oliv hriek tha tak, uoiin thar inhnik tak le bu le bâl tha tak hai po po chu ka pêk cheu.
+{18:13} A ram tharsuok hmasa tak LALPA kuoma an hung chawi po po chu in chan ding a nih. In sûngkuoa inthieng nawna kai lo poin fa thei in tih.
+{18:14} "Israel rama thil hrim hrim LALPA kuoma an hung inhlàn chu i chan a nih.
+{18:15} LALPA ta dinga an pêk, sul kêu hmasa tak taphot chu, mihriem ni sien, ran ni sien, i chan a nih. Amiruokchu, nau pasal pieng hmasa tak le ran thienghlim lo tè pieng hmasa tak phot chu i'n tlan ngei ding a nih.
+{18:16} Thla khat a tling pha intlanna man tuk zât, hmun thienghlima hmang tangkaruo shekel ngain i'n tlan ding a nih. Shekel khat chu gera sawmhni a nih.
+{18:17} Amiruokchu bawngchal le beramchal le kèlchal pieng hmasa tak chu ran thienghlim an ni leiin i'n tlan ding a ni nawh; an thisen chun maichâm thè la, an thau chu meia thilhlânah raw rawh, chu chu LALPA ta dinga rim inhnik a ni si a.
+{18:18} An sahai chu i chan ding a nih, thèn thilhlâna inhlàn, a irawm le a chang tieng malhai chu i chanpuol a ni ang bok khan.
+{18:19} Israelhaiin thil thienghlim LALPA kuoma an inhlânhai po po laia sie hrang po chu nang le i naupahai le i naunuhai chanpuol rop dingin ka pêk che. LALPA hmaa nang le i thlahai ta dinga kumkhuoa machi thluthlungg a nih," a ta.
+{18:20} LALPA chun Aron kuomah, "An rama hin rochan nei naw ti nih; anni lai chan nei bok naw ti nih. Israelhai laia i chanvo le rochan chu keima hi ka nih.
+{18:21} "Intuokna Puon in an enkol sawl manah Israelhai sawmapakhat po po chu Levihai chan dingin ka pêk a nih.
+{18:22} Tuta inthok chu Israel thlahaiin Intuokna Puon in hi an hung hnai ding a ni ta nawh, chuong naw chun an suol maw phurin thi hlau rawi an tih.
+{18:23} Intuokna Puon ina rongbawl sin chu Levihaiin thaw tàng an ta, bawsietna maw iengkim chu phur tàng an tih. Hi hi in thlahai chen khoma ka kumkhaw thupêk chu a nih. Israelhaia inthokin rochan nei naw ni hai.
+{18:24} Chu aia an rochana ka ruotpêk chu LALPA kuoma Israelhai sawmapakhat inhlân po po chu a nih. Chu lei chun a nih, 'Israelhai lai rochan nei naw ni hai' ka lo ti hrim kha" a ta.
+{18:25} LALPA chun Mosie a biek a,
+{18:26} "Levihai inbiekpui la, an kuomah hieng hin hril rawh: 'In rochan dinga Israelhai sawmapakhat ka pêk cheu chu an laka inthoka in dong pha chun, chu sawmapakhata inthoka sawmapakhat chu LALPA ta dingin in inhlàn ding a nih.
+{18:27} In thil inhlàn chu hrizawla bu thar hmasa tak le uoiin sawrna khura uoiin suok thar hmasa tak anga ngai nîng a tih.
+{18:28} Chuong anga Israelhai laka sawmapakhat in dong po poa mi chu LALPA ta dingin in inhlàn ve pei ding a nih. Chu thilhlàna LALPA chanpuol po chu Aron in pêk ding a nih.
+{18:29} In thil dong laia a tha tak le thienghlim tak pei chu LALPA chan dingin inhlàn ro'.
+{18:30} " 'Chun, Levihai kuomah hieng hin hril bok rawh: In thil nei laia a tha tak in inhlàn chu hrizawl le uoiin sawrna khura inthoka hung suok anga ngai nîng a tih' tiin.
+{18:31} A dang po chu Intuokna Puon in enkol sin in thaw hlaw a na, in sûnghai leh in nuomna naah fa thei in tih.
+{18:32} A tha tak LALPA kuomah in inhlàn tah chun hieng thila hin thiem naw chang ngai naw ti niu a, Israelhai thilhlàn thienghlim chu sukporche ngai nawng in ta, thi naw bok in tih" tiin.
+{19:1} LALPA chun Mosie le Aron a biek a,
+{19:2} "Hi hi LALPA thupêk anga dânin a mamaw chu a nih: bawng la sen, hmèl hem lo le la sor ngai der lo chu i kuoma hung kei dingin Israelhai hril rawh.
+{19:3} Bawng chu thiempu Eleazar kutah pe la, riebûk puo tieng inkeitir sien la, chu taka chun ama hmu ngeiah that raw hai se.
+{19:4} Thiempu Eleazar chun a kut pàr chang tieng bawng thisena chun zuk phûm a ta, Intuokna Puon in hma tieng nghain voi sari a thè ding a nih.
+{19:5} A hmu lai ngeiin bawng la chu a vun hai, a taksa hai, a thisen hai le a ek hai pumin raw vong an tih.
+{19:6} Thiempu chun sidar thing dâm, hussop dâm le sahmul senlâr dâm chawi a ta, bawng la sen an rawna meia chun buk a tih.
+{19:7} Chu zoah thiempu chun a silfènhai sawpin tui insil fai a ta, riebûkah hung kîr thei tâng a ta, amiruokchu zân tieng chen inthieng nawna kai a tih.
+{19:8} A rawtu chun a silfènhai sawpin tui insil a ta, zân tieng chen inthieng nawna kai a tih.
+{19:9} "Inthieng nawna kai lo mi pakhatin bawng la sen vâp chu inthiel a ta, khawhnawm hmun faiah a pei ding a nih. Hi meivàp hi tuia inthienna an nei phaa hmang dingin Israel thlahai chun an sie tha ding a nih; chu chu suol sukfaina a nih.
+{19:10} Chun, bawng la sen vâp inkhawmtu chun a silfènhai sawp a ta, zân tieng chen inthieng nawna kai a tih. Hi hi Israel thlahai le anni laia um ram dang mihai ta dinga kumkhaw dàn ding chu a nih.
+{19:11} "Tu ruong khom ni sien, mithi ruong tawk taphot chu ni sari sûng porche kai a tih.
+{19:12} A ni thumna le ni sarinaah inthienna tuiin inthèng a ta, chu chun hung inthieng tâng a tih. Ni thumna le ni sarinaah a'n thien naw chun porche kai zing a tih.
+{19:13} Tu khomin tu ruong khom a them a, a'n thien si naw chun LALPA biekbûk a sukporche a nih. Chuong ang mi chu Israel mihai laia inthoka tuithlàr ding a nih. Inthienna tui chu thè khum a ni naw leiin mi porche a na, a porchèna chu amaah a kop zing a nih.
+{19:14} "Puon inah mi a lo thi chun, hi hi in thaw dàn ding chu a nih: tu khom puon ina hung lût le chu taka um po po chu ni sari sûng porche kai an tih.
+{19:15} Chun, bûr le bèl, sìn nei lo po po khom porche kai vong bok a tih.
+{19:16} "Tuola kawlhnâma mi that ruong amanih, thi pangngaia thi ruong amanih le mihriem ru amanih le thlàn amanih tawk rêng rèng chu ni sari sûng porche kai a tih.
+{19:17} "Chuonga porchèna kai chu hieng anga inthien fai ding a nih: Bêl ring rêkah tui thar thun a, suol thawina bawng la vâp kha bêla tuia chun phul ding a nih.
+{19:18} Mi inthieng pakhatin hussop lain tuia chun phûm sien, puon in le a sûnga hmangruo po po le a sûnga umhai chu thè raw se. Mihriem rû amanih, thlân amanih, mi an that amanih le thi pangngaia thi amanih ruong tawkhai chu thè khum bok raw se.
+{19:19} Mi inthieng chun mi porche chu a ni thumna le ni sarinaah tui chu thè khum a ta, a ni sarina chun hung inthieng a tih. A silfènhai sawp a ta, insil a ta, zân tieng chun hung inthieng tâng a tih.
+{19:20} Sienkhom, mi porche, inthien si lo chun, LALPA hmun thienghlim a sukporche leiin a mihai laia inthoka tuithlàr ding a nih. Inthienna tui chu thè khum a ni naw leiin a porche a nih.
+{19:21} Hi hi an ta dinga kumkhaw dàn ding chu a nih."Inthienna tui thètu khom chun a silfènhai a sawp ding a nih. Chun, inthienna tui tawk taphot chu zân tieng chen porche kai a tih.
+{19:22} Mi porchein a tawk taphot chu a hung porche a, chu porche tawk taphot chu zân tieng chen porchèng a tih" tiin.
+{20:1} Israel thlahai po po chu a thla khatnaa chun Zin thlaler an hung tlung a, Kadesh-ah umhmun an khuor a. Chu taka chun Miriam a thi a, an phùm a.
+{20:2} Dawn ding tui a um naw leiin mipui pungkhawm chun Mosie le Aron chu an hung inhuol a.
+{20:3} Mipuihai chun, "LALPA hmaa kan unauhai an thi lai khan Pathienin mi lo sukhlum ve law law sien ni ding bah!
+{20:4} Ieng leia LALPA mihai hi an ran ruol le thlalèra thi el dinga i thuoi am a na?
+{20:5} Ieng leia Aigupta rama inthok khan hieng ang ram tha lo taka hin i mi thuoi lût tawl am a na? Bu le bâl, theichang, grêp le theibufai hai hlak hmu ding um hrim hrim lo, tui dawn ding hlek khom um bok si lo!" tiin Mosie chu an suosal hrep a.
+{20:6} Mosie le Aron chu mipui laia inthokin an suok a, Intuokna Puon in kota chun an fe a, an bokkhup a, an kuomah LALPA ropuina chu a hung inlang a.
+{20:7} LALPA chun Mosie kuomah,
+{20:8} "I hmol chawi la, nang le i unaupa Aronin mipui ko khawm ro. An mit hmu ngèiah saw lungpui son tui insuo dingin hril rawh. Pungkhawmhai le an ran ruolhai dawn ding saw lungpuia inthok son tui i lâk suok ding a nih" a ta.
+{20:9} Chuongchun, thu pèka a um angin, Mosie chun a hmol chu LALPA hmaa inthokin a lâk suok a.
+{20:10} Ama le Aron chun mipui chu lungpui bula chun an ko khawm a. Mosie chun an kuomah, "Helhmanghai, ngai thla ro, hi lungpuia inthok hin tui kan hung lâk suokpèk ding cheu am a ni?" a ta.
+{20:11} Chun, Mosie chun a bân a hlàng a, a hmolin lung chu voi hnih a vuok a, tui a hung inkhaw suok huou huou a, pungkhawmhai le an ranhai chun an tlàn a.
+{20:12} LALPA ruok chun Mosie le Aron kuomah, "In mi ring zo tawk naw a, ka thienghlimna phua Israelhai mit hmua in mi chawimawi naw leiin, hieng pungkhawmhai hi ka pêk rama chun thuoi naw ti niu" a ta.
+{20:13} Hi hi a nih Meribah tui, Israelhaiin LALPA inhalpui a, anni laia a thienghlimzie a hung tàrlangna hmun chu.
+{20:14} Mosie chun Kadesh-a inthokin Edom lal kuomah palai tirin thu a thon a: "I unau Israelhai chunga harsatna hung tlung po po chu in lo hriet vong ta thei.
+{20:15} Kan pi le puhai chu Aigupta ramah an tla thla a, chu taka chun kum tam tak kan khawsa a. Keini le kan thlatuhai chu Aigupta mihaiin an mi soisak rimsi hle a.
+{20:16} Amiruokchu LALPA kan ko a, a mi ngàithlàk a, a vàntirko a hung tir a, Aigupta rama inthokin a mi thuoi suok tah a nih. Tu hin in ram bul el, Kadesh-ah kan um a.
+{20:17} Lunginsiet takin in ram hraw tlang mi phalpèk ro. Lo amanih, grêp huon amanih hraw nawng kan ta, in tuikhura tui dawn bok nawng kan tih. Lal lamlienah fèng kan ta, in ram kan fe thleng hma khat chu voi tieng amanih chang tieng amanih pet nawng kan tih" tiin.
+{20:18} Nisienlakhom, Edom lal chun, "Fe thleng thei naw ti niu; in fe thleng tum chun nangni bei dingin kawlhnâm leh hung inthok kan tih" tiin a don a.
+{20:19} Israelhai chun, "Lamlienpui chauh hrawng kan ta, keini le kan ranhaiin in tui an dawn chun a man pe vong kan ti cheu. Kea hraw thleng chau a nih kan hni, thil dang ieng khom kan hni sa nawh" an ta.
+{20:20} Ama ruok chun, "Hraw thleng lo ding" a ti tlat a. Edom chu a sipai tam tak le hrât tak leh anni bei ding chun a hung inthok a.
+{20:21} Chuonga Edomin an ram hraw thleng a phal naw lei chun Israelhai chun an kîrsan a.
+{20:22} Israel thla, mipui po po chun Kadesh suoksanin Hor tlâng an tlung a.
+{20:23} Edom ramri bul Hor tlânga chun LALPAN Mosie a biek a,
+{20:24} "Aron hi a chipuihai kuomah thuoi a ni ding a ni tah. In pahnia Meriba tuikhura ka thupêk laka in hel leiin Israelhai ka pêk rama chun lût thei naw nih.
+{20:25} Aron le a naupa Eleazar ko la, Hor tlângah fepui rawh.
+{20:26} Aron silfèn kha hlippèk la, a naupa Eleazar inhâktir rawh, Aron chu a chipuihai kuoma thuoi a ni ta ding a ni si a; tlânga chun thing a tih" a ta.
+{20:27} LALPA thupêk ang takin Mosie chun a thaw a. Mipui hmuah Hor tlâng chu an kai a.
+{20:28} Mosie chun Aron thiempu silfèn chu a hlippèk a, a naupa Eleazar chu a'n hâktir a. Aron chu tlâng sïpa chun a thi a, Mosie le Eleazar chu an hung kîr nawk a.
+{20:29} Aron thi thu mipuiin an hriet chun Israel sûngkuo po poin ni sawmthum an sùn a.
+{21:1} Kanan mi Arad lal, Negev-a um chun Israelhai chu Atarim panin an hung ti a hrietin a lo bei a, a then a lo man a.
+{21:2} Israelhai chun LALPA kuomah "Hienghai hi kan kutah i mi pêk phot chun, an khawpuihai hi sukram vong kan tih" tiin thu an intiem a.
+{21:3} Israelhai hnìna chu LALPAN a ngàithlàk a, Kanan mihai chu an kutah a pêk a, anni le an khuohai chu an sukram vong a, chu hmun hminga chun Hormai an inbûk a.
+{21:4} Hor tlânga inthok chun Edom ram hêlin Tuipui Sen tieng an kîr nawk a, a lam chu a'n kuol leiin mipuiin an nghok ta hle a.
+{21:5} Mipui chu Pathien le Mosie lakah an chier a, "Thlalèra thi dingin ieng dinga Aigupta rama inthokin i mi thuoi suok am a na? Bei hlak um lo! Tui khom um bok lo! Hi bu luoksuokum vet khom hi kan hnàm zo tah!" an ta.
+{21:6} Chu phing leh, LALPAN rûl, mi chukna chihai chu mipuihai lai chun a tir a, Israelhai chu an chuk hlum teu a.
+{21:7} Mipuihai chu Mosie kuomah an hung a, "LALPA le nangma kal zawnga kan lo tong kha thil suol kan thaw a nih. Rûl mi la hmangpèk dingin LALPA hni rawh" an ta, Mosie chun mipui ta dingin a hnipèk a.
+{21:8} LALPA chun Mosie kuomah, "Rûl lim siem la, ban lêrah khai rawh, rûl chuk tu khomin a en chun dam a tih" a ta.
+{21:9} Chuongchun, Mosien dâr rûl a siem a, ban lêrah a khai a, rûl chuk tu khom dar rûl en taphot chu an dam pei a.
+{21:10} Israel thlahai chu an fe pei a, Obot-ah umhmun an khuor a.
+{21:11} Obot-a inthok chun an suok nawk a, ni suokna tieng, Moab thlaler bul, Iye Abarim-a chun umhmun an khuor nawk a.
+{21:12} Chu taka inthoka fe peiin Zered Ruom-ah umhmun an khuor a.
+{21:13} Chu taka inthok chun an suok nawk a, Arnon vadung kamah umhmun an khuor a, chu chu Amor ram chena inzar, thlalèr hmora um a nih. Arnon vadung hi Moab ramria um, Moab le Amorhai inkâra ramri vadung a nih.
+{21:14} Chu lei chun a nih LALPA Indona Bu-a chun,"Sufaah Waheb ruom inthûk a um,Arnon vadung ruom le chun,
+{21:15} A ruom pangpèr insawn thla chun,Moab ramria Ar khuo a sun"tiin a'n ziek.
+{21:16} Chu taka inthok chun Beer panin an fe pei a. Hi hmun hi a nih LALPAN Mosie kuoma, "Mipuihai ko khawm la, tui ka pêk ding a nih" a tina hmun chu.
+{21:17} Chuongchun, Israelhai chun hi hla hi an sak a:"Aw tuikhur, hung inchik suok la,Zâiin awi kan ti che;
+{21:18} Lalhai cho suok tuikhur chu,Mipui thuoituhai ngeiin,Lal hmol le funghrola an cho"tiin. Thlalèra inthok chun Matana an pan a,
+{21:19} Matanaa inthokin Nahaliel, Nahaliela inthokin Bamot,
+{21:20} Bamot-a inthokin thlaler inlangna Pisga tlâng hnuoia um Moab phaizawl chu an tlung a.
+{21:21} Israelhai chun Amor lal Sihon kuomah,
+{21:22} "I ram mi'n hraw tlangtir raw khai. Lo amanih grep huon amanih hraw nawng kan ta, i tuikhura tui dawn bok nawng kan tih. I ram kan fe thleng hma khat chun lal lamlienah fe pei kan tih" tiin mi an tir a.
+{21:23} Sienkhom Sihon chun Israelhai hraw thleng chu a phalpèk nawh. A sipai po po a khawm a, Israelhai bei ding chun thlalerah a tir a, Jahaz an tlung chun Israelhai leh an inbei a.
+{21:24} Israelhai chun kawlhnâm leh an lo bei a, a ram chu Arnon vadunga inthoka Jabok vadung chen, kula inhuon Amon mihai le an ramri bul chen chun an lâk vong a.
+{21:25} Israelhai chun Amor mihai khuo po po, Hesbon le a se vela khuo po po khom chu an lâk vong bok a, an hluo a.
+{21:26} Hesbon chu Amor lal Sihon khawpui a nih. Ama chu kha hmaa Moab lal do a, Arnon vadung chena a ram po po lapèktu a nih.
+{21:27} Hieng ang hin hlain an lo phuok a,"Hesbonah hung unla,Sihon lal khawpui chu,Indin thar nawk ei tiu.
+{21:28} Hesbon a'nthok mei a suok,Sihon khawpuia mei chu,Moab-a Ar khuo a lem zo,Arnon hmun sànga lênghai.
+{21:29} Aw Moab, i chung a pik, Khemo nauhaij, in se let dèr!In pathien chun vâkvai dingin,In nau pasalhai a siem a,In nau nuhmeihai khom chu,Amor lal Sihon kuomahSala man din a pêk suok.
+{21:30} Sienkhom keinin kan tukdol,Hesbon kan suksiet dêr a,Dibon chen kan sukram a,Nofa chen kan sukchimit,Medebe chen khom thang sain"tiin.
+{21:31} Chuong ang chun Amor-hai rama chun Israelhai chu an um a.
+{21:32} Chun, Mosie chun Jazer khuo enthla dingin mi a tir a, chu khuo chu an làk a, chu taka um Amorhai chu an hnot suok a.
+{21:33} Chu zoah an kîr a, Basan tieng an pan tung a, Basan lal Oga chu a sipai po po leh Edrei hmunah anni chu lo bei dingin a hung inthok suok a.
+{21:34} LALPA chun Mosie kuomah, "Ti dêr naw rawh. Ama le a sipaihai le a ram chu i kutah ka pêk tah. Hesbona Amor lal Sihon chunga i thaw angin a chunga khom thaw ve rawh" a ta.
+{21:35} Chuongchun, ama le a nauhai le a sipaihai chu tu khom hla nei dêr loin an that fai vong a, a ram chu an hluopèk tah a.
+{22:1} Chuongchun, Israelhai chu fe peiin Jeriko zawn, Jordan suo tieng râl Moab phairuoma chun umhmun an khuor a.
+{22:2} Chun, Zipor naupa Balakin Amor mihai chunga Israelhai thilthaw po po chu a lo hriet a.
+{22:3} Israelhai chu an tam si leiin Moab mihai chu an thlabâr hle a, a ram pumin an mangang takzet a.
+{22:4} Chuongchun, Moab-hai chun Midian upahai kuomah, "Hi honpui hin bawngin hlo an pet zo angin ei sevela mi po po hi an pet zo vong ding a nih" an ta. Chuong hun laia Moab lal chu Zipor naupa Balak a nih.
+{22:5} Ama chun Eufretis Tuipui kama a pi le puhai ram Pethora um, Beor naupa Balaam kuoma chun mi tirin hieng ang hin thu a'n cha a: "Aiguptaa inthoka hung suok mipuiin a ram an hung dàp sip a, ka depah an um a.
+{22:6} Ka ngam ruol an ni bok si naw leiin tu hin nang hung la, hnea a rama inthoka ka hnot suok tawl theina dingin, tongsie hung inphur tawl rawh. Nangin mal i sawmhai chu malsawmin an um a, tongsie i'n phurhai chu tongsie phurin an um ti ka hriet si a" tiin.
+{22:7} Moab upahai le Midian upahai chu aien man ding chawiin an suok a, Balaam kuom chu an va tlung a, Balak thucha chu an hril a.
+{22:8} Ama chun an kuomah, "Voizàn chu hi taka hin riek phot unla, LALPAN a mi hril dàn ang angin in kuomah thu hung inhriettir nawk ka ti cheu" a ta, chuongchun Moab milienhai chu a inah chun an riek a.
+{22:9} Balaam kuoma chun Pathien a hung a, "Hieng mihai hi tu hai am an na?" a ta.
+{22:10} Balaam chun, "Moab lal, Zipor naupa Balakin thu a hung incha a, 'Aiguptaa inthoka hung suok mipuiin a ram an dàp sip el a, ka depah an um a.
+{22:11} Ka ngam ruol an ni bok si naw leiin tu hin nang hung la, hnea a rama inthoka ka hnot suok tawl theina dingin, tongsie hung inphur tawl rawh' a ti a nih" a ta.
+{22:12} Sienkhom Pathien chun Balaam kuomah, "Anni chu zui naw rawh. Chuonghai chu tongsie i'n phur ding a ni nawh; mal ka sawmhai an nih" a ta.
+{22:13} Zîng kàr a hung tho chun Balaamin Moab mi lienhai kuomah, "In ram tieng kîr nawk ta ro, nangni le fe chu LALPAN a remti nawh" a ta.
+{22:14} Chuongchun, Maob mi lienhai chu Balak kuom tieng an kîr nawk a, "Balaamin a mi zui nuom nawh" tiin an hril a.
+{22:15} Balak chun mi lien tam lem, a hmaa fehai neka ropui lem a tir nawk a.
+{22:16} Anni chu Balaam kuomah an hung a, "Zipor naupa Balakin hieng ang hin thu a mi'n cha: Ka kuoma i hung hi ieng khomin dâl naw raw se;
+{22:17} lawmman tam tak pèng ka ti che a, i hril ang ang chu thawng ka tih. Hung la, hieng mihai hi ka ta dingin tongsie hung inphur hràm rawh khai' tiin" an ta.
+{22:18} Sienkhom Balaam chun an kuomah, "Balakin tangkaruo le rangkachaka sip a lal in mi pe ding khom ni sien, LALPA Pathien thupèk bàk chu ieng khom ka thaw thei nawh.
+{22:19} A hung hmasahai ang bok khan voi zàn ka inah riek unla, LALPAN thil dang iem hril ding a mi nei la nghâk ka tih" a ta.
+{22:20} Zàna chun Balaam kuomah Pathien a hung a, "Hieng mihai hi nangma koa hung an ni leiin zui tawl la, sienkhom ka hril che chauh thaw rawh" a ta.
+{22:21} Chuongchun zîngkàr a tho chun a sabengtung a buotsai a, Moab mi lienhai chu a zui ta a.
+{22:22} A fe phing leh Pathien lung a sen a, lo dang dingin LALPA vântirko chu lampuiah a lo ngîr a. Balaam chu a sabengtung chungah a chuong a, a siehlaw pahniin an zui a.
+{22:23} Kawlhnâm chawia lampuia LALPA vântirko ngîr sabengtungin a hmu chun lam sirah a pêt a, ram hnuoiah a fe a, Balaam chun lampuia khal kai nawk tumin sabengtung chu a vuok a.
+{22:24} Chun, LALPA vântirko chu grêp huon pal le pal inkâr inchêp taka hin a lo ngîr nawk a.
+{22:25} Sabengtung chun LALPA vântirko chu a hmu a, pal chu a va hneng a, Balaam ke chu pal leh a hneng de a, chuongchun a vuok nawk ta a.
+{22:26} LALPA vântirko chu a khêl deuah an tawl son a, hmun inchêp lai tak, chang tieng voi tieng pêtna ding a um nawna hmuna chun a lo ngîr a.
+{22:27} Sabengtung chun LALPA vântirko chu a hmu a, a bok a, Balaam lungsen chun a hmolin a zei zot zot a.
+{22:28} Chuphing leh, LALPAN sabengtung bâu chu a hong a, Balaam kuomah, "Ieng am i chungah ka thaw suol a, voi thum zet i mi vuok el chu?" a ta.
+{22:29} Balaam chun sabengtung kuomah, "Mi invêt angin i mi soisak a ni hi! Ka kuta kawlhnâm chawi ni lang chu tu hin zuk that nghal ka ti che" a ta.
+{22:30} Sabengtung chun, "Voisun ni chena nuom nuoma i chuongna hlak i sabengtung ka ni naw am a ni? Hieng hi i chungah thaw ka chîng hlak am a ni?" a ta, ama chun, "Chîng ngai lo e," a ta.
+{22:31} Chu phing leh LALPAN Balaam mit chu a hongpèk a, lampuia kawlhnâm chawia ngìr LALPA vântirko chu a hmu a, chuongchun a kûn a, hnuoi sikin a bokkhup a.
+{22:32} LALPA vântirko chun a kuomah, "Ieng dinga voi thum top el i sabengtung i vuok? I fena hi ka nâk kal zawng a ni leiin dang ding chein ka hung a nih.
+{22:33} Sabengtung chun a mi hmu a, ka hmaa inthokin voi thum a pêt a ni kha. Pêt naw sien chu that tàng ka ti che a, sabengtung ruok chu hlàng ka tih," a ta.
+{22:34} Balaam chun LALPA vântirko kuomah, "Ka lo suol a nih. Mi dang dingin lamah i ngîr ti ka hriet naw lei a nih. I lawm naw zawng a ni chun kîr nawk el ka tih" a ta.
+{22:35} LALPA vântirko chun Balaam kuomah, "Hieng mihai hi zui la, amiruokchu ka hril che chauh hril suok rawh," a ta. Chuongchun, Balaam chun Balak mi lienhai chu a zui ta a.
+{22:36} Balaam a hung ti Balakin a hriet chun an ramri hmawr, Arnon vadung kama Moab khuoa chun hmuok dingin a'n thok suok a.
+{22:37} Balak chun Balaam kuomah, "Inhmaw takin ka ko che an naw maw? Ieng dinga i hung el naw? Lawmman pe thei lo ding che am ka ni?" a ta.
+{22:38} Balaam chun, "Hi, tu hin ka hung annawm. Ka nuom nuom hril thei am ka ni? LALPAN ka baua a sie chauh ka hril ding a nih" a ta.
+{22:39} Chuongchun, Balaam chu Balak leh Kiriat Huzot-ah an fe a.
+{22:40} Balak chu bawng le beramin a'n thawi a, Balaam le a kuoma umhai chu a then a pêk a.
+{22:41} A zînga chun Balakin Balaam chu Bamot Baal-ah a hang fepui a, chutaka inthok chun Israel mihai a then chu a zuk hmu phàk a.
+{23:1} Balaam chun Balak kuomah, "Hi taka hin maichâm pasari mi bawlpèk la, bawngchal pasari le beramchal pasari mi buotsaipèk bok rawh" a ta.
+{23:2} Balak chun Balaam hril ang chun a thaw a, an pahni chun maichâm pakhat peiah bawngchal le beramchal an inhlàn a.
+{23:3} Balaam chun Balak kuomah, "I thilhlân bula hin lo ngîr zing la, kei chu va fe hrang ka ta, mi be dingin LALPA a hung el thei a, ka kuoma a puong taphot chu hril ka ti che" a ta. Chuongchun, tlâng kol vungah a hang fe a.
+{23:4} Pathienin Balaam chu a lo inhmupui a. Balaam chun, "Maichâm pasari ka buotsai a, maichâm tinah bawngchal le beramchal ka'n hlàn a nih," a ta.
+{23:5} LALPA chun Balaam bauah thu a sie a, a kuomah, "Kîr nawk ta la, hi thucha hi Balak kuomah hril rawh," a ta.
+{23:6} Chuongchun a kîr nawk a, maichâm sîra chun ama le Moab mi lienhai po po chu an lo ngîr a.
+{23:7} Balaam chun hrillawkna thu chu a puong suok ta a:Aramk a'nthok Balakin a mi hung thuoi,Sak tlâng rama Moab lal chun;'Hung la, Jakob sûngkuohai chuKa ta din tongsie inphur la,Israel chu hnawl hmang rawh' tiin.
+{23:8} LALPAN tongsie a'n phur naw chu,Ieng tin am inphur thei ka ta?LALPAN a hnawl si lo hai chu,Ieng tin am hnawl thei ka ta?
+{23:9} Lung tolawta inthokin ka hmu phâk a,Tlâng sîpa inthokin ka thlîr tawl:A hlanga um ding hnam an na,Hnam dang ang an ni ve nawh;
+{23:10} Jakob thla pilvut zât hiel chu,Tuin am tiem zo thei an ta?Israelhai hmun lia thea hmun khat khom,Tu in am inchik zo sèng an ta?Mi fel thiin mi'n thitir rawh,An tawpna anga tawp ve ka nuom!"tiin.
+{23:11} Balak chun Balaam kuomah, "I mi thaw dàn hi ieng tizie am an ta a? Ka hmèlmahai tongsie inphur dingin ka hung inthuoitir che a, chuong chu thaw ta nèkin mal i sawm ta hlauh lem a!" a ta.
+{23:12} Balaam chun, "LALPAN ka baua thu a sie chu ka hril suok naw dim a ni?" tiin a don a.
+{23:13} Chun, Balak chun a kuomah, "Hmun dangah fêng ei ta, chu taka inthok chun hmu thei tawl i tih. An umna chin po po hmu thei i ta, an rêng chun hmu vong kher naw ti nih. Chu taka inthok chun tongsie i mi'n phurpêk ding a nih" a ta.
+{23:14} Chuongchun, Pisga tlâng sîpa khaw thlîrna Zofima chun a thuoi a, chu taka chun maichâm pasari a siem a, maichâm tina chun bawngchal le beramchal a'n hlàn seng a.
+{23:15} Balaam chun Balak kuomah, "Saw laia LALPA ka va biek karin i thilhlân bula hin lo um rawh" a ta.
+{23:16} LALPA chun Balaam chu a'n hmupui a, a bauah thu a sie a, "Kîr nawk ta la, Balak kuomah hi thucha hi hril rawh," a ta.
+{23:17} Chuongchun a kîr nawk a, maichâm sìra chun ama le Moab mi lienhai po po chu an lo ngîr a. Balak chun, "LALPA chun iem a hril che leh?" a ta.
+{23:18} Chuongchun, a hrillawkna chu a puong ta a:"Balak, tho la, ngàithla rawh,Zipor naupa, ka thu ngai rawh;
+{23:19} Pathien chu mihriem ang a,Khêl hril hlak mi a ni nawh;Mihriem nauhai anga lungril,Thlâk el hlak mi a ni bok nawh.Hril sia thaw ngai lo a ni?Thu tiem hlen ngai lo a ni?
+{23:20} Malsawmpèk di'n thu ka hmu a,Mal a sawm ta sa hrim an na,Keiin chu chu ka sût thei nawh.
+{23:21} Jakob ta din sietna ka hmu nawh,Israel ta din buoina ka hmu nawh;LALPA an Pathienin a umpui a,Anni lai Lal rawl an ri zing;
+{23:22} Pathienin Aiguptaa inthokin,Anni chu a hung thuoi suok a,Ramsiel anga thâ hrât an nih;
+{23:23} Jakob chu dawi hne ruol lo,Israel chu ái ieng ang khoma,Hang ngam ruol ding a ni nawh.Jakob le Israel chungthua chu,"Pathienin a va thawpek nasa de!",Ti hi mihai hril tak nîng a tih.
+{23:24} Keipui angin mipui an tho,Keichal angin an hung tho suok;An sa se a fâk zo hma chun,A thisen a liek kawl hma chun,Chawlin bok nawk ngai naw nih"tiin.
+{23:25} Balak chun Balaam kuomah, "Tongsie i'n phur dêr naw a ni khomin mal chu a te hlek khom sawmpèk lul naw rawh" a ta.
+{23:26} Balaam chun, "LALPA hril ang ang chu ka thaw ding a nih ti ka hril ta che a ni naw am a ni?" tiin a don a.
+{23:27} Chun, Balak chun Balaam kuomah, "Hung rawh, hmun dangah thuoi nawk ka ti che, chu taka inthok chun tongsie i mi'n phurpèk Pathienin a remti hlauh tàkah" a ta.
+{23:28} Balak chun thlaler zuk thlir theina tlâng Peor tlâng sîpa chun Balaam chu a thuoi a.
+{23:29} Balaam chun, "Maichâm pasari mi siempêk la, bawngchal pasari le beramchal pasari mi buotsaipêk bok rawh" a ta.
+{23:30} Balak chun Balaam ti ang chun a thaw a, maichâm tina chun bawngchal pakhat le beramchal pakhat a'n hlàn a.
+{24:1} Israelhai malsawmpèk chu LALPA lawmzawng a nih ti Balaamin a hriet chun kha hma ang khan aien dingin a fe hrang nuom ta naw a, thlaler tieng a ngha a,
+{24:2} a pahnam a pahnama riebûk khuor Israelhai chu a hmu a. Pathien thlarau chu a chungah a hung tlung a,
+{24:3} hi thu hi a hril ta a:"Beor naupa Balaam thu,Mita chieng taka hmu theitu thu,
+{24:4} Pathien thu hretu thu,Iengkimthawthei inlàrna hmutu,A hmaa bokkhup a,A mit hung inhong tah thu chu:
+{24:5} "Aw Jakob, i puon inhai a mawiin,Aw Israel, i chêngna hmunhai a mawi!
+{24:6} "Ruom angin an inzâr duoi a,Va kama huon ang a na,LALPA phun aloi thing ang,Va kama sidar thing ang a nih.
+{24:7} Vân ruotui dong thàng a ta,Ram hnawngah thlai chi thlâk an tih."An lal chu Agagl nêkin ropui a ta,An lalram chu hmingthang a tih.
+{24:8} "Aigupta rama inthokin,Pathienin a hung thuoi suok a,Ramsiel anga tha hrât an nih.Dotu hnam danghai dol hmangin,An ruhai vaw hawp an ta,An thalin kâp tlang an tih.
+{24:9} Keichal anga bok inzielin,Keipui angin bok zâl an ta,Tu'n am kei tho ngam an ta?Nangni malsawmtu cheu chu,Malsawmin um hai sien la,Tongsie inphurtu cheu chu,Tongsie phurin um raw se"tiin.
+{24:10} Chu zet chun Balaam chunga chun Balak lungsenna chu a chok a. A kut chu nuoiin, "Ka hmèlmahai tongsie inphur dingin ka'n chà suok che a, voi thum rau mal i sawm ta a.
+{24:11} Tu hin suok nghal la, i in tieng fe dai rawh. Lawmman tam tak pêk che ka tum vei leh LALPAN i lawmman hmu ding a dâl si che a" a ta.
+{24:12} Balaam chun Balak kuomah, "I mi hung tirhai kha ka lo hril a ni naw am a ni?
+{24:13} 'Balakin tangkaruo le rangkachaka sip a lal in khom mi pe ding ni sien, LALPAN thu a mi pêk bâk chu keima chun ieng khom, a sie a tha, ka thaw thei nawh, LALPA mi hril chauh ka puong thei a nih' ti ka lo hril tawl kha.
+{24:14} Tu hin ka mihai kuom tieng ka kîr nawk ding a ni ta a, sienkhom la hung vak rawh, hieng mihai hin tuta hnunga i mihai chunga an thaw dàn ding la hang hril ka ti che" a ta.
+{24:15} Chuongchun, Balaam chun hieng thu hi a hril a:"Beor naupa Balaam thu,Mita chieng taka hmu theitu thu,
+{24:16} Pathien thuhai hretu thu,Iengkimthawthei inlàrna hmutu,A hmaa bokkhup a,A mit hung inhong tah thu chu:
+{24:17} "La hung ding mi chu ka hmu a,La hnai si lo mi chu ka hmuh.Jakob a'nthok arasi hung suok a ta,Israel a'nthokin lal hmol suok a tih. Moab lu bûr chu vaw hawp a ta,Setha nauhai lu ru po po khom.
+{24:18} Edom chu tukdol a ta,A hmelma Seir chu hnêng a tih.Israel ruok chu hrât pei a tih.
+{24:19} Jakob a'nthok roreltu hung a ta,Khuoa thi mahlahai nuoi bo a tih"tiin.
+{24:20} Chu zoah Balaam chun Amalek a hmu a, a thu chu a puong a:"Amalek chu hnam hmasa tak a na,Sienkhom a tawpah hung sieng a tih"tiin.
+{24:21} Chu zoah Ken mihai a hmu a, a thu chu a puong a:"I chêngna hmun a him,Lungpuiah bu i sep;
+{24:22} Sienkhom Kenhai chu suksiet nîng in ta,Asuria-haiin salah thuoi an ti cheu"tiin.
+{24:23} Chu zoah hi thu hi a hril nawk a:"Chuong chu Pathienin a thaw pha,Tu am dam zo tâng an ta?
+{24:24} Kittim a'nthok long hung an ta,Asur le Eber tukdol an ta,Anni khom tlu se vong an tih"tiin.
+{24:25} Chun, Balaam chu a tho a, a in tieng a kîr nawk a, Balak khom chun a fena ding tieng a pan ve ta a.
+{25:1} Sitim ruoma Israelhai an um laiin chu taka um Moab nuhmeihai chu an pawl a.
+{25:2} Chuong nuhmeihai chun an pathien kuoma inthawinaa dâm an fiel a, inthawina sa chu fain an pathien hmaa chun an kûn ve a.
+{25:3} Peor-a an Baal chu Israelhai khomin an biek ve tah leiin an chungah LALPA lungsen chu a so hle a.
+{25:4} LALPA chun Mosie kuomah, "Hieng hotuhai po po hi thuoi tawl la, LALPA lungsenna tibaium tak el chu Israelhai chunga inthoka a'n kieng theina dingin sûn varah LALPA hmaah sukhlum vong rawh" a ta.
+{25:5} Mosie chun Israel rorêltuhai kuomah, "Peor-a Baal biea thang in mihai seng chu in sukhlum ding a nih" a ta.
+{25:6} Chuonga Intuokna Puon in bula Mosie le Israel pungkhawmhai po po an tap lai chun an mit hmua ngei Israel mi pakhat hin a insûngah Midian nuhmei a hung thuoi lût a.
+{25:7} Aron naupa Eleazar naupa Finehas chun a hmuin inkhawmnaa inthokin a suok a, fei a lâk a,
+{25:8} Israel pa chu a puon inah a zui lût a, Midian nu le chun an pahniin feiin a sun tlang a, Israelhai chunga hremna chu a rè ta a.
+{25:9} Chu hremna hripui chun mi sînghni le sângli a that hman a nih.
+{25:10} LALPA chun Mosie kuomah,
+{25:11} "Thiempu Aron naupa Eleazar naupa Finehas chun Israelhai laka ka thîkthu a siet anga a thîkthu a suksiet leiin Israelhai chunga ka lungsen chu a re ta a, ka thîkthu lungsen leiin Israelhai chu sukbohmang ta naw ning.
+{25:12} Chuleiin, ngai ta, keima le inremna thuthlung chu ama leh thlung ka tih ti hril rawh.
+{25:13} Pathien inzaumna hum dinga thîkthu sukse a, Israel thlahai ta dinga inremna a siem leiin, ka thuthlung hi ama le a thlahai kumkhaw thiempu nina thuthlung nîng a tih', ti rawh" tiin.
+{25:14} Israel mi, Midian nuhmei le an that hming chu Simeon sûngkuoa mi Salu naupa Zimri a nih.
+{25:15} Midian nuhmei an that hming chu Zura naunu Kozbi a na, Zura chu Midian pahnam pakhat laia lal a nih.
+{25:16} LALPA chun Mosie kuomah,
+{25:17} "Midianhai chu hmèlma angin en la, sukbohmang rawh.
+{25:18} Peor-a khan dawhaa thawin an hlèm cheu a, an farnu, Midian mi lien naunu Kozbi, hripui a hung tlunga thata um khom kha, Peor-a thil tlung nghong suok a nih" a ta.
+{26:1} Hripui inkieng hnung chun LALPAN Mosie le thiempu Aron naupa Eleazar hai chu a biek a,
+{26:2} "Israel thlahai po po, râl do thei chin kum sawmhni le a chung tieng po chu a pahnam hnamin tiem vong ro" a ta.
+{26:3} Chuongchun, Mosie le Eleazar chun Jeriko zawn, Jordan kam, Moab phaiah anni rawi chu an inbiekpui a,
+{26:4} "LALPAN thu Mosie a pêk angin, mipuihai chu kum sawmhni le a chung tieng po tiem vong ro" an ta.
+{26:5} Israel nau lutîr Reuben naupahai chu: Hanok sûngkuo thlâtu chu Hanok; Palu sûngkuo thlâtu chu Palu;
+{26:6} Hezron sûngkuo thlâtu chu Hezron le Karmi sûngkuo thlâtu chu Karmi a nih.
+{26:7} Hienghai hi Reuben pahnama mi po an na, tiem po chu sîngli le sângthum le zasari le sawmthum an nih.
+{26:8} Palu chun Eliab a thla a,
+{26:9} Eliab naupahai chu Nemuel, Dathan le Abiram an nih. Dathan le Abiram hai hi khawtlâng thuoitu, Kora hnung zuia Mosie le Aron beitu le LALPA laka helhai kha an nih.
+{26:10} Hnuoiin a bau a ka a, anni chu Kora leh a dol hmang a, Kora hnungzuitu zahni sawmnga khom meia lem hmangin an um kha. Anni chu inchikna ding an lo ni tah.
+{26:11} Kora nauhai ruok chu an thi ram ve nawh.
+{26:12} Simeon thla pahnamhai chu: Nemuel sûngkuo thlâtu chu Nemuel; Jamin sûngkuo thlâtu chu Jamin; Jakin sûngkuo thlâtu chu Jakin;
+{26:13} Zera sûngkuo thlâtu chu Zera le Saul sûngkuo thlâtu chu Saul a nih.
+{26:14} Simeon pahnama mi po zât chu an rêngin sînghni le sânghni le zahnih an nih.
+{26:15} Gad thla pahnamhai chu: Zefon sûngkuo thlâtu chu Zefon; Hagi sûngkuo thlâtu chu Hagi; Suni sûngkuo thlâtu chu Suni;
+{26:16} Ozni sûngkuo thlâtu chu Ozni; Eri sûngkuo thlâtu chu Eri;
+{26:17} Arodi sûngkuo thlâtu chu Arodi; le Areli sûngkuo thlâtu chu Areli a nih.
+{26:18} Hienghai hi Gad thlàhài chu an na, an rêngin sîngli le zanga an nih.
+{26:19} Juda naupahai chu Er le Onan an na, Kanan-ah an thi a.
+{26:20} Juda thlaa mi pahnamhai chu: Sela sûngkuo thlâtu chu Sela; Perez sûngkuo thlâtu chu Perez; Zera sûngkuo thlâtu chu Zera a nih.
+{26:21} Perez thlàhài chu: Hezron sûngkuo thlâtu chu Hezron le Hamul sûngkuo thlâtu chu Hazmul a nih.
+{26:22} Hienghai hi Juda thlàhài an na, an rêngin sîngsari le sângruk le zanga an nih.
+{26:23} Isakar thla pahnamhai chu: Tola sûngkuo thlâtu chu Tola; Pua sûngkuo thlâtu chu Pua;
+{26:24} Jasub sûngkuo thlâtu chu Jasub; le Simron sûngkuo thlâtu chu Simron a nih.
+{26:25} Hienghai hi Isakar thlahai chu an na, an rêngin sîngruk le sângli le zathum an nih.
+{26:26} Zebulun thla pahnamhai chu: Sered sûngkuo thlâtu chu Sered; Elon sûngkuo thlâtu chu Elon; le Jahleel sûngkuo thlâtu chu Jahleel a nih.
+{26:27} Hienghai hi Zebulun thlàhài chu an na, an rêngin sîngruk le zanga an nih.
+{26:28} Josefa thlahai chu an pahnam ang dungzuiin Manase le Efraim an nih.
+{26:29} Manase thlahai chu: Makir sûngkuo thlâtu chu Makir, Makir naupa Gilead sûngkuo thlâtu chu Gilead a nih.
+{26:30} Gilead thlàhài chu: Iezer sûngkuo thlâtu chu Iezer; Helek sûngkuo thlâtu chu Helek;
+{26:31} Asriel sûngkuo thlâtu chu Asriel; Sekem sûngkuo thlâtu chu Sekem;
+{26:32} Semida sûngkuo thlâtu chu Semida; Hefer sûngkuo thlâtu chu Hefer a nih.
+{26:33} Hefer naupa Zelofehad chun nau pasal nei loin nau nuhmei chauh a nei a, chuonghai chu Mahla, Noa, Hogla, Milka le Tirza an nih.
+{26:34} Hienghai hi Manase thlàhài chu an na, an rêngin sîngnga le sânghni le zasari an nih.
+{26:35} Efraim thla pahnamhai chu: Suthela sûngkuo thlâtu chu Suthela; Beker sûngkuo thlâtu chu Beker; le Tahan sûngkuo thlâtu chu Tahan a nih.
+{26:36} Suthela thlâhai chu: Eran sûngkuo thlâtu Eran.
+{26:37} Hienghai hi Efraim thlàhài chu an na, an rêngin sîngthum le sânghni le zanga an nih.Chuonghai po po chu Josefa thlà, pahnam hrang hrang hai chu an nih.
+{26:38} Benjamin thla pahnamhai chu: Bela sûngkuo thlâtu chu Bela; Asbel sûngkuo thlâtu chu Asbel; Ahiram sûngkuo thlâtu chu Ahiram;
+{26:39} Supham sûngkuo thlâtu chu Supham; le Hupham sûngkuo thlâtu chu Hupham a nih.
+{26:40} Bela thlâa mi Arda chun Arda sûngkuo a thlâ a, Naaman chun Naaman sûngkuo a thlâ.
+{26:41} Hienghai hi Benjamin thlàhài chu an na, an rêngin sîngli le sângnga le zaruk an nih.
+{26:42} Dan thla pahnam chu: Suham sûngkuo thlâtu chu Suham a nih.
+{26:43} Dàn thla, Suham pahnama mi chu an rêngin sîngruk le sângli le zali an nih.
+{26:44} Aser thla pahnamhai chu: Imna sûngkuo thlâtu Imna; Isvi sûngkuo thlâtu Isvi; le Beria sûngkuo thlâtu Beria a nih.
+{26:45} Beria thlaa inthokin, Heber sûngkuo thlâtu Heber le Malkiel sûngkuo thlâtu Malkiel an hung suok a.
+{26:46} Aser chun nau nuhmei pakhat a hming Sera a nei.
+{26:47} Hienghai hi Aser thlàhài chu an na, an rêngin sîngnga le sângthum le zali an nih.
+{26:48} Naftali thlahai chu, an sûngkuo angin, Jazel sûngkuo thlâtu chu Jazel; Guni sûngkuo thlâtu chu Guni;
+{26:49} Jezer sûngkuo thlâtu chu Jezer; Silem sûngkuo thlâtu chu Silem a nih.
+{26:50} Hienghai hi Naftali thlàhài chu an na, an rêngin sîngli le sângnga le zali an nih.
+{26:51} Israel thla pasal an tiemhai po po zât chu nuoi ruk le sângkhat le zasari le sawmthum an nih.
+{26:52} Chun, LALPAN Mosie a biek a,
+{26:53} Hienghai hi an tam dàn zirin ram sempèk rawh.
+{26:54} A tam deuh ram pe lien deuh la, a tlawm deu pe tlawm la, intiemna ang dungzuiin ram chu sem rawh.
+{26:55} Amiruokchu, thumvawrin, an pipu pahnam hming ang peiin ram chu chang an tih.
+{26:56} Ram chu a chin a lien thumvawr dàn ang peia sem ding a nih.
+{26:57} Hienghai hi an pahnam ang peia an tiem Levi thlàhài chu an nih: Gerson sûngkuo thlâtu chu Gerson; Kohat sûngkuo thlâtu chu Kohat; Merari sûngkuo thlâtu chu Merari a nih.
+{26:58} Hienghai khom hi Levi pahnamhai an nih: Libni, Hebron, Mali, Musi le Kora hai. (Kohat chu Amram pu a nih.
+{26:59} Amram nuhmei chu Jokebed, Levi thlaa mi, Aiguptaa Levi sûngkuoa inthoka pieng a nih. Amram chun naupa Aron le Mosie le naunu Miriam a nei a.
+{26:60} Aron chu Nadab, Abihu, Eleazar le Ithamar hai pa a nih.
+{26:61} Nadab le Abihu ruok chu LALPA hmaa mei hmang lo ding chi an inhlân lai khan an thi.)
+{26:62} Levi thla, pasal thla khata upa chin le a chung tieng an tiem po chu sînghni le sângthum an nih. Anni hi ram sem chang ve ding laia mi an ni naw leiin Israelhai an tiem ruolin an tiem ve naw a nih.
+{26:63} Hienghai hi Jeriko zawn, Jordan kam, Moab phaia Mosie le thiempu Eleazarin Israel thla an tiemhai chu a nih.
+{26:64} Mosie le Aronin Sinai thlalèra Israel thla an tiemhai laia mi kha pakhat khom an um ta nawh.
+{26:65} LALPAN, "Thlalèrah an thi ngei ngei ding a nih" a lo ti ta si a. Jefune naupa Kaleb le Nuna naupa Josua ti naw chu tu khom a dam an um ta nawh.
+{27:1} Josefa naupa Manase thla Makira naupa Gilead, chu naupa Hefer, Hefer naupa Zelofehad nau nuhmeihai chu Mahla, Noa, Hogla, Milka le Tirza an nih.
+{27:2} Intuokna Puon in kot tieng hungin Mosie le thiempu Eleazar le pungkhawmhai hmaa chun an ngîr a,
+{27:3} "Kan pa hi thlalèrah a thi a. LALPA khinga inthuruol, Kora hnung zuitu pawl lai khan a thang ve naw a, ama thil suol thaw leia nau pasal nei loa thi a nih.
+{27:4} Nau pasal a nei naw lei elin kan pa hming chu ieng leiin am a thlàhài lai a bo el ding a na? Kan pa unauhai lai chanvo mi pe ve rawh" an ta.
+{27:5} An thu chu Mosien LALPA hmaah a'n tlun a.
+{27:6} LALPA chun Mosie a biek a,
+{27:7} "Zelofehad naunuhai hril hi a'n dik a nih. An pa unauhai lai chanvo i siem ngei ding a nih. An pa chanvo chu i pêk ding a nih.
+{27:8} Chun, Israel thlàhài kuomah, 'Nau pasal nei loa mi a thi chun a ro chu a naunuhai in pêk ding a nih.
+{27:9} Naunu a nei naw chun a ro chu a unauhai in pêk ding a nih.
+{27:10} Unau a nei naw chun a ro chu a pa unauhai in pêk ding a nih.
+{27:11} Chun a pain unau a nei naw chun a ro chu a laibung hnai tak pèng in ta, ama chun ro chu inkhawm a tih. LALPAN thu Mosie a pêk angin, hi thu hi Israelhai ta dingin dàn thupêk nghet nîng a tih' tiin hril rawh" a ta.
+{27:12} Chun, LALPAN Mosie kuomah, "Abarim tlânga khin hang fe la, Israel thlahai ka pêk ding ram hang thlîr rawh.
+{27:13} I hang thlîr zo pha leh, i unaupa Aron ang bokin i chipuihai lai lawr khawm ni ve tâng i tih,
+{27:14} Zin thlalèra pungkhawmhai an chier lai khan ka thienghlimna phua mi chawimawi dinga thu ka pêk cheu chu in pahnia in bawsiet leiin" a ta. (Chu chu Zin thlalèr Kades-a Meriba tuia thil tlung kha a nih).
+{27:15} Chun, Mosie chun LALPA kuomah,
+{27:16} "Mi po po hringna hnàr LALPA Pathien chun Israel pungkhawmhai thuoitu ding mi ruot raw se.
+{27:17} Ama chun an hma thuoiin an hnung dâl hlak sienla, LALPA mipuihai chu vêngtu nei lo beram ang an ni nawna dingin" a ta.
+{27:18} Chuongchun, LALPA chun Mosie kuomah, "Nuna naupa, thlarau nei mi chu thuoi la, a chungah kut innghat rawh.
+{27:19} Thiempu Eleazar le pungkhawmhai hmaah inngirtir la, an mithmua ngei thuoituah la lût rawh.
+{27:20} Israel pungkhawm po poin a thu an awi theina dingin i thuneina sem bok rawh.
+{27:21} Urim le Thummimm hmanga Pathien rawn chu thiempu Eleazar thaw ding a na, a thu ngâichângin Josua chun Israel pungkhawmhai fe son hun ding le riebûk khuorna ding hmun hril hlak a tih" a ta.
+{27:22} Mosie chun LALPA hril angin a thaw a, Josua chu a thuoi a, thiempu Eleazar le pungkhawm po po hmaa chun a'n ngirtir a.
+{27:23} Mosie hmanga LALPA hril angin, a chungah a kut a'n nghat a, a aiawtu dingin a ruota.
+{28:1} Chun, LALPAN Mosie a biek a,
+{28:2} "Israel thlahai kuomah thu pe la, a hun ruot takah ka kuoma thilhlân, meia thilhlân le bu le bâl thilhlân, ka ta dinga riminhnik chu an inhlàn hlak ding a nih.
+{28:3} Hieng hin hril rawh: Hi hi LALPA kuoma meia pumraw thilhlân in inhlàn ding chu a nih: ni tinin beramchal tuoi, kum khata upa le hmèl hem lo pahni a ni ding a nih.
+{28:4} Zîng tieng pakhat inhlàn unla, zân tieng pakhat inhlàn ro.
+{28:5} Bu le bâl thilhlân, beiphit indip tak kilogram khat, hriek a sawra sawr litar khat le hmet pol le chun in inhlàn hmun khat ding a nih.
+{28:6} Hi hi LALPA ta dinga meia thilhlân, a ta dinga rim inhnik, Sinai tlânga inthoka an lo thaw tan tah chu a nih.
+{28:7} Dawn ding thilhlân chu beram pakhat peiah litar khat a ni ding a nih. Uoiin tak chin chu hmun thienghlimah LALPA hmaah in bun suok ding a nih.
+{28:8} Zân tienga beram in inhlân chu zîng tienga in thaw ang bokin, dawn thilhlân leh inhlàn ro. Hi hi meia thilhlân, LALPA ta dinga rim inhnik chu a nih.
+{28:9} " 'Sabat pha beram tuoi pahnih, kum khata upa le hmèl hem lo inhlàn un la, bu le bâl thilhlâna dingin beiphit indip tak, oliv hriek le hmet pol kilogram hni le dawn thilhlân chu inhlàn sa bok ro.
+{28:10} Ni tina pumraw thilhlân le dawn thilhlân bâkah hi hi Sabat zâta pumraw thilhlân in inhlàn ding chu a nih.
+{28:11} " 'Thla thar ni hmasa takah LALPA kuoma pumraw thilhlânah bawngchal tuoi pahnih, beramchal pakhat le beramchal tuoi pasarih, kum khata upa le hmèl hem lo inhlàn ro.
+{28:12} Bawngchal pakhat peiah bu le bâl thilhlâna dingin beiphit kilogram thum,
+{28:13} beram pakhat peiah kilogram hni le beramchal tuoi pakhat peiah kilogram khat inhlàn ro. Hi hi pumraw thilhlân, LALPA ta dinga meia thilhlân, rim inhnik chu a nih.
+{28:14} Bawngchal pakhat peiah dawn thilhlân uoiin litar hni, beramchal pakhat peiah uoiin litar khat le a chenve le beramchal tuoi pakhat peiah uoiin litar khat a ni ding a nih. Hi hi thla thar ni khat zâta pumraw thilhlân in inhlàn dàn ding chu a nih.
+{28:15} Pumraw thilhlân le dawn thilhlân pàngngai bâkah, LALPA kuoma suol thawina thilhlânah kèlchal pakhat in inhlàn bok ding a nih.
+{28:16} Thla hmasa tak ni sawm le ni liah LALPA Fekân Kùt in hmang ding a nih.
+{28:17} Chu thla ni sawm le ni nga ni chu ruoi the ni nîng a ta, ni sari sûng chu chol thang lo bei chauh fa ro.
+{28:18} A ni khat ni chun inkhawmpui thienghlim nei unla, ieng sin khom in thaw ding a ni nawh.
+{28:19} LALPA kuoma pumraw thilhlân, meia thilhlânah bawngchal tuoi pahnih, beramchal pakhat le beramchal tuoi pasarih, kum khata upa le hmèl hem lo chu inhlàn ro.
+{28:20} Bawngchal pakhat peiah bu le bal thilhlâna dingin beiphit, oliv hriek le hmet pol, kilogram thum, beramchal pakhat peiah beiphit kilogram hni,
+{28:21} beramchal tuoi pakhat peiah kilogram khat inhlàn ro.
+{28:22} Mipuihai ta dinga inremna siempêkna dingin, suol thawina thilhlânah kèlchal pakhat inhlàn bok ro.
+{28:23} Hi hi zîng tienga pumraw thilhlân pàngngai in inhlàn bakah buotsai ro.
+{28:24} Hieng ang hin LALPA ta dinga rim inhnik, bu le bâl thilhlân chu ni tin, ni sa ri sûng in inhlàn ding a nih; chu chu pumraw thilhlân le dawn thilhlân in thaw pàngngai bâka in buotsai ding chu a nih.
+{28:25} A ni sarinaa chun inkhawmpui thienghlim nei unla, sin ieng khom in thaw ding a ni nawh.
+{28:26} Chun, in tharsuok hmasa tak in inhlàn hun, Hapta Kùta in bu thar suokhai in inhlàn ni chun inkhawmpui thienghlim nei unla, ieng sin khom thaw naw ro.
+{28:27} Pumraw thilhlâna dingin bawngchal tuoi pahnih, beramchal pakhat le beramchal tuoi pasarih, kum khata upa le hmèl hem lo chu LALPA ta dinga rim inhnikah inhlàn ro.
+{28:28} Bawngchal pakhat peiah bu le bâl thilhlâna dingin beiphit, oliv hriek le hmet pol kilogram thum, beram pakhat peiah beiphit kilogram hni,
+{28:29} beramchal tuoi pakhat peiah beiphit kilogram khat, inhlàn ro.
+{28:30} In ta dinga inremna siemna dingin kèlchal pakhat suol thawina dingin inhlàn sà ro.
+{28:31} Hienghai hi pumraw thilhlân le bu le bâl thilhlân pàngngai hrim bâkah dawn thilhlân leh inhlàn dingin buotsai ro. In ran inhlànhai chu hmèl hem lo a ni ngei ding a nih.
+{29:1} " 'Thla sarina, ni khat ni chun sin thaw loa umni khâmin inkhawmpui thienghlim nei in ta, chu ni chu in ta dinga tawtawrawt mùt ni a nih.
+{29:2} LALPA ta dingin pumraw thilhlân, rim inhnik buotsai unla, bawngchal tuoi pakhat, beramchal pakhat le beramchal tuoi pasarih, kum khata upa le hmèl hem lo chu inhlàn ro.
+{29:3} Bawngchal pakhat peiah bu le bâl thilhlâna dingin beiphit, oliv hriek le hmet pol kilogram thum, beramchala dingin beiphit kilogram hni pei,
+{29:4} beramchal tuoi pakhat peia dingin beiphit kilogram khat pei inhlàn ro.
+{29:5} In ta dinga inremna siemna dingin kèlchal pakhat inhlàn sà bok ro.
+{29:6} Hieng thilhlânhai hi thla tin le ni tina pumraw thilhlân dâm, bu le bâl thilhlân dâm le dawn thilhlân, thaw dàn ding tuk ta sa hai bàka thilhlân chu a nih. Meia LALPA ta dinga thilhlân, rim inhnik chu a nih.
+{29:7} " 'Thla sarina ni sawma chun inkhawmpui thienghlim nei ro. Ieng khom fain dawn naw unla, sin thaw bok naw ro.
+{29:8} LALPA ta dinga rim inhnik, pumraw thilhlânah bawngchal tuoi pakhat, beramchal pakhat le beramchal tuoi kum khat mi pasari, an rênga hmèl hem lo chu, inhlàn ro.
+{29:9} Bu le bâl thilhlâna dingin beiphit indip tak, oliv hriek le hmet pol chu bawngchal pakhatah kilogram thum, beramchal pakhatah kilogram hni,
+{29:10} beramchal tuoi pakhat peiah kilogram khat inhlàn ro.
+{29:11} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:12} " 'Thla sarina ni sawm le ni ngana chun inkhawmpui thienghlim nei unla, sin ieng khom thaw naw ro. LALPA ta dingin ni sari sûng kùt in hmang ding a nih.
+{29:13} LALPA ta dinga rim inhnik, pumraw thilhlânah bawngchal tuoi sawmpathum, beramchal pahni le beramchal tuoi kum khat mi sawm le pali, an rênga hmêl hem lo chu inhlàn ro.
+{29:14} Bawngchal tuoi pakhat peia dingin bu le bâl thilhlâna ding, oliv hriek le hmet pol, beiphit indip tak kilogram thum, beramchal pakhat peiah kilogram hni le
+{29:15} beramchal tuoi pakhat peiah kilogram khat buotsai ro.
+{29:16} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:17} " 'A ni hninaa dingin bawngchal tuoi sawmpahni, beramchal pahni le beramchal tuoi, kum khata upa sawmpali, an rênga hmêl hem lo vong chu inhlàn ro.
+{29:18} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:19} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:20} " 'A ni thumna dingin bawngchal tuoi sawmpakhat, beramchal pahni le beramchal tuoi, kum khata upa sawm le pali, an rènga hmêl hem lo vong chu inhlàn ro.
+{29:21} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:22} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:23} " 'A ni linaa dingin bawngchal tuoi sawm, beramchal pahni le beramchal tuoi, kum khata upa sawm le pali, an rênga hmêl hem lo vong chu inhlàn ro.
+{29:24} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:25} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:26} " 'A ni nganaa dingin bawngchal tuoi pakuo, beramchal pahni le beramchal tuoi, kum khata upa sawm le pali, an rênga hmêl hem lo vong chu inhlàn ro.
+{29:27} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:28} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:29} " 'A ni ruknaa dingin bawngchal tuoi pariet, beramchal pahni le beramchal tuoi, kum khata upa sawm le pali, an rênga hmêl hem lo vong chu inhlàn ro.
+{29:30} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:31} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sa bok ro.
+{29:32} " 'A ni sarinaa dingin bawngchal tuoi pasari, beramchal pahni le beramchal tuoi, kum khata upa sawm le pali, an rênga hmêl hem lo vong chu inhlàn ro.
+{29:33} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:34} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sà bok ro.
+{29:35} " 'A ni rietnaa chun umni khamin inkhawmpui thienghlim nei unla, sin ieng khom thaw naw ro.
+{29:36} LALPA ta dinga meia thilhlân le rim inhnik, pumraw thilhlâna dingin bawngchal pakhat, beramchal pakhat le beramchal tuoi pasarih, kum khata upa le an rênga hmêl hem lo vong chu inhlàn ro.
+{29:37} Bawngchal le beramchal le beramchal tuoi pakhat peia bu le bâl thilhlân le dawn thilhlâna inhlàn ding bituk zât ang pei chu buotsai ro.
+{29:38} Inremna dinga suol thawina thilhlân, pumraw thilhlân, bu le bâl thilhlân le dawn thilhlân pangngai hrim bâkah suol thawina dingin kèlchal pakhat inhlàn sà bok ro.
+{29:39} Hienghai hi mania thu in intiemkamna hlenna dinga thil in inhlàn le mani puok suoka thilpêk inhlânhai bâka a hunbi neia kût in hmang phaa pumraw thilhlân, bu le bâl thilhlân, dawn thilhlân le inremna inthawina thilhlân in buotsai dàn ding chu a nih' ti rawh" tiin.
+{29:40} LALPAN a kuoma thu a pêk po po chu Mosie chun Israelhai a hril a.
+{30:1} Mosie chun Israel pahnam tin thuoituhai kuomah, "Hi hi LALPA thupêk chu a nih:
+{30:2} Miin LALPA kuomah thu intiemkamna a nei chun a thu sût loin a tiem ta po po chu a hlen ngèi ding a nih.
+{30:3} "A pa ina la khawsa nunghâkin LALPA kuomah thu intiemkamna a nei a,
+{30:4} a pain a'n tiemkamna chu a hriet a, ieng khom a hril si naw chun, a thu intiemkamna chu a hlen ngèi ding a nih.
+{30:5} A pain a hriet hnunga a phal naw a ni ruok chun a thu intiemkamnaa inthok chun fihlim a ta, a pain a phal naw leiin LALPAN ngaidam a tih.
+{30:6} "Thu intiemkamna a nei zing lai ngaituo chîk loa pasal a nei a,
+{30:7} a pasalin a hriet nia ieng khom a hril naw chun, a thu intiemkamna chu a hlen ngèi ding a nih.
+{30:8} Amiruokchu, a pasalin a hriet nia a phal naw a ni chun dawn sei loa thu a lo intiemkamnaa inthok chun fihlim a ta, LALPAN ngaidam a tih.
+{30:9} Hmeithai amanih, màk tuok amanih hai chun an thu intiemkamna chu an hlen ngèi ding a nih.
+{30:10} A pasal le in khata um nuhmeiin thu tiem amanih intiemkamna amanih a nei a,
+{30:11} a pasalin a hriet hnunga ieng khom a hril si naw chun, a thu intiemkamna chu a hlen ngèi ding a nih.
+{30:12} Amiruokchu, a pasalin a hriet nia a thiek chun a thu intiemkamna chu sùt ni tâng a tih, a pasalin a sûtpêk leiin LALPAN ngaidam a tih.
+{30:13} A thu intiemkamna hrim hrim chu a pasalin a remtipui thei a, a sûtpêk thei bok.
+{30:14} Amiruokchu, a pasalin a hriet a, ieng khom a hril naw chun a thu intiemkamna ang chun a thaw ngei ding a nih; a hriet nia inthoka a tosan leiin a namnghetpui tìna a nih.
+{30:15} A pasalin a hriet hnunga a sûtpêk a ni ruok chun a pasal chun a maw chu phur a tih," a ta.
+{30:16} Chuonghai chu nuhmei pasal nei lo, pahai ina la um amanih, pasal nei laiin amanih intiemkamna an nei chungthua thaw dàn ding LALPAN Mosie a pêkhai chu an nih.
+{31:1} Chun, LALPAN Mosie kuomah,
+{31:2} "Midianhai chungah Israelhai phuba la rawh; chu zoa chun i chipuihai laia lawr ni tâng i tih" a ta.
+{31:3} Chuongchun, Mosie chun mipuihai kuomah, "Midianhai doa an chunga LALPA phuba chu la dingin nangni laia mi inrâlthuom raw hai se.
+{31:4} Israel pahnam tina inthokin sipai sângkhat seng indonaa chun in fe ding a nih" a ta.
+{31:5} Chuongchun, pahnam tina inthokin mi sângkhat pei fe dingin mi sîng le sânghni an thlang suok a.
+{31:6} Pahnam tina mi sângkhat pei thlang suokhai chu thiempu Eleazar naupa Finehas inrawina hnuoiah indo ding chun Mosien a tir a, hmun thienghlima bûr le bèl le thu pêknaa mùt ding tawtawrawt an chawi bok a.
+{31:7} LALPAN Mosie kuoma thu a pêk angin Midianhai chu an bei a, pasal po po an that vong a.
+{31:8} An thathai lai chun Midian lal panga-Evi hai, Rekem hai, Zura hai, Hura hai le Reba hai khom an thang. Beor naupa Balaam khom kawlhnâmin an sât hlum a.
+{31:9} Midian mi nu le nau an manhai chu salah an thuoi a, an bawng hai, beram hai le thuomhnaw hai chu râllâk sumah an lâk a.
+{31:10} Midianhai khuo po po le an riebûkhai chu an raw fai vong a.
+{31:11} An râllâkhai po po chu, mihriem leh ran leh, an hung hawn vong a.
+{31:12} Jeriko zawn, Jordan vadung kam, Moab phaia an riebûka um Mosie le Eleazar le Israel pungkhawmhai kuomah an râl manhai le râllâk sum po po chu an hung hawn a.
+{31:13} Mosie le thiempu Eleazar le khawtlâng thuoituhai chun kotsuoah an lo tuok a.
+{31:14} Indonaa inthoka hung kîr an hotuhai, za chunga hotuhai le sâng chunga hotuhai chunga chun Mosie lung chu a sen hle a.
+{31:15} "Nuhmei po po damin in hlâ vong a ni maw?
+{31:16} Hienghai hi Balaam thu zawma LALPA laka inthoka Israelhai kei hertu le Peor-a thil tlung leia mipuihai chunga LALPA hremna intlungtirtu kha an nih ti in hriet naw maw?
+{31:17} Tuhin pasalte po le pasal pawl tah nuhmei po po chu that vong unla,
+{31:18} pasal la pawl lo nuhmeihai ruok chu in ta dingin hlà ro.
+{31:19} Tu khom mi that taphot le mithi ruong tawk taphot chu riebûk puo tieng, khawhnawmah ni sari sûng riek ro. A ni thumna le ni sarinaah nangni le in sal manhai chu inthien tawl ro.
+{31:20} In silfènhai le savun amanih kèl hmul amani le thinga siem hrim hrim chu in inthien fai ding a nih" a ta.
+{31:21} Chun, thiempu Eleazar chun indoa thang sipaihai kuomah, "Hi hi LALPAN Mosie kuoma thu a pêk dàn chu a nih:
+{31:22} Rangkachak hai, tangkaruo hai, dâr hai, thîr hai, rangva hai le suon hai dâm,
+{31:23} meia rawa se el thei lo thil taphot chu meiah raw unla, hung thienghlim a tih. Ieng thil khom ni sien, tlêngfaina tuia sukthienghlim ding a nih. Meia raw lo chi po chu tuiah in phum ding a nih.
+{31:24} Chun, a ni sari niin in puonhai sawp in ta, hung inthieng in ta, chu zoah riebûkah hung lût thei tâng in tih" a ta.
+{31:25} LALPAN Mosie a biek a,
+{31:26} "Nang le thiempu Eleazar le Israel pahnam luhaiin râllâk sum le mihriem le ran an hawn po po chu tiem vong ro.
+{31:27} Râllâk sumhai chu indonaa thang sipaihai le khawtlang mipuihai lai sem ro.
+{31:28} Indonaa fe sipaihai chana inthok chun mihriem hai, bawng hai, sabengtung hai, beram hai, kèlhai chu zanga peia pakhat LALPA kuoma pêk dingin sie hran rawh.
+{31:29} LALPA ta dinga ser hran po chu thèn thilhlânah thiempu Eleazar kuomah pe rawh.
+{31:30} Chun, a zâtve dang, Israel pungkhawmhai chana inthok chun mihriem hai, bawng hai, sabengtung hai, beram hai, kèl hai le ran dang ieng khom sawmnga peiah pakhat sie hran la, chu chu LALPA biekbûk enkoltu Levihai kuomah pe rawh" a ta.
+{31:31} LALPAN thu Mosie a pêk ang chun Mosie le Eleazar chun an thaw a.
+{31:32} Sipaihaiin anni puola an thil lâk tiem sa lo an hung hawn po chu beram nuoi ruk le sîngsari le sângnga,
+{31:33} bawng sîngsari le sânghni,
+{31:34} sabengtung sîngruk le sângkhat,
+{31:35} le nuhmei naupang, pasal la pawl ngai lo sîngthum le sânghni an nih.
+{31:36} A zâtve, indonaa fehai chan chu beram nuoithum le sîngthum le sângsari le zanga a nih.
+{31:37} LALPA ta dinga pêk zât chu zaruk le sawmsari le panga nih.
+{31:38} Bawng chu sîngthum le sângruk a na, chu taka inthoka LALPA kuoma pêk zât chu sawmsari le pahnih a nih.
+{31:39} Sabengtung sîngthum le zangaa inthoka LALPA kuoma pêk zât chu sawmruk pakhat a nih.
+{31:40} Nuhmei naupang sîngkhat le sângruka inthoka LALPA kuoma pêk zât chu sawmthum le pahnih a nih.
+{31:41} LALPAN Mosie kuoma thu a pêk angin, LALPA ta dinga ser hran po chu Mosien thiempu Eleazar kuomah a pêk a.
+{31:42} Râl doa fehai chan an sem hnunga Israel mipui chan la um zât chu,
+{31:43} beram nuoi thum le sîngthum le sângsari le zanga,
+{31:44} bawng sîngthum le sângruk,
+{31:45} sabengtung sîngthum le zanga,
+{31:46} mihriem sîngkhat le sângruk a nih.
+{31:47} Israelhai chana inthok chun mihriem le ran sawmngaah pakhat pei a lâk a, LALPA thupêk angin, LALPA biekbûk enkoltu Levihai a pêk a.
+{31:48} Chun, sipai hotuhai, za chunga hotu le sâng chunga hotuhai chu Mosie kuomah an fe a,
+{31:49} a kuomah, "I siehlawhaiin i hnuoia sipaihai kan tiem a, pakhat khom inhmang an um nawh.
+{31:50} Chuleiin, LALPAN kan nun a mi vêng himpêk manah chan kan dong senga inthokin rangkachak incheina thil kebun hai, bânbun hai, suoi namna kutsebi hai, nabe hai le thi hai chu LALPA kuoma keini ta dinga inremna thilhlân dingin kan hung chawi a nih" an ta.
+{31:51} Mosie le thiempu Eleazar chun rangkachaka siem incheina thuom po po chu an lo dong a.
+{31:52} Sâng chunga hotu le za chunga hotuhaiin LALPA kuoma thèn thilhlâna rangkachak an inhlàn po chu kilogram zahni vêl bùk a nih.
+{31:53} Sipai naranhai ruok chun mani puola an lâk seng chu an nei a.
+{31:54} Mosie le thiempu Eleazar chun sâng chunga hotu le za chunga hotuhai rangkachak hung chawi an lo donghai chu LALPAN a mi Israel thlahai a hriet zingna dingin Intuokna Puon ina chun an sie a.
+{32:1} Reuben le Gad-a thlahai chun ran ruol an hau leiin Jazer le Gilead ram vel chu ran vaina dingin tha an ti hle a.
+{32:2} Chuongchun, Mosie le thiempu Eleazar le khawtlâng hotuhai kuoma chun an hung a,
+{32:3} "Israel mipuihai hmaa LALPA mi hnepêk ram Atarot hai, Dibon hai, Jazer hai, Nimra hai, Hesbon hai, Eleale hai, Sebam hai,
+{32:4} Nebo hai le Beon hai hi ran vaina hmun dinga tha tak a na, i siehlawhai hin ran ruol kan hau bok si a,
+{32:5} rem i ti zawng a ni chun Jordan vadung kân ve loin hi ram hi kan hluo dingin rochanah mi pe el rawh" an ta.
+{32:6} Mosie chun Gad-a thlahai le Reuben thlahai kuoma chun, "Hi hmuna hin nangni thungin, in unauhaiin râl an tawn bîk ding maw?
+{32:7} Ieng dinga LALPAN ram a pêka Israelhai lût lo dinga an lungril in sukzâm tum am a na?
+{32:8} Kadesh Barnea inthoka ram thlithlai dinga mi ka tir tum khan hieng ang bok hin in puhai khan an thaw a.
+{32:9} Eskol phairuom an hang tlung a. a ram an thlîr phing leh LALPAN ram a pêka an lût nawna dingin Israelhai lungril an sukzâm a.
+{32:10} Chu ni chun LALPA lungsen a tuong a,
+{32:11} 'Lungril taka an mi zui naw leiin, Aigupta rama inthoka ka thuoi suok, mi kum sawmhni chung tieng chun tu khomin Abraham hai, Isak hai le Jakob hai kuoma pêk ka tiem ram chu hmu naw ni hai,
+{32:12} lungril taka mi zuitu Keniz mi Jefune naupa Kaleb le Nun-a naupa Josua ti chauh naw chun' tiin an khâm hiel a.
+{32:13} LALPA lungsen chu Israel chungah an ling leiin, a mit hmua suol thawtu suon po po chu an bohmang vong hma khat chu thlalèrah kum sawmli top a'n vàk kuoltir el a nih.
+{32:14} "En ta u, nangni mi suol thlahai, tuhin in pahai ang charin in hung um nawk a, Israel chunga LALPA lungsenna sukzuoltu in nih.
+{32:15} LALPA in zui nuom ta naw tak tak a ni chun hieng mipuihai hi thlalèrah màksan nawk a ta, an sietna intluntu in ni ding a nih" a ta.
+{32:16} Anni chun an hung pan hnai a, "Kan ranhai ta dingin ran huong le kan nuhmei le nauhai ta dingin khuo siempêk phot kan nuom a.
+{32:17} Keini ruok chu Israelhaiin an umna hmun ding an tlung chen râlthuom leh an hma nora tawn dingin kan inpei a nih. Chuong a ni zing lai chun kan nuhmei le nauhai chu a ram mihai laka an him theina dingin kula inhuon khuoah umhai sien kan ti a nih.
+{32:18} Israel thlahaiin an ram rochung ding an hluo vong hmakhat chun kan in tieng kìrsan nawng kan tih.
+{32:19} Kan rochung ding ram chu Jordan suo tieng ram a ni leiin, Jordan thlang tienga kan chanvo ram chu rochung ve nawng kan tih" an ta.
+{32:20} Mosie chun an kuomah, "Chuonga in ti a ni phot chun, LALPA hmaa ngei hin râl tawn dingin inrâlthuom ro.
+{32:21} In râldo mihai po poin Jordan râl hi kâi an ta, LALPA thuoina hnuoiah hmèlmahai bei a, tukdol a, an ram LALPAN a lâkpêk chenin râl in do ding a nih.
+{32:22} Chu zoa chun LALPA chunga le in hnampui Israelhai chunga in thaw ding chu in hlen tah leiin hung kîr nawk thei in tih. Chu pha chun Jordan sak tieng ram hi in ram chanpuolah LALPAN pompêk a ti cheu.
+{32:23} Amiruokchu, in thu tiem in hlen naw ruok chun, LALPA chunga suol nîng in ta, in suol leiin hrem ngei ngei a ti cheu ti hre tlat ro.
+{32:24} In nu le nauhai umna ding kula inhuon khuohai indin unla, in ran ruolhai umna dingin ran huong bawl bok unla, amiruokchu in thu tiem chu hlen ngei ngei ro" a ta.
+{32:25} Gad-a mihai le Reuben mihai chun Mosie kuomah, "I siehlaw kan ni a, kan pu thupêk ang chun thawng kan tih.
+{32:26} Kan nuhmeihai le nauhai, kan bawng ruol le kan beram ruol hai ruok chu Gilead ram khuoa hai hin lo um an ta,
+{32:27} i siehlawhai ruok hi chu, indo dinga inrâlthuom po po chun, kan pu hril ang khan, LALPA hmaah Jordan râl va kâi kan tih" tiin an hril a.
+{32:28} Chuongchun, Mosie chun an chungthuah thiempu Eleazar le Nuna naupa Josua le Israel pahnam luhai chu thu a pêk a:
+{32:29} "Gad-a thlahai le Reuben thlahai, indo dinga inrâlthuom po po hin LALPA hmaah Jordan vadung hi an kâipui cheu a, ram chu an hnepui cheu chun Gilead ram hi an rochan dingin in pêk ding a nih.
+{32:30} Amiruokchu, inrâlthuomhai hin an kâipui si naw cheu chun, Kanan rama an chanvo ding hmuna chun an um ding a nih" a ta.
+{32:31} Gad-a thlahai le Reuben thlahai chun, "I siehlawhai hin LALPAN a hril ang chun thawng kan tih.
+{32:32} Inrâlthuomin, LALPA hmaah Jordan vadung râl kâiin, Kanan ram lût kan ta, sienkhom kan ram hluo ding chu Jordan vadung sak tieng hi la ni zing a tih" an ta.
+{32:33} Chuongchun, Mosie chun Gad-a thlahai le Reuben thlahai le Josefa naupa Manase thla hnam zatvehai chu Amor lal Sihon ram hai le Basan lal Oga ram hai, chuonghai ram sûnga khuo po po le an se vela ramhai chenin a pêk a.
+{32:34} Gad-a thlahai chun Dibon hai, Atarot hai, Aroer hai,
+{32:35} Atrot Stofan hai, Jazer hai, Jogbea hai,
+{32:36} Bet Nimra hai le Bet Haran khuohai chu an indin tha a, kulin an inhuon vong a, an ran ruolhai siena dingin ran huong an bawl a.
+{32:37} Reuben thlahai chun Hesbon hai, Eleale hai, Kiriathaim hai,
+{32:38} a hming an thlâk Nebo le Baal hai, le Sibma khuohai chu an indin tha a, an khaw siemhai chu hming hrang hrang an inbûk a.
+{32:39} Manase naupa Makir thlahai chu Gilead-ah an fe a, an lâk a, chu taka um Amor mihai chu an hnot suok vong a.
+{32:40} Chuongchun, Mosien Gilead ram chu Manase thla Makirhai chu a pêk a, chu taka chun an um a.
+{32:41} Chun, Manase naupa vèk Jaira chu an thok suok a, a se vela khuohai chu a va lâk a, hming thar Havot Jair a'n bùk a.
+{32:42} Noba khom a'n thok suok a, Kenat le a se vela khuohai chu a lâk a, ama hming chawiin Noba a'n bùk a.
+{33:1} Mosie le Aron inrawia Aigupta rama inthoka a pawl pawla an suok hnunga an fe pei dàn chu hieng ang hin a nih.
+{33:2} LALPA thupêk anga an fena pei Mosie rikawt dàn chu hieng ang hin a nih:
+{33:3} Israelhai chu Ramases-a inthokin thla hmasa tak ni sawm le pangana, Fekân Kùt zo chun Aigupta mihai mit hmua ngei ngampa takin an suok a.
+{33:4} LALPAN an nau lutîr pasal po po a sukhlumpêk chu an vui lai le an pathienhai khom LALPAN a hrem tum kha a nih.
+{33:5} Israelhai chun Ramases suoksanin Sukot-ah an inkul a.
+{33:6} Sukot an suoksan a, thlaler tontir Ethamah an inkul nawk a.
+{33:7} Etham suoksanin, Baal Zefon sak, Pi Hahirot tieng inher kîrin Migdol bulah an inkul a.
+{33:8} Pi Hahirot suoksanin, Tuipui an kan a, thlalèrah an lût a, Etham thlalèrah ni thum an fe hnungin Mara hmunah an inkul a.
+{33:9} Mara suoksanin tuihnàr sawm le pahni le tûm thing sawmsari umna Elim an tlung a, chu taka chun an inkul a.
+{33:10} Elima inthok chun an suok a, Tuipui Sen bulah an inkul a.
+{33:11} Tuipui Sen chu suoksanin Sin thlalèrah an inkul nawk a.
+{33:12} Sin thlalèr an suoksan hnung chun Dofka-ah an inkul a.
+{33:13} Dofka suoksanin Alus-ah an inkul a.
+{33:14} Alus suoksanin mipui dawn ding tui a um nawna hmun Refedim-ah an inkul a.
+{33:15} Refedim suoksanin Sinai thlalèrah an inkul a.
+{33:16} Sinai thlalèr suoksanin Kibrot Hatava-ah an inkul a.
+{33:17} Kibrot Hatava suoksanin Hazerot-ah an inkul a.
+{33:18} Pi Hazerot suoksanin Ritmaah an inkul a.
+{33:19} Ritma suoksanin Rimon Perez-ah an inkul a.
+{33:20} Rimon Perez suoksanin Libna-ah an inkul a.
+{33:21} Libna suoksanin Risa-ah an inkul a.
+{33:22} Risa suoksanin Kehelatha-ah an inkul a.
+{33:23} Kehelatha suoksanin Sefer tlângah an inkul a.
+{33:24} Sefer tlâng suoksanin Harada-ah an inkul a.
+{33:25} Harada suoksanin Makhelot-ah an inkul a.
+{33:26} Makhelot suoksanin Tahat-ah an inkul a.
+{33:27} Tahat suoksanin Tera-ah an inkul a.
+{33:28} Tera suoksanin Mitka-ah an inkul a.
+{33:29} Mitka suoksanin Hasmon-ah an inkul a.
+{33:30} Hasmon suoksanin Moserot-ah an inkul a.
+{33:31} Moserot suoksanin Bene Jakan-ah an inkul a.
+{33:32} Bene Jakan suoksanin Hor Hagidgad-ah an inkul a.
+{33:33} Hor Hagidgad suoksanin Jotbatha-ah an inkul a.
+{33:34} Jotbatha suoksanin Abrona-ah an inkul a.
+{33:35} Abrona suoksanin Ezion-geber ah an inkul a.
+{33:36} Ezion-geber suoksanin Zin thlalèr, Kades an ti boka chun an inkul a.
+{33:37} Kades-a inthok chun Edom ram depa um Hor tlâng an tlung a, chu taka chun umhmun an khuor a.
+{33:38} Thiempu Aron chu LALPA thupêkin Hor tlânga chun a hang fe a, Aigupta rama inthoka Israel thlahai an suoka inthoka kum sawmlina, thla ngana ni khat ni chun chu taka chun a thi a.
+{33:39} Hor tlânga a thi chun Aron chu kum za le sawmhni le pathum a nih.
+{33:40} Kanan ram sim tienga um Arad lal, Kanan mi khomin Israelhai hung chu a lo hriet a.
+{33:41} Hor tlâng chu suoksanin Zalmona-ah an inkul a.
+{33:42} Zalmona chu suoksanin Punon-ah an inkul a.
+{33:43} Punon chu suoksanin Obot-ah an inkul a.
+{33:44} Obot chu suoksanin Moab ramria Iye Abarim-ah an inkul a.
+{33:45} Iye Abarim chu suoksanin Dibon Gad-ah an inkul a.
+{33:46} Dibon Gad suoksanin Almon Diblathaim-ah an inkul a.
+{33:47} Almon Diblathaim suoksanin Nebo kawl Abarim tlângah an inkul a.
+{33:48} Abarim tlâng suoksanin Jeriko zawn Jordan kam Moab phaiah an inkul a.
+{33:49} Jordan kam Bet Jesimota inthoka Abel Sitim chen chun an inzar a.
+{33:50} Jeriko zawn Jordan kam Moab phaia chun LALPAN Mosie a biek a,
+{33:51} "Israelhai inbiekpui la, hi thu hi hril rawh: Jordan vadung kâna Kanan ram in lût pha chun,
+{33:52} chu rama um po po chu hnot suok unla, milem an ker po po le pathien lim an sung po po sukse vong un la, an hmun sànghai khom thiekpêk vong ro.
+{33:53} Ram chu hluo unla, umhmun khuor ro, in hluo dinga ka pêk cheu a nih.
+{33:54} In chi-hnam ang peiin thum vawrin ram chu insem ro. A sûng ruol deuin chang lien hai sien, a sûng tlawm deuin chang tlawm hai sien, thum vawra a tlùkna tieng pei chu an chanpuol nîng a ta, an pi le pua inthoka an chi-hnam ang peiin in sem ding a nih.
+{33:55} " 'A rama lo umhai chu hnot suok loa in inumtir chun, chuong mihai chu in mit kheitu le in nàk suntu hlingah la hung inchang an ta, in umna rama buoina siempêktu cheu la hung nîng an tih.
+{33:56} Chu pha chun anni chunga thaw ka tum rûk chu nangni chungah thawng ka tih' ti rawh" a ta.
+{34:1} LALPA chun Mosie kuomah,
+{34:2} "Israelhai chu thu pe la, hieng hin hril rawh: 'LALPAN rochana a pêk cheu Kanan ram in hluo pha chu hieng ang hi a ramri ding chu nîng a tih:
+{34:3} Sim tieng ramri chu Zin thlalera inthokin Edom ramri zulah fêng a tih. Sak tienga a'n tanna chu Tuipui Thi sim tawpa inthokin nîng a tih.
+{34:4} Chu taka inthok chun sim tieng pan a ta, Ainuvet Kawn tanin, Zin thlalèrah, Kadesh Barnea chen fêng a tih. Chu taka inthok chun hmar thlang tieng inherin, Hazar Addar hrawin, Azmon chen fêng a ta,
+{34:5} chu taka inthok chun inher a ta, Aigupta Ruom zui a ta, Mediterranean Tuipui-ah tawp a tih
+{34:6} " 'Thlang tieng ramri chu Mediterranean Tuipui kam nîng a tih. Chu chu tlâk tienga in ramri ding chu a nih.
+{34:7} " 'Hmar tieng ramri chu Mediterranean Tuipuia inthokin Hor tlâng chen fêng a ta
+{34:8} chu taka inthok chun Hamat Kawna hrawng a ta, Zedad tieng fe pei a ta,
+{34:9} Zifron tieng pan a ta, Hazar Enan-ah tawp a tih. Chu chu hmar tienga in ramri ding chu a nih.
+{34:10} " 'Sak tieng ramri chu Hazar Enan-a inthokin Stefam chen nîng a tih.
+{34:11} Chu taka inthok chun Ain sak tienga um Ribla-ah tum thlang a ta, Galili Dil suo tieng kam pang pêrah fêng a ta,
+{34:12} Jordan vadung zui pei a ta, Tuipui Thi-ah tawp a tih. Chuonghai chu sak le thlang, sim le hmara in ramri ding chu a nih' ti rawh" a ta.
+{34:13} Mosie chun Israelhai chu thu a pêk a, "Ram in rochung ding chu thum vawrin insem ro. Hnam kuo le a chenve kuoma sem dingin LALPAN thu a pêk a nih,
+{34:14} Reuben pahnam, Gad pahnam le Manase pahnam chenve chun an chanvo ding chu an hluo ta si a.
+{34:15} Hieng hnam hni le a chenve hai hin ni suokna tieng Jeriko zawn Jordan râl sak tienga an ram hluo ding chu an chang dêr tah a nih" a ta.
+{34:16} LALPA chun Mosie kuomah,
+{34:17} "Ram hluo ding thèpêktu ding cheu chu thiempu Eleazar le Nun-a naupa Josua nîng an tih.
+{34:18} Pahnam tin luhai chu a sempuitu dingin ruot rawh.
+{34:19} Chuonghai hming chu: Juda hnama inthokin Jefune naupa Kaleb;
+{34:20} Simeon hnama inthokin Amihud naupa Semuel;
+{34:21} Benjamin hnama inthokin Kislon naupa Elidad;
+{34:22} Dan hnama inthokin Jogli naupa Bukki;
+{34:23} Josefa naupa Manase hnama inthokin Efod naupa Haniel;
+{34:24} Josefa naupa Efraim hnama inthokin Shiftan naupa Kemuel;
+{34:25} Zebulun hnama inthokin Parnak naupa Elizafan;
+{34:26} Isakar hnama inthokin Azan naupa Paltiel;
+{34:27} Aser hnama inthokin Selomi naupa Ahihud;
+{34:28} Naftali hnama inthokin Amihud naupa Pedahel" tiin.
+{34:29} Chuonghai chu Kanan rama Israelhai ram hluo ding sem dinga LALPAN thu a pêkhai chu an nih.
+{35:1} Jeriko zawn Jordan kam Moab phaia chun LALPAN Mosie kuomah,
+{35:2} "Israelhai chu thu pe la, an rama chun Levihai umna ding khuo siempêk raw hai se. Khaw kawl vel ram chu ran tlatna dingin pe bok ro.
+{35:3} Chuongchun, umna ding khuo nei vêng an ta, an bawng le beram le ran ruol danghaiin tlatna hmun ding nei bok an tih.
+{35:4} Khaw kawla ran tlatna hmun in pêk ding chu kula inthoka inkhia meter zali le sawmngaa hlaah a ni ding a nih.
+{35:5} Kul puo tienga inthokin inkhi unla, sak tieng meter zakuo, thlang tieng meter zakuo, sim tieng meter zakuo le hmar tieng meter zakuo nîng a ta, a lai takah khuo um a tih. Hi hmun hi a khaw ta dinga ran tlatna hmun ding nîng a tih.
+{35:6} "Levihai in pêk ding laia khuo paruk chu tuol thathai tlân lûtna ding, inhumhimna khuoah in siem ding a nih. Chu bâk chu khaw sawmli le khaw hni in pêk bok ding a nih.
+{35:7} Levihai in pêk ding khuo po po chu khaw sawmli le pariet nîng a ta, a khawhnawm leh in pêk bok ding a nih.
+{35:8} Israelhai ram hluoa mi Levihai umna ding khuo in pêk dàn ding chu, in ram nei ang dungzuiin nîng a ta, a nei lien deuin pe lien in ta, a nei tlawm deuin pe chin in tih" a ta.
+{35:9} Chun, LALPA chun Mosie kuomah,
+{35:10} "Israelhai inbiekpui la, hieng hin hril rawh: 'Jordan vadung kâna Kanan ram in lût pha leh,
+{35:11} pàngpala tuol thattuhai tlân lût theina dingin inhumhimna khuo iemani zât siem ro.
+{35:12} Pungkhawm hmaa a chungthu rêlpêk dinga a ngîr hmaa tuolthattu chu a thi nawna dingin, chuong khuohai chu phubalatuhai laka in tuoltlânna ding nîng a tih.
+{35:13} Chuong khuo paruk in pêkhai chu in ta dinga inhumhimna khuo nîng a tih.
+{35:14} Jordan sak tieng hin chuong ang inhumhimna khuo chu pathum siem un la, Kanan ram tieng pathum siem bok ro.
+{35:15} Hieng khuo parukhai hi Israelhai le hnam danghai le an kuoma chènghai ta dinga inhumhimna khuo nîng a ta, chu taka chun tu khom pàngpala mi that taphot tuoltlân thei an tih.
+{35:16} " 'Tu khomin thîrin mi a vuok a, a thi chun tuolthat a na, ama chu sukhlum ngèi ding a nih.
+{35:17} Tu khomin a kutin lungtum a chawi a, mi a suk a, a thi chun tuolthat a na, ama chu sukhlum ngèi ding a nih.
+{35:18} Tu khomin a kutin mi that theina thing tum a chawi a, mi a zei a, a thi chun tuolthat a na, ama chu sukhlum ngèi ding a nih.
+{35:19} Phubalatu chun tuolthattu chu a hmu pha leh sukhlum nghal a tih.
+{35:20} Mi tu khomin theidana leia mi a nam rak amanih, thil iengin amanih tum hrima a dèng a, a thi chun,
+{35:21} an naw leh an innghirnghona leia kuttuma a chum hlum chun, a sukhlumtu chu sukhlum ngèi ding a nih, tuolthat a ni leiin. Phubalatu chun a hmu hun hunah sukhlum a tih.
+{35:22} " 'Intheidana um loa mi dang a nam thut amanih, tum lei ni loa thila mi a dèng amanih a ni ruok chun,
+{35:23} an naw leh hmu loa lung inthlâkkhum leia mi a lo thi chun, a hmèlma a ni naw lei le a poi tawk tum khom a ni bok naw leiin,
+{35:24} pungkhawmhaiin a sukhlumtu le thisen phuba latu chungthu chu hieng dânhai ang hin an rèl ding a nih.
+{35:25} Pungkhawmhai chun thisen phuba latu lakah tuolthattu chu hum an ta, a tuoltlanna khuoa chun inumtir nawk an ta, hriek thienghlim nâl thiempu laltak ni lai a thi hma khat chu taka chun a um ding a nih.
+{35:26} " 'Amiruokchu, tuolthattu chu a tuoltlànna khuo ramri puoah a fe a,
+{35:27} thisen phuba latuin a hmu a, a that chun tuolthat ni naw nih.
+{35:28} Thiempu lal a thi hma khat chu a tuoltlânnaah tuolthattu chu a um zing ding a nih; thiempu a thi hnung ruok chun a umna hmunah a kîr nawk ding a nih.
+{35:29} " 'Hieng dânhai hi khaw lai khom um inla, in thlahai chena ro in inrêl dàn ding chu a nih.
+{35:30} Tu khomin tuol a that chun, hrepuituhai baua inthoka thu suokin ama chu sukhlum ngèi ding a nih; amiruokchu, hrepuitu pakhat chauh bausuok thu chu mi sukhlumna dingin a huntawk nawh.
+{35:31} Tuolthattu chu thi tlâk a ni leiin suma intlan suok ding a ni nawh; sukhlum ngèi ngèi ding a nih.
+{35:32} Inhumhimna khuoa tuoltlân chu chuong hun laia thiempu lal a thi hma chun a umna khaw hluia kîr nawk dinga intlan suok phal a ni nawh.
+{35:33} " 'In umna ram chu sukporche naw ro. Thisen insuona chun ram a sukporche. Thisen insuo leia sukporche ram chu thisen insuotu thisen chauh naw chun sukthieng thei a ni nawh.
+{35:34} In umna ram, ka chêngna hmun hi sukporche naw ro, kei hi LALPA, Israelhai laia chêng chu ka ni si a' tiin hril rawh" a ta.
+{36:1} Josefa thlaa mi, Manase naupa Makir, Makir naupa Gilead thlaa mi sûngkuo luhai chu an hung a, Mosie le Israel pahnam luhai hmaa chun thu an hril a:
+{36:2} "LALPA chun Israelhai ram hluo ding chu thum vawra sem dingin kan pu thu a pêk a; chun, LALPA chun kan pu chu kan unaupa Zelofehad hluo ding ram chu a naunuhai pe dingin thu a pêk bok a.
+{36:3} Tuhin, Israel sûngkuoa mi pahnam dang pasalah lo nei ta hai sien, an pi le pu rama an rochan chu an pasal va neihai kutah a lût ding a na. Chuong a ni chun, kan pahnam ta dinga pêk ram chu a kiem ding tina a nih.
+{36:4} Israelhai ta dinga Jubili Kum a hung tlung pha leh, pasal an va neina hnamhai ramah kan ram chu kop tâng a ta, kan thlatuhai ram chu làk hmang a hung ni ding a nih' tiin.
+{36:5} Chuongchun, LALPA thu angin Mosie chun Israelhai chu thu a pêk a: "Josefa thlahai thu hung hril hi a'n dik a nih.
+{36:6} Hi hi Zelofehad naunuhai chungthua LALPA thupêk chu a nih: an pahnam sûnga mi an ni phot chun tu khom pasala an nei a thieng.
+{36:7} Israel thlahai ram chu pahnam pakhata inthokin pahnam dang kutah son ding a ni naw a, Israel pahnam tinin an pi le pua inthoka an rochung ram chu an kol seng ding a nih.
+{36:8} Israel thlahai laia rohluotu ding nuhmei taphot chun, Israel thlahaiin an pi le pu ram an hluo seng theina dingin, a pa hnampui laia mi ngei pasalah a nei ding a nih.
+{36:9} Ram hrim hrim pahnam pakhata inthokin pahnam dangah son ding a ni naw a, Israel pahnam tinin an rochung ram chu an kol ding a nih" tiin.
+{36:10} LALPAN thu a pêk angin Zelofehad naunuhai chun an thaw a.
+{36:11} Zelofehad naunu Mahla hai, Tirza hai, Hogla hai, Milka hai le Noa hai chun an pa unauhai naupahai chu pasalah an nei seng a.
+{36:12} An pasalhai chu Josefa naupa Manase naupahai an na, an ram chu an pa hnama chun a um zing tah a nih.
+{36:13} Hienghai hi LALPAN Mosie hmanga Jeriko zawn, Jordan ràl, Moab phaia Israelhai kuoma thupêk le dàn a pêkhai chu an nih.

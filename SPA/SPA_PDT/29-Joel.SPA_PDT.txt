@@ -1,0 +1,86 @@
+{i1:1} Destrucción de las cosechas
+{1:1} Este es el mensaje que el SEÑOR le dio a Joel hijo de Petuel.
+{1:2} Oigan esto, ancianos líderes; escuchen con atención, todos los habitantes del país. ¿Sucedió alguna vez algo parecido en su vida o en la vida de sus antepasados?
+{1:3} Cuenten esto a sus hijos, y que ellos se lo cuenten a los suyos, y estos a la siguiente generación.
+{1:4} Lo que no se comió la oruga, se lo comió la langosta. Lo que no se comió la langosta, se lo comió el pulgón. Y lo que no se comió el pulgón, se lo comió el saltamontes.
+{i1:5} La invasión de langostas
+{1:5} Despiértense, borrachos, y lloren. Que todos los bebedores de vino lloren amargamente porque ya no tendrán más vino dulce para probar.
+{1:6} Porque una nación fuerte y numerosa invadió mi país. Sus armas son cortantes como los dientes del león y poderosas como su quijada.
+{1:7} Ha arruinado mi vid y destrozado mi higuera; las peló completamente y dejó desnudas sus ramas.
+{i1:8} La gente llora
+{1:8} Llora, tierra mía, como una novia que no encuentra consuelo y se viste de luto por la muerte de su prometido.
+{1:9} Lloren amargamente, sacerdotes, siervos del SEÑOR, porque ya no quedará vino ni grano para ofrecer en el templo del SEÑOR.
+{1:10} Hasta la tierra está de luto porque los campos fueron destruidos, el trigo se ha echado a perder, ya no hay más vino nuevo y se acabó el aceite de oliva.
+{1:11} Sientan dolor, campesinos; sufran, cuidadores de viñedos, por el trigo y la cebada, por la cosecha perdida.
+{1:12} La vid se secó, se marchitó la higuera; también se secaron los granados, las palmeras, los manzanos y todos los árboles del campo. Por eso también se acabó la alegría de la gente.
+{i1:13} La desolación
+{1:13} Vístanse de luto, sacerdotes; lloren amargamente, encargados del altar. Vengan, servidores de mi Dios y pasen la noche en luto. Porque ya no hay ofrenda de cereal ni ofrenda líquida en el templo de su Dios.
+{1:14} Organicen un día de ayuno. Convoquen a una reunión de los ancianos líderes y de todos los habitantes del país, en el templo del SEÑOR su Dios, y hagan oración al SEÑOR.
+{1:15} Llénense de temor porque se acerca el día del juicio del SEÑOR. El Todopoderoso los destruirá con toda su fuerza.
+{1:16} ¿No ven que ya no hay comida y se acabaron la alegría y las celebraciones en el templo de nuestro Dios?
+{1:17} Las semillas se secaron bajo tierra sin dar fruto. Los graneros están destruidos y los silos derribados porque el trigo se marchitó.
+{1:18} »Cómo se quejan los animales, el ganado anda perdido porque no hay pasto para comer. Hasta las ovejas se están muriendo de hambre.
+{1:19} SEÑOR, ruego tu ayuda porque el fuego ha consumido los pastos del desierto y los árboles del campo.
+{1:20} Aun los animales salvajes ruegan que los ayudes porque ya no hay agua en los ríos, y el fuego ha quemado los pastos.
+{i2:1} El día venidero del Señor
+{2:1} ¡Anuncien con trompetas en Sion! Que suene la alarma en el santo monte de Dios. Que todos los habitantes del país tiemblen de miedo, porque ya viene el día del juicio del SEÑOR.
+{2:2} Será un día oscuro y deprimente como un día con nubes de tormenta. Como el amanecer se extiende por las montañas, así vendrá un ejército grande y numeroso. Nunca ha existido un ejército como este ni existirá otro igual.
+{2:3} El ejército destruirá la tierra como el fuego que todo lo consume. Antes de que pase, el país se parece al jardín del Edén; pero después de que lo destruyan, parecerá un desierto. Nada escapa a la destrucción.
+{2:4} Tienen aspecto de caballos, y corren como caballos de combate.
+{2:5} Se mueven haciendo ruido de carros de combate cabalgando sobre las cumbres de las montañas. Suenan igual al fuego cuando quema el pasto seco, como un ejército numeroso en formación de batalla.
+{2:6} Las naciones tiemblan de miedo ante él, todos los rostros palidecen.
+{2:7} Corren hacia la batalla, y como soldados, escalan la muralla. Corren para atacar, cada uno en su lugar sin romper la formación.
+{2:8} No se atropellan entre sí, cada uno va por su línea. Si alguno resulta herido, los demás siguen su avance.
+{2:9} Se lanzan contra la ciudad y trepan por sus murallas. Se meten en las casas por las ventanas, como ladrones.
+{2:10} La tierra tiembla y el cielo se estremece ante ellos. El sol y la luna se oscurecen y las estrellas pierden su resplandor.
+{2:11} El SEÑOR dirige a su ejército dándole órdenes. Su ejército es grandioso y los que cumplen sus órdenes son poderosos. De verdad que el día del SEÑOR será un día grande y terrible. ¿Quién lo podrá soportar?
+{i2:12} El Señor llama a su pueblo
+{2:12} El SEÑOR llama a su pueblo: «Vengan ahora y cambien su vida, y regresen a mí de todo corazón. Háganlo con ayuno, llanto y lamentos.
+{2:13} En lugar de rasgarse las vestiduras, rasguen su corazón». Cambien su vida y vuelvan al SEÑOR su Dios, compasivo y misericordioso, que no se enoja con facilidad, que está lleno de fiel amor y dispuesto a dar indulto.
+{2:14} ¿Quién sabe? Tal vez Dios reflexione, cambie su decisión de castigarlos y los bendiga con cereales y vino para que puedan ofrecerle ofrendas al SEÑOR su Dios.
+{i2:15} Clamen al Señor
+{2:15} ¡Toquen la trompeta en el monte Sion! Proclamen un ayuno y convoquen al pueblo.
+{2:16} Reúnan al pueblo, que se purifique la asamblea. Reúnan a los ancianos; traigan a los niños, incluso a los bebés. Que los recién casados suspendan su luna de miel.
+{2:17} Que los sacerdotes, siervos del SEÑOR, lloren entre el patio y el altar diciendo: «Ten compasión de tu pueblo, SEÑOR. No dejes que las naciones se burlen de lo que es tuyo. Que no digan los demás pueblos: “¿Dónde está su Dios?”»
+{i2:18} El Señor restaurará la tierra
+{2:18} Pero el SEÑOR se preocupó mucho por su tierra y tuvo compasión de su pueblo.
+{2:19} Respondió así el SEÑOR a su pueblo: «Les daré trigo, vino fresco y aceite de oliva hasta que queden satisfechos. No dejaré que pasen vergüenza frente a naciones extranjeras.
+{2:20} Y alejaré de ustedes a los que vienen del norte. A los del norte los alejaré de ustedes, a ellos los echaré a una tierra seca y devastada. Expulsaré a su vanguardia al Mar Muerto y a su retaguardia al mar oriental. Su mal olor y pudrición serán muy fuertes porque el SEÑOR hará grandes cosas».
+{i2:21} La tierra se renovará
+{2:21} Tierra, no tengas miedo. Alégrate y celebra, porque el SEÑOR hará grandes cosas.
+{2:22} Animales salvajes, no tengan miedo, porque reverdecerán los pastos del desierto. El árbol dará su fruto, y la higuera y la viña darán su mejor cosecha.
+{2:23} Y ustedes, hijos de Sion, alégrense y hagan fiesta al SEÑOR su Dios, porque como muestra de su generosidad él les mandará a su debido tiempo tanto las lluvias de otoño como las de primavera, así como lo hacía antes.
+{2:24} Los lugares donde se trilla el grano estarán repletos. Habrá tanto vino fresco y aceite de oliva que los barriles se desbordarán.
+{2:25} «Yo los compensaré por los años de cosecha que se han comido las langostas, mi gran ejército enviado contra ustedes.
+{2:26} Ustedes comerán hasta que queden satisfechos, y alabarán el nombre del SEÑOR su Dios, quien ha hecho maravillas por ustedes. Mi pueblo nunca más pasará vergüenza.
+{2:27} Y sabrán que el SEÑOR vive en medio del pueblo de Israel, que yo soy su Dios, y que no hay otro. Mi pueblo nunca más pasará vergüenza.
+{i2:28} El Señor dará su Espíritu a todos
+{2:28} »Después de esto, derramaré mi Espíritu sobre toda la humanidad. Sus hijos e hijas profetizarán, los ancianos tendrán sueños, y los jóvenes tendrán visiones.
+{2:29} En esos días también derramaré mi Espíritu sobre los siervos y las siervas.
+{2:30} Haré grandes señales en el cielo y en la tierra. Habrá sangre, fuego y columnas de humo.
+{2:31} El sol se oscurecerá y la luna se convertirá en sangre, antes de que venga ese día grande y terrible del juicio del SEÑOR.
+{2:32} Y todo el que confíe en el SEÑOR será salvo. Habrá refugio en el monte Sion y en Jerusalén, como ha dicho el SEÑOR. Entre los sobrevivientes estarán los llamados por el SEÑOR.
+{i3:1} Castigo para los enemigos de Judá
+{3:1} »Porque en los días en que yo cambie la fortuna de Judá y Jerusalén,
+{3:2} reuniré a todas las naciones y las llevaré al valle de Josafat. Allí las juzgaré por sus delitos contra mi posesión, mi pueblo Israel. Porque lo dispersaron por muchas naciones y se han repartido mi tierra.
+{3:3} Las naciones han decidido repartirse la tierra de mi pueblo. Han regalado un niño para conseguir una prostituta. Vendieron niñas para comprar vino y emborracharse.
+{3:4} »Tiro, Sidón y territorios de Filistea, ¿Qué tienen en contra mía? ¿Acaso me querían castigar por alguna razón? ¿O estaban tratando de hacer algo para lastimarme? Si es así, pronto haré que paguen por sus acciones.
+{3:5} Ustedes, naciones, se han robado el oro y la plata que me pertenecen, y se han llevado a sus templos mis tesoros más valiosos.
+{3:6} »La gente de Judá y Jerusalén ha sido vendida a los griegos para alejarlos de su tierra.
+{3:7} Yo voy a sacarlos de los sitios donde ustedes los vendieron y les haré pagar a ustedes por sus actos de venganza.
+{3:8} Venderé a sus hijos e hijas a la gente de Judá y ellos los venderán a los sabeos, gente de un país lejano». Es la decisión del SEÑOR.
+{i3:9} Prepárense para la guerra
+{3:9} Díganles a las naciones: ¡Prepárense para la guerra! ¡Movilicen a los soldados! ¡Que todos los hombres de guerra se preparen para la batalla!
+{3:10} Conviertan en espadas sus herramientas para sembrar, y en lanzas las herramientas que usan para podar. Que el miedoso diga: «Soy valiente».
+{3:11} Vengan rápido, naciones vecinas, y reúnanse aquí. ¡SEÑOR, trae a tus soldados!
+{3:12} «Avísenles a las naciones y vayan al valle de Josafat. Porque allí me sentaré para juzgar a las naciones de alrededor.
+{3:13} Recojan la cosecha, porque ya está madura. Vamos, vengan a pisar las uvas, porque el lugar donde se pisan ya está lleno. Las tinas se están derramando de lo grande que es su maldad».
+{3:14} Hay muchos pueblos en el valle de la decisión, porque se acerca el día del juicio del SEÑOR.
+{3:15} El sol y la luna se oscurecerán, y las estrellas perderán su resplandor.
+{3:16} Y el SEÑOR rugirá desde Sion; desde Jerusalén gritará con su voz de trueno y los cielos y la tierra temblarán. Pero el SEÑOR será un refugio para su pueblo y una fortaleza para los hijos de Israel.
+{i3:17} Promesa de una vida nueva
+{3:17} «Y ustedes sabrán que yo soy el SEÑOR su Dios, que vivo en Sion, mi monte santo. Jerusalén será una ciudad santa, y los extranjeros nunca más la invadirán.
+{3:18} »Ese día, las montañas destilarán vino dulce, y de los cerros fluirá leche. El agua correrá en todas las quebradas y arroyos de Judá. Una fuente saldrá del templo del SEÑOR, que regará el valle de las Acacias.
+{3:19} Egipto se convertirá en un baldío y Edom en un desierto desolado porque fueron crueles con los hijos de Judá y en su territorio derramaron sangre inocente.
+{3:20} Jerusalén y Judá serán habitadas para siempre, de generación en generación.
+{3:21} No perdonaré a quienes derramaron la sangre de mi pueblo; no quedarán sin castigo». Y el SEÑOR habitará en Sion para siempre.

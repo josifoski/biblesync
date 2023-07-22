@@ -1,0 +1,934 @@
+{i1:1} Propósito de los proverbios
+{1:1} Proverbios de Salomón, hijo de David, rey de Israel.
+{1:2} Para aprender sabiduría e instrucción, Para entender los dichos inteligentes,
+{1:3} Para recibir el consejo de prudencia, Justicia, juicio y equidad;
+{1:4} Para dar sagacidad a los simples, Y a los jóvenes inteligencia y cordura.
+{1:5} Oirá el sabio, y aumentará su saber, Y el entendido adquirirá destreza,
+{1:6} Para entender proverbios y refranes, Máximas de sabios, y sus dichos enigmáticos.
+{1:7} El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza.
+{i1:8} Amonestaciones de la sabiduría
+{1:8} Escucha, hijo mío, la reprensión de tu padre, Y no desprecies la instrucción de tu madre;
+{1:9} Porque guirnalda de gracia serán a tu cabeza, Y collares a tu cuello.
+{1:10} Hijo mío, si los perversos intentan seducirte, No consientas.
+{1:11} Si te dicen: Ven con nosotros; Pongamos asechanzas para derramar sangre, Acechemos sin motivo al inocente;
+{1:12} Devorémoslos vivos como el Seol, Y enteros, como los que caen en la fosa;
+{1:13} Hallaremos riquezas de toda clase, Llenaremos nuestras casas de botín;
+{1:14} Echa tu suerte entre nosotros; Tengamos todos una bolsa;
+{1:15} Hijo mío, no vayas de camino con ellos. Aparta tu pie de sus veredas,
+{1:16} Porque sus pies corren hacia la maldad, Y van presurosos a derramar sangre.
+{1:17} Porque en vano se tenderá la red Ante los ojos mismos de un ave;
+{1:18} Pero ellos su propia sangre ponen en peligro, Y a sus almas tienden lazo.
+{1:19} Tales son las sendas de todo el que es dado a la codicia, La cual quita la vida a su propio dueño.
+{1:20} La sabiduría clama en las calles, Alza su voz en las plazas;
+{1:21} Clama en los lugares más concurridos; En las entradas de las puertas de la ciudad pronuncia sus discursos.
+{1:22} ¿Hasta cuándo, oh simples, amaréis la simpleza, Y los insolentes se complacerán en la insolencia, Y los insensatos aborrecerán el conocimiento?
+{1:23} Volveos a mi reprensión; He aquí yo derramaré mi espíritu sobre vosotros, Y os daré a conocer mis palabras.
+{1:24} Por cuanto llamé, y no quisisteis oír. Extendí mi mano, y no hubo quien atendiese,
+{1:25} Sino que desechasteis todo consejo mío Y no aceptasteis mi reprensión,
+{1:26} También yo me reiré de vuestra desgracia, Y me burlaré cuando os sobrevenga lo que teméis;
+{1:27} Cuando venga de repente lo que os asusta, Y vuestra desgracia llegue como un torbellino; Cuando sobre vosotros vengan la tribulación y la angustia.
+{1:28} Entonces me llamarán, y no responderé; Me buscarán con afán, y no me hallarán.
+{1:29} Por cuanto aborrecieron la sabiduría, Y no escogieron el temor de Jehová,
+{1:30} Ni quisieron mi consejo, Y menospreciaron toda reprensión mía,
+{1:31} Comerán del fruto de su camino, Y se hartarán de sus propios planes.
+{1:32} Porque el extravío de los ignorantes los matará, Y la cómoda indolencia de los necios los echará a perder;
+{1:33} Mas el que me escuche, habitará confiadamente Y vivirá tranquilo, sin temor a la desgracia.
+{i2:1} La sabiduría, antídoto contra las malas compañías
+{2:1} Hijo mío, si recibes mis palabras, Y guardas mis mandamientos dentro de ti,
+{2:2} Haciendo estar atento tu oído a la sabiduría; Si inclinas tu corazón a la prudencia,
+{2:3} Si clamas a la inteligencia, Y a la prudencia das voces;
+{2:4} Si como a la plata la buscas, Y la rebuscas como a tesoros,
+{2:5} Entonces entenderás el temor de Jehová, Y hallarás el conocimiento de Dios.
+{2:6} Porque Jehová da la sabiduría, Y de su boca nacen el conocimiento y la inteligencia.
+{2:7} Él provee de sana sabiduría a los rectos; Es escudo para los que caminan rectamente.
+{2:8} Es el que custodia las veredas de la equidad, Y preserva el camino de sus santos.
+{2:9} Entonces entenderás justicia, juicio Y equidad, y todo buen camino.
+{2:10} Cuando la sabiduría entre en tu corazón, Y la ciencia sea grata a tu alma,
+{2:11} La discreción te guardará; Te protegerá la inteligencia,
+{2:12} Para librarte del mal camino, De los hombres que hablan perversidades,
+{2:13} Que dejan los caminos derechos, Para andar por sendas tenebrosas;
+{2:14} Que se alegran haciendo el mal, Que se complacen en las perversidades del vicio;
+{2:15} Cuyas veredas son tortuosas, Y sus caminos llenos de rodeos.
+{2:16} Serás librado de la mujer extraña, De la ajena que halaga con sus palabras,
+{2:17} La cual abandona al compañero de su juventud, Y se olvida del pacto de su Dios.
+{2:18} Por lo cual su casa está inclinada hacia la muerte, Y sus veredas hacia las sombras de muerte;
+{2:19} Todos los que a ella se lleguen, no volverán, Ni alcanzarán otra vez los senderos de la vida.
+{2:20} Así andarás por el camino de los buenos, Y seguirás las veredas de los justos;
+{2:21} Porque los rectos habitarán la tierra, Y los íntegros permanecerán en ella,
+{2:22} Mas los impíos serán cortados de la tierra, Y los prevaricadores serán desarraigados de ella.
+{i3:1} Exhortación a la obediencia
+{3:1} Hijo mío, no te olvides de mi enseñanza, Y tu corazón guarde mis mandamientos;
+{3:2} Porque te añadirán largura de días y años de vida y paz.
+{3:3} Nunca se aparten de ti la misericordia y la verdad; Átalas a tu cuello, Escríbelas en la tabla de tu corazón;
+{3:4} Y hallarás gracia y buena opinión Ante los ojos de Dios y de los hombres.
+{3:5} Fíate de Jehová con todo tu corazón, Y no te apoyes en tu propia prudencia.
+{3:6} Reconócele en todos tus caminos, Y él enderezará tus veredas.
+{3:7} No seas sabio en tu propia opinión; Teme a Jehová, y apártate del mal;
+{3:8} Porque será medicina para tu cuerpo, Y refrigerio para tus huesos.
+{3:9} Honra a Jehová con tus bienes, Y con las primicias de todos tus frutos;
+{3:10} Y serán llenos tus graneros con abundancia, Y tus lagares rebosarán de mosto.
+{3:11} No menosprecies, hijo mío, la reprensión de Jehová, Ni te fatigues de su corrección;
+{3:12} Porque Jehová al que ama reprende, Como el padre al hijo a quien quiere.
+{3:13} Dichoso el hombre que halla la sabiduría, Y que obtiene la inteligencia;
+{3:14} Porque su ganancia es mejor que la ganancia de la plata, Y sus rentas mayores que las del oro fino.
+{3:15} Más valiosa es que las piedras preciosas; Y todo lo que puedes desear, no se puede comparar a ella.
+{3:16} Largura de días hay en su mano derecha; En su izquierda, riquezas y honra.
+{3:17} Sus caminos son caminos deleitosos, Y todas sus veredas paz.
+{3:18} Ella es árbol de vida para los que de ella echan mano, Y son dichosos los que la retienen.
+{3:19} Jehová fundó la tierra con la sabiduría; Consolidó los cielos con inteligencia.
+{3:20} Con su ciencia fueron abiertos los abismos, Y destilan rocío los cielos.
+{3:21} Hijo mío, no se aparten estas cosas de tus ojos; Guarda la prudencia y la reflexión,
+{3:22} Y serán vida para tu alma, Y gracia para tu cuello.
+{3:23} Entonces andarás por tu camino confiadamente, Y tu pie no tropezará.
+{3:24} Cuando te acuestes, no tendrás temor, Sino que te acostarás, y tu sueño será grato.
+{3:25} No tendrás temor de pavor repentino, Ni de la ruina que sobreviene a los impíos.
+{3:26} Porque Jehová será tu confianza, Y él preservará tu pie de caer en la trampa.
+{3:27} No te niegues a hacer el bien a quien es debido, Cuando esté a tu alcance el hacerlo.
+{3:28} No digas a tu prójimo: Anda, y vuelve, Y mañana te daré, Cuando tienes contigo qué darle.
+{3:29} No intentes mal contra tu prójimo Mientras habita confiado junto a ti.
+{3:30} No tengas pleito con nadie sin motivo, Si no te han hecho agravio.
+{3:31} No envidies al hombre injusto, Ni escojas ninguno de sus caminos.
+{3:32} Porque Jehová abomina al perverso; Pero tiene sus intimidades con los rectos.
+{3:33} La maldición de Jehová está sobre la casa del impío, Pero él bendice la morada de los justos.
+{3:34} Ciertamente él escarnece a los escarnecedores, Y a los humildes concede su favor.
+{3:35} Los sabios heredarán honra, Mas los insensatos recibirán ignominia.
+{i4:1} Beneficios de la sabiduría
+{4:1} Oíd, hijos, la enseñanza de un padre, Y estad atentos, para que aprendáis cordura.
+{4:2} Porque os doy buena enseñanza; No desamparéis mis instrucciones.
+{4:3} Porque yo también fui hijo de mi padre, Preferido tiernamente de mi madre.
+{4:4} Y él me enseñaba, y me decía: Retenga tu corazón mis razones, Guarda mis mandamientos, y vivirás.
+{4:5} Adquiere sensatez, adquiere inteligencia; No te olvides ni te apartes de los dichos de mi boca;
+{4:6} No la dejes, y ella te guardará; Ámala, y te protegerá.
+{4:7} El principio de la sabiduría es: adquirir sabiduría; Y aun a costa de todas tus posesiones adquiere inteligencia.
+{4:8} Engrandécela, y ella te engrandecerá; Ella te honrará, cuando tú la hayas abrazado.
+{4:9} Adorno de gracia pondrá sobre tu cabeza; Corona de hermosura te regalará.
+{4:10} Oye, hijo mío, y recibe mis razones, Y se te multiplicarán los años de vida.
+{4:11} Por el camino de la sabiduría te he encaminado, Y por veredas derechas te he enseñado a andar.
+{4:12} Cuando camines, no se enredarán tus pasos, Y si corres, no tropezarás.
+{4:13} Retén el consejo, no lo dejes; Guárdalo, porque eso es tu vida.
+{4:14} No entres por la vereda de los impíos, Ni vayas por el camino de los malos.
+{4:15} Evítalo, no pases por él; Apártate de él, pasa de largo.
+{4:16} Porque no duermen ellos si no obran el mal, Y pierden el sueño si no han hecho caer a alguno.
+{4:17} Pues su pan es pan de maldad, y beben vino de violencia;
+{4:18} Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta llegar a pleno día.
+{4:19} El camino de los impíos es como la oscuridad; No saben en qué tropiezan.
+{4:20} Hijo mío, está atento a mis palabras; Inclina tu oído a mis razones.
+{4:21} No se aparten de tus ojos; Guárdalas en medio de tu corazón;
+{4:22} Porque son vida para los que las hallan, Y medicina para todo su cuerpo.
+{4:23} Por encima de todo, guarda tu corazón; Porque de él mana la vida.
+{4:24} Aparta de ti la falsedad de la boca, Y aleja de ti la iniquidad de los labios.
+{4:25} Tus ojos miren de frente, Y diríjanse tus párpados hacia lo que tienes delante.
+{4:26} Examina la senda de tus pies, Y todos tus caminos sean rectos.
+{4:27} No te desvíes a la derecha ni a la izquierda; Aparta tu pie del mal.
+{i5:1} Amonestación contra la impureza
+{5:1} Hijo mío, está atento a mi sabiduría, Y a mi inteligencia inclina tu oído,
+{5:2} Para que guardes la reflexión, Y tus labios conserven la ciencia.
+{5:3} Porque los labios de la mujer extraña destilan miel, Y su paladar es más blando que el aceite;
+{5:4} Mas su fin es amargo como el ajenjo, Aguzado como espada de dos filos.
+{5:5} Sus pies descienden a la muerte; Sus pasos conducen al Seol.
+{5:6} Sus caminos son desviados, sin que se percate de ello, Por no considerar el camino de vida.
+{5:7} Ahora pues, hijos, oídme, Y no os apartéis de las razones de mi boca.
+{5:8} Aleja de ella tu camino, Y no te acerques a la puerta de su casa;
+{5:9} Para que no des a los extraños tu honor, Y tus años al cruel;
+{5:10} No sea que extraños se sacien de tus bienes, Y el fruto de tus trabajos vaya a parar a casa del extraño;
+{5:11} Y gimas al final, Cuando tu carne y tu cuerpo se hayan consumido,
+{5:12} Y digas: ¡Cómo desoí el consejo, Y mi corazón menospreció la reprensión;
+{5:13} No escuché la voz de los que me instruían, Y a los que me enseñaban no presté atención!
+{5:14} Por poco llego al colmo de la desgracia, En medio de la sociedad y de la congregación.
+{5:15} Bebe el agua de tu misma cisterna, Y los raudales de tu propio pozo.
+{5:16} ¿Se derramarán tus fuentes por las calles, Y tus corrientes de aguas por las plazas?
+{5:17} Sean para ti solo, Y no para los extraños contigo.
+{5:18} Sea bendito tu manantial, Y gózate en la mujer de tu juventud,
+{5:19} Como cierva amada y graciosa gacela. Sus caricias te satisfagan en todo tiempo, Y en su amor recréate siempre.
+{5:20} ¿Y por qué, hijo mío, andarás ciego con la mujer ajena, Y abrazarás el seno de la extraña?
+{5:21} Porque los caminos del hombre están ante los ojos de Jehová, Y él considera todas sus veredas.
+{5:22} Prenderán al impío sus propias iniquidades, Y será retenido con las cuerdas de su pecado.
+{5:23} Él morirá por falta de corrección, Y errará por lo inmenso de su locura.
+{i6:1} Amonestación contra la pereza y la falsedad
+{6:1} Hijo mío, si sales fiador por tu amigo, Si has empeñado tu palabra a un extraño,
+{6:2} Si te has ligado con las palabras de tu boca, Y has quedado preso en los dichos de tus labios,
+{6:3} Haz esto ahora, hijo mío, y líbrate, Ya que has caído en las manos de tu prójimo; Ve, humíllate, importuna a tu amigo.
+{6:4} No des sueño a tus ojos, Ni a tus párpados adormecimiento;
+{6:5} Escápate como gacela de la mano del cazador, Y como ave de la mano del que arma lazos.
+{6:6} Observa a la hormiga, oh perezoso, Mira sus caminos, y serás sabio;
+{6:7} La cual, no teniendo capitán, Ni gobernador, ni señor,
+{6:8} Prepara en el verano su comida, Y recoge en el tiempo de la siega su mantenimiento.
+{6:9} Perezoso, ¿hasta cuándo has de dormir? ¿Cuándo te levantarás de tu sueño?
+{6:10} Un poco de sueño, un poco de dormitar, Y cruzar otro poco las manos sobre el pecho;
+{6:11} Así vendrá tu necesidad como un merodeador, Y tu pobreza como hombre armado.
+{6:12} El hombre malo, el hombre depravado, Es el que anda en falsedad de boca;
+{6:13} Que guiña los ojos, que arrastra los pies, Que hace señas con los dedos.
+{6:14} Perversidades hay en su corazón; anda pensando el mal. En todo tiempo siembra discordias.
+{6:15} Pero le llegará la desgracia de repente; Súbitamente será quebrantado, y no habrá remedio.
+{6:16} Seis cosas aborrece Jehová, Y aun siete abomina su alma:
+{6:17} Los ojos altivos, la lengua mentirosa, Las manos derramadoras de sangre inocente,
+{6:18} El corazón que maquina pensamientos inicuos, Los pies presurosos para correr al mal,
+{6:19} El testigo falso que habla mentiras, Y el que siembra discordia entre hermanos.
+{i6:20} Amonestación contra el adulterio
+{6:20} Guarda, hijo mío, el mandamiento de tu padre, Y no rechaces la enseñanza de tu madre;
+{6:21} Átalos siempre en tu corazón, Enlázalos a tu cuello.
+{6:22} Te guiarán cuando andes; cuando duermas, velarán por ti; Hablarán contigo cuando despiertes.
+{6:23} Porque el mandamiento es lámpara, y la enseñanza es luz, Y camino de vida las reprensiones que te instruyen,
+{6:24} Para que te guarden de la mala mujer, De la blandura de la lengua de la mujer extraña.
+{6:25} No codicies su hermosura en tu corazón, Ni ella te prenda con sus ojos;
+{6:26} Porque la ramera se contenta con una hogaza de pan, Pero la adúltera va a la caza de la vida preciosa de un varón.
+{6:27} ¿Tomará el hombre fuego en su seno Sin que sus vestidos ardan?
+{6:28} ¿Andará el hombre sobre brasas Sin que sus pies se quemen?
+{6:29} Así es el que se llega a la mujer de su prójimo; No quedará impune ninguno que la toque.
+{6:30} ¿No tienen en poco al ladrón si hurta Para saciar su apetito cuando tiene hambre?
+{6:31} Pero si es sorprendido, pagará siete veces; Entregará todo el haber de su casa.
+{6:32} Mas el que comete adulterio es falto de entendimiento; Arruina su alma el que tal hace.
+{6:33} Heridas y vergüenza hallará, Y su afrenta nunca será borrada.
+{6:34} Porque los celos enfurecen al marido, Y no perdonará en el día de la venganza.
+{6:35} No aceptará ninguna indemnización, Ni querrá perdonar, aunque multipliques los regalos.
+{i7:1} Las artimañas de la ramera
+{7:1} Hijo mío, guarda mis razones, Y atesora contigo mis mandamientos.
+{7:2} Guarda mis mandamientos y vivirás, Y mi ley como las niñas de tus ojos.
+{7:3} Lígalos a tus dedos; Escríbelos en la tabla de tu corazón.
+{7:4} Di a la sabiduría: Tú eres mi hermana, Y a la inteligencia llama tu parienta;
+{7:5} Para que te guarden de la mujer ajena, Y de la extraña de palabras zalameras.
+{7:6} Porque estaba yo a la ventana de mi casa, Mirando por la reja; Vi entre los simples,
+{7:7} Distinguí entre los muchachos, A un joven falto de entendimiento,
+{7:8} El cual pasaba por la calle, junto a la esquina donde ella vivía, E iba camino de su casa,
+{7:9} A la tarde del día, cuando ya oscurecía, En la oscuridad y tinieblas de la noche.
+{7:10} Cuando he aquí, una mujer le sale al encuentro, Con atavío de ramera y disimulo en el corazón.
+{7:11} Bullanguera y revoltosa, Sus pies no pueden parar en casa;
+{7:12} Unas veces está en la calle, otras veces en las plazas, Acechando por todas las esquinas.
+{7:13} Le agarró, y le besó. Con semblante descarado le dijo:
+{7:14} Sacrificios de paz había prometido, Hoy he pagado mis votos;
+{7:15} Por tanto, he salido a encontrarte, Buscando diligentemente tu rostro, y te he hallado.
+{7:16} He adornado mi cama con colchas Recamadas con cordoncillo de Egipto;
+{7:17} He perfumado mi alcoba Con mirra, áloes y canela.
+{7:18} Ven, embriaguémonos de amores hasta la mañana; Gocemos de las delicias del placer.
+{7:19} Porque mi marido no está en casa; Se ha ido a un largo viaje.
+{7:20} Se llevó la bolsa de dinero; Y hasta la luna llena no volverá a casa.
+{7:21} Lo rindió con la suavidad de sus muchas palabras, Le obligó con la zalamería de sus labios.
+{7:22} Al punto se marchó tras ella, Como va el buey al degolladero, Y como el necio a las prisiones para ser castigado;
+{7:23} Como el ave que se precipita hacia el lazo, Y no sabe que es contra vida, Hasta que la saeta traspasa su corazón.
+{7:24} Ahora pues, hijos, oídme, Y estad atentos a las razones de mi boca.
+{7:25} No se aparte tu corazón hacia sus caminos; No te extravíes por sus veredas.
+{7:26} Porque a muchos ha hecho caer heridos, Y aun los más robustos han sido muertos por ella.
+{7:27} Camino al Seol es su casa, Que conduce a las cámaras de la muerte.
+{i8:1} Excelencia y eternidad de la Sabiduría
+{8:1} ¿No clama la sabiduría, Y da su voz la inteligencia?
+{8:2} En las alturas junto al camino, A las encrucijadas de las veredas se para;
+{8:3} Junto a las puertas, a la entrada de la ciudad, En el umbral de las puertas da voces:
+{8:4} Oh hombres, a vosotros clamo; Dirijo mi voz a los hijos de los hombres.
+{8:5} Aprended, oh simples, discreción; Y vosotros, necios, entrad en cordura.
+{8:6} Escuchad, porque hablaré cosas excelentes, Y abriré mis labios para cosas rectas.
+{8:7} Porque mi boca hablará verdad, Y mis labios abominan la impiedad.
+{8:8} Sinceras son todas las razones de mi boca; No hay en ellas cosa falsa ni tortuosa.
+{8:9} Todas ellas son rectas para el que entiende, Y razonables para los que han hallado sabiduría.
+{8:10} Recibid mi enseñanza, y no la plata; Y ciencia antes que el oro escogido.
+{8:11} Porque mejor es la sabiduría que las piedras preciosas; Y todo cuanto se puede desear, no puede compararse con ella.
+{8:12} Yo, la sabiduría, habito con la cordura, Y he hallado el conocimiento de los consejos.
+{8:13} El temor de Jehová es aborrecer el mal; La soberbia y la arrogancia, el mal camino, Y la boca perversa, es lo que yo detesto.
+{8:14} Conmigo está el consejo y el buen acierto; Yo soy la inteligencia; mío es el poder.
+{8:15} Por mí reinan los reyes, Y los príncipes decretan lo que es justo.
+{8:16} Por mí gobiernan los príncipes, Y los magnates juzgan toda la tierra.
+{8:17} Yo amo a los que me aman, Y me hallan los que madrugan para buscarme.
+{8:18} Las riquezas y la honra están conmigo; Riquezas duraderas, y justicia.
+{8:19} Mejor es mi fruto que el oro, que el oro refinado; Y mi rédito mejor que la plata acrisolada.
+{8:20} Por veredas de justicia camino, Por en medio de sendas de rectitud,
+{8:21} Para hacer que los que me aman obtengan su heredad, Y que yo llene sus arcas.
+{8:22} Jehová me poseía en el principio, Ya de antiguo, antes de sus obras.
+{8:23} Eternamente tuve el principado, desde el principio, Antes del comienzo de la tierra.
+{8:24} Antes de los abismos fui engendrada; Antes que existiesen las fuentes de las muchas aguas.
+{8:25} Antes que los montes fuesen formados, Antes de los collados, ya había sido yo engendrada;
+{8:26} No había aún hecho la tierra, ni los campos, Ni los primeros elementos del mundo.
+{8:27} Cuando formaba los cielos, allí estaba yo; Cuando trazaba un círculo sobre la faz del abismo;
+{8:28} Cuando condensaba las nubes arriba, Cuando afianzaba las fuentes del abismo;
+{8:29} Cuando ponía al mar su estatuto, Para que las aguas no traspasasen su mandato; Cuando establecía los fundamentos de la tierra,
+{8:30} Con él estaba yo ordenándolo todo, Y era su delicia de día en día, Teniendo solaz delante de él en todo tiempo.
+{8:31} Jugueteando en la parte habitable de su tierra; Y teniendo mis delicias con los hijos de los hombres.
+{8:32} Ahora, pues, hijos, oídme; Dichosos los que guardan mis caminos.
+{8:33} Atended mi consejo, para que seáis sabios; No lo menospreciéis.
+{8:34} Dichoso el hombre que me escucha, Velando a mis puertas cada día, Aguardando a los postes de mis puertas.
+{8:35} Porque el que me halle, hallará la vida, Y alcanzará el favor de Jehová.
+{8:36} Mas el que me pierde, se arruina a sí mismo; Todos los que me aborrecen aman la muerte.
+{i9:1} La Sabiduría y la insensatez
+{9:1} La sabiduría edificó su casa, Labró sus siete columnas.
+{9:2} Mató sus víctimas, mezcló su vino, Y puso su mesa.
+{9:3} Envió sus criadas a invitar Desde lo más alto de la ciudad.
+{9:4} Dice a cualquier inexperto: Ven acá. A los faltos de cordura dice:
+{9:5} Venid, comed de mi pan, Y bebed del vino que yo he mezclado.
+{9:6} Dejad las simplezas, y viviréis, Y andad por el camino de la inteligencia.
+{9:7} El que corrige al arrogante, se acarrea afrenta; El que reprende al impío, se atrae oprobio.
+{9:8} No reprendas al cínico, para que no te aborrezca; Corrige al sabio, y te amará.
+{9:9} Da al sabio, y será más sabio; Enseña al justo, y aumentará su saber.
+{9:10} El principio de la sabiduría es el temor de Jehová, Y la inteligencia es el conocimiento del Santísimo.
+{9:11} Porque por mí se aumentarán tus días, Y años de vida se te añadirán.
+{9:12} Si eres sabio, para tu provecho lo serás; Y si fueres escarnecedor, lo pagarás tú solo.
+{9:13} La insensatez es alborotadora; Es simple e ignorante.
+{9:14} Se sienta en una silla a la puerta de su casa, En los lugares altos de la ciudad,
+{9:15} Para llamar a los que pasan por el camino, Que van por sus caminos derechos.
+{9:16} Dice a cualquier simple: Ven acá. A los faltos de cordura dice:
+{9:17} Las aguas hurtadas son dulces, Y el pan comido en oculto es sabroso.
+{9:18} Y no sabe el hombre que allí están los muertos; Que sus convidados están en lo profundo del Seol.
+{i10:1} Contraste entre el justo y el malvado
+{10:1} Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es la tristeza de su madre.
+{10:2} Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte.
+{10:3} Jehová no dejará padecer hambre al justo; Mas rechazará la ambición de los impíos.
+{10:4} La mano negligente empobrece; Mas la mano de los diligentes enriquece.
+{10:5} El que recoge en el verano es hombre sensato; El que duerme en el tiempo de la siega es hijo que avergüenza.
+{10:6} Hay bendiciones sobre la cabeza del justo; Pero la violencia cerrará la boca de los impíos.
+{10:7} La memoria del justo será bendita; Mas el nombre de los impíos se pudrirá.
+{10:8} El sabio de corazón acepta los mandatos; Mas el charlatán corre a su ruina.
+{10:9} El que camina en integridad anda seguro; Mas el que pervierte sus caminos será descubierto.
+{10:10} El que guiña el ojo acarrea disgustos; Y el necio de labios caerá.
+{10:11} Manantial de vida es la boca del justo; Pero la boca de los impíos encubre violencias.
+{10:12} El odio despierta rencillas; Pero el amor encubre todas las faltas.
+{10:13} En los labios del prudente se halla sabiduría; Mas la vara es para las espaldas del falto de cordura.
+{10:14} Los sabios atesoran la sabiduría; Mas la boca del necio es calamidad cercana.
+{10:15} Las riquezas del rico son su ciudad fortificada; Y el terror de los pobres es su pobreza.
+{10:16} La obra del justo es para vida; Mas el fruto del impío es para pecado.
+{10:17} Camino a la vida es guardar la instrucción; Pero quien desecha la reprensión, yerra.
+{10:18} El que encubre el odio es de labios mentirosos; Y el que propaga calumnia es necio.
+{10:19} En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente.
+{10:20} Plata escogida es la lengua del justo; Mas el corazón de los impíos es como nada.
+{10:21} Los labios del justo apacientan a muchos, Mas los necios mueren por falta de entendimiento.
+{10:22} La bendición de Jehová es la que enriquece, Y no añade tristeza con ella.
+{10:23} El hacer maldad es como una diversión al insensato; Mas la sabiduría recrea al hombre de entendimiento.
+{10:24} Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean.
+{10:25} Como pasa el torbellino, así el malo no permanece; Mas el justo permanece para siempre.
+{10:26} Como el vinagre a los dientes, y como el humo a los ojos, Así es el perezoso para los que lo envían.
+{10:27} El temor de Jehová prolonga los días; Mas los años de los impíos serán acortados.
+{10:28} La esperanza de los justos es alegría; Mas la esperanza de los impíos perecerá.
+{10:29} El camino de Jehová es fortaleza para el hombre íntegro; Pero es destrucción para los que hacen maldad.
+{10:30} El justo no será removido jamás; Pero los impíos no habitarán la tierra.
+{10:31} La boca del justo producirá sabiduría; Mas la lengua perversa será cortada.
+{10:32} Los labios del justo destilan benevolencia; Mas la boca de los impíos habla perversidades.
+{11:1} El peso falso es abominación a Jehová; Mas la pesa cabal le agrada.
+{11:2} Cuando viene la soberbia, viene también la deshonra; Mas con los humildes está la sabiduría.
+{11:3} La integridad de los rectos les allanará el camino; Pero destruirá a los pecadores la perversidad de ellos.
+{11:4} No aprovecharán las riquezas en el día de la ira; Mas la justicia libra de la muerte.
+{11:5} La justicia del perfecto enderezará su camino; Mas el impío por su impiedad caerá.
+{11:6} La justicia de los rectos los librará; Mas los pecadores serán atrapados en su pecado.
+{11:7} Cuando muere el hombre impío, perece su esperanza; Y la expectación de los malos quedará burlada.
+{11:8} El justo es librado de la tribulación; Mas el impío entra a ocupar el lugar de él.
+{11:9} El hipócrita daña con la boca a su prójimo; Mas los justos son librados con su sabiduría.
+{11:10} Con el éxito de los justos la ciudad se alegra; Mas cuando los impíos perecen hay fiesta.
+{11:11} Por la bendición de los rectos la ciudad será engrandecida; Mas por la boca de los impíos será trastornada.
+{11:12} El que menosprecia a su prójimo carece de entendimiento; Mas el hombre prudente calla.
+{11:13} El que anda en chismes divulga los secretos; Mas el de espíritu fiel oculta las cosas.
+{11:14} Donde no hay dirección sabia, caerá el pueblo; Mas en la multitud de consejeros hay seguridad.
+{11:15} Con ansiedad será afligido el que sale por fiador de un extraño; Mas el que aborreciere las fianzas vivirá seguro.
+{11:16} La mujer agraciada retendrá el honor; Y el hombre fuerte retendrá las riquezas.
+{11:17} A sí mismo se beneficia el hombre misericordioso; Mas el cruel se atormenta a sí mismo.
+{11:18} El impío consigue un jornal falso; Mas el que siembra justicia tendrá galardón firme.
+{11:19} Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte.
+{11:20} Abominación son a Jehová los perversos de corazón; Mas los de camino intachable le son agradables.
+{11:21} Tarde o temprano, el malo será castigado; Mas la descendencia de los justos será librada.
+{11:22} Como zarcillo de oro en el hocico de un cerdo Es la mujer hermosa, pero falta de razón.
+{11:23} El deseo de los justos es solamente el bien; Mas lo que les espera a los impíos es el enojo.
+{11:24} Hay quienes reparten, y les es añadido más; Y hay quienes retienen más de lo que es justo, pero vienen a pobreza.
+{11:25} El alma generosa será prosperada; Y el que saciare, él también será saciado.
+{11:26} Al que acapara el grano, el pueblo lo maldecirá; Pero habrá bendición sobre la cabeza del que lo vende.
+{11:27} El que busca el bien se procura favor; Mas al que busca el mal, éste le saldrá al encuentro.
+{11:28} El que confía en sus riquezas caerá; Mas los justos reverdecerán como el follaje.
+{11:29} El que desordena su casa heredará viento; Y el necio será siervo del sabio de corazón.
+{11:30} El fruto del justo es árbol de vida; Y el que gana almas es sabio,
+{11:31} Ciertamente el justo será recompensado en la tierra; ¡Cuánto más el impío y el pecador!
+{12:1} El que ama la instrucción ama la sabiduría; Mas el que aborrece la reprensión es un ignorante.
+{12:2} El bueno alcanzará favor de Jehová; Mas él condenará al hombre que maquina intrigas.
+{12:3} El hombre no se afianzará por medio de la impiedad; Mas la raíz de los justos no será removida.
+{12:4} La mujer virtuosa es corona de su marido; Mas la desvergonzada, como carcoma en sus huesos.
+{12:5} Los pensamientos de los justos son rectitud; Mas los consejos de los impíos, engaño.
+{12:6} Las palabras de los impíos son asechanzas para derramar sangre; Mas la boca de los rectos los pone a salvo.
+{12:7} Dios trastornará a los impíos, y dejarán de ser; Pero la casa de los justos permanecerá firme.
+{12:8} Según su sabiduría es alabado el hombre; Mas el perverso de corazón será menospreciado.
+{12:9} Más vale el despreciado que tiene un criado, Que el que se jacta, y carece de pan.
+{12:10} El justo cuida del sustento de sus bestias; Mas el corazón de los impíos es cruel.
+{12:11} El que labra su tierra se saciará de pan; Mas el que anda a la caza de naderías es falto de entendimiento.
+{12:12} El impío codicia la red de los malvados; Pero la raíz de los justos dará buen fruto.
+{12:13} El impío es enredado en la prevaricación de sus labios; Mas el justo saldrá de la tribulación.
+{12:14} El hombre será saciado de bien del fruto de su boca; Y le será pagado según la obra de sus manos.
+{12:15} El camino del necio es derecho en su opinión; Mas el que escucha los consejos es sabio.
+{12:16} El necio al punto da a conocer su ira; Mas el que no hace caso de la injuria es prudente.
+{12:17} El que habla verdad declara lo que es justo; Mas el testigo mentiroso, lo que es falso.
+{12:18} Hay hombres cuyas palabras inconsideradas son como golpes de espada; Mas la lengua de los sabios es medicina.
+{12:19} El labio veraz permanecerá para siempre; Mas la lengua mentirosa sólo por un momento.
+{12:20} Hay amargura en el corazón de los que piensan el mal; Pero alegría en el de los que piensan el bien.
+{12:21} Ninguna adversidad acontecerá al justo; Mas los impíos serán colmados de males.
+{12:22} Los labios mentirosos son abominación a Jehová; Pero los que son sinceros alcanzan su favor.
+{12:23} El hombre cuerdo encubre su saber; Mas el insensato publica su necedad.
+{12:24} La mano de los diligentes obtendrá el mando; Mas la negligencia será tributaria.
+{12:25} La congoja en el corazón del hombre lo abate; Mas la buena palabra lo alegra.
+{12:26} El justo sirve de guía a su prójimo; Mas el camino de los impíos les hace errar.
+{12:27} El indolente ni aun asará lo que ha cazado; Pero la diligencia es un tesoro para el hombre.
+{12:28} En el camino de la justicia está la vida; Mas la senda del error conduce a la muerte.
+{13:1} El hijo sabio recibe el consejo del padre; Mas el burlador no escucha las reprensiones.
+{13:2} Del fruto de su boca, el hombre justo comerá el bien; Mas el alma de los prevaricadores hallará el mal.
+{13:3} El que guarda su boca, guarda su alma; Mas el que mucho abre sus labios tendrá calamidad.
+{13:4} El alma del perezoso desea mucho, y nada alcanza; Mas el alma de los diligentes será prosperada.
+{13:5} El justo aborrece la palabra de mentira; Mas el impío se hace odioso e infame.
+{13:6} La justicia guarda al de perfecto camino; Mas la impiedad trastornará al pecador.
+{13:7} Hay quienes pretenden ser ricos, y no tienen nada; Y hay quienes pretenden ser pobres, y tienen muchas riquezas.
+{13:8} El rescate de la vida del hombre está en sus riquezas; Pero el pobre no oye amenazas.
+{13:9} La luz de los justos es alegre; Mas la lámpara de los impíos se apagará.
+{13:10} Ciertamente la soberbia concebirá contienda; Mas con los que admiten consejos está la sabiduría.
+{13:11} Las riquezas mal adquiridas vendrán a menos; Pero el que recoge con mano laboriosa, las aumenta.
+{13:12} La esperanza que se prolonga es tormento del corazón; Pero árbol de vida es el deseo cumplido.
+{13:13} El que menosprecia el precepto perecerá por ello; Mas el que teme el mandamiento será recompensado.
+{13:14} La instrucción del sabio es manantial de vida Para apartarse de los lazos de la muerte.
+{13:15} El buen sentido se gana el favor; Mas el camino de los transgresores es difícil de recorrer.
+{13:16} Todo hombre prudente procede con sabiduría; Mas el necio manifiesta su necedad.
+{13:17} El mal mensajero acarrea desgracia; Mas el mensajero fiel acarrea salud.
+{13:18} Pobreza y vergüenza tendrá el que menosprecia el consejo; Mas el que guarda la corrección recibirá honra.
+{13:19} El deseo cumplido regocija el alma; Pero apartarse del mal es abominación a los necios.
+{13:20} El que anda con sabios, sabio será; Mas el que se junta con necios se echa a perder.
+{13:21} El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien.
+{13:22} El bueno dejará herederos a los hijos de sus hijos; Pero la riqueza del pecador está reservada para el justo.
+{13:23} En el barbecho de los pobres hay mucho pan; Mas hay quien lo pierde por falta de juicio.
+{13:24} El que escatima el castigo, a su hijo aborrece; Mas el que lo ama, desde temprano lo corrige.
+{13:25} El justo come hasta saciar su alma; Mas el vientre de los impíos tendrá necesidad.
+{14:1} La sabiduría edifica su casa; Mas la necedad con sus manos la derriba.
+{14:2} El que camina en rectitud, teme a Jehová; Mas el de caminos tortuosos, lo menosprecia.
+{14:3} En la boca del necio está la raíz de su soberbia; Mas los labios de los sabios los protegerán.
+{14:4} Sin bueyes, el granero está vacío; Mas por la fuerza del buey hay abundancia de pan.
+{14:5} El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras.
+{14:6} Busca el escarnecedor la sabiduría y no la halla; Mas al hombre entendido la sabiduría le es fácil.
+{14:7} Deja la compañía del hombre necio, Porque en él no hallarás labios de ciencia.
+{14:8} La ciencia del prudente está en discernir su camino; Mas la indiscreción de los necios es engaño.
+{14:9} Los necios se mofan del pecado; Mas los rectos disfrutan del favor de Dios.
+{14:10} El corazón conoce la amargura de su propia alma; Y ningún extraño se entremeterá en su alegría.
+{14:11} La casa de los impíos será asolada; Pero florecerá la tienda de los rectos.
+{14:12} Hay camino que al hombre le parece derecho; Pero al final es un camino de muerte.
+{14:13} Aun en la risa tendrá dolor el corazón; Y el término de la alegría es congoja.
+{14:14} De sus caminos recibirá hartura el necio de corazón; Pero el hombre de bien estará contento del suyo.
+{14:15} El simple todo se lo cree; Mas el avisado mira bien sus pasos.
+{14:16} El sabio teme y se aparta del mal; Mas el insensato se muestra insolente y confiado.
+{14:17} El que fácilmente se enoja hará locuras; Y el hombre perverso será aborrecido.
+{14:18} Los simples heredarán necedad; Mas los prudentes se coronarán de sabiduría.
+{14:19} Los malos se inclinarán delante de los buenos, Y los impíos a las puertas del justo.
+{14:20} El pobre es odioso aun a sus parientes; Pero el rico tiene muchos amigos.
+{14:21} Peca el que menosprecia a su prójimo; Mas el que tiene misericordia de los pobres es dichoso.
+{14:22} ¿No yerran los que planean el mal? Misericordia y verdad alcanzarán los que piensan el bien.
+{14:23} En toda labor hay fruto; Mas las vanas palabras de los labios empobrecen.
+{14:24} Las riquezas de los sabios son su corona; Pero la insensatez de los necios es infatuación.
+{14:25} El testigo verdadero libra las almas; Mas el engañoso hablará mentiras.
+{14:26} En el temor de Jehová está la fuerte confianza; Y esperanza tendrán sus hijos.
+{14:27} El temor de Jehová es manantial de vida Para apartarse de los lazos de la muerte.
+{14:28} En la multitud del pueblo está la gloria del rey; Y en la falta del pueblo la debilidad del príncipe.
+{14:29} El que tarda en airarse es grande de entendimiento; Mas el de genio pronto, está lleno de necedad.
+{14:30} El corazón apacible es vida para el cuerpo; Mas la envidia es carcoma de los huesos.
+{14:31} El que oprime al pobre, afrenta a su Hacedor; Mas el que tiene misericordia del pobre, lo honra.
+{14:32} Por su maldad será derribado el impío; Mas el justo aun en su muerte tiene esperanza.
+{14:33} En el corazón del prudente reposa la sabiduría; Pero no es conocida en el interior de los necios.
+{14:34} La justicia engrandece a las naciones; Mas el pecado es la vergüenza de los pueblos.
+{14:35} La benevolencia del rey es para con el servidor prudente; Mas su enojo, contra el que le avergüenza.
+{15:1} La blanda respuesta calma la ira; Mas la palabra áspera hace subir el furor.
+{15:2} La lengua de los sabios adornará la sabiduría; Mas la boca de los necios hablará sandeces.
+{15:3} Los ojos de Jehová están en todo lugar, Mirando a los malos y a los buenos.
+{15:4} La lengua apacible es árbol de vida; Mas la perversidad de ella es quebrantamiento del espíritu.
+{15:5} El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente.
+{15:6} En la casa del justo hay gran provisión; Pero turbación en las ganancias del impío.
+{15:7} La boca de los sabios esparce sabiduría; No así el corazón de los necios.
+{15:8} El sacrificio de los impíos es abominación a Jehová; Mas la oración de los rectos es su delicia.
+{15:9} Abominación es a Jehová el camino del impío; Mas él ama al que sigue la justicia.
+{15:10} La reconvención es molesta al que deja el camino; Y el que aborrece la corrección, morirá.
+{15:11} El Seol y el Abadón están delante de Jehová; ¡Cuánto más los corazones de los hombres!
+{15:12} El escarnecedor no ama al que le reprende, Ni se junta con los sabios.
+{15:13} El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate.
+{15:14} El corazón inteligente busca la sabiduría; Mas la boca de los necios se alimenta de necedades.
+{15:15} Todos los días del afligido son difíciles; Mas el de corazón contento tiene un banquete continuo.
+{15:16} Mejor es lo poco con el temor de Jehová, Que el gran tesoro donde hay turbación.
+{15:17} Mejor es la comida de legumbres donde hay amor, Que de buey engordado donde hay odio.
+{15:18} El hombre iracundo promueve contiendas; Mas el que tarda en airarse apacigua la rencilla.
+{15:19} El camino del perezoso es como seto de espinos; Mas la vereda de los rectos, como una calzada.
+{15:20} El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre.
+{15:21} La necedad es alegría al falto de entendimiento; Mas el hombre entendido endereza sus pasos.
+{15:22} Los planes son frustrados donde no hay consejo; Mas con multitud de consejeros se realizan.
+{15:23} El hombre halla alegría en la respuesta de su boca; Y la palabra a su tiempo, ¡cuán buena es!
+{15:24} El camino de la vida es hacia arriba al entendido, Para apartarse del Seol abajo.
+{15:25} Jehová asolará la casa de los soberbios; Pero afirmará la heredad de la viuda.
+{15:26} Abominación son a Jehová los pensamientos del malo; Mas las expresiones de los limpios son limpias.
+{15:27} Alborota su casa el codicioso; Mas el que aborrece el soborno vivirá.
+{15:28} El corazón del justo piensa para responder, Mas la boca de los impíos derrama malas cosas.
+{15:29} Jehová está lejos de los impíos; Pero él oye la oración de los justos.
+{15:30} La luz de los ojos alegra el corazón, Y la buena nueva conforta los huesos.
+{15:31} El oído que escucha las amonestaciones de la vida, Entre los sabios morará.
+{15:32} El que tiene en poco la disciplina menosprecia su alma; Mas el que escucha la corrección tiene entendimiento.
+{15:33} El temor de Jehová es escuela de sabiduría; Y a la honra precede la humildad.
+{i16:1} Proverbios sobre la vida y la conducta
+{16:1} Del hombre son las disposiciones del corazón; Mas de Jehová es la respuesta de la lengua.
+{16:2} Todos los caminos del hombre son limpios en su propia opinión; Pero Jehová pesa los espíritus.
+{16:3} Encomienda a Jehová tus obras, Y se realizarán tus proyectos.
+{16:4} Todas las cosas las ha hecho Jehová para su destino peculiar, Y aun al impío para el día malo.
+{16:5} Abominación es a Jehová todo altivo de corazón; Ciertamente no quedará impune.
+{16:6} Con misericordia y verdad se corrige el pecado, Y con el temor de Jehová los hombres se apartan del mal.
+{16:7} Cuando los caminos del hombre son agradables a Jehová, Aun a sus enemigos hace estar en paz con él.
+{16:8} Mejor es lo poco con justicia Que la muchedumbre de frutos sin derecho.
+{16:9} El corazón del hombre planea su camino; Mas Jehová endereza sus pasos.
+{16:10} Oráculo hay en los labios del rey; En el juicio no errará su boca.
+{16:11} Peso y balanzas justas son de Jehová; Obra suya son todas las pesas de la bolsa.
+{16:12} Abominación es a los reyes hacer impiedad, Porque con justicia se afianza el trono.
+{16:13} Los labios sinceros son el contentamiento de los reyes, Y éstos aman al que habla lo recto.
+{16:14} La ira del rey es mensajero de muerte; Mas el hombre sabio la aplacará.
+{16:15} En la alegría del rostro del rey está la vida, Y su benevolencia es como nube de lluvia tardía.
+{16:16} Mejor es adquirir sabiduría que oro preciado; Y adquirir inteligencia vale más que la plata.
+{16:17} El camino de los rectos se aparta del mal; El que guarda su camino, guarda su propia vida.
+{16:18} Delante del quebrantamiento va la soberbia, Y delante de la caída, la altivez de espíritu.
+{16:19} Mejor es humillar el espíritu con los humildes. Que repartir despojos con los soberbios.
+{16:20} El que mide sus palabras hallará el bien, Y el que confía en Jehová es dichoso.
+{16:21} El sabio de corazón es tenido por prudente, Y la dulzura de labios aumenta la persuasión.
+{16:22} Manantial de vida es el entendimiento al que lo posee; Mas la erudición de los necios es necedad.
+{16:23} El corazón del sabio hace prudente a su boca, Y añade persuasión a sus labios.
+{16:24} Panal de miel son los dichos suaves; Suavidad al alma y medicina para los huesos.
+{16:25} Hay camino que parece derecho al hombre, Pero su final es camino de muerte.
+{16:26} El apetito del que trabaja, trabaja para él, Porque su boca le estimula.
+{16:27} El hombre perverso trama el mal, Y en sus labios hay como llama de fuego.
+{16:28} El hombre perverso levanta contienda. Y el chismoso aparta a los mejores amigos.
+{16:29} El hombre malo lisonjea a su prójimo, Y le hace andar por camino que no es bueno.
+{16:30} El que guiña sus ojos piensa perversidades; El que frunce sus labios, ya efectúa el mal.
+{16:31} Corona de honra son las canas, Cuando el anciano anda por el camino de justicia.
+{16:32} Mejor es el que tarda en airarse que el fuerte; Y el que se enseñorea de su espíritu, que el que toma una ciudad.
+{16:33} Las suertes se echan en el regazo; Mas de Jehová es la decisión de ellas.
+{17:1} Mejor es un bocado seco, y en paz, Que la casa de contiendas llena de provisiones.
+{17:2} El siervo prudente prevalece sobre el hijo que deshonra, Y con los hermanos compartirá la herencia.
+{17:3} El crisol para la plata, y la hornaza para el oro; Pero Jehová prueba los corazones.
+{17:4} El malo está atento al labio inicuo; Y el mentiroso escucha la lengua detractora.
+{17:5} El que escarnece al pobre, afrenta a su Hacedor; Y el que se alegra de la calamidad no quedará sin castigo.
+{17:6} Corona de los viejos son los nietos, Y la honra de los hijos, sus padres.
+{17:7} No conviene al necio la altilocuencia; ¡Cuánto menos al príncipe el labio mentiroso!
+{17:8} Es el soborno talismán para el que lo practica; Adondequiera que se vuelve, halla éxito.
+{17:9} El que cubre la falta se gana amistades; Mas el que la divulga, aparta al amigo.
+{17:10} La reprensión aprovecha al entendido, Más que cien azotes al necio.
+{17:11} El hombre malo no busca sino la rebelión, Pero se enviará contra él un mensajero cruel.
+{17:12} Mejor es encontrarse con una osa a la cual han robado sus cachorros, Que con un fatuo en su necedad.
+{17:13} El que devuelve mal por bien, No verá alejarse de su casa la desventura.
+{17:14} El que comienza la discordia es como quien suelta las aguas; Deja, pues, la contienda, antes que se enrede.
+{17:15} El que justifica al impío, y el que condena al justo, Ambos son igualmente abominación a Jehová.
+{17:16} ¿De qué sirve el precio en la mano del necio para comprar sabiduría, No teniendo entendimiento?
+{17:17} En todo tiempo ama el amigo, Y el hermano ha nacido para el tiempo de angustia.
+{17:18} El hombre falto de entendimiento presta fianzas, Y sale por fiador en favor de su vecino.
+{17:19} El que ama la disputa, ama la transgresión; Y el que alza demasiado la puerta busca su ruina.
+{17:20} El hombre de corazón falaz nunca hallará el bien, Y el de lengua doble caerá en el mal.
+{17:21} El que engendra un insensato, para su tristeza lo engendra; Y el padre de un necio no tendrá alegría.
+{17:22} El corazón alegre constituye un buen remedio; Mas el espíritu triste seca los huesos.
+{17:23} El impío toma soborno de debajo del manto, Para pervertir las sendas de la justicia.
+{17:24} En el rostro del entendido aparece la sabiduría; Mas los ojos del necio vagan hasta el extremo de la tierra.
+{17:25} El hijo necio es pesadumbre para su padre, Y amargura para la que lo dio a luz.
+{17:26} Ciertamente no es bueno condenar al justo, Ni herir a los nobles que hacen lo recto.
+{17:27} El que ahorra palabras tiene sabiduría; De espíritu prudente es el hombre entendido.
+{17:28} Aun el necio, cuando calla, es contado por sabio; El que cierra sus labios, por inteligente.
+{18:1} El hombre esquivo busca sus caprichos, Y se irrita contra todo consejo.
+{18:2} No toma placer el necio en la inteligencia, Sino en que su corazón se manifieste.
+{18:3} Cuando viene el impío, viene también el menosprecio, Y con el deshonrador, la afrenta.
+{18:4} Aguas profundas son las palabras de la boca del hombre; Y arroyo que rebosa, la fuente de la sabiduría.
+{18:5} Tener respeto a la persona del impío, Para pervertir el derecho del justo, no es bueno.
+{18:6} Los labios del necio provocan contiendas; Y su boca llama a los azotes.
+{18:7} La boca del necio es quebrantamiento para sí, Y sus labios son una trampa para su alma.
+{18:8} Las palabras del chismoso son como golosinas, Que penetran hasta el fondo de sus entrañas.
+{18:9} También el que es negligente en su trabajo Es hermano del hombre disipador.
+{18:10} Torreón fuerte es el nombre de Jehová; A él se acogerá el justo, y estará a salvo.
+{18:11} Las riquezas del rico son su ciudad fortificada, Y como un muro alto en su imaginación.
+{18:12} Antes del quebrantamiento se ensoberbece el corazón del hombre, Y antes de la honra es la humildad.
+{18:13} Responder antes de haber escuchado, Es fatuidad y oprobio.
+{18:14} El ánimo del hombre le sostiene en su enfermedad; Mas ¿quién sostendrá al animo angustiado?
+{18:15} El corazón del entendido adquiere sabiduría; Y el oído de los sabios busca la ciencia.
+{18:16} La dádiva del hombre le ensancha el camino Y le conduce a la presencia de los grandes.
+{18:17} Parece tener razón el primero que aboga por su causa; Pero viene su adversario, y le descubre.
+{18:18} La suerte pone fin a los pleitos, Y decide entre los poderosos.
+{18:19} El hermano ofendido es más tenaz que una ciudad fuerte, Y las contiendas de los hermanos son como cerrojos de alcázar.
+{18:20} Del fruto de la boca del hombre se llenará su vientre; Se saciará del producto de sus labios.
+{18:21} La muerte y la vida están en poder de la lengua, Y el que la cuida comerá de sus frutos.
+{18:22} El que halla esposa halla el bien, Y alcanza la benevolencia de Jehová.
+{18:23} El pobre habla con ruegos, Mas el rico responde durezas.
+{18:24} El hombre que tiene amigos ha de mostrarse amigo; Y hay amigo más unido que un hermano.
+{19:1} Mejor es el pobre que camina en integridad, Que el de perversos labios y fatuo.
+{19:2} El afán sin reflexión no es bueno, Y aquel que se apresura con los pies, se extravía.
+{19:3} La insensatez del hombre tuerce su camino, Y luego se irrita su corazón contra Jehová.
+{19:4} Las riquezas atraen a muchos amigos; Mas el pobre se ve apartado de su amigo.
+{19:5} El testigo falso no quedará sin castigo, Y el que habla mentiras no escapará.
+{19:6} Muchos buscan el favor del generoso, Y cada uno es amigo del hombre que da.
+{19:7} Todos los hermanos del pobre le aborrecen; ¡Cuánto más sus amigos se alejarán de él! Buscará palabras y no las hallará.
+{19:8} El que posee entendimiento ama su alma; El que guarda la inteligencia hallará el bien.
+{19:9} El testigo falso no quedará sin castigo, Y el que habla mentiras perecerá.
+{19:10} No sienta bien al necio vivir en delicias; ¡Cuánto menos al siervo ser señor de los príncipes!
+{19:11} La cordura del hombre detiene su furor, Y es un honor para él pasar por alto la ofensa.
+{19:12} Como rugido de león es la ira del rey, Y su favor como el rocío sobre la hierba.
+{19:13} Dolor es para su padre el hijo necio, Y gotera continua las contiendas de la mujer.
+{19:14} La casa y las riquezas son herencia de los padres; Mas la mujer prudente es don de Jehová.
+{19:15} La pereza hace caer en profundo sueño, Y el alma negligente padecerá hambre.
+{19:16} El que guarda el mandamiento guarda su alma; Mas el que menosprecia sus caminos morirá.
+{19:17} A Jehová presta el que da al pobre, Y el bien que ha hecho, se lo recompensará.
+{19:18} Castiga a tu hijo en tanto que hay esperanza; Mas no se apresure tu alma para destruirlo.
+{19:19} El iracundo pagará la pena; Y si se lo perdonan, añadirá nuevos males.
+{19:20} Escucha el consejo, y recibe la corrección, Para que seas sabio al final.
+{19:21} Muchos proyectos hay en el corazón del hombre; Mas el designio de Jehová es el que se cumplirá.
+{19:22} Contentamiento es a los hombres hacer misericordia; Y mejor es el pobre que el mentiroso.
+{19:23} El temor de Jehová es para vida, Y con él vivirá lleno de reposo el hombre; No será visitado por el mal.
+{19:24} El perezoso mete su mano en el plato, Y ni aun a su boca la lleva.
+{19:25} Hiere al escarnecedor, y el simple se hará avisado; Y corrigiendo al entendido, aprenderá la ciencia.
+{19:26} El que despoja a su padre y ahuyenta a su madre, Es hijo que causa vergüenza y acarrea oprobio.
+{19:27} Cesa, hijo mío, de escuchar las enseñanzas Que te apartan de las razones de sabiduría.
+{19:28} El testigo perverso se burla de la justicia, Y la boca de los impíos encubre la iniquidad.
+{19:29} Preparados están los castigos para los escarnecedores, Y los azotes para las espaldas de los necios.
+{20:1} El vino es petulante; el licor, alborotador; Y cualquiera que por ellos yerra no es sabio.
+{20:2} Como rugido de león es la cólera del rey; El que lo enfurece se hace daño a sí mismo.
+{20:3} Es un honor para el hombre evitar la contienda; Mas todo insensato se enreda en ella.
+{20:4} El perezoso no ara a causa del invierno; Pedirá, pues, en la siega, y no hallará.
+{20:5} Como aguas profundas es el consejo en el corazón del hombre; Mas el hombre entendido lo alcanzará.
+{20:6} Muchos hombres proclaman cada uno su propia bondad, Pero un hombre veraz, ¿quién lo hallará?
+{20:7} Camina en su integridad el justo; Sus hijos son dichosos después de él.
+{20:8} El rey que se sienta en el trono de juicio, Con su mirar disipa todo mal.
+{20:9} ¿Quién podrá decir: Yo he limpiado mi corazón, Limpio estoy de mi pecado?
+{20:10} Pesa falsa y medida falsa, Ambas cosas son abominación a Jehová.
+{20:11} Ya con sus actos da a conocer el niño Si su conducta va a ser limpia y recta.
+{20:12} El oído que oye, y el ojo que ve, Ambas cosas igualmente las ha hecho Jehová.
+{20:13} No ames el sueño, para que no te empobrezcas; Abre tus ojos, y te saciarás de pan.
+{20:14} El que compra dice: Malo es, malo es; Mas cuando se marcha, se congratula.
+{20:15} Hay oro y multitud de piedras preciosas; Mas los labios prudentes son joya preciosa.
+{20:16} Quítale su ropa al que salió por fiador del extraño, Y toma prenda del que sale fiador por los extraños.
+{20:17} Sabroso es al hombre el pan de mentira; Pero después su boca será llena de cascajo.
+{20:18} Los proyectos se sopesan con el consejo; Y con dirección sabia se hace la guerra.
+{20:19} El que anda en chismes descubre el secreto; No te entremetas, pues, con el suelto de lengua.
+{20:20} Al que maldice a su padre o a su madre, Se le apagará su lámpara en oscuridad tenebrosa.
+{20:21} Los bienes que se adquieren de prisa al principio, No serán al final bendecidos.
+{20:22} No digas: Yo me vengaré; Espera en Jehová, y él te salvará.
+{20:23} Abominación son a Jehová las pesas falsas, Y la balanza falsa no es buena.
+{20:24} De Jehová son los pasos del hombre; ¿Cómo, pues, entenderá el hombre su camino?
+{20:25} Lazo es al hombre hacer un voto a la ligera, Y después de haberlo hecho, reflexionar.
+{20:26} El rey sabio avienta a los impíos, Y hace tornar sobre ellos la maldad.
+{20:27} Lámpara de Jehová es el espíritu del hombre, La cual escudriña lo más profundo del corazón.
+{20:28} Misericordia y verdad guardan al rey, Y con clemencia se sustenta su trono.
+{20:29} La gloria de los jóvenes es su fuerza, Y la hermosura de los ancianos es su vejez.
+{20:30} Las marcas de los azotes son medicina para el malo, Porque los golpes purifican el corazón.
+{21:1} Como los repartimientos de las aguas, Así está el corazón del rey en la mano de Jehová; Adonde quiere lo inclina.
+{21:2} Todo camino del hombre es recto en su propia opinión; Pero Jehová pesa los corazones.
+{21:3} Practicar el derecho y la justicia Es a Jehová más agradable que los sacrificios.
+{21:4} Altivez de ojos, y orgullo de corazón, Y pensamiento de impíos, son pecado.
+{21:5} Los pensamientos del diligente ciertamente producen ganancia; Mas todo el que se apresura alocadamente, de cierto va a la pobreza.
+{21:6} Amontonar tesoros con lengua mentirosa Es vanidad pasajera de hombres que buscan la muerte.
+{21:7} La rapiña de los impíos los destruirá, Por cuanto rehúsan practicar la equidad.
+{21:8} El camino del hombre perverso es tortuoso y extraño; Mas los hechos del limpio son rectos.
+{21:9} Mejor es vivir en un rincón del terrado Que con mujer rencillosa en casa espaciosa.
+{21:10} El alma del impío desea el mal; Su prójimo no halla favor en sus ojos.
+{21:11} Cuando el escarnecedor es castigado, el simple se hace sabio; Y cuando se le amonesta al sabio, aprende ciencia.
+{21:12} El justo observa la casa del impío, Y cómo los impíos se precipitan en la ruina.
+{21:13} El que cierra su oído al clamor del pobre, También él clamará, y no será oído.
+{21:14} La dádiva en secreto calma el furor. Y el don de debajo del manto, la fuerte ira.
+{21:15} Es un placer para el justo el practicar la justicia; Mas el espanto es para los que hacen iniquidad.
+{21:16} El hombre que se aparta del camino de la sabiduría Vendrá a parar en la compañía de los muertos.
+{21:17} Hombre menesteroso vendrá a ser el que ama el deleite, Y el que ama el vino y los perfumes no se enriquecerá.
+{21:18} Rescate del justo es el impío, Y por los rectos, el prevaricador.
+{21:19} Mejor es morar en tierra desierta Que con la mujer rencillosa e iracunda.
+{21:20} Tesoro precioso y aceite hay en la casa del sabio; Mas el hombre insensato todo lo disipa.
+{21:21} El que sigue la justicia y la misericordia Hallará la vida, la prosperidad y la gloria.
+{21:22} Toma por asalto el sabio la ciudad de los fuertes, Y derriba la fortaleza en que ella confiaba.
+{21:23} El que guarda su boca y su lengua, Su alma guarda de angustias.
+{21:24} Escarnecedor es el nombre del soberbio y presuntuoso Que obra en la insolencia de su presunción.
+{21:25} El deseo del perezoso le mata, Porque sus manos no quieren trabajar.
+{21:26} Hay quien todo el día codicia; Pero el justo da sin escatimar.
+{21:27} El sacrificio de los impíos es abominación; ¡Cuánto más ofreciéndolo con mala intención!
+{21:28} El testigo mentiroso perecerá; Mas el hombre que escucha, tendrá la última palabra.
+{21:29} El hombre impío endurece su rostro; Mas el recto ordena sus caminos.
+{21:30} No hay sabiduría, ni inteligencia, Ni consejo, contra Jehová.
+{21:31} El caballo se apareja para el día de la batalla; Mas Jehová es el que da la victoria.
+{22:1} De más estima es el buen nombre que las muchas riquezas, Y la buena gracia más que la plata y el oro.
+{22:2} El rico y el pobre se encuentran; A ambos los hizo Jehová.
+{22:3} El avisado ve el mal y se esconde; Mas los simples pasan adelante y reciben el daño.
+{22:4} Riquezas, honor y vida Son la remuneración de la humildad y del temor de Jehová.
+{22:5} Espinos y lazos hay en el camino del perverso; El que guarda su alma, se alejará de ellos.
+{22:6} Instruye al niño en el buen camino, Y aun cuando envejezca no se apartará de él.
+{22:7} El rico se enseñorea de los pobres, Y el que toma prestado es siervo del que presta.
+{22:8} El que siembra iniquidad, iniquidad segará, Y la vara de su insolencia se consumirá.
+{22:9} El ojo misericordioso será bendecido, Porque da de su pan al indigente.
+{22:10} Echa fuera al escarnecedor, y se irá la contienda, Y cesarán las riñas y los insultos.
+{22:11} El que ama la limpieza de corazón, Por la gracia de sus labios tendrá la amistad del rey.
+{22:12} Los ojos de Jehová velan por la ciencia; Mas él confunde las palabras de los prevaricadores.
+{22:13} Dice el perezoso: Hay un león afuera; Seré muerto en plena calle.
+{22:14} Fosa profunda es la boca de la mujer extraña; Aquel contra el cual Jehová esté airado caerá en ella.
+{22:15} La necedad está ligada en el corazón del muchacho; Mas la vara de la corrección la alejará de él.
+{22:16} El que oprime al pobre para aumentar sus ganancias, O que da al rico, ciertamente se empobrecerá.
+{i22:17} Preceptos y amonestaciones
+{22:17} Inclina tu oído y oye las palabras de los sabios, Y aplica tu corazón a mi sabiduría;
+{22:18} Porque es cosa deliciosa, si las guardas dentro de ti; Y las tienes todas a punto sobre tus labios.
+{22:19} Para que pongas tu confianza en Jehová, Te las he hecho saber hoy a ti también.
+{22:20} ¿No te he escrito tres veces En consejos y en ciencia,
+{22:21} Para hacerte saber la certidumbre de las palabras de verdad, A fin de que vuelvas a informar fielmente a los que te enviaron?
+{22:22} No robes al pobre, porque es pobre, Ni quebrantes en la puerta al afligido;
+{22:23} Porque Jehová defenderá la causa de ellos, Y despojará el alma de aquellos que los despojaren.
+{22:24} No te juntes con el iracundo, Ni te acompañes con el hombre violento,
+{22:25} No sea que aprendas sus maneras, Y pongas trampa para tu alma.
+{22:26} No seas de aquellos que hacen tratos a la ligera, Ni de los que salen por fiadores de deudas.
+{22:27} Si no tienes para pagar, ¿Por qué han de quitar tu cama de debajo de ti?
+{22:28} No desplaces los linderos antiguos Que pusieron tus padres.
+{22:29} ¿Has visto un hombre solícito en su trabajo? Delante de los reyes estará; No estará delante de los de baja condición.
+{23:1} Cuando te sientes a comer con algún señor, Considera bien lo que está delante de ti,
+{23:2} Y pon cuchillo a tu garganta, Si eres dado a la gula.
+{23:3} No codicies sus manjares delicados, Porque es pan engañoso.
+{23:4} No te afanes por hacerte rico; Sé prudente y deja de pensar en ello.
+{23:5} ¿Has de poner tus ojos en las riquezas, siendo tan fugaces? Porque se harán alas Como alas de águila, que se remonta al cielo.
+{23:6} No comas pan con el avaro, Ni codicies sus manjares;
+{23:7} Porque cual es su pensamiento en su corazón, tal es él. Come y bebe, te dirá; Mas su corazón no está contigo.
+{23:8} Vomitarás la parte que comiste, Y perderás tus suaves palabras.
+{23:9} No hables a oídos del necio, Porque menospreciará la prudencia de tus razones.
+{23:10} No desplaces el lindero antiguo, Ni entres en la heredad de los huérfanos;
+{23:11} Porque el defensor de ellos es el Fuerte, El cual defenderá la causa de ellos contra ti.
+{23:12} Aplica tu corazón a la instrucción, Y tus oídos a las palabras de sabiduría.
+{23:13} No rehúses corregir al muchacho; Porque si lo castigas con vara, no morirá.
+{23:14} Lo castigarás con vara, Y preservarás su alma del Seol.
+{23:15} Hijo mío, si tu corazón es sabio, También a mí se me alegrará el corazón;
+{23:16} Mis entrañas también se alegrarán Cuando tus labios hablen cosas rectas.
+{23:17} No tenga tu corazón envidia de los pecadores, Sino que permanezca en el temor de Jehová todo el tiempo;
+{23:18} Porque ciertamente existe un mañana, Y tu esperanza no será cortada.
+{23:19} Escucha, hijo mío, y sé sabio, Y endereza tu corazón al camino recto.
+{23:20} No estés con los bebedores de vino, Ni con los engullidores de carne;
+{23:21} Porque el bebedor y el comilón empobrecerán, Y la somnolencia hará vestir vestidos rotos.
+{23:22} Oye a tu padre, a aquel que te engendró; Y cuando tu madre envejezca, no la menosprecies.
+{23:23} Compra la verdad, y no la vendas; La sabiduría, la instrucción y la inteligencia.
+{23:24} Mucho se alegrará el padre del justo, Y el que engendra al sabio se gozará con él.
+{23:25} Alégrense tu padre y tu madre, Y gócese la que te dio a luz.
+{23:26} Dame, hijo mío, tu corazón, Y miren tus ojos por mis caminos.
+{23:27} Porque abismo profundo es la ramera, Y pozo angosto la extraña.
+{23:28} También ella, como robador, acecha, Y multiplica entre los hombres los prevaricadores.
+{23:29} ¿Para quién será el ay? ¿Para quién el dolor? ¿Para quién las rencillas? ¿Para quién las quejas? ¿Para quién las heridas sin razón? ¿Para quién los ojos turbios?
+{23:30} Para los que se detienen mucho en el vino, Para los que van buscando las mezclas alcohólicas.
+{23:31} No mires al vino cuando rojea, Cuando resplandece su color en la copa. Se entra suavemente;
+{23:32} Mas al fin como serpiente morderá, Y como áspid dará dolor.
+{23:33} Tus ojos verán cosas extrañas, Y tu corazón hablará perversidades.
+{23:34} Serás como el que yace en medio del mar, O como el que está en la punta de un mástil.
+{23:35} Y dirás: Me hirieron, mas no me dolió; Me azotaron, mas no lo sentí; Cuando despierte, aún volveré a pedir más.
+{24:1} No tengas envidia de los hombres malos, Ni desees estar con ellos;
+{24:2} Porque su corazón piensa en robar, Y sus labios hablan iniquidad.
+{24:3} Con sabiduría se edifica una casa, Y con prudencia se consolida;
+{24:4} Y con ciencia se llenan las estancias De todo bien preciado y agradable.
+{24:5} El hombre sabio es fuerte, Y de pujante vigor el hombre docto.
+{24:6} Porque con estrategia se gana la guerra, Y en la multitud de consejeros está la victoria.
+{24:7} Inaccesible es para el insensato la sabiduría; En la puerta no abrirá él su boca.
+{24:8} Al que maquina hacer el mal, Le llamarán forjador de intrigas.
+{24:9} El pensamiento del necio es pecado, Y abominación a los hombres el escarnecedor.
+{24:10} Si eres flojo en el día de trabajo, Tu fuerza será reducida.
+{24:11} Libra a los que son llevados a la muerte; Salva a los que están en peligro de muerte.
+{24:12} Porque si dices falsamente: No nos dimos cuenta, ¿Acaso no lo sabrá el que pesa los corazones? El que vigila tu vida, él lo conocerá, Y dará al hombre según sus obras.
+{24:13} Come, hijo mío, de la miel, porque es buena, Y el panal es dulce a tu paladar.
+{24:14} Así será a tu alma el conocimiento de la sabiduría; Si la hallas tendrás recompensa, Y al fin tu esperanza no se verá defraudada.
+{24:15} Oh impío, no aceches la tienda del justo, No saquees su morada;
+{24:16} Porque siete veces cae el justo, y vuelve a levantarse; Mas los impíos se hundirán en la desgracia.
+{24:17} Cuando caiga tu enemigo, no te regocijes, Y cuando tropiece, no se alegre tu corazón;
+{24:18} No sea que Jehová lo mire, y le desagrade, Y aparte de sobre él su enojo.
+{24:19} No te exasperes por los malvados, Ni tengas envidia de los impíos;
+{24:20} Porque para el malo no habrá buen fin, Y la lámpara de los impíos será apagada.
+{24:21} Teme a Jehová, hijo mío, y al rey; No provoques a ira a ninguno de los dos;
+{24:22} Porque su castigo vendrá de repente; Y el furor de ambos, ¿quién lo podrá prever?
+{24:23} También éstos son dichos de los sabios: Hacer acepción de personas en el juicio no es bueno.
+{24:24} El que dice al malo: Justo eres, Los pueblos lo maldecirán, y le detestarán las naciones;
+{24:25} Mas los que lo reprenden tendrán felicidad, Y sobre ellos vendrá gran bendición.
+{24:26} Besados serán los labios Del que responde palabras rectas.
+{24:27} Termina tus labores fuera, Y disponlas en tus campos, Y después edificarás tu casa.
+{24:28} No seas sin motivo testigo contra tu prójimo, Y no lisonjees con tus labios.
+{24:29} No digas: Como me hizo, así le haré; Daré el pago al hombre según su obra.
+{24:30} Pasé junto al campo del hombre perezoso, Y junto a la viña del hombre falto de entendimiento;
+{24:31} Y he aquí que por toda ella habían crecido los espinos, Las ortigas habían ya cubierto su faz, Y su cerca de piedras estaba ya destruida.
+{24:32} Miré, y reflexioné; Lo vi, y aproveché la lección.
+{24:33} Un poco de sueño, cabeceando otro poco, Poniendo mano sobre mano otro poco para dormir;
+{24:34} Así vendrá como vagabundo tu indigencia, Y tu pobreza como hombre armado.
+{i25:1} Comparaciones y lecciones morales
+{25:1} También éstos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá:
+{25:2} Gloria de Dios es encubrir un asunto; Pero honra del rey es escudriñarlo.
+{25:3} Para la altura de los cielos, y para la profundidad de la tierra, Y para el corazón de los reyes, no hay investigación posible.
+{25:4} Quita las escorias de la plata, Y saldrá una alhaja para el fundidor.
+{25:5} Aparta al impío de la presencia del rey, Y su trono se afianzará en la justicia.
+{25:6} No te alabes delante del rey, Ni te metas en el lugar de los grandes;
+{25:7} Porque mejor es que se te diga: Sube acá, Y no que seas humillado delante del príncipe A quien han visto tus ojos.
+{25:8} No entres apresuradamente en pleito, No sea que no sepas qué hacer al fin, Después que tu prójimo te haya avergonzado.
+{25:9} Arregla tu pleito con tu vecino, Y no descubras el secreto a otro,
+{25:10} No sea que te deshonre el que lo oiga, Y tu infamia no pueda repararse.
+{25:11} Manzana de oro en bandeja de plata Es la palabra dicha como conviene.
+{25:12} Como zarcillo de oro y joyel de oro fino Es el que reprende al sabio que tiene oído dócil.
+{25:13} Como refrigerio de nieve en tiempo de la siega, Así es el mensajero fiel para los que lo envían, Pues reconforta el alma de su señor.
+{25:14} Como nubes y vientos sin lluvia, Así es el hombre que se jacta de falsa liberalidad.
+{25:15} Con larga paciencia se aplaca el príncipe, Y la lengua blanda quebranta los huesos.
+{25:16} ¿Hallaste miel? Come lo que te basta, No sea que hastiado de ella la vomites.
+{25:17} Detén tu pie de la casa de tu vecino, No sea que hastiado de ti te aborrezca.
+{25:18} Martillo y cuchillo y saeta aguda Es el hombre que habla contra su prójimo falso testimonio.
+{25:19} Como diente roto y pie descoyuntado Es la confianza en el prevaricador en tiempo de angustia.
+{25:20} El que canta canciones al corazón afligido Es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre.
+{25:21} Si el que te aborrece tiene hambre, dale de comer pan, Y si tiene sed, dale de beber agua;
+{25:22} Porque amontonarás ascuas sobre su cabeza, Y Jehová te lo pagará.
+{25:23} El viento del norte engendra la lluvia, Y la lengua detractora el rostro airado.
+{25:24} Mejor es estar en un rincón del terrado, Que con mujer rencillosa en casa espaciosa.
+{25:25} Como el agua fresca para el alma sedienta, Así son las buenas nuevas de lejanas tierras.
+{25:26} Como fuente turbia y manantial corrompido, Es el justo que titubea delante del impío.
+{25:27} Comer demasiada miel no es bueno, Ni el buscar la propia gloria es gloria.
+{25:28} Como ciudad derribada y sin muro Es el hombre cuyo espíritu no tiene rienda.
+{26:1} Como no conviene la nieve en el verano, ni la lluvia en la siega, Así no conviene al necio la honra.
+{26:2} Como el gorrión en su vagar, y como la golondrina en su vuelo, Así la maldición sin motivo no llega a término.
+{26:3} El látigo para el caballo, el cabestro para el asno, Y la vara para la espalda del necio.
+{26:4} Nunca respondas al necio de acuerdo con su necedad, Para que no seas tú también como él.
+{26:5} Responde al necio como merece su necedad, No sea que vaya a creerse que es un sabio.
+{26:6} Como el que se corta los pies y bebe su amargura, Así es el que envía recado por mano de un necio.
+{26:7} Las piernas del cojo penden inútiles; Así es el proverbio en la boca del necio.
+{26:8} Como quien ata la piedra en la honda, Así hace el que da honra al necio.
+{26:9} Espinas hincadas en mano del embriagado, Tal es el proverbio en la boca de los necios.
+{26:10} Como arquero que hiere a todos los transeúntes, Es el que toma a sueldo insensatos y vagabundos.
+{26:11} Como perro que vuelve a su vómito, Así es el necio que repite su necedad.
+{26:12} ¿Has visto hombre sabio en su propia opinión? Más esperanza hay del necio que de él.
+{26:13} Dice el perezoso: Hay un león en el camino; Hay un león en la calle.
+{26:14} Como la puerta gira sobre sus quicios, Así el perezoso da vueltas en su cama.
+{26:15} Mete el perezoso su mano en el plato; Y se cansa de llevársela a la boca.
+{26:16} En su propia opinión el perezoso es más sabio Que siete que sepan aconsejar.
+{26:17} El que al pasar se entremete en disputa que no le incumbe, Es como el que toma al perro por las orejas.
+{26:18} Como el que enloquece, y echa llamas Y saetas y muerte,
+{26:19} Tal es el hombre que engaña a su amigo, Y dice: Ciertamente lo hice por broma.
+{26:20} Sin leña se apaga el fuego, Y donde no hay chismoso, cesa la contienda.
+{26:21} El carbón para brasas, y la leña para el fuego; Y el hombre rencilloso para encender contienda.
+{26:22} Las palabras del chismoso son como golosinas, Y penetran hasta las entrañas.
+{26:23} Como escoria de plata que barniza la loza, Son los labios lisonjeros con un corazón malo.
+{26:24} El que odia disimula con sus labios; Mas en su interior maquina engaño.
+{26:25} Aunque hable en tono amable, no le creas; Porque siete abominaciones hay en su corazón.
+{26:26} Aunque su odio se cubra con disimulo, Su maldad será descubierta en la congregación.
+{26:27} El que cava foso caerá en él; Y al que hace rodar una piedra grande, se le vendrá encima.
+{26:28} La lengua falsa atormenta al que ya es su víctima, Y la boca lisonjera empuja hacia el precipicio.
+{27:1} No te jactes del día de mañana; Porque no sabes qué dará de sí el día.
+{27:2} Alábete el extraño, y no tu propia boca; El ajeno, y no los labios tuyos.
+{27:3} Pesada es la piedra, y la arena pesa; Mas la ira del necio es más pesada que ambas.
+{27:4} Cruel es la ira, e impetuoso el furor; Mas ¿quién podrá sostenerse delante de la envidia?
+{27:5} Mejor es reprensión manifiesta Que amor encubierto.
+{27:6} Fieles son las heridas del que ama; Pero importunos los besos del que aborrece.
+{27:7} El hombre saciado desprecia el panal de miel; Pero al hambriento todo lo amargo es dulce.
+{27:8} Cual ave que se va de su nido, Tal es el hombre que se va de su lugar.
+{27:9} El ungüento y el perfume alegran el corazón, Y el cordial consejo del amigo consuela al hombre.
+{27:10} No dejes a tu amigo, ni al amigo de tu padre; Y no tendrás que ir a la casa de tu hermano en el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos.
+{27:11} Sé sabio, hijo mío, y alegra mi corazón, Y tendré qué responder al que me agravie.
+{27:12} El avisado ve el peligro y se esconde; Mas los simples siguen adelante y reciben el daño.
+{27:13} Quítale su ropa al que salió fiador por el extraño; Y al que fía a una extranjera, tómale prenda.
+{27:14} El que bendice a su amigo en alta voz, en la mañana temprano, Por maldición se le contará.
+{27:15} Gotera continua en tiempo de lluvia Y la mujer rencillosa, son semejantes;
+{27:16} Pretender contenerla es como refrenar el viento, O sujetar aceite con la mano derecha.
+{27:17} Hierro con hierro se aguza; Y así el hombre aguza el rostro de su amigo.
+{27:18} Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra.
+{27:19} Como mirándose en el agua, el rostro responde al rostro, Así el corazón del hombre responde al hombre.
+{27:20} El Seol y el Averno nunca se sacian; Así los ojos del hombre nunca están satisfechos.
+{27:21} Como el crisol prueba la plata, y la hornaza el oro, Así es para el hombre la boca del que lo alaba.
+{27:22} Aunque machaques al necio en un mortero entre granos de trigo majados con el pisón, No se apartará de él su necedad.
+{27:23} Sé diligente en conocer el estado de tus ovejas, Y mira con cuidado por tus rebaños;
+{27:24} Porque las riquezas no duran para siempre; Ni las diademas para perpetuas generaciones.
+{27:25} Saldrá la grama, aparecerá la hierba, Y se segarán las hierbas de los montes.
+{27:26} Los corderos son para tus vestidos, Y los cabritos para el precio del campo;
+{27:27} Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa, Y para sustento de tus criadas.
+{i28:1} El justo y el impío
+{28:1} Huye el impío sin que nadie lo persiga; Mas el justo está confiado como un león.
+{28:2} Por la rebelión de la tierra se multiplican sus príncipes; Mas por el hombre entendido y sabio permanece estable.
+{28:3} El hombre pobre y explotador de los pobres Es como lluvia torrencial que deja sin pan.
+{28:4} Los que dejan la ley alaban a los impíos; Mas los que la guardan contenderán con ellos.
+{28:5} Los hombres malos no entienden el derecho; Mas los que buscan a Jehová entienden todas las cosas.
+{28:6} Mejor es el pobre que camina en su integridad, Que el de perversos caminos y rico.
+{28:7} El que guarda la ley es hijo prudente; Mas el que es compañero de libertinos avergüenza a su padre.
+{28:8} El que aumenta sus riquezas con usura y crecido interés, Para otro que se compadecerá de los pobres las aumenta.
+{28:9} El que aparta su oído para no oír la ley, Su oración también es abominable.
+{28:10} El que hace errar a los rectos por el mal camino, Él caerá en su misma fosa; Mas los intachables heredarán la dicha.
+{28:11} El hombre rico es sabio en su propia opinión; Mas el pobre entendido lo escudriña.
+{28:12} Cuando los justos se alegran, grande es la gloria; Mas cuando se levantan los impíos, tienen que esconderse los hombres.
+{28:13} El que encubre sus pecados no prosperará; Mas el que los confiesa y se enmienda alcanzará misericordia.
+{28:14} Dichoso el hombre que siempre teme a Dios; Mas el que endurece su corazón caerá en el mal.
+{28:15} León rugiente y oso hambriento Es el príncipe impío sobre el pueblo pobre.
+{28:16} El príncipe falto de entendimiento multiplicará la extorsión; Mas el que aborrece la avaricia prolongará sus días.
+{28:17} El hombre cargado con la sangre de alguno Huirá hasta el sepulcro, y nadie le detendrá.
+{28:18} El que camina en integridad será salvo; Mas el de perversos caminos caerá en alguno de ellos.
+{28:19} El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza.
+{28:20} El hombre sincero tendrá muchas bendiciones; Mas el que se apresura a enriquecerse no quedará impune.
+{28:21} Hacer acepción de personas no es bueno; Hasta por un bocado de pan peca el hombre.
+{28:22} Se apresura a ser rico el avaro, Y no sabe que le ha de sobrevenir la indigencia.
+{28:23} El que reprende al hombre, hallará después mayor estima Que el que lisonjea con la lengua.
+{28:24} El que roba a su padre o a su madre, y dice que no es maldad, Compañero es de los bandidos.
+{28:25} El altivo de ánimo suscita contiendas; Mas el que confía en Jehová será prosperado.
+{28:26} El que confía en su propio corazón es necio; Mas el que camina en sabiduría será librado.
+{28:27} El que da al pobre no tendrá pobreza; Mas el que aparta sus ojos tendrá muchas maldiciones.
+{28:28} Cuando los impíos se alzan, se esconden los hombres; Mas cuando perecen, los justos se multiplican.
+{29:1} El hombre que reprendido endurece la cerviz, De repente será quebrantado, y no habrá para él medicina.
+{29:2} Cuando los justos dominan, el pueblo se alegra; Mas cuando domina el impío, el pueblo gime.
+{29:3} El hombre que ama la sabiduría alegra a su padre; Mas el que frecuenta las rameras perderá los bienes.
+{29:4} El rey afianza su país por medio de la justicia; Mas el que lo carga de impuestos lo destruye.
+{29:5} El hombre que lisonjea a su prójimo, Tiende un lazo delante de sus pasos.
+{29:6} En la transgresión del hombre malo, hay lazo; Mas el justo cantará y se alegrará.
+{29:7} Conoce el justo la causa de los pobres; Mas el impío no entiende sabiduría.
+{29:8} Los hombres escarnecedores ponen la ciudad en llamas; Mas los sabios calman la ira.
+{29:9} Si el hombre sabio disputa con el necio, Que se enoje o que se ría, no tendrá reposo.
+{29:10} Los hombres sanguinarios aborrecen al íntegro, Mas los rectos van en busca de su persona.
+{29:11} El necio da rienda suelta a toda su ira, Mas el sabio al fin la sosiega.
+{29:12} Si un gobernante hace caso de palabras mentirosas, Todos sus servidores serán impíos.
+{29:13} El pobre y el opresor se encuentran; Jehová alumbra los ojos de ambos.
+{29:14} El rey que juzga con verdad a los desvalidos, Afianza su trono para siempre.
+{29:15} La vara y la corrección dan sabiduría; Mas el muchacho consentido avergonzará a su madre.
+{29:16} Cuando los impíos son muchos, mucha es la transgresión; Mas los justos verán la ruina de ellos.
+{29:17} Corrige a tu hijo, y te dará descanso, Y dará alegría a tu alma.
+{29:18} Sin profecía el pueblo se desenfrena; Mas el que guarda la ley es dichoso.
+{29:19} El siervo no se corrige con palabras; Porque entiende, mas no hace caso.
+{29:20} ¿Has visto a un hombre ligero en sus palabras? Más esperanza hay del necio que de él.
+{29:21} El siervo mimado desde la niñez por su amo, A la postre será su heredero.
+{29:22} El hombre iracundo levanta contiendas, Y el furioso peca muchas veces.
+{29:23} La soberbia del hombre le abate; Pero el humilde de espíritu recibe honores.
+{29:24} El cómplice del ladrón aborrece su propia alma; Pues oye la imprecación y no lo denuncia.
+{29:25} El que teme a los hombres caerá en el lazo; Mas el que confía en Jehová será puesto en lugar seguro.
+{29:26} Muchos buscan el favor del príncipe; Mas de Jehová viene el juicio de cada uno.
+{29:27} Abominación es a los justos el hombre inicuo; Y abominación es al impío el de caminos rectos.
+{i30:1} Las palabras de Agur
+{30:1} Palabras de Agur, hijo de Jaqué, el de Massá; la profecía que dijo el varón a Itiel, a Itiel y a Ucal.
+{30:2} Ciertamente más rudo soy yo que ninguno, Ni tengo entendimiento de hombre.
+{30:3} Yo ni aprendí sabiduría, Ni conozco la ciencia del Santo.
+{30:4} ¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál es su nombre, y el nombre de su hijo, si lo sabes?
+{30:5} Toda palabra de Dios es limpia; Él es escudo a los que en él esperan.
+{30:6} No añadas nada a sus palabras, para que no te reprenda, Y seas hallado mentiroso.
+{30:7} Dos cosas te pido; No me las niegues antes que muera:
+{30:8} Aparta de mí falsedad y mentira; No me des pobreza ni riquezas; Concédeme mi diaria ración de pan;
+{30:9} No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová? O que siendo pobre, hurte, Y profane el nombre de mi Dios.
+{30:10} No calumnies al siervo ante su señor, No sea que te maldiga, y sufras el castigo.
+{30:11} Hay gente que maldice a su padre Y a su madre no bendice.
+{30:12} Hay gente pura en su propia opinión, Si bien no se ha limpiado de su inmundicia.
+{30:13} Hay gente cuyos ojos son altivos Y cuyos párpados están levantados en alto.
+{30:14} Hay gente cuyos dientes son espadas, y sus muelas cuchillos, Para devorar a los pobres de la tierra, y a los menesterosos de entre los hombres.
+{30:15} La sanguijuela tiene dos hijas que dicen: ¡Dame!, ¡dame! Tres cosas hay que nunca se sacian; Y una cuarta que nunca dice: ¡Basta!
+{30:16} El Seol, la matriz estéril, La tierra que no se sacia de aguas, Y el fuego que jamás dice: ¡Basta!
+{30:17} El ojo que escarnece a su padre Y menosprecia la enseñanza de la madre, Los cuervos de la cañada lo saquen, Y lo devoren los hijos del águila.
+{30:18} Tres cosas me son ocultas; Y una cuarta que no comprendo:
+{30:19} El rastro del águila en el aire; El rastro de la culebra sobre la peña; El rastro de la nave en medio del mar; Y el rastro del hombre en la doncella.
+{30:20} El proceder de la mujer adúltera es así: Come, y limpia su boca Y dice: No he hecho nada malo.
+{30:21} Por tres cosas tiembla la tierra, Y la cuarta no la puede soportar:
+{30:22} Por el siervo cuando reina; Por el necio cuando se sacia de pan;
+{30:23} Por la mujer desdeñada cuando se casa; Y por la sierva cuando suplanta a su señora.
+{30:24} Cuatro cosas son de las más pequeñas de la tierra, Pero son más sabias que los sabios:
+{30:25} Las hormigas, multitud sin fuerza, Y en el verano preparan su comida;
+{30:26} Los damanes, multitud sin poder, Y ponen su casa en la piedra;
+{30:27} Las langostas, que no tienen rey, Y salen todas por escuadrones;
+{30:28} La araña que se coge con sus patas, Y está en palacios de rey.
+{30:29} Tres cosas hay de hermoso andar, Y la cuarta pasea muy bien:
+{30:30} El león, fuerte entre todos los animales, Que no retrocede ante nada;
+{30:31} El brioso caballo; asimismo el macho cabrío; Y el rey, al frente de su ejército.
+{30:32} Si neciamente has procurado enaltecerte, O si has pensado hacer mal, Pon el dedo sobre tu boca.
+{30:33} Ciertamente el que bate la leche sacará mantequilla; El que se suena fuerte las narices sacará sangre; Y el que provoca la ira causará contienda.
+{i31:1} Exhortación a un rey
+{31:1} Palabras de Lemuel rey de Massá; el oráculo con que le enseñó su madre.
+{31:2} ¿Qué, hijo mío?; ¿y qué, hijo de mi vientre? ¿Y qué, hijo de mis deseos?
+{31:3} No des a las mujeres tu fuerza, Ni tus caminos a lo que destruye a los reyes.
+{31:4} No es para los reyes, oh Lemuel, no es para los reyes beber vino, Ni para los príncipes los licores;
+{31:5} No sea que bebiendo olviden la ley, Y perviertan el derecho de todos los afligidos.
+{31:6} Dad el licor fuerte al desfallecido, Y el vino a los de amargado ánimo.
+{31:7} Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más.
+{31:8} Abre tu boca a favor del mudo En el juicio de todos los desvalidos.
+{31:9} Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso.
+{i31:10} Elogio de la mujer hacendosa
+{31:10} Mujer virtuosa, ¿quién la hallará? Porque su valía sobrepasa largamente a la de las piedras preciosas.
+{31:11} El corazón de su marido confía en ella, Y no carecerá de ganancias.
+{31:12} Le aporta ella dicha y no desventura Todos los días de su vida.
+{31:13} Busca lana y lino, Y con ánimo alegre trabaja con sus manos.
+{31:14} Es como nave de mercader; Trae de lejos sus provisiones.
+{31:15} Se levanta cuando todavía es de noche Y da comida a su familia Y labor a sus criadas.
+{31:16} Observa una finca, y la compra, Y planta una viña del fruto de sus manos.
+{31:17} Ciñe con fuerza sus lomos, Y esfuerza sus brazos.
+{31:18} Ve que van bien sus negocios; Su lámpara no se apaga de noche.
+{31:19} Aplica su mano al huso, Y sus palmas sostienen la rueca.
+{31:20} Alarga su palma al pobre, Y extiende sus manos al menesteroso.
+{31:21} No tiene temor de la nieve por su familia, Porque toda su familia está vestida de trajes forrados.
+{31:22} Ella se hace tapices; De lino fino y púrpura es su vestido.
+{31:23} Su marido es conocido en las puertas, Cuando se sienta con los ancianos de la tierra,
+{31:24} Hace telas, y las vende, Y da ceñidores al mercader.
+{31:25} Fuerza y honor son su vestidura; Y sonríe ante el porvenir.
+{31:26} Abre su boca con sabiduría, Y la instrucción bondadosa está en su lengua.
+{31:27} Vigila los caminos de su familia, Y no come el pan de balde.
+{31:28} Se levantan sus hijos y la llaman dichosa; Y su marido también la alaba:
+{31:29} Muchas mujeres se mostraron virtuosas; Mas tú las sobrepasas a todas.
+{31:30} Engañosa es la gracia, y vana la hermosura; La mujer que teme a Jehová, ésa será alabada.
+{31:31} Dadle del fruto de sus manos, Y alábenla en las puertas sus hechos.

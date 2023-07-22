@@ -1,0 +1,150 @@
+{1:1} Süleyman'ın Ezgiler Ezgisi.
+{i1:2} Kız
+{1:2} Beni dudaklarıyla öptükçe öpsün! Çünkü aşkın şaraptan daha tatlı.
+{1:3} Ne güzel kokuyor sürdüğün esans, Dökülmüş esans sanki adın, Kızlar bu yüzden seviyor seni.
+{1:4} Al götür beni, haydi koşalım! Kral beni odasına götürsün. Seninle coşup seviniriz, Aşkını şaraptan çok överiz. Ne kadar haklılar seni sevmekte!
+{i1:5} Kızın arkadaşları Kız
+{1:5} Esmerim ben, ama güzelim, Ey Yeruşalim kızları! Kedar'ın çadırları gibi, Süleyman'ın çadır bezleri gibi kara.
+{1:6} Bakmayın esmer olduğuma, Güneş kararttı beni. Çünkü kızdılar bana erkek kardeşlerim, Bağlara bakmakla görevlendirdiler. Ama kendi bağıma bakmadım.
+{1:7} Ey sevgilim, söyle bana, sürünü nerede otlatıyorsun, Öğleyin nerede yatırıyorsun? Neden arkadaşlarının sürüleri yanında Yüzünü örten bir kadın durumuna düşeyim?
+{i1:8} Kızın Arkadaşları
+{1:8} Ey güzeller güzeli, Bilmiyorsan, Sürünün izine çık, Çobanların çadırları yanında Oğlaklarını otlat.
+{i1:9} Erkek
+{1:9} Firavunun arabalarına koşulu kısrağa benzetiyorum seni, aşkım benim!
+{1:10} Yanakların süslerle, Boynun gerdanlıklarla ne güzel!
+{1:11} Sana gümüş düğmelerle altın süsler yapacağız.
+{i1:12} Kız
+{1:12} Kral divandayken, Hintsümbülümün güzel kokusu yayıldı.
+{1:13} Memelerim arasında yatan Mür dolu bir kesedir benim için sevgilim;
+{1:14} Eyn-Gedi bağlarında Bir demet kına çiçeğidir benim için sevgilim.
+{i1:15} Erkek
+{1:15} Ah, ne güzelsin, aşkım, ah, ne güzel! Gözlerin tıpkı birer güvercin!
+{i1:16} Kız
+{1:16} Ne yakışıklısın, sevgilim, ah, ne çekici! Yeşilliktir yatağımız.
+{i1:17} Erkek
+{1:17} Sedir ağaçlarıdır evimizin kirişleri, Tavanımızın tahtaları ardıçlar.
+{i2:1} Kız
+{2:1} Ben Şaron çiğdemiyim, Vadilerin zambağıyım.
+{i2:2} Erkek
+{2:2} Dikenlerin arasında zambak nasılsa Kızların arasında öyledir aşkım.
+{i2:3} Kız
+{2:3} Orman ağaçları arasında bir elma ağacına benzer Delikanlıların arasında sevgilim. Onun gölgesinde oturmaktan zevk alırım, Tadı damağımda kalır meyvesinin.
+{2:4} Ziyafet evine götürdü beni, Üzerimdeki sancağı aşktı.
+{2:5} Güçlendirin beni üzüm pestiliyle, Canlandırın elmayla, Çünkü aşk hastasıyım ben.
+{2:6} Sol eli başımın altında, Sağ eli sarsın beni.
+{2:7} Dişi ceylanlar, Yabanıl dişi geyikler üstüne Ant içiriyorum size, ey Yeruşalim kızları! Aşkımı ayıltmayasınız, uyandırmayasınız diye, Gönlü hoş olana dek.
+{2:8} İşte! Sevgilimin sesi! Dağların üzerinden sekerek, Tepelerin üzerinden sıçrayarak geliyor.
+{2:9} Sevgilim ceylana benzer, sanki bir geyik yavrusu. Bakın, duvarımızın ardında duruyor, Pencerelerden bakıyor, Kafeslerden seyrediyor.
+{2:10} Sevgilim şöyle dedi: “Kalk, gel aşkım, güzelim.
+{2:11} Bak, kış geçti, Yağmurların ardı kesildi,
+{2:12} Çiçekler açtı, Şarkı mevsimi geldi, Kumrular ötüşmeye başladı beldemizde.
+{2:13} İncir ağacı ilk meyvesini verdi, Yeşeren asmalar mis gibi kokular saçmakta. Kalk, gel aşkım, güzelim.”
+{i2:14} Erkek
+{2:14} Kaya kovuklarında, Uçurum kenarlarında gizlenen güvercinim! Boyunu bosunu göster bana, Sesini duyur; Çünkü sesin tatlı, boyun bosun güzeldir.
+{2:15} Yakalayın tilkileri bizim için, Bağları bozan küçük tilkileri; Çünkü bağlarımız yeşerdi.
+{i2:16} Kız
+{2:16} Sevgilim benimdir, ben de onun, Zambaklar arasında gezinir durur.
+{2:17} Ey sevgilim, gün serinleyip gölgeler uzayana dek, Engebeli dağlar üzerinde bir ceylan gibi, Geyik yavrusu gibi ol!
+{3:1} Gece boyunca yatağımda Sevgilimi aradım, Aradım, ama bulamadım.
+{3:2} “Kalkıp kenti dolaşayım, Sokaklarda, meydanlarda sevgilimi arayayım” dedim, Aradım, ama bulamadım.
+{3:3} Kenti dolaşan bekçiler buldu beni, “Sevgilimi gördünüz mü?” diye sordum.
+{3:4} Onlardan ayrılır ayrılmaz Sevgilimi buldum. Tuttum onu, bırakmadım; Annemin evine, Beni doğuran kadının odasına götürünceye dek.
+{3:5} Dişi ceylanlar, Yabanıl dişi geyikler üstüne Ant içiriyorum size, ey Yeruşalim kızları! Aşkımı ayıltmayasınız, uyandırmayasınız diye, Gönlü hoş olana dek.
+{3:6} Kimdir bu kırdan çıkan, Bir duman sütunu gibi, Tüccarın türlü türlü baharatıyla, Mür ve günnükle tütsülenmiş?
+{3:7} İşte Süleyman'ın tahtırevanı! İsrailli yiğitlerden Altmış kişi eşlik ediyor ona.
+{3:8} Hepsi kılıç kuşanmış, eğitilmiş savaşçı. Gecenin tehlikelerine karşı, Hepsinin kılıcı belinde.
+{3:9} Kral Süleyman tahtırevanı Lübnan ağaçlarından yaptı.
+{3:10} Direklerini gümüşten, Tabanını altından yaptı. Koltuğu mor kumaşla kaplıydı. İçini sevgiyle döşemişti Yeruşalim kızları.
+{3:11} Dışarı çıkın, ey Siyon kızları! Düğününde, mutlu gününde Annesinin verdiği tacı giymiş Kral Süleyman'ı görün.
+{i4:1} Erkek
+{4:1} Ah, ne güzelsin, aşkım, ah, ne güzel! Peçenin ardındaki gözlerin güvercinler gibi. Siyah saçların Gilat Dağı'nın yamaçlarından inen Keçi sürüsü sanki.
+{4:2} Yeni kırkılıp yıkanmış, Sudan çıkmış koyun sürüsü gibi dişlerin, Hepsinin ikizi var. Yavrusunu yitiren yok aralarında.
+{4:3} Al kurdele gibi dudakların, Ağzın ne güzel! Peçenin ardındaki yanakların Nar parçası sanki.
+{4:4} Boynun Davut'un kulesi gibi, Kakma taşlarla yapılmış, Üzerine bin kalkan asılmış, Hepsi de birer yiğit kalkanı.
+{4:5} Sanki bir çift geyik yavrusu memelerin Zambaklar arasında otlayan İkiz ceylan yavrusu.
+{4:6} Gün serinleyip gölgeler uzayınca, Mür dağına, Günnük tepesine gideceğim.
+{4:7} Tepeden tırnağa güzelsin, aşkım, Hiç kusurun yok.
+{4:8} Benimle gel Lübnan'dan, yavuklum, Benimle gel Lübnan'dan! Amana doruğundan, Senir ve Hermon doruklarından, Aslanların inlerinden, Parsların dağlarından geç.
+{4:9} Çaldın gönlümü kızkardeşim, yavuklum, Bir bakışınla, Gerdanlığının tek zinciriyle çaldın gönlümü!
+{4:10} Aşkın ne güzel, kızkardeşim, yavuklum, Şaraptan çok daha tatlı; Esansının kokusu her türlü baharattan güzel!
+{4:11} Ey yavuklum, bal damlar dudaklarından, Bal ve süt var dilinin altında, Lübnan'ın kokusu geliyor giysilerinden!
+{4:12} Kapalı bahçesin sen, kızkardeşim, yavuklum, Kapalı bir kaynak, mühürlü bir pınar.
+{4:13} Fidanların nar bahçesidir; Seçme meyvelerle, Kına ve hintsümbülüyle,
+{4:14} Hintsümbülü ve safranla, Güzel kokulu kamış ve tarçınla, her türlü günnük ağacıyla, Mür ve ödle, her türlü seçme baharatla.
+{4:15} Sen bir bahçe pınarısın, Bir taze su kuyusu, Lübnan'dan akan bir dere.
+{i4:16} Kız
+{4:16} Uyan, ey kuzey rüzgarı, Sen de gel, ey güney rüzgarı! Bahçemde es de güzel kokusu saçılsın. Sevgilim bahçesine gelsin, seçme meyvelerini yesin!
+{i5:1} Erkek
+{5:1} Bahçeme girdim, kızkardeşim, yavuklum, Mürümü topladım baharatımla, Gümecimi, balımı yedim, Şarabımı, sütümü içtim. Yiyin, için, ey dostlar! Mest olun aşktan, ey sevgililer!
+{i5:2} Kızın Arkadaşları Kız
+{5:2} Ben uyuyordum ama yüreğim uyanıktı. Dinleyin! Sevgilim kapıyı vuruyor. “Aç bana, kızkardeşim, aşkım, eşsiz güvercinim! Sırılsıklam oldu başım çiyden, Kaküllerim gecenin neminden.”
+{5:3} Entarimi çıkardım, Yine giyinmeli miyim? Ayaklarımı yıkadım, Yine kirletmeli miyim?
+{5:4} Kapı deliğinden uzattı elini sevgilim, Aşk duygularım kabardı onun için.
+{5:5} Kalktım, sevgilime kapıyı açayım diye, Mür elimden damladı, Parmaklarımdan aktı Sürgü tokmakları üzerine.
+{5:6} Kapıyı açtım sevgilime, Ama sevgilim yoktu, gitmişti! Kendimden geçmişim o konuşurken. Aradım onu, ama bulamadım, Seslendim, ama yanıt vermedi.
+{5:7} Kenti dolaşan bekçiler buldu beni, Dövüp yaraladılar. Sur bekçileri alıp götürdü şalımı.
+{5:8} Size ant içiriyorum, ey Yeruşalim kızları! Eğer sevgilimi bulursanız, Söyleyin ona, aşk hastasıyım ben.
+{i5:9} Kızın Arkadaşları
+{5:9} Farkı ne sevgilinin öbürlerinden, Ey güzeller güzeli? Farkı ne ki, bize böyle ant içiriyorsun?
+{i5:10} Kız
+{5:10} Sevgilimin teni pembe-beyaz, ışıl ışıl yanıyor! Göze çarpıyor on binler arasında.
+{5:11} Başı saf altın, Kakülleri kıvır kıvır, kuzgun gibi siyah.
+{5:12} Akarsu kıyısındaki Güvercinler gibi gözleri; Sütle yıkanmış, Yuvasındaki mücevher sanki.
+{5:13} Yanakları güzel kokulu tarhlar gibi, Nefis kokular saçıyor. Dudakları zambak gibi, Mür yağı damlatıyor.
+{5:14} Elleri, üzerine sarı yakut kakılmış altın çubuklar, Gövdesi laciverttaşıyla süslenmiş cilalı fildişi.
+{5:15} Mermer sütun bacakları Saf altın ayaklıklar üzerine kurulmuş. Boyu bosu Lübnan dağları gibi, Lübnan'ın sedir ağaçları gibi eşsiz.
+{5:16} Ağzı çok tatlı, Tepeden tırnağa güzel. İşte böyledir sevgilim, böyledir yarim, ey Yeruşalim kızları!
+{i6:1} Kızın Arkadaşları
+{6:1} Nereye gitti sevgilin, Ey güzeller güzeli, Ne yana yöneldi? Biz de onu arayalım seninle birlikte!
+{i6:2} Kız
+{6:2} Bahçesine indi sevgilim, Güzel kokulu tarhlara, Bahçede gezinmek, zambak toplamak için.
+{6:3} Ben sevgilime aitim, sevgilim de bana, Gezinip duruyor zambaklar arasında.
+{i6:4} Erkek
+{6:4} Sevgilim, Tirsa kadar güzelsin, Yeruşalim kadar şirin, Sancak açmış bir ordu kadar görkemli.
+{6:5} Çevir gözlerini benden, Çünkü şaşırtıyorlar beni. Gilat Dağı'nın yamaçlarından inen Keçi sürüsünü andırıyor siyah saçların.
+{6:6} Yeni yıkanmış, sudan çıkmış dişi koyun sürüsü gibi dişlerin, Hepsinin ikizi var; Yavrusunu yitiren yok aralarında.
+{6:7} Peçenin ardındaki yanakların Nar parçası sanki.
+{6:8} Altmış kraliçe, Seksen cariye, Sayısız bakire kız olabilir;
+{6:9} Ama bir tanedir benim eşsiz güvercinim, Biricik kızıdır annesinin, Gözbebeği kendisini doğuranın. Kızlar sevgilimi görünce, “Ne mutlu ona!” dediler. Kraliçeler, cariyeler onu övdüler.
+{i6:10} Kızın Arkadaşları
+{6:10} Kimdir bu kadın? Şafak gibi beliren, Ay kadar güzel, Güneş kadar parlak, Sancak açmış bir ordu kadar görkemli.
+{i6:11} Kız
+{6:11} Ceviz bahçesine indim, Yeşermiş vadiyi göreyim diye; Asma tomurcuk verdi mi, Narlar çiçek açtı mı bakayım diye.
+{6:12} Nasıl oldu farkına varmadan, Tutkum bindirdi beni soylu halkımın savaş arabalarına.
+{i6:13} Kızın Arkadaşları
+{6:13} Dön, geri dön, ey Şulamlı kız, Dön, geri dön de seni seyredelim. Niçin Şulamlı kızı seyretmek istiyorsunuz, Mahanayim oyununu seyredercesine?
+{i7:1} Erkek
+{7:1} Ne güzel sandaletli ayakların, Ey soylu kız! Mücevher gibi yuvarlak kalçaların, Usta ellerin işi.
+{7:2} Karışık şarabın hiç eksilmediği Yuvarlak bir tas gibi göbeğin. Zambaklarla kuşanmış Buğday yığını gibi karnın.
+{7:3} Sanki bir çift geyik yavrusu memelerin, İkiz ceylan yavrusu.
+{7:4} Fildişi kule gibi boynun. Bat-Rabim Kapısı yanındaki Heşbon havuzları gibi gözlerin. Şam'a bakan Lübnan Kulesi gibi burnun.
+{7:5} Karmel Dağı gibi duruyor başın, Pırıl pırıl mora çalar saçların. Kaküllerine tutsak oldu kral.
+{7:6} Ne güzel, ne çekicidir aşk! Zevkten zevke sürükler.
+{7:7} Hurma ağacına benziyor boyun, Salkım salkım memelerin.
+{7:8} “Çıkayım hurma ağacına” dedim, “Tutayım meyveli dallarını.” Üzüm salkımları gibi olsun memelerin, Elma gibi koksun soluğun,
+{7:9} En iyi şarap gibi ağzın. Sevgilimin dudaklarına, dişlerine doğru kaysın.
+{i7:10} Kız
+{7:10} Ben sevgilime aitim, O da bana tutkun.
+{7:11} Gel, sevgilim, kıra çıkalım, Köylerde geceleyelim.
+{7:12} Bağlara gidelim sabah erkenden, Bakalım, asma tomurcuk verdi mi? Dalları yeşerdi mi, Narlar çiçek açtı mı, Orada sevişeceğim seninle.
+{7:13} Mis gibi koku saçıyor adamotları, Kapımızın yanıbaşında Taze, kuru, Her çeşit seçme meyve var. Senin için sakladım onları, sevgilim.
+{8:1} Keşke kardeşim olsaydın, Annemin memelerinden süt emmiş. Dışarıda görünce öperdim seni, Kimse de kınamazdı beni.
+{8:2} Önüne düşer, Beni eğiten Annemin evine götürürdüm seni; Sana baharatlı şarapla Kendi narlarımın suyundan içirirdim.
+{8:3} Sol eli başımın altında, Sağ eli sarsın beni.
+{8:4} Ant içiriyorum size, ey Yeruşalim kızları! Aşkımı ayıltmayasınız, uyandırmayasınız diye, Gönlü hoş olana dek.
+{i8:5} Kızın Arkadaşları
+{8:5} Kim bu, Sevgilisine yaslanarak çölden çıkan? Elma ağacı altında uyandırdım seni, Orada doğum sancıları çekti annen, Orada doğum sancıları çekip doğurdu seni.
+{i8:6} Kız
+{8:6} Beni yüreğinin üzerine bir mühür gibi, Kolunun üzerine bir mühür gibi yerleştir. Çünkü sevgi ölüm kadar güçlü, Tutku ölüler diyarı kadar katıdır. Alev alev yanar, Yakıp bitiren ateş gibi.
+{8:7} Sevgiyi engin sular söndüremez, Irmaklar süpürüp götüremez. İnsan varını yoğunu sevgi uğruna verse bile, Yine de hor görülür!
+{i8:8} Kızın Arkadaşları
+{8:8} Küçük bir kızkardeşimiz var, Daha memeleri çıkmadı. Ne yapacağız kızkardeşimiz için, Söz kesileceği gün?
+{8:9} Eğer o bir sursa, Üzerine gümüş mazgallı siper yaparız; Eğer bir kapıysa, Sedir tahtalarıyla onu kaplarız.
+{i8:10} Kız
+{8:10} Ben bir surum, memelerim de kuleler gibi, Böylece hoşnut eden biri oldum onun gözünde.
+{8:11} Süleyman'ın bağı vardı Baal-Hamon'da, Kiraya verdi bağını; Her biri bin gümüş öderdi ürünü için.
+{8:12} Benim bağım kendi emrimde, Bin gümüş senin olsun, ey Süleyman, İki yüz gümüş de ürününe bakan kiracıların.
+{i8:13} Erkek
+{8:13} Ey sen, bahçelerde oturan kadın, Arkadaşlar kulak veriyor sesine, Bana da duyur onu.
+{i8:14} Kız
+{8:14} Koş, sevgilim, Mis kokulu dağların üzerinde bir ceylan gibi, Geyik yavrusu gibi ol!

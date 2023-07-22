@@ -1,0 +1,55 @@
+{i1:1} Az Örökkévaló Ninivébe küldi Jónást
+{1:1} Az Örökkévaló szava érkezett Jónáshoz, Amittaj fiához:
+{1:2} „Készülj az útra, sietve menj Ninivébe, a nagy városba, figyelmeztesd lakóit a közelgő veszedelemre, mivel tudok róla, hogy mennyi gonoszságot követtek el, és meg fogom büntetni őket ezért!”
+{i1:3} Jónás el akar futni az Örökkévaló elől
+{1:3} Jónás azonban el akart futni az Örökkévaló elől, és elhatározta, hogy éppen az ellenkező irányba, Társisba utazik. Ezért lement Jáfó kikötőjébe, és keresett ott egy Társisba induló hajót. Miután kifizette az útiköltséget, felszállt a hajóra, hogy a többi utassal együtt Társisba menjen. Így akart elmenekülni az Örökkévaló elől.
+{1:4} El is indultak, de az Örökkévaló erős szelet küldött, és oly hatalmas vihart támasztott a tengeren, hogy a hajó már-már összetört.
+{1:5} A hajósok rémülten kiáltottak segítségért: ki-ki a maga istenéhez imádkozott. A rakományt a tengerbe dobálták, hogy ezzel is könnyítsenek a hajón. Jónás azonban félrehúzódott a hajó belsejébe, és lefeküdt aludni.
+{1:6} A kapitány felfedezte, és rákiáltott: „Ébredj föl! Hogy tudsz ilyenkor aludni?! Kiálts az istenedhez, hátha megkönyörül rajtunk, és nem veszünk el!”
+{i1:7} Dobjatok a tengerbe!
+{1:7} A hajósok ekkor elhatározták, hogy kiderítik, ki miatt támadt ez a nagy vihar. Ezért sorsot húztak, és a sors Jónásra esett.
+{1:8} „Mondd meg az igazat, miért kerültünk ilyen nagy viharba? Ki vagy te, és mi a mesterséged? Hol van a hazád, és honnan jössz? Melyik néphez tartozol?” — kérdezték.
+{1:9} Jónás így válaszolt: „Héber vagyok, és az Örökkévalót, a menny Istenét tisztelem, aki a tengert és a szárazföldet teremtette.”
+{1:10} Amikor azt is bevallotta, hogy az Örökkévaló elől menekül, az emberek még jobban megrémültek, és azt kérdezték: „Hogy tehettél ilyet?!”
+{1:11} Közben a vihar egyre nagyobb erővel tombolt. Akkor megkérdezték Jónást: „Mit tegyünk veled, hogy a vihar lecsendesedjen?”
+{1:12} „Dobjatok a tengerbe — válaszolta ő — , akkor a vihar lecsendesül, és a tenger megnyugszik. Hiszen jól tudom, hogy miattam támadt ez a szörnyű vihar.”
+{1:13} A hajósok ennek ellenére teljes erővel próbáltak a partra evezni, de hiába, mert a vihar egyre jobban dühöngött.
+{1:14} Akkor minden hajós az Örökkévalóhoz kiáltott: „Örökkévaló, kérünk téged, ne engedd, hogy mind elpusztuljunk emiatt az ember miatt! Kérünk, ne terheljen bennünket egy ártatlan ember meggyilkolásának a bűne! Te pedig, Örökkévaló, tegyél úgy, ahogy jónak látod!”
+{i1:15} Jónást elnyeli a nagy hal
+{1:15} Azután felkapták Jónást, és bedobták a tengerbe, amely azonnal lecsillapodott.
+{1:16} Ezt látva az emberek még inkább félték és tisztelték az Örökkévalót: áldozatokat mutattak be, és fogadásokat tettek neki.
+{1:17} Az Örökkévaló pedig odaküldött egy hatalmas halat, hogy nyelje el Jónást, aki három nap és három éjjel a hal gyomrában maradt.
+{i2:1} Jónás imádsága
+{2:1} Jónás így imádkozott Istenéhez, az Örökkévalóhoz a hal gyomrában:
+{2:2} „Az Örökkévalóhoz kiáltottam szorult helyzetemben, és ő meghallgatott engem! A halál gyomrából kiáltottam hozzád, mégis meghallottad hangomat!
+{2:3} Mert a mélységbe hajítottál, a tenger közepébe dobtál, körülvett az áradat, összecsaptak hullámaid a fejem fölött, s örvényeid elborítottak.
+{2:4} Már azt gondoltam: bizony végleg eltaszítottál szemed elől! Vajon láthatom-e még valaha szent Templomodat?
+{2:5} Bezárult fölöttem a mély víz, elborít az ár, a torkomig ér, hínár szövődött fejemre,
+{2:6} a hegyek alapjáig süllyedtem, örökre bezárultak a föld reteszei mögöttem! Örökkévaló Isten, te mégis kiemelted lelkem a pusztulásból!
+{2:7} Mikor elcsüggedtem, rád emlékeztem, imádságom feljutott eléd, szent Templomodba.
+{2:8} Akik hitvány bálványokhoz ragaszkodnak, elhagyják az egyetlent, aki könyörülhet rajtuk!
+{2:9} De én hálával áldozom neked, Istenem, és fogadásaimat megadom! Bizony, az Örökkévalótól jön a szabadulás!”
+{2:10} Akkor szólt az Örökkévaló a halnak, az pedig kivetette Jónást a tenger partjára.
+{i3:1} Ninive megalázkodik az Örökkévaló előtt
+{3:1} Az Örökkévaló szava másodszor is Jónáshoz érkezett:
+{3:2} „Kelj föl, menj Ninivébe, a nagy városba, és hirdesd lakóinak, amit én mondok neked!”
+{3:3} Akkor Jónás az Örökkévaló szava szerint felkerekedett, és elment Ninivébe, amely rendkívül nagy város volt. Három napig tartott, amíg valaki gyalog keresztülment rajta.
+{3:4} Jónás tehát egyre beljebb ment a városba. Egy álló napig gyalogolt, majd hangosan kiáltotta: „Még negyven nap, és elpusztul Ninive!”
+{3:5} A város lakói hittek Istennek, megalázták magukat, és böjtöt hirdettek egész Ninivében. A lakosok apraja-nagyja zsákruhát öltött és böjtölt.
+{3:6} A király is, amikor meghallotta a hírt, felkelt trónjáról, levetette díszes ruháját, zsákba öltözött, és hamuba ült.
+{3:7} Rendeletet adott ki, amelyet kihirdettek Ninivében: „A király és vezérei ezt parancsolják: Böjtöljön mindenki a városban! Se emberek, se háziállatok ne egyenek, se nyájak, se csordák ne legeljenek egy ideig semmit, sőt, még vizet se igyanak!
+{3:8} A lakosok és a barmok viseljenek zsákot, és mindenki teljes erőből kiáltson Istenhez! Minden ember változtassa meg az életét, hagyjon föl minden gonoszsággal, és ne kövessen el többé semmilyen erőszakosságot!
+{3:9} Ki tudja, talán Isten meggondolja magát, lecsillapodik izzó haragja, és mégsem pusztít el bennünket.”
+{3:10} Isten látta, hogy Ninive lakosai mit tettek, és hogyan fordultak el gonosz dolgaiktól. Ezért valóban meggondolta magát, és az ítéletet, amelyet pedig már elhatározott, mégsem hajtotta végre.
+{i4:1} Vajon jogosan haragszol?
+{4:1} Jónásnak azonban nagyon rosszul esett, hogy Isten mégsem pusztította el Ninivét, és nagyon megharagudott.
+{4:2} „Ó, Örökkévaló — imádkozott — , sejtettem én már akkor, mikor még otthon voltam, hogy ezt fogod tenni! Emiatt akartam Társisba futni! Hiszen ismerlek téged, hogy kegyelmes, irgalmas és nagyon türelmes Isten vagy, hogy hűséges szereteted az égig ér, és ha csak lehet, megváltoztatod büntető ítéleted.
+{4:3} Most pedig, Örökkévaló, kérlek, vedd el az életem, mert jobb lenne meghalnom, mintsem hogy tovább éljek!”
+{4:4} „Vajon jogosan haragszol emiatt?” — kérdezte az Örökkévaló.
+{4:5} Ezután Jónás kiment a városból, és attól keletre letelepedett. Készített magának egy kunyhót, s annak árnyékából figyelte, mi fog történni a várossal.
+{4:6} Az Örökkévaló Isten pedig növesztett egy nagy ricinusbokrot, hogy tartson árnyékot Jónás feje fölé, és óvja meg őt a napszúrástól. Örült is Jónás szerfölött a bokornak.
+{4:7} Másnap hajnalban azonban Isten úgy intézte, hogy egy féreg megrágta a bokrot, és az hamarosan el is száradt.
+{4:8} Felkelt a nap, Isten pedig forró és erős keleti szelet küldött arra a vidékre. A nap egyenesen a fejére tűzött Jónásnak, aki már-már elájult a hőségtől. Azt kívánta, bárcsak meghalna. „Jaj, jobb lenne meghalnom, mintsem hogy tovább éljek!” — panaszkodott.
+{4:9} Akkor Isten megszólította: „Vajon jogosan haragszol, hogy a bokor elszáradt?” „Igen, jogosan! — mérgelődött Jónás — , haragszom, amíg csak élek!”
+{4:10} Az Örökkévaló így válaszolt: „Látod, Jónás, te sajnálod ezt a ricinusbokrot, amely egyetlen éjjel felnőtt, a másik éjjel elszáradt, pedig nem te ültetted, nem is gondoztad!
+{4:11} Hát én ne sajnáljam Ninivét, ezt a nagy várost, amelyben több, mint százhúszezer ember él, akik nem tudnak különbséget tenni a jó és a rossz között?! S még ott van az a rengeteg háziállat is!”

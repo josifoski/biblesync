@@ -1,0 +1,146 @@
+{1:1} Il canto più bello, di Salomone.
+{i1:2} LEI
+{1:2} Che lui mi baci con i baci della sua bocca. Più dolce del vino è il tuo amore,
+{1:3} più inebriante dei tuoi profumi. Tu stesso sei tutto un profumo. Vedi, le ragazze si innamorano di te!
+{1:4} Prendimi per mano e corriamo. Portami nella tua stanza, o mio re. Godiamo insieme, siamo felici, esaltiamo il tuo amore più inebriante del vino. A ragione le ragazze s’innamorano di te!
+{1:5} Ho la pelle scura eppure sono bella, ragazze di Gerusalemme, scura come le tende dei beduini, bella come i tendaggi del palazzo di Salomone.
+{1:6} Non state a guardare se sono scura, abbronzata dal sole. I miei fratelli si sono adirati con me; mi hanno messa a guardia delle vigne, ma la mia vigna io l’ho trascurata.
+{1:7} Dimmi, amore mio, dove vai a pascolare il tuo gregge, a mezzogiorno dove lo fai riposare? Io non voglio cercarti tra i greggi dei tuoi amici, come una vagabonda.
+{i1:8} CORO
+{1:8} O bellissima tra le donne, non conosci il posto? Segui le orme del gregge, porta le tue caprette al pascolo vicino alle tende dei pastori.
+{i1:9} LUI
+{1:9} Amica mia, sei come la puledra del cocchio del faraone!
+{1:10} Come son belle le tue guance, tra gli orecchini, com’è bello il tuo collo ornato di perle!
+{1:11} Ti faremo orecchini d’oro, granellati d’argento.
+{i1:12} LEI
+{1:12} Ora che il mio re è qui nel suo giardino il mio profumo di ∆ nardo si spande tutt’intorno.
+{1:13} Amore mio, sei come un sacchetto di mirra, di notte riposi fra i miei seni.
+{1:14} Amore mio, sei come un grappolo di cipro cresciuto nelle vigne di ∆ Engàddi.
+{i1:15} LUI
+{1:15} Quanto sei bella, amica mia, quanto sei bella, i tuoi occhi sono come colombe!
+{i1:16} LEI
+{1:16} Anche tu, amore mio, quanto sei bello, meraviglioso sei. Un prato d’erbe è il nostro letto,
+{1:17} rami di cedro sono le travi della nostra casa, rami di cipresso il suo soffitto.
+{2:1} Io sono un narciso della pianura di Saròn, un giglio delle valli.
+{i2:2} LUI
+{2:2} Sì, un giglio tra le spine è la mia amica tra le altre ragazze!
+{i2:3} LEI
+{2:3} Un melo tra gli alberi del bosco è il mio amore tra gli altri ragazzi! Mi piace sedermi alla sua ombra e gustare le delizie dei suoi frutti.
+{2:4} Mi ha portato in una sala di banchetti; in alto, sopra di me, c’era un’insegna con sopra scritto: «Amore».
+{2:5} Presto, portate dolci d’uva che mi restituiscano forza, mele, che mi diano sostegno perché sono malata d’amore!
+{2:6} Il suo braccio sinistro è intorno al mio collo, e con il destro mi abbraccia.
+{2:7} Ragazze di Gerusalemme, io vi scongiuro, per le gazzelle e le cerve dei campi: non risvegliate il nostro amore, non provocatelo prima del tempo.
+{2:8} Sento la voce del mio amore, eccolo, arriva! Salta per le montagne, come fa la gazzella; corre
+{2:9} sulle colline, veloce come un cerbiatto. Eccolo, sta dietro al nostro muro; guarda dalla finestra, spia dalle persiane.
+{2:10} Ora, il mio amore mi parla: Andiamo, amica mia, mia bella, vieni.
+{i2:11} LUI
+{2:11} È finito l’inverno, sono terminate le piogge.
+{2:12} Già spuntano i fiori nei campi, la stagione del canto ritorna. Si sente cantare la tortora nelle nostre campagne.
+{2:13} I fichi già danno i primi frutti, le viti sono in fiore e mandano il loro profumo. Andiamo, amica mia, mia bella, vieni.
+{2:14} Colomba mia, nascosta nelle fessure delle rocce, in nascondigli segreti, fammi vedere il tuo viso, fammi ascoltare la tua voce; perché la tua voce è soave, il tuo viso è grazioso.
+{i2:15} LEI
+{2:15} Catturateci le volpi; le piccole volpi che ci devastano le vigne proprio ora che sono fiorite.
+{2:16} Il mio amore è mio come io sono sua. Egli pascola tra i gigli.
+{2:17} Prima che soffi la brezza della sera e le ombre si allunghino, ritorna, amore mio, tra le colline degli aromi, veloce come una gazzella o un cerbiatto.
+{i3:1} LEI
+{3:1} Di notte, nel mio letto, ho cercato il mio amore. L’ho cercato, ma non l’ho trovato.
+{3:2} Mi alzerò, farò il giro della città! Per strade e per piazze devo cercare il mio amore. L’ho cercato, ma non l’ho trovato.
+{3:3} Ho incontrato le guardie che fanno la ronda in città. Ho chiesto loro: «Avete visto il mio amore?».
+{3:4} Le avevo appena lasciate ed ecco ho trovato il mio amore. L’ho stretto forte a me e non lo lascerò più. Lo porterò in casa mia nella stanza dove mia madre mi ha concepita.
+{3:5} Ragazze di Gerusalemme, io vi scongiuro per le gazzelle e le cerve dei campi: non risvegliate il nostro amore, non provocatelo prima del tempo.
+{3:6} Chi sta arrivando dal deserto, come una nube di fumo, che spande profumo di mirra, di incenso, e ∆ di tutti gli aromi più rari?
+{3:7} È la lettiga del re Salomone circondata da sessanta soldati, i più coraggiosi d’Israele.
+{3:8} Son tutti armati di spada e allenati a combattere. Portano al fianco la spada. Stanno in guardia contro i pericoli della notte.
+{3:9} La lettiga del re Salomone è in legno di cedro.
+{3:10} Le colonne sono d’argento, lo schienale d’oro, il sedile tutto di porpora. Le ragazze di Gerusalemme hanno adornato con amore l’interno.
+{3:11} Ragazze di Sion, uscite a vedere il re Salomone. Porta la corona che gli ha messo sua madre il giorno delle sue nozze, il giorno della sua gioia e della sua felicità.
+{i4:1} LUI
+{4:1} Quanto sei bella, amica mia, quanto sei bella! I tuoi occhi, dietro il velo, sono come colombe. I tuoi capelli ondeggiano come un gregge di capre che scende dalle pendici del Gàlaad.
+{4:2} I tuoi denti mi fanno pensare a un gregge di pecore da tosare, appena lavate. Tutte in fila, una accanto all’altra, e non ne manca nessuna.
+{4:3} Un nastro di porpora sono le tue labbra! Com’è bella la tua bocca! Dietro il velo, le tue guance sono rosse come uno spicchio di melagrana.
+{4:4} Il tuo collo è come una fortezza, fa pensare alla torre di Davide; mille scudi vi sono appesi, sono gli scudi degli eroi!
+{4:5} I tuoi seni sembrano cerbiatti o gemelli di una gazzella che pascolano tra i gigli.
+{4:6} Prima che soffi la brezza della sera o le ombre si allunghino, verrò di certo alla tua montagna profumata di mirra e alla tua collina d’incenso.
+{4:7} Sei bellissima, amica mia, sei perfetta.
+{4:8} Vieni con me, mia sposa, lascia i monti del Libano, vieni con me. ∆ Scendi dalle cime dell’Amana, del Senir e dell’Ermon, fuggi queste tane di leoni e di leopardi!
+{4:9} Mi hai preso il cuore, sorella mia, mia sposa, mi hai preso il cuore, con un solo tuo sguardo, con una sola perla della tua collana!
+{4:10} Il tuo amore, sorella mia, mia sposa, è così bello, molto più dolce del vino! Il tuo profumo è più gradevole di tutti gli aromi.
+{4:11} Le tue labbra sanno di miele, mia sposa, la tua lingua ha il sapore del miele e del latte. Le tue vesti hanno il profumo del Libano.
+{4:12} Sorella mia, mia sposa, sei come un giardino recintato e chiuso, come una sorgente inaccessibile.
+{4:13} Le tue nascoste bellezze sono un giardino di melograni, dai frutti squisiti, con piante di ∆ cipro,
+{4:14} ∆ nardo e ∆ zafferano, cannella e cinnamomo, ogni specie di piante d’incenso, mirra e aloe e tutti i profumi più rari.
+{4:15} Tu sei una sorgente di giardino fontana di acque vive, ruscello che scende dai monti del Libano.
+{i4:16} LEI
+{4:16} Alzati, vento del nord, vieni, vento del sud, spandete i profumi del mio giardino. E tu, amore mio, vieni nel tuo giardino, gusta i suoi frutti squisiti!
+{i5:1} LUI
+{5:1} Sono venuto nel mio giardino, sorella mia, mia sposa. Raccolgo la mia mirra e le mie erbe profumate. Mangio il miele del mio favo, bevo il mio latte e il mio vino. Mangiate, amici, bevete, inebriatevi d’amore.
+{i5:2} CORO LEI
+{5:2} Mi sono addormentata, ma resta sveglio il mio cuore. Sento qualcosa: è il mio amore che bussa! che chiede: «Aprimi, sorella, amica mia, bellissima colomba! Ho il capo bagnato di rugiada, i miei riccioli stillano le gocce della notte».
+{5:3} Mi sono appena spogliata, dovrei rivestirmi? Mi sono appena lavata i piedi, perché dovrei sporcarli di nuovo?
+{5:4} Il mio amore cerca di aprire la porta: che tuffo al cuore!
+{5:5} Salto in piedi per aprire al mio amore. Le mie dita e le mie mani gocciolano olio di mirra quando alzo il chiavistello.
+{5:6} Ho aperto al mio amore, ma è partito, non c’è più. È partito e io ne sono sconvolta. L’ho cercato ma non l’ho trovato. L’ho chiamato, ma lui non ha risposto.
+{5:7} Ho incontrato le guardie che fanno la ronda in città. Mi hanno picchiata, mi hanno ferita, mi hanno strappato lo scialle.
+{5:8} Ragazze di Gerusalemme, vi supplico, se trovate il mio amore, ditegli che io sono malata d’amore.
+{i5:9} CORO
+{5:9} Puoi dirci, tu che sei la più bella, cos’ha il tuo amore di diverso dagli altri? È davvero tanto diverso che ci supplichi così?
+{i5:10} LEI
+{5:10} Il mio amore è bello e forte, lo si riconosce tra mille.
+{5:11} Il suo volto è come l’oro più puro, i suoi capelli sono ricciuti come palme, neri come il corvo.
+{5:12} I suoi occhi sono colombe accanto a un ruscello. Le sue pupille galleggiano sul latte, come colombe su uno specchio d’acqua.
+{5:13} Le sue guance sono aiuole di piante profumate e di spezie. Le sue labbra sono gigli, bagnate di olio di mirra.
+{5:14} Le sue mani sono anelli d’oro carichi di pietre preziose. Il suo ventre è una piastra d’avorio coperta di zaffiri.
+{5:15} Le sue gambe sono colonne di marmo bianco poggiate su basi d’oro puro. Egli ha l’aspetto delle montagne del Libano, è magnifico come gli alberi di cedro.
+{5:16} La sua bocca è dolcissima; tutto, in lui, risveglia il mio desiderio. Ecco, così è il mio amore, il mio amico, ragazze di Gerusalemme!
+{i6:1} CORO
+{6:1} Dov’è andato il tuo amore, o bellissima? Puoi dirci che direzione ha preso, così possiamo cercarlo con te?
+{i6:2} LEI
+{6:2} Il mio amore è venuto a pascolare nel suo giardino, a raccogliere ∆ gigli tra aiuole di piante profumate.
+{6:3} Io sono del mio amore e il mio amore è mio. Egli pascola tra i gigli.
+{i6:4} LUI
+{6:4} Amica mia, sei bella come la città di Tirsa, splendida come Gerusalemme, ∆ affascinante come un miraggio.
+{6:5} Allontana gli occhi da me, il tuo sguardo mi turba. I tuoi capelli ondeggiano come un gregge di capre che scende dalle pendici del Gàlaad.
+{6:6} I tuoi denti mi fanno pensare a un gregge di pecore appena lavate. Tutte in fila, una accanto all’altra, e non ne manca nessuna.
+{6:7} Dietro il velo, le tue guance sono rosse come uno spicchio di melagrana.
+{6:8} Il re abbia pure sessanta regine, ottanta altre donne e ragazze quante ne vuole!
+{6:9} Per me c’è solo lei, la mia stupenda colomba, unica figlia di sua madre, sua delizia. «Come sei fortunata!», dicono le altre ragazze quando la incontrano. Anche le regine e le concubine la lodano e si domandano:
+{6:10} «Chi è mai questa ragazza amabile come l’aurora, bella come la luna, splendente come il sole, affascinante come un miraggio?».
+{6:11} Sono sceso nel parco dei noci, per vedere i germogli della valle, per vedere se le viti germogliano, se i melograni sono in fiore.
+{6:12} Ma ora non mi riconosco più: mi hai conquistato, figlia di prìncipi!
+{i6:13} CORO
+{6:13} Vòltati, vòltati, Sulammita, vòltati, vòltati, e lasciati guardare! Che cosa ammirate nella Sulammita, nella ∆ «danza dei due cori?».
+{i7:1} LUI
+{7:1} Come sono belli i tuoi piedi nei sandali, principessa. Le curve dei tuoi fianchi sono davvero un’opera d’arte.
+{7:2} Il tuo ombelico è una coppa rotonda: che non manchi mai di vino profumato! Il tuo ventre è come un mucchio di grano circondato di gigli.
+{7:3} I tuoi seni sono come due cerbiatti o due gemelli di una gazzella.
+{7:4} Il tuo collo assomiglia a una torre d’avorio. I tuoi occhi sembrano i laghetti di Chesbon, vicino alla porta di Bat-Rabbìm. Il tuo naso è come la ∆ torre del Libano, che sorveglia la città di Damasco.
+{7:5} La tua testa si erge fiera come il monte Carmelo. I tuoi capelli hanno riflessi color porpora; un re è stato preso dalle tue ∆ trecce!
+{7:6} Quanto sei bella, come sei graziosa, amore mio, delizia mia.
+{7:7} Sei slanciata come una palma, i tuoi seni sembrano grappoli di datteri.
+{7:8} Voglio salire sulla palma e raccogliere i suoi frutti! I tuoi seni siano per me come grappoli d’uva, il profumo del tuo respiro come l’odore delle mele
+{7:9} e la tua bocca come vino squisito! Sì, un vino squisito, tutto per il mio amore, scivoli sulle nostre labbra addormentate!
+{i7:10} LEI
+{7:10} Io sono del mio amore e lui mi desidera.
+{7:11} Vieni, amore, andiamo nei campi, passiamo la notte tra i fiori.
+{7:12} Al mattino presto saremo già nelle vigne, a vedere se germogliano, se le gemme si schiudono, se i melograni sono in fiore. Laggiù ti darò il mio amore.
+{7:13} Le mandragole mandano il loro profumo. Alla nostra porta abbiamo ogni specie di frutti deliziosi, secchi e freschi. Amore mio, li ho conservati per te.
+{8:1} Come vorrei che fossi il fratello, allattato da mia madre. Incontrandoti per via potrei abbracciarti senza essere rimproverata.
+{8:2} Ti porterei in casa e tu mi insegneresti l’amore. Ti farei assaggiare il mio vino profumato e il mio succo di melagrana.
+{8:3} Il suo braccio sinistro è intorno al mio collo, e con il destro mi abbraccia.
+{8:4} Ragazze di Gerusalemme, io vi scongiuro: non risvegliate il nostro amore, non provocatelo prima del tempo.
+{i8:5} CORO
+{8:5} Chi è quella ragazza che arriva dal deserto abbracciata al suo amore? Ti ho svegliato sotto il melo, lì dove tua madre ti ha concepito.
+{i8:6} LEI
+{8:6} Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio. Perché l’amore è forte come la morte, la passione è irresistibile come il mondo dei morti. È una fiamma ardente come il fulmine.
+{8:7} Non basterebbe l’acqua degli oceani a spegnere l’amore. Neppure i fiumi lo potrebbero sommergere. Se qualcuno provasse a comprare l’amore con le sue ricchezze, otterrebbe solo il disprezzo.
+{i8:8} CORO
+{8:8} Nostra sorella è molto giovane, quasi non ha seno! Che cosa faremo per lei quando le faranno la corte?
+{8:9} Se fosse un muro costruiremmo su di lei una merlatura d’argento. Se fosse una porta, la rinforzeremmo con assi di cedro.
+{i8:10} LEI
+{8:10} Se io sono un muro, i miei seni sono già come torri. Ma il mio amico lo accolgo e gli voglio dar pace.
+{i8:11} LUI
+{8:11} Salomone aveva una grande vigna a Baal-Amon e l’ha affidata a dei guardiani. Ciascuno gli versava in frutto mille pezzi d’argento.
+{8:12} Tieni pure i tuoi mille pezzi d’argento, Salomone, danne duecento ai tuoi guardiani. La mia piccola vigna è qui, ed è tutta per me.
+{8:13} Mia bella che stai nel giardino, i miei amici cercano di ascoltare quel che stai dicendo. Fai sentire anche a me!
+{i8:14} LEI
+{8:14} Corri, amore, veloce come una gazzella o un cerbiatto sui monti profumati.

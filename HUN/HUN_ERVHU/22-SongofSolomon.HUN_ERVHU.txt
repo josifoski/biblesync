@@ -1,0 +1,152 @@
+{i1:1} A menyasszony
+{1:1} Ez az Énekek éneke, amely Salamoné.
+{1:2} Csókolj meg, kedvesem, csókolj újra meg újra, mert, ahogy te szeretsz, az mámorítóbb a bornál!
+{1:3} Megrészegít drága olajod illata, neved bódító illata szétárad, mint kiöntött illatos olaj, azért szeretnek téged mind a leányok.
+{1:4} Ragadj magaddal, hadd fussunk, repüljünk veled! A király bevitt engem belső szobájába. Gyönyörködünk benned, örvendezünk neked, ünnepeljük szerelmedet, mert, ahogy te szeretsz, az részegítőbb a bornál! Bizony, méltó vagy rá, hogy szeressünk téged!
+{i1:5} A menyasszony
+{1:5} Barna a bőröm, mégis szép vagyok, ó, Jeruzsálem leányai! Bőröm sötét, mint Kédár sátrai, de szép, mint Salamon kárpitjai.
+{1:6} Ne csodálkozzatok, hogy ilyen barna vagyok! A nap égetett le, amikor anyám fiai megharagudtak rám, kiküldtek a szőlőbe dolgozni, és magamra nem viseltem gondot.
+{i1:7} A menyasszony
+{1:7} Mondd meg nékem, kedvesem, merre legelteted nyájadat, hol pihenteted délben bárányaidat? Miért keresselek hiába, miért leselkedjek titokban barátaid nyája körül?
+{i1:8} A vőlegény
+{1:8} Ha nem tudod, hol találsz engem, te, szépek szépe, kövesd a nyájam nyomát, legeltesd kecskegidáidat a pásztorok sátrainál!
+{1:9} Szép vagy, kedvesem, és vonzóbb, mint kanca a mének között, amelyek a fáraó harci szekereit húzzák!
+{1:10} Milyen szép az arcod, függő láncaid között! Milyen gyönyörű a nyakad, gyöngysorokkal övezve!
+{1:11} Aranyláncokat készíttetek neked, ezüsttel ékesítve.
+{i1:12} A menyasszony
+{1:12} Mikor a király mellettem ül asztalánál, nárdusom illata elér hozzá.
+{1:13} Mint a mirha, amely egész éjjel melleim között pihen, olyan az én szerelmesem.
+{1:14} Mint egy csokor virágzó henna Éngedi szőlőskertjeiben, olyan a kedvesem.
+{i1:15} A vőlegény
+{1:15} Milyen gyönyörű vagy kedvesem! Milyen szép vagy, te galambszemű!
+{i1:16} A menyasszony
+{1:16} Te is gyönyörű vagy kedvesem, igazán szép! Legyen az ágyunk zöldellő,
+{1:17} házunk gerendája cédrusfa ága, szobánk mennyezete ciprusok zöld lombja.
+{i2:1} A vőlegény
+{2:1} Mezei virág vagyok a sároni síkságon, fehér liliom a völgyben.
+{2:2} Mint hófehér liliom a tövises bozótban, olyan vagy, kedvesem, a leányok között!
+{i2:3} A menyasszony
+{2:3} Mint virágzó almafa az erdő fái közt, olyan vagy szerelmesem, az ifjak között! Mennyire kívánom árnyékát élvezni, gyönyörűséges gyümölcsét ízlelni!
+{i2:4} A menyasszony
+{2:4} Bevitt engem a lakomák termébe, szerelme a zászló fölöttem.
+{2:5} Erősítsetek aszalt szőlővel, üdítsetek fel almával, mert egészen beteg lettem a szerelemtől!
+{2:6} Bal karja fejem alatt, jobbjával átölel engem.
+{2:7} Ó, Jeruzsálem leányai, nézzétek az őzeket és a szarvasokat! Ne ébresszétek fel a szerelmet, ne szítsátok fel tüzét, ameddig ő nem akarja! Meg kell ígérnetek!
+{i2:8} A menyasszony
+{2:8} Ez az ő hangja! Szerelmesem szavát hallom! Már jön is, közeleg! Átugrik a hegyeken, gazellaként szökell a dombokon.
+{2:9} Mert olyan a kedvesem, mint a gazella, mint egy fiatal szarvas. Már itt is van, a fal túloldalán, benéz az ablakon, betekint a rácsokon.
+{2:10} Meg is szólít engem: „Kelj föl, kedvesem, siess már szerelmesem, jöjj velem!
+{2:11} Nézd, elmúlt a tél, elálltak az esők.
+{2:12} Kivirágzott a mező, eljött a madárdal ideje, gerlék búgása hallik földünkön.
+{2:13} Első termését érleli a füge, virágzanak a szőlők, illatuk árad szerteszét. Kelj föl, kedvesem, siess már szerelmesem, jöjj velem!”
+{i2:14} A vőlegény
+{2:14} Sziklák hasadékában rejtőző galambom! Magas sziklák között fészkelő madaram! Mutasd meg arcodat, hadd halljam hangodat! Mert a hangod édes, arcod gyönyörű!
+{i2:15} A menyasszony és a vőlegény
+{2:15} Jaj, fogjátok meg a rókákat, csípjétek el a rókakölyköket, mert pusztítják a szőlőt, a virágzó szőlőket!
+{i2:16} A menyasszony
+{2:16} Szerelmesem az enyém, én meg az övé, aki liliomok közt legelteti nyáját.
+{2:17} Jöjj vissza hozzám, kedvesem, mielőtt az árnyékok megnyúlnak, és hűvös szél támad! Siess hozzám, mint a gazella, vagy mint fiatal szarvas Béther hegyein!
+{i3:1} A menyasszony
+{3:1} Éjről éjre kerestem őt ágyamon, mert szívből megszerettem, kerestem, de sehol sem találtam!
+{3:2} Felkeltem hát, bejártam a várost, kerestem a tereken, kutattam az utcákon, mert szívemből megszerettem, kerestem, de sehol sem találtam!
+{3:3} Rám akadtak az őrök, akik a városra vigyáznak. Kérdeztem tőlük: „Láttátok-e őt, kedvesemet, akit lelkemből szeretek?”
+{3:4} Épp csak továbbléptem, máris megtaláltam kedvesemet, akit lelkemből szeretek! Megöleltem, el sem engedtem többé, míg be nem vezettem anyám házába, szülőanyám belső szobájába.
+{3:5} Ó Jeruzsálem leányai, nézzétek az őzeket és a szarvasokat! Ne ébresszétek fel a szerelmet, ne szítsátok fel tüzét, ameddig ő nem akarja! Meg kell ígérnetek!
+{i3:6} A barátaik
+{3:6} Nézzétek, ki közeleg ott, a puszta felől? Olyan, mint füstoszlop, melyből mirha, tömjén és mindenféle fűszer illata árad.
+{3:7} Salamon gyaloghintója az! Körülötte erős vitézei, hatvan hős, Izráel harcosai közül.
+{3:8} Mind kardforgató, hadakozásban jártas, kardja az oldalán, nem fél az éjszaka rémeitől sem.
+{3:9} Gyaloghintót készíttetett Salamon király libanoni cédrusból,
+{3:10} oszlopait ezüstből, támláját aranyból, ülését bíborból. Belsejét szerelemmel bélelték ki Jeruzsálem leányai.
+{3:11} Jöjjetek, nézzétek Salamont, Sion leányai! Lássátok a királyt! Fején koszorúja, amellyel anyja koronázta meg őt a menyegzője napján, szíve örömének napján.
+{i4:1} A vőlegény
+{4:1} Milyen szép vagy, kedvesem, milyen gyönyörű! Szemeid, mint a galambok, fátyolod mögött. Hajad, mint kecskenyáj, amely Gileád hegyéről ereszkedik alá.
+{4:2} Fogaid, mint a frissen nyírott juhok, amint a fürdetőből feljönnek, mind ikreket ellenek, és egy sem hullik el.
+{4:3} Skarlátszín zsinór az ajkad, szép ívű szád szeretnivaló. Halántékod, mint a gránátalma gerezdje, fátyolod mögött.
+{4:4} Nyakad, mint Dávid tornya, a fegyverek rejteke, hol vitézek ezernyi pajzsa függ.
+{4:5} Melleid, mint iker-őzikék, mint a kecses gazella kicsinyei, kik liliomok közt legelnek.
+{4:6} Mielőtt az árnyékok megnyúlnak, és hűvös szél támad, felmegyek a mirha hegyére, a tömjénillatú dombra.
+{4:7} Szerelmem, milyen tökéletes vagy, milyen gyönyörű, egészen hibátlan!
+{4:8} Jöjj velem a Libanon hegyeiről, jegyesem, jöjj velem! Hagyd ott a hegyeket, az Amaná, a Szenír és Hermón csúcsait, az oroszlánok barlangját, a párducok hegyeit!
+{4:9} Rabul ejtetted a szívemet húgom, jegyesem, egyetlen pillantásoddal, rabul ejtetted szívem nyakláncoddal.
+{4:10} Milyen gyönyörűséges, ahogy szeretsz, húgom, jegyesem! Mert, ahogy te szeretsz, az mámorítóbb a bornál! Drága olajod illatosabb minden más illatszernél!
+{4:11} Ajkadról színméz csepeg, jegyesem, méz és tej van nyelved alatt, ruháid illata, mint a libanoni cédrusoké.
+{4:12} Elzárt kert az én jegyesem, húgocskám, bekerített forrás, lepecsételt kútfő.
+{4:13} Kertedben gránátalma-liget virágzik, édes gyümölcsök teremnek, henna virít, nárdussal együtt.
+{4:14} Ott terem nárdus és sáfrány, illatos nád és fahéj, tömjénillatú fák, mirha és aloé. Mindenféle drága fűszer illatozik benne.
+{4:15} Kerteket öntöző forrás vagy, kedvesem, élő víz forrása, Libanon hegyeiről csörgedező patak!
+{i4:16} A menyasszony
+{4:16} Támadj föl északi szél! Jöjj déli szél! Fújjatok kertemre, hadd áradjon illata! Jöjjön el a kedvesem, jöjjön a kertjébe, kóstolja meg gyümölcseit!
+{i5:1} A vőlegény A barátok A menyasszony
+{5:1} Eljöttem kertembe, húgom, jegyesem! Szedem mirhámat és balzsamomat, lépes mézemet eszem és színmézemet, iszom boromat és tejemet. Barátaim, egyetek, igyatok, mámorosodjatok meg ti is!
+{5:2} Elaludtam, de szívem éberen virrasztott. Lám, kedvesem hangját hallom, amint kopogtat: „Nyiss ajtót húgom, kedvesem, nyisd ki galambom, gyönyörűm! Harmat rakódott fejemre, gyöngyharmat szállt hajamra!”
+{5:3} „Hiszen már levetkőztem, hogy is öltözzem fel újra? Megmostam lábamat, lépjek ismét a porba?”
+{5:4} Kedvesem benyújtotta kezét az ajtón, szívem-lelkem megindult utána.
+{5:5} Fel is keltem, hogy kinyissam, ujjaimról mirha csepegett, kezemről mirha folyt a reteszre.
+{5:6} Ajtót tártam kedvesemnek, de ő már elfordult, elment! Szívem majd’ kiszökött helyéből, hogy így elment. Keresni indultam, de sehol sem találtam, hívtam, kiáltva, de nem felelt.
+{5:7} Rám akadtak az őrök, akik a városra vigyáznak Megvertek, megsebeztek, köpenyem letépték a várfalak őrei.
+{5:8} Ó, Jeruzsálem leányai! Ígérjétek meg, ha rátaláltok kedvesemre, mondjátok neki, hogy betege lettem a szerelemnek!
+{i5:9} Jeruzsálem leányai
+{5:9} Miért különb szerelmesed más ifjaknál, te szépek szépe? Miért különb szerelmesed, hogy ennyire kérlelsz minket?
+{i5:10} A menyasszony
+{5:10} Ó, az én kedvesem oly ragyogó, piros arcú, hogy tízezer közül is kitűnik!
+{5:11} Feje arany, ragyogó színarany, hullámos haja hollófekete,
+{5:12} szemei, mint galambok a folyóparton, mint tejben fürdő galambok.
+{5:13} Orcája, mint balzsamos virágok ágya, melyben édes illatú fűszerek teremnek. Ajkai liliomszirmok, melyekről mirha csepeg.
+{5:14} Kezei aranyhengerek, drágakövekkel ékesítve. Dereka elefántcsont, zafírokkal díszítve.
+{5:15} Lábai márványoszlopok, aranytalapzaton. Termete, mint a libanoni cédrusé, oly nemes és fenséges.
+{5:16} Ajka édes, ő maga mindennél kívánatosabb! Ilyen a kedvesem, akit szeretek, Jeruzsálem leányai!
+{i6:1} Jeruzsálem leányai A menyasszony
+{6:1} Hová tűnt a kedvesed, szépek szépe? Merre ment a kedvesed? Hadd keressük veled együtt!
+{6:2} Kertjébe ment szerelmesem, a balzsamillatú virágok kertjébe, hogy a virágok között legeltessen, és liliomokat szedjen.
+{6:3} Én az övé vagyok, és kedvesem az enyém! Ő a liliomok között legelteti nyáját!
+{i6:4} A vőlegény
+{6:4} Szépséges vagy szerelmesem, oly szép, mint Tirca városa, mint Jeruzsálem, oly gyönyörű! Oly félelmetes, mint zászló a sereg felett!
+{6:5} Fordítsd el tekinteted rólam, mert rabul ejt szemed! Hajad, mint kecskenyáj, amely Gileád hegyéről ereszkedik alá.
+{6:6} Fogaid, mint a frissen nyírott juhok, amint a fürdetőből feljönnek, mind ikreket ellenek, és egy sem hullik el.
+{6:7} Halántékod, mint a gránátalma gerezdje, fátyolod mögött.
+{6:8} A királynék hatvanan, az ágyasok nyolcvanan vannak, a leányoknak se szeri, se száma.
+{6:9} De egyetlen az én galambom, hibátlan szerelmesem, anyjának egyetlene, szülőjének szemefénye! Csodálják őt a leányok, és boldognak mondják, dicsérik őt mind a királynék és az ágyasok:
+{i6:10} Az asszonyok
+{6:10} „Kicsoda ez?! Úgy ragyog, mint a hajnalcsillag, oly szép, mint a telihold, tiszta, mint a napfény, félelmetes, mint zászló a sereg felett!”
+{i6:11} A vőlegény
+{6:11} Lementem a diófás kertbe, hogy lássam, kizöldült-e már a patak ágya, kihajtott-e a szőlő, kinyílt-e már a gránátalma virága.
+{6:12} Észre sem vettem, mikor ő felemelt királyi harci szekerébe.
+{6:13} Jöjj vissza, te sulami leány, jöjj vissza! Térj vissza, hadd csodáljunk, térj vissza! Mit csodáltok a sulami leányon? Ahogy a Mahanaim táncot járja!
+{i7:1} A barátok A vőlegény
+{7:1} Milyen szép a lábad saruidban, te fejedelmi leány! Csípőd hajlása, mint az ékköves nyaklánc íve, mesterkéz remeke.
+{7:2} Köldököd kerek csésze, amely mindig fűszeres bort kínál. Tested, mint egy halom tiszta búza, liliomokkal kerítve.
+{7:3} Melleid, mint iker-őzikék, mint a kecses gazella kicsinyei.
+{7:4} Nyakad elefántcsont-torony, szemeid a hesbóni tavak, Bat-Rabbim kapujánál. Orrod, mint a Libanon-torony, amely Damaszkusz felé néz.
+{7:5} Fejed, mint a Kármel hegye, hajad, mint a bíbor. Fürtjeid rabul ejtik a királyt.
+{7:6} Ó, milyen csodaszép vagy, szerelmesem, milyen gyönyörű és kedves!
+{7:7} Sudár termeted, mint a datolyapálma, melleid, mint a datolyafürtök!
+{7:8} Bizony, felmegyek a pálmafára, leszedem gyümölcseit! Melleid legyenek szőlőfürtök, leheleted almaillatú!
+{i7:9} A menyasszony
+{7:9} Csókod íze, mint a legjobb boré, amely szerelmesem kedvére folyik, ajkamon fakad, fogaim között.
+{7:10} Én a kedvesemé vagyok, ő pedig engem kíván!
+{7:11} Jöjj velem, szerelmesem, menjünk a mezőre! Töltsük falun az éjszakát!
+{7:12} Hajnalban menjünk a szőlőkbe, nézzük meg, nyílik-e a szőlő virága, a gránátalma virágzik-e már! Ott leszek egészen a tiéd.
+{7:13} Édes illatát árasztja a mandragóra virága, kapunk előtt válogatott gyümölcsök várnak, frissek és aszaltak, neked tartogattam őket, szerelmesem!
+{8:1} Lennél csak a bátyám, akit anyám szoptatott! Akkor megcsókolhatnálak, akár az utcán is, mégsem szólnának meg érte!
+{8:2} Akkor bevinnélek a házba, ahol anyám felnevelt. Fűszeres borral kínálnálak, édes gránátalma-borral.
+{i8:3} A menyasszony
+{8:3} Bal karja fejem alatt, jobbjával átölel.
+{8:4} Ó Jeruzsálem leányai, ne ébresszétek fel a szerelmet, ne szítsátok fel tüzét, ameddig ő nem akarja! Meg kell ígérnetek!
+{i8:5} Jeruzsálem leányai
+{8:5} Nézzétek! Ki közeleg ott, a puszta felől? Ki az a leány, aki szerelmesére támaszkodik? Felébresztettelek az almafa alatt, ahol anyád vajúdott veled, ahol a világra hozott téged.
+{i8:6} A menyasszony
+{8:6} Tégy engem pecsétként a szívedre, hadd legyek pecsét a kezeden! Mert erős a szeretet, mint a halál, kérlelhetetlen a féltő szeretet, mint a Seol. Bizony, mint a tűz, olyan a szeretet, s lángjai az Örökkévaló lángjai!
+{8:7} Áradó folyók sem olthatják el, tengernyi víz sem győzheti le. Kínálja bár valaki minden vagyonát a szeretetért cserébe, megvetéssel elfordulnának tőle.
+{i8:8} A menyasszony fivérei
+{8:8} Kicsi még a húgocskánk, alig domborodik még a melle. Mikor feleségül kérik, mit tegyünk vele?
+{8:9} Ha városfal ő, tornyot építünk rá ezüstből, ha kapu a kőfalon, elrekesztjük cédrusfával.
+{i8:10} A menyasszony
+{8:10} Bizony, én vagyok a várfal, s két mellem annak tornyai, szerelmesem ezért boldog és elégedett velem!
+{i8:11} A vőlegény
+{8:11} Szőlőskertje volt Salamonnak Baál-Hamónban. Bérbe adta szőlőmunkásoknak, ezer ezüstöt hoztak annak terméséért.
+{8:12} De saját szőlőmet én magam gondozom! Legyen tiéd az ezer ezüst, Salamon, s legyen kétszáz az őrzőké!
+{i8:13} A vőlegény
+{8:13} Ó, te, aki a kertekben laksz! Barátaim hallgatnak szavadra, hadd halljam hangodat én is!
+{i8:14} A menyasszony
+{8:14} Jöjj hamar, szerelmesem! Siess hozzám, ahogy a gazella szökell a dombokon, ahogy a fiatal szarvas száguld a balzsamillatú fűszerek hegyein!

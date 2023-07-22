@@ -1,0 +1,300 @@
+{i1:1} Círusz király szabadon engedi a foglyokat
+{1:1} Ezek Círusz, a Perzsa Birodalom királya uralkodásának első évében történtek. Az Örökkévaló arra indította a királyt, hogy egy rendeletet adjon ki. Ezt szóban és írásban is kihirdették az egész birodalmában. Mindez azért történt, hogy az Örökkévaló szava, amelyet Jeremiás próféta által mondott, megvalósuljon. A rendelet így szólt:
+{1:2} „Ezt mondja Círusz, Perzsia királya: »Az Örökkévaló, a Menny Istene, a föld összes királyságát nekem adta. Ő parancsolta nekem, hogy templomot építsek neki Jeruzsálemben, amely Júdeában van.
+{1:3} Ezért hát, akik közületek az ő népéhez tartoznak, szabadon felmehetnek a júdeai Jeruzsálembe. Legyen veletek Istenetek, az Örökkévaló! Menjetek, és építsétek fel ott az Örökkévalónak, Izráel Istenének templomát — annak az Istennek a házát, aki Jeruzsálemben lakik!
+{1:4} A többiek pedig — akik úgy döntenek, hogy továbbra is lakóhelyükön maradnak — segítsék azokat, akik Jeruzsálembe mennek! Ajándékozzanak nekik ezüstöt és aranyat, háziállatokat és egyéb szükséges dolgokat! Adjanak önkéntes ajándékokat Isten jeruzsálemi temploma számára!«”
+{1:5} Ezt hallva mindazok, akiknek szellemét az Örökkévaló erre indította, elkezdtek készülődni, hogy hazamenjenek Jeruzsálembe, és ott felépítsék az Örökkévaló Templomát. Voltak közöttük papok, léviták és családfők Júda és Benjámin törzséből.
+{1:6} Szomszédaik mind segítették őket: ezüsttárgyakat, aranyat, háziállatokat és különféle szükséges dolgokat ajándékoztak nekik azon felül, amit a Templom számára adományoztak.
+{1:7} Círusz, a Perzsa Birodalom királya is előhozatta az Örökkévaló Templomának az eszközeit. Ezeket még Nebukadneccar király vitte el Jeruzsálemből, és helyezte el a saját isteneinek templomában.
+{1:8} Círusz parancsát követve, Mitredát, a kincstár felügyelője pontos leltár szerint át is adta ezeket Sésbaccarnak, Júda fejedelmének.
+{1:9} Ezek szerepeltek a leltárban: aranytányérok 30 db, ezüsttányérok 1 000 db, kések 29 db,
+{1:10} aranyserlegek 30 db, ezüstserlegek — az előbbiekhez hasonlók — 410 db, egyéb edények 1 000 db.
+{1:11} Mindösszesen 5 400 aranyból, illetve ezüstből készült templomi eszközt vitt magával Sésbaccar, amikor a száműzöttek Babilonból Jeruzsálembe hazatértek.
+{i2:1} A hazatérők névsora
+{2:1} A Júdea tartományából származó száműzöttek közül a következők tértek haza. Őket, illetve elődeiket még Nebukadneccar, a Babiloni Birodalom királya hurcoltatta száműzetésbe, Babilóniába. Most pedig visszatértek Jeruzsálembe és Júdea városaiba — minden család a maga eredeti lakóhelyére.
+{2:2} Ezek azok, akik Zerubbábellel együtt jöttek: Jésua, Nehemjá, Szerájá, Reélájá, Mordokaj, Bilsán, Miszpár, Bigvaj, Reúm és Baaná. Az Izráel népéhez tartozó hazatért férfiak száma, nemzetségeik és eredeti lakóhelyük szerint:
+{2:3} Parós leszármazottjai 2 172
+{2:4} Sefatja leszármazottjai 372
+{2:5} Árah leszármazottjai 775
+{2:6} Pahat-Moáb leszármazottjai, Jésua és Jóáb családjából 2 812
+{2:7} Élám leszármazottjai 1 254
+{2:8} Zattu leszármazottjai 945
+{2:9} Zakkaj leszármazottjai 760
+{2:10} Báni leszármazottjai 642
+{2:11} Bébaj leszármazottjai 623
+{2:12} Azgád leszármazottjai 1 222
+{2:13} Adónikám leszármazottjai 666
+{2:14} Bigvaj leszármazottjai 2 056
+{2:15} Ádin leszármazottjai 454
+{2:16} Átér leszármazottjai, Hizkijjá családjából 98
+{2:17} Bécaj leszármazottjai 323
+{2:18} Jóra leszármazottjai 112
+{2:19} Hásum leszármazottjai 223
+{2:20} Gibbár leszármazottjai 95
+{2:21} Betlehemből 123
+{2:22} Netófából 56
+{2:23} Anatótból 128
+{2:24} Azmávetből 42
+{2:25} Kirját-Árimból, Kefirából és Beérótból összesen 743
+{2:26} Rámából és Gebából összesen 621
+{2:27} Mikmászból 122
+{2:28} Bételből és Ajból összesen 223
+{2:29} Nebóból 52
+{2:30} Magbísból 156
+{2:31} a másik Elámból 1 254
+{2:32} Hárimból 320
+{2:33} Lódból, Hádidból és Ónóból összesen 725
+{2:34} Jerikóból 345
+{2:35} Szenáából 3 630
+{2:36} A papok közül ezek tértek vissza: Jedajá leszármazottjai, Jésua családjából 973
+{2:37} Immér leszármazottjai 1 052
+{2:38} Pashúr leszármazottjai 1 247
+{2:39} Hárim leszármazottjai 1 017
+{2:40} A léviták közül: Jésua és Kadmiél leszármazottjai, Hódavjá családjából 74
+{2:41} Az énekesek közül: Aszáf leszármazottjai 128
+{2:42} A Templom kapuőrségéhez tartozók közül: Sallúm, Átér, Talmón, Akkúb, Hatita és Sóbaj leszármazottjai közül 139
+{2:43} A templomszolgák csoportjából a következő családokba tartozók tértek vissza: a Cíhá, Haszufá, Tabbáót,
+{2:44} Kérósz, Sziahá, Pádón,
+{2:45} Lebáná, Hagábá, Akkúb,
+{2:46} Hágáb, Samlaj, Hánán,
+{2:47} Giddél, Gahar, Reája,
+{2:48} Recín, Nakódá, Gazzám,
+{2:49} Uzza, Pászéah, Bészaj,
+{2:50} Aszná, Meúnim, Nefúszim,
+{2:51} Bakbúk, Hakúfá, Harhúr,
+{2:52} Baclút, Mehídá, Harsá,
+{2:53} Barkósz, Sziszerá, Temah,
+{2:54} Necíah és Hatífá családjába tartozó leszármazottak.
+{2:55} Salamon király szolgáinak leszármazottjai közül a következő családokba tartozók tértek vissza: a Szótaj, Hasszóferet, Perudá,
+{2:56} Jalá, Darkón, Giddél,
+{2:57} Sefatjá, Hattíl, Pókeret-Haccebáim és Ámi családjába tartozó leszármazottak.
+{2:58} A templomszolgáknak és Salamon szolgáinak leszármazottjai közül összesen 392 férfi tért haza.
+{2:59} Akik feljöttek Babilóniából, azok között voltak olyanok is, akik nem tudták biztosan, hogy melyik nemzetségből származnak, ezért bizonytalan volt, hogy valóban Izráel népéhez tartoznak-e, vagy sem. A következő városokból jöttek: Tél-Melah, Tél-Harsa, Kérub, Addán és Immér.
+{2:60} Ők Delája, Tobijja és Nekoda leszármazottjai voltak, összesen 652 férfi.
+{2:61} A papok között is voltak olyanok, akiknek a származása bizonytalan volt: Hobajja, Hakkóc és Barzillaj leszármazottjai. Az utóbbiak őse a gileádi Barzillaj egyik leányát vette feleségül, ezért a felesége családjához tartozónak számított.
+{2:62} Ezek keresték a családjuk nevét a papok névjegyzékében, de nem találták. Emiatt — átmenetileg — kitörölték a nevüket a papok névjegyzékéből.
+{2:63} A kormányzó úgy határozott, hogy ők mindaddig nem ehetnek a papok számára fenntartott szent ételekből, ameddig a főpap szolgálatba nem lép — s akkor majd ő dönti el a származásuk ügyét az Úrím és Tummím segítségével.
+{2:64} Az egész közösségben, amely Babilóniából hazatért, összesen 42 360 férfi volt.
+{2:65} Ezen fölül 7 337 férfi és női rabszolgájuk, meg 200 férfi és női énekes is velük jött.
+{2:66} Ami az állataikat illeti, 736 lovat, 245 öszvért,
+{2:67} 435 tevét és 6 720 szamarat hoztak magukkal.
+{2:68} Amikor megérkeztek Jeruzsálembe, az Örökkévaló Templomához, a családfők közül egyesek szabad akaratukból ajándékot adtak az Isten Temploma számára, hogy azt ismét felépítsék az eredeti helyén.
+{2:69} Anyagi erejükhöz mérten adakoztak az újjáépítés költségeire. Összesen a következőket adták: 61 000 aranydrahmát, 5 000 mina ezüstöt és 100 öltözet ruhát a papok számára.
+{2:70} A papok, a léviták, a templomi énekesek, a templomi kapuőrség tagjai, a templomszolgák és mások is Jeruzsálemben és a környező vidéken telepedtek le. A többiek — Izráel népének nagy része — mind a saját eredeti lakóhelyeikre tértek vissza.
+{i3:1} Az oltár felépítése
+{3:1} Elérkezett a hetedik hónap, és Izráel népe egész Júda tartományában szétszórtan lakott, mindenki a maga városában. Ebben a hónapban nagy ünnepek ideje volt: a Sátorok ünnepe és a Nagy Engesztelő Áldozat ünnepe ekkor következett — ezért valamennyien egy emberként Jeruzsálembe gyűltek.
+{3:2} Ekkor Jésua, Jócádák fia a többi papokkal együtt, és Zerubbábel, Sealtiél fia a rokonaival együtt összefogtak, hogy újra felépítsék Izráel Istenének az oltárát, és égőáldozatokat mutassanak be rajta — annak megfelelően, ahogy az meg van írva Mózesnek, az Isten emberének Törvényében.
+{3:3} Az eredeti helyén építették újjá az oltárt, annak ellenére, hogy nagyon féltek a körülöttük lakó népektől. Attól kezdve, hogy az oltár felépült, minden reggel és este bemutatták az égőáldozatot az Örökkévalónak.
+{3:4} Azután megtartották a Sátorok ünnepét — aszerint, ahogy azt a Törvény előírta. Bemutatták az előírt égőáldozatokat az ünnep minden napján, annak rendje-módja szerint,
+{3:5} azután a rendszeres égőáldozatokat, továbbá az Újhold napján és az Örökkévaló többi ünnepein szükséges áldozatokat, valamint azokat, amelyeket az emberek önként adtak az Örökkévalónak.
+{3:6} Tehát, a hetedik hónap első napjától kezdve mutatták be az égőáldozatokat az Örökkévalónak — bár akkor még az Örökkévaló Templomának az újjáépítéséhez nem kezdtek hozzá.
+{i3:7} A Templom újjáépítése
+{3:7} A száműzetésből hazatértek pénzt adtak össze, hogy a kőfaragók és az ácsok kezdjék el a munkát. Ugyancsak összegyűjtöttek sok ételt, italt és olívaolajat a szidóni és tíruszi munkásoknak, hogy szállítsanak a Libanon-hegységből cédrusfákat a tengeren Jáfó kikötőjébe. Mindez annak megfelelően történt, ahogy azt Círusz, a Perzsa Birodalom királya elrendelte.
+{3:8} A második év második hónapjában — attól számítva, hogy a száműzetésből hazatértek Jeruzsálembe Isten Templomához — Zerubbábel, Sealtiél fia és Jésua, Jócádák fia hozzákezdtek az Örökkévaló Templomának újjáépítéséhez. Segítettek nekik a saját rokonaik, a többi papok, a léviták, és mindazok, akik velük együtt tértek vissza a száműzetésből. Az építési munkák vezetésével a húsz éves, vagy annál idősebb lévitákat bíztak meg.
+{3:9} Ezek a következők voltak: Jésua és a fiai meg a testvérei, Kadmiél és a fiai (Júda leszármazottjai), Hénádád fiai és azoknak testvérei és fiai, a lévitákkal együtt. Ők vállalták, hogy vezetői lesznek azoknak, akik az Isten Templomát építik.
+{3:10} Amikor az építők elkészítették az Örökkévaló Templomának az alapját, akkor ezt megünnepelték. A papok felöltöztek a papi ruhákba, kezükbe vették a trombitákat, a léviták, Aszáf fiai pedig a húros hangszereket, és mind a maguk helyére álltak. Dicsérték az Örökkévalót énekkel és hangszerekkel aszerint, ahogyan azt Dávid, Izráel királya, a maga idejében meghagyta.
+{3:11} Az énekesek csoportjai egymásnak felelgetve énekelték az ismert dicsőítő zsoltárokat: „Jó az Örökkévaló! Kegyelme és hűséges szeretete örökké tart…”. Az egész nép hangos örömujjongással dicsérte az Örökkévalót, mivel az ő Templomának az alapja már elkészült.
+{3:12} Ugyanakkor, sokan az idősebbek közül — papok, léviták és családfők, akik még látták épségben az eredeti Templomot — sírtak, amikor az új alapot látták. Azonban az idősebbek között is sokan örömükben kiáltottak.
+{3:13} A sírás és az örömkiáltás hangja összekeveredett, mert az egész nép hangosan kiáltott — és ez igen messzire elhallatszott.
+{i4:1} Izráel ellenségei akadályozzák a Templom építését
+{4:1} Júda és Benjámin törzseinek ellenségei — akik a Jeruzsálem környéki tartományokban laktak — meghallották, hogy a száműzetésből visszatértek építik az Örökkévalónak, Izráel Istenének a Templomát. Ezért felkeresték Zerubbábelt és a családfőket, és ezt ajánlották nekik: „Hadd építsünk mi is veletek együtt! Hiszen mi is a ti Isteneteket imádjuk.
+{4:2} Mi is neki mutatunk be áldozatokat, amióta Észar-Haddón, Asszíria királya ide telepített le bennünket.”
+{4:3} De Zerubbábel, Jésua, és Izráel többi családfői ezt válaszolták: „Nem, Istenünk Templomát nem építhetjük veletek együtt! Az Örökkévalónak, Izráel Istenének Templomát egyedül mi fogjuk felépíteni, ahogyan azt Círusz, Perzsia királya megparancsolta.”
+{4:4} Emiatt megharagudtak rájuk Júda ellenségei, és ettől kezdve mindent elkövettek, hogy a száműzetésből hazatérteket elbátortalanítsák, megfélemlítsék, és megakadályozzák az építésben.
+{4:5} Lefizették a Perzsa Birodalom egyes tisztségviselőit, hogy tegyenek meg minden tőlük telhetőt a Templom építésének megakadályozására. Ez így is történt Círusz király uralkodása alatt, egészen addig, amíg Dárius király trónra nem lépett.
+{4:6} Xerxész királynak — uralkodása kezdetén — Júda ellenségei vádló levelet is írtak azok ellen a zsidók ellen, akik Júdeában és Jeruzsálemben laktak.
+{i4:7} Izráel ellenségei akadályozzák Jeruzsálem újjáépítését
+{4:7} Később, amikor Artahsaszta lett a király Perzsiában, hasonló levelet írtak a királynak a zsidók ellen. Ezt a levelet Bislám, Mitredát, Tábeél és a társaik írták arám nyelven és írással.
+{4:8}  Majd Rehúm, a királyi kormányzó és Simsaj, a titkára is írtak egy hasonló levelet Jeruzsálem ellen Artahsaszta királynak:
+{4:9} „Rehúm kormányzó és Simsaj, a titkára írják ezt a levelet társaikkal együtt, a bírókkal, tisztviselőkkel, felügyelőkkel és hivatalnokokkal együtt, valamint az erekiek, bábeliek és súsániak, vagyis elámiak,
+{4:10} meg az összes többi népek nevében is, akiket a dicső és hatalmas Asznappaar király hurcolt száműzetésbe és telepített le Samária városaiban és az Eufrátesz folyótól nyugatra fekvő tartomány többi helyein.”
+{4:11} Az Artahsaszta királynak küldött levél szövegének ez a másolata: „Az Eufrátesz folyótól nyugatra fekvő tartományban lakó szolgái jelentik Artahsaszta királynak:
+{4:12} Tudd meg, ó, Király, hogy a zsidók népéhez tartozók, akik Tőled jöttek ide, megérkeztek Jeruzsálembe, és most újjáépítik azt a gonosz és lázadó várost. Megerősítik a városfal alapjait, és újra felépítik a falakat.
+{4:13} Márpedig, ha egyszer ez a város felépül, és a várfalakat megépítik, akkor — tudd meg, Ó Király — a zsidók nem fognak többé semmiféle adót, vámot és egyéb hasonlót fizetni a Királynak, s ezzel kincstárát megkárosítják.
+{4:14} Mivel mi hűségesek vagyunk a Királyhoz, nem nézhetjük tétlenül, hogy a zsidók Felséged dicsőségét kisebbítsék — ezért küldjük ezt a levelet. Egyúttal javasoljuk Felségednek, hogy
+{4:15} vizsgáltassa meg az ősei dicső tetteiről szóló évkönyveket. Ezekben meg fogja találni, hogy Jeruzsálem mindig is lázadó város volt. Minden korban bajt okozott a királyoknak és a tartományoknak, és ősidőktől fogva számos felkelés történt benne — ezért is rombolták le.
+{4:16} Felséges Király, biztosíthatunk róla, hogy ha ez a város ismét felépül, és a falait kijavítják, akkor az Eufrátesz folyótól nyugatra fekvő tartományban többé nem érvényesül uralmad.”
+{i4:17} A király leállítja a Templom újjáépítését
+{4:17} A király erre a következő levélben válaszolt: „Rehúm kormányzónak és Simsajnak, a titkárának, társaikkal együtt, akik Samáriában, és az Eufrátesz folyótól nyugatra fekvő tartomány többi helyein laknak. Békesség nektek!
+{4:18} A levelet, amelyet nekünk írtatok, világosan felolvasták előttünk.
+{4:19} Parancsomra megvizsgálták az előttem uralkodó királyok évkönyveit. Azt találták, hogy az a város régtől fogva valóban sokszor fellázadt a királyok ellen, és abban lázadások és felkelések történtek.
+{4:20} Azt találták, hogy Jeruzsálemben hatalmas királyok uralkodtak, akik uralmukat az egész Eufráteszen túli tartományra kiterjesztették, és abban mindenféle adót szedtek.
+{4:21} Ezért most parancsoljátok meg azoknak a férfiaknak, hogy azonnal hagyják abba a munkát, és azt a várost ne építsék fel, mindaddig, amíg tőlem újabb parancs nem érkezik.
+{4:22} Vigyázzatok, hogy mindezt gondosan és haladéktalanul végrehajtsátok, nehogy a királynak bármi kára származzon belőle!”
+{4:23} Artahsaszta király levelét felolvasták Rehúm, Simsaj, és társaik előtt. Ők pedig azonnal Jeruzsálembe siettek a zsidókhoz, és kényszerítették őket, hogy hagyják abba az építést.
+{4:24} Emiatt szakadt félbe az Isten Templomának építése Jeruzsálemben. A Templom építése tehát szünetelt egészen Dárius perzsa király uralkodásának második esztendejéig.
+{i5:1} Folytatják és befejezik a Templom újjáépítését
+{5:1} Abban az időben két próféta: Zakariás, Iddó fia és Haggeus prófétáltak a Júdeában és Jeruzsálemben élő zsidóknak, Izráel Istene nevében, aki fölöttük volt.
+{5:2} Akkor Zerubbábel, Sealtiél fia és Jésua, Jócádák fia ismét hozzáláttak, hogy Isten Templomának újjáépítését folytassák Jeruzsálemben. Isten prófétái pedig bátorították őket.
+{5:3} Azonban Tattenaj, az Eufrátesztől nyugatra fekvő tartomány kormányzója, és Setar-Bóznaj, meg a többi királyi hivatalnokok eljöttek Zerubbábelhez és társaihoz, és kérdőre vonták őket: „Ki adott nektek engedélyt arra, hogy ezt a templomot újjáépítsétek, és kőfalát felállítsátok?!”
+{5:4} Azután megkérdezték őket: „Mi a nevük azoknak a férfiaknak, akik itt építenek?”
+{5:5} De Isten rajta tartotta a szemét a zsidók vezetőin — ezért Tattenaj és a többiek nem kényszerítették őket, hogy állítsák le az építkezést, amíg jelentést írnak Dárius királynak, és amíg a király írásos válasza meg nem érkezik. Így az építők folytatták a munkájukat.
+{5:6} Ez a szövege annak a levélnek, amelyet Tattenaj, az Eufrátesztől nyugatra fekvő tartomány kormányzója, és Setar-Bóznaj, meg a többi királyi hivatalnokok írtak Dárius királynak:
+{5:7} „Dárius királynak, Békesség neked, ó Király!
+{5:8} Tudd meg, ó Király, hogy elmentünk Júdea tartományába, a hatalmas Isten házához. Láttuk, hogy az ott lakók építik ezt a templomot: nagy faragott kőtömbökből és gerendákból, amelyeket a falakra helyeznek. Az építkezés jól halad, és az építők szorgalmasan dolgoznak.
+{5:9} Megkérdeztük az építkezés vezetőitől, hogy ki adott nekik engedélyt a templom és a falak felépítésére.
+{5:10} Megkérdeztük a nevüket is, hogy feljegyezzük, és tudassuk veled, Király, hogy kik a vezetőik.
+{5:11} Ők így válaszoltak: »Mi azt az Istent szolgáljuk, aki a Mennyet és a Földet teremtette. Most pedig azt a Templomot építjük újjá, amelyet sok évvel ezelőtt Izráel egyik hatalmas királya épített és fejezett be.
+{5:12} De őseink haragra ingerelték a Menny Istenét, aki emiatt a káldeus Nebukadneccar, a Babiloni Birodalom királya kezébe adta őket. Nebukadneccar király leromboltatta ezt a Templomot, népünket pedig száműzetésbe vitte Babilóniába.
+{5:13} Azonban Círusz, Babilónia királya, uralkodása első évében parancsot adott, hogy Istennek ezt a Templomát újra építsük fel.
+{5:14} Sőt, előhozatta Babilon templomából azokat az arany- és ezüsteszközöket és edényeket, amelyeket még Nebukadneccar király vitt el Isten Templomából, Jeruzsálemből. Círusz király ezeket átadta Sésbaccarnak, akit ő nevezett ki kormányzónak Jeruzsálembe.
+{5:15} Azt mondta neki: Vedd át ezeket az edényeket, azután menj, és helyezd el őket a Templomban, Jeruzsálemben! Épüljön fel Isten Temploma az eredeti helyén!
+{5:16} Ez a Sésbaccar el is jött ide Jeruzsálembe, és lerakta Isten Templomának az alapját. Attól kezdve mindmáig folyik annak építése, de még nem fejeződött be.«
+{5:17} Most azért, ha a király is úgy látja jónak, rendelje el, hogy keressék meg Babilóniában, a királyi évkönyvekben, hogy valóban adott-e Círusz király parancsot arra, hogy Isten Templomát építsék fel Jeruzsálemben. Azután küldjön a Király nekünk értesítést, hogy miként határozott ebben a dologban.”
+{i6:1} Megtalálják Círusz király rendeletét
+{6:1} Akkor Dárius király megparancsolta, hogy kutassák át a régi királyi iratokat, amelyeket Babilonban, a kincstárban őriztek.
+{6:2} Találtak is egy könyvtekercset Ahmetá várában, Média tartományban, amelyre ez volt feljegyezve: „Királyi Rendelet,
+{6:3} amelyet feljegyeztek Círusz király uralkodásának első esztendejében, Isten jeruzsálemi temploma ügyében. Círusz király a következőképpen rendelkezik: »Épüljön fel újra a Templom, és mutassanak be ott áldozatokat! Erős alapra építsék! A Templom magassága és szélessége egyaránt 60 könyök legyen!
+{6:4} Három sor készüljön faragott kőtömbökből, és egy sor gerendából! Mindezeknek a költségét a királyi kincstárból fedezzék!
+{6:5} Isten házának arany- és ezüsttárgyait, amelyeket Nebukadneccar hozott el a jeruzsálemi templomból Babilonba, adják vissza, és helyezzék azokat eredeti helyükre, Isten jeruzsálemi Templomába!«”
+{i6:6} Dárius király rendelete
+{6:6} „Most azért, Tattenaj, az Eufrátesztől nyugatra fekvő tartomány kormányzója, és Setar-Bóznaj, meg a többi társaik, ne avatkozzatok bele a zsidók dolgába! Ezt én, Dárius király parancsolom nektek.
+{6:7} Ne akadályozzátok Isten templomának építését! Hagyjátok, hogy a zsidók kormányzója, és a többi vezetőik újjáépítsék azt az eredeti helyén!
+{6:8} Ezennel azt is megparancsolom nektek, hogyan segítsétek a zsidók vezetőit az Isten templomának építésében. Ezeknek a férfiaknak az építéssel kapcsolatos összes költségét a királyi jövedelmekből kell fedeznetek! Az Eufrátesztől nyugatra fekvő tartományban szedett adókból fizessétek ezeket a költségeket úgy, hogy ők az építést folyamatosan végezhessék.
+{6:9} Adjatok meg ezeknek a férfiaknak mindent, amire csak szükségük van! Ha áldozati állatokra van szükségük, hogy a Menny Istenének égőáldozatot mutassanak be, adjatok nekik bikaborjakat, kosokat és bárányokat! Ha a jeruzsálemi papoknak szükségük van az áldozatokhoz búzára, sóra, borra, olívaolajra — adjatok nekik naponta mindenből, amennyi kell!
+{6:10} Kapjanak meg mindent, hogy a Menny Istenének jó illatú áldozatokat mutassanak be, és imádkozzanak a király és fiai életéért!
+{6:11} Ezenkívül megparancsolom, hogy aki ezt a királyi rendeletet nem teljesíti, annak házából vegyenek ki egy gerendát, azt állítsák fel — őt magát húzzák karóba rajta! Az illető házát rombolják le, és tegyék szemétdombbá a gazdája miatt!
+{6:12} Az Isten, aki Jeruzsálemet kiválasztotta, hogy neve ott lakozzon, verjen meg minden királyt, vagy népet, aki megkíséreli, hogy ezt a rendeletet megszegje, vagy hogy Isten templomát Jeruzsálemben elpusztítsa! Én, Dárius, adtam ki ezt a rendeletet — és elvárom, hogy pontosan teljesítsétek!”
+{i6:13} A Templom befejezése és felszentelése
+{6:13} Tattenaj, az Eufrátesztől nyugatra fekvő tartomány kormányzója, és Setar-Bóznaj, meg a többi királyi tisztségviselő gondosan és engedelmesen végrehajtották a király rendeletét.
+{6:14} Így hát a zsidók vezetői tovább folytatták az építkezést, és jól haladtak vele — mivel Haggeus próféta és Zakariás próféta, Iddó fia a prófétálásukkal támogatták őket. Sikeresen be is fejezték a Templom újjáépítését — annak megfelelően, ahogyan azt Izráel Istene parancsolta, és aszerint, ahogy a Perzsa Birodalom királyai, Círusz, Dárius és Artahsaszta elrendelték.
+{6:15} A Templom tehát Dárius király uralkodásának hatodik évében, Adár hónap harmadik napján elkészült.
+{6:16} Akkor Izráel egész népe — a papok, léviták és az egész nép, amely a száműzetésből hazatért — nagy örömmel megünnepelte Isten Templomának a felszentelését.
+{6:17} Erre az alkalomra feláldoztak 100 bikaborjat, 200 kost, 400 bárányt, valamint 12 kecskebakot bűnért való áldozatul — Izráel egész népéért — Izráel törzsei szerint egyet-egyet.
+{6:18} Azután az Isten Templomában való szolgálatára rendelték a papokat és a lévitákat a maguk rendje szerint — ahogy az meg van írva Mózes Törvényében.
+{i6:19} Páska ünnep
+{6:19}  Az első hónap 14 napján mindazok a zsidók, akik hazatértek a száműzetésből, megtartották a Páska ünnepét.
+{6:20} A papok és a léviták valamennyien megtisztították magukat, és felkészültek az ünnepre. Majd levágták a páskabárányokat mindazok számára, akik a száműzetésből visszatértek, szolgatársaiknak, a papoknak, és saját maguknak is.
+{6:21} Így hát Izráel népe, amely hazatért a száműzetésből, részt vett a páska-vacsorán és elfogyasztotta a páskabárányt. Velük együtt részt vettek a páska-vacsorán azok is, akik csatlakoztak hozzájuk azáltal, hogy elkülönültek a tartományban élő más népektől, és azoknak tisztátalan dolgaitól. Mindezt azért tették, hogy az Örökkévalót, Izráel Istenét imádhassák.
+{6:22} Azután nagy örvendezéssel megtartották a Kovásztalan Kenyerek ünnepét is — hét napon át. Nagy volt az öröme az egész népnek, mert az Örökkévaló feléjük fordította Asszíria királyának jóindulatát, aki megsegítette őket Izráel Istene Templomának az újjáépítésében.
+{i7:1} Ezsdrás és csoportja Jeruzsálembe érkezik
+{7:1} Ezek után, Artahsaszta perzsa király uralkodásának idejében Babilóniából feljött Jeruzsálembe az írástudó Ezsdrás, akinek a származási vonala a következő: apja Szerája volt, aki Azarjá fia, aki Hilkijjá fia,
+{7:2} aki Sallum fia, aki Cádók fia, aki Ahitúb fia,
+{7:3} aki Amarjá fia, aki Azarjá fia, aki Merájót fia,
+{7:4} aki Zerahjá fia, aki Uzzi fia, aki Bukki fia,
+{7:5} aki Abisúa fia, aki Fineás fia, aki Eleázár fia, aki pedig Áronnak, a főpapnak a fia volt.
+{7:6} Ezsdrás, az írástudó, járatos volt Mózes Törvényében, amelyet az Örökkévaló, Izráel Istene adott. Istenének, az Örökkévalónak a keze nyugodott rajta, ezért a király Ezsdrás minden kérését teljesítette.
+{7:7} Vele együtt sokan mások is feljöttek: papok, léviták, énekesek,
+{7:8} kapuőrök, templomszolgák. Mindez Artahsaszta király uralkodásának hetedik évében történt.
+{7:9} Ugyanis Ezsdrás — az általa vezetett csoport élén — az első hónap első napján indult el Babilóniából, és az ötödik hónap első napján érkezett meg Jeruzsálembe, mivel Istenének keze nyugodott rajta.
+{7:10} Teljes szívvel törekedett arra, hogy tanulmányozza az Örökkévaló Törvényét, engedelmesen kövesse és megvalósítsa annak tanításait, és Izráel népét is tanítsa a Törvény határozataira és rendelkezéseire.
+{i7:11} Artahsaszta király levele
+{7:11} Ez annak a levélnek a szövege, amelyet Artahsaszta király adott Ezsdrásnak, aki pap és írástudó volt, és jól ismerte az Örökkévaló Izráelnek adott parancsait és rendelkezéseit:
+{7:12} „Artahsaszta, a királyok királya Ezsdrás papnak, aki a Menny Istenének törvényében jártas írástudó. Béke veletek!
+{7:13} Ezennel engedélyt adok rá, hogy aki birodalmamban Izráel népe, papjai vagy lévitái közül önként el akar költözni jelenlegi lakóhelyéről Jeruzsálembe, az szabadon veled mehet, Ezsdrás.
+{7:14} A Király — hét tanácsosával egyetértésben — kiküld téged, Ezsdrás, hogy menj el Júdeába és Jeruzsálembe, és vizsgáld meg, hogyan követi az ott lakó nép Istened törvényét, amely a kezedben van.
+{7:15} Kiküldünk téged, hogy vidd el az ezüstöt és az aranyat, amelyet a király és tanácsosai önként ajánlottak fel Izráel Istenének, akinek lakóhelye Jeruzsálemben van.
+{7:16} Ezen felül vidd el mindazt az ezüstöt és aranyat is, amelyet a nép és a papok adományoztak szabad akaratukból Istenük jeruzsálemi temploma számára!
+{7:17} Ezen a pénzen gondosan vásárolj borjakat, kosokat, bárányokat és egyéb, az étel- és italáldozatokhoz szükséges dolgokat — mindezeket pedig áldozd fel, és mutasd be Istened templomának oltárán Jeruzsálemben!
+{7:18} Ami ezüst és arany ezen felül megmarad, azzal úgy gazdálkodjatok, ahogyan Istenetek akarata szerint te és társaid jónak látjátok.
+{7:19} Azokat a templomi használatra szánt edényeket, amelyeket kaptál, vidd el, és add át Isten előtt Jeruzsálemben.
+{7:20} Ami pedig ezeken fölül szükséges az Istened templomában való szolgálathoz, s amit módodban áll megszerezni, vedd meg a királyi kincstár terhére.
+{7:21} Én, Artahsaszta Király parancsolom az Eufrátesztől nyugatra fekvő tartomány összes kincstárnokának, hogy amit csak Ezsdrás pap, a Menny Istenének törvényében jártas írástudó kér tőletek, mindent adjatok meg neki, mégpedig pontosan és késedelem nélkül!
+{7:22} Ennek felső határa a következő: 100 talentum ezüst, 100 kór búza, 100 bat bor, 100 bat olívaolaj. Sóból korlátozás nélkül adható, amennyi szükséges.
+{7:23} Amit a Menny Istene parancsolt a templomi áldozatokkal kapcsolatban, azt pontosan és késedelem nélkül adjátok oda Ezsdrásnak, a Menny Istene templomának számára, hogy ez az Isten meg ne haragudjon a királyra, fiaira és országukra.
+{7:24} Tudjátok meg azt is, hogy azokra, akik Isten templomában szolgálnak: a papokra, lévitákra, énekesekre, kapuőrökre, templomszolgákra és egyéb munkásokra senki sem vethet ki adót, vámot, vagy egyéb kötelezettséget.
+{7:25} Téged pedig Ezsdrás pap, felhatalmazlak, hogy Istenednek bölcsessége szerint — amely a kezedben lévő törvényben van — válassz ki, és állíts szolgálatba polgári és vallási bírákat. Ők ítélkezzenek mindazok ügyeiben, akik ismerik és követik Istened törvényét az Eufrátesztől nyugatra fekvő tartományban. Ti pedig tanítsátok azokat, akik nem ismerik Istened Törvényét!
+{7:26} Aki nem engedelmeskedik Istened törvényének vagy a Király törvényének, azt — tettéhez mérten — pontosan és késedelem nélkül ítéljék halálbüntetésre, száműzetésre, vagyonelkobzásra vagy börtönbüntetésre, és az ítéletet hajtsák is végre.”
+{i7:27} Ezsdrás hálát ad Istennek
+{7:27} Akkor Ezsdrás áldotta az Örökkévalót: „Áldott legyen az Örökkévaló, őseink Istene, aki arra indította a király szívét, hogy adományaival ékesítse az Örökkévaló Templomát Jeruzsálemben,
+{7:28} s aki irántam való hűséges szeretetét megmutatta a király és hatalmas tanácsosai és fejedelmei előtt!” Akkor én, Ezsdrás, felbátorodtam és megerősödtem, mert megértettem, hogy Istenem, az Örökkévaló keze rajtam nyugszik — ezért családfőket gyűjtöttem össze Izráel népéből, hogy velem együtt jöjjenek fel Jeruzsálembe.
+{i8:1} A családfők névsora
+{8:1} Ezek azok a családfők — és nemzetségi eredetük — akik Artahsaszta király uralkodása idején velem, Ezsdrással együtt jöttek föl Babilóniából Jeruzsálembe:
+{8:2} Fineás leszármazottjai közül: Gérsóm, Itámár leszármazottjai közül: Dániel, Dávid leszármazottjai közül: Hattús,
+{8:3} Sekanjá fia, Parós leszármazottjai közül: Zekarjá és vele 150 férfi,
+{8:4} Pahat-Moáb leszármazottjai közül: Eljehóénáj, Zerahjá fia és vele 200 férfi,
+{8:5} Zattu leszármazottjai közül: Sekanjá, Jahaziél fia és vele 300 férfi,
+{8:6} Ádin leszármazottjai közül: Ebed, Jonatán fia és vele 50 férfi,
+{8:7} Élám leszármazottjai közül: Jesája, Atalja fia és vele 70 férfi,
+{8:8} Sefatjá leszármazottjai közül: Zebadjá, Mikáél fia és vele 80 férfi,
+{8:9} Jóáb leszármazottjai közül: Óbadjá, Jehiél fia és vele 218 férfi,
+{8:10} Bani leszármazottjai közül: Selómit, Jószifjá fia és vele 160 férfi,
+{8:11} Bébaj leszármazottjai közül: Zekarjá, Bébaj fia és vele 28 férfi,
+{8:12} Azgád leszármazottjai közül: Jóhánán, Hakkátán fia és vele 110 férfi,
+{8:13} Adónikám legfiatalabb leszármazottjai közül: Elifelet, Jeiél és Semajá, és velük 60 férfi,
+{8:14} Bigvaj leszármazottjai közül: Útaj és Zabbúd, és velük 70 férfi.
+{i8:15} Hazatérés Jeruzsálembe
+{8:15} Mindezeket összegyűjtöttem ott, ahol a csatorna az Ahavá folyóba torkollik, és három napig ott táboroztunk. Átvizsgáltam a papokat és az egész népet, de a Lévi törzséből senki sem volt közöttük.
+{8:16} Ezért magamhoz hívtam Eliézer, Ariél, Semajá, Elnátán, Járib, Elnátán, Nátán, Zekarjá és Mesullám családfőket, továbbá Jójárib és Elnátán tanítókat.
+{8:17} Elküldtem őket Iddóhoz, aki vezető volt, és Kászifjában lakott. Pontosan meghagytam a küldötteknek, hogy mit mondjanak Iddónak és a rokonainak, akik mind templomszolgák voltak. Arra kértem, a küldöttek által Iddót, hogy küldjön olyan férfiakat, akik majd segítenek az Isten Temploma körüli szolgálatban.
+{8:18} Mivel Istenünk keze nyugodott rajtunk, el is küldték a következőket, akik csatlakoztak hozzánk: Sérébja, aki bölcs és értelmes férfi volt, Mahli családjából. Mahli Lévi fia volt, Lévi pedig Izráel fia. Séréblával együtt jöttek a fiai és a rokonai is, összesen 18 férfi,
+{8:19} Hasabja és Jesája, Merári leszármazottjai, fiaikkal és rokonaikkal együtt, összesen 20 férfi,
+{8:20} és 220 férfi, a templomszolgák közül — akiknek őseit még Dávid király és a vezetők állították szolgálatba, hogy segítsenek a lévitáknak. Mindannyiuk nevét feljegyeztük.
+{8:21} Ezután kihirdettem, hogy együttes böjtöt tartunk. Ez még ott történt, az Ahavá folyó partján, a táborunkban. Azért böjtöltünk, hogy megalázzuk magunkat Istenünk előtt, és biztonságos utazást kérjünk tőle mind a magunk, mind gyermekeink és minden tulajdonunk számára.
+{8:22} Ugyanis szégyelltem volna a királytól kérni őrző-védő kíséretet — katonai lovas-csapatot — az útközben leselkedő ellenség miatt. Hiszen mi magunk mondtuk a királynak: „Istenünk keze nyugszik azokon, akik őt keresik, hogy megvédje őket — de haragja és hatalma zúdul azokra, akik őt elhagyják.”
+{8:23} Tehát böjtöltünk és imádkoztunk Istenünkhöz — ő pedig meghallgatta kérésünket.
+{8:24} Azután kiválasztottam tizenkét vezetőt a papok közül: Sérébját és Hasabját, meg tíz társukat.
+{8:25} Leltár szerint, és gondosan kimérve átadtam nekik az Istenünk Temploma számára adományozott kincseket: az ezüstöt, aranyat, templomi eszközöket; a király és tanácsosai meg főemberei adományait; valamint azokat, amelyeket Izráel népének a Babilóniában élő része ajánlott fel.
+{8:26} Ezeket mértem meg, és adtam át nekik: 650 talentum ezüstöt, különböző ezüstedényeket, amelyek összesen 100 talentum értékűek voltak, 100 talentum aranyat,
+{8:27} húsz aranyedényt, amelyek összesen 100 dárik értékűek voltak és két gyönyörű bronzedényt, amelyek úgy ragyogtak, hogy szinte az arannyal is felértek.
+{8:28} Majd ezt mondtam a tizenkét papnak: „Ti szentek vagytok, az Örökkévaló választottai! Ezek a kincsek is az Örökkévalónak vannak szentelve, akárcsak ti magatok — mert akik adományozták, az Örökkévalónak, ősapáink Istenének adták azokat szabad akaratukból.
+{8:29} Ezért hát, úgy vigyázzatok rájuk, mint a szemetek fényére! Ti feleltek ezekért a kincsekért, amíg Jeruzsálemben át nem adjátok őket a Templom kincseskamrájában. Pontosan megmérve kaptátok, úgy is adjátok majd át ezeket a papok és léviták vezetőinek — Izráel családfőinek a jelenlétében!”
+{8:30} Így hát a papok és léviták átvették a lemért és leltárba vett kincseket, hogy elvigyék azokat Jeruzsálembe, Istenünk Templomába.
+{8:31} Az első hónap 12. napján indultunk Babilóniából, az Ahavá folyó partjáról Jeruzsálembe. Istenünk keze nyugodott rajtunk, és megvédett bennünket az ellenségeinktől és a rablóktól, akik az úton leselkedtek.
+{8:32} Baj nélkül meg is érkeztünk Jeruzsálembe, ahol három napig pihentünk.
+{8:33} A negyedik napon felmentünk Istenünk Templomába, megmértük és átadtuk a magunkkal hozott kincseket Merémót papnak, Úrijjá fiának. Jelen volt Eleázár, Fineás fia, és Józábád, Jésua fia, és Nóadjá, Binnúj fia — mind léviták.
+{8:34} Mindent gondosan megszámoltunk és lemértünk, majd az egészet feljegyeztük.
+{8:35} Azután mindazok, akik a száműzetésből visszatértek, égőáldozatokat mutattak be Izráel Istenének. Izráel népének 12 törzse szerint 12 bikaborjút áldoztak fel, azután 96 kost, 72 bárányt, 12 kecskebakot bűnért való áldozatul — mindezt égőáldozatként.
+{8:36} Majd átadták a király rendeletét az Eufrátesztől nyugatra fekvő tartomány kormányzóinak és helytartóinak, akik — a rendeletnek engedelmeskedve — segítették és támogatták Izráel népét, és az Isten Templomában történő áldozatokat.
+{i9:1} Ezsdrás imádsága
+{9:1} Ezután Izráel népének a vezetői hozzám jöttek, és ezt mondták: „Izráel népe — de még a papok és a léviták is — összekeveredtek a körülöttünk élő nem zsidó népekkel, és átvették ezeknek a népeknek az utálatos szokásait! Nem különültek el a kánaániak, hettiták, perizziek, jebúsziak, ammoniak, moábiak, egyiptomiak és emóriak népétől és szokásaitól,
+{9:2} mert ezek közül a népek közül vettek maguknak és fiaiknak feleségeket. Így összekeverték Izráel szent népét a környező népekkel. Sőt, az izráeli vezetők és főemberek voltak az elsők, akik ezt a hűtlenséget elkövették!”
+{9:3} Amikor ezt meghallottam, megszaggattam a ruhámat és a köpenyemet, téptem a hajamat és a szakállamat, és egészen magamba roskadva szótlanul ültem.
+{9:4} Akkor körém gyűltek azok, akik Izráel Istenének szavát istenfélő szívvel tisztelték. Félve gondoltak arra, milyen súlyos következményei lesznek annak, hogy a száműzetésből hazatért nép engedetlen volt Isten szava iránt. Én pedig szótlanul és szomorúan ültem az esti áldozat idejéig.
+{9:5} Akkor azonban összeszedtem magamat, felkeltem, és imádkozni kezdtem. Megszaggatott ruhában térdre estem, és kinyújtottam kezeimet az Örökkévalóhoz, Istenemhez,
+{9:6} és így kiáltottam hozzá: „Ó Istenem, a tekintetemet sem merem rád emelni, annyira szégyellem magam! Igen, szégyellem magam, mert bűneink egészen elborítottak bennünket, és vétkeink az égig érnek!
+{9:7} Ősapáinktól fogva mind a mai napig egyre csak halmoztuk bűneinket — s ezek miatt zúdult ránk annyi büntetés. Idegen királyok uralkodtak rajtunk, utolért bennünket a kard és száműzetés, kiraboltak és megaláztak bennünket — és mindez még ma is így van.
+{9:8} Most pedig — egy kis idővel ezelőtt — Istenünk, az Örökkévaló jóindulattal fordult hozzánk! Megengedte, hogy a száműzetésből népünk maradéka hazatérjen, és adott nekünk egy talpalatnyi helyet, hogy a Templomát újjáépítsük, ahol Istenünk felderíti arcunkat és felvidítja tekintetünket, hogy egy kissé megelevenedjünk a szolgaságból.
+{9:9} Mert igaz, hogy szolgák vagyunk, nem szabadok — de Istenünk mégsem felejtkezett el rólunk, még szolgaságunkban sem! Sőt, igen kegyelmes volt hozzánk, megelevenített bennünket, és jóindulatra indította irántunk Perzsia királyait, akik megengedték, hogy helyreállíthassuk romjaiból, és újjáépítsük Istenünk Templomát. Bizony, Istenünk, az Örökkévaló maga védelmezett meg bennünket Júdeában és Jeruzsálemben, mint egy erős kőfal!
+{9:10} Istenünk, mit is mondhatnánk ezek után? Hiszen ismét eltértünk parancsolataidtól,
+{9:11} amelyeket szolgáid, a próféták által adtál, amikor ezt mondtad: »Azt a földet, amelyre most bementek, hogy elfoglaljátok, bemocskolták a rajta lakó népek súlyos bűnei. Bizony, megfertőzték azt a földet utálatos és gonosz tetteikkel, megtöltötték azt bűneikkel egyik végétől a másikig!
+{9:12} Ezért, Izráel népe, ne keveredjetek össze velük! Ne adjátok leányaitokat feleségül az ő fiaiknak! Ne vegyetek feleséget fiaitoknak közülük! Ne segítsétek elő boldogulásukat, ne kössetek velük békét — azért, hogy erősek legyetek, élvezzétek a föld termését, és örökségül hagyjátok azt fiaitokra mindörökké.«
+{9:13} Mit is mondhatunk neked, Istenünk, mindezek után, amik velünk történtek gonoszságaink és tengernyi bűnünk miatt? Pedig te, Istenünk, nem bűneink mértéke szerint, hanem sokkal kíméletesebben bántál velünk! Sőt, még maradékot is hagytál népünkből, és megengedted, hogy e maradék hazatérjen a száműzetésből.
+{9:14} Most pedig — mindezek után — ha ismét áthágjuk parancsaidat, és összeházasodunk ezekkel az idegen népekkel, akik annyi utálatos gonoszságot követtek el, vajon nem fogsz-e haragodban eltörölni bennünket a föld színéről, hogy még írmagja sem marad népünknek?!
+{9:15} Ó Örökkévaló, Izráel Istene, igazságos Isten! Itt állunk előtted — a maradék, amelyet magadnak megőriztél — és bűneink súlya terhel bennünket. Bizony, bűnösök vagyunk mindannyian! Egyikünk sem állhat meg előtted ártatlanul.”
+{i10:1} A nép bűnvallása
+{10:1} Miközben Ezsdrás így könyörgött Istenhez, és sírva, földre borulva vallást tett népe bűneiről a Templom előtt, nagy tömeg gyűlt köré: férfiak, asszonyok és gyermekek Izráel népéből. Ők is Ezsdrással együtt sírtak, hangosan.
+{10:2} Akkor az Élám nemzetségéből való Sekanjá, Jehiél fia, ezt mondta Ezsdrásnak: „Igazad van, Ezsdrás! Valóban hűtlenséget követtünk el Istenünkkel szemben, amikor összeházasodtunk az idegen népek leányaival. Mégis van reménysége Izráelnek!
+{10:3} Kössünk hát szövetséget Istenünkkel, hogy ezeket az idegenből származó feleségeket a gyermekeikkel együtt hazaküldjük, a te tanácsod szerint, Ezsdrás — és mindazokkal egyetértésben, akik tisztelik és félik Istenünk parancsát! Igen, mi engedelmeskedni akarunk a Törvénynek!
+{10:4} Kelj fel, Ezsdrás, fogj hozzá, mert ezt a te vezetéseddel kell véghezvinnünk, és mi veled leszünk! Légy bátor és erős — és vezess bennünket!”
+{10:5} Akkor Ezsdrás összeszedte magát, felállt, és összehívta a papok, léviták és az egész nép vezetőit. Megeskette őket, hogy aszerint fognak eljárni, ahogy Sekanjá mondta — azok pedig megesküdtek.
+{10:6} Ezután Ezsdrás elment az Isten Templomától Jehóhánán, Eljásib fia szobájába, és ott szállt meg. Amíg ott tartózkodott, semmit sem evett vagy ivott — így böjtölt és gyászolt a száműzetésből hazatért nép törvényszegése miatt.
+{10:7} Azután kihirdették egész Júdeában és Jeruzsálemben, hogy mindenki jöjjön el a népgyűlésre, Jeruzsálembe.
+{10:8} Aki pedig három napon belül nem jön el, azt kiközösítik a hazatértek közösségéből, és minden vagyonát elkobozzák. Ezt a határozatot a vezetők és vének tanácsa hozta.
+{10:9} Így hát harmadnapra Júda és Benjámin törzséből minden férfi Jeruzsálembe gyűlt. Ez a kilencedik hónap 20. napján történt. Ott ültek valamennyien az Isten Temploma előtti téren, a szabad ég alatt. Nagyon aggódtak és reszkettek az egész ügy miatt, és mert hideg, esős idő volt.
+{10:10} Akkor Ezsdrás pap felállt a nép előtt, és így szólt hozzájuk: „Azzal, hogy idegen nőket vettetek feleségül, Isten ellen követtetek el hűtlenséget! Ezzel még jobban szaporítottátok Izráel bűneit.
+{10:11} Most azért ismerjétek el, és valljátok be ezt a bűnt az Örökkévaló, őseitek Istene előtt — és azután engedelmeskedjetek az Örökkévaló akaratának! Váljatok külön az idegen népektől, és váljatok el az idegen asszonyoktól!”
+{10:12} Erre az egész népgyűlés hangosan és egy emberként válaszolt: „Igazad van, Ezsdrás! Úgy teszünk mindent, ahogy mondtad!
+{10:13} De sokan vagyunk, és nyakunkon az esős évszak — nem állhatunk sokáig a szabadban. Ezt nem lehet egy-két nap alatt elrendezni — hiszen olyan sokan vagyunk vétkesek ebben.
+{10:14} A vezetőink határozzanak az egész közösség helyett: mondják meg, hogy melyik városból mikor jöjjenek ide azok a férfiak, akik idegen asszonyokat vettek feleségül. Jöjjenek ide velük együtt annak a városnak a vezetői és bírái is — együttesen döntsenek, és fordítsák el rólunk Istenünk súlyos haragját!”
+{10:15} Ezt a határozatot csak kevesen ellenezték: Jonatán, Aszáél fia és Jahzejá, Tikvá fia. Mesullám és a lévita Sabbetaj támogatták őket ebben.
+{10:16} A száműzetésből hazatértek nagy többsége azonban elfogadta ezt a javaslatot, és így is történt. Ezsdrás pap minden nemzetségből név szerint kiválasztott egy-egy családfőt. Ezekkel együtt leültek, hogy megvizsgálják az egyes családokat,
+{10:17} és határozzanak az elválás ügyében. A tizedik hónap első napján kezdték a munkát, és az első hónap első napjára be is fejezték. Minden egyes férfi ügyét megtárgyalták, aki idegen asszonyt vett feleségül.
+{i10:18} Azok névsora, akik idegen asszonyt vettek feleségül
+{10:18} A papok között is voltak, akik idegen asszonyt vettek feleségül. Ezek a következők: Jésua, Jócádák fia és Jésua testvéreinek leszármazottjai közül: Maasszéja, Eliézer, Járib és Gedaljá.
+{10:19} Ők valamennyien megígérték, hogy elküldik feleségüket, és fejenként egy-egy kost áldoznak fel bűnért való áldozatul a vétkük miatt.
+{10:20} Immér leszármazottjai közül: Hanáni és Zebadjá.
+{10:21} Hárim leszármazottjai közül: Maaszéjá, Élijjá, Semajá, Jehiél, és Uzzijjá.
+{10:22} Pashúr leszármazottjai közül: Eljóénaj, Maaszéjá, Jismáél, Netanél, Józábád és Elászá.
+{10:23} A léviták közül: Józábád, Simei, Kélájá — más néven Kelitá — , Petahjá, Jehudá, és Eliézer.
+{10:24} Az énekesek közül: Eljásib. A kapuőrök közül: Sallum, Telem és Úri.
+{10:25} Izráel népéből még ezek vettek idegen asszonyt feleségül: Parós leszármazottjai közül: Ramjá, Jizzijá, Malkijjá, Mijjámin, Eleázár, Malkijjá és Benája.
+{10:26} Élám leszármazottjai közül: Mattanjá, Zekarjá, Jehiél, Abdi, Jerémót és Élijjá.
+{10:27} Zattú leszármazottjai közül: Eljóénaj, Eljésib, Mattanjá, Jerémót, Zábád és Azízá.
+{10:28} Bébaj leszármazottjai közül: Jehóhánán, Hananjá, Zabbaj és Atlaj.
+{10:29} Báni leszármazottjai közül: Mesullám, Mallúk, Adájá, Jásúb, Seál és Jerémót.
+{10:30} Pahat-Moáb leszármazottjai közül: Adná, Kelál, Benája, Maaszéjá, Mattanjá, Becalél, Binnúj és Manassé.
+{10:31} Hárim leszármazottjai közül: Eliézer, Jissijjá, Malkijjá, Semajá, Simeon,
+{10:32} Benjámin, Mallúk és Semarjá.
+{10:33} Hásum leszármazottjai közül: Mattenaj, Mattattá, Zábád, Elifelet, Jérmaj, Manassé és Simei.
+{10:34} Báni leszármazottjai közül: Maadaj, Amrám, Úél,
+{10:35} Benája, Bédejá, Keluhú,
+{10:36} Vanjá, Merémót, Elijásib,
+{10:37} Mattanjá, Mattenaj és Jaaszaj.
+{10:38} Binnúj leszármazottjai közül: Simei,
+{10:39} Selemjá, Nátán, Adájá,
+{10:40} Maknadbaj, Sásaj, Sáraj,
+{10:41} Azarél, Selemjáhú, Semarjá,
+{10:42} Sallúm, Amarjá és Jószéf.
+{10:43} Nebó leszármazottjai közül: Jeiél, Mattitjá, Zábád, Zebíná, Jaddaj, Jóel és Benája.
+{10:44} Mindezek idegen asszonyokat vettek feleségül, akik közül sokan már gyermekeket is szültek.

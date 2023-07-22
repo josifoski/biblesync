@@ -1,0 +1,926 @@
+{i1:1} Arderile-de-tot
+{1:1} Domnul a chemat pe Moise, i-a vorbit din cortul întâlnirii şi a zis:
+{1:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când cineva dintre voi va aduce un dar Domnului, să-l aducă din vite, fie din cireadă, fie din turmă.
+{1:3} Dacă darul lui va fi o ardere-de-tot din cireadă, să-l aducă din partea bărbătească fără cusur, şi anume să-l aducă la uşa cortului întâlnirii, înaintea Domnului, ca să fie plăcut Domnului.
+{1:4} Să-şi pună mâna pe capul dobitocului adus ca ardere-de-tot, şi va fi primit de Domnul, ca să facă ispăşire pentru el.
+{1:5} Să junghie viţelul înaintea Domnului, şi preoţii, fiii lui Aaron, să aducă sângele şi să-l stropească de jur împrejur, pe altarul de la uşa cortului întâlnirii.
+{1:6} Să jupoaie viţelul adus ca ardere-de-tot şi să-l taie în bucăţi.
+{1:7} Fiii preotului Aaron să facă foc pe altar şi să pună lemne pe foc.
+{1:8} Preoţii, fiii lui Aaron, să aşeze bucăţile, capul şi grăsimea pe lemnele puse pe focul de pe altar.
+{1:9} Să spele cu apă măruntaiele şi picioarele, şi preotul să le ardă toate pe altar. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului.
+{1:10} Dacă darul lui va fi o ardere-de-tot din turmă, de miei sau capre, să aducă o parte bărbătească fără cusur.
+{1:11} Să-l junghie în partea de miazănoapte a altarului, înaintea Domnului, şi preoţii, fiii lui Aaron, să-i stropească sângele pe altar de jur împrejur.
+{1:12} El să-l taie în bucăţi, şi preotul să le pună, împreună cu capul şi grăsimea, pe lemnele din focul de pe altar.
+{1:13} Să spele cu apă măruntaiele şi picioarele, şi preotul să le aducă pe toate şi să le ardă pe altar. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului.
+{i1:14} Arderea-de-tot din păsări
+{1:14} Dacă darul adus de el Domnului va fi o ardere-de-tot din păsări, să-l aducă din turturele sau din pui de porumbel.
+{1:15} Preotul să aducă pasărea pe altar, să-i despice capul cu unghia şi s-o ardă pe altar, iar sângele să i se scurgă pe un perete al altarului.
+{1:16} Să scoată guşa cu penele ei şi s-o arunce lângă altar, spre răsărit, în locul unde se strânge cenuşa.
+{1:17} Să-i frângă aripile, fără să le dezlipească, şi preotul să ardă pasărea pe altar, pe lemnele de pe foc. Aceasta este o ardere-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului.
+{i2:1} Jertfele de mâncare
+{2:1} Când va aduce cineva Domnului un dar ca jertfă de mâncare, darul lui să fie din floarea făinii: să toarne untdelemn peste ea şi să adauge şi tămâie.
+{2:2} S-o aducă preoţilor, fiilor lui Aaron; preotul să ia un pumn din această floare a făinii, stropită cu untdelemn, împreună cu toată tămâia, şi s-o ardă pe altar ca jertfă de aducere-aminte. Acesta este un dar de mâncare de un miros plăcut Domnului.
+{2:3} Ce va rămâne din darul acesta de mâncare să fie al lui Aaron şi al fiilor lui; acesta este un lucru preasfânt între jertfele de mâncare mistuite de foc înaintea Domnului.
+{2:4} Dacă vei aduce ca jertfă de mâncare un dar din ceea ce se coace în cuptor, să aduci nişte turte nedospite, făcute din floare de făină, frământate cu untdelemn, şi nişte plăcinte nedospite, stropite cu untdelemn.
+{2:5} Dacă darul tău adus ca jertfă de mâncare va fi o turtă coaptă în tigaie, să fie făcută din floarea făinii, nedospită şi frământată cu untdelemn.
+{2:6} S-o frângi în bucăţi şi să torni untdelemn pe ea; acesta este un dar adus ca jertfă de mâncare.
+{2:7} Dacă darul tău adus ca jertfă de mâncare va fi o turtă coaptă pe grătar, să fie făcută din floarea făinii, frământată cu untdelemn.
+{2:8} Darul de mâncare făcut din aceste lucruri să-l aduci Domnului, şi anume să fie dat preotului, care-l va aduce pe altar.
+{2:9} Preotul va lua din darul de mâncare partea care trebuie adusă ca aducere-aminte şi o va arde pe altar. Acesta este un dar adus ca jertfă de mâncare, de un miros plăcut Domnului.
+{2:10} Ce va rămâne din darul acesta de mâncare să fie al lui Aaron şi al fiilor lui; acesta este un lucru preasfânt între darurile mistuite de foc înaintea Domnului.
+{i2:11} Totul fără aluat şi cu sare
+{2:11} Niciunul din darurile pe care le veţi aduce ca jertfă de mâncare înaintea Domnului să nu fie făcut cu aluat, căci nu trebuie să ardeţi nimic cu aluat sau cu miere, ca jertfă de mâncare mistuită de foc înaintea Domnului.
+{2:12} Ca jertfă de mâncare din cele dintâi roade, veţi putea să le aduceţi Domnului, dar ca dar de mâncare de un miros plăcut, să nu fie aduse pe altar.
+{2:13} Toate darurile tale de mâncare să le sărezi cu sare; să nu laşi să lipsească niciodată de pe darurile tale de mâncare sarea, care este semnul legământului Dumnezeului tău; la toate darurile tale de mâncare să aduci sare.
+{i2:14} Pârga
+{2:14} Dacă vei aduce Domnului un dar ca jertfă de mâncare din cele dintâi roade, să aduci ca dar de mâncare, din cele dintâi roade ale tale, spice coapte de curând, prăjite la foc şi boabe noi pisate.
+{2:15} Să torni untdelemn pe ele şi să adaugi şi tămâie; acesta este un dar de mâncare.
+{2:16} Preotul să ardă ca aducere-aminte o parte din boabele pisate şi din untdelemn, cu toată tămâia. Acesta este un dar adus ca jertfă de mâncare, mistuită de foc înaintea Domnului.
+{i3:1} Jertfele de mulţumire
+{3:1} Când cineva va aduce Domnului un dar ca jertfă de mulţumire, dacă îl va aduce din cireadă, fie parte bărbătească, fie parte femeiască, s-o aducă fără cusur înaintea Domnului.
+{3:2} Să pună mâna pe capul dobitocului, să-l junghie la uşa cortului întâlnirii, şi preoţii, fiii lui Aaron, să stropească sângele pe altar de jur împrejur.
+{3:3} Din această jertfă de mulţumire, să aducă drept jertfă mistuită de foc înaintea Domnului grăsimea care acoperă măruntaiele şi toată grăsimea care ţine de măruntaie,
+{3:4} cei doi rărunchi şi grăsimea de pe ei şi de pe coapse, şi prapurul de pe ficat, pe care-l va dezlipi de lângă rărunchi.
+{3:5} Fiii lui Aaron să le ardă pe altar, deasupra arderii-de-tot, care va fi pe lemnele de pe foc. Aceasta este o jertfă mistuită de foc, de un miros plăcut Domnului.
+{3:6} Dacă darul pe care-l aduce ca jertfă de mulţumire Domnului va fi din turmă, fie parte bărbătească, fie parte femeiască, s-o aducă fără cusur.
+{3:7} Dacă va aduce jertfă un miel, să-l aducă înaintea Domnului.
+{3:8} Să-şi pună mâna pe capul dobitocului şi să-l junghie înaintea cortului întâlnirii; fiii lui Aaron să-i stropească sângele pe altar, de jur împrejur.
+{3:9} Din această jertfă de mulţumire, să aducă o jertfă mistuită de foc înaintea Domnului, şi anume: grăsimea, coada întreagă, pe care o va desface de la osul spinării, grăsimea care acoperă măruntaiele şi toată grăsimea care ţine de măruntaie,
+{3:10} cei doi rărunchi şi grăsimea de pe ei, de pe coapse, şi prapurul ficatului, pe care-l va dezlipi de lângă rărunchi.
+{3:11} Preotul să le ardă pe altar. Aceasta este mâncarea unei jertfe mistuite de foc înaintea Domnului.
+{3:12} Dacă darul lui va fi o capră, s-o aducă înaintea Domnului.
+{3:13} Să-şi pună mâna pe capul vitei şi s-o junghie înaintea cortului întâlnirii, şi fiii lui Aaron să-i stropească sângele pe altar, de jur împrejur.
+{3:14} Apoi, din ea să aducă drept jertfă mistuită de foc înaintea Domnului: grăsimea care acoperă măruntaiele şi toată grăsimea care ţine de ele,
+{3:15} cei doi rărunchi şi grăsimea de pe ei, de pe coapse, şi prapurul ficatului, pe care-l va dezlipi de lângă rărunchi.
+{3:16} Preotul să le ardă pe altar. Aceasta este mâncarea unei jertfe mistuite de foc, de un miros plăcut Domnului. Toată grăsimea este a Domnului.
+{3:17} Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile unde veţi locui. Cu niciun chip să nu mâncaţi nici grăsime, nici sânge.’”
+{i4:1} Jertfele pentru ispăşire
+{4:1} Domnul a vorbit lui Moise şi a zis:
+{4:2} „Vorbeşte copiilor lui Israel şi spune: ‘Când va păcătui cineva fără voie împotriva vreuneia din poruncile Domnului, făcând lucruri care nu trebuiesc făcute, şi anume:
+{4:3} Dacă a păcătuit preotul care a primit ungerea şi, prin aceasta, a adus vina asupra poporului, să aducă Domnului un viţel fără cusur, ca jertfă de ispăşire pentru păcatul pe care l-a făcut.
+{4:4} Să aducă viţelul la uşa cortului întâlnirii, înaintea Domnului, să-şi pună mâna pe capul viţelului şi să-l junghie înaintea Domnului.
+{4:5} Preotul, care a primit ungerea, să ia din sângele viţelului şi să-l aducă în cortul întâlnirii,
+{4:6} să-şi moaie degetul în sânge şi să stropească de şapte ori înaintea Domnului, în faţa perdelei dinăuntru a Sfântului Locaş.
+{4:7} Apoi, preotul să ungă cu sânge coarnele altarului pentru tămâia mirositoare, care este înaintea Domnului în cortul întâlnirii, iar tot celălalt sânge al viţelului să-l verse la picioarele altarului pentru arderile-de-tot, care este la uşa cortului întâlnirii.
+{4:8} Să ia toată grăsimea viţelului adus ca jertfă de ispăşire, şi anume grăsimea care acoperă măruntaiele şi toată grăsimea care ţine de ele,
+{4:9} cei doi rărunchi şi grăsimea de pe ei, de pe coapse, şi prapurul ficatului, pe care-l va dezlipi de lângă rărunchi. Preotul să ia aceste părţi,
+{4:10} cum se iau de la viţelul adus ca jertfă de mulţumire, şi să le ardă pe altarul pentru arderile-de-tot.
+{4:11} Dar pielea viţelului, toată carnea lui, cu capul, picioarele, măruntaiele şi balega lui,
+{4:12} adică tot viţelul care a mai rămas, să le scoată afară din tabără, într-un loc curat, unde se aruncă cenuşa, şi să le ardă cu lemne pe foc; să fie arse pe grămada de cenuşă.
+{i4:13} Când toată adunarea a păcătuit
+{4:13} Dacă toată adunarea lui Israel a păcătuit fără voie şi fără să ştie, făcând împotriva uneia din poruncile Domnului lucruri care nu trebuiesc făcute şi făcându-se astfel vinovată,
+{4:14} şi dacă păcatul săvârşit s-a descoperit, adunarea să aducă un viţel ca jertfă de ispăşire, şi anume să-l aducă înaintea cortului întâlnirii.
+{4:15} Bătrânii adunării să-şi pună mâinile pe capul viţelului înaintea Domnului şi să junghie viţelul înaintea Domnului.
+{4:16} Preotul care a primit ungerea să aducă din sângele viţelului în cortul întâlnirii,
+{4:17} să-şi moaie degetul în sânge şi să stropească cu el de şapte ori înaintea Domnului, în faţa perdelei dinăuntru.
+{4:18} Să ungă cu sângele acesta coarnele altarului care este înaintea Domnului, în cortul întâlnirii, şi să verse tot sângele care a mai rămas la picioarele altarului pentru arderile-de-tot, care este la uşa cortului întâlnirii.
+{4:19} Toată grăsimea viţelului s-o ia şi s-o ardă pe altar.
+{4:20} Cu viţelul acesta să facă întocmai cum a făcut cu viţelul adus ca jertfă de ispăşire; să facă la fel. Astfel să facă preotul ispăşire pentru ei, şi li se va ierta.
+{4:21} Viţelul rămas să-l scoată apoi afară din tabără şi să-l ardă ca şi pe viţelul dintâi. Aceasta este o jertfă de ispăşire pentru adunare.
+{i4:22} Când păcătuieşte o căpetenie
+{4:22} Dacă o căpetenie a păcătuit făcând fără voie împotriva uneia din poruncile Domnului, Dumnezeului său, lucruri care nu trebuie făcute şi s-a făcut astfel vinovată
+{4:23} şi ajunge să descopere păcatul pe care l-a făcut, să aducă jertfă un ţap fără cusur!
+{4:24} Să-şi pună mâna pe capul ţapului şi să-l junghie în locul unde se junghie arderile-de-tot înaintea Domnului. Aceasta este o jertfă de ispăşire.
+{4:25} Preotul să ia cu degetul din sângele jertfei de ispăşire, să ungă cu el coarnele altarului pentru arderile-de-tot, iar celălalt sânge să-l verse la picioarele altarului pentru arderile-de-tot.
+{4:26} Toată grăsimea s-o ardă pe altar, cum a ars grăsimea de la jertfa de mulţumire. Astfel va face preotul pentru căpetenia aceea ispăşirea păcatului lui, şi i se va ierta.
+{4:27} Dacă cineva din poporul de rând a păcătuit fără voie, făcând împotriva uneia din poruncile Domnului lucruri care nu trebuie făcute şi s-a făcut astfel vinovat
+{4:28} şi ajunge să descopere păcatul pe care l-a făcut, să aducă jertfă o iadă fără cusur pentru păcatul pe care l-a făcut.
+{4:29} Să-şi pună mâna pe capul jertfei de ispăşire şi s-o junghie în locul unde se junghie arderile-de-tot.
+{4:30} Preotul să ia cu degetul din sângele jertfei, să ungă coarnele altarului pentru arderile-de-tot, iar tot celălalt sânge să-l verse la picioarele altarului.
+{4:31} Preotul să ia toată grăsimea, cum se ia grăsimea jertfei de mulţumire, şi s-o ardă pe altar, şi ea va fi de un miros plăcut Domnului. Astfel va face preotul ispăşirea pentru omul acesta, şi i se va ierta.
+{4:32} Dacă va aduce ca jertfă de ispăşire un miel, să aducă o parte femeiască fără cusur.
+{4:33} Să-şi pună mâna pe capul jertfei şi s-o junghie ca jertfă de ispăşire în locul unde se junghie arderile-de-tot.
+{4:34} Preotul să ia cu degetul din sângele jertfei, să ungă cu el coarnele altarului pentru arderile-de-tot, iar tot celălalt sânge să-l verse la picioarele altarului.
+{4:35} Preotul să ia toată grăsimea, cum se ia grăsimea mielului adus ca jertfă de mulţumire, şi s-o ardă pe altar, peste jertfele mistuite de foc înaintea Domnului. Astfel va face preotul pentru omul acesta ispăşirea păcatului pe care l-a săvârşit, şi i se va ierta.
+{i5:1} Tot jertfele pentru ispăşirea păcatelor
+{5:1} Când cineva, fiind pus sub jurământ ca martor, va păcătui nespunând ce a văzut sau ce ştie şi va cădea astfel sub vină
+{5:2} sau când cineva, fără să ştie, se va atinge de ceva necurat, fie de hoitul unei fiare sălbatice necurate, fie de hoitul unei vite de casă necurate, fie de hoitul unei târâtoare necurate, şi va băga apoi de seamă şi se va face astfel vinovat,
+{5:3} sau când cineva, fără să ia seama, se va atinge de vreo spurcăciune omenească, de orice spurcăciune care face pe cineva necurat, şi va băga de seamă mai târziu şi se va face astfel vinovat
+{5:4} sau când cineva, vorbind cu uşurinţă, jură că are să facă ceva rău sau bine şi, nebăgând de seamă la început, bagă de seamă mai târziu şi se va face astfel vinovat –
+{5:5} când cineva deci se va face vinovat de unul din aceste lucruri, trebuie să-şi mărturisească păcatul.
+{5:6} Apoi, să aducă lui Dumnezeu ca jertfă de vină pentru păcatul pe care l-a făcut o parte femeiască din turmă, şi anume o oaie sau o capră, ca jertfă ispăşitoare, şi preotul să facă pentru el ispăşirea păcatului lui.
+{5:7} Dacă nu va putea să aducă o oaie sau o capră, să aducă Domnului ca jertfă de vină pentru păcatul lui două turturele sau doi pui de porumbel, unul ca jertfă de ispăşire, iar celălalt ca ardere-de-tot.
+{5:8} Să le aducă preotului, care va jertfi întâi pe cea care are să slujească drept jertfă de ispăşire. Preotul să-i frângă cu unghia capul de la grumaz, fără să-l despartă,
+{5:9} să stropească un perete al altarului cu sângele jertfei de ispăşire, iar celălalt sânge să-l stoarcă la picioarele altarului – aceasta este o jertfă de ispăşire.
+{5:10} Cealaltă pasăre s-o pregătească drept ardere-de-tot, după rânduielile aşezate. Astfel va face preotul pentru omul acesta ispăşirea păcatului pe care l-a făcut, şi i se va ierta.
+{5:11} Dacă nu poate să aducă nici două turturele sau doi pui de porumbel, să aducă pentru păcatul lui, ca dar, a zecea parte dintr-o efă de floarea făinii, şi anume ca dar de ispăşire; să nu pună untdelemn pe ea şi să nu adauge nici tămâie, căci este un dar de ispăşire.
+{5:12} S-o aducă la preot, şi preotul să ia din ea un pumn plin, ca aducere-aminte, şi s-o ardă pe altar, ca şi pe darurile de mâncare mistuite de foc înaintea Domnului – acesta este un dar de ispăşire.
+{5:13} Astfel va face preotul pentru omul acela ispăşirea păcatului pe care l-a făcut faţă de unul din aceste lucruri, şi i se va ierta. Cealaltă parte, care va mai rămâne din darul acesta, să fie a preotului, ca şi la darul de mâncare.’”
+{i5:14} Jertfele pentru vină
+{5:14} Domnul a vorbit lui Moise şi a zis:
+{5:15} „Când cineva va face o nelegiuire şi va păcătui fără voie faţă de lucrurile închinate Domnului, să aducă Domnului ca jertfă de vină pentru păcatul lui un berbec fără cusur din turmă, după preţuirea ta, în sicli de argint, după siclul Sfântului Locaş.
+{5:16} Să mai adauge a cincea parte la preţul lucrului cu care a înşelat Sfântul Locaş şi să-l încredinţeze preotului. Şi preotul să facă ispăşire pentru el cu berbecul adus ca jertfă pentru vină, şi i se va ierta.
+{5:17} Când va păcătui cineva făcând, fără să ştie, împotriva uneia din poruncile Domnului lucruri care nu trebuie făcute şi se va face vinovat, purtându-şi astfel vina,
+{5:18} să aducă preotului ca jertfă pentru vină un berbec fără cusur, luat din turmă, după preţuirea ta. Şi preotul să facă pentru el ispăşirea greşelii pe care a făcut-o fără să ştie, şi i se va ierta.
+{5:19} Aceasta este o jertfă pentru vină. Omul acesta se făcuse vinovat faţă de Domnul.”
+{6:1} Domnul a vorbit lui Moise şi a zis:
+{6:2} „Când va păcătui cineva şi va săvârşi o nelegiuire faţă de Domnul, tăgăduind aproapelui său un lucru încredinţat lui sau dat în păstrarea lui, sau luat cu sila, sau va înşela pe aproapele lui,
+{6:3} tăgăduind că a găsit un lucru pierdut, sau făcând un jurământ strâmb cu privire la un lucru oarecare pe care-l face omul şi păcătuieşte,
+{6:4} când va păcătui astfel şi se va face vinovat, să dea înapoi lucrul luat cu sila sau luat prin înşelăciune, sau încredinţat lui, sau lucrul pierdut pe care l-a găsit,
+{6:5} sau lucrul pentru care a făcut un jurământ strâmb – oricare ar fi – să-l dea înapoi întreg, să mai adauge a cincea parte din preţul lui şi să-l dea în mâna stăpânului lui, chiar în ziua când îşi va aduce jertfa lui pentru vină.
+{6:6} Iar ca jertfă pentru vină, să aducă Domnului pentru păcatul lui un berbec fără cusur, luat din turmă, după preţuirea ta, şi să-l dea preotului.
+{6:7} Şi preotul va face pentru el ispăşirea înaintea Domnului, şi i se va ierta, oricare ar fi greşeala de care se va fi făcut vinovat.”
+{i6:8} Legea arderii-de-tot
+{6:8} Domnul a vorbit lui Moise şi a zis:
+{6:9} „Dă următoarea poruncă lui Aaron şi fiilor săi şi zi: ‘Iată legea arderii-de-tot. Arderea-de-tot să rămână pe vatra altarului toată noaptea, până dimineaţa, şi în felul acesta focul să ardă pe altar.
+{6:10} Preotul să se îmbrace cu tunica de in, să-şi acopere goliciunea cu izmenele, să ia cenuşa făcută de focul care va mistui arderea-de-tot de pe altar şi s-o verse lângă altar.
+{6:11} Apoi să se dezbrace de veşmintele lui şi să se îmbrace cu altele, ca să scoată cenuşa afară din tabără, într-un loc curat.
+{6:12} Focul să ardă pe altar şi să nu se stingă deloc: în fiecare dimineaţă, preotul să aprindă lemne pe altar, să aşeze arderea-de-tot pe ele şi să ardă deasupra grăsimea jertfelor de mulţumire.
+{6:13} Focul să ardă necurmat pe altar şi să nu se stingă deloc.
+{i6:14} Legea darului de mâncare
+{6:14} Iată legea darului adus ca jertfă de mâncare. Fiii lui Aaron s-o aducă înaintea Domnului, înaintea altarului.
+{6:15} Preotul să ia un pumn din floarea făinii şi din untdelemn, cu toată tămâia adăugată la darul de mâncare, şi s-o ardă pe altar ca aducere-aminte de un miros plăcut Domnului.
+{6:16} Aaron şi fiii lui să mănânce ce va mai rămâne din darul de mâncare; s-o mănânce fără aluat, într-un loc sfânt, în curtea cortului întâlnirii.
+{6:17} Să n-o coacă cu aluat. Aceasta este partea pe care le-am dat-o Eu din darurile Mele de mâncare mistuite de foc. Ea este un lucru preasfânt, ca şi jertfa de ispăşire şi ca şi jertfa pentru vină.
+{6:18} Toată partea bărbătească dintre copiii lui Aaron să mănânce din ea. Aceasta este o lege veşnică pentru urmaşii voştri, cu privire la darurile de mâncare mistuite de foc înaintea Domnului: oricine se va atinge de ele va fi sfinţit.”
+{i6:19} Darul de mâncare al preotului
+{6:19} Domnul a vorbit lui Moise şi a zis:
+{6:20} „Iată darul pe care îl vor face Domnului Aaron şi fiii lui în ziua când vor primi ungerea: a zecea parte dintr-o efă de floarea făinii, ca dar de mâncare veşnic, jumătate dimineaţa şi jumătate seara,
+{6:21} să fie pregătită în tigaie cu untdelemn şi s-o aduci prăjită; s-o aduci coaptă şi tăiată în bucăţi, ca un dar de mâncare de un miros plăcut Domnului.
+{6:22} Preotul dintre fiii lui Aaron, care va fi uns în locul lui, să aducă darul acesta ca jertfă de mâncare. Aceasta este o lege veşnică înaintea Domnului: să fie arsă întreagă.
+{6:23} Orice dar de mâncare al unui preot să fie ars în întregime: să nu se mănânce.”
+{i6:24} Legea jertfei de ispăşire
+{6:24} Domnul a vorbit lui Moise şi a zis:
+{6:25} „Vorbeşte lui Aaron şi fiilor lui şi zi-le: ‘Iată legea jertfei de ispăşire. Vita pentru jertfa de ispăşire să fie junghiată înaintea Domnului în locul unde se junghie arderea-de-tot: ea este un lucru preasfânt.
+{6:26} Preotul care va aduce jertfa de ispăşire, acela s-o mănânce, şi anume să fie mâncată într-un loc sfânt, în curtea cortului întâlnirii.
+{6:27} Oricine se va atinge de carnea ei va fi sfinţit. Dacă va sări sânge din ea pe vreun veşmânt, locul stropit cu sânge să fie spălat într-un loc sfânt.
+{6:28} Vasul de pământ în care se va fierbe să se spargă; dacă s-a fiert într-un vas de aramă, vasul să fie frecat şi spălat cu apă.
+{6:29} Toată partea bărbătească dintre preoţi să mănânce din ea: ea este un lucru preasfânt.
+{6:30} Dar să nu se mănânce nicio jertfă de ispăşire din al cărei sânge se va aduce în cortul întâlnirii pentru facerea ispăşirii în Sfântul Locaş, ci aceea să fie arsă în foc.
+{i7:1} Legea jertfei de vină
+{7:1} Iată legea jertfei pentru vină: ea este un lucru preasfânt.
+{7:2} În locul unde se junghie arderea-de-tot, să se junghie şi vita care slujeşte ca jertfă pentru vină. Sângele ei să se stropească pe altar de jur împrejur.
+{7:3} Să i se aducă toată grăsimea, coada, grăsimea care acoperă măruntaiele,
+{7:4} cei doi rărunchi şi grăsimea de pe ei, de pe coapse, şi prapurul ficatului, care va fi dezlipit de lângă rărunchi.
+{7:5} Preotul să le ardă pe altar ca jertfă mistuită de foc înaintea Domnului. Aceasta este o jertfă pentru vină.
+{7:6} Toată partea bărbătească dintre preoţi să mănânce din ea, şi anume s-o mănânce într-un loc sfânt, căci este un lucru preasfânt.
+{7:7} Cu jertfa pentru vină este ca şi cu jertfa de ispăşire; aceeaşi lege este pentru amândouă aceste jertfe: vita jertfită va fi a preotului care va face ispăşirea.
+{7:8} Preotul care va aduce arderea-de-tot a cuiva să aibă pentru el pielea arderii-de-tot pe care a adus-o.
+{7:9} Orice jertfă de mâncare coaptă în cuptor, gătită pe grătar sau în tigaie să fie a preotului care a adus-o.
+{7:10} Iar orice jertfă de mâncare frământată cu untdelemn şi uscată să fie a tuturor fiilor lui Aaron, a unuia ca şi a celuilalt.
+{i7:11} Legea jertfei de mulţumire
+{7:11} Iată legea jertfei de mulţumire, care se va aduce Domnului.
+{7:12} Dacă cineva o aduce ca jertfă de laudă, să aducă, împreună cu jertfa de mulţumire, nişte turte nedospite, frământate cu untdelemn, nişte plăcinte nedospite, stropite cu untdelemn, şi nişte turte din floarea de făină, prăjite şi frământate cu untdelemn.
+{7:13} Pe lângă aceste turte, să aducă şi pâine dospită pentru darul lui de mâncare, împreună cu jertfa lui de laudă şi de mulţumire.
+{7:14} Din toate acele daruri să aducă Domnului câte o bucată ca dar ridicat; ea să fie a preotului care stropeşte sângele jertfei de mulţumire.
+{7:15} Carnea jertfei de laudă şi de mulţumire să fie mâncată chiar în ziua în care este adusă; să nu se lase nimic din ea până dimineaţa.
+{7:16} Dacă aduce cineva o jertfă pentru împlinirea unei juruinţe sau ca dar de bunăvoie, jertfa să fie mâncată chiar în ziua când o va aduce, iar ce va rămâne din ea să se mănânce a doua zi.
+{7:17} Ce va mai rămâne din carnea vitei până a treia zi să fie ars în foc.
+{7:18} Dacă s-ar întâmpla să mănânce cineva a treia zi din carnea jertfei lui de mulţumire, jertfa lui nu va fi primită şi nu se va ţine în seamă celui ce a adus-o, ci va fi un lucru urâcios şi oricine va mânca din ea îşi va purta vina.
+{7:19} Nici carnea care s-a atins de ceva necurat nu trebuie mâncată, ci trebuie arsă în foc. Orice om curat poate să mănânce carne,
+{7:20} dar acela care, găsindu-se în stare de necurăţenie, va mânca din carnea jertfei de mulţumire, care este a Domnului, să fie nimicit din poporul său.
+{7:21} Şi cine se va atinge de ceva necurat, fie de vreo spurcăciune omenească, fie de un dobitoc necurat, fie de o altă spurcăciune, şi va mânca din carnea jertfei de mulţumire care este a Domnului să fie nimicit din poporul său’.”
+{i7:22} Să nu mănânce grăsimea şi sângele
+{7:22} Domnul a vorbit lui Moise şi a zis:
+{7:23} „Vorbeşte copiilor lui Israel şi spune: ‘Să nu mâncaţi grăsime de bou, de miel sau de capră.
+{7:24} Grăsimea unui dobitoc mort sau sfâşiat de fiară va putea să fie întrebuinţată la orice altceva, numai să n-o mâncaţi.
+{7:25} Căci cine va mânca din grăsimea dobitoacelor din care se aduc Domnului jertfe mistuite de foc va fi nimicit din poporul său.
+{7:26} Să nu mâncaţi sânge, nici de pasăre, nici de vită, în toate locurile în care veţi locui.
+{7:27} Cine va mânca vreun fel de sânge va fi nimicit din poporul său!’”
+{i7:28} Darul de mulţumire
+{7:28} Domnul a vorbit lui Moise şi a zis:
+{7:29} „Vorbeşte copiilor lui Israel şi spune-le: ‘Cine va aduce Domnului jertfa lui de mulţumire să aducă Domnului darul lui, luat din jertfa lui de mulţumire.
+{7:30} Să aducă cu mâinile lui ceea ce trebuie mistuit de foc înaintea Domnului, şi anume să aducă grăsimea cu pieptul, pieptul ca să-l legene într-o parte şi într-alta, ca dar legănat înaintea Domnului.
+{7:31} Preotul să ardă grăsimea pe altar, iar pieptul să fie al lui Aaron şi al fiilor lui.
+{7:32} Din jertfele voastre de mulţumire, să daţi preotului şi spata dreaptă, aducând-o ca dar luat prin ridicare.
+{7:33} Spata aceea dreaptă să fie partea aceluia dintre fiii lui Aaron care va aduce sângele şi grăsimea jertfei de mulţumire.
+{7:34} Căci Eu iau din jertfele de mulţumire aduse de copiii lui Israel: pieptul, care va fi legănat într-o parte şi într-alta, ca dar legănat, şi spata, care va fi adusă ca dar luat prin ridicare, şi le dau preotului Aaron şi fiilor lui, printr-o lege veşnică, pe care o vor păzi totdeauna copiii lui Israel.
+{7:35} Acesta este dreptul pe care li-l va da ungerea lui Aaron şi a fiilor lui asupra jertfelor mistuite de foc înaintea Domnului, din ziua când vor fi înfăţişaţi ca să fie în slujba Mea ca preoţi.
+{7:36} Iată ce porunceşte Domnul să le dea copiii lui Israel din ziua ungerii lor; aceasta va fi o lege veşnică printre urmaşii lor’.”
+{7:37} Aceasta este legea arderii-de-tot, a darului de mâncare, a jertfei de ispăşire, a jertfei pentru vină, a închinării în slujba Domnului şi a jertfei de mulţumire.
+{7:38} Domnul a dat-o lui Moise pe muntele Sinai în ziua când a poruncit copiilor lui Israel să-şi aducă darurile înaintea Domnului, în pustia Sinai.
+{i8:1} Sfinţirea lui Aaron şi a fiilor săi
+{8:1} Domnul a vorbit lui Moise şi a zis:
+{8:2} „Ia pe Aaron şi pe fiii lui împreună cu el, veşmintele, untdelemnul pentru ungere, viţelul pentru jertfa de ispăşire, cei doi berbeci şi coşul cu azimile
+{8:3} şi cheamă toată adunarea la uşa cortului întâlnirii.”
+{8:4} Moise a făcut cum îi poruncise Domnul, şi adunarea s-a strâns la uşa cortului întâlnirii.
+{8:5} Moise a zis adunării: „Iată ce a poruncit Domnul să se facă.”
+{8:6} Moise a adus pe Aaron şi pe fiii lui şi i-a spălat cu apă.
+{8:7} A pus tunica pe Aaron, l-a încins cu brâul, l-a îmbrăcat cu mantia şi a pus pe el efodul, pe care l-a strâns cu brâul efodului cu care l-a îmbrăcat.
+{8:8} I-a pus pieptarul şi a pus în pieptar Urim şi Tumim.
+{8:9} I-a pus mitra pe cap, iar pe partea dinainte a mitrei a aşezat placa de aur, cununa împărătească sfântă, cum poruncise lui Moise Domnul.
+{8:10} Moise a luat untdelemnul pentru ungere, a uns Sfântul Locaş şi toate lucrurile care erau în el şi le-a sfinţit.
+{8:11} A stropit cu el altarul de şapte ori şi a uns altarul şi toate uneltele lui, şi ligheanul cu piciorul lui, ca să le sfinţească.
+{8:12} Din untdelemnul pentru ungere a turnat pe capul lui Aaron şi l-a uns, ca să-l sfinţească.
+{8:13} Moise a adus şi pe fiii lui Aaron; i-a îmbrăcat cu tunicile, i-a încins cu brâiele şi le-a legat scufiile, cum poruncise lui Moise Domnul.
+{i8:14} Viţelul ispăşitor şi arderea-de-tot
+{8:14} A apropiat apoi viţelul adus ca jertfă de ispăşire, şi Aaron şi fiii lui şi-au pus mâinile pe capul viţelului adus ca jertfă de ispăşire.
+{8:15} Moise l-a junghiat, a luat sânge şi a uns cu degetul coarnele altarului de jur împrejur, şi a curăţit altarul; celălalt sânge l-a turnat la picioarele altarului şi l-a sfinţit, astfel făcând ispăşire pentru el.
+{8:16} A luat apoi toată grăsimea care acoperă măruntaiele, prapurul ficatului, cei doi rărunchi cu grăsimea lor şi le-a ars pe altar.
+{8:17} Iar cealaltă parte care a mai rămas din viţel, şi anume pielea, carnea şi balega, a ars-o în foc, afară din tabără, cum poruncise lui Moise Domnul.
+{8:18} A apropiat apoi berbecul pentru arderea-de-tot, şi Aaron şi fiii lui şi-au pus mâinile pe capul berbecului.
+{8:19} Moise l-a junghiat şi a stropit sângele pe altar de jur împrejur.
+{8:20} A tăiat berbecul în bucăţi şi a ars capul, bucăţile şi grăsimea.
+{8:21} A spălat cu apă măruntaiele şi picioarele şi a ars tot berbecul pe altar; aceasta a fost arderea-de-tot, o jertfă mistuită de foc, de un miros plăcut Domnului, cum poruncise lui Moise Domnul.
+{i8:22} Sfinţirea în slujba preoţiei
+{8:22} A adus apoi celălalt berbec, adică berbecul pentru închinarea în slujba Domnului, şi Aaron şi fiii lui şi-au pus mâinile pe capul berbecului.
+{8:23} Moise a junghiat berbecul, a luat din sângele lui şi a pus pe marginea urechii drepte a lui Aaron, pe degetul cel mare al mâinii drepte şi pe degetul cel mare de la piciorul lui cel drept.
+{8:24} A adus pe fiii lui Aaron, a pus sânge pe marginea urechii lor drepte, pe degetul cel mare al mâinii drepte şi pe degetul cel mare de la piciorul lor cel drept, iar sângele rămas l-a stropit pe altar de jur împrejur.
+{8:25} A luat grăsimea, coada, toată grăsimea care acoperă măruntaiele, prapurul ficatului, cei doi rărunchi cu grăsimea lor şi spata dreaptă;
+{8:26} a luat, de asemenea, din coşul cu azimi pus înaintea Domnului o turtă fără aluat, o turtă de pâine făcută cu untdelemn şi o plăcintă şi le-a pus pe grăsime şi pe spata dreaptă.
+{8:27} Toate aceste lucruri le-a pus în mâinile lui Aaron şi în mâinile fiilor săi şi le-a legănat într-o parte şi într-alta, ca dar legănat înaintea Domnului.
+{8:28} Apoi, Moise le-a luat din mâinile lor şi le-a ars pe altar, deasupra arderii-de-tot; aceasta a fost jertfa de închinare în slujba Domnului, o jertfă mistuită de foc, de un miros plăcut Domnului.
+{8:29} Moise a luat pieptul berbecului de închinare în slujba Domnului şi l-a legănat într-o parte şi într-alta, ca dar legănat înaintea Domnului; aceasta a fost partea lui Moise, cum poruncise lui Moise Domnul.
+{8:30} Moise a luat din untdelemnul pentru ungere şi din sângele de pe altar; a stropit cu el pe Aaron şi veşmintele lui, pe fiii lui Aaron şi veşmintele lor şi a sfinţit astfel pe Aaron şi veşmintele lui, pe fiii lui Aaron şi veşmintele lor împreună cu el.
+{8:31} Moise a zis lui Aaron şi fiilor lui: „Fierbeţi carnea la uşa cortului întâlnirii; acolo s-o mâncaţi, împreună cu pâinea care este în coş pentru jertfa de închinare în slujba Domnului, cum am poruncit zicând: ‘Aaron şi fiii lui s-o mănânce’.
+{8:32} Iar partea care va mai rămâne din carne şi din pâine s-o ardeţi în foc.
+{8:33} Timp de şapte zile să nu ieşiţi deloc din uşa cortului întâlnirii, până se vor împlini zilele pentru închinarea voastră în slujba Domnului; căci şapte zile se vor întrebuinţa pentru închinarea voastră în slujba Domnului.
+{8:34} Ce s-a făcut azi, Domnul a poruncit să se facă şi de acum încolo ca ispăşire pentru voi.
+{8:35} Să rămâneţi dar şapte zile la uşa cortului întâlnirii, zi şi noapte, şi să păziţi poruncile Domnului, ca să nu muriţi; căci aşa mi s-a poruncit.”
+{8:36} Aaron şi fiii lui au făcut toate cele poruncite de Domnul prin Moise.
+{i9:1} Jertfele lui Aaron şi ale fiilor lui
+{9:1} În ziua a opta, Moise a chemat pe Aaron şi pe fiii lui, şi pe bătrânii lui Israel.
+{9:2} Şi a zis lui Aaron: „Ia un viţel pentru jertfa de ispăşire şi un berbec pentru arderea-de-tot, amândoi fără cusur, şi adu-i înaintea Domnului.
+{9:3} Să vorbeşti copiilor lui Israel şi să le spui: ‘Luaţi un ţap pentru jertfa de ispăşire, un viţel şi un miel de un an şi fără cusur pentru arderea-de-tot;
+{9:4} un taur şi un berbec pentru jertfa de mulţumire, ca să-i jertfiţi înaintea Domnului, şi un dar de mâncare frământat cu untdelemn. Căci azi vi se va arăta Domnul’.”
+{9:5} Ei au adus înaintea cortului întâlnirii tot ce poruncise Moise, şi toată adunarea s-a apropiat şi a stat înaintea Domnului.
+{9:6} Moise a zis: „Să faceţi ce a poruncit Domnul, şi vi se va arăta slava Domnului.”
+{9:7} Moise a zis lui Aaron: „Apropie-te de altar, adu-ţi jertfa ta de ispăşire şi arderea-de-tot a ta şi fă ispăşire pentru tine şi pentru popor; adu şi jertfa poporului şi fă ispăşire pentru el, cum a poruncit Domnul.”
+{9:8} Aaron s-a apropiat de altar şi a junghiat viţelul pentru jertfa lui de ispăşire.
+{9:9} Fiii lui Aaron i-au adus sângele la el; el şi-a muiat degetul în sânge, a uns coarnele altarului, iar celălalt sânge l-a turnat la picioarele altarului.
+{9:10} A ars pe altar grăsimea, rărunchii şi prapurul ficatului de la viţelul pentru jertfa de ispăşire, cum poruncise lui Moise Domnul.
+{9:11} Iar carnea şi pielea le-a ars în foc afară din tabără.
+{9:12} A junghiat apoi arderea-de-tot. Fiii lui Aaron i-au adus sângele la el, şi el l-a stropit pe altar de jur împrejur.
+{9:13} I-au adus şi arderea-de-tot tăiată în bucăţi, cu cap cu tot, şi a ars-o pe altar.
+{9:14} A spălat măruntaiele şi picioarele şi le-a ars pe altar, deasupra arderii-de-tot.
+{9:15} În urmă, a adus jertfa pentru popor. A luat ţapul pentru jertfa de ispăşire a poporului, l-a junghiat şi l-a adus jertfă de ispăşire, ca şi pe cea dintâi jertfă.
+{9:16} A adus apoi arderea-de-tot şi a jertfit-o, după rânduielile aşezate.
+{9:17} A adus şi jertfa de mâncare, a umplut un pumn din ea şi a ars-o pe altar, afară de arderea-de-tot de dimineaţă.
+{9:18} A junghiat apoi taurul şi berbecul ca jertfă de mulţumire pentru popor. Fiii lui Aaron au adus sângele la el, şi el a stropit pe altar de jur împrejur.
+{9:19} I-au adus apoi grăsimea taurului şi a berbecului, coada, grăsimea care acoperă măruntaiele, rărunchii şi prapurul ficatului;
+{9:20} au pus grăsimile acestea deasupra piepturilor şi el a ars grăsimile pe altar.
+{9:21} Aaron a legănat într-o parte şi într-alta, ca dar legănat înaintea Domnului, piepturile şi spata dreaptă, cum poruncise lui Moise Domnul.
+{i9:22} Foc din cer
+{9:22} Aaron şi-a ridicat mâinile spre popor şi l-a binecuvântat. Apoi, după ce a adus jertfa de ispăşire, arderea-de-tot şi jertfa de mulţumire, s-a pogorât.
+{9:23} Moise şi Aaron au intrat în cortul întâlnirii. Când au ieşit din el, au binecuvântat poporul. Şi slava Domnului s-a arătat întregului popor.
+{9:24} Un foc a ieşit dinaintea Domnului şi a mistuit pe altar arderea-de-tot şi grăsimile. Tot poporul a văzut lucrul acesta; au scos strigăte de bucurie şi s-au aruncat cu faţa la pământ.
+{i10:1} Doi fii ai lui Aaron arşi
+{10:1} Fiii lui Aaron, Nadab şi Abihu, şi-au luat fiecare cădelniţa, au pus foc în ea şi au pus tămâie pe foc, şi au adus astfel înaintea Domnului foc străin, lucru pe care El nu li-l poruncise.
+{10:2} Atunci a ieşit un foc dinaintea Domnului, i-a mistuit şi au murit înaintea Domnului.
+{10:3} Moise a zis lui Aaron: „Aceasta este ce a spus Domnul când a zis: ‘Voi fi sfinţit de cei ce se apropie de Mine şi voi fi proslăvit în faţa întregului popor’.” Aaron a tăcut.
+{10:4} Şi Moise a chemat pe Mişael şi Elţafan, fiii lui Uziel, unchiul lui Aaron, şi le-a zis: „Apropiaţi-vă, scoateţi pe fraţii voştri din Sfântul Locaş şi duceţi-i afară din tabără.”
+{10:5} Ei s-au apropiat şi i-au scos afară din tabără, îmbrăcaţi în tunicile lor, cum zisese Moise.
+{10:6} Moise a zis lui Aaron, lui Eleazar şi lui Itamar, fiii lui Aaron: „Să nu vă descoperiţi capetele şi să nu vă rupeţi hainele, ca nu cumva să muriţi şi să Se mânie Domnul împotriva întregii adunări. Lăsaţi pe fraţii voştri, pe toată casa lui Israel, să plângă arderea care a venit de la Domnul.
+{10:7} Voi să nu ieşiţi din uşa cortului întâlnirii, ca să nu muriţi, căci untdelemnul ungerii Domnului este peste voi.” Ei au făcut cum zisese Moise.
+{i10:8} Părţile cuvenite lui Aaron şi fiilor lui
+{10:8} Domnul a vorbit lui Aaron şi a zis:
+{10:9} „Tu şi fiii tăi împreună cu tine să nu beţi vin, nici băutură ameţitoare când veţi intra în cortul întâlnirii, ca să nu muriţi: aceasta va fi o lege veşnică printre urmaşii voştri,
+{10:10} ca să puteţi deosebi ce este sfânt de ce nu este sfânt, ce este necurat de ce este curat,
+{10:11} şi să puteţi învăţa pe copiii lui Israel toate legile pe care li le-a dat Domnul prin Moise.”
+{10:12} Moise a zis lui Aaron, lui Eleazar şi lui Itamar, cei doi fii care mai rămăseseră lui Aaron: „Luaţi partea din darul de mâncare rămasă din jertfele mistuite de foc înaintea Domnului şi mâncaţi-o fără aluat lângă altar, căci este un lucru preasfânt.
+{10:13} S-o mâncaţi într-un loc sfânt; acesta este dreptul tău şi dreptul fiilor tăi, ca parte din darurile de mâncare mistuite de foc înaintea Domnului, căci aşa mi-a fost poruncit.
+{10:14} Să mâncaţi, de asemenea, într-un loc curat, tu, fiii tăi şi fiicele tale împreună cu tine, pieptul care a fost legănat într-o parte şi alta şi spata care a fost adusă ca jertfă prin ridicare, căci ele vă sunt date, ca un drept cuvenit ţie şi ca un drept cuvenit fiilor tăi, din jertfele de mulţumire ale copiilor lui Israel.
+{10:15} Împreună cu grăsimile rânduite să fie mistuite de foc, ei vor aduce spata adusă ca jertfă prin ridicare şi pieptul care se leagănă într-o parte şi alta înaintea Domnului; ele vor fi ale tale şi ale fiilor tăi împreună cu tine, printr-o lege veşnică, aşa cum a poruncit Domnul.”
+{10:16} Moise a căutat ţapul adus ca jertfă de ispăşire şi iată că fusese ars. Atunci s-a mâniat pe Eleazar şi Itamar, fiii care mai rămăseseră lui Aaron, şi a zis:
+{10:17} „Pentru ce n-aţi mâncat jertfa de ispăşire într-un loc sfânt? Ea este un lucru preasfânt, şi Domnul v-a dat-o ca să purtaţi nelegiuirea adunării şi să faceţi ispăşire pentru ea înaintea Domnului.
+{10:18} Iată că sângele jertfei n-a fost dus înăuntrul Sfântului Locaş; trebuia s-o mâncaţi în Sfântul Locaş, cum am poruncit.”
+{10:19} Aaron a răspuns lui Moise: „Iată, ei şi-au adus azi jertfa de ispăşire şi arderea-de-tot înaintea Domnului, şi, după cele ce mi s-au întâmplat, dacă aş fi mâncat azi jertfa de ispăşire, ar fi fost bine oare înaintea Domnului?”
+{10:20} Moise a auzit şi a fost mulţumit cu aceste cuvinte.
+{i11:1} Dobitoacele curate şi necurate
+{11:1} Domnul a vorbit lui Moise şi lui Aaron şi le-a zis:
+{11:2} „Vorbiţi copiilor lui Israel şi spuneţi-le: ‘Iată dobitoacele pe care le veţi mânca dintre toate dobitoacele de pe pământ.
+{11:3} Să mâncaţi orice dobitoc care are unghia despicată, copita despărţită şi rumegă.
+{11:4} Dar să nu mâncaţi din cele ce rumegă numai sau care au numai unghia despicată. Astfel, să nu mâncaţi cămila, care rumegă, dar n-are unghia despicată; s-o priviţi ca necurată.
+{11:5} Să nu mâncaţi iepurele de casă, care rumegă, dar n-are unghia despicată; să-l priviţi ca necurat.
+{11:6} Să nu mâncaţi iepurele, care rumegă, dar n-are unghia despicată; să-l priviţi ca necurat.
+{11:7} Să nu mâncaţi porcul, care are unghia despicată şi copita despărţită, dar nu rumegă; să-l priviţi ca necurat.
+{11:8} Să nu mâncaţi din carnea lor şi să nu vă atingeţi de trupurile lor moarte; să le priviţi ca necurate.
+{11:9} Iată vieţuitoarele pe care să le mâncaţi dintre toate cele ce sunt în ape. Să mâncaţi din toate cele ce au aripi (înotătoare) şi solzi şi care sunt în ape, fie în mări, fie în râuri.
+{11:10} Dar să priviţi ca o urâciune pe toate cele ce n-au aripi şi solzi din tot ce mişună în ape şi tot ce trăieşte în ape, fie în mări, fie în râuri.
+{11:11} Să le priviţi ca o urâciune, să nu mâncaţi din carnea lor, şi trupurile lor moarte să le priviţi ca o urâciune.
+{11:12} Să priviţi ca o urâciune pe toate cele care n-au aripi şi solzi în ape.
+{11:13} Iată dintre păsări cele pe care le veţi privi ca o urâciune şi din care să nu mâncaţi: vulturul, gripsorul şi vulturul de mare;
+{11:14} şorecarul, şoimul şi tot ce este din neamul lui;
+{11:15} corbul şi toate soiurile lui;
+{11:16} struţul, bufniţa, pescărelul, coroiul şi tot ce ţine de neamul lui;
+{11:17} huhurezul, heretele şi cocostârcul;
+{11:18} lebăda, pelicanul şi corbul de mare;
+{11:19} barza, bâtlanul şi ce este din neamul lui, pupăza şi liliacul.
+{11:20} Să priviţi ca o urâciune orice târâtoare care zboară şi umblă pe patru picioare.
+{11:21} Dar, dintre toate târâtoarele care zboară şi umblă pe patru picioare, să mâncaţi pe cele ce au fluierul picioarelor dinapoi mai lung, ca să poată sări pe pământ.
+{11:22} Iată pe care să le mâncaţi: lăcusta, lăcusta solam, lăcusta hargol şi lăcusta hagab, după soiurile lor.
+{11:23} Pe toate celelalte târâtoare care zboară şi care au patru picioare să le priviţi ca o urâciune.
+{11:24} Ele vă vor face necuraţi: oricine se va atinge de trupurile lor moarte va fi necurat până seara
+{11:25} şi oricine va purta trupurile lor moarte să-şi spele hainele şi va fi necurat până seara.
+{11:26} Să priviţi ca necurat orice dobitoc cu unghia despicată, dar care n-are copita despărţită şi nu rumegă: oricine se va atinge de el va fi necurat.
+{11:27} Să priviţi ca necurate toate acele dobitoace cu patru picioare, care umblă pe labele lor: oricine se va atinge de trupurile lor moarte va fi necurat până seara
+{11:28} şi oricine le va purta trupurile moarte îşi va spăla hainele şi va fi necurat până seara. Să le priviţi ca necurate.
+{11:29} Iată, din vietăţile care se târăsc pe pământ, cele pe care le veţi privi ca necurate: cârtiţa, şoarecele şi şopârla, după soiurile lor;
+{11:30} ariciul, broasca, broasca ţestoasă, melcul şi cameleonul.
+{11:31} Să le priviţi ca necurate dintre toate târâtoarele. Oricine se va atinge de ele moarte va fi necurat până seara.
+{11:32} Orice lucru pe care va cădea ceva din trupurile lor moarte va fi necurat, fie vas de lemn, fie haină, fie piele, fie sac, fie orice alt lucru care se întrebuinţează la ceva; să fie pus în apă şi va rămâne necurat până seara; după aceea va fi curat.
+{11:33} Tot ce se va găsi într-un vas de pământ în care va cădea ceva din aceste trupuri moarte va fi necurat şi veţi sparge vasul.
+{11:34} Orice lucru de mâncare pe care va cădea ceva din apa aceasta va fi necurat şi orice băutură care se întrebuinţează la băut, oricare ar fi vasul în care se va găsi, va fi necurată.
+{11:35} Orice lucru pe care va cădea ceva din trupurile lor moarte va fi necurat; cuptorul şi vatra să se dărâme; vor fi necurate şi le veţi privi ca necurate.
+{11:36} Numai izvoarele şi fântânile, care alcătuiesc grămezi de ape, vor rămâne curate, dar cine se va atinge de trupurile lor moarte va fi necurat.
+{11:37} Dacă se întâmplă să cadă ceva din trupurile lor moarte pe o sămânţă care trebuie semănată, ea va rămâne curată.
+{11:38} Dar, dacă se pusese apă pe sămânţă şi cade pe ea ceva din trupurile lor moarte, va fi necurată.
+{11:39} Dacă moare una din vitele care vă slujesc ca hrană, cine se va atinge de trupul ei mort va fi necurat până seara;
+{11:40} cine va mânca din trupul ei mort îşi va spăla hainele şi va fi necurat până seara şi cine va purta trupul ei mort îşi va spăla hainele şi va fi necurat până seara.
+{11:41} Pe orice târâtoare care se târăşte pe pământ, s-o priviţi ca necurată; să nu se mănânce.
+{11:42} Din toate târâtoarele care se târăsc pe pământ, din toate cele ce se târăsc pe pântece, să nu mâncaţi; nici din toate cele ce umblă pe patru picioare sau pe un mare număr de picioare, ci să le priviţi ca o urâciune.
+{11:43} Să nu vă faceţi urâcioşi prin toate aceste târâtoare care se târăsc; să nu vă faceţi necuraţi prin ele, să nu vă spurcaţi prin ele.
+{11:44} Căci Eu sunt Domnul, Dumnezeul vostru. Voi să vă sfinţiţi şi fiţi sfinţi, căci Eu sunt sfânt; să nu vă faceţi necuraţi prin toate aceste târâtoare care se târăsc pe pământ.
+{11:45} Căci Eu sunt Domnul, care v-am scos din ţara Egiptului ca să fiu Dumnezeul vostru şi să fiţi sfinţi, căci Eu sunt sfânt.
+{11:46} Aceasta este legea privitoare la dobitoacele, păsările, toate vieţuitoarele care se mişcă în ape şi toate vietăţile care se târăsc pe pământ,
+{11:47} ca să faceţi deosebire între ce este necurat şi ce este curat, între dobitocul care se mănâncă şi dobitocul care nu se mănâncă’.”
+{i12:1} Curăţirea femeilor după naştere
+{12:1} Domnul a vorbit lui Moise şi a zis:
+{12:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când o femeie va rămâne însărcinată şi va naşte un copil de parte bărbătească, să fie necurată şapte zile; să fie necurată ca în vremea sorocului ei.
+{12:3} În ziua a opta, copilul să fie tăiat împrejur.
+{12:4} Femeia să mai rămână încă treizeci şi trei de zile, ca să se cureţe de sângele ei; să nu se atingă de niciun lucru sfânt şi să nu se ducă la Sfântul Locaş până nu se vor împlini zilele curăţirii ei.
+{12:5} Dacă naşte o fată, să fie necurată două săptămâni, ca pe vremea când i-a venit sorocul, şi să rămână şaizeci şi şase de zile ca să se curăţească de sângele ei.
+{12:6} Când se vor împlini zilele curăţirii ei, pentru un fiu sau pentru o fiică, să aducă preotului, la uşa cortului întâlnirii, un miel de un an pentru arderea-de-tot şi un pui de porumbel sau o turturea pentru jertfa de ispăşire.
+{12:7} Preotul să le jertfească înaintea Domnului şi să facă ispăşire pentru ea şi, astfel, ea va fi curăţită de curgerea sângelui ei. Aceasta este legea pentru femeia care naşte un băiat sau o fată.
+{12:8} Dacă nu poate să aducă un miel, să ia două turturele sau doi pui de porumbel, unul pentru arderea-de-tot, altul pentru jertfa de ispăşire. Preotul să facă ispăşire pentru ea, şi va fi curată’.”
+{i13:1} Lepra de oameni
+{13:1} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{13:2} „Când un om va avea pe pielea trupului o umflătură, o pecingine sau o pată albă, care va semăna cu o rană de lepră pe pielea trupului lui, trebuie adus la preotul Aaron sau la unul din fiii lui, care sunt preoţi.
+{13:3} Preotul să cerceteze rana de pe pielea trupului. Dacă părul din rană s-a făcut alb şi dacă rana se arată mai adâncă decât pielea trupului, este o rană de lepră: preotul care va face cercetarea să declare pe omul acela necurat.
+{13:4} Dacă pe pielea trupului va fi o pată albă care nu se arată mai adâncă decât pielea şi dacă părul nu s-a făcut alb, preotul să închidă şapte zile pe cel cu rana.
+{13:5} A şaptea zi, preotul să-l cerceteze iarăşi. Dacă i se pare că rana a stat pe loc şi nu s-a întins pe piele, preotul să-l închidă a doua oară încă şapte zile.
+{13:6} Preotul să-l cerceteze a doua oară în ziua a şaptea. Dacă rana a mai scăzut şi nu s-a întins pe piele, preotul va spune că omul acesta este curat: este o pecingine; el să-şi spele hainele, şi va fi curat.
+{13:7} Dar, dacă pecinginea s-a întins pe piele după ce s-a arătat el preotului şi după ce acesta l-a declarat curat, să se mai supună încă o dată cercetării preotului.
+{13:8} Preotul îl va cerceta. Dacă pecinginea s-a întins pe piele, preotul îl va declara necurat: este lepră.
+{13:9} Când se va arăta o rană de lepră pe un om, să fie adus la preot.
+{13:10} Preotul să-l cerceteze. Şi, dacă are pe piele o umflătură albă, dacă umflătura aceasta a făcut ca părul să albească şi în umflătură este şi o urmă de carne vie,
+{13:11} atunci pe pielea trupului omului acestuia este o lepră învechită: preotul să-l declare necurat. Să nu-l închidă, căci este necurat.
+{13:12} Dacă lepra va face o spuzeală pe piele şi va acoperi toată pielea celui cu rana, din cap până în picioare, pretutindeni pe unde-şi va arunca preotul privirile,
+{13:13} preotul să-l cerceteze şi, dacă va vedea că lepra a acoperit tot trupul, să declare curat pe cel cu rana; fiindcă s-a făcut toată albă, el este curat.
+{13:14} Dar, în ziua când se va vedea în el carne vie, va fi necurat;
+{13:15} când preotul va vedea carnea vie, să-l declare necurat: carnea vie este necurată, este lepră.
+{13:16} Dacă se schimbă carnea vie şi se face albă, să se ducă la preot;
+{13:17} preotul să-l cerceteze şi, dacă rana s-a făcut albă, preotul să declare curat pe cel cu rana: el este curat.
+{13:18} Când un om va avea pe pielea trupului său o bubă care a fost tămăduită,
+{13:19} şi pe locul unde era buba se va arăta o umflătură albă sau o pată de un alb roşiatic, omul acela să se arate preotului.
+{13:20} Preotul să-l cerceteze. Dacă pata pare mai adâncă decât pielea şi dacă părul s-a făcut alb, preotul să-l declare necurat: este o rană de lepră, care a dat în bubă.
+{13:21} Dacă preotul vede că nu este păr alb în pată, că ea nu este mai adâncă decât pielea şi că a mai scăzut, să închidă pe omul acela şapte zile.
+{13:22} Dacă s-a întins pata pe piele, preotul să-l declare necurat: este o rană de lepră.
+{13:23} Dar, dacă pata a rămas pe loc şi nu s-a întins, este semnul rănii uscate, unde a fost buba; preotul să-l declare curat.
+{13:24} Când un om va avea pe pielea trupului o arsură pricinuită de foc şi se va arăta pe urma arsurii o pată albă sau de un alb roşiatic,
+{13:25} preotul să-l cerceteze. Dacă părul din pată s-a făcut alb şi ea pare mai adâncă decât pielea, este lepră, care a dat în arsură. Preotul să declare pe omul acela necurat: este o rană de lepră.
+{13:26} Dacă preotul vede că nu este păr alb în pată, că ea nu este mai adâncă decât pielea şi că a mai scăzut, să închidă pe omul acela şapte zile.
+{13:27} Preotul să-l cerceteze a şaptea zi şi, dacă pata s-a întins pe piele, preotul să-l declare necurat: este o rană de lepră.
+{13:28} Dar, dacă pata a rămas pe loc, nu s-a întins pe piele şi a mai scăzut, este o rană pricinuită de umflătura arsurii; preotul să-l declare curat, căci este semnul rănii vindecate a arsurii.
+{13:29} Când un bărbat sau o femeie va avea o rană pe cap sau la barbă,
+{13:30} preotul să cerceteze rana. Dacă pare mai adâncă decât pielea şi are păr gălbui şi subţire, preotul să declare pe omul acela necurat: este râie de cap, este lepră de cap sau de barbă.
+{13:31} Dacă preotul vede că rana râiei nu pare mai adâncă decât pielea şi n-are păr negru, să închidă şapte zile pe cel cu rana de râie la cap.
+{13:32} Preotul să cerceteze rana a şaptea zi. Dacă râia nu s-a întins, dacă n-are păr gălbui şi dacă nu pare mai adâncă decât pielea,
+{13:33} cel cu râia la cap să se radă, dar să nu radă locul unde este râia şi preotul să-l închidă a doua oară şapte zile.
+{13:34} Preotul să cerceteze râia a şaptea zi. Dacă râia nu s-a întins pe piele şi nu pare mai adâncă decât pielea, preotul să-l declare curat. El să-şi spele hainele şi va fi curat.
+{13:35} Dar, dacă râia s-a întins pe piele după ce a fost declarat curat,
+{13:36} preotul să-l cerceteze. Şi, dacă râia s-a întins pe piele, preotul n-are să mai caute să vadă dacă are păr gălbui: este necurat.
+{13:37} Dacă i se pare că râia a stat pe loc şi că din ea a crescut păr negru, râia este vindecată: este curat şi preotul să-l declare curat.
+{13:38} Când un bărbat sau o femeie va avea pete pe pielea trupului, şi anume pete albe,
+{13:39} preotul să-l cerceteze. Dacă pe pielea trupului lui sunt pete de un alb gălbui, acestea nu sunt decât nişte pete care au făcut spuzeală pe piele: este curat.
+{13:40} Când unui om îi va cădea părul de pe cap, este pleşuv: este curat.
+{13:41} Dacă i-a căzut părul de pe cap numai în partea dinainte, este pleşuv în partea dinainte: este curat.
+{13:42} Dar, dacă în partea pleşuvă dinainte sau dinapoi este o rană de un alb roşiatic, este lepră, care a făcut spuzeală în partea pleşuvă dinainte sau dinapoi.
+{13:43} Preotul să-l cerceteze. Dacă în partea pleşuvă dinapoi sau dinainte este o umflătură de rană de un alb roşiatic, asemănătoare cu lepra de pe pielea trupului,
+{13:44} este lepros, este necurat. Preotul să-l declare necurat; rana lui este pe cap.
+{13:45} Leprosul, atins de această rană, să-şi poarte hainele sfâşiate şi să umble cu capul gol; să-şi acopere barba şi să strige: ‘Necurat! Necurat!’
+{13:46} Câtă vreme va avea rana, va fi necurat: este necurat. Să locuiască singur; locuinţa lui să fie afară din tabără.
+{i13:47} Semnele leprei de pe haine
+{13:47} Când se va arăta o rană de lepră pe o haină, fie haină de lână, fie haină de in,
+{13:48} în urzeala sau în bătătura de in sau de lână, pe o piele sau pe vreun lucru de piele,
+{13:49} şi rana va fi verzuie sau roşiatică pe haină sau pe piele, în urzeală sau în bătătură, sau pe vreun lucru de piele, este o rană de lepră şi trebuie arătată preotului.
+{13:50} Preotul să cerceteze rana şi să închidă şapte zile lucrul cu rana.
+{13:51} Să cerceteze a şaptea zi rana. Dacă rana s-a întins pe haină, în urzeală sau în bătătură, pe piele sau pe lucrul acela de piele, este o rană de lepră învechită: lucrul acela este necurat.
+{13:52} Să ardă haina, urzeala sau bătătura de lână sau de in, sau lucrul de piele pe care se găseşte rana, căci este o lepră învechită: să fie ars în foc.
+{13:53} Dar, dacă preotul vede că rana nu s-a întins pe haină, pe urzeală sau pe bătătură, sau pe lucrul acela de piele,
+{13:54} să poruncească să se spele partea atinsă de rană şi să-l închidă a doua oară şapte zile.
+{13:55} Preotul să cerceteze rana după ce se va spăla. Şi, dacă rana nu şi-a schimbat înfăţişarea şi nu s-a întins, lucrul acela este necurat: să fie ars în foc, căci o parte din faţă sau din dos a fost roasă.
+{13:56} Dacă preotul vede că rana a mai scăzut după ce a fost spălată, s-o rupă din haină sau din piele, din urzeală sau din bătătură.
+{13:57} Şi, dacă se mai iveşte pe haină, în urzeală sau în bătătură, sau pe lucrul de piele, înseamnă că este o spuzeală de lepră: lucrul atins de rană să fie ars în foc.
+{13:58} Haina, urzeala sau bătătura, sau vreun lucru de piele care a fost spălat şi unde a pierit rana, să se mai spele a doua oară şi va fi curat.
+{13:59} Aceasta este legea privitoare la rana leprei, când loveşte hainele de lână sau de in, urzeala sau bătătura, sau un lucru oarecare de piele şi după care vor fi declarate curate sau necurate.”
+{i14:1} Curăţirea leprei de pe om
+{14:1} Domnul a vorbit lui Moise şi a zis:
+{14:2} „Iată care va fi legea cu privire la cel lepros în ziua curăţirii lui. Să-l aducă înaintea preotului.
+{14:3} Preotul să iasă afară din tabără şi să cerceteze pe cel lepros. Dacă leprosul este tămăduit de rana leprei,
+{14:4} preotul să poruncească să se ia, pentru cel ce trebuie curăţit, două păsări vii şi curate, lemn de cedru, cârmâz şi isop.
+{14:5} Preotul să poruncească să se junghie una din aceste păsări într-un vas de pământ, în apă curgătoare.
+{14:6} Să ia pasărea cea vie, lemnul de cedru, cârmâzul şi isopul şi să le înmoaie, împreună cu pasărea cea vie, în sângele păsării înjunghiate în apa curgătoare.
+{14:7} Să stropească de şapte ori pe cel ce trebuie curăţit de lepră. Apoi să-l declare curat şi să dea drumul păsării celei vii pe câmp.
+{14:8} Cel ce se curăţeşte trebuie să-şi spele hainele, să-şi radă tot părul şi să se scalde în apă şi va fi curat. Apoi va putea să intre în tabără, dar să rămână şapte zile afară din cort.
+{14:9} În ziua a şaptea, să-şi radă tot părul, capul, barba şi sprâncenele: tot părul să şi-l radă; să-şi spele hainele şi să-şi scalde trupul în apă şi va fi curat.
+{14:10} A opta zi, să ia doi miei fără cusur şi o oaie de un an fără cusur, trei zecimi dintr-o efă de floarea făinii, ca dar de mâncare, frământat cu untdelemn, şi un log (pahar) de untdelemn.
+{14:11} Preotul care face curăţirea să aducă înaintea Domnului pe omul care se curăţă şi toate lucrurile acestea, la uşa cortului întâlnirii.
+{14:12} Preotul să ia unul din miei şi să-l aducă jertfă pentru vină, împreună cu logul de untdelemn; să le legene într-o parte şi într-alta înaintea Domnului, ca dar legănat.
+{14:13} Să înjunghie mielul în locul unde se înjunghie jertfele de ispăşire şi arderile-de-tot, adică în Locul Sfânt, căci la jertfa pentru vină, ca şi la jertfa de ispăşire, dobitocul pentru jertfă va fi al preotului: el este un lucru preasfânt.
+{14:14} Preotul să ia din sângele jertfei de ispăşire; să pună pe marginea urechii drepte a celui ce se curăţeşte, pe degetul cel mare de la mâna dreaptă a lui şi pe degetul cel mare de la piciorul drept.
+{14:15} Preotul să ia untdelemn din log şi să toarne în palma mâinii stângi.
+{14:16} Preotul să-şi înmoaie degetul mâinii drepte în untdelemnul din palma mâinii stângi şi să stropească din untdelemn de şapte ori cu degetul înaintea Domnului.
+{14:17} Din untdelemnul care-i mai rămâne în mână, preotul să pună pe (moalele) marginea urechii drepte a celui ce se curăţeşte, pe degetul cel mare al mâinii drepte şi pe degetul cel mare al piciorului drept, deasupra sângelui de la jertfa pentru vină.
+{14:18} Iar untdelemnul care-i mai rămâne în mână, preotul să-l pună pe capul celui ce se curăţeşte şi preotul să facă ispăşire pentru el înaintea Domnului.
+{14:19} Apoi, preotul să aducă jertfa de ispăşire şi să facă ispăşire pentru cel ce se curăţeşte de întinăciunea lui. Apoi, să junghie arderea-de-tot.
+{14:20} Preotul să aducă pe altar arderea-de-tot şi darul de mâncare şi să facă ispăşire pentru omul acesta, şi va fi curat.
+{14:21} Dacă este sărac şi nu poate să aducă toate aceste lucruri, atunci să ia un singur miel, care să fie adus ca jertfă pentru vină după ce a fost legănat într-o parte şi într-alta, ca dar legănat, şi să facă ispăşire pentru el. Să ia o zecime din floarea făinii, frământată cu untdelemn, pentru darul de mâncare şi un log de untdelemn.
+{14:22} Să ia şi două turturele sau doi pui de porumbel, după mijloacele lui, unul ca jertfă de ispăşire, celălalt ca ardere-de-tot.
+{14:23} În ziua a opta, să aducă pentru curăţirea lui toate aceste lucruri la preot, la uşa cortului întâlnirii, înaintea Domnului.
+{14:24} Preotul să ia mielul pentru jertfa de vină şi logul cu untdelemn şi să le legene într-o parte şi într-alta, ca dar legănat, înaintea Domnului.
+{14:25} Să junghie mielul jertfei pentru vină. Preotul să ia din sângele jertfei pentru vină; să pună pe marginea urechii drepte a celui ce se curăţeşte, pe degetul cel mare al mâinii drepte şi pe degetul cel mare al piciorului drept.
+{14:26} Preotul să toarne untdelemn în palma mâinii stângi.
+{14:27} Preotul să stropească de şapte ori cu degetul de la mâna dreaptă înaintea Domnului din untdelemnul care este în mâna stângă a lui.
+{14:28} Iar din untdelemnul din mâna lui, preotul să pună pe marginea urechii drepte a celui ce se curăţeşte, pe degetul cel mare al mâinii drepte şi pe degetul cel mare al piciorului drept, în locul unde a pus din sângele jertfei pentru vină.
+{14:29} Ce mai rămâne din untdelemn în mână, preotul să-l pună pe capul celui ce se curăţeşte, ca să facă ispăşire pentru el înaintea Domnului.
+{14:30} Apoi să aducă una din turturele sau un pui de porumbel, cum va putea,
+{14:31} unul ca jertfă de ispăşire şi altul ca ardere-de-tot, împreună cu darul de mâncare, şi preotul să facă ispăşire înaintea Domnului pentru cel ce se curăţeşte.
+{14:32} Aceasta este legea pentru curăţirea celui ce are o rană de lepră şi nu poate să aducă tot ce este rânduit pentru curăţirea lui.”
+{i14:33} Curăţirea leprei de pe case
+{14:33} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{14:34} „După ce veţi intra în ţara Canaanului, pe care v-o dau în stăpânire, dacă voi trimite o rană de lepră pe vreo casă din ţara pe care o veţi stăpâni,
+{14:35} cel cu casa să se ducă să spună preotului şi să zică: ‘Mi se pare că este ceva ca o rană în casa mea.’
+{14:36} Preotul, înainte de a intra ca să cerceteze rana, să poruncească să se deşerte casa, ca nu cumva tot ce este în ea să se facă necurat. După aceea să intre preotul şi să cerceteze casa.
+{14:37} Preotul să cerceteze rana. Dacă vede că pe zidurile casei sunt nişte gropişoare verzui sau roşiatice, care par mai adânci decât zidul,
+{14:38} să iasă din casă şi, când va ajunge la uşă, să pună să încuie casa şapte zile.
+{14:39} În ziua a şaptea, preotul să se întoarcă în ea. Şi, dacă va vedea că rana s-a întins pe zidurile casei,
+{14:40} să poruncească să se scoată pietrele atinse de rană şi să le arunce afară din cetate într-un loc necurat.
+{14:41} Să pună să răzăluiască toată partea dinăuntru a casei şi tencuiala răzăluită să se arunce afară din cetate, într-un loc necurat.
+{14:42} Să ia alte pietre şi să le pună în locul celor dintâi şi să se ia altă tencuială, ca să se tencuiască din nou casa.
+{14:43} Dacă rana se va întoarce şi va izbucni din nou în casă, după ce au scos pietrele, după ce au răzăluit şi tencuit din nou casa,
+{14:44} preotul să se întoarcă în ea. Şi, dacă vede că rana s-a întins în casă, este o lepră învechită în casă: casa este necurată.
+{14:45} Să dărâme casa, lemnele şi toată tencuiala casei şi să scoată aceste lucruri afară din cetate, într-un loc necurat.
+{14:46} Cine va intra în casă în tot timpul când era închisă va fi necurat până seara.
+{14:47} Cine se va culca în casă să-şi spele hainele. Cine va mânca în casă, de asemenea, să-şi spele hainele.
+{14:48} Dacă preotul care s-a întors în casă vede că rana nu s-a întins după ce a fost tencuită din nou casa, să declare casa curată, căci rana este vindecată.
+{14:49} Pentru curăţirea casei să ia două păsări, lemn de cedru, cârmâz şi isop.
+{14:50} Să junghie una din păsări într-un vas de pământ, într-o apă curgătoare.
+{14:51} Să ia lemnul de cedru, isopul, cârmâzul şi pasărea cea vie; să le înmoaie în sângele păsării junghiate şi în apa curgătoare şi să stropească de şapte ori casa.
+{14:52} Să cureţe casa cu sângele păsării, cu apa curgătoare cu pasărea cea vie, cu lemnul de cedru, cu isopul şi cârmâzul.
+{14:53} Să dea drumul păsării celei vii afară din cetate, pe câmp. Să facă astfel ispăşire pentru casă, şi ea va fi curată.
+{14:54} Aceasta este legea pentru orice rană de lepră şi pentru râia de cap,
+{14:55} pentru lepra de pe haine şi de pe case,
+{14:56} pentru umflături, pentru pecingini şi pentru pete:
+{14:57} ea arată când un lucru este necurat şi când este curat. Aceasta este legea pentru lepră.”
+{i15:1} Necurăţiile bărbatului
+{15:1} Domnul a vorbit lui Moise şi lui Aaron şi a zis:
+{15:2} „Vorbiţi copiilor lui Israel şi spuneţi-le: ‘Orice om care are o scurgere din trupul lui, prin chiar faptul acesta este necurat.
+{15:3} Din pricina scurgerii lui este necurat: fie că trupul lui lasă să se facă scurgerea, fie că o opreşte, este necurat.
+{15:4} Orice pat în care se va culca va fi necurat şi orice lucru pe care va şedea va fi necurat.
+{15:5} Cine se va atinge de patul lui să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:6} Cine va şedea pe lucrul pe care a şezut el să-şi spele hainele, să se scalde în apă şi să fie necurat până seara.
+{15:7} Cine se va atinge de trupul lui să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:8} Dacă omul acela scuipă pe un om curat, acesta să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:9} Orice şa pe care va călări el va fi necurată.
+{15:10} Cine se va atinge de vreun lucru care a fost sub el va fi necurat până seara şi cine va ridica lucrul acela să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:11} Cine va fi atins de cel cu scurgere şi nu-şi va spăla mâinile în apă să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:12} Orice vas de pământ care va fi atins de el să fie spart şi orice vas de lemn să fie spălat în apă.
+{15:13} După ce va fi curăţit de scurgerea lui, omul acela să numere şapte zile pentru curăţirea lui; să-şi spele hainele, să-şi scalde trupul în apă curgătoare şi va fi curat.
+{15:14} În ziua a opta, să ia două turturele sau doi pui de porumbel, să se ducă înaintea Domnului, la uşa cortului întâlnirii, şi să-i dea preotului.
+{15:15} Preotul să-i aducă, unul ca jertfă de ispăşire şi celălalt ca ardere-de-tot, şi preotul să facă ispăşire pentru el înaintea Domnului, pentru scurgerea lui.
+{15:16} Omul care va avea o scurgere a seminţei în somn să-şi scalde tot trupul în apă şi va fi necurat până seara.
+{15:17} Orice haină şi orice piele care vor fi atinse de scurgerea lui vor fi spălate cu apă şi vor fi necurate până seara.
+{15:18} Dacă o femeie s-a culcat cu un astfel de om, să se scalde amândoi în apă şi vor fi necuraţi până seara.
+{i15:19} Necurăţia femeii
+{15:19} Femeia care va avea o scurgere, şi anume o scurgere de sânge din trupul ei, să rămână şapte zile în necurăţia ei. Oricine se va atinge de ea va fi necurat până seara.
+{15:20} Orice pat în care se va culca ea în timpul necurăţiei ei va fi necurat şi orice lucru pe care va şedea ea va fi necurat.
+{15:21} Oricine se va atinge de patul ei să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:22} Oricine se va atinge de un lucru pe care a şezut ea să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:23} Dacă este ceva pe patul sau pe lucrul pe care a şezut ea, cine se va atinge de lucrul acela va fi necurat până seara.
+{15:24} Dacă se culcă cineva cu ea şi vine peste el necurăţia femeii aceleia, el va fi necurat timp de şapte zile şi orice pat în care se va culca va fi necurat.
+{15:25} Femeia care va avea o scurgere de sânge timp de mai multe zile, afară de soroacele ei obişnuite sau a cărei scurgere va ţine mai mult ca de obicei, va fi necurată tot timpul scurgerii ei, ca pe vremea când îi vine sorocul.
+{15:26} Orice pat în care se va culca în timpul cât va ţine scurgerea aceasta va fi ca şi patul din timpul când ea este la scurgerea de la soroc şi orice lucru pe care va şedea va fi necurat, ca atunci când este ea la scurgerea de la soroc.
+{15:27} Oricine se va atinge de ele va fi necurat; să-şi spele hainele, să se scalde în apă şi va fi necurat până seara.
+{15:28} După ce va fi curăţită de scurgerea ei, să numere şapte zile şi apoi va fi curată.
+{15:29} A opta zi, să ia două turturele sau doi pui de porumbel şi să-i ducă preotului la uşa cortului întâlnirii.
+{15:30} Preotul să aducă unul ca jertfă de ispăşire şi altul ca ardere-de-tot; şi preotul să facă ispăşire pentru ea înaintea Domnului, pentru scurgerea care o făcea necurată.
+{15:31} Aşa să depărtaţi pe copiii lui Israel de necurăţiile lor, ca să nu moară din pricina necurăţiilor lor, dacă pângăresc cortul Meu, care este în mijlocul lor.
+{15:32} Aceasta este legea pentru cel ce are o scurgere sau este întinat printr-o lepădare de sămânţă în somn,
+{15:33} pentru cea care este la scurgerea de la soroc, pentru bărbatul sau femeia care are o scurgere şi pentru bărbatul care se culcă cu o femeie necurată’.”
+{i16:1} Legea pentru Sărbătoarea de peste an a Ispăşirii
+{16:1} Domnul a vorbit lui Moise după moartea celor doi fii ai lui Aaron, morţi când s-au înfăţişat înaintea Domnului.
+{16:2} Domnul a zis lui Moise: „Vorbeşte fratelui tău Aaron şi spune-i să nu intre în tot timpul în Sfântul Locaş, dincolo de perdeaua dinăuntru, înaintea capacului ispăşirii, care este pe chivot, ca să nu moară, căci deasupra capacului ispăşirii Mă voi arăta în nor.
+{16:3} Iată cum să intre Aaron în Sfântul Locaş. Să ia un viţel pentru jertfa de ispăşire şi un berbec pentru arderea-de-tot.
+{16:4} Să se îmbrace cu tunica sfinţită de in şi să-şi pună pe trup izmenele de in; să se încingă cu brâul de in şi să-şi acopere capul cu mitra de in; acestea sunt veşmintele sfinţite, cu care se va îmbrăca el după ce îşi va spăla trupul în apă.
+{16:5} Să ia de la adunarea copiilor lui Israel doi ţapi pentru jertfa de ispăşire şi un berbec pentru arderea-de-tot.
+{16:6} Aaron să-şi aducă viţelul lui pentru jertfa de ispăşire şi să facă ispăşire pentru el şi pentru casa lui.
+{16:7} Să ia cei doi ţapi şi să-i pună înaintea Domnului, la uşa cortului întâlnirii.
+{16:8} Aaron să arunce sorţi pentru cei doi ţapi: un sorţ pentru Domnul şi un sorţ pentru Azazel.
+{16:9} Aaron să ia ţapul care a ieşit la sorţi pentru Domnul şi să-l aducă jertfă de ispăşire.
+{16:10} Iar ţapul care a ieşit la sorţi pentru Azazel să fie pus viu înaintea Domnului, ca să slujească pentru facerea ispăşirii, şi să i se dea drumul în pustie pentru Azazel.
+{16:11} Aaron să-şi aducă viţelul lui pentru jertfa de ispăşire şi să facă ispăşire pentru el şi pentru casa lui. Să junghie viţelul pentru jertfa lui de ispăşire.
+{16:12} Să ia o cădelniţă plină cu cărbuni aprinşi de pe altarul dinaintea Domnului şi doi pumni de tămâie mirositoare, pisată mărunt; să ducă aceste lucruri dincolo de perdeaua dinăuntru;
+{16:13} să pună tămâia pe foc înaintea Domnului, pentru ca norul de fum de tămâie să acopere capacul ispăşirii de pe chivotul mărturiei şi astfel nu va muri.
+{16:14} Să ia din sângele viţelului şi să stropească cu degetul pe partea dinainte a capacului ispăşirii spre răsărit; să stropească din sânge de şapte ori cu degetul lui înaintea capacului ispăşirii.
+{16:15} Să junghie ţapul adus ca jertfă de ispăşire pentru popor şi să-i ducă sângele dincolo de perdeaua dinăuntru. Cu sângele acesta să facă întocmai cum a făcut cu sângele viţelului, să stropească cu el spre capacul ispăşirii şi înaintea capacului ispăşirii.
+{16:16} Astfel, să facă ispăşire pentru Sfântul Locaş, pentru necurăţiile copiilor lui Israel şi pentru toate călcările de lege prin care au păcătuit ei. Să facă la fel pentru cortul întâlnirii, care este cu ei în mijlocul necurăţiilor lor.
+{16:17} Să nu fie nimeni în cortul întâlnirii când va intra Aaron să facă ispăşirea în Sfântul Locaş, până va ieşi din el. Să facă ispăşire pentru el şi pentru casa lui, şi pentru toată adunarea lui Israel.
+{16:18} După ce va ieşi, să se ducă la altarul care este înaintea Domnului şi să facă ispăşire pentru altar; să ia din sângele viţelului şi ţapului şi să pună pe coarnele altarului de jur împrejur.
+{16:19} Să stropească pe altar cu degetul lui de şapte ori din sânge şi astfel să-l cureţe şi să-l sfinţească de necurăţiile copiilor lui Israel.
+{i16:20} Ţapul pentru Azazel
+{16:20} Când va isprăvi de făcut ispăşirea pentru Sfântul Locaş, pentru cortul întâlnirii şi pentru altar, să aducă ţapul cel viu.
+{16:21} Aaron să-şi pună amândouă mâinile pe capul ţapului celui viu şi să mărturisească peste el toate fărădelegile copiilor lui Israel şi toate călcările lor de lege cu care au păcătuit ei; să le pună pe capul ţapului, apoi să-l izgonească în pustie printr-un om care va avea însărcinarea aceasta.
+{16:22} Ţapul acela va duce asupra lui toate fărădelegile lor într-un pământ pustiit; în pustie să-i dea drumul.
+{16:23} Aaron să intre în cortul întâlnirii; să-şi lepede veşmintele de in, pe care le îmbrăcase la intrarea în Sfântul Locaş, şi să le pună acolo.
+{16:24} Să-şi spele trupul cu apă într-un loc sfânt şi să-şi ia din nou veşmintele. Apoi să iasă afară, să-şi aducă arderea-de-tot a lui şi arderea-de-tot a poporului şi să facă ispăşire pentru el şi pentru popor.
+{16:25} Iar grăsimea jertfei de ispăşire s-o ardă pe altar.
+{16:26} Cel ce va izgoni ţapul pentru Azazel să-şi spele hainele şi să-şi scalde trupul în apă, după aceea să intre iarăşi în tabără.
+{16:27} Să scoată afară din tabără viţelul ispăşitor şi ţapul ispăşitor, al căror sânge a fost dus în Sfântul Locaş pentru facerea ispăşirii, şi să le ardă în foc pieile, carnea şi balega.
+{16:28} Cel ce le va arde să-şi spele hainele şi să-şi scalde trupul în apă, după aceea să intre iarăşi în tabără.
+{i16:29} Sărbătoarea Ispăşirii
+{16:29} Aceasta să vă fie o lege veşnică: în luna a şaptea, în a zecea zi a lunii, să vă smeriţi sufletele, să nu faceţi nicio lucrare, nici băştinaşul, nici străinul care locuieşte în mijlocul vostru.
+{16:30} Căci în ziua aceasta se va face ispăşire pentru voi, ca să vă curăţiţi: veţi fi curăţiţi de toate păcatele voastre înaintea Domnului.
+{16:31} Aceasta să fie pentru voi o zi de Sabat, o zi de odihnă, în care să vă smeriţi sufletele. Aceasta să fie o lege veşnică.
+{16:32} Ispăşirea să fie făcută de preotul care a primit ungerea şi care a fost închinat în slujba Domnului, ca să urmeze tatălui său în slujba preoţiei; să se îmbrace cu veşmintele de in, cu veşmintele sfinţite.
+{16:33} Să facă ispăşire pentru Locul Preasfânt, să facă ispăşire pentru cortul întâlnirii şi pentru altar şi să facă ispăşire pentru preoţi şi pentru tot poporul adunării.
+{16:34} Aceasta să fie pentru voi o lege veşnică: o dată pe an, să se facă ispăşire pentru copiii lui Israel, pentru păcatele lor.” Aaron a făcut întocmai cum poruncise lui Moise Domnul.
+{i17:1} Locul pentru jertfe
+{17:1} Domnul a vorbit lui Moise şi a zis:
+{17:2} „Vorbeşte lui Aaron şi fiilor lui, şi tuturor copiilor lui Israel şi spune-le: ‘Iată ce a poruncit Domnul:
+{17:3} «Dacă cineva din casa lui Israel junghie în tabără sau afară din tabără un bou, un miel sau o capră,
+{17:4} şi nu-l aduce la uşa cortului întâlnirii, ca să-l aducă dar Domnului înaintea cortului Domnului, sângele acesta va fi pus în socoteala omului aceluia: a vărsat sânge; omul acela va fi nimicit din mijlocul poporului său.
+{17:5} De aceea, copiii lui Israel, în loc să-şi junghie jertfele pe câmp, trebuie să le aducă la preot, înaintea Domnului, la uşa cortului întâlnirii, şi să le aducă Domnului ca jertfe de mulţumire.
+{17:6} Preotul să le stropească sângele pe altarul Domnului, la uşa cortului întâlnirii, şi să ardă grăsimea, care va fi de un miros plăcut Domnului.
+{17:7} Să nu-şi mai aducă jertfele lor la idolii cu care curvesc. Aceasta va fi o lege veşnică pentru ei şi pentru urmaşii lor.»
+{17:8} Să le spui dar: «Dacă un om din casa lui Israel sau dintre străinii care locuiesc în mijlocul lor aduce o ardere-de-tot sau vreo altă jertfă,
+{17:9} şi n-o aduce la uşa cortului întâlnirii, ca s-o aducă jertfă Domnului, omul acela să fie nimicit din poporul lui.
+{i17:10} Să nu mănânce sânge
+{17:10} Dacă un om din casa lui Israel sau din străinii care locuiesc în mijlocul lor mănâncă sânge de orice fel, Îmi voi întoarce Faţa împotriva celui ce mănâncă sângele şi-l voi nimici din mijlocul poporului său.
+{17:11} Căci viaţa trupului este în sânge. Vi l-am dat ca să-l puneţi pe altar, ca să slujească de ispăşire pentru sufletele voastre, căci prin viaţa din el face sângele ispăşire.»
+{17:12} De aceea, am zis copiilor lui Israel: «Nimeni dintre voi să nu mănânce sânge şi nici străinul care locuieşte în mijlocul vostru să nu mănânce sânge.
+{17:13} Dacă vreunul din copiii lui Israel sau din străinii care locuiesc în mijlocul lor vânează o fiară sau o pasăre care se mănâncă, să-i verse sângele şi să-l acopere cu ţărână.»
+{17:14} Căci viaţa oricărui trup stă în sângele lui, care este în el. De aceea am zis copiilor lui Israel: «Să nu mâncaţi sângele niciunui trup», căci viaţa oricărui trup este sângele lui: oricine va mânca din el va fi nimicit.
+{17:15} Oricine, fie băştinaş, fie străin, care va mânca dintr-o fiară moartă sau sfâşiată, să-şi spele hainele, să se scalde în apă şi va fi necurat până seara; apoi va fi curat.
+{17:16} Dacă nu-şi spală hainele şi nu-şi scaldă trupul, îşi va purta fărădelegea lui’.”
+{i18:1} Oprirea însoţirilor nelegiuite
+{18:1} Domnul a vorbit lui Moise şi a zis:
+{18:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Eu sunt Domnul, Dumnezeul vostru.
+{18:3} Să nu faceţi ce se face în ţara Egiptului, unde aţi locuit, şi să nu faceţi ce se face în ţara Canaanului, unde vă duc Eu: să nu vă luaţi după obiceiurile lor.
+{18:4} Să împliniţi poruncile Mele şi să ţineţi legile Mele: să le urmaţi. Eu sunt Domnul, Dumnezeul vostru.
+{18:5} Să păziţi legile şi poruncile Mele: omul care le va împlini va trăi prin ele. Eu sunt Domnul!
+{18:6} Niciunul dintre voi să nu se apropie de ruda lui de sânge ca să-i descopere goliciunea. Eu sunt Domnul.
+{18:7} Să nu descoperi goliciunea tatălui tău, nici goliciunea mamei tale. Ţi-este mamă: să nu-i descoperi goliciunea.
+{18:8} Să nu descoperi goliciunea nevestei tatălui tău. Este goliciunea tatălui tău.
+{18:9} Să nu descoperi goliciunea surorii tale, fata tatălui tău sau fata mamei tale, născută în casă sau afară din casă.
+{18:10} Să nu descoperi goliciunea fetei fiului tău sau a fetei tale. Căci este goliciunea ta.
+{18:11} Să nu descoperi goliciunea fetei nevestei tatălui tău, născută din tatăl tău. Ţi-este soră.
+{18:12} Să nu descoperi goliciunea surorii tatălui tău. Este rudă de aproape cu tatăl tău.
+{18:13} Să nu descoperi goliciunea surorii mamei tale. Este rudă de aproape cu mama ta.
+{18:14} Să nu descoperi goliciunea fratelui tatălui tău. Să nu te apropii de nevasta lui. Ţi-este mătuşă.
+{18:15} Să nu descoperi goliciunea nurorii tale. Este nevasta fiului tău: să nu-i descoperi goliciunea.
+{18:16} Să nu descoperi goliciunea nevestei fratelui tău. Este goliciunea fratelui tău.
+{18:17} Să nu descoperi goliciunea unei femei şi a fetei ei. Să nu iei pe fata fiului ei, nici pe fata fetei ei, ca să le descoperi goliciunea. Îţi sunt rude de aproape: este o nelegiuire.
+{18:18} Să nu iei pe sora nevestei tale, ca să-i faci în necaz, descoperindu-i goliciunea alături de nevastă-ta, cât timp ea este încă în viaţă.
+{18:19} Să nu te apropii de o femeie în timpul necurăţiei ei, când este la soroc, ca să-i descoperi goliciunea.
+{18:20} Să nu te împreunezi cu nevasta semenului tău, ca să te pângăreşti cu ea.
+{18:21} Să nu dai pe niciunul din copiii tăi ca să fie adus jertfă lui Moloh şi să nu pângăreşti Numele Dumnezeului tău. Eu sunt Domnul.
+{18:22} Să nu te culci cu un bărbat cum se culcă cineva cu o femeie. Este o urâciune.
+{18:23} Să nu te culci cu o vită ca să te pângăreşti cu ea. Femeia să nu se apropie de o vită ca să curvească cu ea. Este o mare mişelie.
+{18:24} Să nu vă spurcaţi cu niciunul din aceste lucruri, căci prin toate aceste lucruri s-au spurcat neamurile pe care le voi izgoni dinaintea voastră.
+{18:25} Ţara a fost spurcată prin ele; Eu îi voi pedepsi fărădelegea şi pământul va vărsa din gura lui pe locuitorii lui.
+{18:26} Păziţi dar legile şi poruncile Mele şi nu faceţi niciuna din aceste spurcăciuni, nici băştinaşul, nici străinul care locuieşte în mijlocul vostru.
+{18:27} Căci toate aceste spurcăciuni le-au făcut oamenii din ţara aceasta, care au fost înaintea voastră în ea; şi astfel ţara a fost pângărită.
+{18:28} Luaţi seama ca nu cumva să vă verse şi pe voi ţara din gura ei, dacă o spurcaţi, cum a vărsat pe neamurile care erau în ea înaintea voastră.
+{18:29} Căci toţi cei ce vor face vreuna din aceste spurcăciuni vor fi nimiciţi din mijlocul poporului lor.
+{18:30} Păziţi poruncile Mele şi nu faceţi niciunul din obiceiurile urâte care se făceau înaintea voastră, ca să nu vă spurcaţi cu ele. Eu sunt Domnul, Dumnezeul vostru’.”
+{i19:1} Felurite legi ca tâlcuire a poruncilor
+{19:1} Domnul a vorbit lui Moise şi a zis:
+{19:2} „Vorbeşte întregii adunări a copiilor lui Israel şi spune-le: ‘Fiţi sfinţi, căci Eu sunt sfânt, Eu, Domnul, Dumnezeul vostru.
+{19:3} Fiecare din voi să cinstească pe mamă-sa şi pe tatăl său şi să păzească Sabatele Mele. Eu sunt Domnul, Dumnezeul vostru.
+{19:4} Să nu vă întoarceţi spre idoli şi să nu vă faceţi dumnezei turnaţi. Eu sunt Domnul, Dumnezeul vostru.
+{i19:5} Porunci privitoare la jertfa de mulţumire
+{19:5} Când veţi aduce Domnului o jertfă de mulţumire, s-o aduceţi aşa ca să fie primită.
+{19:6} Jertfa să fie mâncată în ziua când o veţi jertfi sau a doua zi; ce va mai rămâne până a treia zi să se ardă în foc.
+{19:7} Dacă va mânca cineva din ea a treia zi, faptul acesta va fi un lucru urât: jertfa nu va fi primită.
+{19:8} Cine va mânca din ea îşi va purta vina păcatului său, căci necinsteşte ce a fost închinat Domnului: omul acela va fi nimicit din poporul lui.
+{19:9} Când vei secera holdele ţării, să laşi nesecerat un colţ din câmpul tău şi să nu strângi spicele rămase pe urma secerătorilor.
+{19:10} Nici să nu culegi strugurii rămaşi după cules în via ta şi să nu strângi boabele care vor cădea din ei. Să le laşi săracului şi străinului. Eu sunt Domnul, Dumnezeul vostru.
+{19:11} Să nu furaţi şi să nu minţiţi, nici să nu vă înşelaţi unii pe alţii.
+{19:12} Să nu juraţi strâmb pe Numele Meu, căci ai necinsti astfel Numele Dumnezeului tău. Eu sunt Domnul.
+{19:13} Să nu asupreşti pe aproapele tău şi să nu storci nimic de la el prin silă. Să nu opreşti până a doua zi plata celui tocmit cu ziua.
+{19:14} Să nu vorbeşti de rău pe un surd şi să nu pui înaintea unui orb nimic care să-l poată face să cadă, ci să te temi de Dumnezeul tău. Eu sunt Domnul.
+{19:15} Să nu faci nedreptate la judecată: să nu cauţi la faţa săracului şi să nu părtineşti pe nimeni din cei mari, ci să judeci pe aproapele tău după dreptate.
+{19:16} Să nu umbli cu bârfeli în poporul tău. Să nu te ridici împotriva vieţii aproapelui tău. Eu sunt Domnul.
+{19:17} Să nu urăşti pe fratele tău în inima ta; să mustri pe aproapele tău, dar să nu te încarci cu un păcat din pricina lui.
+{19:18} Să nu te răzbuni şi să nu ţii necaz pe copiii poporului tău. Să iubeşti pe aproapele tău ca pe tine însuţi. Eu sunt Domnul.
+{19:19} Să păziţi legile Mele. Să nu împreunezi vite de două soiuri deosebite; să nu semeni în ogorul tău două feluri de seminţe şi să nu porţi o haină ţesută din două feluri de fire.
+{19:20} Când un om se va culca cu o femeie roabă, logodită cu un alt bărbat, şi ea n-a fost răscumpărată de tot sau slobozită, să fie pedepsiţi amândoi, dar nu pedepsiţi cu moartea, pentru că ea nu era slobodă.
+{19:21} El să aducă Domnului pentru vina lui la uşa cortului întâlnirii un berbec ca jertfă pentru vină.
+{19:22} Preotul să facă ispăşire pentru el înaintea Domnului, pentru păcatul pe care l-a făcut, cu berbecul adus ca jertfă pentru vină, şi păcatul pe care l-a făcut îi va fi iertat.
+{19:23} Când veţi intra în ţară şi veţi sădi tot felul de pomi roditori, roadele lor să le priviţi ca netăiate împrejur; timp de trei ani să fie netăiate împrejur pentru voi; să nu mâncaţi din ele.
+{19:24} În al patrulea an, toate roadele să fie închinate Domnului, spre lauda Lui.
+{19:25} În al cincilea an, să mâncaţi roadele, ca ele să vi se înmulţească din ce în ce mai mult: Eu sunt Domnul, Dumnezeul vostru.
+{19:26} Să nu mâncaţi nimic cu sânge. Să nu ghiciţi după vârcolaci, nici după nori.
+{19:27} Să nu-ţi tai rotund colţurile părului şi să nu-ţi razi colţurile bărbii.
+{19:28} Să nu vă faceţi tăieturi în carne pentru un mort şi să nu vă faceţi slove săpate pe voi. Eu sunt Domnul.
+{19:29} Să nu-ţi necinsteşti fata dând-o să fie curvă, pentru ca nu cumva ţara să ajungă un loc de curvie şi să se umple de fărădelegi.
+{19:30} Să păziţi Sabatele Mele şi să cinstiţi Locaşul Meu cel Sfânt. Eu sunt Domnul.
+{19:31} Să nu vă duceţi la cei ce cheamă duhurile morţilor, nici la vrăjitori: să nu-i întrebaţi, ca să nu vă spurcaţi cu ei. Eu sunt Domnul, Dumnezeul vostru.
+{19:32} Să te scoli înaintea perilor albi şi să cinsteşti pe bătrân. Să te temi de Dumnezeul tău. Eu sunt Domnul.
+{19:33} Dacă un străin vine să locuiască împreună cu voi în ţara voastră, să nu-l asupriţi.
+{19:34} Să vă purtaţi cu străinul care locuieşte între voi ca şi cu un băştinaş din mijlocul vostru; să-l iubiţi ca pe voi înşivă, căci şi voi aţi fost străini în ţara Egiptului. Eu sunt Domnul, Dumnezeul vostru.
+{19:35} Să nu faceţi nedreptate la judecată, nici în măsurile de lungime, nici în greutăţi, nici în măsurile de încăpere.
+{19:36} Să aveţi cumpene drepte, greutăţi drepte, efe drepte şi hine drepte. Eu sunt Domnul, Dumnezeul vostru, care v-am scos din ţara Egiptului.
+{19:37} Să păziţi toate legile Mele şi toate poruncile Mele şi să le împliniţi. Eu sunt Domnul’.”
+{i20:1} Pedepse
+{20:1} Domnul a vorbit lui Moise şi a zis:
+{20:2} „Spune copiilor lui Israel: ‘Dacă un om dintre copiii lui Israel sau dintre străinii care locuiesc în Israel dă lui Moloh pe unul din copiii lui, omul acela să fie pedepsit cu moartea: poporul din ţară să-l ucidă cu pietre.
+{20:3} Şi Eu Îmi voi întoarce Faţa împotriva omului aceluia şi-l voi nimici din mijlocul poporului său, pentru că a dat lui Moloh pe unul din copiii săi, a spurcat Locaşul Meu cel Sfânt şi a necinstit Numele Meu cel sfânt.
+{20:4} Dacă poporul ţării închide ochii faţă de omul acela, care dă lui Moloh copii de ai săi, şi nu-l omoară,
+{20:5} Îmi voi întoarce Eu Faţa împotriva omului aceluia şi împotriva familiei lui şi-l voi nimici din mijlocul poporului lui, împreună cu toţi cei ce curvesc ca el cu Moloh.
+{20:6} Dacă cineva se duce la cei ce cheamă pe morţi şi la ghicitori ca să curvească după ei, Îmi voi întoarce Faţa împotriva omului aceluia şi-l voi nimici din mijlocul poporului lui.
+{20:7} Voi să vă sfinţiţi şi să fiţi sfinţi, căci Eu sunt Domnul, Dumnezeul vostru.
+{20:8} Să păziţi legile Mele şi să le împliniţi. Eu sunt Domnul, care vă sfinţesc.
+{20:9} Dacă un om oarecare blestemă pe tatăl său sau pe mama sa, să fie pedepsit cu moartea; a blestemat pe tatăl său sau pe mama sa: sângele lui să cadă asupra lui.
+{20:10} Dacă un om preacurveşte cu o femeie măritată, dacă preacurveşte cu nevasta aproapelui său, omul acela şi femeia aceea preacurvari să fie pedepsiţi cu moartea.
+{20:11} Dacă un om se culcă cu nevasta tatălui său şi descoperă astfel goliciunea tatălui său, omul acela şi femeia aceea să fie pedepsiţi cu moartea; sângele lor să cadă asupra lor.
+{20:12} Dacă un om se culcă cu noră-sa, amândoi să fie pedepsiţi cu moartea; au făcut o amestecătură de sânge: sângele lor să cadă asupra lor.
+{20:13} Dacă un om se culcă cu un om cum se culcă cineva cu o femeie, amândoi au făcut un lucru scârbos; să fie pedepsiţi cu moartea, sângele lor să cadă asupra lor.
+{20:14} Dacă un om ia de neveste pe fată şi pe mama ei, este o nelegiuire: să-i ardă în foc, pe el şi pe ele, ca nelegiuirea aceasta să nu fie în mijlocul vostru.
+{20:15} Dacă un om se culcă cu o vită, să fie pedepsit cu moartea, şi vita s-o omorâţi.
+{20:16} Dacă o femeie se apropie de o vită ca să curvească cu ea, să ucizi şi pe femeie, şi pe vită; să fie omorâte: sângele lor să cadă asupra lor.
+{20:17} Dacă un om ia pe soră-sa, fata tatălui său sau fata mamei lui, dacă îi vede goliciunea ei şi ea i-o vede pe a lui, este o mişelie; să fie nimiciţi sub ochii copiilor poporului lor; el a descoperit goliciunea surorii lui, îşi va lua pedeapsa pentru păcatul lui.
+{20:18} Dacă un om se culcă cu o femeie care este la sorocul femeilor şi-i descoperă goliciunea, dacă-i descoperă scurgerea şi ea îşi descoperă scurgerea sângelui ei, amândoi să fie nimiciţi din mijlocul poporului lor.
+{20:19} Să nu descoperi goliciunea surorii mamei tale, nici a surorii tatălui tău, căci înseamnă să descoperi pe ruda ta de aproape: amândoi aceştia îşi vor lua pedeapsa păcatului.
+{20:20} Dacă un om se culcă cu mătuşă-sa, a descoperit goliciunea unchiului său; îşi vor lua pedeapsa păcatului lor: vor muri fără copii.
+{20:21} Dacă un om ia pe nevasta fratelui său, este o necurăţie; a descoperit goliciunea fratelui său: nu vor avea copii.
+{20:22} Să păziţi toate legile Mele şi toate poruncile Mele şi să le împliniţi, pentru ca ţara în care vă duc să vă aşez să nu vă verse din gura ei.
+{20:23} Să nu trăiţi după obiceiurile neamurilor, pe care le voi izgoni dinaintea voastră, căci ele au făcut toate aceste lucruri şi Mi-este scârbă de ele.
+{20:24} V-am spus: «Voi le veţi stăpâni ţara; Eu vă voi da-o în stăpânire: este o ţară în care curge lapte şi miere.» Eu sunt Domnul, Dumnezeul vostru, care v-am pus deoparte dintre popoare.
+{20:25} Să faceţi deosebire între dobitoacele curate şi necurate, între păsările curate şi necurate, ca să nu vă spurcaţi prin dobitoace, prin păsări, prin toate târâtoarele de pe pământ, pe care v-am învăţat să le deosebiţi ca necurate.
+{20:26} Voi să-Mi fiţi sfinţi, căci Eu sunt sfânt, Eu, Domnul; Eu v-am pus deoparte dintre popoare, ca să fiţi ai Mei.
+{20:27} Dar, dacă un om sau o femeie cheamă duhul unui mort sau se îndeletniceşte cu ghicirea, să fie pedepsit cu moartea; să-i ucideţi cu pietre: sângele lor să cadă asupra lor’.”
+{i21:1} Porunci privitoare la preoţi
+{21:1} Domnul a zis lui Moise: „Vorbeşte preoţilor, fiilor lui Aaron, şi spune-le: ‘Un preot să nu se atingă de un mort din poporul său, ca să nu se facă necurat;
+{21:2} afară de rudele lui cele mai de aproape: de mama lui, de tatăl lui, de fiul lui, de fratele lui
+{21:3} şi de soră-sa care-i încă fecioară, stă lângă el şi nu este măritată; afară de aceştia, să nu se atingă de niciun alt mort.
+{21:4} Ca unul care este fruntaş în poporul lui, să nu se facă necurat atingându-se de un mort.
+{21:5} Preoţii să nu-şi facă un loc pleşuv în cap pentru un mort, să nu-şi radă colţurile bărbii şi să nu-şi facă tăieturi în carne.
+{21:6} Să fie sfinţi pentru Dumnezeul lor şi să nu necinstească Numele Dumnezeului lor, căci ei aduc Domnului jertfele mistuite de foc, mâncarea Dumnezeului lor, de aceea să fie sfinţi.
+{21:7} Să nu-şi ia de nevastă o curvă sau o spurcată, nici o femeie lăsată de bărbatul ei, căci ei sunt sfinţi pentru Dumnezeul lor.
+{21:8} Să-l socoteşti ca sfânt, căci el aduce mâncarea Dumnezeului tău; el să fie sfânt pentru tine, căci Eu sunt sfânt, Eu, Domnul, care vă sfinţesc.
+{21:9} Dacă fata unui preot se necinsteşte curvind, necinsteşte pe tatăl ei: să fie arsă în foc.
+{i21:10} Marele preot
+{21:10} Preotul care este mare preot între fraţii lui, pe capul căruia a fost turnat untdelemnul pentru ungere şi care a fost închinat în slujba Domnului şi îmbrăcat în veşminte sfinţite, să nu-şi descopere capul şi să nu-şi sfâşie veşmintele.
+{21:11} Să nu se ducă la niciun mort; să nu se facă necurat şi să nu se atingă nici chiar de tatăl său sau de mama sa.
+{21:12} Să nu iasă din Sfântul Locaş şi să nu necinstească Sfântul Locaş al Dumnezeului său, căci untdelemnul ungerii Dumnezeului său este o cunună pe el. Eu sunt Domnul.
+{21:13} Femeia pe care o va lua el de nevastă să fie fecioară.
+{21:14} Să nu ia nici o văduvă, nici o femeie despărţită de bărbat, nici o femeie spurcată sau curvă, ci femeia pe care o va lua de nevastă din poporul său să fie fecioară.
+{21:15} Să nu-şi necinstească sămânţa în poporul lui, căci Eu sunt Domnul, care-l sfinţesc’.”
+{i21:16} Însuşirile preotului
+{21:16} Domnul a vorbit lui Moise şi a zis:
+{21:17} „Vorbeşte lui Aaron şi spune-i: ‘Niciun om din neamul tău şi din urmaşii tăi care va avea o meteahnă trupească să nu se apropie ca să aducă mâncarea Dumnezeului lui.
+{21:18} Niciun om care va avea o meteahnă trupească nu va putea să se apropie, şi anume niciun om orb, şchiop, cu nasul cârn sau cu un mădular mai lung;
+{21:19} niciun om cu piciorul frânt sau cu mâna frântă;
+{21:20} niciun om ghebos sau pipernicit, cu albeaţă în ochi, care are râie, pecingine sau boşit.
+{21:21} Niciun om din neamul preotului Aaron care va avea vreo meteahnă trupească să nu se apropie ca să aducă Domnului jertfele mistuite de foc; are o meteahnă trupească – să nu se apropie ca să aducă mâncarea Dumnezeului lui.
+{21:22} Din mâncarea Dumnezeului lui, fie lucruri preasfinte, fie lucruri sfinte, va putea să mănânce.
+{21:23} Dar să nu se ducă la perdeaua dinăuntru şi să nu se apropie de altar, căci are o meteahnă trupească; să nu-Mi necinstească locaşurile Mele cele sfinte, căci Eu sunt Domnul, care îi sfinţesc’.”
+{21:24} Astfel a vorbit Moise lui Aaron şi fiilor săi, şi tuturor copiilor lui Israel.
+{i22:1} Când să mănânce din jertfe
+{22:1} Domnul a vorbit lui Moise şi a zis:
+{22:2} „Vorbeşte lui Aaron şi fiilor lui ca să se ferească de lucrurile sfinte, care Îmi sunt închinate de copiii lui Israel şi să nu necinstească Numele Meu cel sfânt. Eu sunt Domnul.
+{22:3} Spune-le: ‘Orice om dintre urmaşii voştri şi din neamul vostru care se va apropia de lucrurile sfinte pe care le închină Domnului copiii lui Israel şi care va avea pe el o necurăţie, omul acela să fie nimicit dinaintea Mea. Eu sunt Domnul.
+{22:4} Orice om din neamul lui Aaron care va avea lepră sau scurgere de sămânţă să nu mănânce din lucrurile sfinte până nu va fi curat. Tot aşa şi cel ce se va atinge de cineva spurcat prin atingerea de vreun mort, de cel ce va avea o lepădare de sămânţă în somn,
+{22:5} cel ce se va atinge de o târâtoare şi se va spurca sau un om atins de vreo necurăţie oarecare şi care se va fi făcut necurat prin ea.
+{22:6} Cine se va atinge de aceste lucruri va fi necurat până seara; să nu mănânce din lucrurile sfinte decât după ce îşi va scălda trupul în apă;
+{22:7} după asfinţitul soarelui va fi curat şi, în urmă, va mânca din lucrurile sfinte, căci aceasta este hrana lui.
+{22:8} Să nu mănânce dintr-o vită moartă sau sfâşiată, ca să nu se spurce cu ea. Eu sunt Domnul.
+{22:9} Să păzească poruncile Mele, ca să nu-şi ia pedeapsa pentru păcatul lor şi să nu moară pentru că au necinstit lucrurile sfinte. Eu sunt Domnul, care îi sfinţesc.
+{i22:10} Cine să nu mănânce din lucrurile sfinte
+{22:10} Niciun străin să nu mănânce din lucrurile sfinte; cel ce locuieşte la un preot ca oaspete şi cel tocmit cu ziua să nu mănânce din lucrurile sfinte.
+{22:11} Dar robul cumpărat de preot cu preţ de argint va putea să mănânce, tot aşa şi cel născut în casa lui; ei să mănânce din hrana lui.
+{22:12} Fata unui preot măritată după un străin să nu mănânce din lucrurile sfinte aduse jertfă prin ridicare.
+{22:13} Dar fata unui preot care va fi rămas văduvă sau despărţită de bărbat, fără să aibă copii şi care se va întoarce în casa tatălui său, ca atunci când era fată, va putea să mănânce din hrana tatălui ei. Dar niciun străin să nu mănânce din ea.
+{22:14} Dacă un om mănâncă dintr-un lucru sfânt fără să bage de seamă, să dea preotului preţul lucrului sfânt, adăugând încă o cincime la el.
+{22:15} Preoţii să nu necinstească lucrurile sfinte aduse de copiii lui Israel, pe care le-au adus ei Domnului ca jertfă prin ridicare;
+{22:16} ei vor face să apese astfel asupra lor păcatul de care s-ar face vinovaţi mâncând din lucrurile sfinte: căci Eu sunt Domnul, care îi sfinţesc’.”
+{i22:17} Jertfele să fie fără cusur
+{22:17} Domnul a vorbit lui Moise şi a zis:
+{22:18} „Vorbeşte lui Aaron şi fiilor lui, şi tuturor copiilor lui Israel şi spune-le: ‘Orice om din casa lui Israel sau dintre străinii din Israel care va aduce o ardere-de-tot Domnului, fie pentru împlinirea unei juruinţe, fie ca dar de bunăvoie,
+{22:19} să ia o parte bărbătească fără cusur din boi, miei sau capre, pentru ca jertfa să fie primită.
+{22:20} Să nu aduceţi niciuna care să aibă vreun cusur, căci n-ar fi primită.
+{22:21} Dacă un om aduce Domnului din boi sau din oi o jertfă de mulţumire, fie pentru împlinirea unei juruinţe, fie ca dar de bunăvoie, vita pentru jertfă să fie fără cusur, ca să fie primită; să n-aibă niciun cusur în ea.
+{22:22} Să n-aduceţi niciuna care să fie oarbă, slută sau ciuntită, care să aibă bube, râie sau pecingine; din acestea să n-aduceţi pe altar ca jertfă mistuită de foc înaintea Domnului.
+{22:23} Ca dar de bunăvoie, vei putea să jertfeşti un bou sau un miel cu un mădular prea lung sau prea scurt, dar, ca dar pentru împlinirea unei juruinţe, nu va fi primit.
+{22:24} Să n-aduceţi Domnului un dobitoc cu boaşele frânte, stricate, smulse sau tăiate; să nu-l aduceţi ca jertfă în ţara voastră.
+{22:25} Nici să nu luaţi de la străin vreunul din aceste dobitoace ca să-l aduceţi ca mâncare Dumnezeului vostru, căci sunt sluţite, au metehne, şi n-ar fi primite’.”
+{22:26} Domnul a zis lui Moise:
+{22:27} „Viţelul, mielul sau iedul, după naştere, să mai rămână şapte zile cu mamă-sa şi apoi, de la a opta zi înainte, va fi primit să fie adus Domnului ca jertfă mistuită de foc.
+{22:28} Vaca, oaia sau capra să n-o înjunghiaţi ca jertfă în aceeaşi zi cu fătul ei.
+{22:29} Când veţi aduce Domnului o jertfă de mulţumire, s-o aduceţi aşa ca să fie primită.
+{22:30} Vita să se mănânce în aceeaşi zi; să nu lăsaţi nimic din ea până a doua zi dimineaţa. Eu sunt Domnul.
+{22:31} Să păziţi poruncile Mele şi să le împliniţi. Eu sunt Domnul.
+{22:32} Să nu necinstiţi Numele Meu cel sfânt, ca să fiu sfinţit în mijlocul copiilor lui Israel. Eu sunt Domnul, care vă sfinţesc
+{22:33} şi care v-am scos din ţara Egiptului, ca să fiu Dumnezeul vostru. Eu sunt Domnul.”
+{i23:1} Sărbătorile. Sabatul
+{23:1} Domnul a vorbit lui Moise şi a zis:
+{23:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Iată sărbătorile Domnului, pe care le veţi vesti ca adunări sfinte, iată sărbătorile Mele:
+{23:3} Şase zile să lucraţi, dar ziua a şaptea este Sabatul, ziua de odihnă, cu o adunare sfântă. Să nu faceţi nicio lucrare în timpul ei: este Sabatul Domnului în toate locuinţele voastre.
+{i23:4} Paştele
+{23:4} Iată sărbătorile Domnului, cu adunări sfinte, pe care le veţi vesti la vremile lor hotărâte.
+{23:5} În luna întâi, în a paisprezecea zi a lunii, între cele două seri, vor fi Paştele Domnului.
+{23:6} Şi în a cincisprezecea zi a lunii acesteia, va fi Sărbătoarea Azimilor în cinstea Domnului; şapte zile să mâncaţi azimi.
+{23:7} În ziua întâi, să aveţi o adunare sfântă: atunci să nu faceţi nicio lucrare de slugă.
+{23:8} Şapte zile să aduceţi Domnului jertfe mistuite de foc. În ziua a şaptea să fie o adunare sfântă: atunci să nu faceţi nicio lucrare de slugă’.”
+{23:9} Domnul a vorbit lui Moise şi a zis:
+{23:10} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când veţi intra în ţara pe care v-o dau şi când veţi secera semănăturile, să aduceţi preotului un snop, ca pârgă a secerişului vostru.
+{23:11} El să legene snopul într-o parte şi într-alta înaintea Domnului, ca să fie primit: preotul să-l legene într-o parte şi într-alta, a doua zi după Sabat.
+{23:12} În ziua când veţi legăna snopul, să aduceţi, ca ardere-de-tot Domnului, un miel de un an, fără cusur;
+{23:13} să adăugaţi la el două zecimi de efă din floarea făinii, frământată cu untdelemn, ca dar de mâncare mistuit de foc, de un miros plăcut Domnului, şi să aduceţi o jertfă de băutură de un sfert de hin de vin.
+{23:14} Să nu mâncaţi nici pâine, nici spice prăjite sau pisate până în ziua aceasta, când veţi aduce un dar de mâncare Dumnezeului vostru. Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile în care veţi locui.
+{i23:15} Rusaliile
+{23:15} De a doua zi după Sabat, din ziua când veţi aduce snopul ca să fie legănat într-o parte şi într-alta, să număraţi şapte săptămâni întregi.
+{23:16} Să număraţi cincizeci de zile, până în ziua care vine după al şaptelea Sabat, şi atunci să aduceţi Domnului un nou dar de mâncare.
+{23:17} Să aduceţi din locuinţele voastre două pâini, ca să fie legănate într-o parte şi într-alta; să fie făcute cu două zecimi de efă din floarea făinii şi coapte cu aluat: acestea sunt cele dintâi roade pentru Domnul.
+{23:18} Afară de aceste pâini, să aduceţi ca ardere-de-tot Domnului şapte miei de un an, fără cusur, un viţel şi doi berbeci; să adăugaţi la ei darul de mâncare şi jertfa de băutură obişnuite, ca dar de mâncare mistuit de foc, de un miros plăcut Domnului.
+{23:19} Să aduceţi şi un ţap, ca jertfă de ispăşire, şi doi miei de un an, ca jertfă de mulţumire.
+{23:20} Preotul să legene aceste dobitoace într-o parte şi într-alta ca dar legănat înaintea Domnului, împreună cu pâinea adusă ca pârgă şi cu cei doi miei: ele să fie închinate Domnului şi să fie ale preotului.
+{23:21} În aceeaşi zi, să vestiţi sărbătoarea şi să aveţi o adunare sfântă: atunci să nu faceţi nicio lucrare de slugă. Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile în care veţi locui.
+{23:22} Când vei secera semănăturile din ţara voastră, să laşi nesecerat un colţ din câmpul tău şi să nu strângi ce rămâne de pe urma secerătorilor. Să laşi săracului şi străinului aceste spice. Eu sunt Domnul, Dumnezeul vostru’.”
+{i23:23} Anul Nou
+{23:23} Domnul a vorbit lui Moise şi a zis:
+{23:24} „Vorbeşte copiilor lui Israel şi spune-le: ‘În luna a şaptea, în cea dintâi zi a lunii, să aveţi o zi de odihnă, vestită cu sunet de trâmbiţe, şi o adunare sfântă.
+{23:25} Atunci să nu faceţi nicio lucrare de slugă şi să aduceţi Domnului jertfe mistuite de foc’.”
+{i23:26} Ziua Ispăşirii
+{23:26} Domnul a vorbit lui Moise şi a zis:
+{23:27} „În ziua a zecea a acestei a şaptea luni, va fi Ziua Ispăşirii: atunci să aveţi o adunare sfântă, să vă smeriţi sufletele şi să aduceţi Domnului jertfe mistuite de foc.
+{23:28} Să nu faceţi nicio lucrare în ziua aceea, căci este Ziua Ispăşirii, când trebuie făcută ispăşire pentru voi înaintea Domnului, Dumnezeului vostru.
+{23:29} Oricine nu se va smeri în ziua aceea va fi nimicit din poporul lui.
+{23:30} Pe oricine va face în ziua aceea vreo lucrare oarecare, îl voi nimici din mijlocul poporului lui.
+{23:31} Să nu faceţi nicio lucrare atunci. Aceasta este o lege veşnică pentru urmaşii voştri, în toate locurile în care veţi locui.
+{23:32} Aceasta să fie pentru voi o zi de Sabat, o zi de odihnă, şi să vă smeriţi sufletele în ziua aceasta; din seara zilei a noua până în seara următoare, să prăznuiţi Sabatul vostru.”
+{i23:33} Corturile
+{23:33} Domnul a vorbit lui Moise şi a zis:
+{23:34} „Vorbeşte copiilor lui Israel şi spune-le: ‘În a cincisprezecea zi a acestei a şaptea luni, va fi Sărbătoarea Corturilor în cinstea Domnului, timp de şapte zile.
+{23:35} În ziua întâi să fie o adunare sfântă: să nu faceţi nicio lucrare de slugă în timpul ei.
+{23:36} Timp de şapte zile, să aduceţi Domnului jertfe mistuite de foc. A opta zi, să aveţi o adunare sfântă şi să aduceţi Domnului jertfe mistuite de foc; aceasta să fie o adunare de sărbătoare: să nu faceţi nicio lucrare de slugă în timpul ei.
+{23:37} Acestea sunt sărbătorile Domnului, în care veţi vesti adunări sfinte, ca să se aducă Domnului jertfe mistuite de foc, arderi-de-tot, daruri de mâncare, jertfe de vite şi jertfe de băutură, fiecare lucru la ziua hotărâtă.
+{23:38} Afară de aceasta, să păziţi Sabatele Domnului şi să vă aduceţi darurile voastre Domnului, să aduceţi toate jertfele făcute pentru împlinirea unei juruinţe şi toate darurile voastre făcute de bunăvoie.
+{23:39} În a cincisprezecea zi a lunii acesteia a şaptea, când veţi strânge roadele ţării, să prăznuiţi o sărbătoare în cinstea Domnului, timp de şapte zile: cea dintâi zi să fie o zi de odihnă şi a opta să fie tot o zi de odihnă.
+{23:40} În ziua întâi să luaţi poame din pomii cei frumoşi, ramuri de finici, ramuri de copaci stufoşi şi de sălcii de râu şi să vă bucuraţi înaintea Domnului, Dumnezeului vostru, şapte zile.
+{23:41} În fiecare an să prăznuiţi sărbătoarea aceasta în cinstea Domnului, timp de şapte zile. Aceasta este o lege veşnică pentru urmaşii voştri. În luna a şaptea s-o prăznuiţi.
+{23:42} Şapte zile să locuiţi în corturi; toţi băştinaşii din Israel să locuiască în corturi,
+{23:43} pentru ca urmaşii voştri să ştie că am făcut pe copiii lui Israel să locuiască în corturi, după ce i-am scos din ţara Egiptului. Eu sunt Domnul, Dumnezeul vostru’.”
+{23:44} Aşa a spus Moise copiilor lui Israel care sunt sărbătorile Domnului.
+{i24:1} Rânduieli privitoare la sfeşnic
+{24:1} Domnul a vorbit lui Moise şi a zis:
+{24:2} „Porunceşte copiilor lui Israel să-ţi aducă pentru sfeşnic untdelemn curat de măsline tescuite, ca să ţină candelele aprinse neîncetat.
+{24:3} Aaron să-l pregătească dincoace de perdeaua dinăuntru, care este înaintea mărturiei, în cortul întâlnirii, pentru ca să ardă neîncetat, de seara până dimineaţa, în faţa Domnului. Aceasta este o lege veşnică pentru urmaşii voştri.
+{24:4} Să aşeze candelele în sfeşnicul de aur curat, ca să ardă neîncetat înaintea Domnului.
+{i24:5} Pâinile pentru punerea înainte
+{24:5} Să iei floare de făină şi să faci din ea douăsprezece turte; fiecare turtă să fie făcută din două zecimi de efă.
+{24:6} Să le pui în două şiruri, câte şase în fiecare şir, pe masa de aur curat, înaintea Domnului.
+{24:7} Peste fiecare şir să pui tămâie curată, care să fie pe pâine ca aducere-aminte, ca un dar de mâncare mistuit de foc înaintea Domnului.
+{24:8} În fiecare zi de Sabat, să se pună aceste pâini înaintea Domnului, neîncetat: acesta este un legământ veşnic pe care-l vor ţine copiii lui Israel.
+{24:9} Pâinile acestea să fie ale lui Aaron şi ale fiilor lui şi să le mănânce într-un loc sfânt; căci ele sunt pentru ei un lucru preasfânt, o parte din darurile de mâncare mistuite de foc înaintea Domnului. Aceasta este o lege veşnică.”
+{i24:10} Pedeapsa împotriva hulitorilor şi a ucigaşilor
+{24:10} Fiul unei femei israelite şi al unui bărbat egiptean, venind în mijlocul copiilor lui Israel, s-a certat în tabără cu un bărbat israelit.
+{24:11} Fiul femeii israelite a hulit şi a blestemat Numele lui Dumnezeu. L-au adus la Moise. Mamă-sa se numea Şelomit, fata lui Dibri, din seminţia lui Dan.
+{24:12} L-au aruncat în temniţă, până va spune Moise ce va porunci Domnul.
+{24:13} Domnul a vorbit lui Moise şi a zis:
+{24:14} „Scoate din tabără pe cel ce a hulit; toţi cei ce l-au auzit să-şi pună mâinile pe capul lui şi toată adunarea să-l ucidă cu pietre.
+{24:15} Să vorbeşti copiilor lui Israel şi să le spui: ‘Oricine va blestema pe Dumnezeul lui îşi va lua pedeapsa pentru păcatul lui.
+{24:16} Cine va blestema Numele Domnului va fi pedepsit cu moartea: toată adunarea să-l ucidă cu pietre. Fie străin, fie băştinaş să moară, pentru că a hulit Numele lui Dumnezeu.
+{24:17} Cine va da unui om o lovitură de moarte să fie pedepsit cu moartea.
+{24:18} Cine va da unui dobitoc o lovitură de moarte să-l înlocuiască: viaţă pentru viaţă.
+{24:19} Dacă cineva răneşte pe aproapele lui, să i se facă aşa cum a făcut şi el:
+{24:20} frântură pentru frântură, ochi pentru ochi, dinte pentru dinte; să i se facă aceeaşi rană pe care a făcut-o el aproapelui său.
+{24:21} Cine va ucide un dobitoc să-l înlocuiască, dar cine va ucide un om să fie pedepsit cu moartea.
+{24:22} Să aveţi aceeaşi lege pentru străin ca şi pentru băştinaş; căci Eu sunt Domnul, Dumnezeul vostru’.”
+{24:23} Moise a vorbit copiilor lui Israel; au scos afară din tabără pe cel ce hulise şi l-au ucis cu pietre. Copiii lui Israel au făcut după porunca pe care o dăduse lui Moise Domnul.
+{i25:1} Anul sabatic
+{25:1} Domnul a vorbit cu Moise pe muntele Sinai şi a zis:
+{25:2} „Vorbeşte copiilor lui Israel şi spune-le: ‘Când veţi intra în ţara pe care v-o dau, pământul să se odihnească, să ţină un Sabat în cinstea Domnului.
+{25:3} Şase ani să-ţi semeni ogorul, şase ani să-ţi tai via şi să strângi roadele.
+{25:4} Dar anul al şaptelea să fie un Sabat, o vreme de odihnă pentru pământ, un Sabat ţinut în cinstea Domnului: în anul acela să nu-ţi semeni ogorul şi să nu-ţi tai via.
+{25:5} Să nu seceri ce va ieşi din grăunţele căzute de la seceriş şi să nu culegi strugurii din via ta netăiată: acesta să fie un an de odihnă pentru pământ.
+{25:6} Ceea ce va ieşi de la sine din pământ în timpul Sabatului lui, să vă slujească de hrană, ţie, robului şi roabei tale, celui tocmit de tine cu ziua şi străinului care locuieşte cu tine,
+{25:7} vitelor tale şi fiarelor din ţara ta; tot venitul pământului să slujească de hrană.
+{i25:8} Anul de veselie. Răscumpărarea averilor şi a robilor
+{25:8} Să numeri şapte săptămâni de ani, de şapte ori şapte ani, şi zilele acestor şapte săptămâni de ani vor face patruzeci şi nouă de ani.
+{25:9} În a zecea zi a lunii a şaptea, să pui să sune cu trâmbiţa răsunătoare; în Ziua Ispăşirii, să sunaţi cu trâmbiţa în toată ţara voastră
+{25:10} şi să sfinţiţi astfel anul al cincizecilea. Să vestiţi slobozenia în ţară pentru toţi locuitorii ei: acesta să fie pentru voi anul de veselie; fiecare dintre voi să se întoarcă la moşia lui şi fiecare dintre voi să se întoarcă în familia lui.
+{25:11} Anul al cincizecilea să fie pentru voi anul de veselie; atunci să nu semănaţi, să nu seceraţi ce vor aduce ogoarele de la ele şi să nu culegeţi via netăiată.
+{25:12} Căci este anul de veselie: să-l priviţi ca ceva sfânt. Să mâncaţi ce vă vor da ogoarele voastre.
+{25:13} În anul acesta de veselie, fiecare dintre voi să se întoarcă la moşia lui.
+{25:14} Dacă vindeţi ceva aproapelui vostru sau dacă cumpăraţi ceva de la aproapele vostru, niciunul dintre voi să nu înşele pe fratele lui.
+{25:15} Să cumperi de la aproapele tău socotind anii de la anul de veselie, şi el să-ţi vândă socotind anii de rod.
+{25:16} Cu cât vor fi mai mulţi ani, cu atât să ridici preţul şi cu cât vor fi mai puţini ani, cu atât să-l scazi, căci el îţi vinde numai numărul secerişurilor.
+{25:17} Niciunul dintre voi să nu înşele deci pe aproapele lui şi să te temi de Dumnezeul tău, căci Eu sunt Domnul, Dumnezeul vostru.
+{25:18} Împliniţi legile Mele, păziţi poruncile Mele şi împliniţi-le, şi veţi locui fără frică în ţară.
+{25:19} Ţara îşi va da roadele, veţi mânca din ele şi vă veţi sătura şi veţi locui fără frică în ea.
+{25:20} Dacă veţi zice: «Ce vom mânca în anul al şaptelea, fiindcă nu vom semăna şi nu vom strânge roadele?».
+{25:21} Eu vă voi da binecuvântarea Mea în anul al şaselea, şi pământul va da roade pentru trei ani.
+{25:22} Când veţi semăna în anul al optulea, veţi mânca tot din vechile roade; până la al nouălea an, până la noile roade, veţi mânca tot din cele vechi.
+{25:23} Pământurile să nu se vândă de veci; căci ţara este a Mea, iar voi sunteţi la Mine ca nişte străini şi venetici.
+{25:24} De aceea, în toată ţara pe care o veţi stăpâni, să daţi dreptul de răscumpărare pentru pământuri.
+{25:25} Dacă fratele tău sărăceşte şi vinde o bucată din moşia lui, cel ce are dreptul de răscumpărare, ruda lui cea mai de aproape, să vină şi să răscumpere ce a vândut fratele său.
+{25:26} Dacă un om n-are pe nimeni care să aibă dreptul de răscumpărare şi-i stă în putinţă lui singur să facă răscumpărarea,
+{25:27} să socotească anii de la vânzare, să dea înapoi cumpărătorului ce prisoseşte şi să se întoarcă la moşia lui.
+{25:28} Dacă n-are cu ce să-i dea înapoi, lucrul vândut să rămână în mâinile cumpărătorului până la anul de veselie; la anul de veselie, el să se întoarcă la moşia lui şi cumpărătorul să iasă din ea.
+{25:29} Dacă un om vinde o casă de locuit într-o cetate înconjurată cu ziduri, să aibă drept de răscumpărare până la împlinirea unui an de la vânzare; dreptul lui de răscumpărare să ţină un an.
+{25:30} Dar, dacă această casă, aşezată într-o cetate înconjurată cu ziduri, nu este răscumpărată înainte de împlinirea unui an întreg, ea va rămâne pe veci a cumpărătorului şi urmaşilor lui; iar în anul de veselie să nu iasă din ea.
+{25:31} Casele din sate care nu sunt înconjurate cu ziduri să fie privite ca ţarini de pământ: ele vor putea fi răscumpărate, şi cumpărătorul va ieşi din ele în anul de veselie.
+{25:32} Cât priveşte cetăţile leviţilor şi casele pe care le vor avea ei în aceste cetăţi, leviţii să aibă un drept necurmat de răscumpărare.
+{25:33} Cine va cumpăra de la leviţi o casă să iasă în anul de veselie din casa vândută lui şi din cetatea în care o avea; căci casele din cetăţile leviţilor sunt averea lor în mijlocul copiilor lui Israel.
+{25:34} Ogoarele aşezate în jurul cetăţilor leviţilor nu se vor putea vinde; căci ei le vor stăpâni pe veci.
+{25:35} Dacă fratele tău sărăceşte şi nu mai poate munci lângă tine, să-l sprijini, fie ca străin, fie ca venetic, ca să trăiască împreună cu tine.
+{25:36} Să nu iei de la el nici dobândă, nici camătă: să te temi de Dumnezeul tău, şi fratele tău să trăiască împreună cu tine.
+{25:37} Să nu-i împrumuţi banii tăi cu dobândă şi să nu-i împrumuţi merindele tale pe camătă.
+{25:38} Eu sunt Domnul, Dumnezeul tău, care v-am scos din ţara Egiptului, ca să vă dau ţara Canaanului, ca să fiu Dumnezeul vostru.
+{25:39} Dacă fratele tău sărăceşte lângă tine şi se vinde ţie, să nu-l pui să-ţi facă muncă de rob.
+{25:40} Ci să fie la tine ca un om tocmit cu ziua, ca un venetic; să stea în slujba ta până la anul de veselie.
+{25:41} Atunci, să iasă de la tine el şi copiii lui care vor fi cu el şi să se întoarcă în familia lui, la moşia părinţilor lui.
+{25:42} Căci ei sunt slujitorii Mei, pe care i-am scos din ţara Egiptului; să nu fie vânduţi cum se vând robii.
+{25:43} Să nu-l stăpâneşti cu asprime şi să te temi de Dumnezeul tău.
+{25:44} Dacă vreţi să aveţi robi şi roabe, să-i luaţi de la neamurile care vă înconjoară; de la ele să cumpăraţi robi şi roabe.
+{25:45} Veţi putea să-i cumpăraţi şi dintre copiii străinilor care vor locui la tine şi din familiile lor, pe care le vor naşte în ţara voastră; ei vor fi averea voastră.
+{25:46} Îi puteţi lăsa moştenire copiilor voştri după voi, ca pe o moşie, şi puteţi să-i ţineţi astfel robi pe veci. Dar cât despre fraţii voştri, copiii lui Israel, nici unul din voi să nu stăpânească pe fratele său cu asprime.
+{25:47} Dacă un străin sau un venetic se îmbogăţeşte, şi fratele tău sărăceşte lângă el şi se vinde străinului care locuieşte la tine sau vreunuia din familia străinului,
+{25:48} el să aibă dreptul de răscumpărare, după ce se va fi vândut: unul din fraţii lui să poată să-l răscumpere.
+{25:49} Unchiul lui sau fiul unchiului lui, sau una din rudele lui de aproape va putea să-l răscumpere sau, dacă are mijloace, să se răscumpere singur.
+{25:50} Să facă socoteala cu cel ce l-a cumpărat, din anul când s-a vândut până în anul de veselie, şi preţul de plătit va atârna de numărul anilor, care vor fi preţuiţi ca ai unui om tocmit cu plată.
+{25:51} Dacă mai sunt încă mulţi ani până la anul de veselie, îşi va plăti răscumpărarea după preţul anilor acelora şi să-l scadă din preţul cu care a fost cumpărat;
+{25:52} dacă mai rămân puţini ani până la anul de veselie, să le facă socoteala şi să-şi plătească răscumpărarea după aceşti ani.
+{25:53} Să fie la el ca unul tocmit cu anul; şi acela la care va fi să nu se poarte cu asprime cu el sub ochii tăi.
+{25:54} Iar dacă nu este răscumpărat în niciunul din aceste feluri, să iasă de la el în anul de veselie, el şi copiii lui care vor fi împreună cu el.
+{25:55} Căci copiii lui Israel sunt robii Mei; ei sunt robii Mei, pe care i-am scos din ţara Egiptului. Eu sunt Domnul, Dumnezeul vostru.
+{i26:1} Binecuvântarea
+{26:1} Să nu vă faceţi idoli, să nu vă ridicaţi nici chip cioplit, nici stâlp de aducere-aminte; să nu puneţi în ţara voastră nicio piatră împodobită cu chipuri, ca să vă închinaţi înaintea ei; căci Eu sunt Domnul, Dumnezeul vostru.
+{26:2} Să păziţi Sabatele Mele şi să cinstiţi Locaşul Meu cel Sfânt. Eu sunt Domnul.
+{26:3} Dacă veţi urma legile Mele, dacă veţi păzi poruncile Mele şi le veţi împlini,
+{26:4} vă voi trimite ploi la vreme, pământul îşi va da roadele şi pomii de pe câmp îşi vor da rodul.
+{26:5} Abia veţi treiera grâul şi veţi începe culesul viei, şi culesul viei va ţine până la semănătură; veţi avea pâine din belşug, veţi mânca şi vă veţi sătura şi veţi locui fără frică în ţara voastră.
+{26:6} Voi da pace în ţară şi nimeni nu vă va tulbura somnul; voi face să piară din ţară fiarele sălbatice şi sabia nu va trece prin ţara voastră.
+{26:7} Veţi urmări pe vrăjmaşii voştri, şi ei vor cădea ucişi de sabie înaintea voastră.
+{26:8} Cinci dintre voi vor urmări o sută şi o sută dintre voi vor urmări zece mii, şi vrăjmaşii voştri vor cădea ucişi de sabie înaintea voastră.
+{26:9} Eu Mă voi întoarce spre voi, vă voi face să creşteţi, vă voi înmulţi şi Îmi voi ţine legământul Meu cu voi.
+{26:10} Veţi mânca din roadele cele vechi şi veţi scoate afară pe cele vechi, ca să faceţi loc celor noi.
+{26:11} Voi aşeza Locaşul Meu în mijlocul vostru şi sufletul Meu nu vă va urî.
+{26:12} Voi umbla în mijlocul vostru; Eu voi fi Dumnezeul vostru şi voi veţi fi poporul Meu.
+{26:13} Eu sunt Domnul, Dumnezeul vostru, care v-am scos din ţara Egiptului, care v-am scos din robie; Eu am rupt legăturile jugului vostru şi v-am făcut să mergeţi cu capul ridicat.
+{i26:14} Blestemul
+{26:14} Dar, dacă nu Mă ascultaţi şi nu împliniţi toate aceste porunci,
+{26:15} dacă nesocotiţi legile Mele şi dacă sufletul vostru urăşte rânduielile Mele, aşa încât să nu împliniţi toate poruncile Mele şi să rupeţi legământul Meu,
+{26:16} iată ce vă voi face atunci. Voi trimite peste voi groaza, lingoarea şi frigurile, care vor face să vi se stingă ochii şi să piară viaţa din voi. Sămânţa o veţi semăna în zadar, căci o vor mânca vrăjmaşii voştri.
+{26:17} Îmi voi întoarce Faţa împotriva voastră şi veţi fi bătuţi şi veţi fugi dinaintea vrăjmaşilor voştri; cei ce vă urăsc vă vor subjuga şi veţi fugi fără să fiţi urmăriţi chiar.
+{26:18} Dacă, cu toate acestea, nu Mă veţi asculta, vă voi pedepsi de şapte ori mai mult pentru păcatele voastre.
+{26:19} Voi frânge mândria puterii voastre, voi face ca deasupra voastră cerul să fie de fier şi pământul, de aramă.
+{26:20} Vi se va istovi puterea fără folos: pământul vostru nu-şi va da roadele şi pomii de pe pământ nu-şi vor da rodul.
+{26:21} Dacă şi după aceasta vă veţi împotrivi şi nu veţi voi să Mă ascultaţi, vă voi lovi de şapte ori mai mult pentru păcatele voastre.
+{26:22} Voi trimite împotriva voastră fiarele de pe câmp, care vă vor lăsa fără copii, vă vor nimici vitele şi vă vor împuţina; aşa că vă vor rămâne drumurile pustii.
+{26:23} Dacă pedepsele acestea nu vă vor îndrepta şi dacă vă veţi împotrivi Mie,
+{26:24} Mă voi împotrivi şi Eu vouă şi vă voi lovi de şapte ori mai mult pentru păcatele voastre.
+{26:25} Voi face să vină împotriva voastră sabie, care va răzbuna călcarea legământului Meu, şi, când vă veţi strânge în cetăţile voastre, voi trimite ciuma în mijlocul vostru şi veţi fi daţi în mâinile vrăjmaşului.
+{26:26} Când vă voi trimite lipsă de pâine, zece femei vă vor coace pâine într-un singur cuptor şi vi se va da pâinea cu cântarul; veţi mânca, dar nu vă veţi sătura.
+{26:27} Dacă, cu toate acestea, nu Mă veţi asculta şi dacă vă veţi împotrivi Mie,
+{26:28} Mă voi împotrivi şi Eu vouă cu mânie şi vă voi pedepsi de şapte ori mai mult pentru păcatele voastre.
+{26:29} Veţi mânca până şi carnea fiilor voştri, veţi mânca până şi carnea fiicelor voastre.
+{26:30} Vă voi nimici înălţimile pentru jertfă, vă voi dărâma stâlpii închinaţi soarelui, voi arunca trupurile voastre moarte peste trupurile moarte ale idolilor voştri şi sufletul Meu vă va urî.
+{26:31} Vă voi lăsa cetăţile pustii, vă voi pustii locaşurile sfinte şi nu voi mai mirosi mirosul plăcut al tămâii voastre.
+{26:32} Voi pustii ţara, aşa că vrăjmaşii voştri care o vor locui vor rămâne încremeniţi văzând-o.
+{26:33} Vă voi împrăştia printre neamuri şi voi scoate sabia după voi. Ţara voastră va fi pustiită şi cetăţile voastre vor rămâne pustii.
+{26:34} Atunci, ţara se va bucura de Sabatele ei tot timpul cât va fi pustiită şi cât veţi fi în ţara vrăjmaşilor voştri; atunci, ţara se va odihni şi se va bucura de Sabatele ei.
+{26:35} Tot timpul cât va fi pustiită va avea odihna pe care n-o avusese în anii voştri de Sabat, când o locuiaţi.
+{26:36} În inima acelora dintre voi care vor mai rămâne în viaţă în ţara vrăjmaşilor lor, voi băga frica şi îi va urmări până şi foşnetul unei frunze suflate de vânt; vor fugi ca de sabie şi vor cădea fără să fie urmăriţi.
+{26:37} Se vor prăvăli unii peste alţii ca înaintea sabiei, fără să fie urmăriţi. Nu veţi putea să staţi în picioare în faţa vrăjmaşilor voştri;
+{26:38} veţi pieri printre neamuri şi vă va mânca ţara vrăjmaşilor voştri.
+{26:39} Iar pe aceia dintre voi care vor mai rămâne în viaţă îi va apuca durerea pentru fărădelegile lor, în ţara vrăjmaşilor lor; îi va apuca durerea şi pentru fărădelegile părinţilor lor.
+{i26:40} Primirea din nou
+{26:40} Îşi vor mărturisi fărădelegile lor şi fărădelegile părinţilor lor, călcările de Lege pe care le-au săvârşit faţă de Mine şi împotrivirea cu care Mi s-au împotrivit, păcate din pricina cărora
+{26:41} şi Eu M-am împotrivit lor şi i-am dus în ţara vrăjmaşilor lor. Şi atunci, inima lor netăiată împrejur se va smeri şi vor plăti datoria fărădelegilor lor.
+{26:42} Atunci Îmi voi aduce aminte de legământul Meu cu Iacov, Îmi voi aduce aminte de legământul Meu cu Isaac şi de legământul Meu cu Avraam şi Îmi voi aduce aminte de ţară.
+{26:43} Ţara însă va trebui să fie părăsită de ei şi se va bucura de Sabatele ei în timpul când va rămâne pustiită departe de ei; şi ei vor plăti datoria fărădelegilor lor pentru că au nesocotit poruncile Mele şi pentru că sufletul lor a urât legile Mele.
+{26:44} Dar, şi când vor fi în ţara vrăjmaşilor lor, nu-i voi lepăda de tot şi nu-i voi urî până acolo încât să-i nimicesc de tot şi să rup legământul Meu cu ei, căci Eu sunt Domnul, Dumnezeul lor.
+{26:45} Ci Îmi voi aduce aminte, spre binele lor, de vechiul legământ prin care i-am scos din ţara Egiptului în faţa neamurilor, ca să fiu Dumnezeul lor. Eu sunt Domnul’.”
+{26:46} Acestea sunt rânduielile, poruncile şi legile pe care le-a statornicit Domnul între El şi copiii lui Israel, pe muntele Sinai, prin Moise.
+{i27:1} Juruinţele
+{27:1} Domnul a vorbit lui Moise şi a zis: „Vorbeşte copiilor lui Israel şi spune-le:
+{27:2} ‘Când se vor face juruinţe Domnului, dacă e vorba de oameni, ei să fie ai Domnului, după preţuirea ta.
+{27:3} Iar preţuirea pe care o vei face unui bărbat, de la douăzeci până la şaizeci de ani, să fie de cincizeci de sicli de argint, după siclul Sfântului Locaş:
+{27:4} dacă este femeie, preţuirea să fie de treizeci de sicli.
+{27:5} De la cinci până la douăzeci de ani, preţuirea să fie de douăzeci de sicli pentru un băiat şi de zece sicli pentru o fată.
+{27:6} De la o lună până la cinci ani, preţuirea să fie de cinci sicli de argint pentru un băiat şi de trei sicli de argint pentru o fată.
+{27:7} De la şaizeci de ani în sus, preţuirea să fie de cincisprezece sicli pentru un bărbat şi de zece sicli pentru o femeie.
+{27:8} Dacă cel ce a făcut juruinţa este prea sărac ca să plătească preţuirea aceasta făcută de tine, să-l aducă la preot, să-l preţuiască, şi preotul să facă o preţuire potrivit cu mijloacele omului aceluia.
+{27:9} Dacă este vorba de dobitoacele care pot fi aduse ca jertfă Domnului, orice dobitoc care se va da Domnului va fi ceva sfânt.
+{27:10} Să nu-l schimbe şi să nu pună unul rău în locul unuia bun, nici unul bun în locul unuia rău; dacă s-ar întâmpla să se înlocuiască un dobitoc cu altul, şi unul, şi celălalt vor fi sfinţi.
+{27:11} Dacă este vorba de dobitoacele necurate, care nu pot fi aduse ca jertfă Domnului, să aducă dobitocul la preot,
+{27:12} care-i va face preţuirea după cum va fi bun sau rău şi va rămâne la preţuirea preotului.
+{27:13} Dacă vrea să-l răscumpere, să mai adauge o cincime la preţuirea lui.
+{i27:14} Predarea lucrurilor
+{27:14} Dacă cineva îşi închină Domnului casa, hărăzind-o Domnului ca un dar sfânt, preotul să-i facă preţuirea după cum va fi, bună sau rea, şi să rămână la preţuirea făcută de preot.
+{27:15} Dacă cel ce şi-a închinat Domnului casa vrea s-o răscumpere, să adauge o cincime la preţul preţuirii ei, şi va fi a lui.
+{27:16} Dacă cineva închină Domnului un ogor din moşia lui, preţuirea ta să fie după câtimea de sămânţă pe care o dă, şi anume cincizeci de sicli de argint pentru un omer de sămânţă de orz.
+{27:17} Dacă îşi închină Domnului ogorul, cu începere chiar din anul de veselie, să rămână la preţuirea ta,
+{27:18} dar, dacă îşi închină Domnului ogorul după anul de veselie, atunci preotul să-i socotească preţul după numărul anilor care mai rămân până la anul de veselie şi să-l scadă din preţuirea ta.
+{27:19} Dacă cel ce şi-a închinat Domnului ogorul vrea să-l răscumpere, atunci să mai adauge o cincime la argintul preţuit de tine, şi ogorul să rămână al lui.
+{27:20} Dacă nu-şi răscumpără ogorul, şi-l vinde altui om, nu va mai putea fi răscumpărat.
+{27:21} Şi când va ieşi cumpărătorul din el la anul de veselie, ogorul acela să fie închinat Domnului, ca ogor hărăzit Lui; să fie moşia preotului.
+{27:22} Dacă cineva închină Domnului un ogor cumpărat de el, care nu face parte din moşia lui,
+{27:23} preotul să-i socotească preţul după cât face preţuirea până la anul de veselie şi omul acela să plătească în aceeaşi zi preţul hotărât de tine, ca lucru închinat Domnului.
+{27:24} În anul de veselie, ogorul să se întoarcă la acela de la care fusese cumpărat şi din moşia căruia făcea parte.
+{27:25} Toate preţuirile să se facă în sicli Sfântului Locaş: siclul are douăzeci de ghere.
+{i27:26} Ce nu se poate închina
+{27:26} Nimeni nu va putea să închine Domnului pe întâiul născut din vita lui, care chiar este al Domnului ca întâi născut; fie bou, fie miel este al Domnului.
+{27:27} Dacă este vorba însă de un dobitoc necurat, să-l răscumpere cu preţul preţuit de tine, mai adăugând încă o cincime; dacă nu este răscumpărat, să fie vândut după preţuirea ta.
+{27:28} Tot ce va dărui un om Domnului prin făgăduinţă din ce are nu va putea nici să se vândă, nici să se răscumpere: fie om, fie dobitoc, fie un ogor din moşia lui; tot ce va fi dăruit Domnului prin făgăduinţă va fi un lucru preasfânt, pentru Domnul.
+{27:29} Niciun om închinat Domnului prin făgăduinţă nu va putea fi răscumpărat, ci va fi omorât.
+{i27:30} Zeciuielile
+{27:30} Orice zeciuială din pământ, fie din roadele pământului, fie din rodul pomilor, este a Domnului; este un lucru închinat Domnului.
+{27:31} Dacă vrea cineva să răscumpere ceva din zeciuiala lui, să mai adauge o cincime.
+{27:32} Orice zeciuială din cirezi şi din turme, din tot ce trece sub toiag, să fie o zeciuială închinată Domnului.
+{27:33} Să nu se cerceteze dacă dobitocul este bun sau rău şi să nu se schimbe; dacă se înlocuieşte un dobitoc cu un altul, şi unul, şi celălalt vor fi sfinţi şi nu vor putea fi răscumpăraţi’.”
+{27:34} Acestea sunt poruncile pe care le-a dat lui Moise Domnul pentru copiii lui Israel, pe muntele Sinai.

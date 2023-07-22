@@ -1,0 +1,64 @@
+{i1:1} A próféta első panasza
+{1:1} Prófécia, amelyet Habakuk próféta látott.
+{1:2} Szüntelen hozzád kiáltok, Örökkévaló, miért nem hallgatsz meg? Kiáltok hozzád az erőszak miatt, de nem szabadítasz meg minket! Meddig vársz még?
+{1:3} Miért kell ennyi sok igazságtalanságot látnom? Hogy nézheted el ezt a sok gonoszságot? Mindenütt pusztítás és erőszak tárul elém, bármerre nézek, mindenütt viszály és pereskedés!
+{1:4} Erőtlen a törvény, nem érvényesül az igazság. A bűnös nyeri a pert, az ártatlan veszít, a gonoszoknak kedvez az ítélet!
+{i1:5} Az Örökkévaló válaszol
+{1:5} „Nézzétek a nemzeteket, és lássátok, ámuljatok és csodálkozzatok! Mert oly dolgot teszek napjaitokban, amelyet el sem hinnétek, ha csak hírét hallanátok.
+{1:6} Nézzétek! Megnövelem a káldeusok hatalmát, kiterjesztem birodalmukat. Kegyetlen és erőszakos nép ez, meghódít messzi földeket, elfoglalja mások lakóhelyét, leigázza a népeket.
+{1:7} Rettenetes és félelmetes nép, amely maga szabja törvényét, nem tisztel senkit.
+{1:8} Lovaik gyorsabbak, mint a párducok, vadabbak, mint az éhes farkasok. Lovasaik serege messzi földeket bejár, vágtatva repülnek, hirtelen támadnak, ahogy a sas lecsap zsákmányára.
+{1:9} Erőszakosak, mindent letipornak, mind előre néz, amint vonulnak, s annyi foglyot ejtenek, mint tenger partján a homok.
+{1:10} Kinevetik a királyokat, gúnyolják a fejedelmeket, az erős várakból csúfot űznek, sáncokat emelnek, elfoglalják mindet.
+{1:11} Majd elvonulnak, mint a vihar, tovaszállnak, mint a szél. Saját hatalmuk az istenük, ez az ő bűnük!”
+{i1:12} A próféta második panasza
+{1:12} Örökkévaló! Te vagy a Szent, te vagy az Isten ősidőktől fogva és örökké! Mégsem fogunk elpusztulni! Te rendelted a káldeusokat, hogy ítéleted végrehajtsák. Kősziklám, te akartad, hogy ők büntessenek bennünket.
+{1:13} Tisztább a szemed, mintsem hogy elnézd a gonoszságot, s tétlenül nézd az igazságtalanságot! Miért tűröd hát ezeket a gonoszokat? Miért hallgatsz, mikor az igazabbat pusztítják?
+{1:14} Olyanná tetted az embert, mint a tenger halait, vagy mint a férgeket, amelyeknek nincs vezérük!
+{1:15} Az ellenség úgy ejti őket fogságba, mint a horgász a halakat. Úgy keríti hatalmába a foglyokat, mint a halászok hálója a zsákmányt, s együtt örülnek a fogásnak.
+{1:16} Ezért mutat be áldozatot hálójának, ezért áldoz tömjénfüsttel kerítőhálójának, hiszen így szerez gazdagságot, így jut bőséges élelemhez.
+{1:17} Meddig teheti ezt még? Szüntelenül pusztíthatja a népeket, kegyetlenül?
+{i2:1} Az Örökkévaló válaszol Habakuknak
+{2:1} Felmegyek az őrtoronyba, őrhelyemre állok, figyelek, hogy lássam, mit mond az Örökkévaló nekem, s mit felel panaszomra.
+{2:2} Azután az Örökkévaló ezt válaszolta: „Jegyezd föl, amit mutatok neked! Írd fel egy táblára, hogy el tudja olvasni minden járókelő!
+{2:3} Beteljesedik ez a látomás a maga idejében, de még várnod kell türelemmel. Siet a beteljesedés felé, és nem fog csalódást okozni. Ha úgy tűnne, hogy késik, te akkor is kitartóan várj, mert eljön bizonyosan, eljön és nem késik!
+{2:4} Nézd, ezt írd fel: »Aki nem hallgat Istenre, nem marad büntetlen. De aki igazságos, az élni fog a hite által.«”
+{i2:5} Öt példázat a pusztító pusztulásáról
+{2:5} „Bizony, a gazdagság és a hatalom csapdába ejt! A telhetetlen nem tud megnyugodni: szélesre tátja száját, mint a Seol. Akármennyit összerabol, meg nem elégszik soha, mint a halál. Leigázza a nemzeteket, meghódítja a népeket, egyiket a másik után!
+{2:6} De nemsokára gúnyolni fogják a többi nemzetek, vele példálóznak a népek: »Jaj annak, aki rakásra gyűjt rablott kincseket, aki adósságot halmoz fel, hogy meggazdagodjon! De meddig teheti ezt még?«
+{2:7} Mert akiket kifosztott, ellene támadnak, akiktől fél, fölkelnek ellene, és ők fosztják ki a rablót.
+{2:8} Bizony, mivel sok népet kiraboltál, most téged rabolnak ki, akik még megmaradtak! Bosszút állnak rajtad, mert sok vért ontottál, az egész földön erőszakoskodtál, városokat leromboltál, lakóikat megölted!”
+{2:9} „Nézzétek! Hamissággal gyűjtenek vagyont, de családjuk vesztére teszik! Családjuk fészkét a magasban építik, hogy biztonságban legyenek!
+{2:10} Mikor más népeket pusztítottál, magadra hoztál gyalázatot. Mivel gyilkoltad őket, téged is gyilkolni fognak.
+{2:11} Házad téglái is tanúskodnak ellened, gerendái is vádolnak téged!”
+{2:12} „Nézzétek, akik városukat igazságtalanságra alapozzák, s falait gyilkossággal építik!
+{2:13} Nem tudják, hogy az Örökkévaló, a Seregek Ura így határozott: lángok martaléka lesz mind, amit a népek építenek, semmivé válik minden, amiért a nemzetek fáradoztak!
+{2:14} De az Örökkévaló dicsőségének megismerése betölti a földet, amint a víz megtölti a tengert!”
+{2:15} „Nézzétek azokat, akik szomszédaikat megitatják haragjuk poharából, amíg egészen megittasodnak, hogy gyalázatukat lássák!
+{2:16} Bizony, neked is innod kell, s dicsőség helyett szégyen borít be. Az Örökkévaló kezében a pohár, igyál te is, amíg majd tántorogsz! Most rajtad a sor, s téged is elborít a gyalázat!
+{2:17} Ahogy pusztítottad a libanoni erdőket, úgy fogsz elpusztulni te is! Ahogy rettegtek tőled az erdei vadak, úgy fogsz rettegni te is, mivel a városlakókat halomra gyilkoltad, erőszakoskodtál és kegyetlenkedtél velük!”
+{i2:18} Jaj annak, aki bálványában bízik!
+{2:18} Mire jó a bálványszobor annak, aki faragta, vagy az öntött bálvány, amely csak hazugságra tanít? Hiszen készítője csupán a maga munkájában bízik, olyan istenben hisz, aki néma!
+{2:19} Jaj annak, aki fából faragott bálványát kéri: „Ébredj föl, és segíts rajtam!” Vagy néma kőbálványához imádkozik: „Kelj föl, segíts meg!” Kaphat-e tőle útmutatást? Nézzétek! Arannyal, ezüsttel feldíszítették, de nincs benne élet és lehelet, egy szikrányi sem!
+{2:20} Az Örökkévaló azonban trónján ül, szent templomában! Némuljon el az egész föld színe előtt!
+{i3:1} Imádság
+{3:1} Habakuk próféta imádsága.
+{3:2} Örökkévaló, hallottam régi tetteidről, s félelem tölt el, ha csodáidat szemlélem! Ó, Örökkévaló, a mi időnkben is cselekedj hasonlóan, most is jelentsd ki magad népednek, mint régen! Kérlek, még haragodban is légy hozzánk irgalmas! Szela
+{3:3} Isten dél felől közeledik, a Párán hegyéről jön a Szent. Szela Dicsősége betölti a Mennyet, dicséretével megtelik a föld!
+{3:4} Ragyog, mint a Nap, kezéből fénysugarak indulnak, ott van hatalmának rejtekhelye.
+{3:5} Előtte halálos járvány pusztít, lába nyomát döghalál követi.
+{3:6} Ahol megáll, földrengés támad, ahová néz, reszketnek a népek. Szétmállanak az ősi hegyek, elsüllyednek az ősi halmok. De az ő útjai örökkévalók!
+{3:7} Látom, összedőlnek Kúsán sátrai, reszketnek Midján földén a sátrak, lakóik félve remegnek.
+{3:8} Örökkévaló, a folyókra haragudtál meg? A folyókra haragszol, vagy a tengerre, hogy vágtató lovakon, robogó harci szekereken száguldasz a győzelemre?
+{3:9} Nyilaidat előveszed tegzedből, s íjadat kifeszíted. Szela Meghasítod a földet, és folyók ömlenek a száraz földön.
+{3:10} Meglátnak téged a hegyek és remegnek, vízáradat borítja el a földet, megszólalnak a mélység vizei, és magasra csapnak a hullámok.
+{3:11} A Nap és a Hold megállnak az égen, amikor villámló nyilaidat és ragyogó lándzsád meglátják.
+{3:12} Haragodban megtaposod a földet, eltiprod a nemzeteket.
+{3:13} Csatába indulsz, hogy népedet megszabadítsd, felkentedet győzelemre vezeted. Lesújtasz a gonoszok vezérére, seregestől elpusztítod. Szela
+{3:14} Saját nyilaival lövöd le a gonoszok vezérét, aki forgószélként ránk tört seregével, hogy szétszórja népünket. Már előre örült, hogy saját otthonában pusztíthatja el a védteleneket.
+{3:15} Bizony, megtaposod lovaiddal a tenger habjait, a nagy vizek hullámait!
+{i3:16} Mégis örvendezek az Örökkévalóban!
+{3:16} Hallottam mindezt, és egész testem remeg! Fogaim vacognak a félelemtől, csontjaim reszketnek, lábam rogyadozik. Mégis nyugodtan várom, amíg a látomás beteljesül, amíg a pusztítás pusztítóinkra szakad.
+{3:17} Bár a fügefa nem fog virágozni, s nem terem a szőlő, sem az olajfa, a szántóföldön elmarad az aratás, kipusztul az akolból a juhnyáj, s az ökrök istállója üresen áll,
+{3:18} én mégis örvendezek az Örökkévalóban, ujjongok szabadító Istenemben!
+{3:19} Mert az Örökkévaló Isten megerősít engem! Biztossá teszi lépéseimet, mint a hegyi kecskék ugrásait, és magas sziklákon vezet engem. A zenészek vezetőjének, húros hangszerekkel kísérve.

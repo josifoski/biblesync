@@ -1,0 +1,706 @@
+{i1:1} Józsué, légy bátor és erős!
+{1:1} Mózes az Örökkévaló szolgája volt, Józsué, Nún fia pedig Mózes segítője. Miután Mózes meghalt, az Örökkévaló megszólította Józsuét:
+{1:2} „Mózes, az én szolgám meghalt. Ezért most te indulj el, kelj át a Jordánon, és vezesd át az egész népet arra a földre, amelyet Izráel népének adok!
+{1:3} Ahogy Mózesnek megígértem, nektek adok minden helyet, ahová csak léptek.
+{1:4} Tiétek minden terület dél felé a sivatagig, északra a Libanon-hegységig, kelet felé az Eufrátesz folyóig. Tiétek a Hettiták földje, és nyugat felé az egész föld a Nagy-tengerig.
+{1:5} Foglald el azt a földet, mert amíg csak élsz, senki sem tud ellenállni neked! Veled leszek, ahogy Mózessel is voltam, és soha nem hagylak magadra.
+{1:6} Légy bátor és erős, mert te vezeted be ezt a népet arra a földre, hogy birtokba vegyék örökségüket! Megesküdtem őseiknek, hogy nekik adom azt a földet.
+{1:7} Csak légy erős és nagyon bátor, hogy mindent teljesen aszerint a törvény és tanítás szerint cselekedj, amelyet Mózes, az én szolgám rendelt el a számotokra! Ne térj el attól se jobbra, se balra — akkor minden sikerülni fog, amihez hozzáfogsz!
+{1:8} A törvény könyvét szüntelen tanulmányozd, igéit ismételd magadban, és gondolkodj azokon, hogy mindenben annak megfelelően járhass el. Ha így teszel, akkor minden utad sikeres lesz, és amibe belefogsz, felvirágzik.
+{1:9} Ne feledd: Én parancsoltam meg neked, hogy légy erős és bátor! Istened, az Örökkévaló van veled, akárhová mész! Hát ne félj semmitől, és ne engedd, hogy bármi elbátortalanítson!”
+{i1:10} Józsué, a vezér
+{1:10} Ezután Józsué megparancsolta a sereg tisztjeinek:
+{1:11} „Menjetek végig a táboron, és hirdessétek ki ezt a parancsot: Készítsetek magatoknak útravalót, mert három nap múlva átkelünk a Jordánon, hogy elfoglaljuk és birtokba vegyük azt a földet, amelyet az Örökkévaló ad nekünk!”
+{1:12} Rúben és Gád törzsének, meg Manassé fél törzsének ezt mondta Józsué:
+{1:13} „Emlékezzetek, hogyan rendelkezett Mózes, az Örökkévaló szolgája! Istenünk, az Örökkévaló nektek adta ezt a földet, a Jordán innenső oldalán, amelyet kértetek. Így feleségeitek, gyermekeitek meg állataitok már letelepedhettek és
+{1:14} megnyugodhattak a saját birtokaikon, amelyet Mózes kijelölt a számotokra. De ti férfiak, akik fegyverforgató harcosok vagytok, menjetek tovább! Izráel seregének élén keljetek át a túlpartra, hogy testvéreiteket segítsétek a harcban.
+{1:15} Addig ne is térjetek vissza a saját birtokaitokra, amíg testvéreitek el nem foglalják a maguk területét, amelyet Istenünk, az Örökkévaló ad nekik, és nyugalmat nem ad nekik, ahogy ezt veletek már megtette. Azután majd ti is hazatérhettek a saját földetekre, amelyet Mózes, az Örökkévaló szolgája adott nektek a Jordán keleti oldalán, és letelepedhettek ott.”
+{1:16} Ők így feleltek: „Így lesz! Mindent megteszünk, amit parancsolsz nekünk, és ahová küldesz, oda megyünk.
+{1:17} Engedelmeskedni fogunk neked is mindenben, ahogyan Mózes szavát megfogadtuk. Csak Istenünk, az Örökkévaló veled legyen, ahogyan Mózessel is volt!
+{1:18} Ha valaki mégis lázadna ellened, vagy nem akar engedelmeskedni szavadnak, az halállal lakoljon! Csak légy bátor és erős!”
+{i2:1} Józsué felderítőket küld Jerikóba
+{2:1} Amikor Izráel népe Sittímnél táborozott, Józsué, Nún fia kiküldött két férfit, hogy titokban kémleljék ki az előttük lévő vidéket. Ezt mondta nekik: „Menjetek, és jól nézzétek meg azt az egész vidéket, különösen Jerikót!” Ők el is indultak, és eljutottak Jerikó városába. Ott egy Ráháb nevű asszony házában szálltak meg, aki prostituált volt.
+{2:2} Jerikó királyának azonban jelentették: „Ma este izráeli kémek érkeztek a városba!”
+{2:3} A király azonnal elküldte a katonáit Ráhábhoz ezzel a paranccsal: „Add ki azokat a férfiakat, akik ma este érkeztek hozzád, hogy házadnál szálljanak meg, mert kémkedni jöttek!”
+{2:4} Ráháb azonban már előzőleg elbújtatta a két izráeli férfit, a király katonáinak pedig ezt mondta: „Igaz, hogy ide jöttek, de nem
+{2:5} tudtam, honnan érkeztek. Estefelé, a város kapuinak bezárása előtt már elmentek innen, de nem tudom, hová. Siessetek utánuk, még utolérhetitek őket!”
+{2:6} Valójában Ráháb elbújtatta őket a háza lapos tetején száradó lenkévék közé.
+{2:7} A király katonái sietve kimentek a városból, és a Jordán gázlói felé igyekeztek abban a hiszemben, hogy a kémek arra mentek. A város kapuit pedig bezárták utánuk.
+{2:8} Mielőtt a kémek nyugovóra tértek, Ráháb fölment a tetőre, hogy beszéljen velük.
+{2:9} Ezt mondta nekik: „Tudom, hogy az Örökkévaló nektek adta ezt a földet, ezért mindannyian félünk tőletek. Hallottuk, hogyan szárította ki az Örökkévaló előttetek a Vörös-tenger vizét, amikor Egyiptomból
+{2:10} kijöttetek, s emiatt e föld minden lakosa retteg tőletek. Azt is hallottuk, hogy a Jordán túloldalán legyőztétek az emóriak két királyát, Szihónt és Ógot, és teljesen kipusztítottátok őket.
+{2:11} Amikor ezt megtudtuk, minden bátorságunk elszállt, és úrrá lett rajtunk a rémület, mert bizony a ti Istenetek, az Örökkévaló az Isten fenn az égben és lenn a földön!
+{2:12} Most hát esküdjetek meg nekem az Örökkévalóra, hogy amint én megkönyörültem rajtatok, és megkíméltelek titeket a haláltól, úgy ti is könyörültök apám
+{2:13} egész családján, és életben hagytok minket! Adjatok nekem valami biztos jelet, hogy valóban megmentitek a haláltól apámat, anyámat, testvéreimet — az egész családomat!”
+{2:14} A férfiak így válaszoltak: „Életünkkel kezeskedünk, hogy amikor az Örökkévaló kezünkbe adja ezt a földet, és elfoglaljuk Jerikót, nektek nem lesz bántódásotok, és megtartjuk ígéretünket. De egy feltétellel: senkinek sem szólhatsz arról, hogy itt voltunk, és hogy miért jöttünk!”
+{2:15} Ráháb akkor a háza ablakából egy kötélen leengedte a férfiakat a városfalon kívülre, ugyanis a háza éppen a városfalra épült.
+{2:16} Figyelmeztette őket, hogy a hegyek között rejtőzzenek három napig, nehogy üldözőik rájuk találjanak, s csak azután induljanak tovább, ha azok már visszatértek Jerikóba.
+{2:17} A két férfi megerősítette: „Biztos lehetsz benne, hogy megtartjuk, amit ígértünk, ha a következőt megteszed:
+{2:18} amikor bevonulunk erre a földre, akkor ezt a piros fonalat kösd az ablakra, amelyen keresztül leengedtél bennünket! Gyűjtsd ide a házadba apád egész rokonságát: apádat, anyádat és testvéreidet — az egész családodat.
+{2:19} Akik a házban vannak, azoknak nem esik bántódásuk, ezért kezeskedünk! Ha mégis bajuk esne, akkor életünkkel felelünk érte. Ha viszont az ostrom idején közületek valaki kimegy a házból, és megölik, akkor ezért ő a felelős, mi pedig ártatlanok leszünk.
+{2:20} Vigyázz, senkinek se árulj el bennünket! Ha mégis megteszed, akkor minket sem köt az eskünk.”
+{2:21} „Rendben van, megegyeztünk! Úgy lesz, ahogy mondtátok” — felelte Ráháb. Ezzel a kémek elmentek, Ráháb pedig az ablakára kötötte a piros fonalat.
+{2:22} A két férfi a dombok közé ment, és ott rejtőztek három napig. Ezalatt üldözőik átkutatták az utat és az egész környéket, de senkit sem találtak, majd visszatértek Jerikóba.
+{2:23} Azután a két férfi lejött a dombok közül, és átkelt a Jordánon. Visszatértek Józsuéhoz, Nún fiához, akinek mindenről beszámoltak.
+{2:24} „Semmi kétség, az Örökkévaló kezünkbe adta ezt az egész földet, mert lakóit már hatalmába kerítette a tőlünk való rettegés” — mondták Józsuénak.
+{i3:1} Átkelés a Jordánon
+{3:1} Józsué és az egész nép korán reggel tábort bontott, és elindultak Sittímből a Jordánhoz. Amikor odaértek, letáboroztak, és az átkelésig ott is maradtak.
+{3:2} Három nap múlva a vezetők végigmentek a táboron,
+{3:3} és kihirdették: „Készüljetek föl! Amikor látjátok, hogy a papok felveszik Istenünk, az Örökkévaló Szövetségládáját, és elindulnak vele, akkor ti is induljatok el, és menjetek utána!
+{3:4} De vigyázzatok! Hagyjatok mintegy 2 000 könyök távolságot a Szövetségláda és magatok között! Ne menjetek ennél közelebb hozzá! Ezen az úton még nem jártatok soha, de csak kövessétek a Szövetségládát, majd az vezet benneteket!”
+{3:5} Józsué ezt parancsolta a népnek: „Még ma szenteljétek meg magatokat, mert holnap az Örökkévaló csodákat tesz közöttünk!”
+{3:6} A papoknak pedig ezt mondta: „Vegyétek fel a Szövetségládát, induljatok el a nép előtt, és menjetek keresztül a Jordánon!” A papok így is tettek: fölvették a Szövetségládát, és elindultak a nép előtt a Jordán felé.
+{3:7} Az Örökkévaló ekkor Józsuéhoz szólt: „Józsué, ezen a napon kezdelek téged fölemelni Izráel népének szemében. Azt akarom, hogy megértsék: Én vagyok veled, ugyanúgy, ahogy Mózessel is voltam.
+{3:8} A Szövetségládát vivő papoknak mondd meg, hogy amikor a Jordánhoz érnek, pár lépésnyit menjenek bele a vízbe, és ott álljanak meg!”
+{3:9} Józsué összehívta a népet: „Figyeljetek rám, és halljátok meg, mit üzen nektek Istenünk, az Örökkévaló!
+{3:10} Nézzétek! Az Egész Föld Urának a Szövetségládája előttetek fog bemenni a Jordán vizébe! Ez lesz a kétségtelen bizonyíték arra nézve, hogy az élő Isten valóban
+{3:11} közöttünk van, és hogy ígérete szerint teljes bizonyossággal kiűzi előlünk annak a földnek a jelenlegi lakosait: a kánaániak, hettiták, hivviek, perizziek, girgásiak, emóriak és jebúsziak népét.
+{3:12} Most hát válasszatok ki magatok közül 12 férfit, egyet-egyet minden törzsből!
+{3:13} Figyeljétek meg: abban a pillanatban, amint az Örökkévalónak, az Egész Föld Urának a Szövetségládáját hordozó papok lába a Jordán vizébe lép, a víz kettéválik, és a felülről folyó víz megáll egy rakáson!”
+{3:14} Valóban így is lett. Az egész nép tábort bontott és elindultak, hogy átkeljenek a Jordánon. A papok pedig jóval előttük haladtak, és vitték a Szövetségládát. Amikor ezek a
+{3:15} papok megérkeztek a Jordánhoz, és a folyó vizébe léptek, a víz kettévált! Pedig aratás ideje volt, és a Jordán annyira meg volt áradva, hogy az árteret is elöntötte.
+{3:16} A fölülről folyó víz messze fönt, Ádám városánál (Cáretán mellett) egy rakásban föltorlódott. A lefelé folyó víz pedig elfolyt a Holt-tenger felé, és a folyó medre kiszáradt. Így kelt át a nép a Jordán medrén Jerikóval átellenben.
+{3:17} A papok, akik az Örökkévaló Szövetségládáját vitték, bementek a Jordán medrének közepére, és ott megálltak a száraz talajon. Mindaddig ott álltak, amíg az egész nép a kiszáradt folyómedren keresztül át nem vonult a túlsó partra.
+{i4:1} Tizenkét kő az átkelés emlékére
+{4:1} Miután az egész nép átkelt a Jordán túlsó partjára, az Örökkévaló ezt mondta Józsuénak:
+{4:2} „Válassz ki 12 férfit a nép közül, minden törzsből egyet-egyet,
+{4:3} és parancsold meg nekik, hogy mindegyikük vegyen fel a Jordán medréből egy-egy követ arról a helyről, ahol a papok állnak. Vigyék a köveket oda, ahol ma este táboroztok, és ott helyezzék el.”
+{4:4} Józsué tehát kiválasztott 12 férfit, minden törzsből egyet,
+{4:5} és ezt mondta nekik: „Menjetek be a Jordán medrének közepébe: oda, ahol Istenünk, az Örökkévaló Szövetségládája van, s hozzatok onnan egy-egy követ. Izráel minden egyes törzsének megfelelően egy-egy követ vegyetek a vállatokra.
+{4:6} Legyenek ezek emlékeztető jelül egész Izráel számára! Később, ha majd a gyermekeitek megkérdezik, hogy mit jelentenek ezek a kövek,
+{4:7} mondjátok el nekik, hogy amikor az Örökkévaló Szövetségládája átment a Jordánon, a folyó vize megállt előtte. Ezek a kövek legyenek emlékeztető jelül Izráel gyermekeinek örökre!”
+{4:8} A nép teljesítette Józsué parancsát: felhoztak 12 követ a Jordán medréből. Izráel minden egyes törzsének megfelelően egy-egy követ vettek fel onnan, elvitték a táborhelyre, és ott helyezték el, ahogyan az Örökkévaló azt Józsuénak parancsolta.
+{4:9} Józsué elrendelte, hogy ezen kívül 12 másik kőből is rakjanak emlékoszlopot a Jordán medrének közepén, pontosan ott, ahol a papok álltak. Ezek ma is ott vannak.
+{4:10} Tehát a nép sietett átmenni a Jordán medrén, és mindazt megtették, amit az Örökkévaló Józsuénak parancsolt. Ezeket már Mózes is elrendelte Józsuénak. Ez idő alatt a papok, akik a Szövetségládát hordozták, ott álltak a meder közepén.
+{4:11} Amikor pedig már mindenki átkelt, akkor a papok is átmentek a túlsó oldalra az Örökkévaló Szövetségládájával. Ezt az egész nép figyelte.
+{4:12} Rúben és Gád törzsének, meg Manassé fél törzsének harcosai Izráel többi törzsei előtt keltek át harcra készen, ahogyan ezt Mózes megparancsolta nekik.
+{4:13} Ennek a két és fél törzsnek a harcosai összesen 40 000 fős csapatot alkottak, amely harcra készen vonult az Örökkévaló előtt a jerikói síkságon.
+{4:14} Ezen a napon az Örökkévaló fölmagasztalta Józsuét Izráel népe előtt. Ettől kezdve egész életében őt is úgy tisztelték, mint Mózest.
+{4:15} Az Örökkévaló szólt Józsuénak:
+{4:16} „Mondd meg a papoknak, akik a Szövetségládát hordozzák, hogy jöjjenek ki a Jordán medréből.”
+{4:17} „Jöjjetek föl onnan!” — szólt Józsué a papoknak,
+{4:18} akik ekkor kijöttek a mederből a folyó partjára. Amint az Örökkévaló Szövetségládáját hordozó papok lába a partot érintette, a Jordán vize ismét megindult, megtöltötte medrét, sőt, még az árterét is elborította úgy, ahogy korábban is volt.
+{4:19} Izráel népe tehát az első hónap 10. napján átkelt a Jordánon, és aznap este már Gilgál mellett táboroztak, Jerikó keleti határán.
+{4:20} A 12 kőből, amelyet a Jordán közepéből hoztak magukkal, Józsué emlékoszlopot rakott Gilgál mellett.
+{4:21} Azután kihirdette a népnek: „Amikor majd gyermekeitek megkérdezik az apjukat, hogy miért vannak itt ezek a kövek,
+{4:22} mondjátok el nekik, hogy Izráel népe itt kelt át a Jordán kiszáradt medrén!
+{4:23} Istenünk, az Örökkévaló kiszárította értünk a Jordán vizét, amíg mi keresztüljöttünk a folyó medrén. Ugyanúgy csodát tett értünk, mint a Vörös-tengernél, amelyet ehhez hasonlóan szárított ki, hogy átkelhessünk rajta.
+{4:24} Azért tette ezt, hogy a föld minden nemzete megtudja, milyen hatalmas az Örökkévaló, és hogy ti mindvégig tiszteljétek és féljétek Istenünket, az Örökkévalót.”
+{i5:1} Körülmetélkedés és Páska ünnep az Ígéret Földjén
+{5:1} Az Örökkévaló tehát kiszárította a Jordánt, amíg Izráel népe átkelt rajta. Ennek híre ment, és megtudták az emóriak királyai, akik a Jordán nyugati oldalán uralkodtak, meg a kánaániak összes királya is, akik a Nagy-tenger partvidékén uralkodtak. Amikor ezt meghallották, minden bátorságuk elszállt, és rettegtek Izráeltől.
+{5:2} Az Örökkévaló szólt Józsuéhoz: „Készítsetek magatoknak kőkéseket, és végezzétek el Izráel népe között a körülmetélést ebben a második nemzedékben.”
+{5:3} Józsué tehát elrendelte, hogy készítsenek éles kőkéseket, és minden férfit metéljenek körül Izráelben. Ezt meg is tették, és azt a helyet, azóta így nevezik: „Körülmetélés-hegy”.
+{5:4} Erre pedig azért volt szükség, mert mindazok a felnőtt izráeli férfiak, akik kijöttek Egyiptomból, a pusztai vándorlás hosszú évei alatt már mind meghaltak.
+{5:5} Őket az Egyiptomból való kivonulás előtt körülmetélték, de azokat a fiúkat, akik a vándorlás alatt születtek, már nem.
+{5:6} Izráel népe 40 éven keresztül vándorolt a pusztában. Ezalatt azok, akik az Egyiptomból való kivonuláskor már hadköteles felnőtt férfiak voltak, mind meghaltak, mert nem engedelmeskedtek az Örökkévaló szavának. Emiatt az Örökkévaló megesküdött, hogy közülük senki sem fogja meglátni azt a tejjel és mézzel folyó földet, amely felől megesküdött őseiknek, hogy azt nekik adja.
+{5:7} Tehát most kellett Józsué felügyelete alatt körülmetélni az új nemzedék tagjait — akiket az Örökkévaló az előző nemzedék helyére állított. A vándorlás ideje alatt ugyanis a körülmetélést elmulasztották végrehajtani.
+{5:8} Miután az összes férfi körülmetélését befejezték, mindaddig a táborban maradtak, amíg mindenki fel nem gyúgyult.
+{5:9} Akkor az Örökkévaló ezt mondta Józsuénak: „Ma távolítottam el rólatok az egyiptomi szolgaság gyalázatát!” Emiatt nevezik azt a helyet mind a mai napig Gilgálnak.
+{5:10} Éppen a jerikói síkságon, Gilgálban táboroztak, amikor elkövetkezett az első hónap 14. napja. Ennek estéjén Izráel megtartotta a Páska ünnepét.
+{5:11} A következő napon ettek először annak a földnek a terméséből készített ételeket: kovásztalan kenyereket és pörkölt gabonát.
+{5:12} A rákövetkező napon megszűnt a manna, és Izráel népe többé nem kapott belőle. Attól kezdve Kánaán földjének termését ették.
+{i5:13} Józsué találkozik az Örökkévaló seregének fejedelmével
+{5:13} Ekkor történt, hogy Józsué Jerikó közelében meglátott egy férfit, aki kivont karddal a kezében megállt vele szemben. Józsué odalépett hozzá, és megkérdezte: „Közénk tartozol, vagy ellenségeinkhez?”
+{5:14} „Egyik sem — válaszolta ő — , hanem az Örökkévaló seregének a vezére vagyok. Most érkeztem.” Ekkor Józsué nagy tisztelettel a földre borult előtte, és ezt mondta: „Szolgád vagyok, Uram! Mit parancsolsz a szolgádnak?”
+{5:15} Az Örökkévaló seregének fejedelme ezt válszolta Józsuénak: „Vedd le a sarudat, mert a föld, ahol vagy, szent!” Józsué engedelmeskedett.
+{6:1} Jerikó városa Izráeltől való félelmében egészen bezárkózott. Senki nem mehetett be a városba, vagy jöhetett ki abból.
+{6:2} Az Örökkévaló ezt mondta Józsuénak: „Nézd, kezedbe adtam Jerikót, királyával és harcosaival együtt.
+{6:3} Egész seregeddel vonuljatok föl, és hat napon keresztül minden nap egyszer kerüljétek meg a várost!
+{6:4} Vigyétek magatokkal a Szövetségládát is, és hét pap haladjon előtte a menetben, kezükben kos-szarvból készített sófárral. A hetedik napon hétszer kerüljétek meg a várost, és közben a papok szüntelen fújják a sófárt.
+{6:5} Azután a papok adjanak jelt a népnek: egyszer hosszan fújjanak a sófárba. Amint ezt meghalljátok, az egész sereg teljes erővel kiáltson fel, s akkor a város falai leomlanak, és minden harcos egyszerre induljon rohamra a város ellen onnan, ahol éppen áll.”
+{i6:6} Jerikó elfoglalása
+{6:6} Ezután Józsué hívatta a papokat, és elmondta, mit kell tenniük: „Vegyétek fel a Szövetségládát, heten közületek pedig fogjanak egy-egy sófárt, és haladjanak az Örökkévaló Szövetségládája előtt a menetben.”
+{6:7} A hadseregnek is elrendelte: „Induljatok, és kerüljétek meg a várost! A harcosok pedig fegyverrel a kezükben haladjanak az Örökkévaló Szövetségládája előtt!”
+{6:8} Minden úgy történt, ahogy Józsué parancsolta. Elsőnek indult a fegyveres harcosok csapata, akiket kiválasztottak, hogy ők kezdjék a harcot. Utánuk következett
+{6:9} az a hét pap, akik szüntelen fújták a sófárt, majd az Örökkévaló Szövetségládáját hordozó papok, s őket követte a harcosok másik csapata.
+{6:10} Józsué megparancsolta az egész seregnek: „Ne kiáltsatok, egy szót se szóljatok, csendben vonuljatok, egészen addig a napig, amikor jelt adok a csatakiáltásra! Akkor azután kiáltsatok teli torokból!”
+{6:11} Tehát elindultak az Örökkévaló Szövetségládájával, és egyszer megkerülték a várost, majd visszatértek a táborba.
+{6:12} Másnap korán reggel fölkelt Józsué, és a papok ismét fölvették az Örökkévaló Szövetségládáját.
+{6:13} Elől haladt a fegyveres harcosok egyik csapata, utánuk a hét pap, akik szüntelen fújták a sófárt, majd az Örökkévaló Szövetségládáját hordozó papok következtek, s őket követte a fegyveres harcosok másik csapata.
+{6:14} Így kerülték meg Jerikót a második napon is, majd visszatértek a táborba. Ugyanígy járták körül a várost naponta egyszer hat napon át.
+{6:15} A hetedik napon is korán reggel fölkeltek, ismét megkerülték Jerikót a szokott módon, de ez alkalommal hétszer. Csak ezen a napon kerülték meg hétszer a várost.
+{6:16} Miután a hetedik kört is befejezték, Józsué kihirdette a seregnek: „Ebben a városban mindenki és minden az Örökkévalónak szentelt áldozat! Tehát mindenkit meg kell ölnötök, és mindent el kell pusztítanotok!
+{6:17} Csak Ráháb, a prostituált maradjon életben és mindazok, akik a házában vannak. Őket ne bántsátok, mert Ráháb elrejtette a felderítőinket! Vigyázzatok, hogy a városból semmit se zsákmányoljatok magatoknak! Ezekből az
+{6:18} átok alatt lévő dolgokból semmit ne vegyetek el, mert akkor Izráel tábora is átkozott lesz, és nagy bajt hoztok rá! Az ezüstből, aranyból, bronzból és vasból készült tárgyak az Örökkévalónak
+{6:19} vannak szentelve. Ezeket ne pusztítsátok el, hanem vigyétek az Örökkévaló kincstárába. Most kiáltsatok teljes erővel, mert az Örökkévaló nektek adta a várost!” Akkor a papok megfújták a sófárokat. Mikor ezt
+{6:20} a nép meghallotta, az egész sereg egyetlen hatalmas kiáltásban tört ki, és ekkor Jerikó falai leomlottak. Az izráeli harcosok rohamra indultak a város ellen, és elfoglalták azt. Mindenki egyenesen berohant a városba.
+{6:21} Mindent elpusztítottak, és mindenkit megöltek a városban: férfiakat és asszonyokat, öreget és fiatalt. Még a háziállatokat is leöldösték: az összes juhot, marhát és szamarat.
+{6:22} Józsué parancsot adott annak a két férfinak, akik korábban kikémlelték Jerikót: „Menjetek a prostituált Ráháb házába, és ígéretetek szerint épségben hozzátok ki őt, a családját és mindenkit, aki hozzá tartozik.”
+{6:23} A két fiatal harcos be is ment abba a házba, és kihozta Ráhábot, annak apját, anyját, testvéreit és rokonait — mindenkit, aki a házban volt, és elhelyezték őket a táboron kívül.
+{6:24} Az izráeli sereg teljesen fölégette Jerikót és mindazt, ami benne volt. Csak az ezüstből, aranyból, bronzból és vasból készült tárgyakat mentették ki, amelyeket az Örökkévaló kincstárába vittek.
+{6:25} Józsué egyedül Ráhábot és a családját mentette meg a haláltól, mivel Ráháb elrejtette a felderítőket, akiket Józsué Jerikóba küldött. Ráháb családjának leszármazottjai mind a mai napig Izráelben élnek.
+{6:26} Ezután Józsué megátkozta Jerikó romjait: „Az Örökkévaló átka legyen azon, aki hozzáfog, hogy Jerikót újjáépítse! Ha a város alapjait lefekteti, elsőszülött gyermekének az életébe kerüljön. Ha kapuit fölállítja, akkor a legkisebb fiának életével fizessen érte!”
+{6:27} Tehát az Örökkévaló Józsuéval volt, és híre elterjedt az egész országban.
+{i7:1} Ákán bűne és büntetése
+{7:1} Izráel népe azonban bűnt követett el: elloptak a teljesen Istennek szentelt dolgokból. Ákán, az egyik Júda törzsébe tartozó harcos félretett a zsákmányból a maga számára. Emiatt az Örökkévaló nagyon megharagudott Izráel egész népére. Ákán Karmi fia, Zabdi unokája, Zerah dédunokája volt.
+{7:2} Jerikó elfoglalása után Józsué Aj városa ellen fordult, amely Bét-Áven mellett fekszik, és felderítőket küldött ki, hogy mindent nézzenek meg, és hozzanak híreket. Azok el is mentek Aj városába,
+{7:3} majd visszatérve jelentették Józsuénak: „Kicsi város az, nem sokan laknak benne. Szükségtelen az egész sereget fárasztanod, elég lesz, ha két vagy háromezer harcost küldesz Aj elfoglalására!”
+{7:4} Így Józsué csak egy háromezer fős csapatot küldött Aj ellen. A város védői azonban megfutamították az izráelieket,
+{7:5} és mintegy harminchat katonát megöltek közülük. A többieket pedig elűzték a város kapujától, s vágták az izráelieket a lejtőn, ahogy azok futottak. Egészen a kőbányákig kergették őket. A vereség hírére egész Izráel megrémült, és minden bátorságuk elszállt.
+{7:6} Józsué és a nép vezetői gyászoltak, megszaggatták a ruháikat, a fejükre port szórtak, az Örökkévaló Szövetségládája előtt a földre borultak, és ott maradtak estig.
+{7:7} Józsué így panaszkodott az Örökkévalónak: „Örökkévaló Úr Isten! Miért hoztad át a Jordánon ezt a népet, ha most az emóriak kezébe adsz bennünket, hogy azok elpusztítsanak? Maradtunk volna a Jordán túlsó partján!
+{7:8} Ó Uram, mit mondjak most, hogy Izráel megfutamodott az ellenségei elől?
+{7:9} Mert ezt megtudják a kánaáni népek, e föld lakosai mind! Majd összefognak ellenünk, és úgy kiirtanak minket, hogy hírünk sem marad! Te, Uram, mit teszel akkor, hogy nagy nevedet ne érje gyalázat?”
+{7:10} Az Örökkévaló ezt felelte Józsuénak: „Miért fekszel a földön? Kelj föl!
+{7:11} Vétkezett ellenem Izráel: nem tartották meg a szövetséget, amelyet parancsoltam nekik! Elvettek a nekem szentelt dolgokból, és eldugták azt a maguk holmija közé. Loptak és eltitkolták.
+{7:12} Emiatt Izráel népe átok alá került, s ezért szenvedtek vereséget, és ezért futamodtak meg ellenségeikt elől. Nem leszek többé veletek, ha ki nem irtjátok magatok közül mindazt, ami átkozott.
+{7:13} Fogj hozzá, tisztítsd meg és szenteld meg a népet! Ezt mondd nekik: »Holnapig szenteljétek meg magatokat! Azt üzeni nektek Izráel Istene, az Örökkévaló, hogy átkozott dolgok vannak közöttetek! Nem győzhetitek le ellenségeiteket, amíg ki nem irtjátok magatok közül azokat a dolgokat, amelyeket az Örökkévaló elpusztítani rendelt.
+{7:14} Holnap reggel álljatok az Örökkévaló elé törzsenként! Amelyik törzset az Örökkévaló kiválasztja, annak nemzetségei álljanak az Örökkévaló elé. Amelyik nemzetséget kiválasztja, annak pedig a családjai álljanak elő. Amelyik családot kiválasztja, abból meg egyenként álljanak elő a férfiak.
+{7:15} Akit pedig az Örökkévaló bűnösnek talál abban, hogy teljesen Istennek szentelt dolgot rejtett el magánál, azt a családjával és minden vagyonával együtt el kell égetni, mivel megtörte az Örökkévalóval kötött szövetséget, és gyalázatos bűnt követett el Izráelben!«”
+{7:16} Józsué másnap korán reggel Izráel törzseit az Örökkévaló elé állította, aki Júda törzsét jelölte meg.
+{7:17} Azután Júda törzsének nemzetségeit állította elő, és az Örökkévaló kiválasztotta közülük Zerah nemzetségét. Ezután Józsué a Zerah-nemzetség családjait sorakoztatta fel, és az Örökkévaló Zabdi családját jelölte ki.
+{7:18} Ennek a családnak a férfitagjait is előállította, és az Örökkévaló kiválasztotta Ákánt (aki Karmi fia, Zabdi unokája, Zerah dédunokája volt).
+{7:19} Ekkor Józsué Ákánhoz fordult: „Fiam, tiszteld meg az Örökkévalót, Izráel Istenét azzal, hogy bevallod az igazságot! Mondd meg, mit tettél! Ne titkolj el semmit!” — mondta neki.
+{7:20} „Valóban én vétkeztem Izráel Istene, az Örökkévaló ellen! — felelte Ákán Józsuénak. —
+{7:21} Jerikóban találtam egy gyönyörű babilóniai ruhát, 200 sékel ezüstöt, és egy 50 sékelnyi aranyrudat. Megkívántam, magamhoz vettem, és elrejtettem ezeket, ott vannak elásva a sátramban, az ezüstöt tettem alulra.”
+{7:22} Józsué elküldött néhány embert Ákán sátrába, akik meg is találták az elrejtett kincseket. Az ezüst volt legalul.
+{7:23} Ezeket odavitték Józsuéhoz, és egész Izráel népe előtt, az Örökkévaló jelenlétében letették a földre.
+{7:24} Ezután az egész nép Józsué vezetésével az Ákór völgyébe vonult. Magukkal vitték Zerah fiát, Ákánt, és az átkozott zsákmányt: a ruhát, az ezüstöt és az aranyat, azután Ákán gyermekeit, szarvasmarháit, szamarait, juhait, minden vagyonát, sőt még a sátrát is.
+{7:25} Ott Józsué ezt mondta Ákánnak: „Miért hoztál ilyen nagy veszedelmet egész népünkre? Most az Örökkévaló terád zúdít veszedelmet!” Ekkor az egész nép megkövezte Ákánt és családját. Holttestüket megégették,
+{7:26} és nagy halom követ hordtak rájuk. Ezután megszűnt az Örökkévaló haragja. Az a kőhalom ma is ott van a völgyben, amelyet attól kezdve Ákór völgyének neveznek.
+{i8:1} Aj városának elpusztítása
+{8:1} Ezután az Örökkévaló szólt Józsuénak: „Ne félj Józsué! Ne veszítsd el a bátorságod! Állj az egész sereg élére, és vezesd őket Aj ellen. Nézd, a kezedbe adtam Aj királyát, egész népét, a várost és a hozzá tartozó területet is!
+{8:2} Úgy bánj Aj városával és királyával is, mint Jerikóval és annak királyával! De most a tiétek a hadizsákmány: az állatok és minden érték, amely a városban van. A sereged egy részét küldd a város túloldalára, hogy rejtőzzenek el, és álljanak lesben.”
+{8:3} Józsué elrendezte a csapatait, és felvonult Aj ellen. Kiválasztotta seregéből a 30 000 legjobb harcost, és az éj leple alatt előre küldte őket.
+{8:4} Ezt a parancsot adta nekik: „Figyeljetek rám! Álljatok lesben a város túloldalán, de ne menjetek túl messzire a várostól! Legyetek készen a támadásra, és várjatok! Én
+{8:5} magam vezetem a sereg másik részét Aj ellen. Amikor majd kijönnek a védők a városból, hogy megütközzenek velünk, mint a múltkor is történt, mi színleg megfutamodunk előttük.
+{8:6} Üldözni fognak bennünket, mi pedig meghátrálunk, és messzire elcsaljuk őket a várostól. Azt gondolják majd, hogy ismét megfutamodtunk előlük, mint a múltkor.
+{8:7} Akkor ti törtjetek elő a lesből, és foglaljátok el a várost, mert Istenünk az Örökkévaló a kezetekbe adja.
+{8:8} Miután elfoglaltátok, gyújtsátok fel a várost, ahogyan az Örökkévaló megparancsolta. Mindent úgy tegyetek, ahogy mondtam!”
+{8:9} Ezzel Józsué elküldte a csapatot. Azok el is foglalták a leshelyüket Aj és Bétel között, Ajtól nyugatra. Józsué pedig a sereg többi részével maradt, és azon az éjjelen a táborban aludt, a katonák között.
+{8:10} Másnap reggel korán fölkelt, megszemlélte seregét, majd elindultak Aj felé. Józsué és a többi vezető a sereg élén haladt.
+{8:11} Ajtól északra, a város előtt megállapodtak, és tábort vertek. Csak egy völgy választotta el őket a várostól.
+{8:12} Józsué kijelölt egy 5 000 fős csapatot a főseregből, és elküldte őket, hogy rejtőzzenek el, és álljanak lesben a várostól nyugatra, Bétel és Aj között.
+{8:13} Így helyezkedtek el a támadók: a fősereg a város előtt, attól északra, a lesben álló csapat pedig Ajtól nyugatra. Józsué azon az éjjelen lement a völgybe.
+{8:14} Reggel, amikor Aj királya meglátta Józsué főseregét a város előtt, sietve felkészült és seregével együtt kivonult a csatamezőre, a Jordán felé néző síkságra. Nem is sejtette, hogy a háta mögött, a város túloldalán Józsué csapatai lesben állnak.
+{8:15} Miután a csata elkezdődött, Józsué a seregével színleg megfutamodott kelet felé, a Jordán irányába,
+{8:16} Aj serege pedig kergette őket. Még azokat is hívták, akik a városban maradtak, hogy üldözzék Józsuét és Izráel seregét. Végül Aj
+{8:17} városából, s még Bételből is az összes férfi csatlakozott az üldözőkhöz, akik messze eltávolodtak városaiktól, s ott hagyták azokat szélesre tárt kapukkal.
+{8:18} Ekkor az Örökkévaló szólt Józsuénak: „Nyújtsd ki a lándzsádat Aj felé, mert kezedbe adom a várost!” Józsué kinyújtotta a lándzsáját Aj felé,
+{8:19} s erre a jelre a lesben álló csapatai rohamra indultak. Behatoltak a városba, elfoglalták és sietve felgyújtották.
+{8:20} Amikor Aj harcosai hátranéztek, látták, hogy füstoszlop emelkedik az ég felé a városukból. Amikor Józsué serege látta, hogy a lest vető
+{8:21} csapat elfoglalta a várost, ők is visszafordultak üldözőikre, és vágni kezdték őket. Izráel másik csapata, amelyik fölgyújtotta a várost, ezután kelet
+{8:22} felé kijött a városból, és sietett a csatatérre. Így közrefogták Aj harcosait, akik semerre sem menekülhettek. Nem is maradt életben közülük senki,
+{8:23} csak Aj királya, akit elfogtak, és Józsué elé vezettek.
+{8:24} Miután a csatamezőn Izráel harcosai mind egy szálig lekaszabolták üldözőiket, visszatértek Aj városába, és ott is mindenkit megöltek.
+{8:25} Ezen a napon tehát Aj minden lakosát megölték, férfiakat és nőket egyaránt: összesen 12 000 embert.
+{8:26} Ezalatt Józsué magasra tartotta a lándzsáját, és Aj felé mutatott vele. Addig nem engedte le a kezét, amíg Aj összes lakosát ki nem irtották.
+{8:27} A városból csak az értékes dolgokat és a háziállatokat zsákmányolták maguknak — az Örökkévaló parancsa szerint, amelyet Józsuénak adott.
+{8:28} Józsué parancsára teljesen fölégették és elpusztították Aj városát, amelyből csak romhalmaz maradt. Így van ez a mai napig.
+{8:29} Aj királyát Józsué kivégeztette, majd a holttestet egy fára akasztották. Napnyugtakor azonban Józsué parancsára levették, a város kapuja elé vetették, majd egy nagy rakás követ halmoztak fölé. Ez a kőrakás ma is ott látható.
+{i8:30} A szövetség megújítása az Ébál-hegynél
+{8:30} Ezután Józsué oltárt épített az Örökkévalónak, Izráel Istenének az Ébál-hegyen,
+{8:31} ahogy Mózes, az Örökkévaló szolgája megparancsolta Izráel népének, amint az fel van jegyezve Mózes törvénykönyvében. Az oltárt olyan kövekből építették, amelyeket nem faragtak meg, s azon égőáldozatokat és hálaáldozatokat mutattak be az Örökkévalónak.
+{8:32} Józsué pedig egész Izráel népe előtt fölírta kövekre Mózes törvényének másolatát.
+{8:33} Izráel egész népe összegyűlt az Örökkévaló Szövetségládája körül. Ott voltak a nép vezetői, bírái és tisztségviselői, meg a közöttük élő idegenek is. A nép fele a Szövetségláda egyik oldalán, az Ébál-heggyel szemben sorakozott fel, a másik fele a másik oldalon, a Garizim-heggyel szemben. Közöttük álltak a Szövetségládát hordozó papok. Így parancsolta meg ezt korábban Mózes, az Örökkévaló szolgája, hogy így áldják meg Izráel népét.
+{8:34} Akkor Józsué fölolvasta a törvény minden szavát, minden áldást és minden átkot, amely abban fel volt jegyezve.
+{8:35} Józsué hiánytalanul fölolvasott minden igét, amelyet Mózes parancsolt — Izráel egész gyülekezete pedig hallgatta, még az asszonyok, a gyermekek és az idegenek is, akik közöttük éltek.
+{i9:1} A gibeoniak cselvetése
+{9:1} Mindezeket megtudták a hettiták, emóriak, kánaániak, perizziek, hivviek és jebúsziak királyai is. Ezek a Jordántól nyugatra uralkodtak: a hegyvidéken, a dombvidéken és a Nagy-tenger partja melletti síkságon, egészen a Libanon-hegységig.
+{9:2} Összefogtak, hogy együtt harcoljanak Józsué és Izráel ellen.
+{9:3} Gibeon városának lakói is meghallották, hogy Józsué és serege elpusztította Jerikót és Ajt.
+{9:4} Ők azonban cselhez folyamodtak. Józsuéhoz küldték követeiket, akik régi ruhákat és elnyűtt sarukat viseltek, szamaraikra pedig
+{9:5} elnyűtt zsákokat és régi, repedezett és foltozott borostömlőket raktak. Útravaló kenyerük is száraz és penészes volt.
+{9:6} Amikor megérkeztek Izráel táborába, amely ekkor Gilgál mellett volt, Józsuéhoz mentek. Ezt mondták neki és Izráel férfiainak: „Messzi országból jöttünk hozzátok. Kössetek szövetséget velünk!”
+{9:7} De az izráeliek ezt kérdezték a hivviektől: „Lehet, hogy ti is Kánaán földjén laktok, akkor pedig nem köthetünk veletek szövetséget.”
+{9:8} A követek ekkor Józsuéhoz fordultak: „Uram, mindannyian szolgáid vagyunk!” „Kik vagytok, és honnan jöttök?” — kérdezte Józsué.
+{9:9} „Egy távoli országból érkeztünk, Uram. Istened, az Örökkévaló miatt jöttünk hozzátok, mert hallottuk nagy hatalmának hírét, és azokat a csodálatos dolgokat, amelyeket Egyiptomban tett veletek.
+{9:10} Hallottuk, mit tett az emóriak két királyával, Szihónnal, Hesbón királyával és Óggal, Básán királyával, Astárót földjén, a Jordántól keletre.
+{9:11} Országunk vezetői és egész népünk így bocsátott útra bennünket, amikor elindultunk: »Vigyetek magatokkal bőven útravalót, keressétek fel Izráel táborát, és mondjátok nekik: Szolgáitok vagyunk, csak kössetek szövetséget velünk!«
+{9:12} Nézzétek a kenyerünket, mikor elindultunk még friss és meleg volt, most pedig száraz és morzsálódik!
+{9:13} Ezek a borostömlők még újak voltak és borral töltöttük meg mindegyiket — most pedig repedezettek. Ruháinkat és saruinkat is elnyűttük a hosszú úton.”
+{9:14} Az izráeli férfiak ettek a gibeoniak kenyeréből, de az Örökkévalótól nem kértek tanácsot.
+{9:15} Józsué béke-szövetséget kötött a gibeoniakkal, hogy életben hagyja őket. Ugyanekkor Izráel többi vezetője is megesküdött a gibeoniaknak.
+{9:16} Három nappal a szövetségkötés után azonban kiderült, hogy a gibeoniak a közelben laknak, Kánaán területén!
+{9:17} Izráel serege elment azokhoz a városokhoz, ahonnan a gibeoni követek jöttek. Gibeon, Kefírá, Beérót és Kirját-Jeárim volt ez a négy város.
+{9:18} Mivel Izráel közösségének vezetői szövetséget kötöttek a gibeoniakkal, és megesküdtek nekik az Örökkévalóra, Izráel Istenére, ezért Izráel serege nem támadta meg ezeket a városokat. Azonban Izráel népe zúgolódott a saját vezetői ellen.
+{9:19} A vezetők pedig ezt mondták a népnek: „Mivel megesküdtünk nekik az Örökkévalóra, Izráel Istenére, nem emelhetünk rájuk kezet.
+{9:20} Hagyjuk őket életben, mert különben az Örökkévaló haragját vonjuk magunkra az eskü miatt! Nem törhetjük meg a velük kötött szövetséget!
+{9:21} Hagyjuk őket életben!” Ezért a gibeoniak ettől fogva Izráel egész közösségét szolgálták: favágók és vízhordók lettek — ahogyan a nép vezetői határoztak.
+{9:22} Ezután Józsué hívatta a gibeoniakat, és ezt mondta nekik: „Miért csaptatok be minket? Azt mondtátok, hogy igen messzire laktok, pedig itt laktok a közelben!
+{9:23} Legyetek emiatt átkozottak! Mostantól fogva mindig rabszolgák lesztek Izráelben: fát vágtok, és tűzifát meg vizet hordtok Istenünk házához.”
+{9:24} A gibeoniak így válaszoltak: „Azért vezettünk félre titeket, Uram, mert féltettük az életünket. Megtudtuk, hogy Istenetek, az Örökkévaló megparancsolta szolgájának, Mózesnek, hogy adja nektek ezt az egész országot. Azt is megparancsolta, hogy Kánaán összes lakosát irtsátok ki.
+{9:25} Most pedig a kezedben vagyunk, tégy velünk, ahogyan helyesnek látod!”
+{9:26} Így Józsué megmentette a gibeoniakat attól, hogy az izráeliek megöljék őket.
+{9:27} Ugyanakkor azt is elrendelte, hogy favágással és vízhordással szolgálják Izráel egész közösségét és az Örökkévaló oltárát azon a helyen, amelyet az Örökkévaló majd kiválaszt oltára számára. Így van ez mind a mai napig.
+{i10:1} Izráel elfoglalja Kánaán déli részét
+{10:1} Adónícedek, Jeruzsálem királya meghallotta, hogy Józsué serege elfoglalta és teljesen elpusztította Aj városát, királyát pedig megölte, ahhoz hasonlóan, ahogy Jerikóval és annak királyával is bánt. Az is a tudomására jutott, hogy Gibeon lakói béke-szövetséget kötöttek Izráellel, és hogy Izráel népe között laknak.
+{10:2} Emiatt Adónícedek és népe nagyon megrémült, hiszen Gibeon erősebb volt, mint Aj, akárcsak egy királyi székhely, és lakói vitéz harcosok voltak.
+{10:3} Hebronban Hóhám volt a király, Jarmútban Pirám, Lákis városában Jáfia, Eglónban pedig Debír király uralkodott. Adónícedek ezt az üzenetet küldte ennek a négy királynak:
+{10:4} „Jöjjetek segítségemre, és támadjuk meg Gibeont együtt, mert a lakói szövetséget kötöttek Józsuéval és Izráel népével!”
+{10:5} Miután azok beleegyeztek, ez az öt király egyesítette erőit, és felvonultak Gibeon ellen. Körülvették a várost, és ostromolni kezdték.
+{10:6} Ekkor a gibeoniak üzenetet küldtek Józsuénak a Gilgál melletti táborba: „Kérünk, ne hagyd cserben szolgáidat! Siess a segítségünkre, és ments meg bennünket, mert az emóriak királyai, akik a hegyvidéken laknak, együttes erővel ránk támadtak!”
+{10:7} Józsué azonnal mozgósította egész seregét, majd elindultak a Gilgál melletti táborból, és egész éjjel meneteltek. Az
+{10:8} Örökkévaló ezt mondta Józsuénak: „Ne félj tőlük, mert a kezedbe adtam őket! Közülük senki sem tud
+{10:9} ellenállni neked.” Az éjjeli menetelés után a Józsué vezette sereg váratlanul rátört a Gibeon alatt táborozó emóriak seregére.
+{10:10} Az Örökkévaló pedig nagy zűrzavart és pánikot keltett az emóriak táborában, amikor az izráeliek megtámadták őket. Így Izráel serege nagy vereséget mért az emóriakra, akik közül rengetegen elestek, a többiek pedig futásnak eredtek a béthóróni hágó felé. Az izráeliek üldözték és vágták a menekülőket a hágón túl is egészen Azékáig és Makkédáig.
+{10:11} Amikor a menekülő emóriak már lefelé futottak a béthóróni lejtőn, az Örökkévaló hatalmas jégesőt támasztott, rájuk zúdította és pusztította őket egészen Azékáig. Többen haltak meg a jégeső csapása miatt, mint ahányat az izráeli harcosok levágtak.
+{i10:12} Józsué szavára megáll a Nap az égen
+{10:12} Azon a napon, amelyen az Örökkévaló kiszolgáltatta az emóriak seregét Izráelnek, Józsué beszélt az Örökkévalóval. Egész Izráel szeme láttára ezt mondta Józsué: „Állj meg, Nap, Gibeon fölött! Hold, maradj veszteg az Ajjálón-völgy fölött!”
+{10:13} Megállt erre a Nap, vesztegelt a Hold is, míg Izráel egészen leverte ellenségeit. Meg van írva a Jásár könyvében is, hogy ekkor a Nap megállt az égen, és majdnem egy teljes napig nem haladt tovább az útján.
+{10:14} Ilyen nap nem volt azelőtt soha, és azóta sem fordult elő többé, hogy az Örökkévaló így meghallgatta volna egy ember szavát. Bizony, azon a napon maga az Örökkévaló harcolt Izráelért!
+{i10:15} Az öt emóri király kivégzése
+{10:15} Azután Józsué egész Izráel seregével együtt visszatért a Gilgál melletti táborukba.
+{10:16} Az emóriak menekülő királyai mind az öten a Makkéda melletti barlangban rejtőztek el,
+{10:17} de fölfedezték őket, és jelentették Józsuénak: „Megtaláltuk az öt királyt egy barlangban, Makkéda mellett!”
+{10:18} Ő pedig parancsot adott, hogy zárják el a barlang bejáratát nagy kövekkel, és állítsanak őröket elé.
+{10:19} Csapatainak pedig megparancsolta: „Ne álljatok meg! Üldözzétek tovább az ellenséget, vágjátok el útjukat és ne engedjétek őket bemenekülni a városaikba! Most Istenünk, az Örökkévaló kezünkbe adta őket!”
+{10:20} Józsué és serege tovább üldözte és vágta az ellenséget, amíg szinte teljesen megsemmisítették őket. Csak nagyon kevesen tudtak bemenekülni előlük a fallal körülkerített városokba.
+{10:21} Ezután a sereg ismét összegyűlt Józsuéhoz, aki Makkéda mellett ütött tábort. Ezek után pedig senki sem mert szólni vagy tenni semmit Izráel ellen.
+{10:22} Ezután Józsué parancsot adott: „Nyissátok meg a barlang száját, és vezessék elém azt az öt királyt!”
+{10:23} Így is tettek, és kihozták Józsué elé Jeruzsálem, Hebron, Jarmút, Lákis és Eglón királyait.
+{10:24} Józsué ekkor odahívta egész hadseregét, és előttük ezt mondta a sereg vezéreinek: „Gyertek ide, és tegyétek lábatokat ezeknek a királyoknak nyakára!” A tisztek így is tettek,
+{10:25} s akkor Józsué így biztatta őket: „Legyetek erősek és bátrak! Ne féljetek, ne csüggedjetek, mert az Örökkévaló mindegyik ellenségeteket, akikkel harcoltok, így fogja lábatok alá vetni, mint ezeket!”
+{10:26} Ezután Józsué levágta és kivégezte a királyokat. A holttesteket fölakasztották egy-egy fára, és estig ott is hagyták.
+{10:27} Naplementekor Józsué parancsára levették a testeket, és abba a barlangba dobták, amelyben a királyok elrejtőztek. A barlang bejáratát nagy kövekkel torlaszolták el, amelyek mind a mai napig ott is vannak.
+{10:28} Józsué még ugyanazon a napon elfoglalta Makkéda városát. Annak királyát és lakosait kardélre hányta, senkit sem hagyott életben közülük. Úgy bánt Makkéda királyával is, mint Jerikó királyával.
+{i10:29} A déli városok elfoglalása
+{10:29} Ezután Libna ellen vonult, és megostromolta.
+{10:30} Az Örökkévaló ezt a várost is királyával együtt Izráel kezébe adta. Izráel serege elfoglalta a várost, annak királyát és lakosait kardélre hányták, senkit sem hagytak életben. Úgy bántak Libna királyával is, mint Jerikó királyával.
+{10:31} Ezután Józsué seregével Libnából Lákis ellen vonult. Körülzárta, és megostromolta a várost.
+{10:32} Az Örökkévaló ezt is Izráel kezébe adta. Izráel serege a második napon elfoglalta a várost, és annak lakosait kardélre hányta: úgy bánt velük is, mint Libnával.
+{10:33} Hórám, Gézer királya felvonult seregével, hogy Lákist megsegítse, de Józsué és serege őket is legyőzte, senkit sem hagytak közülük életben.
+{10:34} Ezután Józsué Eglón ellen vonult, körülzárta, és megostromolta.
+{10:35} Még azon a napon elfoglalta a várost, és annak lakosait kardélre hányta. Senkit sem hagyott életben közülük: úgy bánt velük is, mint Lákissal.
+{10:36} Ezután Józsué Hebron ellen vonult Izráel egész seregével, és azt is megtámadta.
+{10:37} Elfoglalták a várost, és a környező településeket. Hebron királyát és a lakosokat kardélre hányták. Senkit sem hagytak életben. Úgy bántak velük is, mint Eglónnal: teljesen elpusztították a várost, összes lakóival együtt.
+{10:38} Ezután Józsué a seregével visszafordult, Debír ellen vonult, és azt is megostromolta.
+{10:39} Elfoglalta a várost, és a környező településeket. Debír királyát és a lakosokat kardélre hányta. Senkit sem hagyott életben közülük. Úgy bánt Debírrel és annak királyával, mint Hebronnal és annak királyával, valamint Libnával és annak királyával.
+{10:40} Így foglalta el Józsué az egész földet: a hegyvidéket, a délvidéket, a tengerparti síkságot és a kelet felé lejtő dombvidéket. Legyőzte a királyokat, a városok lakóit pedig kiirtotta. Senkit sem hagyott életben, Izráel Istene, az Örökkévaló parancsa szerint.
+{10:41} Kádés-Barneától Gázáig és Gósen földjétől Gibeonig minden területet elfoglalt.
+{10:42} Egyetlen hadjárattal győzte le az itt uralkodó királyokat, és elfoglalta országaik területét, mivel Izráel Istene, az Örökkévaló maga harcolt Izráelért.
+{10:43} Ezután Józsué egész seregével visszatért a Gilgál melletti táborukba.
+{i11:1} Kánaán északi részének meghódítása
+{11:1} Jábin, Hácór királya is meghallotta a hírét Izráel győzelmeinek. Ezért üzenetet küldött a következő királyoknak: Jóbábnak, Mádón királyának, azután Simrón királyának, azután Aksáf királyának,
+{11:2} meg az északi hegyvidéken, a Kinneret-tó déli oldalán lévő Arábá völgyben, a nyugati dombvidéken, és a Földközi-tenger partján, Dór vidékén uralkodó királyoknak.
+{11:3} Részt vettek ebben a hadjáratban a keleti és nyugati részeken élő kánaániak, az emóriak, a hettiták, a perizziek, a hegyvidéki jebúsziak, meg a Hermón-hegység lejtőin és a Micpá vidékén élő hivviek is.
+{11:4} Mindezek egyesítették seregeiket, felvonultak Izráel ellen, és együtt letáboroztak a Méróm folyócska mellett.
+{11:5} Annyian voltak, mint a homokszemek a tenger partján, és rengeteg harci szekerük is volt.
+{11:6} De az Örökkévaló így biztatta Józsuét: „Ne félj tőlük! Holnap ilyenkor már valamennyien holtan hevernek Izráel lábai előtt! Lovaikat bénítsd meg, szekereiket pedig égesd el!”
+{11:7} Józsué és serege ezután meglepetésszerű támadással lerohanta az ellenség táborát a Méróm folyócska mellett.
+{11:8} Az Örökkévaló győzelmet adott Izráelnek, és ellenségeik megfutamodtak. A menekülőket Izráel üldözte a nagy Szidón városáig, Miszrefót-Májimig és kelet felé egészen a Micpá-völgyig. Futás közben az izráeliek addig vágták őket, amíg senki sem maradt életben közülük.
+{11:9} Józsué az Örökkévaló parancsa szerint az ellenség lovait megbénította, és harci szekereiket elégette.
+{11:10} Ezután Józsué visszafordította a seregét, és Hácór ellen vonult.
+{11:11} Ez a város volt az Izráel ellen szövetkezett királyságok vezetője. Józsué elfoglalta, majd fölgyújtotta ezt is, annak királyát megölte, lakosait pedig kiirtotta. Senkit sem hagyott életben közülük.
+{11:12} Így foglalta el Józsué mindezeket a városokat. Királyaikat megölte, és lakosaikat kiirtotta, ahogyan Mózes, az Örökkévaló szolgája azt megparancsolta.
+{11:13} A dombokon álló, fallal körülvett városok közül Józsué és serege egyedül Hácórt gyújtotta föl.
+{11:14} A városok lakóit mind egy szálig kiirtották, de a városban talált háziállatokat és egyéb értékeket Izráel serege hadizsákmánynak tekintette.
+{11:15} Amit az Örökkévaló megparancsolt szolgájának, Mózesnek, azt Mózes megparancsolta Józsuénak. Józsué pedig mindent ennek megfelelően tett, semmiben nem tért el attól, amit az Örökkévaló Mózesnek parancsolt.
+{11:16} Józsué tehát elfoglalta az egész országot. Meghódította a dombvidéket, az egész délvidéket, Gósen egész földjét és a síkságot, a Jordán völgyét. Elfoglalta Izráel összes hegyvidékét és dombvidékét
+{11:17} a Kopasz-hegytől, amely délen, Edom szélén emelkedik, egészen Baál-Gádig, amely messze északon, a Libanon-völgyben, a Hermón-hegy lábánál fekszik. Ezen a területen minden királyt elfogott, és kivégzett.
+{11:18} Hosszú ideig viselt háborút ezek ellen a királyok ellen.
+{11:19} Nem volt város, amely békét kötött volna Izráellel, csak egyedül Gibeon, és a benne lakó hivviek. A többi várost Józsué mind harcban foglalta el,
+{11:20} mert az Örökkévaló megkeményítette azoknak szívét, hogy harcoljanak Izráel ellen. Az Örökkévaló úgy akarta, hogy Izráel legyőzze és irgalom nélkül mind egy szálig kiirtsa a Kánaán területén élő nemzeteket — ahogy ezt Mózesnek is megparancsolta.
+{11:21} Abban az időben Józsué harcolt az anákiak ellen is. Kiirtotta őket a dombvidékről, Hebronból, Debírből, Anábból, Júda és Izráel hegyvidékéről. Városaikkal együtt elpusztította őket.
+{11:22} Csak Gázában, Gátban és Asdódban maradtak meg egy kevesen az anákiak közül. Izráel területén nem maradt meg közülük senki.
+{11:23} Így foglalta el Józsué az egész országot, amint az Örökkévaló azt megmondta Mózesnek. Azután Józsué fölosztotta a földet Izráel törzsei között, és mindegyiknek örökséget adott benne. Ezután vége lett a harcoknak, és a békesség ideje következett az országban.
+{i12:1} A legyőzött kánaáni királyok felsorolása
+{12:1} Izráel népe ezt a két királyt győzte le a Jordántól keletre: Szihónt, az emóriak királyát és Ógot, Básán királyát.
+{12:2} Országaikat elfoglalták, és birtokba vették a Jordántól keletre fekvő egész síkságot az Arnón-pataktól egészen a Hermón-hegységig.
+{12:3} Szihón, az emóriak királya Hesbón városában uralkodott, és országa az Arnón völgye melletti Aróér városától a Jabbók-patakig terjedt, amely egyúttal az ammoniak országának a határa is volt.
+{12:4} Hozzá tartozott még a Jordántól keletre fekvő terület a Kinneret-tó és a Holt-tenger között, valamint a Holt-tengertől keletre fekvő vidék Bét-Jesimótig és a Piszgá-hegy lábáig.
+{12:5} Szihón egykori országa Gileád területének déli részén terült el. Óg király, aki a refáiak nemzetségéhez tartozott, Básán fölött uralkodott, székhelyét pedig Astárótban és Edreiben tartotta. Országa magában foglalta északon a Hermón-hegységet, keleten Szalkát, egészen a gesúriak és a maakáiak területének határáig, délen pedig Szihón országával volt határos. Óg egykori országa Gileád területének északi felét foglalta el.
+{12:6} Mózes, az Örökkévaló szolgája vezetésével Izráel népe legyőzte ezt a két királyt. Mózes pedig ezeket a területeket Rúben és Gád törzsének, valamint Manassé törzse felének adta örökségül.
+{12:7} Józsué és serege sok királyt legyőzött, akik a Jordán nyugati oldalán uralkodtak, a Libanon-völgyben fekvő Baál-Gádtól a Kopasz-hegyig, amely délen, Edom szélén emelkedik. Ezeket a területeket Józsué mind elfoglalta, és szétosztotta Izráel törzsei között. Így adott nekik örökséget, minden törzsnek a maga részét.
+{12:8} Ez a meghódított terület magában foglalta a dombvidéket és annak nyugati lejtőit, a Jordán völgyét, a keleti dombokat, a pusztát és a délvidéket, ahol addig a hettiták, emóriak, kánaániak, perizziek, hivviek és jebúsziak népei laktak. Ezek tehát azok a városok, amelyeknek a királyait Józsué és serege legyőzte:
+{12:9} Jerikó, Aj (Bétel mellett),
+{12:10} Jeruzsálem, Hebron,
+{12:11} Jarmút, Lákis,
+{12:12} Eglón, Gézer,
+{12:13} Debír, Geder,
+{12:14} Horma, Arád,
+{12:15} Libna, Adullám,
+{12:16} Makkéda, Bétel,
+{12:17} Tappúah, Héfer,
+{12:18} Afék, Sáron,
+{12:19} Mádón, Hácór,
+{12:20} Simrón-Meróón, Aksáf,
+{12:21} Taanak, Meggidó,
+{12:22} Kedes, Jokneám (a Kármel-hegy közelében),
+{12:23} Dór (a Dór-hegyen), Góim (Gilgál mellett) és
+{12:24} Tirca. Összesen tehát 31 királyt győzött le Józsué.
+{i13:1} Az el nem foglalt területek
+{13:1} Amikor Józsué már idős lett, az Örökkévaló ezt mondta neki: „Józsué, te már megöregedtél, de még mindig sok terület maradt, amely arra vár, hogy Izráel népe birtokba vegye.
+{13:2} Még nem foglalták el Gesúr földjét, vagyis az Egyiptomtól keletre lévő Sihórtól észak felé, az Ekron határáig terjedő területet. Ezt még mindig a kánaániak
+{13:3} birtokolják. Még nem foglalták el a filiszteusok egész területét, vagyis az öt filiszteus fejedelem városait: Gázát, Asdódot, Askelónt, Gátot és Ekront. Még nem foglalták
+{13:4} el az avviak területét, amely Kánaán földjétől délre fekszik. Még nem foglalták el északon Meárá vidékét egészen Afékig, az emóriak határáig, amelyet a szidóniak birtokolnak.
+{13:5} Még nem foglalták el a gebaliak földjét, és Libanon egész vidékét: a Hermón-hegység lábánál fekvő Baál-Gádtól keletre egészen a hamáti útig terjedő területet.
+{13:6} Még nem foglalták el a dombvidéken lakó szidóniak területét a Libánón és Miszrefót-Majim között. Ezekről a területekről én magam fogom kiűzni az ott lakó nemzeteket Izráel népe elől. Gondod legyen rá, hogy amikor felosztod Izráel törzsei között a földet, vedd számításba ezeket a még el nem foglalt területeket is.
+{13:7} Láss hozzá, és oszd ki az egész földet örökségül a kilenc törzs és Manassé fél törzse között!”
+{i13:8} A Jordántól keletre fekvő terület felosztása
+{13:8} Rúben és Gád törzsének, meg Manassé törzse egyik részének már Mózes, az Örökkévaló szolgája kiosztotta birtokukat örökségül a Jordántól keletre.
+{13:9} Ez a terület az Arnón-völgy melletti Aróér városánál kezdődött, magában foglalta a várost, amely a völgy mentében félúton feküdt, és az egész fennsíkot Médebától Dibónig.
+{13:10} Ide tartoztak azok a városok, amelyekben korábban a hesbóni Szihón, az emóriak királya uralkodott, egészen az ammoniak országának határáig.
+{13:11} Ide tartozott Gileád, meg a gesúriak és maakátiak földje, az egész Hermón-hegység, és Básán egész területe egészen Szalkáig.
+{13:12} Magában foglalta az egykori Óg király birodalmát is, amely Básánban volt. Maga Óg király — a refáiak nemzetségének egyik utolsó leszármazottja — Astárótban és Edreiben tartotta királyi udvarát. Ógot és seregét Izráel serege még Mózes vezetésével verte le, és országát elfoglalta.
+{13:13} Izráel serege a gesúriakat és a maakátiakat azonban nem űzte ki földjükről, ezért ők a mai napig is ott laknak Izráel népe között.
+{13:14} Lévi törzse volt az egyetlen törzs, amelynek Mózes nem adott birtokul saját területet. Helyette az Örökkévaló megígérte nekik, hogy az Örökkévalónak, Izráel Istenének bemutatott áldozati állatok húsát kapják örökségül.
+{13:15} Rúben törzsének is adott Mózes örökséget, nemzetségeik szerint.
+{13:16} Az ő területük az Arnón-patak melletti Aróér városánál kezdődött, magában foglalta az egész fennsíkot Médeba vidékén.
+{13:17} Ide tartozott Hesbón és a fennsíkon lévő városok: Díbón, Bámót-Baál, Bét-Baál-Meón,
+{13:18} Jahcá, Kedémót, Méfaat,
+{13:19} Kirjátaim, Szibmá, Ceret-Hassahar (amely a völgyből kiemelkedő dombon épült),
+{13:20} Bét-Peór és Bét-Hajesimót, meg a Piszgá-hegy lejtői.
+{13:21} Tehát Rúben törzsének területe magában foglalta a fennsíkon lévő összes várost és Szihón király egykori országát is. (Szihón az emóriak egyik királya volt, aki Hesbónban uralkodott. Mózes vezetésével Izráel serege legyőzte Szihónt és seregét, meg a vele szövetséges midjáni vezéreket: Evít, Rekemet, Cúrt, Húrt és Rebát, akik szintén azon a vidéken laktak.
+{13:22} Ugyanakkor ölték meg harc közben az izráeli harcosok a jövendőmondó Bálámot, Beór fiát is.)
+{13:23} Rúben törzsi területének határa a Jordán folyó lett. Ezt a területet kapták örökségül nemzetségeik szerint, az itt talált városokkal és falvakkal együtt.
+{13:24} Gád törzsének is adott Mózes örökséget nemzetségeik szerint.
+{13:25} Az ő területükhöz tartozott Jazér és Gileád összes városa, azután az ammoniak területének fele, Aróér városáig, amely Rabba közelében van.
+{13:26} Ide tartozott az a föld, amely korábban Szihónnak, az emóriak királyának országa volt: délen Hesbóntól egészen Rámat-Hammicpéig és Betónímig, meg Mahanaimtól Lódebár határáig
+{13:27} északon. Ezen kívül ide tartozott még a Jordán keleti partvidéke egészen a Kinneret-tóig, és a Jordán melletti városok: Bét-Hárám, Bét-Nimra, Szukkót és Cáfón.
+{13:28} Ezt a területet kapta birtokul Gád törzse, nemzetségeik szerint, az itt talált városokkal és falvakkal együtt.
+{13:29} Manassé törzse egyik felének is adott Mózes örökséget, nemzetségeik szerint.
+{13:30} Az ő területükhöz tartozott Mahanaimtól északra Básán egész földje, amely régebben Óg király birodalma volt, és Jáír falvai is a birtokukba kerültek. Összesen 60 városuk volt.
+{13:31} Hozzájuk tartozott Gileád egyik fele, azután Astárót és Edrei. Ez a két utóbbi város korábban Óg királyé volt. Ezeket a területeket kapta örökségül a nemzetségek szerint Manassé törzsének egyik része: Mákír leszármazottjainak egyik csoportja. Mákír Manassé fia volt.
+{13:32} Ezeket a területeket osztotta ki Mózes abban az időben, amikor Izráel még a Jordán keleti partján táborozott, Moáb síkságán, Jerikóval átellenben.
+{13:33} Lévi törzsének Mózes nem adott földbirtokot, mert az Örökkévaló, Izráel Istene megígérte nekik, hogy földbirtok helyett ő maga lesz a lakóhelyük és az életük forrása.
+{14:1} Eleázár főpap és Józsué, Nún fia meg Izráel törzseinek vezetői együttesen határoztak arról, hogy Kánaán földjét hogyan osszák fel a törzsek nemzetségei között.
+{14:2} Az Örökkévaló már korábban rendelkezett Mózes által arról, hogy mind a kilenc és fél törzs sorshúzással kapja meg a birtokát.
+{14:3} Ugyanis két és fél törzsnek már maga Mózes kijelölte a Jordán keleti oldalán a birtokát. József leszármazottjaiból két törzs lett: Manassé és
+{14:4} Efraim törzse. Lévi törzse egyáltalán nem kapott saját területet, csak lakóhelyül szolgáló városokat, a hozzájuk tartozó legelőkkel, ahol a léviták az állataikat legeltették.
+{14:5} Így osztották fel a földet örökségül egymás között az izráeliek, ahogyan az Örökkévaló parancsolta Mózesnek.
+{i14:6} Káleb is megkapja örökségét
+{14:6} Júda törzséből néhányan Józsuéhoz fordultak kérésükkel, amikor Gilgálban voltak. Ezek között volt Káleb, Jefunne fia is, a kenizziek nemzetségéből, aki ezt mondta Józsuénak: „Biztosan emlékszel, mit mondott az Örökkévaló rólad és rólam — Mózes, az Isten embere által — , amikor még Kádés-Barneában táboroztunk.
+{14:7} Negyven éves voltam akkor. Mózes, az Örökkévaló szolgája elküldött Kádés-Barneából, hogy kémleljük ki Kánaán földjét, és én mindent úgy mondtam el neki, ahogyan láttam.
+{14:8} A társaim, akik velem együtt jöttek, olyan jelentést hoztak ugyanarról a földről, hogy elvették a nép bátorságát, én azonban teljes szívvel követtem az Örökkévalót, Istenemet.
+{14:9} Mózes pedig azon a napon megesküdött nekem: »Az a föld, amelyet lábad érintett, amikor felderítésre indultál, mindörökre a te birtokod és örökséged lesz, utódaiddal együtt, mivel teljes szívvel-lélekkel követted az Örökkévalót, Istenünket. Ez egészen biztos!«
+{14:10} Most pedig, amint látod, az Örökkévaló mindmáig életben tartott engem, ahogy megígérte. Negyvenöt évvel ezelőtt mondta ezt az Örökkévaló — Mózes által — , amikor Izráel még a pusztában vándorolt. Igaz, hogy 85 éves vagyok,
+{14:11} de még most is olyan az erőm, mint amikor Mózes kiküldött a felderítésre. Ma is éppen úgy kész vagyok harcba menni, mint akkor.
+{14:12} Most hát kérlek, add nekem örökségül azt a földet, amelyet az Örökkévaló akkor nekem ígért: azt a hegyvidéki területet, ahol akkor jártam! Te is tudod, hogy anákok laknak ott nagy és erős városokban. De kiűzöm őket onnan, ha az Örökkévaló velem lesz, ahogyan megígérte nekem.”
+{14:13} Akkor Józsué teljesítette Káleb kérését, neki adta azt a területet, amelyet kért: Hebron környékét, és megáldotta őt.
+{14:14} Így lett Hebron városa és annak környéke a kenizzi nemzetségbe tartozó Káleb birtoka, mivel ő teljes szívvel-lélekkel követte az Örökkévalót, Izráel Istenét. Káleb Jefunne fia volt. A mai napig az ő leszármazottjai élnek ott.
+{14:15} Hebront azelőtt Arba városának nevezték, mert ott élt egy Arba nevű óriás, aki az anákok közül a legnagyobb volt. Ezután megszűntek a harcok, és béke uralkodott az országban.
+{i15:1} Júda törzsi területe
+{15:1} Júda törzse ezt a területet kapta a nemzetségei számára sorshúzással. Délen ez a terület Edom országával és a Cin-sivataggal érintkezett.
+{15:2} A déli határ a Holt-tenger déli partjától indul.
+{15:3} Dél felől megkerüli az Akrabbim-hágót, azután a Cin-sivatagban halad, délről elkerüli Kádés-Barneát, majd Hesrón és Addár érintésével Karka felé halad.
+{15:4} Azután Acmónt érintve eléri Egyiptom patakját, s annak mentén nyugat felé haladva eléri a Földközi-tengert. Ez Júda törzsének a déli határa.
+{15:5} A keleti határ a Holt-tenger, egészen a Jordán torkolatáig.
+{15:6} Az északi határ ettől Bét-Hogla felé húzódik, majd Bét-Arábától északra halad, azután érinti Bóhan kövét — , amelyet Rúben fiáról, Bóhanról neveztek el.
+{15:7} Tovább halad az Ákór völgyén keresztül Debírbe. Ezután észak felé fordul, és érinti Gilgált, amely az Adummím-hágóval átellenben fekszik, a völgy déli oldalán. Majd érinti a Semes-forrást, és tovább a Rógél-forrás mellett halad.
+{15:8} Utána a Ben-Hinnóm völgyön fölmegy a határ a jebúsziak városától, Jeruzsálemtől délre, egészen a hegy tetejére. Ez a hegy a Ben-Hinnóm völgytől nyugatra és a Refáim-völgytől északra emelkedik.
+{15:9} A hegytetőről a határ leereszkedik a Mé-Neftóah forráshoz, majd tovább halad az Efrón-hegy városaihoz, onnan pedig Baalához, vagyis Kirját-Jeárimhoz.
+{15:10} Ezután nyugatra fordul a Széír-dombvidék felé, majd a Jeárim-hegy, vagyis Keszálón városának északi oldalán halad, érinti Bétsemest, majd Timna városát.
+{15:11} Azután felmegy a dombra, amely Ekron városától északra fekszik, majd Sikkárón felé fordul, és érinti a Baalá-hegyet. Utána leereszkedik Jabneélhez, végül nyugat felé kifut a Földközi-tenger partjára.
+{15:12} A nyugati határ a tengerpart. Ez tehát Júda törzsi területe.
+{i15:13} Káleb öröksége
+{15:13} Józsué az Örökkévaló parancsa szerint Júda törzsi területén belül adott örökséget Kálebnek, Jefunne fiának. Így kapta Arba (vagyis Hebron) városát. Arba volt az anákiak ősapja.
+{15:14} Káleb kiűzte onnan Sésajt, Ahimánt és Talmajt, az anákiak három nemzetségét, elfoglalta a várost, és letelepítette ott a saját nemzetségét.
+{15:15} Innen Káleb továbbment, és a csapatával Debír (vagyis Széfer) városa ellen vonult.
+{15:16} Akkor mondta ezt Káleb: „Aki elfoglalja Széfert, annak adom feleségül a leányomat, Akszát!”
+{15:17} Otniél, Káleb testvérének, Kenaznak fia foglalta el a várost, ezért Káleb feleségül adta neki a leányát, Akszát.
+{15:18} A menyegzője napján Aksza rábeszélte Otniélt, hogy kérjen az apjától ajándékba egy bizonyos területet. Aksza el is ment apjához, és mikor leszállt a szamaráról, Káleb megkérdezte: „Mit akarsz?”
+{15:19} Aksza így felelt: „Kérlek, apám, adj nekem nászajándékot! Már adtál nekem birtokot a délvidéken, de az a föld igen száraz. Adj nekem vízforrásokat is!” Káleb teljesítette leánya kérését, és neki ajándékozta azt a mezőt, ahol a fölső- és az alsó-források fakadnak.
+{i15:20} Júda városai
+{15:20} Ez Júda törzsének öröksége, nemzetségeik szerint:
+{15:21} Izráel legdélebbi, Edom országával határos részén, vagyis a délvidéken ezek a városok kerültek Júda törzsének birtokába, amelyekben le is telepedtek: Kabceél, Éder, Jágúr,
+{15:22} Kíná, Dímóná, Adádá,
+{15:23} Kedes, Hácór, Jitnán,
+{15:24} Zíf, Telem, Beálót,
+{15:25} Hácór-Hadattá, Kerijjót-Hecrón (vagyis Hácór),
+{15:26} Amám, Sema, Móládá,
+{15:27} Hacar-Gaddá, Hesmón, Bét-Pelet,
+{15:28} Hacar-Súlál, Beérseba, Bizjótjá,
+{15:29} Baalá, Ijjím, Ecem,
+{15:30} Eltólad, Keszíl, Horma,
+{15:31} Ciklág, Madmanná, Szanszanná,
+{15:32} Lebáót, Silhím, Ain és Rimmón. Összesen 29 város, a hozzájuk tartozó falvakkal együtt.
+{15:33} A nyugati dombok tövében fekvő városok: Estáól, Corá, Asná,
+{15:34} Zánóah, Én-Ganním, Tappúah, Énám,
+{15:35} Jarmút, Adullám, Szókó, Azéka,
+{15:36} Saaraim, Adítaim, Gedérá és Gedérótaim. Összesen 14 város, a hozzájuk tartozó falvakkal együtt.
+{15:37} Azután ezek a városok: Cenán, Hadásá, Migdal-Gád,
+{15:38} Dilán, Micpe, Jokteél,
+{15:39} Lákis, Bockat, Eglón,
+{15:40} Kabbón, Lahmász, Kitlís,
+{15:41} Gedérót, Bét-Dágón, Naamá és Makkédá. Összesen 16 város, a hozzájuk tartozó falvakkal együtt.
+{15:42} Azután ezek a városok: Libna, Eter, Ásán,
+{15:43} Jiftáh, Asná, Necíb,
+{15:44} Keila, Akzíb és Márésá. Összesen 9 város, a hozzájuk tartozó falvakkal együtt.
+{15:45} Azután Ekron, a hozzá tartozó falvakkal együtt,
+{15:46} amelyek egészen a Földközi-tengerig és Asdódig terjedtek.
+{15:47} Azután Asdód, a hozzá tartozó falvakkal együtt. Azután Gáza, a hozzá tartozó falvakkal együtt, amelyek egészen Egyiptom patakjáig terjedtek a Földközi-tenger partja mentén.
+{15:48} A hegyvidéki városok: Sámír, Jattír, Szókó,
+{15:49} Danná, Kirját-Szanná (vagyis Debír),
+{15:50} Anáb, Estemó, Áním,
+{15:51} Gósen, Hólón és Giló. Összesen 11 város, a hozzájuk tartozó falvakkal együtt.
+{15:52} Azután ezek a városok: Arab, Dúmá, Esán,
+{15:53} Jánúm, Bét-Tappúah, Aféká,
+{15:54} Humtá, Kirját-Arba (vagyis Hebron) és Cíór. Összesen 9 város, a hozzájuk tartozó falvakkal együtt.
+{15:55} Azután ezek a városok: Máón, Kármel, Zíf, Juttá,
+{15:56} Jizreel, Jokdeám, Zánóah,
+{15:57} Kain, Gibea és Timná. Összesen 10 város, a hozzájuk tartozó falvakkal együtt.
+{15:58} Azután ezek a városok: Halhúl, Bét-Cúr, Gedór,
+{15:59} Maarát, Bét-Anót és Eltekón. Összesen 6 város, a hozzájuk tartozó falvakkal együtt.
+{15:60} Azután ezek a városok: Kirját-Baál (vagyis Kirját-Jeárim) és Rabbá. Összesen 2 város, a hozzájuk tartozó falvakkal együtt.
+{15:61} A júdeai pusztában lévő városok: Bét-Arábá, Middín, Szekáká,
+{15:62} Nibsán, Ír-Melah és Éngedi. Összesen 6 város, a hozzájuk tartozó falvakkal együtt.
+{15:63} Jeruzsálem lakóit, a jebúsziakat Júda népe nem tudta kiűzni a városból, ezért a jebúsziak mind a mai napig ott élnek a városban, Júda népével együtt.
+{i16:1} József fiainak öröksége
+{16:1} Ezt a földet kapták örökségül József leszármazottjai, sorshúzással. Birtokuk határa a Jordánhoz közel, Jerikó forrásaitól kelet felé indul, és a pusztán át a Bétel körüli dombokhoz érkezik.
+{16:2} Onnan tovább megy Lúzba, majd tovább halad az arkiak határáig, Atárótig.
+{16:3} Azután lemegy nyugat felé a jaflétiak határához, majd alsó Bét-Horon vidékéig és Gézerig, azután a Földközi-tengerig.
+{i16:4} Efraim törzsi területe
+{16:4} Megkapták birtokukat József fiainak, Manassénak és Efraimnak törzsei is.
+{16:5} Efraim törzsi területének ezek a határai, nemzetségeik szerint: a déli határ Atrót-Addártól kelet felé húzódik felső Bét-Horonig,
+{16:6} onnan pedig a Földközi-tengerig. Az északi határ Mikmetánál elfordul kelet felé, Taanat-Siló irányába, és Jánóahtól keletre halad.
+{16:7} Ezután délkeleti irányba húzódik. Érinti Atárótot és Naarát, majd Jerikót, és ott éri el a Jordánt.
+{16:8} Azután Tappúahtól nyugat felé fut a Káná-patakig, és annak mentén eléri a Földközi-tenger partját. Tehát, ez Efraim törzsi területe, nemzetségenként.
+{16:9} Manassé törzsi területén, a Jordántól nyugatra egyes városokat, a hozzá tartozó falvakkal együtt, átadtak Efraim törzsének.
+{16:10} Az efraimiak nem űzték ki a Gézerben lakó kánaániakat, ezért azok a mai napig is ott laknak közöttük, bár robotoló szolgáik lettek.
+{i17:1} Manassé törzsi területe a Jordántól nyugatra
+{17:1} Azután Manassé törzse is megkapta a maga törzsi területét, sorshúzással. József elsőszülöttje Manassé, az ő elsőszülött fia pedig Mákír, akiből híres és bátor harcos lett. Ezért kapta örökségül Gileád és Básán vidékét a Jordántól keletre. Mákír volt Gileád apja.
+{17:2} Manassé törzsének a többi nemzetségei is megkapták a maguk birtokát, de nekik Józsué a Jordántól nyugatra adott birtokokat. Ezek a következők: Abíezer, Hélek, Aszríél, Sekem, Héfer és Semidá. Ők is Manassé leszármazottjai voltak, akiktől egy-egy nemzetség származott, amely azután a nevüket viselte.
+{17:3} Célofhád Héfer fia volt. Héfer Gileád utóda, ez Mákír fia, ez Manassé fia volt. Célofhádnak nem volt fia, de öt leánya született: Mahlá, Nóá, Hoglá, Milká és Tircá.
+{17:4} Ezek a leányok odaálltak a vezetők — Eleázár főpap, Józsué és Izráel fejedelmei — elé, és ezt mondták: „Az Örökkévaló megparancsolta Mózesnek, hogy nekünk, leányoknak is ugyanúgy adjatok örökségül földbirtokot, mint a fiúknak.” Így hát Józsué — az Örökkévaló parancsának engedelmeskedve — ennek az öt leánynak is ugyanúgy osztott örökséget, mint apjuk fiútestvéreinek.
+{17:5} Manassé törzse tíz részt kapott a Jordán nyugati oldalán, mivel ezek a leányok is birtokot kaptak férfi rokonaik
+{17:6} között. Manassé törzsének a többi nemzetségei a Jordán keleti oldalán, Gileád és Básán területén kapták meg a maguk birtokait.
+{17:7} Manassé törzsi területének a Jordán nyugati oldalán ezek a határai: délen a Sikemtől keletre fekvő Mikmetát városa, északon Ásér törzsi területe határolja. Mikmetát városától a határ délre fordul Én-Tappúah felé,
+{17:8} amelynek földjeit szintén magába foglalja Manassé területe, de maga a város, Tappúah mégis Efraim törzséhez tartozik.
+{17:9} Ezután a határ dél felé fordul, és a Káná-patakhoz ér, majd annak mentén nyugat felé kifut a tengerpartra. Ezen a területen Manassé városain kívül vannak olyan városok is, amelyek Efraim törzséhez tartoznak, de Manassé határa mégis a patak északi partja.
+{17:10} Tehát a pataktól délre Efraim, északra Manassé törzsi területe fekszik, és mindkettő nyugati határa a Földközi-tenger partja. Manassé területe északon Ásér, keleten Issakár törzsi területével érintkezik.
+{17:11} Néhány város, a hozzá tartozó falvakkal együtt, bár Ásér és Issakár területén feküdt, mégis Manassé törzse birtokába került: Bétseán, Jibleám, Dór (a tengerparton), Éndór, Taanak és Meggidó.
+{17:12} Ezekből a városokból Manassé törzse nem tudta kiűzni az őshonos kánaániakat, akik ott maradtak.
+{17:13} Később az izráeliek megerősödtek, de mégsem űzték ki az őslakosokat, csak robotoló szolgáikká tették őket.
+{17:14} Amikor Józsué felosztotta a földet a törzsek között, József leszármazottjai — Efraim és Manassé törzsei — ezt mondták neki: „Miért csak egy részt adtál nekünk örökségül, holott mi sokan vagyunk? Az egész földből, amelyet az Örökkévaló a népének adott, a mi két törzsünknek csak egy részt adtál!”
+{17:15} Erre Józsué így felelt: „Ha valóban olyan sokan vagytok, hogy az Efraimnak adott dombvidék nem elég, akkor foglaljátok el a perizziek és a refáiak területeit is! Irtsátok ki az erdőket, vegyétek birtokba azt a vidéket, és telepedjetek le ott!”
+{17:16} Azok így válaszoltak: „A dombvidék valóban szűkös a számunkra. De azokban a völgyekben kánaáni törzsek laknak, akiknek megvasalt hadi szekereik is vannak! Ők laknak Bétseánban, meg a környező falvakban és a Jezréel-síkságon is.”
+{17:17} „Ti valóban nagy, erős és népes törzsek vagytok, és szükségetek van nagyobb területre. Legyen hát tiétek az egész dombvidék! Igaz, most még erdők borítják, de irtsatok ki magatoknak művelésre alkalmas területeket, és telepedjetek
+{17:18} le ott! Igaz, most még a kánaániak laknak a völgyekben, de űzzétek ki őket onnan, akkor is, ha erősek, és harci szekereik is vannak!” — felelte Józsué József leszármazottjainak, Efraim és Manassé törzseinek.
+{i18:1} A hátramaradt területek fölosztása
+{18:1} Miután Izráel népe meghódította Kánaán földjét, az egész közösség összegyűlt Silóban, és ott állították föl a Találkozás Sátorát.
+{18:2} Ebben az időben Izráel hét törzse még nem kapta meg a maga birtokát.
+{18:3} Józsué így biztatta őket: „Meddig akarjátok még halogatni, hogy birtokba vegyétek örökségeteket, amelyet az Örökkévaló, őseitek Istene nektek adott?
+{18:4} Válasszatok magatok közül minden törzsből három-három férfit, hogy elküldjem őket a megmaradt területekre. Ők majd bejárják és összeírják azokat a területeket, amelyeket még senkinek sem osztottunk ki, és visszatérnek hozzám.
+{18:5} Azután majd feljegyzéseik szerint felosztják a gazdátlan területeket hét részre. Júda törzse maradjon a maga területén, délen. József törzsei, Manassé és Efraim is maradjon a maga területén, északon. Őket ez nem érinti.
+{18:6} Miután a szabad területeket 7 részre osztották, és ezt elém hozták, majd én kisorsolom Istenünk, az Örökkévaló előtt, hogy ki melyiket kapja meg közületek.
+{18:7} A Lévi törzsébe tartozók nem kapnak saját földbirtokot. Az ő örökségük az a kiváltság, hogy az Örökkévalót szolgálják, mint papok. Gád és Rúben törzsének, valamint Manassé törzse egyik felének már Mózes, az Örökkévaló szolgája adott örökséget a Jordán keleti oldalán.”
+{18:8} Józsué tehát kiküldte azokat a férfiakat. Ezt bízta rájuk: „Menjetek, és írjátok össze a még ki nem osztott területeket, majd jöjjetek vissza hozzám! Azután majd itt, Silóban, az Örökkévaló előtt kisorsolom mindegyik törzsnek a maga örökségét.”
+{18:9} Azok be is járták Kánaán földjének azokat a részeit, amelyeket Józsué még nem osztott ki Izráelnek. Följegyeztek minden fontosat, és összeírták a városokat is. Azután fölosztották a fölmért területet 7 részre. Végül visszatértek a silói táborba, Józsuéhoz,
+{18:10} aki az Örökkévaló előtt elvégzett sorsolással kijelölte, hogy melyik törzs melyik területet kapja. Így kapta meg Izráelnek ez a 7 törzse is örökségül a maga birtokát.
+{i18:11} Benjámin törzsi területe
+{18:11} Az elsőnek kijelölt birtokterület a sorshúzás szerint Benjámin törzsének jutott. Az a terület lett az övék, amelyet egyik oldalon Júda, a másikon pedig József törzseinek területe határolt.
+{18:12} Ennek az északi határa a Jordántól indul Jerikótól északra, és halad nyugat felé a dombvidéken keresztül Bét-Áven pusztáját érintve
+{18:13} Lúz, vagyis Bétel felé, amelyet délről megkerül. Majd tovább megy Atrót-Addár felé, amely alsó Bét-Horontól délre, a hegyen fekszik.
+{18:14} A határ annál a hegynél, amely az alsó Bét-Horonnal szemben emelkedik, dél felé fordul, és ez már Benjámin nyugati határa, amely egészen a Júda törzséhez tartozó Kirját-Baalig, vagyis Kirját-Jeárimig tart.
+{18:15} A déli határ innen nyugatra halad, a Mé-Nafótah forráshoz,
+{18:16} majd annak a hegynek a lábához ér, amely a Ben-Hinnóm völgy végében áll, a refáiak völgyétől északra. Tovább halad a határ a Ben-Hinnóm völgyben lefelé, és dél felől elkerüli a Jebúsziak városát (Jeruzsálemet). Azután a Rogél-forráshoz ér,
+{18:17} és ott észak felé kanyarodik, Én-Semes, majd Gelíót felé, amely az Adummím-hágóval szemben fekszik. Ezután a Rúben fiáról, Bóhanról elnevezett kőhöz ér.
+{18:18} Tovább halad a domb oldalán, Bét-Arábától északra, majd leereszkedik a Jordán völgyébe.
+{18:19} Majd a domb oldalán húzódik, Bét-Hoglától északra, addig a pontig, ahol a Jordán a Holt-tengerbe torkollik. Ez tehát Benjámin déli határa.
+{18:20} Benjámin keleti határa a Jordán. Ezt a területet kapta Benjámin törzse. Ezen belül minden nemzetség megkapta a maga birtokát örökségül.
+{18:21} A következő városok kerültek Benjámin törzsének birtokába, nemzetségeik szerint: Jerikó, Bét-Hoglá, Émek-Kecíc,
+{18:22} Bét-Arábá, Cemáraim, Bétel,
+{18:23} Avvim, Párá, Ofrá,
+{18:24} Kefár-Ammóná, Ofní és Geba. Ez összesen 12 város, a hozzájuk tartozó falvakkal együtt.
+{18:25} Ezek a városok is Benjámin örökségéhez tartoztak: Gibeon, Ráma, Beérót,
+{18:26} Micpe, Kefírá, Mócá,
+{18:27} Rekem, Jirpeél, Taralá,
+{18:28} Célá, Elef és Jebúsz, vagyis Jeruzsálem, valamint Gibat és Kirját-Jeárim. Ez összesen 14 város, a hozzájuk tartozó falvakkal együtt. Tehát ez Benjámin törzsének területe, nemzetségeik szerint.
+{i19:1} Simeon törzsi területe
+{19:1} Az másodiknak kijelölt birtokterület a sorshúzás szerint Simeon törzsének jutott. Ők Júda törzsi területén belül kaptak saját birtokot.
+{19:2} Ezeket a városokat kapta Simeon törzse: Beérseba (vagyis Seba), Móládá,
+{19:3} Hacar-Súál, Bálá, Ecem,
+{19:4} Eltólad, Betúl, Horma,
+{19:5} Ciklág, Bét-Markábót, Hacar-Szúszá,
+{19:6} Bét-Lebáót és Sárúhen. Összesen 13 város, a hozzájuk tartozó falvakkal együtt.
+{19:7} Még ezeket a városokat is ők kapták: Ain, Rimmón, Eter és Ásán. Összesen 4 város, a hozzájuk tartozó falvakkal együtt.
+{19:8} Övék lett a délvidéken minden földterület és a falvak is, amelyek e városok körül terültek el, egészen Baalat-Beérig, vagyis a délvidéki Rámáig. Ez lett tehát Simeon törzsi területe nemzetségeik szerint.
+{19:9} Júda területe túl nagy volt Júda törzse számára, ezért Simeon törzse ezen a területen belül kapta meg a maga birtokát.
+{i19:10} Zebulon törzsi területe
+{19:10} A harmadiknak kijelölt birtokterület a sorshúzás szerint Zebulon törzsének jutott. Területük határa Szárídig ér.
+{19:11} Nyugatra halad Maralá felé, érinti Dabbesetet, majd az a patak a határ, amely Jokneámmal szemben folyik.
+{19:12} A másik oldalon a határ Száridtól keletre, Kiszlót-Tábor széle felé halad, majd Dobrat és Jáfía érintésével
+{19:13} tovább megy kelet felé, Gát-Héferig, azután Ét-Kácín, majd Rimmón városokhoz ér. Itt elfordul a határ Neá irányába.
+{19:14} Neá mellett a határ északra fordul és Hannátón városát érinti, majd a Jiftah-Él völgyben halad tovább.
+{19:15} Zebulon törzse örökségéhez tartozik még további 12 város, a körülöttük lévő falvakkal együtt. A 12 város között van Kattát, Nahalál, Simrón, Jidalá és Betlehem is.
+{19:16} Ez lett tehát Zebulon törzsi területe, nemzetségeik szerint.
+{i19:17} Issakár törzsi területe
+{19:17} A negyediknek kijelölt birtokterület a sorshúzás szerint Issakár törzsének jutott.
+{19:18} Ezeket a városokat kapták: Jezréel, Keszulót, Súném,
+{19:19} Hafáraim, Síón, Anáharat,
+{19:20} Rabbit, Kisjón, Ebec,
+{19:21} Remet, Én-Ganním, Én-Haddá és Bét-Paccéc.
+{19:22} Az ő északi határuk a Tábór-hegytől keletre húzódik a Jordánig. Hozzájuk tartozik még Sahacíma és Bétsemes is. Összesen 16 várost kaptak, a hozzájuk tartozó falvakkal együtt.
+{19:23} Ez lett tehát Issakár törzsi területe, nemzetségeik szerint.
+{i19:24} Ásér törzsi területe
+{19:24} Az ötödiknek kijelölt birtokterület a sorshúzás szerint Ásér törzsének jutott.
+{19:25} A következő városokat kapták: Helkat, Halí Beten, Aksáf,
+{19:26} Alammelek, Amád és Misál. Határuk nyugaton a Kármel-hegy, és a Libnat-patak.
+{19:27} Innen a határ kelet felé húzódik, Bét-Dágón felé, és Zebulon törzsi területét érinti. A Jiftah-Él-völgyben halad északra, elhalad Bét-Émek, Neíél és Kábul városa mellett.
+{19:28} Innen tovább halad Ebrón, Rahób, Hammón és Káná mellett egészen a nagy Szidón városának határáig.
+{19:29} Ezután a határ Ráma felé fordul, azután Tírusz erődített városának határát, majd Hószát érinti, végül a Földközi-tengerhez érkezik. Ásér
+{19:30} törzséhez tartozik még Mahalab, Akzib, Umma, Afík és Rahób városa is. Összesen 22 várost kaptak, a hozzájuk tartozó falvakkal együtt.
+{19:31} Ez lett tehát Ásér törzsi területe, nemzetségeik szerint.
+{i19:32} Naftáli törzsi területe
+{19:32} Az hatodiknak kijelölt birtokterület a sorshúzás szerint Naftáli törzsének jutott.
+{19:33} Törzsi területük északi határa Héleftől indul kelet felé, majd a Caanannim melletti nagy tölgyfához vezet, azután Adámí-Nekeb, Jabneél és Lakkúm érintésével a Jordánhoz érkezik.
+{19:34} A déli határ a Jordántól nyugat felé halad, Aznót-Tábor városát érinti, majd észak felé fordul, és Húkók városához érkezik. Naftáli területe délen Zebulon, nyugaton Ásér területével érintkezik, keleten pedig Júda területét érinti, a Jordán folyónál.
+{19:35} Naftáli birtokába kerültek a következő megerősített városok: Ciddím, Cér, Hammat, Rakkat, Kinneret,
+{19:36} Adámá, Ráma, Hácór,
+{19:37} Kedes, Edrei, Én-Hácór,
+{19:38} Jirón, Migdal-Él, Horém, Bét-Anát és Bétsemes. Összesen 19 várost kaptak, a hozzájuk tartozó falvakkal együtt.
+{19:39} Ez lett tehát Naftáli törzsi területe, nemzetségeik szerint.
+{i19:40} Dán törzsi területe
+{19:40} A hetediknek kijelölt birtokterület a sorshúzás szerint Dán törzsének jutott.
+{19:41} Az ő törzsi területükhöz tartoznak a következő városok: Corá, Estáól, Ír-Semes,
+{19:42} Saalabbin, Ajjálón, Jitlá
+{19:43} Élón, Timna, Ekron,
+{19:44} Eltelké, Gibbetón, Baalát,
+{19:45} Jehud, Bené-Barak, Gat-Rimmón,
+{19:46} Mé-Jarkón és Rakkón, a Jáfó (Joppa) melletti területtel együtt.
+{19:47} Ezek voltak tehát a Dán törzsének — nemzetségeik szerint — örökségül juttatott városok, a hozzájuk tartozó falvakkal együtt. Azonban Dán törzse nem tudta elfoglalni a maga
+{19:48} területét. Emiatt északra vonultak, megostromolták és elfoglalták Lais városát, annak lakóit kiirtották, és a helyükre telepedtek. A város nevét Dánra változtatták — törzsük ősapjának neve után.
+{i19:49} Józsué öröksége
+{19:49} Miután befejezték a föld felosztását, és mindegyik törzs megkapta a maga örökségét, akkor Izráel népének vezetői Józsuénak, Nún fiának is megadták a saját örökségét.
+{19:50} Az Örökkévaló parancsa szerint azt a várost adták neki, amelyet kért. Így lett Józsué birtoka Timnat-Szerah városa Efraim törzsi területén belül, a hegyvidéken. Józsué azután újjáépítette a várost, és ott telepedett le.
+{19:51} Tehát, ezeket a területeket és városokat osztották szét Izráel törzsei és azok nemzetségei között a vezetők: Eleázár főpap; Józsué, Nún fia és a törzsek fejedelmei. Sorsvetéssel végezték a felosztást Silóban, az Örökkévaló jelenlétében, a Találkozás Sátorának bejárata előtt. Így fejezték be a föld felosztását.
+{i20:1} Menedékvárosok
+{20:1} Az Örökkévaló ezt mondta Józsuénak:
+{20:2} „Mondd meg Izráelnek, hogy most jelöljék ki azokat a menedékvárosokat, amelyekről Mózes által szóltam!
+{20:3} Oda meneküljön az, aki nem szándékosan, hanem véletlen baleset folytán okozza valakinek a halálát. Ezek a városok nyújtsanak menedéket számára, és védjék meg az őt üldöző vérbosszuló rokontól.
+{20:4} Aki így menekül ezekbe a városokba, az jelentkezzen a város kapujánál az ott ülő vezetőknél. Mondja el nekik, hogyan történt az eset. Akkor, ha a vezetők menedéket nyújtanak neki, fogadják be a városba, és adjanak neki ott lakóhelyet.
+{20:5} Ha pedig a vérbosszuló rokon jelentkezne, a város vezetői ne szolgáltassák ki a menekültet neki. Hiszen nem szándékosan okozta a másik ember halálát, és nem gyűlölte azelőtt.
+{20:6} A menekült lakjon abban a városban, amíg a közösség elé állítják, és ítélnek ügyében; illetve ameddig az a főpap meg nem hal, aki abban az időben szolgálatban állt. Azután a menekült visszatérhet a saját városába és otthonába.”
+{20:7} Ennek megfelelően a következő városokat választották ki, hogy menedékül szolgáljanak a Jordántól nyugatra: Kedes — Galileában, Naftáli dombvidékén, Sikem — Efraim hegyvidékén, Kirját-Arba, vagyis Hebron — Júda hegyvidékén.
+{20:8} A Jordántól keletre pedig ezeket jelölték ki: Becer — Rúben törzsi területén, a fennsík pusztáján, Jerikóval átellenben, Rámót — Gileádban, Gád törzsi területén, Gólán — Básánban, Manassé törzsi területén.
+{20:9} Tehát ezeket a városokat jelölték ki, hogy menedékül szolgáljanak az Izráel népéhez tartozó olyan személyek számára; illetve az Izráelben lakó, de más nemzethez tartozó olyan jövevények számára, akik nem szándékosan okozzák valakinek a halálát. Az ilyen vétlen gyilkos ezekben a menedékvárosokban védelmet találhat a vérbosszuló rokon ellen, és ott lakhat addig, amíg a közösség elé nem áll, hogy ítéljenek ügyében.
+{i21:1} A léviták városai
+{21:1} Amikor Izráel népe még Silóban, Kánaán földjén táborozott, Lévi törzsének nemzetségfői odamentek a vezetőkhöz: Eleázár főpaphoz, Józsuéhoz és a törzsek fejedelmeihez.
+{21:2} Ezt mondták nekik: „Az Örökkévaló parancsolta Mózes által, hogy adjatok nekünk városokat, ahol letelepedjünk, és a városokhoz tartozó legelőket állataink számára.”
+{21:3} A vezetők ekkor, az Örökkévaló szavának engedelmeskedve, a többi törzs területéből a következő városokat jelölték ki és adták át — a hozzájuk tartozó legelőkkel együtt — Lévi törzsének.
+{21:4} A sorsolás szerint elsőnek Áron családja és leszármazottjai, vagyis a papok kaptak 13 várost, amelyek Júda, Simeon és Benjámin törzsi területén feküdtek. Áron és családja Kehát nemzetségébe, Lévi törzsébe tartozott.
+{21:5} Kehát nemzetségének másik része 10 várost kapott Efraim és Dán törzsi területén, valamint Manassé törzse felének területén.
+{21:6} Gérsón nemzetsége 13 várost kapott Issakár, Ásér és Naftáli törzsi területén, illetve Manassé törzse felének területén, Básánban.
+{21:7} Merári nemzetsége 12 várost kapott, amelyek Rúben, Gád és Zebulon törzsi területén feküdtek.
+{21:8} Így tehát Izráel vezetői sorsolás útján ezeket a városokat jelölték ki, és adták át Lévi nemzetségeinek, a városokhoz tartozó legelőkkel együtt. Mindent úgy tettek, ahogy az Örökkévaló megparancsolta Mózes által.
+{21:9} Az átadott városok a következők: Először Áron családja, vagyis a papok kaptak
+{21:10} városokat Júda és Simeon területén. Áron és családja Kehát nemzetségébe, Lévi törzsébe tartozott.
+{i21:11} Áron családjának városai
+{21:11} Ezek a városok a következők voltak: Kirját-Arba, vagyis Hebron, amely Júda hegyvidékén fekszik. Ezt a várost eredetileg „Arba városának” nevezték Arba után, aki az anákiak őse volt. A várossal együtt a körülötte fekvő legelőket is átadták Áron családjának.
+{21:12} A város körül fekvő falvak és szántóföldek azonban Káleb, Jefunne fia és családja tulajdonában maradtak, mert ők ezt örökségül kapták.
+{21:13} Hebron egyúttal menedékvárosnak is ki volt jelölve. Ez a város tehát Áron családjának, a papoknak a birtoka lett. Ezen kívül még megkapták Libna,
+{21:14} Jattír, Estemóa,
+{21:15} Holón, Debír,
+{21:16} Ain, Jutta és Bétsemes városokat is, minden esetben a hozzájuk tartozó legelőkkel együtt. Ez összesen 9 város, Júda és Simeon területén.
+{21:17} Benjámin törzsi területén a fentieken kívül még ezt a négy várost és a hozzájuk tartozó legelőket kapták a papok: Gibeon, Geba,
+{21:18} Anátót és Almón.
+{21:19} Tehát Áron családjának, a papoknak összesen 13 város jutott, azok legelőivel együtt.
+{i21:20} A Kehát nemzetség másik részének városai
+{21:20} A Kehát nemzetség többi családjának a következő városok jutottak, a hozzájuk tartozó legelőkkel együtt:
+{21:21} Négy város Efraim területén, a dombvidéken: Sikem, Gézer,
+{21:22} Kibcaim és Bét-Hórón,
+{21:23} azután további négy város Dán területén: Elteke, Gibbetón,
+{21:24} Ajjálón és Gat-Rimmón,
+{21:25} azután Manassé nyugati területén két város: Taanak és Gat-Rimmón.
+{21:26} Tehát a Kehát nemzetség másik része összesen 10 várost kapott.
+{i21:27} A Gérsón nemzetség városai
+{21:27} A Gérsón nemzetség családjainak a következő városok jutottak, a hozzájuk tartozó legelőkkel együtt: Manassé törzse keleti területén két várost kaptak: Básán vidékén Gólán városát, amely egyúttal menedékváros is lett, és Beesterát.
+{21:28} Issakár területén további négy várost kaptak. Ezek a következők: Kisjón, Dobrat,
+{21:29} Jarmút és Én-Ganním.
+{21:30} Ásér területén is négy város jutott nekik: Misál, Abdón,
+{21:31} Helkat és Rehób.
+{21:32} Naftáli területén, Galileában pedig ez a három város lett az övék: Kades, a menedékváros; Hammót-Dór és Kartán.
+{21:33} Tehát a Gérsón nemzetség összesen 13 várost kapott, a legelőkkel együtt.
+{i21:34} A Merári nemzetség városai
+{21:34} A Merári nemzetség családjainak jutottak a következő városok, a hozzájuk tartozó legelőkkel együtt: Zebulon törzsi területén négy város: Jokneám, Karta,
+{21:35} Dimna és Nahalál.
+{21:36} Rúben törzse ezt a négy várost adta a lévitáknak: Becer, Jahca,
+{21:37} Kedémót és Méfáat.
+{21:38} Gád törzsi területén ez a négy város lett az övék: a gileádi Rámót, a menedékváros, és Mahanaim,
+{21:39} Hesbón és Jazér.
+{21:40} A Lévi törzséből utolsónak Merári nemzetsége kapott összesen 12 várost.
+{21:41} Lévi törzsének tehát összesen 48 város jutott, amelyeket a különböző törzsek a maguk
+{21:42} örökségéből engedtek át nekik. Minden egyes várossal együtt a hozzá tartozó legelőket is megkapták.
+{i21:43} Összefoglalás
+{21:43} Így teljesítette be az Örökkévaló, amit megígért: Izráel népének birtokába adta azt a földet, amely felől megesküdött őseiknek, hogy az övék lesz. Izráel pedig birtokba vette a megígért földet és ott letelepedett.
+{21:44} Ezután nyugalmat adott nekik az Örökkévaló körös-körül, ahogyan őseiknek megígérte. Ellenségeik közül senki sem tudott ellenállni, mert az Örökkévaló kiszolgáltatta nekik minden ellenségüket.
+{21:45} Mindaz a jó, amit az Örökkévaló megígért Izráel népének, maradéktalanul beteljesedett. Semmi el nem maradt belőle.
+{i22:1} A Jordántól keletre lévő törzsek hazatérése
+{22:1} Ezután Józsué összehívta Rúben törzsét, Gád törzsét és Manassé törzsének keleti részét,
+{22:2} majd ezt mondta nekik: „Hűségesen teljesítettétek, amit Mózes, az Örökkévaló szolgája parancsolt nektek. Engedelmeskedtetek az én parancsaimnak is.
+{22:3} Kitartóan segítettétek testvéreiteket, a többi törzset hosszú időn át, ahogy Istenünk, az Örökkévaló meghagyta nektek.
+{22:4} Most pedig Istenünk, az Örökkévaló nyugalmat adott testvéreiteknek, ahogyan azt megígérte. Eljött az ideje, hogy ti is hazatérjetek, ki-ki a maga otthonába és családjához, a saját birtokára, amelyet még Mózes, az Örökkévaló szolgája adott nektek a Jordán keleti oldalán.
+{22:5} Soha el ne feledkezzetek a Törvényről és a rendelkezésekről, amelyeket Mózes, az Örökkévaló szolgája parancsolt nektek! Engedelmesen tartsátok meg azokat! Szeressétek az Örökkévalót, Istenünket! Járjatok az ő útján! Engedelmeskedjetek parancsainak, ragaszkodjatok az Örökkévalóhoz, szolgáljátok őt teljes szívvel-lélekkel!”
+{22:6} Majd Józsué megáldotta és elbocsátotta őket, hogy hazatérjenek. Így is történt.
+{22:7} (Manassé törzse egyik részének még Mózes adott örökséget a Jordán keleti oldalán, Básánban. A törzs másik részének viszont Józsué a Jordán nyugati oldalán jelölte ki a birtokát.) Amikor Józsué elbocsátotta Manassé törzsének keleti részét, megáldotta őket,
+{22:8} és ezt mondta nekik: „Sokan közületek nagyon meggazdagodtak! Rengeteg jószáguk van, sok zsákmányt szereztek: ezüstöt, aranyat, bronzot, vasat meg sok ruhát. Mikor hazatértek, osszátok el egymás között ezeket!”
+{22:9} Ezután Rúben törzse, Gád törzse és Manassé törzsének keleti része eltávozott Kánaán földjéről, Silóból, ahol Izráel többi törzse táborozott. Hazaindultak a saját birtokaikra, Gileád földjére, a Jordán keleti oldalára, ahol az Örökkévaló Mózes által kijelölte örökségüket.
+{22:10} Amikor — útban hazafelé — Gelíótba értek, amely a Jordán nyugati partján, Kánaán földjén van, ott ezek a törzsek együttes erővel egy feltűnően nagy oltárt építettek.
+{22:11} Izráel többi törzse tudomást szerzett róla, hogy ez a két és fél törzs oltárt épített magának Kánaán földjének határán, a Jordán mellett, az
+{22:12} izráeli oldalon — és ezen nagyon felháborodtak. Összehívták az egész közösséget Silóba, és elhatározták, hogy hadat indítanak a két és fél törzs ellen.
+{22:13} Előbb azonban Fineás, Eleázár főpap fia vezetésével elküldték hozzájuk
+{22:14} Gileádba a tíz törzs vezetőit: minden törzsből a törzs fejedelmét.
+{22:15} A követek eljutottak Gileádba, ahol ezt mondták a két és fél törzs vezetőinek:
+{22:16} „Ezt üzeni nektek az Örökkévaló egész közössége: »Miért vétkeztek Izráel Istene ellen? Miért fordultatok el tőle? Miért építettetek külön oltárt magatoknak? Miért lázadtok most az Örökkévaló ellen azzal, hogy tilalma ellenére másik oltárt emeltek?
+{22:17} Hát nem okultatok abból, amikor Peór miatt vétkeztünk az Örökkévaló ellen? Hiszen a mai napig viseljük annak a lázadásnak a következményeit! Milyen csapás érte az Örökkévaló közösségét akkor!
+{22:18} Most meg ti akartok különszakadni az Örökkévalótól, és elfordultok tőle? Holnap az Örökkévaló Izráel egész közösségére megharagszik emiatt!
+{22:19} Ha úgy gondoljátok, hogy a saját örökségetek területe tisztátalan föld, ahol nem lehet az Örökkévalónak áldozni, akkor jöjjetek vissza a Jordán nyugati oldalára, az Örökkévaló földjére, ahol az ő lakóhelye, a Szent Sátor van! Telepedjetek le a Jordán nyugati oldalán és lakjatok közöttünk! Csak ne lázadjatok az Örökkévaló ellen vagy ellenünk azzal, hogy külön oltárt építetek magatoknak — azon kívül, amely Istenünk, az Örökkévaló oltára!
+{22:20} Emlékezzetek Ákánra, Zerah fiára, aki vétkezett az Örökkévalónak szentelt dolgokkal! Emiatt azonban az Örökkévaló népünk egész közösségére megharagudott, nem igaz? Nemcsak Ákán pusztult el a saját vétke miatt, hanem sokan mások is!«”
+{22:21} Rúben és Gád törzsének, meg Manassé törzse keleti felének a férfiai így feleltek:
+{22:22} „Az Örökkévaló az Istenek Istene! Bizony az Örökkévaló, az Istenek Istene jól tudja, hogy nem lettünk hűtlenek hozzá! Tudjátok meg hát ti is! Az Örökkévaló legyen a tanúnk, hogy nem lázadtunk ellene! Úgy segítsen meg bennünket, hogy igenis hűségesek maradtunk hozzá!
+{22:23} Ő jól tudja, hogy azt az oltárt nem azért építettük, hogy elszakadjunk tőle. Egyáltalán nem akartunk ott semmiféle áldozatot bemutatni! Az Örökkévaló maga büntessen meg bennünket, ha ez nem igaz!
+{22:24} Azért építettük, mert attól tartottunk, hogy idővel a ti gyermekeitek majd azt találják mondani a mi utódainknak: »Mi közötök van nektek Izráel Istenéhez, az Örökkévalóhoz?
+{22:25} Hiszen az Örökkévaló a Jordán folyót tette határrá közöttünk! Így hát nektek, akik Rúben és Gád törzséhez tartoztok, nincs többé semmi közötök az Örökkévalóhoz!« Attól féltünk, hogy ily módon majd — a ti gyermekeitek elutasítása miatt — a mi utódaink már nem fogják az Örökkévalót tisztelni és félni.
+{22:26} Ezért azt gondoltuk, hogy oltárt építünk, de nem arra a célra, hogy ott áldozzunk,
+{22:27} hanem annak a megerősítésére, hogy mi is az Örökkévalót tiszteljük. Nekünk is jogunk van áldozatokkal tisztelni az Örökkévalót a Szent Sátor oltáránál. Azért építettük azt az oltárt a Jordán mellett, hogy legyen tanúja ennek az elhatározásunknak. Legyen ez bizonyíték a számotokra és az eljövendő nemzedékek számára is, és ezt a ti utódaitok se vonhassák majd soha kétségbe. Ne mondhassák a mi leszármazottjainknak, hogy nincs közük az Örökkévalóhoz.
+{22:28} Ha valaki a jövőben mégis ezt mondaná, annak utódaink majd ezt tudják mondani: »Nézzétek ezt az oltárt, amelyet elődeink építettek! Pontos másolata ez az Örökkévaló oltárának. De nem arra szolgál, hogy áldozatokat mutassanak be rajta, hanem azt tanúsítja, hogy mi is Izráel közösségéhez tartozunk.«
+{22:29} Isten ments, hogy lázadjunk az Örökkévaló ellen, és hűtlenül elhagyjuk őt! Eszünkbe sem jutott, hogy másik oltárt építsünk magunknak, és azon áldozzunk! Tudjuk, hogy Istenünk, az Örökkévaló egyetlen igazi oltára az, amelyik a Szent Sátor előtt áll!”
+{22:30} Fineás pap és az általa vezetett küldöttség ezt megelégedéssel hallgatta, és elfogadta a két és fél törzs válaszát.
+{22:31} Majd Fineás így válaszolt nekik: „Most tudtuk meg igazán, hogy az Örökkévaló velünk van, mert látjuk, hogy valóban nem lettetek hűtlenek hozzá! Így hát nem kell attól tartanunk, hogy az Örökkévaló egész Izráel népére megharagszik.”
+{22:32} Ezután a Fineás vezette küldöttség elbúcsúzott a Jordántól keletre élő két és fél törzstől, és Gileádból hazatértek Kánaán földjére. Elmondták a többi izráeli törzsnek, hogy mit válaszoltak a Jordánon túl élő testvéreik.
+{22:33} Ezzel a válasszal mindenki meg volt elégedve. Izráel egész népe dicsérte az Örökkévalót, és természetesen nem gondoltak többé arra, hogy testvéreik ellen harcoljanak, és területüket elpusztítsák.
+{22:34} Rúben és Gád törzse pedig elnevezte az általuk épített oltárt „Tanú”-nak, mivel ez tanúskodik arról, hogy a Jordántól keletre és nyugatra élő izráeli törzsek számára egyaránt az Örökkévaló az Isten.
+{i23:1} Józsué búcsúzik Izráel népétől
+{23:1} Az Örökkévaló békességet adott Izráelnek körös-körül minden ellenségüktől, így biztonságban lakhattak. Hosszú idő telt el, és Józsué nagyon megöregedett.
+{23:2} Ekkor összehívta egész Izráelt, s annak vezetőit: a törzsek fejedelmeit, a bírákat és a tisztségviselőket. Ezt mondta nekik: „Figyeljetek rám! Én már nagyon megöregedtem, s nem sok időm van hátra.
+{23:3} Láttátok, hogy Istenünk, az Örökkévaló mit tett értünk, s hogyan bánt ezekkel a nemzetekkel! Igen, az Örökkévaló maga harcolt értünk!
+{23:4} Látjátok, hogy örökséget osztottam közöttetek a Jordántól a Földközi-tengerig. Sorsolással kijelöltem számotokra lakóhelyül azoknak a nemzeteknek a földjeit, amelyeket kiirtottam előletek, és azokét is, amelyek még megmaradtak közöttünk.
+{23:5} De Istenünk, az Örökkévaló azokat is ki fogja űzni előletek, akik még itt maradtak. Ti pedig birtokba veszitek a földjeiket, ahogy Istenünk, az Örökkévaló azt megígérte.
+{23:6} Engedelmeskedjetek azoknak a parancsoknak és rendelkezéseknek, amelyek meg vannak írva Mózes törvényének könyvében! Ne térjetek el azoktól se jobbra, se balra!
+{23:7} Vigyázzatok, hogy ne keveredjetek össze azokkal az idegen nemzetekkel, amelyek még megmaradtak közöttetek! Isteneik nevét még csak ne is említsétek, ne esküdjetek a nevükre, ne szolgáljátok őket, és ne hajoljatok meg előttük!
+{23:8} Hűségesen ragaszkodjatok Istenünkhöz, az Örökkévalóhoz, ahogy eddig is tettétek!
+{23:9} Az Örökkévaló űzte ki előletek azokat a népes és erős nemzeteket! Bizony, mindeddig senki sem volt képes ellenállni, mert az Örökkévaló velünk volt!
+{23:10} Közületek egy legyőzhet ezret, mert Istenünk, az Örökkévaló maga harcol értetek, ahogyan azt megígérte.
+{23:11} Mindenek fölött azonban teljes szívvel-lélekkel szeressétek Istenünket, az Örökkévalót, mert csak így őrizhetitek meg magatokat.
+{23:12} Tudjátok meg, hogy ha elfordultok tőle, ha csatlakoztok azokhoz az idegen nemzetekhez, amelyek még itt maradtak közöttetek, ha összeházasodtok és összekeveredtek velük,
+{23:13} akkor Istenünk, az Örökkévaló nem fogja kiűzni őket, hanem végleg itt maradnak közöttetek. Akkor pedig csapdává lesznek majd a számotokra, amelybe beleestek. Ostorrá lesznek, amely a hátatokat szaggatja majd. Szálkává lesznek, amely a szemeteket szúrja majd. Végül pedig elhurcolnak benneteket erről a jó földről, amelyet Istenünk, az Örökkévaló adott nektek!
+{23:14} Hallgassatok reám, mert én már nem sokáig élek! Tudjátok, hogy Istenünk, az Örökkévaló minden nektek tett jó ígéretét beteljesítette! Bizony, semmi abból el nem maradt, amit nektek ígért!
+{23:15} De vigyázzatok, mert ahogy beteljesítette minden jó ígéretét, úgy fogja valóra váltani minden fenyegetését is! Hiszen azt is megígérte, hogy ha megtöritek a szövetségét, amelynek megtartását
+{23:16} nektek megparancsolta; ha tilalma ellenére mégis más isteneket imádtok, és meghajoltok előttük; akkor haragra lobban ellenetek, és hamarosan elhurcolnak benneteket erről a jó földről, amelyet nektek adott!”
+{i24:1} Józsué prófétál és búcsúzik
+{24:1} Ezután Józsué összehívta Sikembe Izráel összes törzseit, minden vezetőjét, fejedelmét, bíráját és tisztségviselőjét. Valamennyien megálltak Isten jelenlétében,
+{24:2} és Józsué így szólt az egész néphez: „Ezt mondja az Örökkévaló, Izráel Istene: »Ősapáitok a régi időkben az Eufráteszen túl éltek, és más isteneket imádtak, ahogyan Táré is, Ábrahám és Náhór apja.
+{24:3} Én azonban kiválasztottam Ábrahámot, ősapátokat, és kihoztam onnan Kánaán földjére, majd azon is keresztülvezettem. Megszaporítottam utódait: először Izsákot adtam neki.
+{24:4} Azután két fiút adtam Izsáknak: Jákóbot és Ézsaut. Majd Ézsaut letelepítettem a Széír-hegységben. Őseitek, Jákób és fiai pedig lementek Egyiptomba.
+{24:5} Elküldtem Mózest és Áront, és csapásokat küldtem Egyiptomra, azután kihoztalak onnan titeket.
+{24:6} Mikor őseitek a Vörös-tengerhez értek, az egyiptomiak harci szekerekkel üldözőbe vették, és a tengerparton utolérték őket.
+{24:7} Akkor őseitek az Örökkévalóhoz kiáltottak segítségért, ő pedig sötétséget küldött közétek és egyiptomiak közé, hogy elválasszon tőlük titeket. Majd a tenger vizét az egyiptomiakra zúdította, és teljesen elborította őket. Láttátok, mit tettem Egyiptommal! Majd hosszú ideig a pusztában laktatok.
+{24:8} Azután bevittelek benneteket az emóriak földjére, akik a Jordán keleti oldalán laktak. Harcoltak ellenetek, de nektek adtam a győzelmet, hogy elfoglaljátok országukat, és kiirtottam őket előletek.
+{24:9} Azután Bálák, Cippór fia, Moáb királya támadt Izráel ellen, és hívatta Bálámot, Beór fiát, hogy átkozzon meg titeket.
+{24:10} De én nem hallgattam Bálámra, ő pedig így megáldott titeket. Megmentettelek benneteket ettől a veszedelemtől is.
+{24:11} Majd átkeltetek a Jordánon, és Jerikóhoz érkeztetek, amelynek lakói harcoltak ellenetek, akárcsak a többi nemzet: emóriak, perizziek, kánaániak, hettiták, girgásiak, hivviek és jebúsziak. De valamennyiüket kiszolgáltattam nektek.
+{24:12} Rémületet és rettegést küldtem rájuk, és kiűztem előletek az emóriak két királyát. Nem a ti kardotoktól és nyilaitoktól ijedtek meg!
+{24:13} Azután nektek adtam olyan szántóföldeket, amelyeket korábban nem ti műveltetek, és városokat, amelyeket nem ti építettetek, mégis ti laktok bennük. Szőlőket és olajfaligeteket adtam nektek, amelyeket nem ti telepítettetek, gyümölcseiket most mégis ti élvezitek.«”
+{24:14} Ezután Józsué szólt a néphez: „Most hát tiszteljétek és féljétek az Örökkévalót, szolgáljátok és imádjátok őt hűségesen és szívvel-lélekkel! Dobjátok el magatoktól azokat az isteneket, akiket őseitek imádtak még az Eufráteszen túl, vagy Egyiptomban! Egyedül csak az Örökkévalót szolgáljátok!
+{24:15} Ha pedig nem akarjátok az Örökkévalót szolgálni, akkor döntsétek el még ma, hogy kit fogtok szolgálni! Választhatjátok őseitek isteneit, akiket ők szolgáltak a folyón túl, vagy az emóriak isteneit, akiknek a földjén laktok, de én és a családom az Örökkévalót fogjuk szolgálni!”
+{24:16} Erre a nép így válaszolt Józsuénak: „Isten mentsen, hogy elhagyjuk az Örökkévalót, és más isteneket szolgáljunk!
+{24:17} Az Örökkévaló a mi Istenünk, aki kihozta őseinket és egész népünket Egyiptomból, a szolgaságból! Ő az, aki a szemünk láttára nagy csodákat tett, megőrzött bennünket amerre mentünk, s amíg sok nép között átvonultunk.
+{24:18} Az Örökkévaló az, aki kiűzte előlünk az összes idegen nemzetet, még az emóriakat is, akik ezen a földön előttünk laktak. Bizony, mi is az Örökkévalót fogjuk szolgálni, mert ő a mi Istenünk!”
+{24:19} De Józsué ezt felelte a népnek: „Ha elhagyjátok az Örökkévalót, és továbbra is más isteneket imádtok, akkor az Örökkévaló ellenetek fordul, és csapásokkal sújt benneteket, amíg teljesen el nem pusztultok, annak ellenére, hogy korábban annyi jót tett veletek.
+{24:20} Nem lesztek képesek az Örökkévalót szolgálni, ha közben más isteneket is szolgáltok, mert Istenünk, az Örökkévaló szent és féltőn szerető Isten, aki nem szenvedheti, ha más isteneket imádtok! Nem nézi el nektek bűneiteket, és nem tűri el hűtlenségeiteket!”
+{24:21} A nép azonban így válaszolt: „Az Örökkévalót fogjuk szolgálni, és nem fordulunk el tőle!”
+{24:22} „Ti magatok vagytok a tanúk rá, hogy az Örökkévalót választottátok: őt akarjátok imádni és szolgálni!” — mondta végül Józsué. „Igen, tanúk vagyunk!” — felelte a nép.
+{24:23} „Akkor hát irtsátok ki magatok közül az idegen isteneket! Szeressétek az Örökkévalót, Izráel Istenét teljes szívvel-lélekkel!” — mondta Józsué.
+{24:24} „Az Örökkévalót, Istenünket fogjuk imádni és szolgálni, és engedelmeskedünk a szavának!” — felelte rá a nép.
+{i24:25} A szövetség megújítása Sikemben
+{24:25} Azon a napon Józsué szövetséget kötött a nép és az Örökkévaló között Sikemben. Ez a szövetség törvényeket és rendelkezéseket tartalmazott a nép számára, hogy azokat kövessék.
+{24:26} Azután mindezeket a dolgokat feljegyezte az Isten Törvényének Könyvében. Majd pedig elrendelte, hogy egy nagy követ állítsanak föl egy tölgyfa alatt, az Örökkévaló Szent Sátora közelében, hogy az majd erre a szövetségkötésre emlékeztessen.
+{24:27} Ezt mondta az egész népnek: „Ez a kő hallotta mindazt, amit az Örökkévaló nekünk mondott! Ez a kő fog tanúskodni ellenetek, ha hűtlenek lesztek az Örökkévalóhoz!”
+{24:28} Majd Józsué elbocsátotta a népet, s mindenki hazatért a saját birtokára.
+{i24:29} Józsué és Eleázár halála
+{24:29} Ezután Józsué, Nún fia, az Örökkévaló szolgája 110 éves korában meghalt.
+{24:30} A saját birtokán temették el, Timnat-Szerahban, amely Efraim hegyvidékén, a Gaas hegytől északra található.
+{24:31} Izráel az Örökkévalót szolgálta Józsué egész életében, és még azután is, ameddig azok az idős férfiak vezették, akik túlélték Józsuét. Ők még a saját szemükkel látták az Örökkévaló hatalmas tetteit, amelyeket Izráelért vitt végbe.
+{24:32} Amikor Izráel népe kijött Egyiptomból, magukkal hozták József földi maradványait is, amelyet később Sikemben temettek el. Azt a területet még Jákób vásárolta meg temetkezőhelynek Hamórnak, Sikem apjának a leszármazottjaitól 100 mérték ezüstért. Így lett ez a hely József utódainak az öröksége.
+{24:33} Ebben az időben halt meg Eleázár főpap, Áron fia. Gibeában, Eleázár fiának, Fineásnak a városában temették el, amely Efraim hegyvidékén található.
